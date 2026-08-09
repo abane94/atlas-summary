@@ -25,10 +25,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Pin to Node 22 (Quartz's .node-version). `latest` (Node 26+) breaks
+      # @quartz-themes/core's install-then-require of theme packages mid-build.
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: latest
+          node-version: "22"
 
       - name: Generate vault markdown
         run: node lib/generate-markdown.ts
@@ -39,6 +41,29 @@ jobs:
           repository: jackyzha0/quartz
           ref: ${{ env.QUARTZ_COMMIT }}
           path: quartz
+
+      # npm blocks dependency install scripts unless allowlisted in package.json.
+      # approve can't run before install (needs the tree), so write allowScripts first.
+      # Fail if Quartz already ships allowScripts so we can drop this workaround.
+      - name: Allow Quartz install scripts
+        working-directory: quartz
+        run: |
+          node <<'EOF'
+          const fs = require('fs')
+          const pkg = JSON.parse(fs.readFileSync('package.json', 'utf8'))
+          if (pkg.allowScripts != null) {
+            console.error(
+              'Quartz package.json already defines allowScripts; remove this workflow step.',
+            )
+            process.exit(1)
+          }
+          pkg.allowScripts = {
+            '@parcel/watcher': true,
+            esbuild: true,
+            sharp: true,
+          }
+          fs.writeFileSync('package.json', `${JSON.stringify(pkg, null, 2)}\n`)
+          EOF
 
       - name: Install Quartz dependencies
         working-directory: quartz
@@ -59,6 +84,12 @@ jobs:
       - name: Install Quartz plugins
         working-directory: quartz
         run: npx quartz plugin install
+
+      # ttrpg template needs this; installing before build avoids core's fragile
+      # mid-build `npm install` + same-process require (broken on Node 26+).
+      - name: Install Quartz theme package
+        working-directory: quartz
+        run: npm install @quartz-themes/its-theme
 
       - name: Build Quartz
         working-directory: quartz
