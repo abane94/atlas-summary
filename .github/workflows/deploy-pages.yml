@@ -78,7 +78,7 @@ jobs:
           -s "../vault"
           -X copy
           -l shortest
-          -b atlas.husanu.com
+          -b abane94.github.io/atlas-summary
           -v
 
       - name: Install Quartz plugins
