@@ -1,0 +1,41 @@
+{
+  "name": "Raven Queen",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/npc/raven_queen.md",
+  "description": "",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Reveals she was once mortal.",
+        "States she understands mortal perspectives because of her past.",
+        "Has witnessed Sylan and Dana on the Everfalls.",
+        "Admits the party has exceeded some of her expectations.",
+        "Expresses confidence in Sylan's determination while acknowledging Walker and Ord have begun to prove themselves.",
+        "Offers to guide the party but warns against wasting time or treating death frivolously.",
+        "Implies some party members have very few chances remaining.",
+        "Reveals she was once mortal before becoming what she is now.",
+        "States she has walked among mortals and has seen some members of the party on the Everfalls.",
+        "Admits the party has surpassed some of her expectations.",
+        "Offers to guide the party but warns against wasting their lives or treating death carelessly.",
+        "Confirms Sylan has been given a weapon and serves as a talon of her order.",
+        "Her appearance shifts between a regal masked humanoid and a shadowy harpy-like form with black wings.",
+        "Gives Sylan final guidance focused on valuing life rather than expecting death.",
+        "Explicitly describes Sylan as 'a talon of my order, not a butcher,' defining how she expects him to use the power she granted him.",
+        "Departs by transforming into a winged, shadow-covered form and flying away."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What did she witness involving Sylan and Dana on the Everfalls?",
+    "Which party members have very few chances remaining?",
+    "What exactly are the Everfalls and what did she witness there?",
+    "What responsibilities come with being a talon of her order?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.458Z",
+  "updatedAt": "2026-08-07T02:41:29.458Z"
+}

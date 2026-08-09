@@ -1,0 +1,21 @@
+{
+  "name": "Feldspar",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/feldspar.md",
+  "description": "",
+  "type": "Location",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Reinforced as the arch focused on magical knowledge, science, alchemy, and experimentation."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.458Z",
+  "updatedAt": "2026-08-07T02:41:29.458Z"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pitel",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/pitel.md",
+  "description": "",
+  "type": "Location",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Its keystone is the first one presented to Gerk as a possible choice.",
+        "The party recalls it as the elemental Arch while discussing options."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

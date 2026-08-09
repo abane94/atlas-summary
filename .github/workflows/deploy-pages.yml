@@ -1,0 +1,81 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  # Pin Quartz so builds stay reproducible. Bump intentionally when upgrading.
+  QUARTZ_COMMIT: 74b3fc9efd0caafea3dbcd846ddf1f06855b6d2a
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: latest
+
+      - name: Generate vault markdown
+        run: node lib/generate-markdown.ts
+
+      - name: Checkout Quartz
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: ${{ env.QUARTZ_COMMIT }}
+          path: quartz
+
+      - name: Install Quartz dependencies
+        working-directory: quartz
+        run: npm ci
+
+      - name: Create Quartz site
+        working-directory: quartz
+        run: >
+          npx quartz create
+          -t ttrpg
+          -d content
+          -s "../vault"
+          -X copy
+          -l shortest
+          -b atlas.husanu.com
+          -v
+
+      - name: Install Quartz plugins
+        working-directory: quartz
+        run: npx quartz plugin install
+
+      - name: Build Quartz
+        working-directory: quartz
+        run: npx quartz build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

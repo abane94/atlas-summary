@@ -1,0 +1,24 @@
+{
+  "name": "Langdale",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/langdale.md",
+  "description": "",
+  "type": "Location",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "The forest revealed through one portal appears to share the same flora and fauna as the forests surrounding Langdale.",
+        "Walker's recognition of a familiar tree further supports that the destination was near Langdale.",
+        "The portal appears to connect to a forest in the vicinity of Langdale.",
+        "The surrounding flora and fauna closely match the forests around the party's stronghold."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.458Z",
+  "updatedAt": "2026-08-07T02:41:29.458Z"
+}

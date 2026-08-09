@@ -1,0 +1,23 @@
+{
+  "name": "Everfalls",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/everfalls.md",
+  "description": "",
+  "type": "Location",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "The Raven Queen states she has seen Sylan and Dana on the Everfalls."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Why were Sylan and Dana specifically mentioned in connection with the Everfalls?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.458Z",
+  "updatedAt": "2026-08-07T02:41:29.458Z"
+}

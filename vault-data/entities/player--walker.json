@@ -1,0 +1,31 @@
+{
+  "name": "Walker",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/player/walker.md",
+  "description": "",
+  "type": "PLAYER",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Returns the Midgar keystone to Plymouth so it can be formally bestowed upon Gerk.",
+        "Is offered stewardship of the Keystone of La-rel because he is the only party member not originally from Midgar.",
+        "Declines stewardship of La-rel despite it being his birthplace.",
+        "Determines that the Reach has become his true home after reflecting with Glimmen.",
+        "Accepts the Keystone of the Reach.",
+        "Chooses to protect the Reach instead of La-rel because he feels the Reach is now his true home.",
+        "States that although La-rel remains important to him, it no longer defines who he is.",
+        "Recognizes a distinctive tree from his past travels, helping confirm the portal exits near Langdale.",
+        "Avoids explaining to Plymouth how he is able to create portals."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What is the true source of Walker's portal-travel ability?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

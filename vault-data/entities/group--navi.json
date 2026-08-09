@@ -1,0 +1,32 @@
+{
+  "name": "Navi",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/group/navi.md",
+  "description": "",
+  "type": "GROUP",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Were reportedly searching for a child whose mother died while the child survived, according to the journal described by Sylan.",
+        "The Mother's Prayer is described as a sacred tradition among the Navi.",
+        "Historically used the prophecy to identify individuals who would aid their exploration and protection of Atlas.",
+        "Very few Navi remain alive today according to Plymouth.",
+        "Treat the Mother's Prayer as a sacred tradition.",
+        "Historically used the prophecy to identify individuals who would aid their exploration of Atlas.",
+        "State that very few Navi remain.",
+        "Keystone keepers are considered honorary members of the Navi by virtue of becoming Children of the Great Eldarin Tree.",
+        "Honorary membership can be bestowed upon outsiders.",
+        "A Child of the Tree is accepted as a brother among them."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Why were the Navi searching for this child?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

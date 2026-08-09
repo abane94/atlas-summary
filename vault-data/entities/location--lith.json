@@ -1,0 +1,29 @@
+{
+  "name": "Lith",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/lith.md",
+  "description": "",
+  "type": "Location",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Its people intentionally abandoned conventional magic.",
+        "Its culture centers on folklore, cryptids, fairy tales, and fragmented glimpses of the wider world.",
+        "Magically gifted visitors would likely be revered rather than feared.",
+        "Its people reject formal magic but unknowingly preserve it through folklore, fairy tales, legends, and cryptids.",
+        "Visitors who openly use magic may be viewed as witches or deities.",
+        "Strange occurrences from other realms become local myths.",
+        "Ciri becomes the official keeper of Lith's keystone.",
+        "Lith publicly rejects magic, treating it as folklore, fairy tales, and cryptids despite genuine magic existing there.",
+        "Occasional planar gaps allow creatures from other realms to appear, becoming the basis of local legends."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

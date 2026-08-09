@@ -1,0 +1,30 @@
+{
+  "name": "Great Tree",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/concept/great_tree.md",
+  "description": "",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Serves as the metaphorical source of the sons and daughters chosen by the Mother's Prayer.",
+        "Each chosen individual is described as fruit produced by the tree.",
+        "If one chosen individual does not fulfill the role, another bud may eventually grow.",
+        "Gerk is described as a son/child of the Great Tree.",
+        "The Great Tree apparently has multiple sons and daughters besides Gerk.",
+        "Those who join Gerk become metaphorical brothers and sisters to him and relatives of the Great Tree's other children."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What is the true nature of the Great Tree beyond the metaphor?",
+    "What exactly is the Great Tree?",
+    "What responsibilities or powers come from joining Gerk under the Great Tree?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

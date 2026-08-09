@@ -1,0 +1,29 @@
+{
+  "name": "Kit Anger",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/npc/kit_anger.md",
+  "description": "",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Becomes noticeably interested and begins closely listening once Sylan starts discussing the journal and Gerk.",
+        "Became visibly interested once discussion turned to the journal and Gerk.",
+        "Moved closer to observe Gerk after Sylan revealed his theory.",
+        "Will help safeguard the unclaimed La-rel and Terov keystones until successors are found.",
+        "Provides Dana with a bottle of amber liquor after she asks for a drink.",
+        "Joins Dana in sitting together and sharing drinks while the party unwinds."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Why does Kit Anger react so strongly to the discussion?",
+    "Why did the discussion about Gerk attract Kit Anger's attention?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Ciri",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/player/ciri.md",
+  "description": "",
+  "type": "PLAYER",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Chooses to protect Lith after hearing about the remaining arches."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.458Z",
+  "updatedAt": "2026-08-07T02:41:29.458Z"
+}

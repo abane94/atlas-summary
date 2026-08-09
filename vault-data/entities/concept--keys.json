@@ -1,0 +1,26 @@
+{
+  "name": "Keys",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/concept/keys.md",
+  "description": "",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "The party now possesses the keys referenced by Emhet.",
+        "The keys appear capable of opening portals to distant locations.",
+        "Controlling the destination appears to require skill or mastery not yet achieved."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What governs where the portals open?",
+    "How can the party intentionally choose destinations?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.458Z",
+  "updatedAt": "2026-08-07T02:41:29.458Z"
+}

@@ -1,0 +1,225 @@
+{
+    "plotSections": [
+        {
+            "title": "The Ceremony of the Doorman",
+            "bullets": [
+                "Plymouth Gawater formally explains the true significance of Gerk's role as a 'Child of the Tree' before the assembled party, while Kit Anger, Juten Prime, Elrus, and Araden deliberately step back to allow the ceremony to proceed without interference.",
+                "The Eldarin Tree is revealed to be the sacred source from which the Navi derived the keystones by studying and distilling the tree's growth rings rather than carving them directly from wood.",
+                "The creation of the keystones unintentionally began the Mother's Prayer prophecy, which periodically chooses individuals to safeguard the prosperity of all Atlas.",
+                "Gerk accepts the responsibility of becoming the first Doorman in many years, a guardian empowered to open, close, protect, and steward an Arch rather than merely hide its keystone.",
+                "Plymouth explains that previous keepers were only charged with preserving keystones, while the new generation of Doormen are expected to actively improve and protect their assigned realms."
+            ]
+        },
+        {
+            "title": "Selection of the Keystones",
+            "bullets": [
+                "Plymouth initially offers Gerk the keystone of Pitel, but Gerk learns he may freely choose which Arch to become Doorman of.",
+                "After discussing the various realms with his companions, Gerk chooses Midgar's keystone, which Walker had previously been carrying.",
+                "Plymouth formally entrusts Gerk with the Keystone of Midgar, emphasizing both its history and the greater responsibilities that now accompany it.",
+                "As Gerk accepts the keystone, white flower petals blow through the cavern and a mysterious feminine figure appears again, walking through empty space while leaving a trail of white flowers.",
+                "The party confirms they can all see the mysterious woman and flowers this time, although Plymouth appears more interested in completing the ceremony than investigating immediately.",
+                "Sylan is then offered and accepts stewardship of the Keystone of Gilbrick because of his connection to that realm.",
+                "Plymouth next offers Walker stewardship of the Keystone of La-rel, noting that Walker is the only member of the party not originally from Midgar."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party assembles around Gerk as the keystone ceremony begins.",
+        "Kit Anger, Juten Prime, Elrus, and Araden intentionally refrain from interfering with the ceremony.",
+        "Plymouth explains the history of the Eldarin Tree and its connection to the Navi.",
+        "Plymouth reveals that the keystones were created by studying and distilling the rings of the Eldarin Tree.",
+        "Plymouth reveals that creating the keystones unintentionally initiated the Mother's Prayer prophecy.",
+        "Plymouth explains that Gerk is becoming the first Doorman of an Arch in many years.",
+        "Gerk learns that a Doorman is responsible for opening, closing, protecting, and caring for an Arch.",
+        "Plymouth first presents Gerk with the Keystone of Pitel.",
+        "Gerk consults the party before making his decision.",
+        "Gerk chooses to become the Doorman of Midgar.",
+        "Walker returns the Midgar keystone to Plymouth, who formally presents it to Gerk.",
+        "Plymouth explains that Gerk's duties exceed those of previous keepers, requiring him to actively improve Midgar.",
+        "When Gerk accepts the keystone, white flower petals appear and the mysterious woman returns, walking through the air and leaving a trail of white flowers.",
+        "The rest of the party confirms they can now see the mysterious woman as well.",
+        "Gerk briefly attempts to follow the woman but is persuaded to finish the ceremony first.",
+        "Plymouth offers Sylan the Keystone of Gilbrick, which Sylan accepts.",
+        "Plymouth offers Walker the Keystone of La-rel."
+    ],
+    "entities": {
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and friend of the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Explains that the Eldarin Tree is the sacred origin of the keystones.",
+                "Reveals the Navi created the keystones by studying and distilling the rings of the Eldarin Tree.",
+                "Reveals that creating the keystones unintentionally began the Mother's Prayer prophecy.",
+                "Performs the formal ceremony appointing new Doormen.",
+                "Explains that previous keepers only preserved keystones while the new Doormen must actively protect and improve their assigned realms.",
+                "Personally presents the Midgar, Gilbrick, and La-rel keystones during the ceremony."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats the ceremony with great reverence and considers the prophecy something that should be allowed to unfold naturally."
+            ],
+            "quotesThemes": [
+                "The Mother's Prayer exists to preserve the health and prosperity of all Atlas.",
+                "The new generation must do more than simply preserve the realms."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Accepts becoming the first Doorman in many years.",
+                "Chooses stewardship of the Keystone of Midgar after learning he may choose any Arch.",
+                "Learns that his responsibilities include opening, closing, protecting, and improving Midgar.",
+                "Sees the mysterious woman and wishes to follow her immediately before completing the ceremony."
+            ],
+            "titles": [
+                "Doorman of Midgar",
+                "Child of the Tree",
+                "Mother's Child"
+            ],
+            "personality": [
+                "Takes the responsibility seriously while remaining characteristically curious about the mysterious vision."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Why is the mysterious woman appearing to Gerk during the ceremony?"
+            ]
+        },
+        "Eldarin Tree": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A sacred and ancient tree revered by the Navi.",
+                "Its rings inspired the design and creation of the keystones.",
+                "Its study ultimately led to the creation of the keystones and the beginning of the Mother's Prayer."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the true nature and origin of the Eldarin Tree?"
+            ]
+        },
+        "Mother's Prayer": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Was unintentionally set into motion when the keystones were created.",
+                "Acts as a prophecy that periodically selects individuals when Atlas requires them.",
+                "Exists for the welfare of all Atlas rather than solely for the Eldarin Tree."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Selects champions when Atlas needs them."
+            ],
+            "openQuestions": [
+                "What ultimately fulfills or ends the Mother's Prayer?"
+            ]
+        },
+        "Doorman": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A Doorman serves as the guardian of an individual Arch.",
+                "A Doorman can open and close access to their assigned realm.",
+                "Modern Doormen are expected to actively improve and protect their Arch instead of merely hiding its keystone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Accepts stewardship of the Keystone of Gilbrick after Plymouth offers it to him first because of his connection to that realm."
+            ],
+            "titles": [
+                "Prospective Doorman of Gilbrick"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Returns the Midgar keystone to Plymouth so it can be formally bestowed upon Gerk.",
+                "Is offered stewardship of the Keystone of La-rel because he is the only party member not originally from Midgar."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Glimmond",
+            "likely": "Glimmen",
+            "notes": "Walker's dragon companion."
+        },
+        {
+            "heard": "Yu Gug",
+            "likely": "Gerk",
+            "notes": "Repeated ASR confusion during the ceremony."
+        },
+        {
+            "heard": "Jack",
+            "likely": "Gerk",
+            "notes": "ASR substituted a common name for Gerk."
+        },
+        {
+            "heard": "kill Brick",
+            "likely": "Gilbrick",
+            "notes": "Name of the Arch."
+        },
+        {
+            "heard": "Tollerel",
+            "likely": "La-rel",
+            "notes": "Refers to the Keystone of La-rel."
+        },
+        {
+            "heard": "Yotin Prime",
+            "likely": "Juten Prime",
+            "notes": "Original keeper of the keystones."
+        },
+        {
+            "heard": "the tier",
+            "likely": "the figure",
+            "notes": "Gerk is referring to the mysterious woman he sees."
+        }
+    ],
+    "openQuestions": [
+        "Who is the mysterious woman leaving trails of white flowers, and why can the entire party now see her?",
+        "Why does accepting a keystone trigger the appearance of the mysterious woman and white flowers?",
+        "Will every member of the party become a Doorman for one of the remaining Arches?"
+    ],
+    "newTerms": [
+        {
+            "name": "Eldarin Tree",
+            "notes": [
+                "Sacred Navi tree whose rings inspired the creation of the keystones.",
+                "The origin of the knowledge used to create the keystones."
+            ]
+        },
+        {
+            "name": "Doorman",
+            "notes": [
+                "A guardian entrusted with an Arch and its keystone.",
+                "Responsible for opening, closing, protecting, and improving an Arch."
+            ]
+        },
+        {
+            "name": "Mother's Prayer",
+            "notes": [
+                "A prophecy unintentionally created alongside the keystones.",
+                "Selects champions to safeguard the prosperity of all Atlas."
+            ]
+        }
+    ]
+}

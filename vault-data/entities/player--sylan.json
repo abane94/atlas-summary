@@ -1,0 +1,35 @@
+{
+  "name": "Sylan",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/player/sylan.md",
+  "description": "",
+  "type": "PLAYER",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Reveals to the council the evidence supporting his belief that Gerk is the child sought by the Navi.",
+        "Explains that his conclusion comes from both an old journal and a spiritual vision experienced in Jotunheim.",
+        "States that the journal also accurately described the conspiracy that ultimately killed his family.",
+        "Explained the evidence leading him to believe Gerk is the prophesied child.",
+        "Confirmed his belief comes from both an old journal and a vision experienced in Jotunheim.",
+        "Clarified the journal itself does not explicitly contain the prophecy.",
+        "Accepts stewardship of the Keystone of Gilbrick after Plymouth offers it to him first because of his connection to that realm.",
+        "Accepts the Keystone of Gilbrick after Plymouth offers him first choice because of his connection to the realm.",
+        "Declines the Raven Queen's offer for an additional favor, believing she has already done enough for him.",
+        "Is reminded to value his life rather than expect or prepare for death.",
+        "Is identified by the Raven Queen as a talon of her order rather than a butcher.",
+        "Declines to request any further boon from the Raven Queen despite being offered the opportunity.",
+        "Receives final instruction from the Raven Queen regarding his role and responsibilities."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What responsibilities and abilities come with being a 'talon' of the Raven Queen's order?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.456Z",
+  "updatedAt": "2026-08-07T02:41:29.456Z"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dana",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/player/dana.md",
+  "description": "",
+  "type": "PLAYER",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Accepts stewardship of Pitel's keystone.",
+        "Describes Pitel as the center of the rings of Atlas while accepting the responsibility.",
+        "Accepts stewardship of the Pitel keystone.",
+        "Promises to guard the center of the rings of Atlas."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

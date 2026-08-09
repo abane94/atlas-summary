@@ -1,0 +1,240 @@
+{
+    "plotSections": [
+        {
+            "title": "Assignment of the Remaining Keystones",
+            "bullets": [
+                "Walker decides that although La-rel was once his home, the Reach better represents who he has become. Glimmen supports his decision.",
+                "Plymouth entrusts Walker with the Reach keystone.",
+                "Dana accepts stewardship of the Pitel keystone, becoming guardian of the central arch of Atlas.",
+                "Ord chooses Feldspar after considering both Feldspar and Lith. Plymouth explains that Lith's people have not lost magic; instead they experience it through folklore, cryptids, and legends.",
+                "Ciri chooses Lith after hearing descriptions of the remaining available arches. Plymouth explains that Lith preserves magic through stories despite rejecting formal magic."
+            ]
+        },
+        {
+            "title": "The Remaining Keystones",
+            "bullets": [
+                "After all party members make their choices, only the La-rel and Terov keystones remain unclaimed.",
+                "Plymouth says the original expedition had more members and that those absent companions should not be forgotten.",
+                "Kit Anger and the stewards of the Child of the Tree will safeguard the remaining keystones until new keepers arise."
+            ]
+        },
+        {
+            "title": "The Responsibility of the Keepers",
+            "bullets": [
+                "Plymouth reminds the party that although they originally sought to protect the keystones from a lich, they are now personally responsible for safeguarding them.",
+                "He warns that the keystones are powerful artifacts and must never fall into the wrong hands.",
+                "Plymouth says he cannot tell the party exactly how to use the keystones, only guide them.",
+                "He hints that accepting stewardship of a keystone has changed each of them in a significant way."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker decides to become the keeper of the Reach instead of La-rel.",
+        "Plymouth gives Walker the Reach keystone.",
+        "Dana accepts the Pitel keystone.",
+        "Ord is offered Feldspar or Lith and chooses Feldspar.",
+        "Plymouth explains the true nature of Lith before Ord finalizes his choice.",
+        "Ciri is offered La-rel, Terov, or Lith.",
+        "Plymouth explains the differences between the remaining arches.",
+        "Ciri chooses Lith and receives its keystone.",
+        "Plymouth notes that La-rel and Terov remain without keepers.",
+        "Plymouth says the absent members of the original expedition will be remembered.",
+        "Kit Anger and the stewards will guard the remaining keystones until successors are found.",
+        "Plymouth warns that the party now carries the artifacts the lich seeks.",
+        "Plymouth explains that becoming keystone keepers has fundamentally changed the party."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half elf dragon rider & fighter. Glimmen is his mind linked dragon.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Chooses to protect the Reach instead of La-rel because he feels the Reach is now his true home.",
+                "States that although La-rel remains important to him, it no longer defines who he is."
+            ],
+            "titles": [
+                "Keeper of the Reach"
+            ],
+            "personality": [
+                "Chooses based on personal growth rather than birthplace."
+            ],
+            "quotesThemes": [
+                "Home is who you become, not only where you came from."
+            ],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Reveals that her father placed her egg on Midgard for safekeeping while attending to other matters.",
+                "Supports Walker's choice regardless of which arch he selected.",
+                "Recalls being very small during the party's adventures in La-rel."
+            ],
+            "titles": [],
+            "personality": [
+                "Believes home is where people choose to make it."
+            ],
+            "quotesThemes": [
+                "Home is where we make it."
+            ],
+            "openQuestions": [
+                "Who is Glimmen's father?"
+            ]
+        },
+        "Dana": {
+            "existing": "Half elf cleric, most knowledgeable of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Accepts stewardship of the Pitel keystone.",
+                "Promises to guard the center of the rings of Atlas."
+            ],
+            "titles": [
+                "Keeper of Pitel"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragon born paladin.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Chooses Feldspar as the arch he will protect.",
+                "Learns that Lith's rejection of magic does not mean magic is absent there."
+            ],
+            "titles": [
+                "Keeper of Feldspar"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Chooses to protect Lith after hearing about the remaining arches."
+            ],
+            "titles": [
+                "Keeper of Lith"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer, friend of the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Assigns the remaining keystones to the party.",
+                "Explains that La-rel and Terov will remain under stewardship until future keepers are found.",
+                "Warns that the party must now protect the artifacts the lich seeks.",
+                "States he can guide the keepers but cannot dictate how they use the keystones.",
+                "Hints that becoming a keeper has fundamentally changed the party."
+            ],
+            "titles": [],
+            "personality": [
+                "Views stewardship of the keystones as a great honor and responsibility."
+            ],
+            "quotesThemes": [
+                "The party has become the guardians of the very artifacts they sought to protect."
+            ],
+            "openQuestions": [
+                "What changes come with becoming a keystone keeper?"
+            ]
+        },
+        "Kit Anger": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Will help safeguard the unclaimed La-rel and Terov keystones until successors are found."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lith": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Its people reject formal magic but unknowingly preserve it through folklore, fairy tales, legends, and cryptids.",
+                "Visitors who openly use magic may be viewed as witches or deities.",
+                "Strange occurrences from other realms become local myths."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Feldspar": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Reinforced as the arch focused on magical knowledge, science, alchemy, and experimentation."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Each assigned party member now bears responsibility for protecting a keystone.",
+                "The keystones are powerful artifacts that require careful stewardship.",
+                "The lich continues to seek the keystones."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What new powers or responsibilities accompany becoming a keeper?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Thorell",
+            "likely": "La-rel",
+            "notes": "Refers to Walker's homeland."
+        },
+        {
+            "heard": "Turof",
+            "likely": "Terov",
+            "notes": "Name of one of the arches."
+        },
+        {
+            "heard": "Fell spa",
+            "likely": "Feldspar",
+            "notes": "Arch chosen by Ord."
+        },
+        {
+            "heard": "Felsba",
+            "likely": "Feldspar",
+            "notes": "Alternate ASR spelling."
+        },
+        {
+            "heard": "Beld Spar",
+            "likely": "Feldspar",
+            "notes": "Alternate ASR spelling."
+        },
+        {
+            "heard": "Gilbert",
+            "likely": "Gilbrick",
+            "notes": "Ord asked whether the Gilbrick keystone was still available."
+        },
+        {
+            "heard": "encrypted",
+            "likely": "cryptids",
+            "notes": "Lith's folklore was being described."
+        }
+    ],
+    "openQuestions": [
+        "What changes occur when someone becomes a keystone keeper?",
+        "Who will eventually become the keepers of La-rel and Terov?",
+        "How will the lich attempt to obtain the keystones now that the party possesses them?"
+    ],
+    "newTerms": []
+}

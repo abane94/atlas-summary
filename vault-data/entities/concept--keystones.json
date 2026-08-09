@@ -1,0 +1,27 @@
+{
+  "name": "Keystones",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/concept/keystones.md",
+  "description": "",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "The current party becomes a new generation of guardians rather than simple keepers.",
+        "Guardians are expected to actively develop and protect their assigned realms instead of merely hiding the keystones.",
+        "Each assigned party member now bears responsibility for protecting a keystone.",
+        "The keystones are powerful artifacts that require careful stewardship.",
+        "The lich continues to seek the keystones."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What new powers or responsibilities accompany becoming a keeper?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.458Z",
+  "updatedAt": "2026-08-07T02:41:29.458Z"
+}

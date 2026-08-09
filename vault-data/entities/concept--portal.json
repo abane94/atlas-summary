@@ -1,0 +1,26 @@
+{
+  "name": "Portal",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/concept/portal.md",
+  "description": "",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Successive activations can lead to entirely different locations.",
+        "May be influenced by familiarity or intent, though this remains uncertain.",
+        "Successfully connected to a location believed to be near Langdale during one attempt."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What determines a portal's destination?",
+    "Can the destination be intentionally selected with practice?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.458Z",
+  "updatedAt": "2026-08-07T02:41:29.458Z"
+}

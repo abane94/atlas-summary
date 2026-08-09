@@ -1,0 +1,26 @@
+{
+  "name": "Gatekeepers",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/concept/gatekeepers.md",
+  "description": "",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "The party are now recognized as Gatekeepers.",
+        "Gatekeepers possess 'the keys.'",
+        "Their abilities appear distinct from Gerk's role as Doorman.",
+        "Their powers will require further understanding and practice."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What abilities do Gatekeepers possess beyond using the keystones?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.458Z",
+  "updatedAt": "2026-08-07T02:41:29.458Z"
+}

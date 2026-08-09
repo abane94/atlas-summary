@@ -1,0 +1,29 @@
+{
+  "name": "Doorman",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/concept/doorman.md",
+  "description": "",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "An ancient title not granted in many years.",
+        "A Doorman is bound to a specific Arch.",
+        "The role includes opening and closing access to an Arch, maintaining its connection, and protecting it.",
+        "Gerk is being offered this position.",
+        "A Doorman serves as the guardian of an individual Arch.",
+        "A Doorman can open and close access to their assigned realm.",
+        "Modern Doormen are expected to actively improve and protect their Arch instead of merely hiding its keystone."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Which Arch will Gerk ultimately become Doorman of?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

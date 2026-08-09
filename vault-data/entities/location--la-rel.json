@@ -1,0 +1,23 @@
+{
+  "name": "La-rel",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/la-rel.md",
+  "description": "",
+  "type": "Location",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "One of the two arches left without a mortal keeper.",
+        "Will remain under temporary stewardship until a future keeper is chosen.",
+        "Confirmed to be the realm of fairies (the Feywilds)."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.458Z",
+  "updatedAt": "2026-08-07T02:41:29.458Z"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Eldarin Tree",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/concept/eldarin_tree.md",
+  "description": "",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "A great and sacred tree revered by the Navi.",
+        "One of the largest and most sacred magical locations in Atlas.",
+        "Many such trees once existed historically, but only one remains in the present.",
+        "Its rings inspired the design and creation of the keystones.",
+        "The Mother's Prayer is connected to this tree, with chosen individuals metaphorically described as fruit plucked from it.",
+        "A sacred and ancient tree revered by the Navi.",
+        "Its rings inspired the design and creation of the keystones.",
+        "Its study ultimately led to the creation of the keystones and the beginning of the Mother's Prayer."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Why is only one Eldarin Tree believed to remain?",
+    "What is the true nature and origin of the Eldarin Tree?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

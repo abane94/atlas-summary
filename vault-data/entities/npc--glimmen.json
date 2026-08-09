@@ -1,0 +1,27 @@
+{
+  "name": "Glimmen",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/npc/glimmen.md",
+  "description": "",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Encourages Walker by saying that home is where they choose to make it.",
+        "Expresses happiness with either La-rel or the Reach as their home.",
+        "Reveals that her father placed her egg on Midgard for safekeeping while attending to other matters.",
+        "Supports Walker's choice regardless of which arch he selected.",
+        "Recalls being very small during the party's adventures in La-rel."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Who is Glimmen's father?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "dnd-transcribe-summary",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/example.ts",
+    "chrome:debug": "node scripts/start-chrome-debug.js",
+    "chrome:seed": "node scripts/seed-chrome-profile.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^24.15.0",
+    "turndown": "^7.2.4",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}

@@ -1,0 +1,186 @@
+{
+    "plotSections": [
+        {
+            "title": "The Mother's Prayer and the Doorman",
+            "bullets": [
+                "Dana points out that the appearance of flowers confirms Daisy was present, as flowers are Daisy's signature, reinforcing that whatever Daisy is, she was recently here.",
+                "Plymouth Gawater gathers Gerk and the rest of the party, explaining that by standing with him they are voluntarily accepting the same responsibility tied to Gerk's destiny.",
+                "Plymouth reveals that the Eldarin Tree is a sacred Navi tree whose rings inspired the creation of the keystones. By studying and distilling those rings into the keystones, the Navi unintentionally began the Mother's Prayer prophecy.",
+                "The Mother's Prayer exists to preserve the health and prosperity of all Atlas, selecting individuals when needed to fulfill its purpose.",
+                "Plymouth explains that those chosen are metaphorically 'plucked' from the Eldarin Tree like ripe fruit and are entrusted with protecting Atlas rather than serving only the tree.",
+                "Gerk is offered the ancient title of Doorman of an Arch, becoming the first individual in many years to potentially hold the office.",
+                "The role of a Doorman is to open and close access to a specific Arch, maintain its connection, and protect it.",
+                "The rest of the party implicitly accepts that they are joining Gerk in supporting this responsibility."
+            ]
+        },
+        {
+            "title": "Choosing an Arch",
+            "bullets": [
+                "Plymouth retrieves a keystone directly from one of the concentric circles in the floor and presents Gerk with the Keystone of Pitel.",
+                "Plymouth indicates that Gerk is not restricted to Pitel and implies he may choose which Arch's keystone he wishes to bear.",
+                "Before making a decision, Gerk turns to the rest of the party for advice on which Arch would be the best choice.",
+                "The party briefly reviews known properties of several Archs, including Pitel, Feldspar, Gilbrick, and Lith, but no final selection is made during this chunk."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Dana concludes Daisy was recently present because flowers, Daisy's signature, appeared around Gerk.",
+        "Plymouth asks Gerk and the rest of the party to step forward if they wish to participate in Gerk's calling.",
+        "Walker, Dana, Ord, Sylan, and Ciri all agree to stand with Gerk.",
+        "Kit Anger and Juten Prime intentionally step back to observe without interfering.",
+        "Plymouth explains the significance of the Eldarin Tree to the Navi.",
+        "Plymouth reveals the keystones were created from the knowledge of the Eldarin Tree's rings.",
+        "Plymouth explains that creating the keystones unintentionally initiated the Mother's Prayer prophecy.",
+        "Plymouth tells Gerk he can become the first Doorman of an Arch in many years.",
+        "Plymouth explains that a Doorman opens, closes, connects to, and protects an Arch.",
+        "Plymouth retrieves the Keystone of Pitel and offers it to Gerk.",
+        "Gerk learns he may choose which Arch he wishes to represent and asks his companions for advice.",
+        "The party begins discussing the characteristics of the various Archs while considering Gerk's choice."
+    ],
+    "entities": {
+        "Daisy": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Flowers are reaffirmed as Daisy's signature.",
+                "Dana concludes Daisy was physically present because flowers appeared where none existed previously."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Flowers are Daisy's identifying sign."
+            ],
+            "openQuestions": [
+                "What exactly is Daisy?",
+                "Why was Daisy present here?"
+            ]
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer, friend of the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Explains the origin of the keystones.",
+                "Reveals the Navi created the keystones by studying and distilling the rings of the Eldarin Tree.",
+                "States that creating the keystones unintentionally began the Mother's Prayer.",
+                "Offers Gerk the ancient office of Doorman and explains its responsibilities.",
+                "Retrieves the Keystone of Pitel from the dais and presents it to Gerk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The Mother's Prayer exists to preserve the health and prosperity of Atlas."
+            ],
+            "openQuestions": []
+        },
+        "Eldarin Tree": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A great and sacred tree revered by the Navi.",
+                "One of the largest and most sacred magical locations in Atlas.",
+                "Many such trees once existed historically, but only one remains in the present.",
+                "Its rings inspired the design and creation of the keystones.",
+                "The Mother's Prayer is connected to this tree, with chosen individuals metaphorically described as fruit plucked from it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Why is only one Eldarin Tree believed to remain?"
+            ]
+        },
+        "Mother's Prayer": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Was unintentionally set into motion when the Navi created the keystones.",
+                "Functions as a prophecy that selects individuals when Atlas requires them.",
+                "Its purpose is preserving the health and prosperity of all Atlas rather than serving only the Eldarin Tree.",
+                "Gerk and his companions are formally accepting responsibility under this prophecy."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How does the Mother's Prayer choose those it calls?"
+            ]
+        },
+        "Doorman": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "An ancient title not granted in many years.",
+                "A Doorman is bound to a specific Arch.",
+                "The role includes opening and closing access to an Arch, maintaining its connection, and protecting it.",
+                "Gerk is being offered this position."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Which Arch will Gerk ultimately become Doorman of?"
+            ]
+        },
+        "Pitel": {
+            "existing": "Arch of Atlas.",
+            "entityType": "Location",
+            "notes": [
+                "Its keystone is the first one presented to Gerk as a possible choice.",
+                "The party recalls it as the elemental Arch while discussing options."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Silin",
+            "likely": "Sylan",
+            "notes": "Player character name."
+        },
+        {
+            "heard": "Gawater",
+            "likely": "Plymouth Gawater",
+            "notes": "NPC's surname used by itself."
+        },
+        {
+            "heard": "Door man / Dorman",
+            "likely": "Doorman",
+            "notes": "Ancient title granted to the guardian of an Arch."
+        },
+        {
+            "heard": "Deck",
+            "likely": "Gerk",
+            "notes": "Transcript briefly loses speaker context while Plymouth addresses Gerk."
+        }
+    ],
+    "openQuestions": [
+        "Which Arch will Gerk choose to become Doorman of?",
+        "Why was Daisy present before the ceremony?",
+        "What additional responsibilities accompany the title of Doorman beyond protecting an Arch?"
+    ],
+    "newTerms": [
+        {
+            "name": "Eldarin Tree",
+            "notes": [
+                "Sacred Navi tree whose rings inspired the creation of the keystones.",
+                "Source of the symbolism behind the Mother's Prayer."
+            ]
+        },
+        {
+            "name": "Mother's Prayer",
+            "notes": [
+                "Prophecy unintentionally created during the creation of the keystones.",
+                "Selects champions to preserve the health and prosperity of Atlas."
+            ]
+        },
+        {
+            "name": "Doorman",
+            "notes": [
+                "Ancient guardian responsible for opening, closing, connecting to, and protecting a specific Arch."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ord",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/player/ord.md",
+  "description": "",
+  "type": "PLAYER",
+  "log": [
+    {
+      "date": "summaries/2026-08-03",
+      "summary": "",
+      "notes": [
+        "Chooses the Keystone of Feldspar after considering the remaining realms.",
+        "Initially believes Lith is defined by blissful ignorance before Plymouth explains its culture in greater detail.",
+        "Chooses Feldspar as the arch he will protect.",
+        "Learns that Lith's rejection of magic does not mean magic is absent there."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-07T02:41:29.457Z",
+  "updatedAt": "2026-08-07T02:41:29.457Z"
+}

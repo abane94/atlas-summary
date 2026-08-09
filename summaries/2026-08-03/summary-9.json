@@ -1,0 +1,201 @@
+{
+    "plotSections": [
+        {
+            "title": "Keystone Assignments Completed",
+            "bullets": [
+                "Ord formally accepts responsibility for protecting Feldspar and receives its keystone.",
+                "Plymouth finishes assigning the remaining keystones by explaining the responsibilities to Ciri.",
+                "Plymouth reiterates the party's individual assignments: Gerk protects Midgard, Sylan protects Gilbrick, Dana protects Pitel, Walker protects the Reach, Ord protects Feldspar, and Ciri chooses Lith.",
+                "Ciri chooses to become the keeper of Lith, completing the six player assignments while La-rel and Terov remain without mortal keepers."
+            ]
+        },
+        {
+            "title": "The Burden of the Keepers",
+            "bullets": [
+                "Plymouth reminds the party that they originally began this journey with more companions and that the two unclaimed keystones should symbolize those who are no longer present.",
+                "La-rel and Terov will remain under the stewardship of Plymouth, Kit Anger, and the other children of the Great Eldarin Tree until worthy successors are found.",
+                "Plymouth emphasizes that they are only temporary stewards and intend to pass the keystones to future keepers when the time comes.",
+                "Plymouth warns that although the party sought to stop a lich, they now personally possess the artifacts the lich seeks, placing themselves in even greater danger.",
+                "The party is instructed to protect the keystones above all else, while Plymouth explains he cannot command how they use them but can only offer guidance."
+            ]
+        },
+        {
+            "title": "Children of the Great Eldarin Tree",
+            "bullets": [
+                "Plymouth explains that by accepting the mantle of keystone keeper, each party member has become an honorary member of the Navi and a Child of the Great Eldarin Tree.",
+                "Kit Anger welcomes the party as brothers and sisters of the tree, formally acknowledging their new status."
+            ]
+        },
+        {
+            "title": "The Doorman Revealed",
+            "bullets": [
+                "Plymouth clarifies that Gerk is uniquely the 'Doorman,' while the rest of the party are Gatekeepers.",
+                "Following Plymouth's instructions, Gerk instinctively grasps an invisible door handle and successfully opens a doorway through reality.",
+                "The doorway reveals a beach somewhere in Midgard, demonstrating Gerk's innate ability to create portals despite Plymouth having little understanding of how the power functions.",
+                "Sylan attempts to replicate the feat using his keystone but only briefly senses something before failing, suggesting the ability requires greater mastery.",
+                "Plymouth admits he is relying on ancient records because no one has exercised these abilities for centuries."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord chooses Feldspar and receives its keystone.",
+        "Plymouth explains the keystone choices and responsibilities to Ciri.",
+        "Plymouth reviews every party member's assigned arch.",
+        "Ciri chooses Lith as the arch she will protect.",
+        "Plymouth explains Lith secretly possesses magic despite its culture treating it as folklore and cryptids.",
+        "Plymouth notes there are eight keystones but only six current keepers.",
+        "Plymouth states La-rel and Terov will remain under temporary stewardship until future keepers arise.",
+        "Plymouth warns the party that possessing the keystones makes them prime targets for the lich pursuing them.",
+        "Plymouth formally recognizes the party as keystone keepers.",
+        "Plymouth declares the party honorary members of the Navi and Children of the Great Eldarin Tree.",
+        "Kit Anger formally welcomes the party.",
+        "Narul (the Stranger) asks whether the gods may now leave.",
+        "Plymouth distinguishes Gerk's role as Doorman from the others' role as Gatekeepers.",
+        "Gerk instinctively opens an interdimensional doorway leading to a beach in Midgard.",
+        "Sylan unsuccessfully attempts to reproduce the effect with his keystone.",
+        "Walker dismisses the council of gods, and Vecna departs to continue searching for a book."
+    ],
+    "entities": {
+        "Lith": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Ciri becomes the official keeper of Lith's keystone.",
+                "Lith publicly rejects magic, treating it as folklore, fairy tales, and cryptids despite genuine magic existing there.",
+                "Occasional planar gaps allow creatures from other realms to appear, becoming the basis of local legends."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "La-rel": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "One of the two arches left without a mortal keeper.",
+                "Will remain under temporary stewardship until a future keeper is chosen.",
+                "Confirmed to be the realm of fairies (the Feywilds)."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Terov": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "One of the two arches left without a mortal keeper.",
+                "Will remain under temporary stewardship until a future keeper is chosen.",
+                "The party has not yet visited this arch."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and friend of the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Completes the distribution of the keystones.",
+                "Explains that the party are now keystone keepers and honorary Children of the Great Eldarin Tree.",
+                "Clarifies that Gerk is the Doorman while the others are Gatekeepers.",
+                "Admits he only understands these powers through ancient tomes because no one has used them for centuries."
+            ],
+            "titles": [],
+            "personality": [
+                "Humble about the limits of his knowledge despite serving as the group's guide."
+            ],
+            "quotesThemes": [
+                "He can guide the keepers but cannot command how they use the keystones."
+            ],
+            "openQuestions": [
+                "How much does Plymouth truly know about the full capabilities of the keystones?"
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Successfully manifests and opens an invisible doorway through reality without prior instruction.",
+                "The doorway leads to a beach somewhere in Midgard, demonstrating his unique Doorman abilities."
+            ],
+            "titles": [
+                "Doorman",
+                "Child of the Great Eldarin Tree",
+                "Honorary member of the Navi"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How much control will Gerk eventually gain over where his portals lead?"
+            ]
+        },
+        "Navi": {
+            "existing": "Ancient race.",
+            "entityType": "GROUP",
+            "notes": [
+                "Keystone keepers are considered honorary members of the Navi by virtue of becoming Children of the Great Eldarin Tree."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Liz",
+            "likely": "Lith",
+            "notes": "Ciri chooses the arch of Lith."
+        },
+        {
+            "heard": "Morale",
+            "likely": "La-rel",
+            "notes": "Discussion about the fairy realm."
+        },
+        {
+            "heard": "Kuralf",
+            "likely": "Terov",
+            "notes": "Kyle asks whether the party has visited Terov."
+        },
+        {
+            "heard": "Head Firm",
+            "likely": "",
+            "notes": "ASR corruption while Plymouth discusses the original party size."
+        },
+        {
+            "heard": "Fell spa",
+            "likely": "Feldspar",
+            "notes": "Keystone assignment to Ord."
+        }
+    ],
+    "openQuestions": [
+        "Who will eventually become the permanent keepers of La-rel and Terov?",
+        "How do the Doorman's portal abilities function, and how much control can Gerk develop over them?",
+        "What additional powers or responsibilities accompany becoming a Child of the Great Eldarin Tree?"
+    ],
+    "newTerms": [
+        {
+            "name": "Doorman",
+            "notes": [
+                "A unique role held by Gerk that allows him to open doorways through reality.",
+                "Distinct from the Gatekeepers who safeguard individual keystones."
+            ]
+        },
+        {
+            "name": "Gatekeeper",
+            "notes": [
+                "The role held by each keystone bearer responsible for protecting an individual arch and its keystone."
+            ]
+        },
+        {
+            "name": "Child of the Great Eldarin Tree",
+            "notes": [
+                "Honorary status granted to the keystone keepers, making them members of the Navi."
+            ]
+        }
+    ]
+}
