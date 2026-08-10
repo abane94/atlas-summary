@@ -72,7 +72,7 @@ async function generateEntityFile(entityData: EntityData, vaultOutputFolder: str
         '---',
         `name: ${entityData.name}`,
         `type: ${entityData.type}`,
-        `description: ${entityData.description}`,
+        `description: ${entityData.description.replaceAll('\n', ' ').replaceAll(/[*\#\-_`~:|]/g, '')}`,
         `tags:\n${[...entityData.tags, entityData.type.toLowerCase()].map(t => `  - "${t}"`).join(', ')}`,
         `aliases: ${entityData.aliases.map(a => `  - "${a}"`).join(', ')}`,
         `createdAt: ${entityData.createdAt}`,
