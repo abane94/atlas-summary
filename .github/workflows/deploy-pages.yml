@@ -91,6 +91,13 @@ jobs:
         working-directory: quartz
         run: npm install @quartz-themes/its-theme
 
+
+      # replace "ttrpg-dnd" with "atelier" in quartz.config.yaml
+      - name: change theme
+        working-directory: quartz
+        run: |
+          sed -i 's/ttrpg-dnd/atelier/g' quartz.config.yaml
+
       - name: Build Quartz
         working-directory: quartz
         run: npx quartz build

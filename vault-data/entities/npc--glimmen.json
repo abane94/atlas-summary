@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/npc/glimmen.md",
-  "description": "",
+  "description": "**Glimmen** is Walker's mind-linked dragon. During a conversation about where Walker belongs, she encourages him by saying that home is wherever they choose to make it, and expresses happiness with either La-rel or the Reach as home. She supports Walker's choice regardless of which arch he selects. She also reveals that her father placed her egg on Midgard for safekeeping while attending to other matters, and recalls being very small during the party's adventures in La-rel.",
   "type": "NPC",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "Glimmen, Walker's mind-linked dragon, offers steady encouragement as he wrestles with where he belongs, telling him that home is wherever they choose to make it. She is genuinely happy with either La-rel or the Reach as their home and backs Walker's decision no matter which arch he selects. Glimmen also shares a piece of her own history: her father placed her egg on Midgard for safekeeping while he attended to other matters. She fondly recalls being very small during the party's earlier adventures in La-rel, grounding her present support in shared memory and loyalty to Walker.",
       "notes": [
         "Encourages Walker by saying that home is where they choose to make it.",
         "Expresses happiness with either La-rel or the Reach as their home.",
@@ -22,6 +22,6 @@
     "Who is Glimmen's father?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.457Z",
-  "updatedAt": "2026-08-07T02:41:29.457Z"
+  "createdAt": "2026-08-10T02:24:11.609Z",
+  "updatedAt": "2026-08-10T02:24:11.609Z"
 }

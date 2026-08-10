@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/location/lith.md",
-  "description": "",
+  "description": "Lith is a place whose people have deliberately turned away from conventional magic, yet their culture still revolves around folklore, cryptids, fairy tales, and scattered glimpses of the wider world. They publicly dismiss magic as story and superstition even though real magic persists there: occasional planar gaps let creatures from other realms appear, and those events feed local legends and cryptid lore. In that way, formal magic is rejected while its memory survives unknowingly through myths and tales. Visitors who show magical ability are more likely to be revered than feared—open use of magic may mark someone as a witch or even a deity. Strange happenings from beyond Lith's borders likewise settle into local myth. Ciri has become the official keeper of Lith's keystone.",
   "type": "Location",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "Lith is a culture whose people deliberately abandoned conventional magic, yet their identity centers on folklore, cryptids, fairy tales, and fragmented glimpses of the wider world. They publicly reject formal spellcraft and treat genuine magic as myth, but unknowingly preserve magical truth through legends—especially when occasional planar gaps allow creatures from other realms to appear and become the basis of local stories. Strange cross-planar occurrences are folded into folklore rather than understood as real magic; magically gifted visitors are more likely to be revered than feared, while those who wield magic openly may be seen as witches or deities. Ciri was named the official keeper of Lith's keystone, tying the party to this paradoxical land where story, superstition, and genuine planar influence overlap.",
       "notes": [
         "Its people intentionally abandoned conventional magic.",
         "Its culture centers on folklore, cryptids, fairy tales, and fragmented glimpses of the wider world.",
@@ -24,6 +24,6 @@
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.457Z",
-  "updatedAt": "2026-08-07T02:41:29.457Z"
+  "createdAt": "2026-08-10T02:29:42.750Z",
+  "updatedAt": "2026-08-10T02:29:42.750Z"
 }

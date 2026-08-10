@@ -182,6 +182,8 @@ export async function mergeSessionData(page: any, sessionData: { recap: SessionC
         merged.newTerms = dedupedNewTerms;
     }
 
+    const url = "https://chatgpt.com";
+    await page.goto(url, { waitUntil: "networkidle2" });
     const entities = await runJsonPrompt(page, `
         This json blob below is a list of entities that have been updated in the session. This merge was done prgramatically, and you are tasked with reviewing the list and making sure that the entities are correct.
         Can you please return a new json blob that matches the original format, but mergeing any common etities and removing any duplicate information
@@ -227,6 +229,7 @@ export async function mergeSessionData(page: any, sessionData: { recap: SessionC
         ${JSON.stringify(merged.entities, null, 4)}
     `);
 
+    await page.goto(url, { waitUntil: "networkidle2" });
     const terms = await runJsonPrompt(page, `
         This json blob below is a list of terms that have been updated in the session. This merge was done prgramatically,
         Can you please return a new json blob that matches the original format, but mergeing any common terms and removing any duplicate information

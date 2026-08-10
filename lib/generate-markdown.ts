@@ -11,26 +11,38 @@ export async function generateMarkdown(vaultDataFolder: string, vaultOutputFolde
     await fs.mkdir(vaultOutputFolder, { recursive: true });
     await fs.mkdir(path.join(vaultOutputFolder, 'log'), { recursive: true });
 
+    // load all entity data into list
+    const entityDataList: EntityData[] = [];
+    const entitiesPaths = await fs.readdir(path.join(vaultDataFolder, 'entities'), { withFileTypes: true });
+    for (const entityPath of entitiesPaths) {
+        const entityData = JSON.parse(await fs.readFile(path.join(vaultDataFolder, 'entities', entityPath.name), 'utf8')) as EntityData;
+        entityDataList.push(entityData);
+    }
+
 
     const sessionsPaths = await fs.readdir(path.join(vaultDataFolder, 'log'), { withFileTypes: true });
     for (const sessionPath of sessionsPaths) {
         const sessionData = JSON.parse(await fs.readFile(path.join(vaultDataFolder, 'log', sessionPath.name), 'utf8')) as SessionData;
-        const sessionSummary = await generateSessionFile(sessionData, vaultOutputFolder);
+        const sessionSummary = await generateSessionFile(sessionData, vaultOutputFolder, entityDataList);
         indexMarkdown += `## [${sessionData.date}](${path.join('log', sessionPath.name)})\n`;
         indexMarkdown += `${sessionSummary}\n`;
     }
 
-    const entitiesPaths = await fs.readdir(path.join(vaultDataFolder, 'entities'), { withFileTypes: true });
-    for (const entityPath of entitiesPaths) {
-        const entityData = JSON.parse(await fs.readFile(path.join(vaultDataFolder, 'entities', entityPath.name), 'utf8')) as EntityData;
-        await generateEntityFile(entityData, vaultOutputFolder);
+    // const entitiesPaths = await fs.readdir(path.join(vaultDataFolder, 'entities'), { withFileTypes: true });
+    // for (const entityPath of entitiesPaths) {
+    //     const entityData = JSON.parse(await fs.readFile(path.join(vaultDataFolder, 'entities', entityPath.name), 'utf8')) as EntityData;
+    //     await generateEntityFile(entityData, vaultOutputFolder);
+    // }
+
+    for (const entityData of entityDataList) {
+        await generateEntityFile(entityData, vaultOutputFolder, entityDataList);
     }
 
     // save the index markdown to the output folder
     await fs.writeFile(path.join(vaultOutputFolder, 'index.md'), indexMarkdown);
 }
 
-async function generateSessionFile(sessionData: SessionData, vaultOutputFolder: string) {
+async function generateSessionFile(sessionData: SessionData, vaultOutputFolder: string, entityDataList: EntityData[]) {
     let markdown = `# ${sessionData.date}\n\n${sessionData.summary}\n\n## Session Overview\n\n`;
     for (const plotSection of sessionData.plotSections) {
         markdown += `### ${plotSection.title}\n\n${plotSection.bullets.map(bullet => `- ${bullet}`).join('\n')}\n\n`;
@@ -46,6 +58,8 @@ async function generateSessionFile(sessionData: SessionData, vaultOutputFolder: 
         markdown += `- ${openQuestion}\n`;
     }
 
+    markdown = insertWikiLinks(markdown, entityDataList);
+
     // save the markdown to the output folder
     await fs.writeFile(path.join(vaultOutputFolder, 'log', `${sessionData.date}.md`), markdown);
 
@@ -53,7 +67,7 @@ async function generateSessionFile(sessionData: SessionData, vaultOutputFolder: 
     return sessionData.summary;
 }
 
-async function generateEntityFile(entityData: EntityData, vaultOutputFolder: string) {
+async function generateEntityFile(entityData: EntityData, vaultOutputFolder: string, entityDataList: EntityData[]) {
     let frontmatter = [
         '---',
         `name: ${entityData.name}`,
@@ -66,7 +80,7 @@ async function generateEntityFile(entityData: EntityData, vaultOutputFolder: str
         '---',
     ].join('\n') + '\n\n';
 
-    let markdown = frontmatter;
+    let markdown = '';
 
     markdown += `# ${entityData.name}\n\n${entityData.description}\n\n`;
 
@@ -83,9 +97,27 @@ async function generateEntityFile(entityData: EntityData, vaultOutputFolder: str
     // ensure the output folder and sub folders exist
     await fs.mkdir(path.join(vaultOutputFolder, path.dirname(entityData.filename)), { recursive: true });
 
+    markdown = insertWikiLinks(markdown, entityDataList);
+
+    markdown = frontmatter + markdown;
+
     // save the markdown to the output folder
     await fs.writeFile(path.join(vaultOutputFolder, entityData.filename), markdown);
 }
+
+function insertWikiLinks(text: string, entityDataList: EntityData[]) {
+    for (const entityData of entityDataList) {
+        const targetList = [...entityData.linkTargets, entityData.name];
+        for (const target of targetList) {
+            text = text.replaceAll(new RegExp(escapeRegExp(target), 'gi'), `[[${entityData.filename.replace('.md', '')}|${entityData.name}]]`);
+        }
+    }
+    return text;
+}
+
+function escapeRegExp(text: string): string {
+    return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
 
 
 // run the main function if this file is being run directly using modules

@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/npc/raven_queen.md",
-  "description": "",
+  "description": "After the other deities depart, the Raven Queen approaches the party alone. Her form shifts between a regal, masked humanoid and a shadowy, harpy-like figure with black wings. She reveals she was once mortal and has walked among mortals, which she says lets her understand mortal perspectives. She admits she has witnessed Sylan and Dana on the Everfalls and that the party has exceeded some of her expectations, expressing confidence in Sylan's determination while acknowledging Walker and Ord have begun to prove themselves. She offers to guide the party but warns them not to waste her time or their lives, and not to treat death frivolously—implying that some members may have very few chances remaining. She confirms she has given Sylan a weapon and that he serves as a talon of her order, explicitly describing him as \"a talon of my order, not a butcher.\" In final counsel, she urges him to value life rather than expect death, then departs by transforming into a winged, shadow-covered form and flying away.",
   "type": "NPC",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "After the other deities depart, the Raven Queen approaches the party alone, her form shifting between a regal masked humanoid and a shadowy harpy-like figure with black wings. She reveals she was once mortal and has walked among mortals, which gives her insight into mortal perspectives; she has seen Sylan and Dana on the Everfalls. She admits the party has surpassed some of her expectations, expressing confidence in Sylan's determination while acknowledging that Walker and Ord are beginning to prove themselves, though she implies some party members have very few chances remaining. She offers to guide the party but warns them not to waste her time or their own lives, and not to treat death frivolously. She confirms Sylan has been given a weapon and serves as a talon of her order, explicitly defining him as \"a talon of my order, not a butcher\" and urging him to value life rather than expect death. After this final counsel, she transforms into a winged, shadow-covered form and flies away.",
       "notes": [
         "Reveals she was once mortal.",
         "States she understands mortal perspectives because of her past.",
@@ -36,6 +36,6 @@
     "What responsibilities come with being a talon of her order?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.458Z",
-  "updatedAt": "2026-08-07T02:41:29.458Z"
+  "createdAt": "2026-08-10T02:44:01.952Z",
+  "updatedAt": "2026-08-10T02:44:01.952Z"
 }

@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/npc/plymouth_gawater.md",
-  "description": "",
+  "description": "Plymouth Gawater is a gnome artificer and ally of the party who carefully questioned Sylan about the journal's provenance, dating, authorship, and prophetic content before drawing conclusions. Though he had apparently never read it himself, he recognized the journal by reputation and connected it to the **Mother's Prayer**—a sacred Navi tradition that has historically identified heroes who aided Atlas. He identified the poem heard in the Stronghold as that prophecy, showed strong interest in whether Gerk truly fulfills it, and explained that the Mother's Tales can change with the choices of the chosen. Drawing on encounters with three previous sons or daughters of the Great Tree—one of whom accepted the calling while two rejected it, with roughly 1,500 years since the last willing acceptance—he revealed that the Navi created the keystones by studying and distilling the rings of the Eldarin Tree, unintentionally beginning the Mother's Prayer. He formally appointed Gerk as **Doorman**, presented the Keystone of Pitel, and conducted ceremonies distributing the remaining keystones to the party as **Gatekeepers**, clarifying that new guardians must actively protect and improve their realms rather than merely preserve them. He warned that the party must now guard the artifacts sought by the lich, that open portals are dangerous, and that he can guide but not dictate their use of these powers; he plans to teach Gerk the portal system and expressed interest in Walker's apparent portal-travel abilities.",
   "type": "NPC",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "Plymouth Gawater, a gnome artificer and ally of the party, carefully scrutinized Sylan's account of the journal—its provenance, dating, authorship, and prophetic content—and recognized its significance by reputation, linking it to the **Mother's Prayer**, a sacred Navi tradition that has historically marked heroes who aided Atlas. He identified the poem from the Stronghold as that prophecy and showed keen interest in whether Gerk truly fulfills it, drawing on personal encounters with three prior sons or daughters of the Great Tree (one who accepted the calling, two who refused) and noting that roughly 1,500 years have passed since anyone willingly took the role. He explained how the Navi created the keystones by distilling the rings of the Eldarin Tree—an act that unintentionally set the Mother's Prayer in motion—and how the Mother's Tales can shift with the chosen one's choices. In a formal ceremony, he appointed Gerk as **Doorman**, presented the Keystone of Pitel, and distributed the remaining keystones (including Midgar, Gilbrick, and La-rel) to the party as **Gatekeepers**, clarifying that new guardians must actively protect and improve their realms rather than merely preserve them, while La-rel and Terov await future keepers. He warned that the lich now seeks these artifacts, that open portals are dangerous, and that he can guide but not command their use; he plans to teach Gerk the portal system and is curious about Walker's apparent portal-travel abilities, admitting his own knowledge comes only from ancient tomes after centuries of disuse.",
       "notes": [
         "Carefully investigates Sylan's claims by asking about the journal's provenance, dating, authorship, and prophetic content.",
         "Recognizes the journal by reputation despite apparently never reading it.",
@@ -61,6 +61,6 @@
     "How much does Plymouth truly know about the full capabilities of the keystones?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.457Z",
-  "updatedAt": "2026-08-07T02:41:29.457Z"
+  "createdAt": "2026-08-10T02:07:54.076Z",
+  "updatedAt": "2026-08-10T02:07:54.076Z"
 }

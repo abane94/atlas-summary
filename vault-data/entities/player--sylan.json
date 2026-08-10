@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/player/sylan.md",
-  "description": "",
+  "description": "Sylan, a half-elf rogue, presents the council with evidence that Gerk is the child sought by the Navi, drawing on an old journal and a spiritual vision he experienced in Jotunheim. He notes that the journal does not explicitly state the prophecy, but that it accurately described the conspiracy that killed his family. When Plymouth offers the party keystones, Sylan accepts stewardship of the Keystone of Gilbrick, having been given first choice because of his connection to that realm. In his audience with the Raven Queen, he declines any further favor or boon, believing she has already done enough for him. She identifies him as a talon of her order rather than a butcher, reminds him to value his life instead of expecting or preparing for death, and gives him final instruction regarding his role and responsibilities.",
   "type": "PLAYER",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "Sylan presents the council with evidence that Gerk is the child sought by the Navi, drawing on an old journal and a spiritual vision from Jotunheim. Though the journal does not state the prophecy outright, he trusts it because it accurately described the conspiracy that killed his family. When Plymouth offers the party keystones, Sylan accepts stewardship of the Keystone of Gilbrick, taking first choice because of his connection to that realm. In a final audience with the Raven Queen, he declines any further boon, believing she has already done enough for him. She reminds him to value his life rather than expect death, names him a talon of her order rather than a butcher, and gives him last instructions about his role and responsibilities.",
       "notes": [
         "Reveals to the council the evidence supporting his belief that Gerk is the child sought by the Navi.",
         "Explains that his conclusion comes from both an old journal and a spiritual vision experienced in Jotunheim.",
@@ -30,6 +30,6 @@
     "What responsibilities and abilities come with being a 'talon' of the Raven Queen's order?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.456Z",
-  "updatedAt": "2026-08-07T02:41:29.456Z"
+  "createdAt": "2026-08-10T02:06:14.355Z",
+  "updatedAt": "2026-08-10T02:06:14.355Z"
 }

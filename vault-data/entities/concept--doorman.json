@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/concept/doorman.md",
-  "description": "",
+  "description": "**Doorman** is an ancient title that has not been granted in many years. Each Doorman is bound to a specific **Arch** and serves as its guardian, with responsibility for opening and closing access to that Arch and its assigned realm, maintaining its connection, and protecting it. During the session, **Gerk** was offered this office. Unlike earlier practice of merely hiding an Arch's keystone, modern Doormen are expected to actively improve and protect their Arch.",
   "type": "CONCEPT",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "The Doorman is an ancient title that has not been granted in many years. A Doorman is bound to a specific Arch and serves as its guardian, with duties that include opening and closing access to that Arch, maintaining its connection, and protecting it. Unlike the passive role of merely hiding an Arch's keystone, modern Doormen are expected to actively improve and steward their assigned realm. During the session, Gerk is offered this rare office, which would make him the guardian of a single Arch with the power to open and close passage to its realm.",
       "notes": [
         "An ancient title not granted in many years.",
         "A Doorman is bound to a specific Arch.",
@@ -24,6 +24,6 @@
     "Which Arch will Gerk ultimately become Doorman of?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.457Z",
-  "updatedAt": "2026-08-07T02:41:29.457Z"
+  "createdAt": "2026-08-10T02:19:14.117Z",
+  "updatedAt": "2026-08-10T02:19:14.117Z"
 }

@@ -49,12 +49,6 @@ These characters would be all voiced by tongatank the DM. It maybe difficult to 
 | Nevarr           | A writer and explorer. We have never met, but we know of this tombs (books)                 |
 
 
-
-
-## Context
-
-
-
 ### Vocab & Concepts
 
 Some these may be useful in identifying incorrect transcripton (based on spelling) or concepts that have meaning that could help determin context. Use these and character names to understand transcriptions errors.
@@ -95,10 +89,11 @@ export interface SessionChunkSummary {
    * a conprehensive summary with important plot points of the events of the DND session. Formatted in a way that could be pasted into my notes
    * Thematic plot summary (the ### sections at the top).
    * Prefer sections over a flat list so themes survive merging.
+   * Keep this section for important information, do not be more verbose than needed.
    */
   plotSections: PlotSection[];
 
-  /** Numbered chronological beat list — plain strings, already flattened. */
+  /** Numbered chronological beat list — plain strings, already flattened. Do not include unneeded infomration or small things that seem irrelavant */
   chronologicalEvents: string[];
 
   /**
@@ -111,7 +106,7 @@ export interface SessionChunkSummary {
   /** Likely ASR / spelling issues. Do not include any known misspellings/transcription issues */
   misTranscriptions: MisTranscription[];
 
-  /** Session-level questions still open after this chunk. */
+  /** Session-level questions still open after this chunk. These should be questions that expecitly come up, not questions that you come up with because of missing information*/
   openQuestions: string[];
 
   /** Newly introduced terms/concepts worth adding to campaign notes. */
@@ -153,7 +148,7 @@ export interface EntityUpdate {
   /** Notable quotes or recurring themes attributed to this entity. */
   quotesThemes: string[];
 
-  /** Unresolved questions specifically about this entity. */
+  /** Unresolved questions specifically about this entity. These should be questions that explicitly come up, no questions that you use for filling in unknown information. */
   openQuestions: string[];
 }
 

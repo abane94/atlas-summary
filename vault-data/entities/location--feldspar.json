@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/location/feldspar.md",
-  "description": "",
+  "description": "**Feldspar** is one of the arches. This session reinforced its identity as the arch devoted to magical knowledge, science, alchemy, and experimentation.",
   "type": "Location",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "**Feldspar** is one of the arches of Atlas, and the session on 2026-08-03 reaffirmed its identity as the realm devoted to magical knowledge, science, alchemy, and experimentation. Where other arches emphasize different ways of relating to the world, Feldspar stands out as the center of scholarly inquiry and practical magical study—pursuing understanding through research, alchemical craft, and deliberate experimentation rather than folklore or conventional spellcasting alone. This characterization was reinforced as the party weighed keystone choices and Ord ultimately accepted stewardship of Feldspar, aligning the arch’s scholarly, experimental nature with its new guardian.",
       "notes": [
         "Reinforced as the arch focused on magical knowledge, science, alchemy, and experimentation."
       ]
@@ -16,6 +16,6 @@
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.458Z",
-  "updatedAt": "2026-08-07T02:41:29.458Z"
+  "createdAt": "2026-08-10T02:34:27.254Z",
+  "updatedAt": "2026-08-10T02:34:27.254Z"
 }

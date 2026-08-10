@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/concept/portal.md",
-  "description": "",
+  "description": "During experimentation on 2026-08-03, the party found that successive portal activations can lead to entirely different locations rather than a fixed destination. Whether familiarity with a place or the opener's intent influences where a portal connects remains uncertain. In one attempt, however, a portal successfully opened to a location believed to be near Langdale.",
   "type": "CONCEPT",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "During the 2026-08-03 session, the party learned that successive portal activations can lead to entirely different destinations, making the outcome seem unstable rather than fixed. Whether a portal's endpoint is influenced by the opener's familiarity with a place or their intent remains uncertain. Nonetheless, at least one attempt appears to have successfully connected to a location believed to be near Langdale.",
       "notes": [
         "Successive activations can lead to entirely different locations.",
         "May be influenced by familiarity or intent, though this remains uncertain.",
@@ -21,6 +21,6 @@
     "Can the destination be intentionally selected with practice?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.458Z",
-  "updatedAt": "2026-08-07T02:41:29.458Z"
+  "createdAt": "2026-08-10T02:49:48.442Z",
+  "updatedAt": "2026-08-10T02:49:48.442Z"
 }

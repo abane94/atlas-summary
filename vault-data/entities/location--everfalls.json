@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/location/everfalls.md",
-  "description": "",
+  "description": "During the session on 2026-08-03, the Raven Queen told the party that she had seen Sylan and Dana on the Everfalls. These notes establish only that connection: the Everfalls is a place where she claims to have witnessed those two party members.",
   "type": "Location",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "During the 2026-08-03 session, the Everfalls were mentioned when the Raven Queen told the party she had walked among mortals and knew where they come from. She said she had been there, had seen, and had even seen some of them on the Everfalls, lingering pointedly on Sylan and Dana before continuing. Beyond that personal tie, the session reveals little else about the location itself, though it establishes that the Raven Queen has firsthand knowledge of the Everfalls and claims to have observed those two party members there. What she witnessed remains unclear.",
       "notes": [
         "The Raven Queen states she has seen Sylan and Dana on the Everfalls."
       ]
@@ -18,6 +18,6 @@
     "Why were Sylan and Dana specifically mentioned in connection with the Everfalls?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.458Z",
-  "updatedAt": "2026-08-07T02:41:29.458Z"
+  "createdAt": "2026-08-10T02:48:45.363Z",
+  "updatedAt": "2026-08-10T02:48:45.363Z"
 }

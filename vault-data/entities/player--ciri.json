@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/player/ciri.md",
-  "description": "",
+  "description": "Ciri is a half-elf rogue who, after hearing about the remaining arches, chooses to protect Lith.",
   "type": "PLAYER",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "Ciri, a half-elf rogue, commits to safeguarding **Lith** after learning about the remaining arches. When the party is assigned keystones and the last options are laid out for her—**La-rel**, **Terov**, and **Lith**—she listens to Plymouth’s explanations of each realm’s character and stakes. She settles on Lith, taking on the responsibility of its keystone and becoming the arch’s mortal keeper alongside the other party members. That choice ties her to a place often misunderstood as having abandoned magic, but whose people preserve it through folklore, fairy tales, legends, and cryptids rather than formal spellcraft.",
       "notes": [
         "Chooses to protect Lith after hearing about the remaining arches."
       ]
@@ -16,6 +16,6 @@
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.458Z",
-  "updatedAt": "2026-08-07T02:41:29.458Z"
+  "createdAt": "2026-08-10T02:32:33.969Z",
+  "updatedAt": "2026-08-10T02:32:33.969Z"
 }

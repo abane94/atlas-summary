@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/npc/kit_anger.md",
-  "description": "",
+  "description": "During the session on 2026-08-03, Kit Anger grew noticeably attentive once Sylan began discussing the journal and Gerk, and moved closer to observe Gerk after Sylan revealed his theory. He will help safeguard the unclaimed La-rel and Terov keystones until successors are found. Later, when Dana asked for a drink, he gave her a bottle of amber liquor, and the two sat together sharing drinks while the party unwound.",
   "type": "NPC",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "Kit Anger grows noticeably attentive once Sylan brings up the journal and Gerk, listening closely and moving nearer to observe Gerk after Sylan shares his theory—suggesting a personal stake in the matter that remains unexplained. He also commits to helping safeguard the unclaimed La-rel and Terov keystones until worthy successors can be found, reinforcing his role as a steward of the Gatekeepers' legacy. After the ceremony and the party's more intense moments, Kit takes a quieter turn: when Dana asks for a drink, he provides her with a bottle of amber liquor and sits with her to share it while the group unwinds, offering a moment of camaraderie amid the weight of recent events.",
       "notes": [
         "Becomes noticeably interested and begins closely listening once Sylan starts discussing the journal and Gerk.",
         "Became visibly interested once discussion turned to the journal and Gerk.",
@@ -24,6 +24,6 @@
     "Why did the discussion about Gerk attract Kit Anger's attention?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.457Z",
-  "updatedAt": "2026-08-07T02:41:29.457Z"
+  "createdAt": "2026-08-10T02:10:25.118Z",
+  "updatedAt": "2026-08-10T02:10:25.118Z"
 }

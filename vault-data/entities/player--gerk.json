@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/player/gerk.md",
-  "description": "",
+  "description": "Gerk, a half-orc barbarian and party ambassador, was publicly identified by Sylan as the child referenced in an old journal and the Mother's Prayer—a Keeper destined to open the doors tied to the Keystones. Though Plymouth examined him, Gerk remained uncertain whether the prophecy truly referred to him specifically; he has never seen himself as a chosen hero, does not seek power or glory, and said he is happiest adventuring with his friends. He accepted the path of the Mother's Prayer and the role of Doorman after deciding it would help all of Atlas, and chose stewardship of the Keystone of Midgar, becoming its guardian with responsibilities to open, close, protect, and improve Midgar. During the ceremony he saw a mysterious white-flower figure and suspected Plymouth agreed only to keep things moving. He then manifested Doorman abilities without prior instruction, opening an invisible doorway to a beach in Midgard, and was recognized as an honorary member of the Navi and a Child of the Tree. He continues to worry about the mysterious girl Daisy, who he claims once stopped time without others noticing. His portal-opening ability is not yet mastered—attempts often lead to seemingly random destinations—and Plymouth advised him to close the active portal for safety and promised future instruction on controlling it.",
   "type": "PLAYER",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "Gerk, a half-orc barbarian and party ambassador, is publicly named by Sylan as the child from an old journal and the Keeper destined to open the doors tied to the Keystones and the Mother's Prayer. Though Plymouth examines him and Gerk doubts the prophecy uniquely identifies him—he has never seen himself as a chosen hero—he accepts the path when convinced it will help all of Atlas, preferring fellowship over glory. He remains wary of Daisy, whom he claims once stopped time unnoticed. Gerk becomes the first Doorman in years, guardian of the Keystone of Midgard, with duties to open, close, protect, and improve the realm; he is honored as a Child of the Tree and an honorary Navi member. During the ceremony he sees a mysterious white-flower figure and, without instruction, opens an invisible doorway to a Midgard beach—demonstrating unique Doorman talent. His portal-making remains unmastered, producing random destinations despite focused attempts. Plymouth advises closing the active portal for safety and promises further training.",
       "notes": [
         "Sylan publicly identifies Gerk as the child referenced in an old journal.",
         "Sylan believes Gerk is destined to become a Keeper capable of opening the doors associated with the Keystones.",
@@ -65,6 +65,6 @@
     "How will Gerk learn to reliably reopen portals to specific destinations?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.456Z",
-  "updatedAt": "2026-08-07T02:41:29.456Z"
+  "createdAt": "2026-08-10T02:05:14.721Z",
+  "updatedAt": "2026-08-10T02:05:14.722Z"
 }

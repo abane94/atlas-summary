@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/location/pitel.md",
-  "description": "",
+  "description": "**Pitel** is one of the Arches of Atlas. During the session, its keystone was the first offered to Gerk as a possible choice when the party weighed which Arch to take on. While reviewing their options, the group remembered Pitel as the **elemental Arch**.",
   "type": "Location",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "During the session on 2026-08-03, **Pitel** emerged as a focal point while Gerk weighed which Arch's keystone he might accept. Its keystone was the first one presented to him as a possible choice. While the party reviewed their options, they recalled **Pitel** as the elemental Arch among the Archs of Atlas.",
       "notes": [
         "Its keystone is the first one presented to Gerk as a possible choice.",
         "The party recalls it as the elemental Arch while discussing options."
@@ -17,6 +17,6 @@
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.457Z",
-  "updatedAt": "2026-08-07T02:41:29.457Z"
+  "createdAt": "2026-08-10T02:20:17.142Z",
+  "updatedAt": "2026-08-10T02:20:17.142Z"
 }

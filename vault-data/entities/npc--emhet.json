@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/npc/emhet.md",
-  "description": "",
+  "description": "Before departing, Emhet offers the party one final chance to request assistance. He tells Dana she may continue to seek his guidance through prayer if she needs it. He reminds the party that they now hold the keys, and warns that if \"the mind walks,\" they should hold their breath, avoid shouting, and trust the path—closing with the words: \"If the mind walks, hold your breath. Do not yell. Trust the path, gatekeeper.\"",
   "type": "NPC",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "As the party prepared to depart, **Emhet** tells Dana she can seek continued guidance through prayer if needed, and offers the group one final opportunity to request assistance before he leaves. He reminds them that they now hold the keys, underscoring their responsibility as gatekeepers. His parting warning is stark: if \"the mind walks,\" they should hold their breath, avoid shouting, and trust the path.",
       "notes": [
         "Offers Dana continued guidance through prayer.",
         "Warns the party that if 'the mind walks,' they should hold their breath, avoid shouting, and trust the path.",
@@ -25,6 +25,6 @@
     "Who or what is the 'gatekeeper' being addressed?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.458Z",
-  "updatedAt": "2026-08-07T02:41:29.458Z"
+  "createdAt": "2026-08-10T02:42:20.861Z",
+  "updatedAt": "2026-08-10T02:42:20.861Z"
 }

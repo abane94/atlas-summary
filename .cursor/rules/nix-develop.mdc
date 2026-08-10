@@ -1,0 +1,22 @@
+---
+description: Use nix develop for node and npm commands
+alwaysApply: true
+---
+
+# Nix develop for Node tooling
+
+`node` and `npm` are not on the default PATH. Run them through the project flake:
+
+```bash
+nix develop -c node ...
+nix develop -c npm ...
+```
+
+Examples:
+
+```bash
+nix develop -c node src/example.ts
+nix develop -c npm install
+```
+
+Do not call bare `node` / `npm` in shells outside `nix develop`.

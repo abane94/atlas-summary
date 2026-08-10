@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/other/daisy.md",
-  "description": "",
+  "description": "Daisy is a mysterious figure known mainly through Gerk, who remains convinced she is a real small blonde girl who has interacted with him and who, he claims, once stopped time without anyone else noticing. The Navi present have no knowledge of her despite Gerk mentioning her repeatedly, and Plymouth has never personally seen her, though he finds her apparent presence troubling and intends to investigate further. Flowers are reaffirmed as Daisy's signature: Dana confirms that associated flowers appeared even though none had been present before, and concludes from this that Daisy was physically present.",
   "type": "OTHER",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "Daisy remains a deeply unsettling mystery during the 2026-08-03 session. Gerk is firmly convinced she is a real small blonde girl who has interacted with him directly, and he claims she once stopped time without anyone else noticing. Yet none of the Navi present recognize her, and Plymouth has never personally seen her despite Gerk mentioning her repeatedly—though Plymouth finds her apparent presence troubling and plans to investigate further. Flowers are reaffirmed as Daisy's signature, and Dana reports that such flowers appeared even when none had been present before. Dana therefore concludes Daisy was physically present, leaving tangible evidence where none had existed. The party is left divided between direct perception and physical proof of her existence.",
       "notes": [
         "Gerk remains convinced Daisy is a real small blonde girl who has interacted with him.",
         "According to Gerk, Daisy once stopped time without anyone else noticing.",
@@ -32,6 +32,6 @@
     "Why was Daisy present here?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.457Z",
-  "updatedAt": "2026-08-07T02:41:29.457Z"
+  "createdAt": "2026-08-10T02:16:39.336Z",
+  "updatedAt": "2026-08-10T02:16:39.336Z"
 }

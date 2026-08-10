@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/player/dana.md",
-  "description": "",
+  "description": "Dana, a half-elf cleric, accepts stewardship of the Keystone of Pitel. She describes Pitel as the center of the rings of Atlas and vows to guard the center of the rings of Atlas as its new guardian.",
   "type": "PLAYER",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "Dana, a half-elf cleric, accepts stewardship of Pitel's keystone during the session on 2026-08-03. She describes Pitel as the center of the rings of Atlas and takes on the responsibility that comes with that role, promising to guard that central place. In doing so, she joins the party's new generation of keystone guardians, committing not only to protect the artifact itself but also to uphold Pitel's place at the heart of the wider Atlas structure.",
       "notes": [
         "Accepts stewardship of Pitel's keystone.",
         "Describes Pitel as the center of the rings of Atlas while accepting the responsibility.",
@@ -19,6 +19,6 @@
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.457Z",
-  "updatedAt": "2026-08-07T02:41:29.457Z"
+  "createdAt": "2026-08-10T02:26:11.223Z",
+  "updatedAt": "2026-08-10T02:26:11.223Z"
 }

@@ -3,12 +3,12 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/player/ord.md",
-  "description": "",
+  "description": "Ord, a dragonborn paladin, accepts stewardship of the Keystone of Feldspar after weighing the remaining realms. Before he settles on that choice, he initially understands Lith as defined by blissful ignorance; Plymouth's fuller explanation of Lith's culture revises that impression. Ord also learns that Lith's rejection of magic does not mean magic is absent there. He chooses Feldspar as the arch he will protect.",
   "type": "PLAYER",
   "log": [
     {
       "date": "summaries/2026-08-03",
-      "summary": "",
+      "summary": "Ord, a dragonborn paladin, commits to the **Keystone of Feldspar** after weighing the remaining realms, naming Feldspar the arch he will protect. Before that choice, he assumes Lith is defined by blissful ignorance, but Plymouth's fuller account of its culture complicates that picture. He also learns that Lith's rejection of magic does not mean magic is absent there—only that it is not embraced as it is elsewhere.",
       "notes": [
         "Chooses the Keystone of Feldspar after considering the remaining realms.",
         "Initially believes Lith is defined by blissful ignorance before Plymouth explains its culture in greater detail.",
@@ -19,6 +19,6 @@
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-07T02:41:29.457Z",
-  "updatedAt": "2026-08-07T02:41:29.457Z"
+  "createdAt": "2026-08-10T02:27:42.007Z",
+  "updatedAt": "2026-08-10T02:27:42.007Z"
 }
