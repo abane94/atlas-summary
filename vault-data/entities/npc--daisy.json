@@ -1,0 +1,30 @@
+{
+  "name": "Daisy",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/npc/daisy.md",
+  "description": "Daisy is a mysterious small girl whose appearances are closely associated with Gerk and unexplained white flowers. She is not consistently visible to everyone and may possess unusual abilities, including the apparent ability to stop time without others noticing. White flowers seem to serve as her distinctive signature, appearing unexpectedly in connection with her presence.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Daisy repeatedly appeared around Gerk during the session, though her presence remained inconsistent and was not always visible to the rest of the party. Gerk claimed that Daisy had previously stopped time without anyone else noticing, adding to the mystery surrounding her abilities. Her appearances continued to be marked by unexplained white flowers appearing in places where they seemingly should not be. Dana recognized these flowers as Daisy’s distinctive signature. During the current events, Gerk, Sylan, Walker, and Plymouth were all able to perceive the mysterious white-flower girl.",
+      "notes": [
+        "Daisy has repeatedly appeared around Gerk but is not consistently visible to the rest of the party.",
+        "Gerk claims Daisy has previously stopped time without others noticing.",
+        "Her presence is associated with unexplained white flowers appearing where none should be present.",
+        "Dana recognizes the flowers as Daisy's distinctive signature.",
+        "Gerk, Sylan, Walker, and Plymouth can perceive the mysterious white-flower girl during the current events."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Who is Daisy?",
+    "How is Daisy connected to Gerk, the Mother's Prayer, and the Great Eldarin Tree?",
+    "Can Daisy actually stop or manipulate time?",
+    "Where is Daisy leading Gerk?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T14:46:09.658Z",
+  "updatedAt": "2026-08-11T14:46:09.659Z"
+}

@@ -183,10 +183,55 @@ export async function mergeSessionData(page: any, sessionData: { recap: SessionC
     }
 
     const url = "https://chatgpt.com";
+
     await page.goto(url, { waitUntil: "networkidle2" });
+    const plotSections = await runJsonPrompt(page, `
+        This json blob below is a list of plot sections that have been updated in the session.
+        They were the outcome of baches of transcription summerization that was done prgramatically,
+        There are likely many duplicates in the list, that may have similar but different names, or descriptions, or other information.
+        and you are tasked with reviewing the list and combining any plot sections that are similar and removing any duplicates.
+        and making sure that the plot sections are correct and the information is consistent, not duplicated, and concise.
+        Can you please return a new json blob that matches the original format, but mergeing any common plot sections and removing any duplicate information
+        The out put should be json and only json following this iterface
+        \`\`\`typescript
+        export interface PlotSection {
+            /** Section heading; use "Overview" if the source had no thematic headers. */
+            title: string;
+            /** Flatten nested bullets into one string each (include sub-detail in the same string if needed). */
+            bullets: string[];
+        }
+        export interface Output{
+            plotSections: PlotSection[];
+        }
+        \`\`\`
+        ${JSON.stringify(merged.plotSections, null, 4)}
+    `, 60000);
+    console.log(plotSections);
+    merged.plotSections = JSON.parse(plotSections).plotSections;
+
+    await page.goto(url, { waitUntil: "networkidle2" });
+    const chronologicalEvents = await runJsonPrompt(page, `
+        This json blob below is a list of chronological events that have been updated in the session. This merge was done prgramatically,
+        Can you please return a new json blob that matches the original format, but mergeing any common chronological events and removing any duplicate information
+        The out put should be json and only json following this iterface
+        \`\`\`typescript
+        export interface ChronologicalEvent {
+            events: string[];
+        }
+        \`\`\`
+        ${JSON.stringify(merged.chronologicalEvents, null, 4)}  
+    `);
+    (merged as any).chronologicalEventsDeduped = JSON.parse(chronologicalEvents).events;
+
+
+    await page.goto(url, { waitUntil: "networkidle2", timeout: 60000 });
     const entities = await runJsonPrompt(page, `
-        This json blob below is a list of entities that have been updated in the session. This merge was done prgramatically, and you are tasked with reviewing the list and making sure that the entities are correct.
-        Can you please return a new json blob that matches the original format, but mergeing any common etities and removing any duplicate information
+        This json blob below is a list of entities that have been updated in the session.
+        They were the outcome of baches of transcription summerization that was done prgramatically,
+        There are likely many duplicates in the list, that may have similar but different names, or descriptions, or other information.
+        and you are tasked with reviewing the list and combining any entities that are similar and removing any duplicates.
+        and making sure that the entities are correct and the information is consistent, not duplicated, and concise.
+        Can you please return a new json blob that matches the original format,
         The out put should be json and only json following this iterface
         \`\`\`typescript
         export interface EntityUpdate {
@@ -231,7 +276,11 @@ export async function mergeSessionData(page: any, sessionData: { recap: SessionC
 
     await page.goto(url, { waitUntil: "networkidle2" });
     const terms = await runJsonPrompt(page, `
-        This json blob below is a list of terms that have been updated in the session. This merge was done prgramatically,
+        This json blob below is a list of terms that have been updated in the session.
+        They were the outcome of baches of transcription summerization that was done prgramatically,
+        There are likely many duplicates in the list, that may have similar but different names, or descriptions, or other information.
+        and you are tasked with reviewing the list and combining any terms that are similar and removing any duplicates.
+        and making sure that the terms are correct and the information is consistent, not duplicated, and concise.
         Can you please return a new json blob that matches the original format, but mergeing any common terms and removing any duplicate information
         The out put should be json and only json following this iterface
         \`\`\`typescript
@@ -249,7 +298,7 @@ export async function mergeSessionData(page: any, sessionData: { recap: SessionC
 
         ${JSON.stringify(merged.entities, null, 4)}
     `);
-    merged.dedupedEntities = entities.entities;
-    (merged as any).dedupedTerms = terms.terms;
+    merged.dedupedEntities = JSON.parse(entities).entities;
+    (merged as any).dedupedTerms = JSON.parse(terms).terms;
     return merged;
 }

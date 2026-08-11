@@ -1,0 +1,24 @@
+{
+  "name": "Keystone Keepers",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/group/keystone_keepers.md",
+  "description": "The Keystone Keepers are the six party members entrusted with protecting and using the currently assigned keystones and their associated realms: Gerk of Midgard, Sylan of Gilbrick, Dana of Pitel, Walker of The Reach, Ord of Feldspar, and Ciri of Lith. Their role connects them to the larger struggle against the lich pursuing the keystones. As keepers, they are recognized as Children of the Great Eldarin Tree and honorary members of the Navi.",
+  "type": "GROUP",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "The six Keystone Keepers were formally entrusted with individual keystones and their associated realms: Gerk with Midgard, Sylan with Gilbrick, Dana with Pitel, Walker with The Reach, Ord with Feldspar, and Ciri with Lith. They are now responsible for protecting and actively using their keystones and safeguarding their assigned realms. Their new duties are tied directly to the party’s pursuit of a lich who is also seeking the keystones, making the keepers’ responsibilities part of the larger conflict. As a result of becoming keepers, the six were recognized as Children of the Great Eldarin Tree and granted honorary membership among the Navi.",
+      "notes": [
+        "Current assignments are Gerk/Midgard, Sylan/Gilbrick, Dana/Pitel, Walker/The Reach, Ord/Feldspar, and Ciri/Lith.",
+        "The keepers are responsible for protecting and actively using their keystones and realms.",
+        "The lich being pursued by the party is also seeking the keystones, connecting the keepers' new responsibilities to the larger threat.",
+        "The six keepers are recognized as Children of the Great Eldarin Tree and honorary members of the Navi."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T16:21:54.141Z",
+  "updatedAt": "2026-08-11T16:21:54.141Z"
+}

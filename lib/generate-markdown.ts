@@ -3,7 +3,12 @@ import fs from 'fs/promises';
 import path from 'path';
 
 export async function generateMarkdown(vaultDataFolder: string, vaultOutputFolder: string) {
-    let indexMarkdown = `# Welcome to the world of Atlas!\n\n`;
+    let indexFrontmatter = [
+        '---',
+        'title: Archesof Atlas!',
+        '---',
+    ].join('\n') + '\n\n';
+    let indexMarkdown = `${indexFrontmatter} # Welcome to the world of Atlas!\n\n`;
     indexMarkdown += 'Join our party as we seek to collect all of the keystones and unlock their anient secrets.\n\n';
     indexMarkdown += '## Sessions\n\n';
 
@@ -24,8 +29,8 @@ export async function generateMarkdown(vaultDataFolder: string, vaultOutputFolde
     for (const sessionPath of sessionsPaths) {
         const sessionData = JSON.parse(await fs.readFile(path.join(vaultDataFolder, 'log', sessionPath.name), 'utf8')) as SessionData;
         const sessionSummary = await generateSessionFile(sessionData, vaultOutputFolder, entityDataList);
-        indexMarkdown += `## [${sessionData.date}](${path.join('log', sessionPath.name)})\n`;
-        indexMarkdown += `${sessionSummary}\n`;
+        indexMarkdown += `## [[log/${sessionData.date}|${sessionData.date}]]\n`;
+        indexMarkdown += `${insertWikiLinks(sessionSummary, entityDataList)}\n`;
     }
 
     // const entitiesPaths = await fs.readdir(path.join(vaultDataFolder, 'entities'), { withFileTypes: true });
@@ -71,6 +76,7 @@ async function generateEntityFile(entityData: EntityData, vaultOutputFolder: str
     let frontmatter = [
         '---',
         `name: ${entityData.name}`,
+        `title: ${entityData.name}`,
         `type: ${entityData.type}`,
         `description: ${entityData.description.replaceAll('\n', ' ').replaceAll(/[*\#\-_`~:|]/g, '')}`,
         `tags:\n${[...entityData.tags, entityData.type.toLowerCase()].map(t => `  - "${t}"`).join(', ')}`,
@@ -86,7 +92,7 @@ async function generateEntityFile(entityData: EntityData, vaultOutputFolder: str
 
     markdown += `## Log\n\n`;
     for (const logEntry of entityData.log) {
-        markdown += `- ${logEntry.date} - ${logEntry.summary}\n`;
+        markdown += `### [[log/${logEntry.date}|${logEntry.date}]]\n ${logEntry.notes.map(note => `- ${note}`).join('\n')}\n`;
     }
 
     markdown += `## Open Questions\n\n`;

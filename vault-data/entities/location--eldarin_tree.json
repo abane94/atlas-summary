@@ -1,0 +1,32 @@
+{
+  "name": "Eldarin Tree",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/eldarin_tree.md",
+  "description": "The Great Eldarin Tree is one of the greatest and most sacred magical places in Atlas and is deeply connected to the Navi and the Mother’s Prayer. The Navi studied the Tree and distilled knowledge from its rings to create the keystones, linking the Tree to the origin and purpose of these powerful objects. The Tree is also associated with the chosen children of the Mother’s Prayer, with Gerk described as a child or son of the Great Tree. The Tree has diminished significantly and is in grave circumstances, though a new bud is expected to appear at the end of the current growing season. Through their roles as keystone keepers, the party has become Children of the Great Eldarin Tree and honorary members of the Navi.",
+  "type": "Location",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "The Great Eldarin Tree was revealed to be in grave circumstances, having diminished significantly from its former state. The Navi historically studied and distilled knowledge from the Tree’s rings to create the keystones, and its connection to the Mother’s Prayer and her chosen children was further clarified. Gerk was identified as a child or son of the Great Tree, metaphorically described as having been plucked from it like ripe fruit. The party’s acceptance of the keystone-keeper mantles established them as Children of the Great Eldarin Tree, granting them honorary membership in the Navi. Despite the Tree’s diminished condition, a new bud is expected to emerge at the end of the current growing season, suggesting the possibility of renewal.",
+      "notes": [
+        "One of the greatest and most sacred magical places in Atlas.",
+        "The Navi studied and distilled knowledge from its rings to create the keystones.",
+        "The Great Tree is connected to the Mother's Prayer and its chosen children.",
+        "Gerk is described as a son or child of the Great Tree, metaphorically plucked from it like ripe fruit.",
+        "The Tree has diminished significantly and is in grave circumstances.",
+        "A new bud is expected to appear as the current growing season ends.",
+        "The party is now considered Children of the Great Eldarin Tree through its keystone-keeper mantles.",
+        "This connection grants the party honorary membership in the Navi."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What exactly is Gerk's connection to the Eldarin Tree?",
+    "What causes the Tree to produce a new chosen child?",
+    "What does the next bud signify?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T14:30:08.343Z",
+  "updatedAt": "2026-08-11T14:30:08.343Z"
+}

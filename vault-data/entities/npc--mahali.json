@@ -1,0 +1,22 @@
+{
+  "name": "Mahali",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/npc/mahali.md",
+  "description": "Mahali is an elder god who serves as the party’s chef. He is associated with the party’s stronghold and is known for welcoming the party back and preparing elaborate meals for them.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Mahali followed Ben through the doorway into the traveling tavern and invited the party to return to the stronghold. He described a meal awaiting them there, featuring lamb soufflés, cabbage stew, and a choice of cherry or lemon curd.",
+      "notes": [
+        "Follows Ben through the doorway into the traveling tavern.",
+        "Invites the party to return to the stronghold and describes a meal of lamb souffles, cabbage stew, and cherry or lemon curd."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T15:54:38.743Z",
+  "updatedAt": "2026-08-11T15:54:38.743Z"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Renard",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/npc/renard.md",
+  "description": "Renard is a smiling trickster associated with La-rel, a Feywild-like realm. The party encountered Renard during a previous visit to La-rel.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Renard was encountered by the party during a previous visit to La-rel, appearing as a smiling trickster within the realm’s Feywild-like environment.",
+      "notes": [
+        "Associated with La-rel and its Feywild-like environment.",
+        "The party encountered Renard during a previous visit to La-rel."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T16:19:09.056Z",
+  "updatedAt": "2026-08-11T16:19:09.056Z"
+}

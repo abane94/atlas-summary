@@ -1,53 +1,259 @@
 {
     "plotSections": [
         {
-            "title": "Session Recap and Clarifications",
+            "title": "Cosmic Hierarchy and Kar's Influence",
             "bullets": [
-                "The party recapped discoveries from the previous session before continuing the story.",
-                "The gods' inability to directly interfere with mortals was clarified further: this restriction applies specifically to Elder Gods and Voyager Gods, allowing powerful non-deity entities like Kar to act through the mortal world.",
-                "Grixto remains the leading explanation for how Kar is exerting influence over Atlas, acting as Kar's mortal proxy.",
-                "The DM clarified that within Atlas, the Abyssal Plane and the Astral Sea are the same location, resolving earlier confusion over the terminology.",
-                "The party reviewed the differing accounts of how the Raven Queen rose to power, comparing her own version of events with Vecna's account.",
-                "The session officially resumed with the council assembled around the activated Keystone, attended by numerous gods and important allies before any new discussions began.",
-                "The party was reminded to level up to level 19."
+                "The gods clarified that elder gods and the other major deities cannot directly interfere in mortal affairs. Kar is not technically a god or deity; he is instead an extremely powerful entity, described as being comparable to a deity in power and more akin to a demon or devil. Because Kar is not subject to the same restriction, he can directly interact with mortals.",
+                "Grixto is therefore believed to be a mortal agent or proxy through whom Kar can establish his will in the mortal world. This remains an inference rather than a fully confirmed explanation.",
+                "Kar has been fighting the gods for a long time and has reportedly lost many of those conflicts. He is associated with the Astral Sea/Abyssal Plane, which are explicitly the same thing within the context of Atlas, and the party has been warned against going there."
+            ]
+        },
+        {
+            "title": "Nevarr and the Books",
+            "bullets": [
+                "Nevarr is believed to have somehow narrated or written himself into one of his own books and now exists within a demiplane associated with his writings.",
+                "The party does not know whether the story is true or how to reach Nevarr. Collecting his books was discussed as a possible optional side quest, and a Feylord may potentially know how to access the relevant demiplane."
+            ]
+        },
+        {
+            "title": "The Raven Queen's Ascension",
+            "bullets": [
+                "The party heard two accounts of how the Raven Queen, Nira, rose to power: one from the Raven Queen herself and another from Vecna. The accounts broadly agree on the major events but differ in important details.",
+                "The Raven Queen said she was once a mortal elf who died in battle. After her death, Narul encountered her near the Everfalls and offered her a means to continue existing. She accepted, learned from Narul how to harbor souls, and eventually overthrew him.",
+                "The Raven Queen struck Narul down but did not kill him, apparently because gods cannot simply be killed in this manner. She instead left him in the condition in which the party later encountered him in Gilbrick, framing this as repayment for the role he played in saving her.",
+                "The Raven Queen identified herself as Nira the War Princess. The exact name Narul originally used for her was discussed but remains uncertain.",
+                "Vecna's version was more antagonistic toward the Raven Queen and claimed that she was assassinated rather than killed in battle. The differing accounts remain unresolved."
+            ]
+        },
+        {
+            "title": "Council and Current Party Status",
+            "bullets": [
+                "The session resumes with the party gathered in the council created by the ringing of the keystone. Present major figures include Ben, Mahali, Narul, the Raven Queen, and Vecna, alongside Elrus, Araden, Kit Anger, Juten Prime, and Plymouth Gawater.",
+                "The party was confirmed to have reached level 19.",
+                "Gerk is characterized as prone to spreading entertaining rumors; he intends to tell people that Walker may be a god because Walker has a dragon, may live indefinitely, and has previously been directly associated with godlike claims."
             ]
         }
     ],
     "chronologicalEvents": [
-        "The group recapped discoveries from the previous session.",
-        "The party confirmed that Gerk never owed Ben a bar tab.",
-        "The party reviewed that Elder Gods and Voyager Gods cannot directly interfere with mortals, making Grixto the likely means by which Kar acts in the world.",
-        "The DM clarified that Kar is not technically a god but an extremely powerful entity comparable to a demon or devil.",
-        "The DM clarified that the Astral Sea and Abyssal Plane refer to the same place within Atlas.",
-        "The party reviewed the belief that Nevarr may have written himself into one of his own books.",
-        "The party discussed the conflicting stories surrounding the Raven Queen's ascension.",
-        "The Raven Queen's account was reviewed: she died in battle, met Narul before falling into the Everfalls, accepted his offer, learned to harbor souls, overthrew Narul, and spared him after discovering gods cannot truly be killed.",
-        "The party recalled that Vecna's version differed by claiming the Raven Queen had been assassinated and portrayed her far more negatively.",
-        "The DM confirmed the Raven Queen's mortal name was Nira.",
-        "The DM clarified that only Elder Gods and Voyager Gods are restricted from directly acting upon mortals; lesser divine beings or other powerful entities may not share this limitation.",
-        "The party resumed play at the council gathered around the Keystone with the assembled gods and allies.",
-        "The DM reminded everyone to advance their characters to level 19."
+        "The party recapped that gods cannot directly interfere with mortal affairs, leading to the theory that Grixto acts as Kar's mortal proxy.",
+        "The party clarified that Kar is not technically a god; he is an extremely powerful entity capable of directly interacting with mortals.",
+        "The DM clarified that, within Atlas, the Abyssal Plane and Astral Sea are the same realm and that Kar is associated with it.",
+        "The party discussed the belief that Nevarr narrated himself into a book and may now exist in a demiplane connected to his writings.",
+        "A possible optional quest to locate Nevarr through his books was discussed, with a Feylord potentially being able to provide access to his demiplane.",
+        "The party confirmed that nobody currently knows who Daisy is or has been able to explain her significance.",
+        "The party reviewed two conflicting accounts of the Raven Queen's rise to power, one from Vecna and one from the Raven Queen herself.",
+        "The Raven Queen revealed that her name was Nira the War Princess and that she was once a mortal elf who died in battle.",
+        "According to the Raven Queen, Narul encountered her near the Everfalls, offered her a way to continue existing, and taught her to harbor souls before she eventually overthrew him.",
+        "Vecna's version claimed that the Raven Queen was assassinated rather than killed in battle and presented her history in a considerably more antagonistic light.",
+        "The Raven Queen confirmed that she struck Narul down but left him alive after realizing gods could not be killed in that manner.",
+        "The party confirmed that all characters should now be level 19.",
+        "The DM clarified that Ben is a minor deity/demigod-like figure, while Mahali is Ben's father and is not himself a mortal chef despite being referred to as the party's chef."
     ],
     "entities": {
         "Kar": {
-            "existing": "A very powerful entity and apparent primary antagonist.",
+            "existing": "Extremely powerful entity and apparent main antagonist.",
+            "entityType": "OTHER",
+            "otherEntityType": "Powerful supernatural entity",
+            "notes": [
+                "Kar is explicitly not technically a god or deity.",
+                "Kar is an entity of immense power comparable to a deity and has been described as more akin to a demon or devil.",
+                "Unlike elder gods and the other restricted deities, Kar can directly interact with mortals.",
+                "Kar has been fighting the gods for a long time and has lost many of those conflicts.",
+                "Kar is associated with the Astral Sea/Abyssal Plane within Atlas.",
+                "Grixto is believed to act as Kar's proxy in the mortal world."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Kar's influence over the mortal world may operate through proxies because he is powerful enough to interact with mortals directly."
+            ],
+            "openQuestions": [
+                "What exactly is Kar's nature if he is neither a god nor a deity?",
+                "Why has Kar been fighting the gods, and what is he ultimately trying to accomplish?"
+            ]
+        },
+        "Grixto": {
+            "existing": "Proxy of Kar and also known as the Enlightened One / Emperor.",
             "entityType": "NPC",
             "notes": [
-                "Confirmed not to be a true god despite possessing godlike power.",
-                "More accurately described as a powerful entity comparable to a demon or devil.",
-                "Can directly interact with mortals because he is not an Elder God or Voyager God.",
-                "Likely operates through Grixto as his agent within the mortal world."
+                "Grixto is now strongly suspected to be Kar's mortal agent or proxy.",
+                "The party's theory is that Grixto allows Kar to establish his will in the mortal world.",
+                "This role is based on the restriction preventing elder gods and major deities from directly interfering with mortals."
+            ],
+            "titles": [
+                "Proxy of Kar"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How exactly does Grixto receive or carry out Kar's will?"
+            ]
+        },
+        "Nevarr": {
+            "existing": "Writer and explorer known through his books and tombs.",
+            "entityType": "NPC",
+            "notes": [
+                "There is a belief that Nevarr somehow narrated or wrote himself into one of his own books.",
+                "He is believed to now exist within a demiplane connected to his books.",
+                "A possible way to reach that demiplane may involve a Feylord.",
+                "The party discussed collecting Nevarr's books as a possible optional side quest."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Nevarr's writings may have become a means of accessing or containing Nevarr himself."
+            ],
+            "openQuestions": [
+                "Did Nevarr actually write himself into a book?",
+                "Which book contains or leads to Nevarr?",
+                "How can the party reach his demiplane?"
+            ]
+        },
+        "Raven Queen": {
+            "existing": "Also known as Nira; god of the dead and an elder god.",
+            "entityType": "NPC",
+            "notes": [
+                "The Raven Queen confirmed that her name is Nira the War Princess.",
+                "She was once a mortal elf who died in battle.",
+                "After her death, Narul encountered her near the Everfalls and offered her a way to continue existing.",
+                "She accepted Narul's offer and learned from him how to harbor souls.",
+                "She eventually overthrew and struck down Narul.",
+                "She did not kill Narul because gods cannot simply be killed through such an attack.",
+                "She left Narul in the state in which the party later encountered him in Gilbrick, viewing this as repayment for the role he played in saving her.",
+                "Her account conflicts with Vecna's claim that she was assassinated."
+            ],
+            "titles": [
+                "Nira the War Princess",
+                "Raven Queen",
+                "God of the Dead"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "Her version of her ascension emphasizes repayment to Narul rather than simply destroying him."
+            ],
+            "openQuestions": [
+                "What battle killed Nira when she was mortal?",
+                "What was the exact name Narul originally gave her?",
+                "Why do her account and Vecna's account differ over whether she was killed in battle or assassinated?"
+            ]
+        },
+        "Narul": {
+            "existing": "Also known as the Stranger; elder god and previous god of death.",
+            "entityType": "NPC",
+            "notes": [
+                "Narul encountered Nira after her mortal death and offered her a means to continue existing.",
+                "He taught Nira how to harbor souls.",
+                "Nira later overthrew and struck him down, leaving him alive in his weakened state."
+            ],
+            "titles": [
+                "The Stranger",
+                "Previous God of Death"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What exactly was the original nature of Narul's bargain with Nira?"
+            ]
+        },
+        "Vecna": {
+            "existing": "Elder god and god of liches.",
+            "entityType": "NPC",
+            "notes": [
+                "Vecna provided a version of the Raven Queen's ascension that differs from her own account.",
+                "Vecna claimed that Nira was assassinated rather than killed in battle.",
+                "His account portrayed the Raven Queen in a significantly more antagonistic and disrespectful manner."
+            ],
+            "titles": [
+                "God of Liches"
+            ],
+            "personality": [
+                "Presented a strongly antagonistic interpretation of the Raven Queen's history."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Which elements of Vecna's account of Nira's ascension are accurate?"
+            ]
+        },
+        "Ben": {
+            "existing": "Minor deity/demigod-like figure, friend of the party, travelling-bar keeper, and keeper of the Watchers.",
+            "entityType": "NPC",
+            "notes": [
+                "The DM clarified that Ben is not a lich.",
+                "Ben is described as a minor deity or demigod-like figure.",
+                "Mahali is Ben's father.",
+                "The party confirmed that Gerk does not owe Ben a tab; there is no outstanding debt."
+            ],
+            "titles": [
+                "Keeper of the Watchers",
+                "Travelling Bar Keeper"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mahali": {
+            "existing": "Elder god and the party's chef.",
+            "entityType": "NPC",
+            "notes": [
+                "Mahali is confirmed to be Ben's father."
+            ],
+            "titles": [
+                "Elder God",
+                "Chef"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Walker previously referred to himself or was referred to in a way that led the party to joke that he may be a god.",
+                "Gerk intends to spread the rumor that Walker might be a god, citing his apparent longevity and possession of a dragon."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Grixto": {
-            "existing": "Proxy of Kar, also known as 'The Enlightened One' or 'The Emperor'.",
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Gerk was characterized as pouting on the floor at the beginning of the recap.",
+                "The party confirmed that Gerk does not owe Ben any money.",
+                "Gerk plans to spread a rumor that Walker may be a god."
+            ],
+            "titles": [
+                "Party Ambassador"
+            ],
+            "personality": [
+                "Prone to spreading humorous rumors."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Daisy": {
+            "existing": "",
             "entityType": "NPC",
             "notes": [
-                "Continues to be the leading explanation for how Kar influences the mortal world due to the gods' inability to act directly."
+                "The party revisited questions about Daisy's identity and significance.",
+                "No one currently appears to know who Daisy is."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who is Daisy and what is her significance to the story?"
+            ]
+        },
+        "Feylord": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Supernatural title/category",
+            "notes": [
+                "A Feylord may potentially be capable of helping the party access the demiplane where Nevarr is believed to reside."
             ],
             "titles": [],
             "personality": [],
@@ -55,192 +261,162 @@
             "openQuestions": []
         },
         "Astral Sea": {
-            "existing": "The space around and between the Arches of Atlas.",
+            "existing": "The space around and between the arches.",
             "entityType": "Location",
             "notes": [
-                "Confirmed by the DM to be synonymous with the Abyssal Plane within Atlas.",
-                "Kar resides within this realm."
+                "The DM explicitly clarified that, within Atlas, the Astral Sea and Abyssal Plane are the same place.",
+                "Kar is believed to reside or operate in this realm.",
+                "The party has been warned against going there."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Nevarr": {
-            "existing": "Writer and explorer known for his books.",
-            "entityType": "NPC",
-            "notes": [
-                "The prevailing theory is that he somehow wrote or narrated himself into one of his books.",
-                "His books may provide a means of reaching him if necessary."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": [
-                "Would collecting or using Nevarr's books allow someone to reach him?"
-            ]
-        },
-        "Raven Queen": {
-            "existing": "Nira, current goddess of the dead and Elder God.",
-            "entityType": "NPC",
-            "notes": [
-                "Her mortal name was confirmed to be Nira.",
-                "According to her account, she died in battle before encountering Narul.",
-                "Narul offered her a chance to continue existing, and she learned from him how to harbor souls.",
-                "She eventually overthrew Narul but spared him after realizing gods cannot truly be killed.",
-                "Vecna presents a conflicting version of her rise, including that she was assassinated before meeting Narul."
-            ],
-            "titles": [
-                "War Princess (while mortal)"
-            ],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": [
-                "Which account of her ascension is closest to the truth?"
-            ]
-        },
-        "Narul": {
-            "existing": "The Stranger, former Elder God of death.",
-            "entityType": "NPC",
-            "notes": [
-                "According to the Raven Queen, he found Nira before the Everfalls and offered her continued existence.",
-                "He taught Nira how to harbor souls.",
-                "After being defeated by Nira, he was left alive because gods cannot truly be killed."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Vecna": {
-            "existing": "Elder God associated with liches.",
-            "entityType": "NPC",
-            "notes": [
-                "Confirmed to also be associated with secrets and magic.",
-                "Provided a conflicting and more antagonistic account of the Raven Queen's ascension.",
-                "Claimed the Raven Queen had been assassinated before becoming a goddess."
-            ],
-            "titles": [
-                "God of Secrets",
-                "God of Magic"
-            ],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Ben": {
-            "existing": "Minor deity who operates the traveling bar and Keeper of the Watchers.",
-            "entityType": "NPC",
-            "notes": [
-                "Confirmed that Gerk does not owe him a tab.",
-                "Reconfirmed to be the child of Mahali and Nira (not a lich)."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Mahali": {
-            "existing": "Elder God and the party's chef.",
-            "entityType": "NPC",
-            "notes": [
-                "Reconfirmed to be Ben's father."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Voyager Gods": {
+        "Abyssal Plane": {
             "existing": "",
-            "entityType": "CONCEPT",
+            "entityType": "Location",
             "notes": [
-                "Introduced as a class of gods alongside the Elder Gods.",
-                "Voyager Gods share the same restriction preventing direct interference with mortals."
+                "Within Atlas, the Abyssal Plane is explicitly synonymous with the Astral Sea.",
+                "Kar is associated with this realm."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
-            "openQuestions": [
-                "What distinguishes Voyager Gods from Elder Gods?"
-            ]
+            "openQuestions": []
+        },
+        "Everfalls": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The Raven Queen said she met Narul near the Everfalls after dying as a mortal.",
+                "The exact circumstances and location details of the Everfalls were not established in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nira the War Princess": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Historical identity/title",
+            "notes": [
+                "This was identified by the DM as the Raven Queen's name/title during her mortal-to-divine history."
+            ],
+            "titles": [
+                "War Princess"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
         }
     },
     "misTranscriptions": [
         {
-            "heard": "Virk / Girk / Burke",
+            "heard": "Girk / Virk / Gurk / Girchrine",
             "likely": "Gerk",
-            "notes": "Player character name."
+            "notes": "Repeated alternate forms of Gerk's name."
         },
         {
             "heard": "Siri",
             "likely": "Ciri",
-            "notes": "Player character name."
+            "notes": "Ciri's name is repeatedly transcribed as Siri."
         },
         {
-            "heard": "Vecta / Vechna / Beckna",
+            "heard": "Bechna / Vecta / Vecta's / Vacna / Vecn",
             "likely": "Vecna",
-            "notes": "Elder God."
-        },
-        {
-            "heard": "Car / Carr",
-            "likely": "Kar",
-            "notes": "Primary antagonist."
+            "notes": "Multiple distorted forms occur during the discussion of Vecna and the Raven Queen."
         },
         {
             "heard": "Erixto",
             "likely": "Grixto",
-            "notes": "Kar's proxy."
+            "notes": "Appears while discussing Kar's proxy."
         },
         {
-            "heard": "Maholly",
-            "likely": "Mahali",
-            "notes": "Ben's father."
-        },
-        {
-            "heard": "Narena / Neren",
-            "likely": "Nira",
-            "notes": "The Raven Queen's mortal name."
-        },
-        {
-            "heard": "Ever Falls / Evan Falls",
-            "likely": "Everfalls",
-            "notes": "Location referenced in the Raven Queen's story."
-        },
-        {
-            "heard": "Missile plane",
-            "likely": "Abyssal Plane",
-            "notes": "Clarified to be synonymous with the Astral Sea."
+            "heard": "Navar / Navarr",
+            "likely": "Nevarr",
+            "notes": "Appears during the discussion of the writer who supposedly narrated himself into a book."
         },
         {
             "heard": "Pliveth",
             "likely": "Plymouth Gawater",
-            "notes": "NPC referenced while discussing Daisy."
+            "notes": "Appears in the discussion of Daisy and the earlier conversation with the gnome artificer."
         },
         {
             "heard": "Yoden Prime",
             "likely": "Juten Prime",
-            "notes": "Original keeper of the Keystones."
+            "notes": "DM's list of original council participants uses Yoden Prime, but the established NPC name is Juten Prime."
+        },
+        {
+            "heard": "Nerule / Neren / Narena",
+            "likely": "Nira",
+            "notes": "The party speculated about the name Narul originally gave the Raven Queen, but the DM explicitly confirmed Nira as her name. The original alternate name remains uncertain."
+        },
+        {
+            "heard": "Evan Falls",
+            "likely": "Everfalls",
+            "notes": "The location where Narul encountered Nira was initially uncertain in the transcription, but the DM confirmed the location name as Everfalls."
+        },
+        {
+            "heard": "Voyager gods",
+            "likely": "Younger gods",
+            "notes": "The phrase occurs while contrasting gods affected by the restriction on directly interacting with mortals. The intended term is uncertain but likely refers to a category of gods distinct from elder gods."
+        },
+        {
+            "heard": "Sea of Nicks",
+            "likely": "",
+            "notes": "Appears in a discussion about Vecna, the death gods, and an earlier pact. The intended canonical term could not be determined confidently from this chunk."
         }
     ],
     "openQuestions": [
-        "Is Grixto truly Kar's sole method of influencing the mortal world?",
-        "Can Nevarr be reached through his books?",
-        "Which version of the Raven Queen's ascension is accurate: her account or Vecna's?",
-        "What exactly are Voyager Gods, and how do they differ from Elder Gods?"
+        "What exactly is Kar, if he is neither a god nor a deity?",
+        "What is Kar ultimately trying to accomplish by fighting the gods?",
+        "How exactly does Grixto serve as Kar's proxy?",
+        "Did Nevarr actually narrate himself into a book?",
+        "Which book contains or leads to Nevarr's supposed demiplane?",
+        "How can the party access Nevarr's demiplane?",
+        "Who is Daisy and what is her significance?",
+        "What battle killed Nira when she was mortal?",
+        "Why do Nira's and Vecna's accounts differ over whether she died in battle or was assassinated?",
+        "What name did Narul originally give Nira?",
+        "What exactly was the bargain Narul offered Nira?"
     ],
     "newTerms": [
         {
-            "name": "Voyager Gods",
+            "name": "Kar's Proxy",
             "notes": [
-                "A class of deities distinct from Elder Gods.",
-                "They share the restriction against directly interfering with mortals."
+                "A mortal or other intermediary through whom Kar can establish his will in the mortal world; Grixto is suspected to fill this role."
             ]
         },
         {
-            "name": "Everfalls",
+            "name": "Abyssal Plane",
             "notes": [
-                "Location where Nira encountered Narul after her mortal death according to the Raven Queen's account."
+                "Within Atlas, this is another name for the Astral Sea, the realm surrounding and between the arches."
+            ]
+        },
+        {
+            "name": "Feylord",
+            "notes": [
+                "A powerful Fey-associated figure who may be capable of helping the party reach Nevarr's suspected demiplane."
+            ]
+        },
+        {
+            "name": "Nevarr's Demiplane",
+            "notes": [
+                "A suspected extradimensional location where Nevarr may now exist after supposedly writing or narrating himself into a book."
+            ]
+        },
+        {
+            "name": "Nira the War Princess",
+            "notes": [
+                "The name/title the Raven Queen gave for herself during the account of her mortal life and ascension."
+            ]
+        },
+        {
+            "name": "Harboring Souls",
+            "notes": [
+                "A supernatural ability or practice Nira learned from Narul after accepting his offer to continue existing."
             ]
         }
     ]

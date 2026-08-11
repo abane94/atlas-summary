@@ -3,21 +3,24 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/location/la-rel.md",
-  "description": "La-rel is one of two arches that were left without a mortal keeper. Until a worthy successor is chosen, it will remain under temporary stewardship. It has been confirmed as the realm of fairies—the Feywild.",
+  "description": "La-rel is a highly magical, Feywild-like realm of Atlas whose inhabitants are relatively unconcerned with the wider world. It is associated with Walker’s past, as it was his former home, and the party has previously visited the realm and encountered Renard, the smiling trickster. La-rel is one of the Atlas realms represented by a keystone, but its keystone remains unassigned.",
   "type": "Location",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "**La-rel** is one of the two arches left without a mortal keeper after the party’s keystone assignments. With no successor chosen during the session, it will remain under temporary stewardship until a worthy keeper is found. The session also confirmed that La-rel is the realm of fairies—the Feywilds.",
+      "date": "2026-08-03",
+      "summary": "La-rel’s keystone was offered to Walker because of his connection to the realm as his former home and because he is the only party member originally from outside Midgard. Walker declined, explaining that while La-rel is an important part of his past, it no longer defines who he is. The keystone therefore remains unassigned, with Kit Anger and the DM agreeing to steward it until a future keeper takes the mantle.",
       "notes": [
-        "One of the two arches left without a mortal keeper.",
-        "Will remain under temporary stewardship until a future keeper is chosen.",
-        "Confirmed to be the realm of fairies (the Feywilds)."
+        "La-rel is highly magical and essentially Feywild-like, with inhabitants relatively unconcerned with the rest of Atlas.",
+        "Walker was offered its keystone because he is the only party member originally from outside Midgard.",
+        "Walker declined because La-rel represents an important part of his past but no longer defines who he is.",
+        "The party has previously visited La-rel and encountered Renard, the smiling trickster.",
+        "The La-rel keystone remains unassigned.",
+        "Kit Anger and the DM will steward the keystone until a future keeper takes the mantle."
       ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:36:07.892Z",
-  "updatedAt": "2026-08-10T02:36:07.892Z"
+  "createdAt": "2026-08-11T16:11:24.809Z",
+  "updatedAt": "2026-08-11T16:11:24.809Z"
 }

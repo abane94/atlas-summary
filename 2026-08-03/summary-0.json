@@ -1,0 +1,162 @@
+{
+    "plotSections": [
+        {
+            "title": "The Journal and Gerk's Possible Importance",
+            "bullets": [
+                "While the council of gods remains assembled, Sylan publicly reveals to Plymouth Gawater and the others why he believes Gerk is a uniquely important individual.",
+                "Sylan explains that years ago he found a handwritten journal containing two notable pieces of information: a search by the Navi for a child whose mother died while the child survived, and a plot against Sylan's family that later came to pass.",
+                "Following a spiritual experience in Jotunheim, Sylan became convinced that the child referenced in the journal is Gerk and believes Gerk is destined to act as a Keeper capable of opening the doors tied to the Keystones.",
+                "Plymouth carefully questions the source of Sylan's information, focusing on the journal's authorship, age, historical references, and whether it contains prophecy.",
+                "Plymouth recognizes the journal by reputation rather than by having personally read it and introduces the previously unknown concept of 'Mother's Prayer,' implying the journal may be connected to it."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The council resumes after the previous session's discussions.",
+        "The DM reiterates that councils of gods can last effectively forever from a mortal perspective because time has little meaning to the assembled deities.",
+        "The party observes the council: Juten Prime silently listens, Plymouth Gawater contemplates questions, and the other NPCs remain present.",
+        "Gerk asks Sylan to explain why Sylan believes Gerk is special.",
+        "Sylan tells the assembled group about the journal he discovered years earlier.",
+        "Sylan explains the journal described the Navi searching for a child whose mother died while the child survived.",
+        "Sylan explains that a later spiritual experience in Jotunheim convinced him that the child is Gerk.",
+        "Sylan states his belief that Gerk is a Keeper who will open the doors.",
+        "Kit Anger becomes noticeably attentive after hearing the discussion.",
+        "Plymouth questions Sylan about the journal's origin, authorship, age, and whether it contains prophecy.",
+        "Sylan explains the journal appeared handwritten by multiple authors and accurately predicted the plot that killed his family.",
+        "Plymouth says he knows of the journal's existence and asks whether Sylan has heard of something called 'Mother's Prayer.'"
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan publicly identifies Gerk as the child referenced in an old journal.",
+                "Sylan believes Gerk is destined to become a Keeper capable of opening the doors associated with the Keystones."
+            ],
+            "titles": [
+                "Possible Keeper"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is Gerk truly the child described in the journal?",
+                "What does it mean for Gerk to be a Keeper?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Reveals to the council the evidence supporting his belief that Gerk is the child sought by the Navi.",
+                "Explains that his conclusion comes from both an old journal and a spiritual vision experienced in Jotunheim.",
+                "States that the journal also accurately described the conspiracy that ultimately killed his family."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and ally of the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Carefully investigates Sylan's claims by asking about the journal's provenance, dating, authorship, and prophetic content.",
+                "Recognizes the journal by reputation despite apparently never reading it.",
+                "Introduces the concept known as 'Mother's Prayer' as potentially connected to the journal."
+            ],
+            "titles": [],
+            "personality": [
+                "Approaches extraordinary claims through careful questioning and historical verification."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is Mother's Prayer?",
+                "How does Plymouth know about the journal?"
+            ]
+        },
+        "Kit Anger": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Becomes noticeably interested and begins closely listening once Sylan starts discussing the journal and Gerk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Why does Kit Anger react so strongly to the discussion?"
+            ]
+        },
+        "Navi": {
+            "existing": "Ancient race.",
+            "entityType": "GROUP",
+            "notes": [
+                "Were reportedly searching for a child whose mother died while the child survived, according to the journal described by Sylan."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Why were the Navi searching for this child?"
+            ]
+        },
+        "Mother's Prayer": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A named concept introduced by Plymouth.",
+                "Appears to have a connection to Sylan's journal.",
+                "Plymouth suggests the journal is known in relation to Mother's Prayer rather than as an isolated document."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is Mother's Prayer?",
+                "Why is the journal associated with Mother's Prayer?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Lithe",
+            "likely": "Life",
+            "notes": "Sylan tells Gerk revealing this information will change his life."
+        },
+        {
+            "heard": "Jogelheim / Jagelheim",
+            "likely": "Jotunheim",
+            "notes": "Land of the Jotun."
+        },
+        {
+            "heard": "tomb",
+            "likely": "tome",
+            "notes": "Refers to the journal or book, not a burial site."
+        },
+        {
+            "heard": "Kit Angel",
+            "likely": "Kit Anger",
+            "notes": "NPC name."
+        },
+        {
+            "heard": "Joshel / Josh Jessel",
+            "likely": "",
+            "notes": "Unclear ASR while describing the sound of Kit Anger's gear."
+        }
+    ],
+    "openQuestions": [
+        "What exactly is Mother's Prayer?",
+        "Why is Sylan's journal significant enough for Plymouth to recognize it?",
+        "Is Gerk truly the child sought by the Navi?",
+        "What role will Gerk play as a Keeper?"
+    ],
+    "newTerms": [
+        {
+            "name": "Mother's Prayer",
+            "notes": [
+                "A named concept introduced by Plymouth.",
+                "Appears to be directly connected to the mysterious journal and whatever prophecy or historical significance it contains."
+            ]
+        }
+    ]
+}

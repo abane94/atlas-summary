@@ -1,211 +1,234 @@
 {
     "plotSections": [
         {
-            "title": "Farewells from the Deities",
+            "title": "The Gods Depart",
             "bullets": [
-                "Ben departs by opening a doorway into his traveling tavern, reminding the party they are always welcome there and hinting that he will see some members sooner than others.",
-                "Mahali leaves with Ben, mentioning that if the party returns to the stronghold he plans to prepare a celebratory meal.",
-                "Narul silently bids the party farewell with a respectful nod and bow before departing.",
-                "Emhet offers the party one final chance to ask for assistance before leaving, reminds them that they now hold the keys, and warns: 'If the mind walks, hold your breath. Do not yell. Trust the path, gatekeeper.'"
+                "Ben departs through a magically created doorway into his tavern, reminding the party that they are still mortal and welcoming them to return.",
+                "Mahali follows Ben into the tavern and invites the party back to the stronghold for a meal.",
+                "Narul, the Stranger, gives the party a quiet farewell before departing.",
+                "Emhet prepares to leave and tells the party to remember that they now hold the keys. He also gives Dana guidance: if the mind walks, hold your breath and do not yell, trust the path, and trust the gatekeeper."
             ]
         },
         {
             "title": "The Raven Queen's Counsel",
             "bullets": [
-                "The Raven Queen approaches after the other deities depart, her appearance gradually shifting from a harpy-like form into a regal humanoid figure wearing a porcelain mask and flowing black robes.",
-                "She acknowledges that the party has formed opinions of her but says she understands mortals because she was once mortal herself.",
-                "She reveals she has walked the mortal world and has seen some members of the party upon the Everfalls, lingering particularly on Sylan and Dana.",
-                "She admits the party has exceeded her expectations, specifically expressing confidence in Sylan's resolve while noting that Walker and Ord have begun to show her more than she expected from ordinary mortals.",
-                "She agrees to guide the party where they need to go but warns them not to waste either her time or their own through foolish choices.",
-                "She emphasizes that death should not be treated carelessly, that every life has only so many chances, and encourages the party to make their lives meaningful rather than preparing for death.",
-                "When offering Sylan one final request, she accepts his decision not to ask anything further and instead reminds him to remember where he has been, value the life he has, and not live expecting death.",
-                "The Raven Queen reminds Sylan that he has been given a weapon and is 'a talon of my order, not a butcher,' emphasizing precision and purpose over indiscriminate killing.",
-                "After departing, her humanoid appearance transforms back into a shadowy harpy-like figure with large black wings as she flies away."
+                "The Raven Queen approaches the party, initially appearing as a harpy-like figure covered in black feathers before resolving into a regal, slight woman in a dark flowing robe with a blank white porcelain mask.",
+                "The Raven Queen acknowledges that the party has differing opinions of her, but says she understands mortals because she was once more like them and has walked among their world.",
+                "She specifically notes having seen some of the party at the Everfalls and pauses while looking between Sylan and Dana.",
+                "The Raven Queen says the party has accomplished more than she expected. She is willing to lead them where they need to go, but warns them not to waste their time or treat death as something to play with.",
+                "She tells the party to make their lives meaningful rather than trying to defy death, emphasizing that life is limited and should be made into something worth remembering.",
+                "When Sylan declines to ask anything further of her, she tells him to remember where he has been, where he will go, and what he has, and not to throw those things away or live in preparation for death.",
+                "The Raven Queen tells Sylan that he has been given a weapon and is a 'talon' of her order, not a butcher, establishing a more specific role or philosophy for Sylan's relationship with her.",
+                "The Raven Queen departs by transforming back into a harpy-like form with enormous black wings and flying away."
             ]
         },
         {
-            "title": "Testing the Newly Acquired Keys",
+            "title": "Experimenting with the Keystone Doors",
             "bullets": [
-                "After the deities depart, the remaining allies include Glimmen, Juten Prime, Elrus, Araden, Boris, and Kit Anger.",
-                "The party begins experimenting with the newly acquired door-opening ability or keys.",
-                "Gerk repeatedly opens a doorway, finding that it initially leads to different random locations, including a rainy mountainside and later a quiet nighttime forest.",
-                "Dana suggests Gerk focus on a familiar destination such as the stronghold while opening the doorway.",
-                "Even after concentrating on the stronghold and making a Wisdom check, the doorway still opens to a different location, suggesting Gerk has not yet mastered control of the ability."
+                "After the Raven Queen leaves, the party is left with Glimmen, Juten Prime, Elrus, Araden, Boris, and Kit Anger.",
+                "Gerk experiments with the ability to open the keystone doors and initially opens onto a beach, then a gray mountainside during a storm.",
+                "Dana suggests that Gerk may need to focus on a location he has already visited, such as the Great Hall of the Stronghold, in order to control the destination.",
+                "Gerk attempts to focus on the stronghold but instead opens a door onto a dark, quiet forest filled with glowing insects and the ambient sounds of a resting forest.",
+                "The party concludes that the destination appears to change based on Gerk's attempts, suggesting that controlling the doors may require practice or a more precise method."
             ]
         }
     ],
     "chronologicalEvents": [
-        "Ben opens a doorway into his traveling tavern and departs after inviting the party to visit.",
-        "Mahali departs with Ben after mentioning a meal awaiting the party at the stronghold.",
-        "Narul silently bids the party farewell and leaves.",
-        "Emhet offers final assistance, reminds the party they now hold the keys, warns about 'the mind walks,' and departs.",
-        "The Raven Queen approaches, her appearance transforming from harpy-like to a masked humanoid.",
-        "The Raven Queen tells the party she once lived as a mortal and has seen some of them on the Everfalls.",
-        "The Raven Queen says the party has exceeded some of her expectations and specifically comments on Sylan, Walker, and Ord.",
-        "The Raven Queen warns the party not to waste their lives or treat death lightly.",
-        "Sylan declines to ask the Raven Queen for any additional favors.",
-        "The Raven Queen instructs Sylan to act as a talon of her order rather than a butcher before departing.",
-        "The party remains with Glimmen, Juten Prime, Elrus, Araden, Boris, and Kit Anger.",
-        "Gerk experiments with the doorway created by the keys, opening portals to multiple seemingly random locations.",
-        "Dana advises Gerk to focus on the stronghold when using the doorway.",
-        "Despite concentrating on the stronghold, Gerk opens another portal leading to a quiet nighttime forest instead."
+        "Ben opens a doorway from thin air into his traveling tavern and departs with Mahali, inviting the party to return.",
+        "Narul gives the party a farewell before leaving.",
+        "Emhet prepares to depart and tells the party that they now hold the keys; he also advises Dana to hold her breath and not yell if the mind walks, and to trust the path and the gatekeeper.",
+        "The Raven Queen approaches the party and reveals a regal humanoid appearance beneath her previous harpy-like form.",
+        "The Raven Queen acknowledges the party's past opinions and actions toward her, but says she understands mortals and has been among them before.",
+        "The Raven Queen says the party has exceeded her expectations and offers to guide them where they need to go, while warning them not to waste their time or treat death carelessly.",
+        "The Raven Queen tells Sylan to remember what he has, where he has been, and where he is going, and identifies him as a talon of her order rather than a butcher.",
+        "The Raven Queen departs by unfurling giant black wings and flying away.",
+        "The party begins experimenting with the keystone doors, with Gerk opening one onto a beach and another onto a gray mountainside during distant thunder.",
+        "Dana suggests focusing on a known location to improve control of the door, and Gerk attempts to target the stronghold.",
+        "Gerk instead opens a door onto a dark forest illuminated by glowing insects."
     ],
     "entities": {
-        "Emhet": {
-            "existing": "",
-            "entityType": "NPC",
-            "notes": [
-                "Offers the party one final opportunity to request assistance before departing.",
-                "States that the party now holds the keys.",
-                "Warns: 'If the mind walks, hold your breath. Do not yell. Trust the path, gatekeeper.'"
-            ],
-            "titles": [],
-            "personality": [
-                "Helpful and willing to assist before departing."
-            ],
-            "quotesThemes": [
-                "'If the mind walks, hold your breath. Do not yell.'",
-                "'Trust the path, gatekeeper.'",
-                "'You now all hold the keys.'"
-            ],
-            "openQuestions": [
-                "What does 'the mind walks' refer to?",
-                "Who or what is the 'gatekeeper' being addressed?"
-            ]
-        },
         "Raven Queen": {
-            "existing": "AKA Nira. God of the dead. Elder god.",
+            "existing": "AKA Nira; goddess of the dead and an elder god.",
             "entityType": "NPC",
             "notes": [
-                "Reveals she was once mortal before becoming what she is now.",
-                "States she has walked among mortals and has seen some members of the party on the Everfalls.",
-                "Admits the party has surpassed some of her expectations.",
-                "Offers to guide the party but warns against wasting their lives or treating death carelessly.",
-                "Confirms Sylan has been given a weapon and serves as a talon of her order.",
-                "Her appearance shifts between a regal masked humanoid and a shadowy harpy-like form with black wings."
+                "Approaches the party in a regal humanoid form wearing a dark flowing robe and a blank white porcelain mask, though she can return to a harpy-like form with enormous black wings.",
+                "States that she was once more like a mortal and has personally walked among mortals.",
+                "Has seen some members of the party at the Everfalls.",
+                "Says the party has accomplished more than she expected.",
+                "Offers to lead the party where they need to go, while warning them not to waste time or treat death carelessly.",
+                "Encourages the party to live meaningfully rather than preparing for death.",
+                "Directly recognizes Sylan as a talon of her order and distinguishes that role from being a butcher."
             ],
-            "titles": [],
+            "titles": [
+                "Goddess of the Dead",
+                "Talon's patron/order"
+            ],
             "personality": [
-                "Pragmatic about death.",
-                "Respects meaningful resolve over blind heroics.",
-                "Values purpose and precision."
+                "Regal, restrained, scrutinizing, and somewhat intimidating.",
+                "Pragmatic about mortality and death.",
+                "Willing to aid the party but expects them to use their time wisely."
             ],
             "quotesThemes": [
-                "Death should not be wasted or treated lightly.",
-                "'You are a talon of my order, not a butcher.'",
-                "Make life worth remembering rather than preparing for death."
+                "Make your life something to remember rather than trying to defy death.",
+                "Remember where you have been, where you will go, and what you have.",
+                "A talon of her order should not be a butcher."
             ],
-            "openQuestions": [
-                "What exactly are the Everfalls and what did she witness there?",
-                "What responsibilities come with being a talon of her order?"
-            ]
+            "openQuestions": []
         },
         "Sylan": {
-            "existing": "Half elf rogue.",
+            "existing": "Half-elf rogue.",
             "entityType": "PLAYER",
             "notes": [
-                "Declines the Raven Queen's offer for an additional favor, believing she has already done enough for him.",
-                "Is reminded to value his life rather than expect or prepare for death.",
-                "Is identified by the Raven Queen as a talon of her order rather than a butcher."
+                "Declines to ask the Raven Queen for anything further because he feels she has already done enough for him.",
+                "The Raven Queen identifies Sylan as a talon of her order and explicitly contrasts this role with that of a butcher.",
+                "The Raven Queen appears to have specifically recognized or remembered Sylan from the past, including a reference to the Everfalls."
             ],
             "titles": [
                 "Talon of the Raven Queen's order"
             ],
             "personality": [
-                "Shows humility and gratitude toward the Raven Queen."
+                "Shows restraint and gratitude toward the Raven Queen, declining to ask for additional aid."
             ],
             "quotesThemes": [
-                "Do not prepare for death.",
-                "Remember where you have been and where you will go."
+                "Sylan believes it would be wrong to ask the Raven Queen for more after what she has already done for him."
+            ],
+            "openQuestions": [
+                "What exactly does being a 'talon' of the Raven Queen's order entail?"
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Experiments with controlling the keystone doors after receiving guidance that the party now holds the keys.",
+                "Successfully opens doors to multiple unpredictable destinations, including a beach, a gray mountainside, and a dark forest.",
+                "Attempts to deliberately target the stronghold but instead reaches a forest, suggesting he has not yet mastered precise control of the doors."
+            ],
+            "titles": [
+                "Gatekeeper"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "The party begins treating Gerk's unpredictable door destinations as something he may eventually learn to control."
             ],
             "openQuestions": []
         },
-        "Gerk": {
-            "existing": "Half Orc barbarian, party ambassador.",
+        "Dana": {
+            "existing": "Half-elf cleric and the most knowledgeable member of the group.",
             "entityType": "PLAYER",
             "notes": [
-                "Begins experimenting with the newly acquired portal-opening ability or keys.",
-                "Current attempts open doors to seemingly random destinations despite trying to focus on a specific location."
-            ],
-            "titles": [],
-            "personality": [
-                "Curious and willing to experiment."
-            ],
-            "quotesThemes": [],
-            "openQuestions": [
-                "How can Gerk reliably control the destination of the portals?"
-            ]
-        },
-        "Keys": {
-            "existing": "",
-            "entityType": "CONCEPT",
-            "notes": [
-                "The party now possesses the keys referenced by Emhet.",
-                "The keys appear capable of opening portals to distant locations.",
-                "Controlling the destination appears to require skill or mastery not yet achieved."
+                "Receives direct guidance from Emhet: if the mind walks, hold your breath and do not yell.",
+                "Suggests that Gerk focus on a location he has previously visited, such as the Great Hall of the Stronghold, to improve control over the keystone doors."
             ],
             "titles": [],
             "personality": [],
-            "quotesThemes": [],
-            "openQuestions": [
-                "What governs where the portals open?",
-                "How can the party intentionally choose destinations?"
-            ]
+            "quotesThemes": [
+                "Dana encourages Gerk to focus on familiar locations when attempting to control a door."
+            ],
+            "openQuestions": []
+        },
+        "Emhet": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Appears to be a deity or powerful figure departing with the other divine figures.",
+                "Asks whether the party needs anything before departing.",
+                "Tells the party that they now hold the keys.",
+                "Gives Dana guidance to hold her breath and not yell if the mind walks.",
+                "Tells the party to trust the path and the gatekeeper."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "If the mind walks, hold your breath. Do not yell.",
+                "Trust the path, gatekeeper.",
+                "You now all hold the keys."
+            ],
+            "openQuestions": []
         },
         "Everfalls": {
             "existing": "",
             "entityType": "Location",
             "notes": [
-                "The Raven Queen states she has seen Sylan and Dana on the Everfalls."
+                "The Raven Queen states that she has seen some members of the party at the Everfalls.",
+                "The location is referenced as something from the party's past, but no further details are established in this chunk."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Talon": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The Raven Queen tells Sylan that he is a talon of her order.",
+                "The role is explicitly contrasted with being a butcher, suggesting that a talon is an agent or chosen instrument of the Raven Queen who should act with purpose rather than indiscriminate killing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "A talon is an agent of the Raven Queen's order, not a butcher."
+            ],
             "openQuestions": [
-                "Why were Sylan and Dana specifically mentioned in connection with the Everfalls?"
+                "What duties and abilities are associated with being a talon of the Raven Queen's order?"
             ]
+        },
+        "Stronghold": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Dana identifies the Great Hall of the Stronghold as a familiar location that could potentially be used as a target when controlling a keystone door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
         }
     },
     "misTranscriptions": [
         {
-            "heard": "Emhet",
-            "likely": "",
-            "notes": "NPC name may be spelled differently; transcript pronunciation is uncertain."
+            "heard": "Silen / Silin",
+            "likely": "Sylan",
+            "notes": "The Raven Queen is addressing Sylan."
         },
         {
-            "heard": "mind walks",
-            "likely": "",
-            "notes": "Phrase may have been misheard; important enough to verify."
+            "heard": "Cy",
+            "likely": "Sylan",
+            "notes": "Occurs while the Raven Queen addresses Sylan."
         },
         {
-            "heard": "stroke will sever their Lithe",
-            "likely": "life / thread / Lith?",
-            "notes": "The final word is unclear and may reference an established setting concept."
+            "heard": "Lithe",
+            "likely": "life",
+            "notes": "The Raven Queen says no one can know when the stroke will sever their life."
         },
         {
-            "heard": "About refined eraser",
-            "likely": "A refined eraser / erase with ease",
-            "notes": "Likely garbled dialogue during the Raven Queen's speech to Sylan."
+            "heard": "Orde",
+            "likely": "Ord",
+            "notes": "Player character name appears during discussion of a bonus."
         }
     ],
     "openQuestions": [
-        "What does Emhet's warning about 'the mind walks' mean?",
-        "How are the keys or portal-opening ability intentionally controlled?",
-        "What responsibilities come with Sylan serving as a talon of the Raven Queen's order?",
-        "Why did the Raven Queen specifically mention seeing Sylan and Dana on the Everfalls?"
+        "What exactly does being a 'talon' of the Raven Queen's order entail?"
     ],
     "newTerms": [
         {
-            "name": "Everfalls",
+            "name": "Talon",
             "notes": [
-                "A place or phenomenon where the Raven Queen says she has seen Sylan and Dana."
+                "A role within the Raven Queen's order; Sylan is explicitly identified as one.",
+                "The Raven Queen contrasts a talon with a butcher, implying that the role involves purposeful service rather than indiscriminate killing."
             ]
         },
         {
-            "name": "Talon of the Raven Queen's Order",
+            "name": "Everfalls",
             "notes": [
-                "Title or role bestowed upon Sylan.",
-                "Implies he is expected to act with precision and purpose rather than indiscriminate violence."
+                "A location the Raven Queen says she has visited and where she has seen some members of the party."
+            ]
+        },
+        {
+            "name": "Stronghold",
+            "notes": [
+                "The party's familiar location containing the Great Hall, suggested by Dana as a potential destination for a controlled keystone door."
             ]
         }
     ]

@@ -1,0 +1,26 @@
+{
+  "name": "Gatekeeper",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/concept/gatekeeper.md",
+  "description": "Gatekeeper refers to the role held by party members other than Gerk, with each Gatekeeper responsible for a keystone associated with an Arch realm. Gatekeepers hold and interact with these keystones and are involved in managing the paths between realms.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "The party members other than Gerk were formally identified as **Gatekeepers**, with each holding a keystone associated with an Arch realm. Emhet confirmed that the Gatekeepers now possess the keys, establishing their role as the party members responsible for interacting with the keystones and the paths connecting the realms.",
+      "notes": [
+        "The party members other than Gerk are referred to as Gatekeepers.",
+        "Each Gatekeeper holds a keystone associated with an Arch realm.",
+        "Emhet confirms that the Gatekeepers now hold the keys.",
+        "The Gatekeeper role involves interacting with the keystones and paths between realms."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "How does the Gatekeeper role differ mechanically or magically from the Doorman?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T16:35:21.227Z",
+  "updatedAt": "2026-08-11T16:35:21.228Z"
+}

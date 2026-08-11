@@ -1,0 +1,23 @@
+{
+  "name": "Jotunheim",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/jotunheim.md",
+  "description": "Jotunheim is the homeland of the Juten/Jotun. It is a place associated with significant revelations, including Sylan’s meditation there, which revealed that Gerk was the child described in his journal and was destined to become a keeper capable of opening doors.",
+  "type": "Location",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "During the session, Sylan meditated in Jotunheim, where he received a revelation identifying Gerk as the child described in his journal. The vision also indicated that Gerk would serve as a keeper with the ability or role of opening doors.",
+      "notes": [
+        "Sylan performed a meditation in Jotunheim that revealed Gerk as the child described in his journal and as a keeper who would open doors."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What exactly occurred during Sylan's Jotunheim meditation?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T14:22:34.403Z",
+  "updatedAt": "2026-08-11T14:22:34.403Z"
+}

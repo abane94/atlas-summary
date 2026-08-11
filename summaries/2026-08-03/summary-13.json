@@ -1,146 +1,170 @@
 {
     "plotSections": [
         {
-            "title": "Returning Home",
+            "title": "The Portal Leads Near Langdale",
             "bullets": [
-                "The party discovers that the portal appears to open into a forest with the same flora and fauna as the forests surrounding Langdale.",
-                "Dana recognizes the vegetation as matching the forests around the party's stronghold, though she cannot conclusively identify the exact location without traveling through the portal.",
-                "Walker recognizes a distinctive tree from his previous travels, confirming the portal leads somewhere in the vicinity of Langdale.",
-                "The party decides not to immediately leave through the portal, acknowledging they still have responsibilities to address before departing."
+                "The party examined the forest beyond the open portal. Dana recognized the flora and fauna as matching the area around Langdale, though she could not be certain of the exact location from the nighttime view.",
+                "Walker used his experience traveling with his bees to investigate. He recognized a distinctive old, oddly angled tree that he had encountered during one of his previous bee-related journeys, confirming that the portal opens somewhere in the vicinity of Langdale.",
+                "The party realized that the portal appears to provide a route very close to home, but Dana and Sylan emphasized that they should not immediately leave before dealing with their new responsibilities and understanding what has happened."
             ]
         },
         {
-            "title": "Gerk's New Responsibility",
+            "title": "Gerk's New Responsibility and Portal Control",
             "bullets": [
-                "Plymouth reminds Gerk that he is currently maintaining an extremely powerful portal between two locations.",
-                "Plymouth advises Gerk to close the portal, warning that while reopening it to the exact same destination may be difficult, leaving it open poses a greater risk.",
-                "Plymouth references previous incidents where open portals allowed dangerous creatures to enter, reinforcing the need for caution.",
-                "Plymouth implies he intends to teach Gerk more about safely controlling and reopening portals in the future."
+                "Gerk is currently responsible for an open portal connecting two locations and is learning that opening and closing these powerful doors may not be straightforward.",
+                "The DM warned Gerk that closing the current portal could make it difficult to reopen a portal to the exact same location later. He strongly recommended closing it rather than leaving it open.",
+                "The warning was reinforced by reference to past incidents where opened doors allowed dangerous creatures or bugs to come through, making the party cautious about leaving portals unattended."
             ]
         },
         {
-            "title": "Processing Recent Events",
+            "title": "The Party Regroups",
             "bullets": [
-                "The party takes time to process the major revelations and responsibilities they have recently acquired rather than immediately returning home.",
-                "Dana joins Kit Anger for a drink while the rest of the party relaxes and reflects on recent events.",
-                "Sylan spends time reviewing and recording notes from the Raven Queen's earlier conversation, recognizing its importance.",
-                "The group discusses eventually visiting Ben's traveling tavern once their immediate business is finished."
+                "Sylan recognized that the group had just gained a major responsibility and suggested that everyone take a moment to organize themselves and process what they had learned.",
+                "Sylan spent time reflecting on the Raven Queen's earlier conversation and intended to record the information in the party's notes.",
+                "The party began winding down with drinks and discussed potentially visiting a tavern after finishing their business. These plans were largely social and did not reveal new story information."
             ]
         }
     ],
     "chronologicalEvents": [
-        "Dana identifies the forest beyond the portal as resembling the forests surrounding Langdale.",
-        "Walker attempts to walk through the portal but is stopped by the rest of the party.",
-        "Walker recognizes a familiar tree from his previous travels, confirming the portal leads near Langdale.",
-        "The party agrees they should remain and organize themselves instead of immediately returning home.",
-        "Plymouth questions Walker about his ability to create portals, but Walker avoids answering.",
-        "Dana asks Kit Anger for alcohol to help process recent events.",
-        "Kit Anger shares a bottle of amber liquor with Dana.",
-        "Plymouth reminds Gerk that maintaining an open portal is dangerous and recommends closing it.",
-        "Plymouth explains that reopening the same portal later is something Gerk can learn with practice.",
-        "Gerk closes the portal after Plymouth's warning.",
-        "The party settles in to relax, drink, and reflect.",
-        "Sylan records detailed notes about the Raven Queen's earlier conversation."
+        "Dana successfully recognized the forest as having flora and fauna matching the area around Langdale.",
+        "Walker investigated using his experience as a wanderer and his knowledge from traveling with his bees.",
+        "Walker recognized a distinctive old, oddly angled tree from a previous journey, establishing that the portal opens somewhere near Langdale.",
+        "The party debated whether to immediately travel through the portal but decided they still had business to finish.",
+        "The group discussed the responsibility they had just gained and the need to understand their new duties.",
+        "The DM explained that Gerk's currently open portal may be difficult to close and then reopen to the exact same location.",
+        "The DM strongly advised Gerk to close the portal, citing previous incidents where open doors allowed dangerous creatures through.",
+        "Sylan chose to reflect on the Raven Queen's earlier guidance and record notes about that conversation.",
+        "The party began winding down the session and discussing drinks and a possible future tavern visit."
     ],
     "entities": {
         "Gerk": {
-            "existing": "Half-orc barbarian, party ambassador.",
+            "existing": "Half-orc barbarian and party ambassador; newly responsible for the Arch's doors/portals.",
             "entityType": "PLAYER",
             "notes": [
-                "Is currently responsible for maintaining and controlling powerful portals.",
-                "Is advised by Plymouth to close the active portal for safety.",
-                "Will receive future instruction from Plymouth on safely opening and reopening portals."
+                "Gerk is currently holding open a powerful portal between two locations.",
+                "The DM is beginning to teach Gerk how to operate the portals and warned that closing one may make reopening it to the exact same location difficult.",
+                "Gerk was advised to close the current portal rather than leave it open because of the danger of creatures coming through unattended doors."
             ],
             "titles": [],
-            "personality": [],
-            "quotesThemes": [],
+            "personality": [
+                "Continues to use humor while dealing with the seriousness of his new portal responsibilities."
+            ],
+            "quotesThemes": [
+                "The party is learning that being responsible for portals involves more than simply opening them."
+            ],
             "openQuestions": [
-                "How will Gerk learn to reliably reopen portals to specific destinations?"
+                "How difficult will it actually be for Gerk to reopen a portal to a previously visited exact location?"
             ]
-        },
-        "Plymouth Gawater": {
-            "existing": "Gnome artificer and friend of the party.",
-            "entityType": "NPC",
-            "notes": [
-                "Warns that leaving major portals open is dangerous because hostile creatures have previously entered through them.",
-                "Plans to teach Gerk how to properly use and control the portal system.",
-                "Expresses interest in understanding Walker's apparent portal-travel abilities."
-            ],
-            "titles": [],
-            "personality": [
-                "Cautious regarding portal magic and its risks.",
-                "Methodical and interested in understanding unusual magical abilities."
-            ],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Kit Anger": {
-            "existing": "",
-            "entityType": "NPC",
-            "notes": [
-                "Provides Dana with a bottle of amber liquor after she asks for a drink.",
-                "Joins Dana in sitting together and sharing drinks while the party unwinds."
-            ],
-            "titles": [],
-            "personality": [
-                "Hospitable and accommodating."
-            ],
-            "quotesThemes": [],
-            "openQuestions": []
         },
         "Walker": {
-            "existing": "Half elf dragon rider and fighter. Glimmen is his mind-linked dragon.",
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
             "entityType": "PLAYER",
             "notes": [
-                "Recognizes a distinctive tree from his past travels, helping confirm the portal exits near Langdale.",
-                "Avoids explaining to Plymouth how he is able to create portals."
+                "Walker's travel experience and wanderer background helped establish that the portal opens near Langdale.",
+                "Walker recognized a distinctive old, oddly angled tree from a previous journey connected to his bee ventures.",
+                "The portal appears to open close enough to Langdale that Walker considers it effectively near home."
             ],
             "titles": [],
             "personality": [],
-            "quotesThemes": [],
-            "openQuestions": [
-                "What is the true source of Walker's portal-travel ability?"
-            ]
+            "quotesThemes": [
+                "Walker's familiarity with the wilderness and his bee-related travels can help identify locations around Langdale."
+            ],
+            "openQuestions": []
         },
         "Langdale": {
-            "existing": "Region the party considers home.",
+            "existing": "Region that the party calls home.",
             "entityType": "Location",
             "notes": [
-                "The portal appears to connect to a forest in the vicinity of Langdale.",
-                "The surrounding flora and fauna closely match the forests around the party's stronghold."
+                "The forest beyond the current portal has flora and fauna matching the area around Langdale.",
+                "A distinctive old, oddly angled tree recognizable to Walker establishes that the portal opens somewhere in the vicinity of Langdale."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan emphasized that the party should pause and organize themselves after gaining their new responsibilities.",
+                "Sylan chose to reflect on the Raven Queen's earlier conversation and record detailed notes about what she had said."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Sylan treats the group's new responsibilities as significant enough to stop and process before immediately moving on."
+            ],
+            "openQuestions": []
+        },
+        "Raven Queen": {
+            "existing": "AKA Nira; god of the dead and elder god.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan continued reflecting on and recording the guidance given by the Raven Queen during her earlier appearance."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Her recent guidance is considered important enough by Sylan to preserve carefully in the party's notes."
+            ],
             "openQuestions": []
         }
     },
     "misTranscriptions": [
         {
-            "heard": "lyingdale",
+            "heard": "generitary forest",
+            "likely": "generic forest",
+            "notes": "The DM appears to be describing the forest as a generic-looking forest."
+        },
+        {
+            "heard": "lying down",
             "likely": "Langdale",
-            "notes": "Region surrounding the party's stronghold."
+            "notes": "The surrounding context is explicitly about recognizing the area around Langdale."
         },
         {
-            "heard": "Elaris",
-            "likely": "Elrus",
-            "notes": "Walker is calling for Elrus."
-        },
-        {
-            "heard": "naeg",
+            "heard": "Girl",
             "likely": "Gerk",
-            "notes": "Plymouth is addressing Gerk regarding the portal."
+            "notes": "The DM is addressing Gerk while discussing his responsibility for the open portal."
         },
         {
             "heard": "Jogleheim",
             "likely": "Jotunheim",
-            "notes": "Reference to liquor from Jotunheim."
+            "notes": "Sylan refers to liquor obtained from Jotunheim; Jotunheim is already an established campaign location."
+        },
+        {
+            "heard": "Plummet",
+            "likely": "Plymouth",
+            "notes": "Walker addresses Plymouth, the gnome artificer NPC."
+        },
+        {
+            "heard": "Layingdale",
+            "likely": "Langdale",
+            "notes": "The surrounding discussion is about the party's home region."
+        },
+        {
+            "heard": "ports",
+            "likely": "portals",
+            "notes": "The DM is discussing possible places that can be reached through the party's portal/door abilities."
+        },
+        {
+            "heard": "ElOrd",
+            "likely": "Elrus / Ord",
+            "notes": "Walker appears to be calling on companions, but the ASR merges the names. The exact intended name is uncertain."
+        },
+        {
+            "heard": "Ben Tavern",
+            "likely": "Ben's traveling bar",
+            "notes": "Ben is already established as the minor deity who runs the traveling bar."
+        },
+        {
+            "heard": "Nanya",
+            "likely": "Nunya",
+            "notes": "This is part of a joke about 'none of your business' rather than a genuine campaign term."
         }
     ],
     "openQuestions": [
-        "How difficult will it be for Gerk to intentionally reopen a portal to a previously visited location?",
-        "What is the true nature of Walker's portal-travel ability?",
-        "When will the party return to Langdale through the portal?"
+        "How difficult will it actually be for Gerk to reopen a portal to a previously visited exact location?"
     ],
     "newTerms": []
 }

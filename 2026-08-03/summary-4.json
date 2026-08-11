@@ -1,0 +1,101 @@
+{
+    "plotSections": [
+        {
+            "title": "Acceptance of the Great Tree's Bond",
+            "bullets": [
+                "Plymouth explains that Gerk is considered a son/child of the Great Tree and invites the rest of the party to formally join him as his companions, becoming metaphorical brothers and sisters to the Great Tree's chosen and relatives to its other children.",
+                "The party discusses the meaning of the invitation, with Walker and Glimmen admitting they do not understand the Great Tree or Gerk's connection to it.",
+                "Despite not fully understanding what they are agreeing to, every member of the party ultimately chooses to stand with Gerk and accept the invitation out of loyalty.",
+                "The ceremony has not yet begun by the end of the chunk; the party simply gathers and prepares to participate."
+            ]
+        },
+        {
+            "title": "Discussion of Daisy",
+            "bullets": [
+                "Gerk again raises concerns about Daisy, the mysterious little blonde girl only he appears to notice.",
+                "Dana supports Gerk's claims, pointing out that flowers associated with Daisy appeared despite there being no flowers present, reinforcing that Daisy's presence was real.",
+                "Plymouth admits he has never personally seen Daisy and cannot explain her existence, but agrees the evidence is troubling enough that he intends to investigate further."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Plymouth explains that Gerk is a child of the Great Tree and offers the rest of the party the opportunity to formally join him.",
+        "Walker and Glimmen privately admit they do not understand what the Great Tree is or what Plymouth is describing.",
+        "The party jokes about Gerk receiving a crown and about becoming members of the Great Tree's family.",
+        "Dana declares that wherever Gerk goes, she will follow, trusting there is a purpose if he has been chosen.",
+        "Gerk asks whether anyone else has figured out who Daisy is.",
+        "Plymouth states he has never seen Daisy despite Gerk mentioning her several times previously.",
+        "Dana confirms that flowers connected to Daisy appeared when no flowers should have existed, convincing her Daisy truly was present.",
+        "Plymouth acknowledges the situation is troubling and says he will review his notes regarding Daisy.",
+        "Plymouth asks the party to step forward if they wish to join Gerk.",
+        "Ciri rejoins the group after hiding in the shadows.",
+        "After confirming what the invitation means, Walker, Ord, Sylan, Dana, Ciri, and the rest of the party all step forward to stand with Gerk.",
+        "The party assembles around Gerk, preparing for the ceremony to begin."
+    ],
+    "entities": {
+        "Great Tree": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Gerk is described as a son/child of the Great Tree.",
+                "The Great Tree apparently has multiple sons and daughters besides Gerk.",
+                "Those who join Gerk become metaphorical brothers and sisters to him and relatives of the Great Tree's other children."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What exactly is the Great Tree?",
+                "What responsibilities or powers come from joining Gerk under the Great Tree?"
+            ]
+        },
+        "Daisy": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Mysterious Entity",
+            "notes": [
+                "Dana confirms Daisy's associated flowers appeared despite there being no flowers present.",
+                "Plymouth has never personally seen Daisy despite Gerk mentioning her repeatedly.",
+                "Plymouth considers Daisy's apparent presence troubling and intends to investigate further."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Associated with mysterious appearances of flowers."
+            ],
+            "openQuestions": [
+                "Who or what is Daisy?",
+                "Why can seemingly only Gerk perceive her?",
+                "How is Daisy able to leave physical evidence such as flowers?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Clymouth",
+            "likely": "Plymouth Gawater",
+            "notes": "NPC name."
+        },
+        {
+            "heard": "Ciria",
+            "likely": "Ciri",
+            "notes": "Player character name."
+        },
+        {
+            "heard": "Deus",
+            "likely": "dais",
+            "notes": "Refers to the raised platform where the ceremony is taking place."
+        },
+        {
+            "heard": "Iron has chosen him",
+            "likely": "",
+            "notes": "May have been correctly transcribed or may refer to another proper noun; uncertain from context."
+        }
+    ],
+    "openQuestions": [
+        "What will the ceremony actually do to Gerk and the rest of the party?",
+        "What obligations or benefits come with becoming part of the Great Tree's family?",
+        "Who or what is Daisy, and why is there physical evidence of her presence?"
+    ],
+    "newTerms": []
+}

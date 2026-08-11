@@ -26,7 +26,7 @@ import path from 'path';
 import type { PlotSection, SessionChunkSummary } from "./types/session.ts";
 import { getBrowser } from './browser.js';
 import { Page } from 'puppeteer-core';
-import { runJsonPrompt } from './chatgpt.js';
+import { runProsePrompt } from './chatgpt.js';
 
 export interface SessionData {
     date: string; // yyyy-mm-dd string
@@ -52,6 +52,22 @@ export interface EntityData {
     linkTargets: string[];
     createdAt: string; // iso string
     updatedAt: string; // iso string
+}
+
+function entityJsonFilename(entity: EntityData): string {
+    const slug = entity.name.toLowerCase().replaceAll(' ', '_').replace(/[/\\?%*:|"<>]/g, '__');
+    return `${entity.type.toLowerCase()}--${slug}.json`;
+}
+
+function entityProcessedForSession(entity: EntityData, sessionDate: string): boolean {
+    return entity.log.some(entry => entry.date === sessionDate);
+}
+
+async function saveEntity(vaultDataFolder: string, entity: EntityData): Promise<void> {
+    const filename = entityJsonFilename(entity);
+    const filepath = path.join(vaultDataFolder, 'entities', filename);
+    console.log(`Saved entity ${entity.name} to ${filepath}`);
+    await fs.writeFile(filepath, JSON.stringify(entity, null, 2));
 }
 
 
@@ -90,22 +106,10 @@ export async function generateVaultData(page: Page, summariesFolder: string, vau
     for (const sessionFolder of sessionFolders) {
         const sessionDate = sessionFolder.name;
         if (!existingSessionsMap[sessionDate]) {
-            const {sessionData, entitiesToSave} = await parseSessionData(page, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList);
+            const sessionData = await parseSessionData(page, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
             existingSessionsMap[sessionDate] = sessionData;
             await fs.writeFile(path.join(vaultDataFolder, 'log', `${sessionDate}.json`), JSON.stringify(sessionData, null, 2));
-
-            // write out all the entities using their filenames
-            for (const entity of entitiesToSave) {
-                console.log(`Writing entity ${entity.name} to ${path.join(vaultDataFolder, 'entities', `${entity.type.toLowerCase()}--${entity.name.toLowerCase().replaceAll(' ', '_').replace(/[/\\?%*:|"<>]/g, '__')}.json`)}`);  
-                await fs.writeFile(path.join(vaultDataFolder, 'entities', `${entity.type.toLowerCase()}--${entity.name.toLowerCase().replaceAll(' ', '_').replace(/[/\\?%*:|"<>]/g, '__')}.json`), JSON.stringify(entity, null, 2));
-            }
         }
-    }
-
-    // write out all the entities using their filenames
-    for (const entity of existingEntitiesList) {
-        console.log(`Writing entity ${entity.name} to ${path.join(vaultDataFolder, 'entities', `${entity.type.toLowerCase()}--${entity.name.toLowerCase().replaceAll(' ', '_').replace(/[/\\?%*:|"<>]/g, '__')}.json`)}`);  
-        await fs.writeFile(path.join(vaultDataFolder, 'entities', `${entity.type.toLowerCase()}--${entity.name.toLowerCase().replaceAll(' ', '_').replace(/[/\\?%*:|"<>]/g, '__')}.json`), JSON.stringify(entity, null, 2));
     }
 
     console.log('Vault data generation complete');
@@ -113,25 +117,30 @@ export async function generateVaultData(page: Page, summariesFolder: string, vau
 }
 
 
-async function parseSessionData(page: Page, date: string, sessionFolder: string, existingEntitiesList: EntityData[]) {
+async function parseSessionData(page: Page, date: string, sessionFolder: string, existingEntitiesList: EntityData[], vaultDataFolder: string): Promise<SessionData> {
     const sessionData = JSON.parse(await fs.readFile(path.join(sessionFolder, 'merged.json'), 'utf8')) as SessionChunkSummary;
 
     console.log(`Parsing session data for ${date}`);
     console.log(`Session data: ${JSON.stringify(sessionData, null, 2)}`);
 
-    const newAndUpdatedEntities: EntityData[] = [];
-
     for (const newEntityName of Object.keys(sessionData.entities)) {
+        // await page.goto('https://chatgpt.com', { waitUntil: "networkidle2", timeout: 60000 });
         console.log(`Parsing entity ${newEntityName}`);
         const newEntity = sessionData.entities[newEntityName];
         // look for an existing entity, check name, and aliases
         console.log(`Looking for existing entity ${newEntityName}`);
         const existingEntity = existingEntitiesList.find(entity => entity.name === newEntityName || entity.aliases.includes(newEntityName));
+
+        if (existingEntity && entityProcessedForSession(existingEntity, date)) {
+            console.log(`Skipping entity ${newEntityName} — already processed for ${date}`);
+            continue;
+        }
+
         if (existingEntity) {
             // update the existing entity
             existingEntity.log.push({
                 date: date,
-                summary: await runJsonPrompt(page, `
+                summary: await runProsePrompt(page, `
                     This is the entity data for ${newEntityName} from the session on ${date}.
                     Please generate a summary of the entity.
                     The summary should be a single paragraph that captures the main points of the entity's new notes.
@@ -149,7 +158,7 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
                 notes: newEntity.notes,
             });
             existingEntity.updatedAt = new Date().toISOString();
-            newAndUpdatedEntities.push(existingEntity);
+            await saveEntity(vaultDataFolder, existingEntity);
         } else {
             // create a new entity
             const newEntityData: EntityData = {
@@ -157,15 +166,16 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
                 tags: [],
                 aliases: [],
                 filename: path.join('entities', newEntity.entityType.toLowerCase(), newEntityName.toLowerCase().replaceAll(' ', '_').replace(/[/\\?%*:|"<>]/g, '__') + '.md'),
-                description: await runJsonPrompt(page, `
+                description: await runProsePrompt(page, `
                     This is the entity data for ${newEntityName} from the session on ${date}.
                     Please generate a description of the entity to the best of your ability.
+                    The description should be information that is always relevant to the entity, not simply details about the entity's new notes.
                     Do not include information that you are not confident about. If there is any doubt, do not include it.
                     If there is not a lot of information, do not make things up, it is ok if the description is short.
                     The description should be a single paragraph that captures the main points of the entity's new notes.
                     The description should be in the same language as the entity data.
                     The description should be no more than 200 words.
-                    The description should be in markdown format.
+                    The description should be in plain text format, no markdown.
 
                     ${newEntity.existing}
 
@@ -174,10 +184,11 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
                     ${newEntity.notes.join('\n')}`),
                 type: newEntity.entityType,
                 log: [{
-                    date: sessionFolder,
-                    summary: await runJsonPrompt(page, `
+                    date: date,
+                    summary: await runProsePrompt(page, `
                         This is the entity data for ${newEntityName} from the session on ${date}.
-                        Please generate a summary of the entity.
+                        Please generate a summary of what happened to the entity in the session.
+                        It does not need to rehash the entity's existing notes, but should instead focus on what happened to the entity in the session.
                         The summary should be a single paragraph that captures the main points of the entity's new notes.
                         The summary should be in the same language as the entity data.
                         The summary should be no more than 200 words.
@@ -196,23 +207,28 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
                 updatedAt: new Date().toISOString(),
             };
             existingEntitiesList.push(newEntityData);
-            newAndUpdatedEntities.push(newEntityData);
+            await saveEntity(vaultDataFolder, newEntityData);
         }
     }
+
+    const sessionDataForPrompt = JSON.parse(JSON.stringify(sessionData));
+    delete sessionDataForPrompt.misTranscriptions;
+    delete sessionDataForPrompt.openQuestions;
+    delete sessionDataForPrompt.newTerms;
 
     // update the session data
     const sessionDataToSave: SessionData = {
         date: date,
         // summary: '', // TODO: generate summary
-        summary: await runJsonPrompt(page, `
+        summary: await runProsePrompt(page, `
             This is the session data for ${date}.
             Please generate a summary of the session.
             The summary should be a single paragraph that captures the main points of the session.
             The summary should be in the same language as the session data.
-            The summary should be no more than 500 words.
+            The summary should be no more than 300 words.
             The summary should be in markdown format.
 
-            ${JSON.stringify(sessionData, null, 2)}
+            ${JSON.stringify(sessionDataForPrompt, null, 2)}
         `),
         plotSections: sessionData.plotSections.map(section => ({
             title: section.title,
@@ -222,7 +238,7 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
         openQuestions: sessionData.openQuestions,
     };
 
-    return { sessionData: sessionDataToSave, entitiesToSave: newAndUpdatedEntities };
+    return sessionDataToSave;
 }
 
 async function main() {

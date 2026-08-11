@@ -3,52 +3,35 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/concept/mother's_prayer.md",
-  "description": "Mother's Prayer (also called the Mother's Prophecy or Mother's Tale) is a sacred Navi prophecy introduced to the party by Plymouth. The prophecy previously heard in the Stronghold—about a keeper who will open doors and references arches and keys—is identified as this tradition. It is connected to Sylan's journal, which Plymouth treats as part of a known legendary tradition rather than an isolated document. The Navi historically used Mother's Prayer to identify individuals who would aid Atlas. Plymouth describes it metaphorically as a great tree whose chosen heroes are its fruit. The prophecy exists through many independent written accounts by different authors, and those tales are said to rewrite themselves according to the chosen individual's decisions; past accounts reportedly changed when previous chosen heroes abandoned their path. It foretells catastrophic events followed by increasingly difficult choices for the chosen hero, and includes expectations for their companions. Mother's Prayer functions as a prophecy that periodically selects individuals when Atlas requires them. Its purpose is the health and prosperity of all Atlas, not solely the Eldarin Tree. Plymouth states the Navi unintentionally set it in motion by creating the keystones. Gerk is believed to be the current chosen hero if he continues accepting the role, and he and his companions are formally accepting responsibility under the prophecy.",
+  "description": "Mother's Prayer, also known as the Mother's Prophecy, Mother's Tale, or Mother's Tales, is an ancient sacred prophecy originating in the early history of the Navi in Midgard and across Atlas. It describes a recurring cycle involving catastrophe, a hero, difficult choices, gates and arches, dormant keys, and individuals connected to the Great Eldarin Tree. The prophecy can apparently change itself when a son or daughter of the Tree chooses an independent path, suggesting that it records possibilities rather than dictating fate. It is associated with the mysterious process by which individuals are brought forth when Atlas requires them, and its purpose appears connected to the health and prosperity of Atlas as a whole. The prophecy was unintentionally set in motion when the Navi created the keystones, and Gerk is currently identified as the individual described by it.",
   "type": "CONCEPT",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "Mother's Prayer (also called the Mother's Prophecy or Mother's Tale) is a sacred Navi tradition introduced by Plymouth during the 2026-08-03 session. Plymouth identified the prophecy previously heard in the Stronghold as this well-known tradition and linked it to Sylan's journal, suggesting the journal is known in relation to Mother's Prayer rather than as an isolated document. The prophecy foretells catastrophic events and a keeper who will open doors, referencing arches and keys, and describes a chosen hero forced to make increasingly difficult decisions; it also sets expectations for the companions who travel beside them. Plymouth described it metaphorically as a great tree whose chosen individuals are its fruit, with associated tales that can rewrite themselves depending on the hero's decisions—something that has reportedly happened when past chosen individuals abandoned their path. The prophecy exists through numerous independent written accounts by different authors, yet consistently tells the same core story. Historically used by the Navi to identify heroes who would aid Atlas, it was unintentionally set into motion when the keystones were created; its purpose is preserving the health and prosperity of all Atlas, not serving only the Eldarin Tree. Gerk is believed to be the current chosen hero if he continues accepting the role, and he and his companions are formally accepting responsibility under the prophecy.",
+      "date": "2026-08-03",
+      "summary": "The **Mother’s Prayer** was clarified as a recurring, self-rewriting prophecy tied to the Navi, the Great Eldarin Tree, and the needs of Atlas. During the session, Gerk was confirmed as the individual currently described by the prophecy, which contains factual information about him and someone close to him without determining his choices. The party learned that the prophecy exists in multiple journals and tomes written by different authors, and that its tales can apparently rewrite themselves when a child of the Tree chooses an independent path. The prophecy’s process seems to bring forth individuals when Atlas needs them and follows a recurring cycle of catastrophe, a hero, and increasingly difficult choices. The creation of the keystones unintentionally initiated the Mother’s Prayer, whose purpose appears to concern the health and prosperity of all Atlas rather than solely the Great Eldarin Tree. The Tree itself has diminished over time, though a new bud is expected at the end of the current growing season.",
       "notes": [
-        "A named concept introduced by Plymouth.",
-        "Appears to have a connection to Sylan's journal.",
-        "Plymouth suggests the journal is known in relation to Mother's Prayer rather than as an isolated document.",
-        "Plymouth identified the prophecy previously heard in the Stronghold as the Mother's Prayer or Mother's Prophecy.",
-        "The prophecy appears to concern a keeper who will open doors and references the arches and keys.",
-        "Plymouth believes the journal discussed by Sylan is connected to this well-known prophecy.",
-        "Also referred to as the Mother's Prophecy and Mother's Tale.",
-        "A sacred Navi prophecy traditionally used to identify heroes who would aid Atlas.",
-        "Described metaphorically as a great tree whose chosen individuals are its fruit.",
-        "The associated tales can rewrite themselves depending on the decisions of the chosen individual.",
-        "Foretells catastrophic events followed by increasingly difficult choices for the chosen hero.",
-        "Includes expectations for the companions who travel alongside the chosen individual.",
-        "Exists through numerous independent written accounts created by different authors.",
-        "Describes a catastrophic event followed by a chosen hero forced to make increasingly difficult decisions.",
-        "The written tales have reportedly rewritten themselves when previous chosen individuals abandoned their path.",
-        "Is considered sacred among the Navi and was historically used to identify individuals who would aid them.",
-        "Its current chosen hero is believed to be Gerk if he continues accepting the role.",
-        "Was unintentionally set into motion when the Navi created the keystones.",
-        "Functions as a prophecy that selects individuals when Atlas requires them.",
-        "Its purpose is preserving the health and prosperity of all Atlas rather than serving only the Eldarin Tree.",
-        "Gerk and his companions are formally accepting responsibility under this prophecy.",
-        "Was unintentionally set into motion when the keystones were created.",
-        "Acts as a prophecy that periodically selects individuals when Atlas requires them.",
-        "Exists for the welfare of all Atlas rather than solely for the Eldarin Tree."
+        "Also referred to as the Mother's Prophecy, Mother's Tale, or Mother's Tales.",
+        "It is an ancient sacred prophecy originating in the early history of the Navi in Midgard and across Atlas.",
+        "Its verses concern gates, burdens, eight being torn asunder, dormant keys, arches functioning as doors, and a mind holding one without surrendering.",
+        "The prophecy describes a recurring cycle involving catastrophe, a hero, and increasingly difficult choices.",
+        "Gerk is confirmed as the individual currently described by the prophecy.",
+        "The prophecy contains factual information about Gerk and someone close to him but does not dictate his choices.",
+        "Multiple journals or tomes contain versions of the prophecy, with different authors recording its story.",
+        "The Mother's Tales can apparently rewrite themselves when a son or daughter of the Tree chooses an independent path.",
+        "The process appears to bring forth individuals when Atlas needs them.",
+        "The Mother's Prayer was unintentionally initiated when the Navi created the keystones.",
+        "Its purpose appears connected to the health and prosperity of all Atlas rather than solely the Eldarin Tree.",
+        "The Great Tree has diminished over time, and a new bud is expected as the current growing season ends."
       ]
     }
   ],
   "openQuestions": [
-    "What is Mother's Prayer?",
-    "Why is the journal associated with Mother's Prayer?",
-    "How is the journal connected to the Mother's Prayer?",
-    "Who originally authored or preserved the Mother's Prayer?",
-    "Who originally created or spoke the Mother's Prayer?",
-    "Why has no seer ever been identified?",
-    "Who originally created or spoke the Mother's Prayer?",
-    "How does the Mother's Prayer choose those it calls?",
-    "What ultimately fulfills or ends the Mother's Prayer?"
+    "Who or what originally created or initiated the Mother's Prayer?",
+    "What is the complete meaning of the references to the eight, keys, arches, and the mind?",
+    "What specific difficult choices will Gerk face?",
+    "What determines when the next chosen child appears?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:13:02.829Z",
-  "updatedAt": "2026-08-10T02:13:02.829Z"
+  "createdAt": "2026-08-11T14:25:07.608Z",
+  "updatedAt": "2026-08-11T14:25:07.608Z"
 }

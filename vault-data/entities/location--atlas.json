@@ -1,0 +1,23 @@
+{
+  "name": "Atlas",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/atlas.md",
+  "description": "Atlas is the world containing the various arches and realms connected through the keystone system. The Mother's Prayer and the keystones hold significance across Atlas, with the Navi historically seeking individuals connected to the Mother's Prayer to aid their exploration of the world. Gerk's acceptance of his role as a Doorman is presented as having potential importance and benefit for Atlas as a whole.",
+  "type": "Location",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "During the session, **Atlas** was further connected to the broader significance of the Mother’s Prayer and the keystone system. The Navi’s historical search for individuals connected to the Mother’s Prayer was established as part of their efforts to explore Atlas, suggesting that these forces have implications across the world’s various arches and realms. Gerk’s acceptance of his role was also framed as something that could potentially benefit Atlas as a whole, expanding the significance of the party’s current actions beyond their immediate circumstances.",
+      "notes": [
+        "The Mother's Prayer and the keystone system have significance across Atlas.",
+        "The Navi historically sought individuals connected to the Mother's Prayer to aid their exploration of Atlas.",
+        "Gerk's acceptance of his role is presented as potentially benefiting all of Atlas."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T14:32:00.702Z",
+  "updatedAt": "2026-08-11T14:32:00.702Z"
+}

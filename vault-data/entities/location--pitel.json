@@ -3,20 +3,21 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/location/pitel.md",
-  "description": "**Pitel** is one of the Arches of Atlas. During the session, its keystone was the first offered to Gerk as a possible choice when the party weighed which Arch to take on. While reviewing their options, the group remembered Pitel as the **elemental Arch**.",
+  "description": "Pitel is one of the Arch realms of Atlas, described as the center or core of Atlas’s rings. It has an unusual relationship to time and was previously sought by Dana as a way to reach or access it. Pitel is associated with a keystone, which Dana receives and becomes the Gatekeeper of.",
   "type": "Location",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "During the session on 2026-08-03, **Pitel** emerged as a focal point while Gerk weighed which Arch's keystone he might accept. Its keystone was the first one presented to him as a possible choice. While the party reviewed their options, they recalled **Pitel** as the elemental Arch among the Archs of Atlas.",
+      "date": "2026-08-03",
+      "summary": "Pitel was identified as the center or core of the rings of Atlas and was highlighted for its unusual relationship to time. Dana, who had previously been seeking a way to reach Pitel, was assigned its keystone and became Pitel’s Gatekeeper.",
       "notes": [
-        "Its keystone is the first one presented to Gerk as a possible choice.",
-        "The party recalls it as the elemental Arch while discussing options."
+        "Pitel is described as the center or core of the rings of Atlas.",
+        "Dana had previously sought a way to reach Pitel, apparently because of its unusual relationship to time.",
+        "Dana receives the Pitel keystone and becomes its Gatekeeper."
       ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:20:17.142Z",
-  "updatedAt": "2026-08-10T02:20:17.142Z"
+  "createdAt": "2026-08-11T16:00:45.532Z",
+  "updatedAt": "2026-08-11T16:00:45.532Z"
 }

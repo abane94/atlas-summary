@@ -1,137 +1,155 @@
 {
     "plotSections": [
         {
-            "title": "The Mother's Prayer and Gerk's Role",
+            "title": "Gerk and the Mother's Prayer",
             "bullets": [
-                "The party recites the full text of the Mother's Prayer (also called the Mother's Prophecy), which had previously echoed throughout the stronghold.",
-                "Sylan explains his belief that Gerk is the child described in the Mother's Prayer and the keeper destined to open the doors.",
-                "Plymouth Gawater personally questions Gerk to determine whether he accepts the role described by the prophecy.",
-                "Gerk repeatedly explains that he has never considered himself a chosen hero and has simply been living his life, fighting alongside his friends, and doing what he believes is right.",
-                "Plymouth explains that the Mother's Prayer has long served as a sacred Navi prophecy used to identify individuals destined to play pivotal roles in Atlas' future.",
-                "According to Plymouth, the prophecy describes catastrophic events followed by a hero forced to make increasingly difficult choices, many of which Gerk has already begun facing.",
-                "Plymouth emphasizes that prophecy does not remove free will; Gerk's past decisions were always his own, and even the Mother's Tales can rewrite themselves if one of the chosen rejects their role.",
-                "Plymouth urges Gerk to consciously choose whether to embrace the prophecy rather than simply allowing events to happen to him.",
-                "After questioning, Gerk agrees that if accepting this role genuinely helps Atlas, he is willing to do so."
-            ]
-        },
-        {
-            "title": "Nature of the Chosen",
-            "bullets": [
-                "Plymouth describes the Mother's Prayer as a great tree whose chosen individuals are its fruit, referring to them as sons and daughters of the Great Tree.",
-                "Plymouth reveals he has personally encountered three previous sons or daughters of the Great Tree: one accepted the calling while two rejected or abandoned it.",
-                "He warns that the current growing season is nearing its end and another bud will eventually grow if Gerk does not fulfill the role.",
-                "The Navi historically used the Mother's Prayer to identify individuals who would aid in exploring and protecting Atlas.",
-                "Plymouth states that this is the first time in roughly 1,500 years that someone has willingly stepped forward to assume the role described by the Mother's Prayer."
-            ]
-        },
-        {
-            "title": "The Party's Involvement",
-            "bullets": [
-                "After Gerk accepts the role, Plymouth expands the discussion to the entire party.",
-                "He explains that the Mother's Prayer contains expectations not only for the chosen individual but also for the companions who travel beside them.",
-                "Participation remains entirely voluntary for the rest of the party, although Gerk's decision ultimately determines whether the prophetic path continues.",
-                "Plymouth stresses that the situation is extremely serious and cautions Gerk not to let the importance of his role inflate his ego."
+                "The prophecy heard repeatedly in the stronghold is identified as the Mother's Prayer, also called the Mother's Tale. Gerk is confirmed as the child described by the prophecy and the potential keeper who will open the doors.",
+                "Plymouth questions Gerk about whether he believes he is the foretold individual. Gerk remains uncertain and says he is simply doing what makes him happy: smashing things and traveling with his friends.",
+                "Plymouth explains that the prophecy is not merely a generic description. It contains factual information connected to Gerk's life and the people close to him, strengthening the case that Gerk is the foretold child.",
+                "The Mother's Prayer is a sacred prophecy of the Navi whose origin is unknown. It has been recorded in multiple journals by different authors, generally following a pattern of catastrophe, a hero's story, and eventually difficult choices that the hero must make.",
+                "The prophecy does not dictate Gerk's actions or explain exactly how he arrived at his current circumstances. His choices remain his own, and the recorded Mother's Tales can apparently change or rewrite themselves if a son or daughter of the tree chooses to follow a different path.",
+                "The prophecy is described through a tree-and-fruit metaphor: the Mother's Prayer is the tree, while its chosen heroes are the fruit produced by it. The tree has dwindled and is now in grave circumstances.",
+                "Plymouth reveals that Gerk is one of the sons and daughters of the Great Tree and that he is the first such individual in roughly 1,500 years to come forward and potentially accept the role described by the Mother's Prayer.",
+                "Plymouth has previously communicated with three other sons or daughters of the Great Tree. One accepted the challenge, while the other two apparently did not continue with it.",
+                "Gerk is offered a choice: he can effectively 'fall from the tree' and reject the role, or allow himself to be 'plucked from it' and accept guidance toward fulfilling the role. Gerk agrees to proceed if doing so will help Atlas.",
+                "Plymouth then explains that Gerk's decision affects not only Gerk but potentially all of Atlas. The rest of the party is now involved because there are stipulations concerning the camaraderie between the chosen child and his friends.",
+                "The choice remains voluntary for the other party members, although refusing to participate could potentially affect their relationship with Gerk. Gerk's choice takes precedence in this matter."
             ]
         }
     ],
     "chronologicalEvents": [
-        "The party recalls and recites the complete text of the Mother's Prayer that echoed throughout the stronghold.",
-        "Sylan states his belief that Gerk is the child described by the prophecy.",
-        "Plymouth Gawater approaches Gerk and begins formally questioning him.",
-        "Gerk explains he has never viewed himself as a chosen hero and simply enjoys traveling and fighting alongside his friends.",
-        "Plymouth explains the history and purpose of the Mother's Prayer within Navi culture.",
-        "Plymouth describes the prophecy as producing sons and daughters of the Great Tree who are called to difficult choices.",
-        "Plymouth explains that prophecy preserves free will and that the Mother's Tales can change depending on the chosen individual's decisions.",
-        "Gerk questions why anyone believes the prophecy specifically refers to him.",
-        "Plymouth cites the prophecy's accurate references to recent events and Gerk's companions as supporting evidence.",
-        "Plymouth asks Gerk whether he wishes to fully accept the prophetic role.",
-        "Gerk agrees to accept the role if it will help Atlas.",
-        "Plymouth reveals it has been approximately 1,500 years since someone accepted the role described by the Mother's Prayer.",
-        "Plymouth informs the rest of the party that Gerk's acceptance now extends choices and responsibilities to his companions."
+        "Dana recites the prophecy heard echoing through the stronghold, describing gates opening, eight being torn asunder, sleeping keys, and arches as doors waiting to awaken.",
+        "The prophecy is identified as the Mother's Prayer or Mother's Tale, and Gerk is identified as its subject and the child who will open the doors.",
+        "Plymouth approaches Gerk and asks whether he believes he is the individual described by the Mother's Prayer.",
+        "Gerk says he does not know whether he is the chosen person and explains that he is simply doing what makes him happy.",
+        "Plymouth challenges Gerk to consider whether he is strong enough to accept whatever responsibility might be bestowed upon him.",
+        "Plymouth reveals that the Mother's Prayer is an ancient sacred prophecy of the Navi, with an unknown original seer and many versions recorded by different authors.",
+        "Plymouth explains that the prophecy traditionally involves a catastrophe, a hero, and increasingly difficult choices for that hero.",
+        "Plymouth confirms that Gerk is the person spoken of by the prophecy and one of the sons or daughters of the Great Tree.",
+        "Plymouth explains that the prophecy does not remove Gerk's agency; his past choices were still his own, and the prophecy did not determine how he reached this point.",
+        "Plymouth says Mother's Tales can rewrite themselves when a son or daughter of the tree chooses to follow their own path.",
+        "Plymouth reveals that he has communicated with three other sons or daughters of the Great Tree, but none has taken up the role for approximately 1,500 years.",
+        "Gerk asks how they can know the prophecy truly refers to him rather than one of many possible people.",
+        "Plymouth points to specific factual information in the prophecy concerning someone close to Gerk as evidence that it is more specific than a generic description.",
+        "Gerk agrees to accept the path if doing so can help Atlas.",
+        "Plymouth explains that Gerk's acceptance brings the rest of the party into the situation because the chosen child's relationship with his companions has associated stipulations."
     ],
     "entities": {
         "Gerk": {
-            "existing": "Half Orc barbarian, party ambassador.",
+            "existing": "Half-orc barbarian and party ambassador.",
             "entityType": "PLAYER",
             "notes": [
-                "Openly states he has never believed himself to be a chosen hero and has simply lived according to his own values.",
-                "Accepts the role described by the Mother's Prayer after being told it will help all of Atlas.",
-                "Questions the evidence that the prophecy uniquely identifies him.",
-                "His acceptance begins the prophetic path associated with the Mother's Prayer."
+                "Confirmed to be the child foretold by the Mother's Prayer/Mother's Tale.",
+                "Confirmed to be one of the sons or daughters of the Great Tree.",
+                "Gerk initially remains skeptical that he is the chosen individual and says he is simply doing what makes him happy by smashing things and traveling with his friends.",
+                "Gerk accepts the path associated with the prophecy when told that doing so could help all of Atlas.",
+                "His personal choices remain his own; the prophecy describes him but does not dictate how he reached his current position or what choices he must make.",
+                "Gerk's choice to accept the role brings the rest of the party into the situation because of stated stipulations concerning the chosen child and his friends."
             ],
             "titles": [
-                "Potential son of the Great Tree",
-                "Chosen child of the Mother's Prayer",
-                "Hero of the Mother's Tale"
+                "Child of the Mother's Prayer",
+                "Son or daughter of the Great Tree"
             ],
             "personality": [
-                "Humble about his accomplishments.",
-                "Motivated primarily by helping friends rather than destiny.",
-                "Accepts responsibility when convinced it benefits others."
+                "Initially skeptical and reluctant to view himself as a chosen hero.",
+                "Values doing what makes him happy and staying with his friends.",
+                "Willing to accept greater responsibility when he believes it will help others."
             ],
             "quotesThemes": [
-                "'I'm just doing my thing.'",
-                "'It's where I'm the happiest.'",
-                "Accepts responsibility only if it genuinely helps Atlas."
+                "Gerk repeatedly frames his motivation as simply doing his thing and being with his friends.",
+                "The central tension is between Gerk's desire to live freely and the responsibility associated with being the chosen child."
             ],
             "openQuestions": [
-                "What responsibilities and trials will now follow from accepting the Mother's Prayer?",
-                "What obligations will Gerk's companions inherit?"
-            ]
-        },
-        "Plymouth Gawater": {
-            "existing": "Gnome artificer, friend of the party.",
-            "entityType": "NPC",
-            "notes": [
-                "Explains the origins and significance of the Mother's Prayer.",
-                "States the Mother's Prayer is sacred to the Navi and historically identified heroes who aided Atlas.",
-                "Has personally encountered three previous sons or daughters of the Great Tree.",
-                "Reveals that one previous chosen accepted the calling while two rejected it.",
-                "States that roughly 1,500 years have passed since someone willingly accepted the role.",
-                "Explains that the Mother's Tales can change based on the choices of the chosen individual."
-            ],
-            "titles": [],
-            "personality": [
-                "Scholarly and methodical.",
-                "Careful to emphasize free will over fate.",
-                "Seeks to prepare rather than coerce Gerk."
-            ],
-            "quotesThemes": [
-                "Prophecy guides but does not eliminate choice.",
-                "The chosen must willingly embrace their role."
-            ],
-            "openQuestions": [
-                "Who were the previous three sons or daughters of the Great Tree?"
+                "What specific future choices does the Mother's Prayer require Gerk to make?",
+                "What are the stipulations governing Gerk's relationship with the rest of the party?"
             ]
         },
         "Mother's Prayer": {
+            "existing": "Sacred Navi prophecy also referred to as the Mother's Tale.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The Mother's Prayer is an ancient sacred prophecy of the Navi whose original seer or source is unknown.",
+                "Multiple journals containing versions of the prophecy have been found, with different authors recording the story.",
+                "The recurring structure involves a catastrophic event, a hero's story, and increasingly difficult choices that the hero must eventually make.",
+                "Gerk is confirmed as the individual spoken of by the prophecy.",
+                "The prophecy contains factual information connected to Gerk and someone close to him, rather than being merely a generic heroic description.",
+                "The prophecy does not determine the hero's choices or explain every event that led to their current circumstances.",
+                "Mother's Tales can apparently rewrite themselves when a son or daughter of the tree chooses to follow their own path.",
+                "The prophecy is connected to the Navi's early history in Midgard and across Atlas.",
+                "The Great Tree has dwindled over time and is described as being in grave circumstances.",
+                "A new 'bud' is expected to appear as the current growing season approaches its end."
+            ],
+            "titles": [
+                "Mother's Tale"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "Tree and fruit imagery is used to describe the prophecy and its chosen heroes.",
+                "The prophecy presents choice and agency as central themes rather than predestination."
+            ],
+            "openQuestions": [
+                "Who originally spoke or authored the Mother's Prayer?",
+                "What exactly are the hard choices that the prophecy says Gerk will face?"
+            ]
+        },
+        "Great Tree": {
             "existing": "",
             "entityType": "CONCEPT",
             "notes": [
-                "Also referred to as the Mother's Prophecy and Mother's Tale.",
-                "A sacred Navi prophecy traditionally used to identify heroes who would aid Atlas.",
-                "Described metaphorically as a great tree whose chosen individuals are its fruit.",
-                "The associated tales can rewrite themselves depending on the decisions of the chosen individual.",
-                "Foretells catastrophic events followed by increasingly difficult choices for the chosen hero.",
-                "Includes expectations for the companions who travel alongside the chosen individual."
+                "The Mother's Prayer is described metaphorically as a great tree, with its chosen heroes represented as fruit produced by the tree.",
+                "Sons and daughters of the Great Tree are individuals connected to the Mother's Prayer and its chosen heroic roles.",
+                "The tree has dwindled significantly and is described as being in grave circumstances.",
+                "A new bud is expected to sprout as the current growing season approaches its end.",
+                "Plymouth describes Gerk as one of the sons and daughters of the Great Tree."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [
-                "Choice remains central despite prophecy."
+                "The metaphor of falling from the tree versus being plucked from it represents rejecting or accepting the role."
+            ],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and friend of the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Plymouth recognizes Gerk as the individual described by the Mother's Prayer and takes an active role in explaining its significance.",
+                "Plymouth has previously communicated with three other sons or daughters of the Great Tree; one took up the challenge while two did not.",
+                "Plymouth says no son or daughter of the Mother's Prayer has come forward to take up the role for approximately 1,500 years.",
+                "Plymouth presents Gerk with the choice of accepting guidance toward the role or rejecting it.",
+                "Plymouth says accepting the role could help Gerk as well as all of Atlas.",
+                "Plymouth explains that the rest of the party becomes involved because of stipulations surrounding the chosen child and his companions."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Plymouth emphasizes that Gerk retains agency even though the prophecy identifies him.",
+                "Plymouth frames accepting the role as a voluntary decision rather than an unavoidable destiny."
             ],
             "openQuestions": [
-                "Who originally created or spoke the Mother's Prayer?",
-                "Why has no seer ever been identified?"
+                "What happened to the three previous sons or daughters of the Great Tree that Plymouth communicated with?"
             ]
         },
         "Navi": {
             "existing": "Ancient race.",
             "entityType": "GROUP",
             "notes": [
-                "The Mother's Prayer is described as a sacred tradition among the Navi.",
-                "Historically used the prophecy to identify individuals who would aid their exploration and protection of Atlas.",
-                "Very few Navi remain alive today according to Plymouth."
+                "The Mother's Prayer is described as a sacred prophecy to the Navi.",
+                "The prophecy dates back to the early times of the Navi's existence in Midgard and across Atlas.",
+                "The Navi historically used the Mother's Prayer as part of their understanding of individuals who could aid their efforts in exploring Atlas."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Atlas": {
+            "existing": "The world containing the various arches/realms.",
+            "entityType": "Location",
+            "notes": [
+                "Plymouth states that Gerk accepting the role could benefit all of Atlas.",
+                "The Mother's Prayer is described as having significance across Atlas, not merely within Midgard.",
+                "The Navi historically sought individuals connected to the Mother's Prayer to aid their exploration of Atlas."
             ],
             "titles": [],
             "personality": [],
@@ -141,47 +159,55 @@
     },
     "misTranscriptions": [
         {
-            "heard": "mind you keys",
-            "likely": "Mind Keys",
-            "notes": "Plymouth states Gerk possesses all of the Mind Keys."
+            "heard": "Kirk",
+            "likely": "Gerk",
+            "notes": "Used repeatedly when the DM addresses Gerk."
         },
         {
-            "heard": "Ivellio",
-            "likely": "",
-            "notes": "Name referenced by Gerk while questioning the prophecy; spelling unclear."
+            "heard": "Gerg",
+            "likely": "Gerk",
+            "notes": "Used while discussing whether Gerk is the subject of the prophecy."
         },
         {
-            "heard": "Mother's Tale / Mother's Prayer / Mother's Prophecy",
-            "likely": "Mother's Prayer",
-            "notes": "Characters explicitly state all three names are used for the same prophecy."
+            "heard": "Gurk",
+            "likely": "Gerk",
+            "notes": "Used during the discussion of Gerk's strength and the prophecy."
+        },
+        {
+            "heard": "Guck",
+            "likely": "Gerk",
+            "notes": "Used while the DM addresses Gerk during the discussion of his strength."
+        },
+        {
+            "heard": "Plymouth Guy Water",
+            "likely": "Plymouth Gawater",
+            "notes": "The surrounding context clearly identifies the gnome artificer Plymouth."
+        },
+        {
+            "heard": "Lithe",
+            "likely": "Lith",
+            "notes": "Could refer to the realm Lith, although the surrounding sentence may instead simply have been the word 'life'; uncertain."
         }
     ],
     "openQuestions": [
-        "What concrete responsibilities accompany Gerk's acceptance of the Mother's Prayer?",
-        "What obligations or choices will now be presented to the rest of the party?",
-        "Who were the previous sons and daughters of the Great Tree, and what became of them?",
-        "What happens if Gerk later rejects or abandons the role after accepting it?"
+        "What are the specific hard choices the Mother's Prayer says Gerk will eventually face?",
+        "What are the stipulations involving Gerk and the rest of the party?",
+        "Who originally delivered the Mother's Prayer, and why can no one identify the seer?",
+        "What happened to the three previous sons or daughters of the Great Tree that Plymouth encountered?",
+        "What specifically is meant by the prophecy's ability to rewrite itself when a son or daughter of the tree chooses their own path?"
     ],
     "newTerms": [
         {
-            "name": "Mother's Prayer",
-            "notes": [
-                "Sacred Navi prophecy used to identify heroes destined to aid Atlas.",
-                "Also known as the Mother's Prophecy or Mother's Tale."
-            ]
-        },
-        {
-            "name": "Great Tree",
-            "notes": [
-                "Metaphorical source of the sons and daughters chosen through the Mother's Prayer.",
-                "Each chosen individual is described as fruit from this tree."
-            ]
-        },
-        {
             "name": "Son or Daughter of the Great Tree",
             "notes": [
-                "Title given to an individual chosen through the Mother's Prayer.",
-                "Such individuals retain free will and may accept or reject their calling."
+                "A person identified as part of the lineage or prophetic tradition associated with the Mother's Prayer.",
+                "Gerk is confirmed to be one of these individuals."
+            ]
+        },
+        {
+            "name": "Mother's Tale",
+            "notes": [
+                "An alternate name for the Mother's Prayer, referring to the recorded prophetic stories found in journals or tomes."
             ]
         }
     ]

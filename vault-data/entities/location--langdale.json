@@ -3,22 +3,21 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/location/langdale.md",
-  "description": "Langdale is the region the party calls home. During the session on 2026-08-03, the party observed that a forest visible through a portal appeared to share the same flora and fauna as the forests surrounding Langdale and around their stronghold. Walker recognized a familiar tree from his past travels, which further suggested the portal's destination lay somewhere in the vicinity of Langdale. Together, these observations indicate the portal may connect to a forest near the party's homeland, though the exact location was not confirmed without entering the portal.",
+  "description": "Langdale is the region the party calls home. It is characterized by forests whose flora and fauna are recognizable as belonging to the area, including distinctive landmarks such as an old, oddly angled tree known from previous travels.",
   "type": "Location",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "Langdale is the region the party calls home. During the session on 2026-08-03, new evidence tied a portal destination to the area around their stronghold: the forest seen through the portal shares the same flora and fauna as the woods surrounding Langdale, and Walker recognized a familiar tree there. Together, these details suggest the portal connects to a forest in the vicinity of Langdale rather than some distant or alien landscape—the surrounding ecosystem closely matches what the party knows from the forests around their home base.",
+      "date": "2026-08-03",
+      "summary": "During the session, the party reached a forest through Gerk’s portal that was identified as being near Langdale. Dana recognized the local flora and fauna as consistent with the Langdale area, while Walker further confirmed the location by recognizing a distinctive, oddly angled old tree from his previous travels.",
       "notes": [
-        "The forest revealed through one portal appears to share the same flora and fauna as the forests surrounding Langdale.",
-        "Walker's recognition of a familiar tree further supports that the destination was near Langdale.",
-        "The portal appears to connect to a forest in the vicinity of Langdale.",
-        "The surrounding flora and fauna closely match the forests around the party's stronghold."
+        "A forest reached through Gerk's portal is identified as being near Langdale.",
+        "Dana recognizes its flora and fauna as consistent with the Langdale area.",
+        "Walker recognizes a distinctive old, oddly angled tree from previous travels, further confirming the destination is near Langdale."
       ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:51:18.536Z",
-  "updatedAt": "2026-08-10T02:51:18.536Z"
+  "createdAt": "2026-08-11T17:41:02.926Z",
+  "updatedAt": "2026-08-11T17:41:02.927Z"
 }

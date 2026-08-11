@@ -3,22 +3,29 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/player/dana.md",
-  "description": "Dana, a half-elf cleric, accepts stewardship of the Keystone of Pitel. She describes Pitel as the center of the rings of Atlas and vows to guard the center of the rings of Atlas as its new guardian.",
+  "description": "Dana is a half-elf cleric and one of the most knowledgeable members of the group. She is thoughtful and perceptive, often connecting current events to previously known lore or objectives. She believes Gerk’s role has a divine purpose and is willing to support his responsibilities, becoming connected to the Great Eldarin Tree alongside him. Dana is the Gatekeeper of the Pitel keystone, which is associated with the center of the rings of Atlas and aligns with a place she had previously sought to reach.",
   "type": "PLAYER",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "Dana, a half-elf cleric, accepts stewardship of Pitel's keystone during the session on 2026-08-03. She describes Pitel as the center of the rings of Atlas and takes on the responsibility that comes with that role, promising to guard that central place. In doing so, she joins the party's new generation of keystone guardians, committing not only to protect the artifact itself but also to uphold Pitel's place at the heart of the wider Atlas structure.",
+      "date": "2026-08-03",
+      "summary": "Dana chose to follow Gerk, believing his selection of the Midgard keystone had a divine purpose, and became involved in his new responsibility while gaining a connection to the Great Eldarin Tree. She accepted the Pitel keystone and became its Gatekeeper; Pitel is the center of the rings of Atlas, a place Dana had previously sought a way to reach. During the events surrounding Gerk's portals, Dana recognized Daisy's white flowers as evidence of her presence, received guidance from Emhet to hold her breath and avoid yelling during a mind walk, and advised Gerk to concentrate on familiar locations to improve his control over portal destinations. She also identified the forest reached through one of Gerk's portals as being near Langdale and urged the party not to rush through the unstable portal until other matters had been addressed.",
       "notes": [
-        "Accepts stewardship of Pitel's keystone.",
-        "Describes Pitel as the center of the rings of Atlas while accepting the responsibility.",
-        "Accepts stewardship of the Pitel keystone.",
-        "Promises to guard the center of the rings of Atlas."
+        "Chooses to follow Gerk because she believes his selection has a divine purpose.",
+        "Joins Gerk's new responsibility and becomes connected to the Great Eldarin Tree.",
+        "Accepts the Pitel keystone and becomes its Gatekeeper.",
+        "Pitel is the center of the rings of Atlas, and Dana had previously sought a way to reach it.",
+        "Recognizes Daisy's flowers as evidence of Daisy's presence.",
+        "Receives guidance from Emhet to hold her breath and not yell if the mind walks.",
+        "Suggests that Gerk focus on familiar locations to improve control of his portal destinations.",
+        "Recognizes the forest reached by Gerk's portal as being near Langdale.",
+        "Urges the party not to rush through the unstable portal before addressing other matters."
       ]
     }
   ],
-  "openQuestions": [],
+  "openQuestions": [
+    "What did the Raven Queen see Dana doing at the Everfalls?"
+  ],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:26:11.223Z",
-  "updatedAt": "2026-08-10T02:26:11.223Z"
+  "createdAt": "2026-08-11T14:54:14.175Z",
+  "updatedAt": "2026-08-11T14:54:14.175Z"
 }

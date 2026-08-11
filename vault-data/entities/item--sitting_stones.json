@@ -1,0 +1,21 @@
+{
+  "name": "Sitting Stones",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/item/sitting_stones.md",
+  "description": "Sitting Stones are a location or feature that Sylan has previously passed through, and they are connected to information involving the Navi and another person's role.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Sylan referenced having gone through the Sitting Stones while discussing information connected to the Navi and another person's role.",
+      "notes": [
+        "Sylan references having gone through the sitting stones when discussing information connected to the Navi and another person's role."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T15:48:23.802Z",
+  "updatedAt": "2026-08-11T15:48:23.802Z"
+}

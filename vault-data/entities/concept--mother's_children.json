@@ -1,0 +1,22 @@
+{
+  "name": "Mother's Children",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/concept/mother's_children.md",
+  "description": "Mother’s Children are individuals brought forth through or associated with the Mother’s Prayer. Gerk is explicitly identified as one of Mother’s children, indicating that the designation applies to him directly. Juten Prime and Plymouth expected the appearance of one of Mother’s children to supersede their previous preparations, suggesting that these individuals hold particular significance within the events surrounding the Mother’s Prayer.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "The session explicitly identified **Gerk as one of Mother’s Children**, connecting him to the individuals brought forth through or associated with the Mother’s Prayer. Juten Prime and Plymouth had anticipated that the appearance of one of Mother’s Children would supersede or override the preparations they had previously made.",
+      "notes": [
+        "Juten Prime and Plymouth expected the appearance of one of Mother's children to override their previous preparations.",
+        "Gerk is explicitly identified as one of Mother's children."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T17:10:01.062Z",
+  "updatedAt": "2026-08-11T17:10:01.062Z"
+}

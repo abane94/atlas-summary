@@ -1,0 +1,23 @@
+{
+  "name": "Child of the Tree",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/concept/child_of_the_tree.md",
+  "description": "A Child of the Tree is an individual connected to the Great Eldarin Tree, the Navi, and the Mother’s Prayer. The designation signifies an honored relationship with the sacred Eldarin Tree and its legacy. Those entrusted as keepers of the keystones may receive the broader status of Children of the Great Eldarin Tree.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Gerk was explicitly welcomed as a **Child of the Tree**, establishing his connection to the Navi and the sacred Eldarin Tree. Through the party’s acceptance of responsibility as keystone keepers, the entire party was also granted the broader status of **Children of the Great Eldarin Tree**.",
+      "notes": [
+        "Gerk is explicitly welcomed as a Child of the Tree.",
+        "The title represents a connection to the Navi and the sacred Eldarin Tree.",
+        "The party receives the broader status of Children of the Great Eldarin Tree through becoming keystone keepers."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T17:08:53.245Z",
+  "updatedAt": "2026-08-11T17:08:53.245Z"
+}

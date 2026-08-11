@@ -1,0 +1,227 @@
+{
+    "plotSections": [
+        {
+            "title": "Gerk's New Role as Doorman",
+            "bullets": [
+                "Gerk is formally welcomed as an honorary member of the Navi and declared a 'Child of the Tree.'",
+                "Plymouth demonstrates that Gerk has gained the ability to open reality itself like a door, creating a portal to another location.",
+                "The first portal opens to an unknown beach on Midgard, confirming the ability functions but that even Plymouth does not yet understand how to control it.",
+                "Plymouth explains that Gerk's unique ability is what makes him the 'Doorman,' while the rest of the party are 'Gatekeepers.'",
+                "Sylan attempts to replicate the feat while holding a keystone but only briefly senses an unseen mechanism, suggesting the Gatekeeper abilities require practice or different conditions."
+            ]
+        },
+        {
+            "title": "Council of the Gods Concludes",
+            "bullets": [
+                "With no further questions about Grixto, the party dismisses the assembled gods.",
+                "Vecna departs, remarking that he needs to find a book and warning the party not to get themselves killed because they are still mortal.",
+                "Ben opens his own doorway back to his traveling tavern and reminds the party they are always welcome.",
+                "Mahali follows Ben through the tavern door, inviting the party to return to the stronghold for a meal.",
+                "Narul silently departs after offering only a respectful nod and bow.",
+                "Emhet offers any final assistance before departing and leaves the party with advice for their new responsibilities as Gatekeepers."
+            ]
+        },
+        {
+            "title": "Emhet's Guidance",
+            "bullets": [
+                "Emhet tells Dana to seek him through prayer if she requires additional guidance.",
+                "He warns the party that if 'the mind walks,' they should hold their breath, avoid shouting, and trust the path.",
+                "Emhet reminds the party that they now possess the keys and must fulfill their responsibilities as Gatekeepers."
+            ]
+        },
+        {
+            "title": "The Raven Queen's Warning",
+            "bullets": [
+                "After every other deity leaves, the Raven Queen approaches the party alone.",
+                "As she nears, her terrifying harpy-like appearance resolves into the form of a regal woman wearing flowing black robes and a porcelain mask.",
+                "She acknowledges that the party has formed opinions about her but explains she understands mortals because she was once mortal herself.",
+                "She reveals she has witnessed some members of the party on the Everfalls, lingering specifically on Sylan and Dana.",
+                "She admits the party has exceeded her expectations, specifically expressing confidence in Sylan while saying Walker and Ord have begun to show more potential than she previously believed.",
+                "The Raven Queen offers to guide the party where they need to go but warns them not to waste either her time or their own.",
+                "She cautions the party against treating death lightly, reminding them that even bargains with death are limited.",
+                "She implies that some members of the party have very few chances remaining before ultimately encouraging them not to defy death, but instead to ensure their deaths have meaning when they eventually come."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk is named an honorary member of the Navi and declared a Child of the Tree.",
+        "Plymouth explains that the party are now Gatekeepers while Gerk uniquely serves as the Doorman.",
+        "Plymouth instructs Gerk to mimic opening a door.",
+        "Gerk successfully opens a doorway through reality onto a beach somewhere on Midgard.",
+        "Plymouth admits he does not fully understand how the new abilities function because no one has used them in centuries.",
+        "Sylan attempts to open a doorway while holding a keystone but only briefly senses an unseen handle before it disappears.",
+        "The party agrees to dismiss the council of gods after confirming there are no further questions about Grixto.",
+        "Vecna departs after joking about finding a book and reminding the party they are still mortal.",
+        "Ben returns to his traveling tavern through a doorway and invites the party to visit again.",
+        "Mahali departs with Ben after inviting the party back for a meal.",
+        "Narul silently leaves after giving the party a respectful farewell.",
+        "Emhet asks if the party needs anything further before leaving.",
+        "Dana tells Emhet she will seek guidance through prayer if needed.",
+        "Emhet warns the party to trust the path if 'the mind walks,' avoid shouting, and remember they now hold the keys.",
+        "Emhet departs.",
+        "The Raven Queen approaches the party after every other deity has left.",
+        "Her appearance shifts from a harpy-like figure into a regal masked woman as she approaches.",
+        "She explains that she understands mortals because she was once one herself.",
+        "She reveals she has seen Sylan and Dana upon the Everfalls.",
+        "She tells Sylan she always expected him to fulfill difficult tasks.",
+        "She tells Walker and Ord they have begun to exceed her expectations.",
+        "The Raven Queen offers to guide the party but warns them not to waste her time or treat death carelessly.",
+        "She reminds the party that some of them have few chances remaining and encourages them to make their eventual deaths meaningful rather than attempting to escape death forever."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half Orc barbarian, party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Becomes an honorary member of the Navi.",
+                "Is formally recognized as a Child of the Tree.",
+                "Successfully manifests his new Doorman ability by opening a doorway through reality to a beach on Midgard.",
+                "Appears uniquely capable of using the Doorman ability immediately."
+            ],
+            "titles": [
+                "Honorary member of the Navi",
+                "Child of the Tree",
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How much control will Gerk ultimately have over the destinations of his doors?"
+            ]
+        },
+        "Navi": {
+            "existing": "",
+            "entityType": "GROUP",
+            "notes": [
+                "Honorary membership can be bestowed upon outsiders.",
+                "A Child of the Tree is accepted as a brother among them."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gatekeepers": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The party are now recognized as Gatekeepers.",
+                "Gatekeepers possess 'the keys.'",
+                "Their abilities appear distinct from Gerk's role as Doorman.",
+                "Their powers will require further understanding and practice."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What abilities do Gatekeepers possess beyond using the keystones?"
+            ]
+        },
+        "Emhet": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Offers Dana continued guidance through prayer.",
+                "Warns the party that if 'the mind walks,' they should hold their breath, avoid shouting, and trust the path.",
+                "Reminds the party they now hold the keys."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Trust the path, Gatekeeper.",
+                "You now all hold the keys."
+            ],
+            "openQuestions": [
+                "What does 'the mind walks' refer to?"
+            ]
+        },
+        "Raven Queen": {
+            "existing": "AKA Nira. God of the dead. Elder god.",
+            "entityType": "NPC",
+            "notes": [
+                "Reveals she was once mortal.",
+                "States she understands mortal perspectives because of her past.",
+                "Has witnessed Sylan and Dana on the Everfalls.",
+                "Admits the party has exceeded some of her expectations.",
+                "Expresses confidence in Sylan's determination while acknowledging Walker and Ord have begun to prove themselves.",
+                "Offers to guide the party but warns against wasting time or treating death frivolously.",
+                "Implies some party members have very few chances remaining."
+            ],
+            "titles": [],
+            "personality": [
+                "Pragmatic about mortality.",
+                "Judges individuals by their actions rather than assumptions.",
+                "Respects meaningful sacrifice over futile attempts to avoid death."
+            ],
+            "quotesThemes": [
+                "Do not waste my time.",
+                "Death is not something you should play with.",
+                "I'm not saying defy death. I'm saying make it a good one. Make it something to remember."
+            ],
+            "openQuestions": [
+                "What did she witness involving Sylan and Dana on the Everfalls?",
+                "Which party members have very few chances remaining?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "Player character name repeatedly mis-transcribed."
+        },
+        {
+            "heard": "Eric",
+            "likely": "Gerk",
+            "notes": "Addressing the party's Doorman."
+        },
+        {
+            "heard": "France",
+            "likely": "",
+            "notes": "Unclear player interjection after Gerk is praised."
+        },
+        {
+            "heard": "Emhet",
+            "likely": "",
+            "notes": "Name may require spelling confirmation if not already established."
+        },
+        {
+            "heard": "the mind walks",
+            "likely": "",
+            "notes": "Phrase may be correct but is unusual enough to verify from the recording."
+        }
+    ],
+    "openQuestions": [
+        "How do the Gatekeepers intentionally use or control their new powers?",
+        "How does Gerk choose the destination of the doors he creates?",
+        "What is meant by 'the mind walks'?",
+        "What are the Everfalls and what did the Raven Queen observe there?",
+        "Which party members did the Raven Queen imply have few chances remaining?"
+    ],
+    "newTerms": [
+        {
+            "name": "Doorman",
+            "notes": [
+                "Unique role held by Gerk that allows him to open doorways through reality."
+            ]
+        },
+        {
+            "name": "Gatekeepers",
+            "notes": [
+                "The party's new role associated with holding the keys and traveling between places or realms."
+            ]
+        },
+        {
+            "name": "Child of the Tree",
+            "notes": [
+                "Honorary title granted to Gerk upon becoming a member of the Navi."
+            ]
+        },
+        {
+            "name": "Everfalls",
+            "notes": [
+                "A place or state where the Raven Queen claims to have seen Sylan and Dana."
+            ]
+        }
+    ]
+}

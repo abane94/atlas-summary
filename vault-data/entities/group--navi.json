@@ -3,30 +3,28 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/group/navi.md",
-  "description": "The Navi are an ancient race; according to Plymouth, very few remain alive today. A journal described by Sylan reportedly records that the Navi were searching for a child whose mother died while the child survived. Among them, the Mother's Prayer is a sacred tradition—a prophecy they historically used to identify individuals who would aid their exploration and protection of Atlas. Keystone keepers are considered honorary members of the Navi by becoming Children of the Great Eldarin Tree; this honorary membership can be bestowed upon outsiders, and a Child of the Tree is accepted as a brother among them.",
+  "description": "The Navi are an ancient race associated with the Eldarin Tree, the keystones, and the Mother's Prayer. They historically sought the sons and daughters produced through the Mother's Prayer, believing these children could aid their efforts to explore Atlas. The Navi created the keystones using knowledge distilled from the rings of the sacred Eldarin Tree.",
   "type": "GROUP",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "The **Navi** are an ancient race, now reduced to very few survivors according to Plymouth. They were reportedly searching for a child whose mother had died while the child lived—a thread tied to Sylan's journal. Among them, **the Mother's Prayer** is a sacred tradition; historically they also relied on prophecy to find people who would help with their exploration and protection of Atlas. Outsiders can be welcomed in honorarily: **keystone keepers** who become **Children of the Great Eldarin Tree** are treated as honorary Navi, and a Child of the Tree is accepted as a brother among them.",
+      "date": "2026-08-03",
+      "summary": "The Navi’s history and connection to the **Mother’s Prayer** were clarified, revealing that they had long searched for children produced through the prophecy to aid their exploration of Atlas. Gerk was confirmed as the surviving child they had sought. The origins of the keystones were also established: the Navi created them using knowledge distilled from the rings of the sacred Eldarin Tree. Through accepting the keystone-keeper mantles, the party was granted honorary membership among the Navi and became Children of the Great Eldarin Tree. Following Gerk’s elevation, Kit Anger welcomed him as a brother.",
       "notes": [
-        "Were reportedly searching for a child whose mother died while the child survived, according to the journal described by Sylan.",
-        "The Mother's Prayer is described as a sacred tradition among the Navi.",
-        "Historically used the prophecy to identify individuals who would aid their exploration and protection of Atlas.",
-        "Very few Navi remain alive today according to Plymouth.",
-        "Treat the Mother's Prayer as a sacred tradition.",
-        "Historically used the prophecy to identify individuals who would aid their exploration of Atlas.",
-        "State that very few Navi remain.",
-        "Keystone keepers are considered honorary members of the Navi by virtue of becoming Children of the Great Eldarin Tree.",
-        "Honorary membership can be bestowed upon outsiders.",
-        "A Child of the Tree is accepted as a brother among them."
+        "The Navi historically searched for children connected to the Mother's Prayer.",
+        "Their search for a surviving child is connected to Gerk, who is now confirmed as the child they sought.",
+        "The Mother's Prayer is an ancient sacred prophecy associated with the Navi's early history in Midgard and across Atlas.",
+        "The Navi historically sought the sons and daughters produced through the Mother's Prayer to aid their efforts in exploring Atlas.",
+        "The keystones were created by the Navi from knowledge distilled from the rings of the Eldarin Tree.",
+        "The party became honorary members of the Navi and Children of the Great Eldarin Tree by taking on the keystone-keeper mantles.",
+        "Kit Anger welcomed Gerk as a brother after his elevation."
       ]
     }
   ],
   "openQuestions": [
-    "Why were the Navi searching for this child?"
+    "Why were the Navi searching for Gerk?",
+    "What did the Navi intend to do with or for the child?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:12:24.079Z",
-  "updatedAt": "2026-08-10T02:12:24.079Z"
+  "createdAt": "2026-08-11T14:20:01.954Z",
+  "updatedAt": "2026-08-11T14:20:01.954Z"
 }

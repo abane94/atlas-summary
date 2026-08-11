@@ -1,0 +1,25 @@
+{
+  "name": "Ben",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/npc/ben.md",
+  "description": "Ben is a minor deity, keeper of the Watchers, and proprietor of a traveling tavern. He is capable of opening doorways from thin air into his traveling tavern and welcomes others to return whenever they wish.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Ben was present among the gods and other figures surrounding the dais during the gathering. Ciri teleported directly beside him, knowing that he was aware of her presence, which visibly surprised him. Ben demonstrated that he could summon a doorway from thin air leading into his traveling tavern, and he welcomed the party to return there whenever they wished.",
+      "notes": [
+        "Is among the gods and figures surrounding the dais.",
+        "Ciri teleports beside him because she knows he is aware of her presence.",
+        "Reacts with surprise when Ciri appears beside him.",
+        "Can open a doorway from thin air into his traveling tavern.",
+        "Welcomes the party to return whenever they wish."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T15:52:46.626Z",
+  "updatedAt": "2026-08-11T15:52:46.626Z"
+}

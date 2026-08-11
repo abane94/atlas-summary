@@ -1,0 +1,24 @@
+{
+  "name": "Gilbrick",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/gilbrick.md",
+  "description": "Gilbrick is one of the Arch realms of Atlas. It is associated with a lord whose child is Sylan, and its keystone is entrusted to Sylan, who becomes the Gatekeeper of Gilbrick. The realm is regarded as a scary or dangerous place.",
+  "type": "Location",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "During the session, Gilbrick was described by Walker as a scary or dangerous realm. Gerk explicitly declined to choose Gilbrick as his assigned keystone. Sylan instead received Gilbrick’s keystone, with the party considering him a child of the lord of Gilbrick, and he consequently became the Gatekeeper of Gilbrick.",
+      "notes": [
+        "Described by Walker as a scary or dangerous place.",
+        "Gerk does not want to choose Gilbrick.",
+        "Sylan receives its keystone because he is considered a child of the lord of Gilbrick.",
+        "Sylan becomes the Gatekeeper of Gilbrick."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T16:04:29.558Z",
+  "updatedAt": "2026-08-11T16:04:29.558Z"
+}

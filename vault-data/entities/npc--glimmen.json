@@ -3,25 +3,23 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/npc/glimmen.md",
-  "description": "**Glimmen** is Walker's mind-linked dragon. During a conversation about where Walker belongs, she encourages him by saying that home is wherever they choose to make it, and expresses happiness with either La-rel or the Reach as home. She supports Walker's choice regardless of which arch he selects. She also reveals that her father placed her egg on Midgard for safekeeping while attending to other matters, and recalls being very small during the party's adventures in La-rel.",
+  "description": "Glimmen is Walker’s mind-linked dragon and a trusted companion who supports his decisions and accompanies him in important moments. She respectfully participates in significant ceremonies and is comfortable with Walker choosing either La-rel or The Reach as their destination. Glimmen has prior memories of traveling through La-rel, including encounters with strange doors, fox people, and shapeshifting experiences. Her ability to fly makes her particularly well suited to traveling alongside Walker through the vast Reach.",
   "type": "NPC",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "Glimmen, Walker's mind-linked dragon, offers steady encouragement as he wrestles with where he belongs, telling him that home is wherever they choose to make it. She is genuinely happy with either La-rel or the Reach as their home and backs Walker's decision no matter which arch he selects. Glimmen also shares a piece of her own history: her father placed her egg on Midgard for safekeeping while he attended to other matters. She fondly recalls being very small during the party's earlier adventures in La-rel, grounding her present support in shared memory and loyalty to Walker.",
+      "date": "2026-08-03",
+      "summary": "Glimmen supported Walker’s decision to join Gerk’s new group and remained beside him during the ceremony, respectfully acknowledging the proceedings. She was comfortable with Walker choosing either La-rel or The Reach as his destination. Glimmen recalled her past experiences traveling through La-rel, including its strange doors, fox people, and encounters involving shapeshifting. She also recognized that her ability to fly would make her particularly well suited to traveling the vast expanse of The Reach alongside Walker.",
       "notes": [
-        "Encourages Walker by saying that home is where they choose to make it.",
-        "Expresses happiness with either La-rel or the Reach as their home.",
-        "Reveals that her father placed her egg on Midgard for safekeeping while attending to other matters.",
-        "Supports Walker's choice regardless of which arch he selected.",
-        "Recalls being very small during the party's adventures in La-rel."
+        "Supports Walker's decision to join Gerk's new group.",
+        "Is present beside Walker during the ceremony and respectfully acknowledges the proceedings.",
+        "Is comfortable with Walker choosing either La-rel or The Reach.",
+        "Has memories of traveling through La-rel and its strange doors, fox people, and shapeshifting experiences.",
+        "Is well suited to traveling the vast Reach with Walker because of her ability to fly."
       ]
     }
   ],
-  "openQuestions": [
-    "Who is Glimmen's father?"
-  ],
+  "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:24:11.609Z",
-  "updatedAt": "2026-08-10T02:24:11.609Z"
+  "createdAt": "2026-08-11T15:46:29.731Z",
+  "updatedAt": "2026-08-11T15:46:29.732Z"
 }

@@ -3,33 +3,33 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/player/sylan.md",
-  "description": "Sylan, a half-elf rogue, presents the council with evidence that Gerk is the child sought by the Navi, drawing on an old journal and a spiritual vision he experienced in Jotunheim. He notes that the journal does not explicitly state the prophecy, but that it accurately described the conspiracy that killed his family. When Plymouth offers the party keystones, Sylan accepts stewardship of the Keystone of Gilbrick, having been given first choice because of his connection to that realm. In his audience with the Raven Queen, he declines any further favor or boon, believing she has already done enough for him. She identifies him as a talon of her order rather than a butcher, reminds him to value his life instead of expecting or preparing for death, and gives him final instruction regarding his role and responsibilities.",
+  "description": "Sylan is a half-elf rogue and a Gatekeeper associated with Gilbrick. He possesses a handwritten journal containing information about the Navi, including their search for a surviving child and a plot against his family, and he remains cautious about the Navi and the Mother’s Prayer. Sylan accepted the Gilbrick keystone and was identified by Plymouth as a child of the lord of Gilbrick. He can interact with doorways through the keystone, though he has only experienced a brief sensation from it so far. Sylan can also see the mysterious white-flower girl and has committed to investigating her trail with the party. He has a connection to the Raven Queen, who considers him a talon of her order rather than a butcher and urged him to value what he has rather than focus on death. Sylan carefully records important guidance and has demonstrated caution in accepting further favors from the Raven Queen.",
   "type": "PLAYER",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "Sylan presents the council with evidence that Gerk is the child sought by the Navi, drawing on an old journal and a spiritual vision from Jotunheim. Though the journal does not state the prophecy outright, he trusts it because it accurately described the conspiracy that killed his family. When Plymouth offers the party keystones, Sylan accepts stewardship of the Keystone of Gilbrick, taking first choice because of his connection to that realm. In a final audience with the Raven Queen, he declines any further boon, believing she has already done enough for him. She reminds him to value his life rather than expect death, names him a talon of her order rather than a butcher, and gives him last instructions about his role and responsibilities.",
+      "date": "2026-08-03",
+      "summary": "Writing\n\nSylan’s meditation in Jotunheim connected Gerk to the surviving child described in his handwritten journal and revealed Gerk’s role as one who would open doors. He remained cautious about the Navi and the unfamiliar Mother’s Prayer, but joined Gerk’s group and accepted the Gilbrick keystone. Plymouth identified Sylan as a child of the lord of Gilbrick, establishing him as the Gatekeeper associated with Gilbrick. Sylan’s first attempt to use the keystone on a doorway produced only a brief sensation, indicating that he will need practice to master it. He also saw the mysterious white-flower girl and promised Gerk that the party would investigate her trail. During an encounter with the Raven Queen, she described Sylan as a talon of her order rather than a butcher and advised him to value what he has instead of preparing for death. Sylan declined to request additional favors and carefully recorded her guidance.",
       "notes": [
-        "Reveals to the council the evidence supporting his belief that Gerk is the child sought by the Navi.",
-        "Explains that his conclusion comes from both an old journal and a spiritual vision experienced in Jotunheim.",
-        "States that the journal also accurately described the conspiracy that ultimately killed his family.",
-        "Explained the evidence leading him to believe Gerk is the prophesied child.",
-        "Confirmed his belief comes from both an old journal and a vision experienced in Jotunheim.",
-        "Clarified the journal itself does not explicitly contain the prophecy.",
-        "Accepts stewardship of the Keystone of Gilbrick after Plymouth offers it to him first because of his connection to that realm.",
-        "Accepts the Keystone of Gilbrick after Plymouth offers him first choice because of his connection to the realm.",
-        "Declines the Raven Queen's offer for an additional favor, believing she has already done enough for him.",
-        "Is reminded to value his life rather than expect or prepare for death.",
-        "Is identified by the Raven Queen as a talon of her order rather than a butcher.",
-        "Declines to request any further boon from the Raven Queen despite being offered the opportunity.",
-        "Receives final instruction from the Raven Queen regarding his role and responsibilities."
+        "Possesses a relatively recent handwritten journal containing information about the Navi searching for a surviving child whose mother had died.",
+        "The journal was written by multiple authors or hands and also contained a plot against Sylan's family that later occurred.",
+        "Sylan's meditation in Jotunheim identified Gerk as the child described in the journal and as a keeper who would open doors.",
+        "Sylan had not previously heard of the Mother's Prayer and remains cautious about information connected to the Navi.",
+        "Sylan joined Gerk's group and accepted the Gilbrick keystone.",
+        "Plymouth identifies Sylan as a child of the lord of Gilbrick.",
+        "Sylan is the Gatekeeper associated with Gilbrick.",
+        "His initial attempt to interact with a doorway through the keystone produced only a brief sensation, suggesting he needs more practice.",
+        "Sylan can see the mysterious white-flower girl and promised Gerk that the party would investigate her trail.",
+        "The Raven Queen identifies Sylan as a talon of her order rather than a butcher and advises him to value what he has rather than prepare for death.",
+        "Sylan declined to ask the Raven Queen for further favors and carefully recorded her guidance."
       ]
     }
   ],
   "openQuestions": [
-    "What responsibilities and abilities come with being a 'talon' of the Raven Queen's order?"
+    "What is the complete history and origin of Sylan's journal?",
+    "What is Sylan's exact relationship to the lord of Gilbrick?",
+    "What exactly does being a talon of the Raven Queen's order entail?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:06:14.355Z",
-  "updatedAt": "2026-08-10T02:06:14.355Z"
+  "createdAt": "2026-08-11T14:02:08.336Z",
+  "updatedAt": "2026-08-11T14:02:08.336Z"
 }

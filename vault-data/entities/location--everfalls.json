@@ -3,21 +3,22 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/location/everfalls.md",
-  "description": "During the session on 2026-08-03, the Raven Queen told the party that she had seen Sylan and Dana on the Everfalls. These notes establish only that connection: the Everfalls is a place where she claims to have witnessed those two party members.",
+  "description": "Everfalls is a location associated with the party’s past. The Raven Queen has stated that she has seen Sylan and Dana at Everfalls, indicating that both have previously been there. No further details about the location or its significance are established.",
   "type": "Location",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "During the 2026-08-03 session, the Everfalls were mentioned when the Raven Queen told the party she had walked among mortals and knew where they come from. She said she had been there, had seen, and had even seen some of them on the Everfalls, lingering pointedly on Sylan and Dana before continuing. Beyond that personal tie, the session reveals little else about the location itself, though it establishes that the Raven Queen has firsthand knowledge of the Everfalls and claims to have observed those two party members there. What she witnessed remains unclear.",
+      "date": "2026-08-03",
+      "summary": "The Raven Queen revealed that she has seen members of the party, specifically Sylan and Dana, at the Everfalls. This establishes a connection between the party’s past and the Everfalls, though no further details about what occurred there or why they were present were provided in this session.",
       "notes": [
-        "The Raven Queen states she has seen Sylan and Dana on the Everfalls."
+        "The Raven Queen says she has seen members of the party at the Everfalls, specifically Sylan and Dana.",
+        "The location is referenced as part of the party's past, but no further details are established here."
       ]
     }
   ],
   "openQuestions": [
-    "Why were Sylan and Dana specifically mentioned in connection with the Everfalls?"
+    "What exactly did the Raven Queen witness at the Everfalls?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:48:45.363Z",
-  "updatedAt": "2026-08-10T02:48:45.363Z"
+  "createdAt": "2026-08-11T17:15:56.134Z",
+  "updatedAt": "2026-08-11T17:15:56.134Z"
 }

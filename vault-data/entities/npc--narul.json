@@ -1,0 +1,22 @@
+{
+  "name": "Narul",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/npc/narul.md",
+  "description": "Narul, also known as the Stranger, is an elder god and former god of death. He is a mysterious divine figure who communicates sparingly and tends to remain reserved in matters involving the party.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Narul, also known as the Stranger, silently acknowledges the party during the council with a nod, a gesture toward his forehead, and a slight bow before departing. He provides no additional information or explanation during the council.",
+      "notes": [
+        "Silently gives the party a nod, forehead gesture, and slight bow before departing.",
+        "Provides no additional information during the council."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T17:13:40.098Z",
+  "updatedAt": "2026-08-11T17:13:40.098Z"
+}

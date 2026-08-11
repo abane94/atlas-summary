@@ -3,205 +3,316 @@
         {
             "title": "Gerk and the Mother's Prayer",
             "bullets": [
-                "A Navi elder questions Gerk about whether he truly wishes to continue the path laid before him and whether he genuinely desires the life he currently leads.",
-                "Gerk repeatedly states that he is happiest traveling with his friends, fighting, and continuing as he always has, regardless of whether the prophecy is true.",
-                "The Navi explain that the Mother's Prayer is an ancient Navi prophecy that has existed through many different written accounts by different authors, yet consistently tells the same core story.",
-                "The prophecy describes a catastrophic event followed by a hero who must make increasingly difficult choices. The speaker believes Gerk fulfills that role.",
-                "The prophecy does not dictate Gerk's past actions, only that he has arrived at this point. The Mother's Tales have even been observed rewriting themselves when a chosen individual abandons their path.",
-                "The Navi stress that accepting or rejecting the role is entirely Gerk's choice, but the opportunity is time-sensitive because the 'growing season' of the Great Tree is nearing its end and another chosen individual could emerge if Gerk refuses.",
-                "After questioning whether the prophecy truly refers to him, Gerk ultimately agrees to continue down the path if doing so will help Atlas.",
-                "The Navi celebrate Gerk's acceptance, noting that no chosen son or daughter has accepted the Mother's Prayer in roughly 1,500 years."
-            ]
-        },
-        {
-            "title": "The Great Tree and the Party's Role",
-            "bullets": [
-                "The Mother's Prayer is compared to a fruiting tree, with each chosen hero being a fruit produced by the Great Tree.",
-                "Those chosen by the prophecy are referred to as sons and daughters of the Great Tree.",
-                "The Navi explain they have previously met three other chosen individuals: one accepted the responsibility while two abandoned it.",
-                "The rest of the party is offered the opportunity to voluntarily become Gerk's companions in the prophecy, symbolically becoming brothers and sisters alongside the chosen child of the Great Tree.",
-                "The choice is presented as entirely voluntary and affects only their participation in Gerk's prophetic role, not their existing friendships.",
-                "Walker, Glimmen, Dana, and the others express varying degrees of confusion before indicating they intend to stand with Gerk if he accepts the role."
+                "Gerk is explicitly confirmed as the chosen child foretold by the Mother's Prayer, though the prophecy does not determine his choices or how he arrived at this point.",
+                "The Mother's Prayer is an ancient prophecy sacred to the Navi. It describes a recurring pattern of catastrophic events, a hero rising from them, and that hero eventually facing difficult choices.",
+                "The prophecy has appeared in multiple journals or tomes written by different authors, and the Mother's Tales have sometimes changed or rewritten themselves.",
+                "The Mother's Prayer is compared to a fruiting tree: the prophecy is the tree, while the chosen hero is a fruit produced by it.",
+                "The great tree has diminished over the years and is approaching another growth cycle. A new 'bud' is expected when the current growing season ends.",
+                "Gerk is being offered the choice to consciously take up the role foretold by the Mother's Prayer rather than simply continuing along his existing path. He agrees to pursue the role if doing so will help Atlas.",
+                "The DM states that no son or daughter of the Mother's Prayer has stepped forward to take up the role in roughly 1,500 years.",
+                "The DM explains that Gerk's decision also affects his companions. They may voluntarily join him as part of his entourage and become metaphorical siblings or relatives of the chosen child of the Great Tree.",
+                "Dana chooses to follow Gerk, stating that if he has been chosen there must be a purpose and that she will go wherever he goes.",
+                "Walker and the others appear willing to participate, though the exact nature of their relationship to the Great Tree and Gerk's role is still being explained.",
+                "Gerk asks about Daisy, the small girl who has repeatedly appeared around him and is associated with flowers. The DM has not personally encountered or identified Daisy and does not provide an explanation for her identity.",
+                "Gerk states that Daisy has previously stopped time without anyone else noticing, reinforcing that she may be an unusual or supernatural presence connected to his story."
             ]
         }
     ],
     "chronologicalEvents": [
-        "A Navi elder questions Gerk about his motivations and whether he truly wants the life he has chosen.",
-        "Gerk says he is happiest traveling with his friends and smashing things.",
-        "The Navi explain the origins and significance of the Mother's Prayer prophecy.",
-        "The Great Tree analogy is introduced to describe the Mother's Prayer and its chosen heroes.",
-        "The Navi reveal they have encountered three previous sons or daughters of the Great Tree, with only one accepting the role.",
-        "The Navi explain that the Mother's Tales can change if a chosen individual rejects their destiny.",
-        "Gerk questions whether the prophecy could simply describe many different people.",
-        "The Navi argue that details contained in the prophecy and recent discoveries strongly point toward Gerk.",
-        "Gerk agrees to continue pursuing the prophetic role if it helps Atlas.",
-        "The Navi announce that no one has accepted the Mother's Prayer in approximately 1,500 years.",
-        "The rest of the party is invited to voluntarily become Gerk's companions within the prophecy.",
-        "Walker and Glimmen express confusion about what the Great Tree means.",
-        "Dana states she will continue following Gerk because she believes there is purpose behind his selection.",
-        "Gerk again brings up the mysterious girl Daisy, expressing concern that no one else seems to know who she is despite her seemingly supernatural abilities."
+        "The DM challenges Gerk to consider whether he is prepared to accept greater responsibility if he truly is the chosen figure of the Mother's Prayer.",
+        "The DM confirms that Gerk is the chosen child foretold by the Mother's Prayer and explains the prophecy's history among the Navi.",
+        "The Mother's Prayer is described as a recurring prophetic story involving catastrophe, a hero, and increasingly difficult choices for that hero.",
+        "The DM explains that the prophecy does not dictate Gerk's actions; his choices have remained his own, and the prophetic accounts can apparently change or rewrite themselves.",
+        "The DM reveals that Gerk is one of the sons and daughters of the Great Tree and that no such chosen child has taken up the role in approximately 1,500 years.",
+        "Gerk agrees to accept guidance and pursue the role if doing so can help Atlas.",
+        "The DM explains that Gerk's companions may voluntarily join him as part of his entourage and become metaphorical brothers and sisters of the chosen child of the Great Tree.",
+        "Walker learns that Gerk is a chosen child and that the Great Tree is connected to the Mother's Prayer.",
+        "The party discusses the strange significance of the role and realizes that Gerk's companions may also become connected to the Great Tree through him.",
+        "Dana formally states that she will follow Gerk wherever he goes because his selection implies a greater purpose.",
+        "Gerk asks whether the party understands who Daisy is; the DM says he has never seen her and cannot explain her identity.",
+        "Gerk recalls that Daisy, a small girl, has previously stopped time without anyone else noticing."
     ],
     "entities": {
         "Gerk": {
-            "existing": "Half-orc barbarian, party ambassador.",
+            "existing": "Half-orc barbarian and party ambassador.",
             "entityType": "PLAYER",
             "notes": [
-                "Accepts the path of the Mother's Prayer after deciding it will help Atlas.",
-                "States he does not seek power or glory and is happiest adventuring with his friends.",
-                "Questions whether the prophecy truly identifies him specifically.",
-                "Continues expressing concern about the mysterious girl Daisy, claiming she previously stopped time without anyone else noticing."
+                "Explicitly confirmed to be the chosen child foretold by the Mother's Prayer.",
+                "Is described as a son of the Great Tree and one of the rare children produced by the Mother's Prayer.",
+                "Chooses to take up the role associated with the Mother's Prayer after being told that doing so could help all of Atlas.",
+                "His choices are still his own; the prophecy describes and anticipates his path but does not dictate his decisions.",
+                "The DM says Gerk's decision has consequences for his companions, who may voluntarily join him as part of his entourage.",
+                "Gerk continues to question the certainty of the prophecy and asks how he can know that its description uniquely identifies him.",
+                "Gerk has repeatedly encountered a small girl named Daisy, who has apparently demonstrated supernatural abilities."
             ],
             "titles": [
-                "Potential chosen child of the Great Tree",
-                "Potential hero of the Mother's Prayer",
-                "Potential son of the Great Tree"
+                "Chosen Child of the Mother's Prayer",
+                "Son of the Great Tree"
             ],
             "personality": [
-                "Remains humble despite being told he may be the chosen hero.",
-                "Views helping his friends as more important than fulfilling prophecy for its own sake."
+                "Initially reluctant to seek a greater destiny and prefers continuing his existing life with his friends.",
+                "Accepts greater responsibility when he believes it can help Atlas."
             ],
             "quotesThemes": [
-                "'I'm just doing my thing.'",
-                "Accepts responsibility only after learning it may help Atlas."
+                "Gerk's recurring attitude is that he is happiest simply doing his thing with his friends.",
+                "He questions whether the prophecy is specific enough to distinguish him from other possible candidates."
             ],
             "openQuestions": [
-                "Is Gerk truly the chosen individual described by the Mother's Prayer?",
-                "Who is Daisy and why does only Gerk appear aware of her?"
+                "What exactly is the role Gerk is expected to fulfill as the chosen child?",
+                "What difficult choices does the Mother's Prayer foretell for Gerk?",
+                "What will happen when the Mother's Prayer's current growing season ends and the next bud appears?"
             ]
         },
         "Mother's Prayer": {
-            "existing": "Ancient Navi prophecy.",
-            "entityType": "CONCEPT",
-            "notes": [
-                "Exists through numerous independent written accounts created by different authors.",
-                "Describes a catastrophic event followed by a chosen hero forced to make increasingly difficult decisions.",
-                "The written tales have reportedly rewritten themselves when previous chosen individuals abandoned their path.",
-                "Is considered sacred among the Navi and was historically used to identify individuals who would aid them.",
-                "Its current chosen hero is believed to be Gerk if he continues accepting the role."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [
-                "Compared to a fruiting tree whose fruit are the chosen heroes."
-            ],
-            "openQuestions": [
-                "Who originally created or spoke the Mother's Prayer?"
-            ]
-        },
-        "Great Tree": {
             "existing": "",
             "entityType": "CONCEPT",
             "notes": [
-                "Serves as the metaphorical source of the sons and daughters chosen by the Mother's Prayer.",
-                "Each chosen individual is described as fruit produced by the tree.",
-                "If one chosen individual does not fulfill the role, another bud may eventually grow."
+                "An ancient sacred prophecy of the Navi describing a recurring cycle involving catastrophe, a hero, and difficult choices.",
+                "The prophecy is compared to a fruiting tree, with the chosen hero represented as a fruit growing from the tree.",
+                "Multiple journals or tomes contain versions of the Mother's Prayer, with different authors recording the story.",
+                "The prophetic accounts can apparently rewrite themselves under certain circumstances, particularly when a son or daughter of the tree chooses their own path.",
+                "The prophecy has explicitly identified Gerk as its current chosen child.",
+                "The DM says the prophecy originated in the early history of the Navi in Midgard and Atlas.",
+                "The Mother's Prayer is also referred to as the Mother's Tales."
+            ],
+            "titles": [
+                "Mother's Tales"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "The prophecy concerns a catastrophic event, the rise of a hero, and increasingly difficult choices made by that hero.",
+                "The prophecy describes a path without necessarily forcing the individual to follow it."
+            ],
+            "openQuestions": [
+                "Who originally gave or authored the Mother's Prayer?",
+                "Who or what determines when the next chosen child appears?"
+            ]
+        },
+        "Great Eldarin Tree": {
+            "existing": "The sacred Great Eldarin Tree is associated with the origins of the keystones and the Navi.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The Great Tree is directly connected to the Mother's Prayer and its chosen children.",
+                "The chosen individuals are described as sons and daughters of the Great Tree.",
+                "The DM describes the Mother's Prayer itself as the tree and the chosen individual as a fruit produced by it.",
+                "The tree has diminished over the years and is currently approaching the end of a growing season.",
+                "A new bud is expected to appear when the current growing season ends.",
+                "The party may become metaphorical brothers and sisters of Gerk through his relationship to the Great Tree."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [
-                "The chosen are described as sons and daughters of the Great Tree."
+                "The Great Tree represents an ongoing source or lineage of chosen heroes rather than a single historical individual."
             ],
             "openQuestions": [
-                "What is the true nature of the Great Tree beyond the metaphor?"
+                "What exactly causes the Great Tree to produce a new chosen child?",
+                "What does the next bud signify?"
             ]
         },
         "Navi": {
-            "existing": "Ancient race.",
+            "existing": "Ancient race associated with the Great Eldarin Tree and keystones.",
             "entityType": "GROUP",
             "notes": [
-                "Treat the Mother's Prayer as a sacred tradition.",
-                "Historically used the prophecy to identify individuals who would aid their exploration of Atlas.",
-                "State that very few Navi remain."
+                "The Mother's Prayer is described as a sacred prophecy of the Navi.",
+                "The prophecy dates back to the early times of the Navi's existence in Midgard and Atlas.",
+                "The Navi historically sought out the sons and daughters produced through the Mother's Prayer to aid their efforts in exploring Atlas."
             ],
             "titles": [],
-            "personality": [
-                "View themselves as acting for the greater good of Atlas."
-            ],
+            "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
         "Daisy": {
-            "existing": "",
-            "entityType": "OTHER",
-            "otherEntityType": "Mysterious individual",
+            "existing": "Small girl who has previously appeared around Gerk and is associated with white flowers.",
+            "entityType": "NPC",
             "notes": [
-                "Gerk remains convinced Daisy is a real small blonde girl who has interacted with him.",
-                "According to Gerk, Daisy once stopped time without anyone else noticing.",
-                "The Navi present have no knowledge of Daisy despite Gerk mentioning her multiple times."
+                "Gerk again brings up Daisy as a small girl who has been following or appearing around him.",
+                "The DM says he has heard Gerk mention Daisy several times but has never personally seen her.",
+                "Gerk claims Daisy has previously stopped time without anyone else noticing.",
+                "Daisy's identity and connection to Gerk remain unexplained."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Daisy is associated with unexplained supernatural events around Gerk."
+            ],
+            "openQuestions": [
+                "Who is Daisy?",
+                "How is Daisy connected to Gerk and the Mother's Prayer?",
+                "How is Daisy able to stop time without others noticing?"
+            ]
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and the most knowledgeable member of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Chooses to follow Gerk as he takes up the role of the chosen child.",
+                "States that if Gerk has been chosen, there must be a purpose and she will go wherever he goes."
+            ],
+            "titles": [],
+            "personality": [
+                "Demonstrates loyalty to Gerk and willingness to trust the significance of his selection."
+            ],
+            "quotesThemes": [
+                "Dana's decision emphasizes loyalty to Gerk and faith that his selection has a greater purpose."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Learns that Gerk is the chosen child and initially admits that he did not understand the significance of the Great Tree.",
+                "Is offered the opportunity to join Gerk's entourage and become connected to the chosen child and Great Tree."
+            ],
+            "titles": [],
+            "personality": [
+                "Reacts to the revelation with surprise and humor while remaining interested in joining Gerk's path."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Glimmen is present through Walker's mind-linked perspective during the revelation about Gerk."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
-            "openQuestions": [
-                "Who is Daisy?",
-                "Why does only Gerk appear to recognize her?",
-                "Did Daisy truly stop time?"
-            ]
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Was involved in the discussion concerning information previously revealed through the sitting stones and the Navi's plans.",
+                "Had previously withheld some information because the Navi appeared to have plans for the person involved."
+            ],
+            "titles": [],
+            "personality": [
+                "Shows caution about revealing information connected to the Navi before understanding its significance."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and friend of the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Explains that Gerk's companions can potentially become metaphorical brothers and sisters of the chosen child of the Great Tree.",
+                "Appears to understand more about the Great Tree and its relationship to Gerk than Walker initially does."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sitting Stones": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan references having gone through the sitting stones when discussing information connected to the Navi and another person's role."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
         }
     },
     "misTranscriptions": [
         {
             "heard": "mind you keys",
-            "likely": "Navi keys",
-            "notes": "Refers to Gerk possessing the Navi keys."
+            "likely": "keystones",
+            "notes": "The campaign's established term is 'keystones', the physical stones associated with opening realm doors."
         },
         {
             "heard": "Lithe",
-            "likely": "life",
-            "notes": "Context is discussing what Gerk wants out of life, not the realm Lith."
+            "likely": "Lith",
+            "notes": "Lith is an established realm of Atlas; the transcript context makes the realm name likely."
         },
         {
-            "heard": "guck / guck",
-            "likely": "Gerk",
-            "notes": "ASR variation of Gerk's name."
+            "heard": "Ivellio",
+            "likely": "",
+            "notes": "Appears to be a name or term used while Gerk questions whether many people could fit the prophecy's description; insufficient context to identify it confidently."
         },
         {
-            "heard": "spashing",
-            "likely": "smashing",
-            "notes": "Referring to Gerk smashing things."
-        },
-        {
-            "heard": "mother's tales",
-            "likely": "Mother's Tales",
-            "notes": "Appears to be the name used for written versions of the Mother's Prayer."
+            "heard": "sitting stones",
+            "likely": "Sitting Stones",
+            "notes": "Likely a proper noun for an established object or location, but this spelling should be confirmed."
         },
         {
             "heard": "Clymouth",
             "likely": "Plymouth",
-            "notes": "Refers to Plymouth Gawater."
+            "notes": "The DM immediately corrects from a mistaken reference to Glimmen to Plymouth, the known gnome artificer."
         },
         {
-            "heard": "an RV",
-            "likely": "a Navi",
-            "notes": "ASR confusion for Navi."
+            "heard": "Ciria",
+            "likely": "Ciri",
+            "notes": "The DM self-corrects the name while addressing Ciri."
+        },
+        {
+            "heard": "Kerrick",
+            "likely": "Gerk",
+            "notes": "The DM is speaking directly to Gerk in this scene."
+        },
+        {
+            "heard": "Gurk",
+            "likely": "Gerk",
+            "notes": "Variant ASR rendering of Gerk's name."
         }
     ],
     "openQuestions": [
-        "Is Gerk truly the current chosen hero of the Mother's Prayer?",
-        "What exactly happens if a chosen individual refuses the role?",
-        "Who originally created or spoke the Mother's Prayer?",
-        "Who or what is Daisy, and why does only Gerk seem aware of her?"
+        "Who is the originator or seer behind the Mother's Prayer?",
+        "What exactly is the role Gerk must take up as the chosen child?",
+        "What are the difficult choices that the Mother's Prayer foretells for Gerk?",
+        "What happens when the current growing season ends and the Great Tree produces another bud?",
+        "Who is Daisy, and what is her connection to Gerk and the Mother's Prayer?",
+        "How is Daisy able to stop time without anyone else noticing?",
+        "What specifically changes for Gerk's companions if they join his entourage?"
     ],
     "newTerms": [
         {
             "name": "Mother's Tales",
             "notes": [
-                "Written accounts of the Mother's Prayer maintained by the Navi.",
-                "Different authors record them, but they consistently preserve the core prophecy.",
-                "They have reportedly rewritten themselves when a chosen individual abandons the path."
+                "Alternate name used for the written or recorded versions of the Mother's Prayer.",
+                "Different tomes have been written by different authors, and some accounts can apparently rewrite themselves."
             ]
         },
         {
-            "name": "Great Tree",
+            "name": "Chosen Child of the Mother's Prayer",
             "notes": [
-                "Metaphorical or mystical source of the sons and daughters chosen by the Mother's Prayer.",
-                "Produces successive chosen individuals as 'fruit' of the tree."
+                "The individual produced by the Mother's Prayer who becomes the hero at the center of its prophetic cycle.",
+                "Gerk is explicitly confirmed as the current chosen child."
             ]
         },
         {
-            "name": "Growing Season",
+            "name": "Sons and Daughters of the Great Tree",
             "notes": [
-                "The period during which the current chosen individual must decide whether to accept the Mother's Prayer before another may emerge."
+                "Individuals associated with the Mother's Prayer and its Great Tree lineage.",
+                "The DM says Gerk is one of these sons and daughters and that several have existed historically."
+            ]
+        },
+        {
+            "name": "Mother's Prayer Growing Season",
+            "notes": [
+                "A metaphorical cycle associated with the Mother's Prayer and Great Tree.",
+                "The current growing season is nearing its end, after which the tree is expected to sprout another bud."
+            ]
+        },
+        {
+            "name": "Chosen Child's Entourage",
+            "notes": [
+                "Gerk's companions may voluntarily join him as part of his entourage.",
+                "Joining appears to establish a familial or kinship-like relationship to the chosen child and Great Tree."
+            ]
+        },
+        {
+            "name": "Sitting Stones",
+            "notes": [
+                "An object or location previously used by the party in connection with information involving the Navi.",
+                "The exact nature of the Sitting Stones is not established in this chunk."
             ]
         }
     ]

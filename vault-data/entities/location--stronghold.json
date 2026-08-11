@@ -1,0 +1,22 @@
+{
+  "name": "Stronghold",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/location/stronghold.md",
+  "description": "The Stronghold is a familiar location containing the Great Hall, which serves as a known mental reference point for the party. It is associated with Dana’s suggestion that Gerk use familiar places as mental targets when attempting to control portal destinations.",
+  "type": "Location",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "",
+      "notes": [
+        "The Great Hall of the Stronghold is a familiar location Dana suggests Gerk use as a mental target when attempting to control portal destinations.",
+        "Gerk attempts to open a portal to the Great Hall but instead reaches a forest near Langdale."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T17:23:29.829Z",
+  "updatedAt": "2026-08-11T17:23:29.829Z"
+}

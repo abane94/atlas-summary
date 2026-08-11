@@ -1,119 +1,186 @@
 {
     "plotSections": [
         {
-            "title": "Assignment of the Remaining Keystones",
+            "title": "Keystone Keepers Chosen",
             "bullets": [
-                "Walker decides that although La-rel was once his home, the Reach better represents who he has become. Glimmen supports his decision.",
-                "Plymouth entrusts Walker with the Reach keystone.",
-                "Dana accepts stewardship of the Pitel keystone, becoming guardian of the central arch of Atlas.",
-                "Ord chooses Feldspar after considering both Feldspar and Lith. Plymouth explains that Lith's people have not lost magic; instead they experience it through folklore, cryptids, and legends.",
-                "Ciri chooses Lith after hearing descriptions of the remaining available arches. Plymouth explains that Lith preserves magic through stories despite rejecting formal magic."
+                "Walker chooses The Reach rather than La-rel, explaining that although La-rel was an important part of his past, he no longer feels it represents who he is; Glimmen supports either choice.",
+                "Dana accepts the Pitel keystone and becomes its protector, describing Pitel as the center of the rings of Atlas.",
+                "Ord chooses Feldspar, the realm associated with magic, science, and alchemy.",
+                "Ciri chooses Lith, despite its people having sworn off magic; Lith's people instead understand supernatural phenomena through folklore, fairy tales, cryptids, and legends.",
+                "The party is now established as the keepers of six keystones: Gerk/Midgard, Sylan/Gilbrick, Dana/Pitel, Walker/The Reach, Ord/Feldspar, and Ciri/Lith."
             ]
         },
         {
-            "title": "The Remaining Keystones",
+            "title": "The Unchosen Keystones",
             "bullets": [
-                "After all party members make their choices, only the La-rel and Terov keystones remain unclaimed.",
-                "Plymouth says the original expedition had more members and that those absent companions should not be forgotten.",
-                "Kit Anger and the stewards of the Child of the Tree will safeguard the remaining keystones until new keepers arise."
+                "Two of the eight keystones remain unchosen: La-rel and Turof.",
+                "These two keystones will remain under the stewardship of Kit Anger and the DM's character until two future keepers can take up their mantles.",
+                "The remaining keystones should not be forgotten; the current stewards promise to protect them until new keepers can be found."
             ]
         },
         {
-            "title": "The Responsibility of the Keepers",
+            "title": "Children of the Great Eldarin Tree",
             "bullets": [
-                "Plymouth reminds the party that although they originally sought to protect the keystones from a lich, they are now personally responsible for safeguarding them.",
-                "He warns that the keystones are powerful artifacts and must never fall into the wrong hands.",
-                "Plymouth says he cannot tell the party exactly how to use the keystones, only guide them.",
-                "He hints that accepting stewardship of a keystone has changed each of them in a significant way."
+                "The party's acceptance of the keystones makes them keepers and connects them to the Children of the Great Eldarin Tree.",
+                "The keystones are powerful objects that require great care, and the party is now responsible for protecting them from falling into the wrong hands.",
+                "The party's new responsibilities create an apparent reversal: they originally sought a lich who was pursuing these powerful objects, but they have now been entrusted with protecting the very things the lich seeks."
+            ]
+        },
+        {
+            "title": "The Lich and the Party's New Responsibility",
+            "bullets": [
+                "The party has repeatedly sought ways to find or become safer from the lich who is pursuing the keystones.",
+                "The current situation may instead make the party more directly involved, since they have now been entrusted with protecting the keystones.",
+                "The party is urged to protect the keystones and not allow them to fall, while recognizing that events may be driven by fate beyond the speaker's control.",
+                "The keeper role gives the party greater status and responsibility, with the implications of Gerk's new mantle beginning to be revealed at the end of the conversation."
             ]
         }
     ],
     "chronologicalEvents": [
-        "Walker decides to become the keeper of the Reach instead of La-rel.",
-        "Plymouth gives Walker the Reach keystone.",
-        "Dana accepts the Pitel keystone.",
-        "Ord is offered Feldspar or Lith and chooses Feldspar.",
-        "Plymouth explains the true nature of Lith before Ord finalizes his choice.",
-        "Ciri is offered La-rel, Terov, or Lith.",
-        "Plymouth explains the differences between the remaining arches.",
-        "Ciri chooses Lith and receives its keystone.",
-        "Plymouth notes that La-rel and Terov remain without keepers.",
-        "Plymouth says the absent members of the original expedition will be remembered.",
-        "Kit Anger and the stewards will guard the remaining keystones until successors are found.",
-        "Plymouth warns that the party now carries the artifacts the lich seeks.",
-        "Plymouth explains that becoming keystone keepers has fundamentally changed the party."
+        "Walker decides that The Reach is more appropriate for him now than La-rel, because La-rel represents an important part of his past rather than who he currently is.",
+        "Glimmen tells Walker that home is where they make it and says she is comfortable with either choice.",
+        "Walker receives the keystone for The Reach. The Reach is described as the largest of the arches, with extensive territory that Walker and Glimmen should be able to traverse efficiently.",
+        "Dana is offered the Pitel keystone because of her previous interest in reaching Pitel and accepts it, declaring that she is honored to guard the center of the rings of Atlas.",
+        "The remaining available keystones are identified as Feldspar, La-rel, Turof, and Lith.",
+        "Ord is offered a choice between the remaining keystones and chooses Feldspar, attracted to its combination of magic, science, and alchemy.",
+        "Feldspar is described as a realm involving magic, science, and unusual alchemical experimentation.",
+        "Lith is clarified as a realm whose people have sworn off magic but still encounter supernatural phenomena, interpreting them as folklore, fairy tales, cryptids, and legends.",
+        "Ciri returns and is told that she must choose one of the remaining keystones.",
+        "Ciri is offered La-rel, Turof, or Lith and chooses Lith.",
+        "La-rel is identified as the realm of fairies, also called the Feywilds, and Renard is recalled as the smiling trickster the party encountered there.",
+        "The party confirms that they have previously visited La-rel but have not knowingly visited Turof or Lith.",
+        "The DM explains that Lith's people may call Ciri a witch if she uses magic, but she will nevertheless become part of their history and may have holidays named after her.",
+        "The party recognizes that there are eight keystones but only six current keepers.",
+        "La-rel and Turof remain unchosen and will be watched over by Kit Anger and the DM's character as stewards until future keepers can take up the mantles.",
+        "The party is formally described as keepers of the keystones and as Children of the Great Eldarin Tree.",
+        "The DM points out the irony that the party has been searching for a lich pursuing the keystones, while the party has now been entrusted with protecting those same objects.",
+        "The party is warned that the keystones are powerful and require great care in how they are used.",
+        "The DM begins explaining that Gerk's new mantle makes him more than he was before, but the transcript ends before the explanation is completed."
     ],
     "entities": {
         "Walker": {
-            "existing": "Half elf dragon rider & fighter. Glimmen is his mind linked dragon.",
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
             "entityType": "PLAYER",
             "notes": [
-                "Chooses to protect the Reach instead of La-rel because he feels the Reach is now his true home.",
-                "States that although La-rel remains important to him, it no longer defines who he is."
+                "Chooses The Reach as his keystone realm rather than La-rel.",
+                "Walker feels that La-rel represents an important part of his past but no longer represents who he is.",
+                "Glimmen supports either choice and emphasizes that home is where they make it.",
+                "Walker and Glimmen are considered particularly well suited to traveling the vast Reach because of their ability to fly."
             ],
             "titles": [
-                "Keeper of the Reach"
+                "Keeper of The Reach"
             ],
             "personality": [
-                "Chooses based on personal growth rather than birthplace."
+                "Walker is reflective about how his identity has changed since his earlier experiences in La-rel."
             ],
             "quotesThemes": [
-                "Home is who you become, not only where you came from."
+                "The Reach feels more appropriate to who Walker is now than La-rel."
             ],
             "openQuestions": []
         },
         "Glimmen": {
-            "existing": "",
-            "entityType": "NPC",
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "OTHER",
             "notes": [
-                "Reveals that her father placed her egg on Midgard for safekeeping while attending to other matters.",
-                "Supports Walker's choice regardless of which arch he selected.",
-                "Recalls being very small during the party's adventures in La-rel."
+                "Glimmen tells Walker that home is where they make it.",
+                "Glimmen is comfortable with either La-rel or The Reach as Walker's chosen realm.",
+                "Glimmen and Walker are expected to be able to travel the large Reach with relative ease."
             ],
             "titles": [],
             "personality": [
-                "Believes home is where people choose to make it."
+                "Supportive of Walker's decision.",
+                "Reflective about the contrast between her earlier experiences and her current life."
             ],
             "quotesThemes": [
                 "Home is where we make it."
             ],
-            "openQuestions": [
-                "Who is Glimmen's father?"
-            ]
+            "openQuestions": []
+        },
+        "The Reach": {
+            "existing": "One of the arches/realms of Atlas.",
+            "entityType": "Location",
+            "notes": [
+                "Walker chooses The Reach as the realm he will protect.",
+                "The Reach is described as the biggest of the arches.",
+                "Its size makes extensive exploration possible, but Walker and Glimmen's ability to fly should make traversing it easier."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
         },
         "Dana": {
-            "existing": "Half elf cleric, most knowledgeable of the group.",
+            "existing": "Half-elf cleric and the most knowledgeable member of the group.",
             "entityType": "PLAYER",
             "notes": [
-                "Accepts stewardship of the Pitel keystone.",
-                "Promises to guard the center of the rings of Atlas."
+                "Accepts the Pitel keystone and agrees to protect Pitel.",
+                "Describes her responsibility as guarding the center of the rings of Atlas.",
+                "Her prior desire to find a way to reach Pitel is referenced when the keystone is offered."
             ],
             "titles": [
                 "Keeper of Pitel"
+            ],
+            "personality": [
+                "Treats the responsibility of guarding Pitel as a great honor."
+            ],
+            "quotesThemes": [
+                "Dana is honored to guard the center of the rings of Atlas."
+            ],
+            "openQuestions": []
+        },
+        "Pitel": {
+            "existing": "An arch/realm of Atlas located at the center of the rings of Atlas.",
+            "entityType": "Location",
+            "notes": [
+                "Dana becomes the keeper of Pitel.",
+                "Pitel is described as the center or core of the rings of Atlas.",
+                "Dana had previously sought a way to reach Pitel, apparently in connection with the realm's unusual relationship to time."
+            ],
+            "titles": [
+                "Center of the rings of Atlas"
             ],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
         "Ord": {
-            "existing": "Dragon born paladin.",
+            "existing": "Dragonborn paladin.",
             "entityType": "PLAYER",
             "notes": [
-                "Chooses Feldspar as the arch he will protect.",
-                "Learns that Lith's rejection of magic does not mean magic is absent there."
+                "Chooses Feldspar as the realm he will protect.",
+                "Ord specifically favors Feldspar because of its combination of magic and science."
             ],
             "titles": [
                 "Keeper of Feldspar"
+            ],
+            "personality": [
+                "Interested in the combination of magic, science, and alchemy."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Feldspar": {
+            "existing": "One of the arches/realms of Atlas.",
+            "entityType": "Location",
+            "notes": [
+                "Ord becomes the keeper of Feldspar.",
+                "Feldspar is associated with magic, science, and alchemical experimentation.",
+                "It is described as the second-most inner sanctum of knowledge, magic, and alchemical experiments."
+            ],
+            "titles": [
+                "Second-most inner sanctum of knowledge, magic, and alchemical experiments"
             ],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
         "Ciri": {
-            "existing": "Half elf rogue.",
+            "existing": "Half-elf rogue.",
             "entityType": "PLAYER",
             "notes": [
-                "Chooses to protect Lith after hearing about the remaining arches."
+                "Chooses Lith as the realm she will protect.",
+                "Ciri had not previously visited Lith or Turof, though the party has visited La-rel.",
+                "Her use of magic in Lith may cause its people to interpret her as a witch, but she is expected to become part of their history and folklore."
             ],
             "titles": [
                 "Keeper of Lith"
@@ -122,119 +189,200 @@
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Plymouth Gawater": {
-            "existing": "Gnome artificer, friend of the party.",
-            "entityType": "NPC",
+        "Lith": {
+            "existing": "One of the arches/realms of Atlas; its people have sworn off magic.",
+            "entityType": "Location",
             "notes": [
-                "Assigns the remaining keystones to the party.",
-                "Explains that La-rel and Terov will remain under stewardship until future keepers are found.",
-                "Warns that the party must now protect the artifacts the lich seeks.",
-                "States he can guide the keepers but cannot dictate how they use the keystones.",
-                "Hints that becoming a keeper has fundamentally changed the party."
+                "Ciri becomes the keeper of Lith.",
+                "Lith's inhabitants have sworn off magic but are not ignorant; they understand supernatural phenomena through stories, folklore, fairy tales, and cryptids.",
+                "Events or beings from other worlds can occasionally appear in Lith and frighten its inhabitants, becoming the basis for new legends and cryptids.",
+                "The people of Lith may interpret Ciri's magic as witchcraft.",
+                "Ciri is expected to become an important historical and folkloric figure in Lith."
             ],
             "titles": [],
-            "personality": [
-                "Views stewardship of the keystones as a great honor and responsibility."
-            ],
+            "personality": [],
             "quotesThemes": [
-                "The party has become the guardians of the very artifacts they sought to protect."
+                "Lith's people interpret supernatural phenomena as folklore and legends because they are distant from the underlying truth."
             ],
-            "openQuestions": [
-                "What changes come with becoming a keystone keeper?"
-            ]
+            "openQuestions": []
+        },
+        "La-rel": {
+            "existing": "One of the arches/realms of Atlas; the realm of fairies, also called the Feywilds.",
+            "entityType": "Location",
+            "notes": [
+                "Walker considers La-rel but ultimately decides The Reach is more appropriate for him.",
+                "The party has previously visited La-rel.",
+                "Renard, the smiling trickster, was encountered there.",
+                "La-rel is one of the two currently unchosen keystone realms."
+            ],
+            "titles": [
+                "Realm of fairies",
+                "Feywilds"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Turof": {
+            "existing": "One of the arches/realms of Atlas.",
+            "entityType": "Location",
+            "notes": [
+                "Turof remains one of the two unchosen keystone realms.",
+                "The party has not knowingly visited Turof."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Renard": {
+            "existing": "Smiling trickster encountered by the party in La-rel.",
+            "entityType": "NPC",
+            "notes": [
+                "Ciri and the DM recall Renard when discussing the party's previous visit to La-rel."
+            ],
+            "titles": [
+                "The smiling trickster"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
         },
         "Kit Anger": {
             "existing": "",
             "entityType": "NPC",
             "notes": [
-                "Will help safeguard the unclaimed La-rel and Terov keystones until successors are found."
+                "Will serve as one of the stewards responsible for the unchosen La-rel and Turof keystones."
             ],
-            "titles": [],
+            "titles": [
+                "Steward of the unchosen keystones"
+            ],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Lith": {
-            "existing": "",
-            "entityType": "Location",
+        "Great Eldarin Tree": {
+            "existing": "Sacred origin associated with the keystones and the Navi.",
+            "entityType": "CONCEPT",
             "notes": [
-                "Its people reject formal magic but unknowingly preserve it through folklore, fairy tales, legends, and cryptids.",
-                "Visitors who openly use magic may be viewed as witches or deities.",
-                "Strange occurrences from other realms become local myths."
+                "The party is explicitly described as Children of the Great Eldarin Tree after taking on the keeper mantles.",
+                "The keeper role is presented as a continuation of the party's efforts to protect and recover the keystones."
             ],
             "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The party is now considered children of the Great Eldarin Tree and keepers of the keystones."
+            ],
+            "openQuestions": []
+        },
+        "Keystone Keepers": {
+            "existing": "",
+            "entityType": "GROUP",
+            "notes": [
+                "The six party members now each hold and protect one keystone.",
+                "Current assignments are Gerk/Midgard, Sylan/Gilbrick, Dana/Pitel, Walker/The Reach, Ord/Feldspar, and Ciri/Lith.",
+                "The keepers are responsible for protecting the powerful keystones and preventing them from falling into the wrong hands."
+            ],
+            "titles": [
+                "Keepers of the keystones",
+                "Children of the Great Eldarin Tree"
+            ],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Feldspar": {
-            "existing": "",
-            "entityType": "Location",
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
             "notes": [
-                "Reinforced as the arch focused on magical knowledge, science, alchemy, and experimentation."
+                "Gerk is confirmed as having chosen Midgard as the realm he will protect.",
+                "The DM begins explaining that taking on the keeper mantle makes Gerk more than he was previously, but the transcript ends before the explanation is completed."
             ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Keystones": {
-            "existing": "",
-            "entityType": "ITEM",
-            "notes": [
-                "Each assigned party member now bears responsibility for protecting a keystone.",
-                "The keystones are powerful artifacts that require careful stewardship.",
-                "The lich continues to seek the keystones."
+            "titles": [
+                "Keeper of Midgard",
+                "Doorman"
             ],
-            "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": [
-                "What new powers or responsibilities accompany becoming a keeper?"
+                "What exactly does Gerk become by taking on the keeper mantle?"
             ]
         }
     },
     "misTranscriptions": [
         {
             "heard": "Thorell",
-            "likely": "La-rel",
-            "notes": "Refers to Walker's homeland."
+            "likely": "",
+            "notes": "Walker says he is from Thorell, but the intended place is unclear from this chunk."
         },
         {
-            "heard": "Turof",
-            "likely": "Terov",
-            "notes": "Name of one of the arches."
-        },
-        {
-            "heard": "Fell spa",
-            "likely": "Feldspar",
-            "notes": "Arch chosen by Ord."
-        },
-        {
-            "heard": "Felsba",
-            "likely": "Feldspar",
-            "notes": "Alternate ASR spelling."
-        },
-        {
-            "heard": "Beld Spar",
-            "likely": "Feldspar",
-            "notes": "Alternate ASR spelling."
+            "heard": "Lithe",
+            "likely": "Lith",
+            "notes": "Repeated pronunciation/transcription variant while discussing the realm whose people have sworn off magic."
         },
         {
             "heard": "Gilbert",
             "likely": "Gilbrick",
-            "notes": "Ord asked whether the Gilbrick keystone was still available."
+            "notes": "Ord asks whether Gilbert is still available; Gilbrick is the established canonical realm associated with Sylan."
         },
         {
-            "heard": "encrypted",
-            "likely": "cryptids",
-            "notes": "Lith's folklore was being described."
+            "heard": "Feldspeldspar",
+            "likely": "Feldspar",
+            "notes": "Walker uses a malformed version while explaining the realm associated with science and alchemy."
+        },
+        {
+            "heard": "Felsba",
+            "likely": "Feldspar",
+            "notes": "DM repeatedly pronounces/transcribes the realm name inconsistently."
+        },
+        {
+            "heard": "Terov",
+            "likely": "Turof",
+            "notes": "Used when identifying one of the two unchosen keystone realms."
+        },
+        {
+            "heard": "Kuralf",
+            "likely": "",
+            "notes": "Ciri asks whether she has been to Kuralf, but the intended term is unclear from context."
+        },
+        {
+            "heard": "Liz",
+            "likely": "Lith",
+            "notes": "Ciri's spoken choice is transcribed as Liz immediately before receiving the Lith keystone."
+        },
+        {
+            "heard": "Head Firm",
+            "likely": "",
+            "notes": "Appears in a sentence about the number of keystones fluctuating; likely an ASR error for an unknown name or phrase."
         }
     ],
     "openQuestions": [
-        "What changes occur when someone becomes a keystone keeper?",
-        "Who will eventually become the keepers of La-rel and Terov?",
-        "How will the lich attempt to obtain the keystones now that the party possesses them?"
+        "What exactly does Gerk become by taking on the keeper mantle?"
     ],
-    "newTerms": []
+    "newTerms": [
+        {
+            "name": "Keeper of the Keystone",
+            "notes": [
+                "A mantle held by the party members who have accepted responsibility for protecting one of the keystones and its associated realm."
+            ]
+        },
+        {
+            "name": "Children of the Great Eldarin Tree",
+            "notes": [
+                "The party is now described as Children of the Great Eldarin Tree as a consequence of taking on the keeper mantles."
+            ]
+        },
+        {
+            "name": "Stewards of the Unchosen Keystones",
+            "notes": [
+                "Kit Anger and the DM's character will temporarily safeguard the La-rel and Turof keystones until future keepers can take up their mantles."
+            ]
+        },
+        {
+            "name": "Lith Folklore",
+            "notes": [
+                "Lith's people have rejected conventional magic but still encounter supernatural phenomena, interpreting them through folklore, fairy tales, cryptids, and legends."
+            ]
+        }
+    ]
 }

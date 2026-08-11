@@ -1,62 +1,67 @@
 {
     "plotSections": [
         {
-            "title": "Raven Queen's Farewell to Sylan",
+            "title": "The Raven Queen's Charge to Sylan",
             "bullets": [
-                "The Raven Queen declines to grant Sylan anything further after he chooses not to ask for another boon, respecting his decision.",
-                "She urges Sylan to remember his past and future, value what he has, and not live in expectation of death because no one knows when their life will end.",
-                "The Raven Queen reminds Sylan that he has been given a weapon and identifies him as 'a talon of my order, not a butcher,' emphasizing precision and purpose over indiscriminate violence.",
-                "After delivering her final guidance, the Raven Queen transforms, unfurling large black wings and departing down the corridor, leaving the party with their allies."
+                "Before leaving, the Raven Queen offers Sylan the opportunity to ask anything else of her. Sylan declines, believing she has already done enough for him.",
+                "The Raven Queen tells Sylan to remember where he has been, where he will go, and what he has, warning him not to throw it away or prepare himself for death because no one knows when death will come.",
+                "She reminds Sylan that he has been given a weapon and is a talon of her order, not a butcher, emphasizing that he should follow the path he has been given rather than becoming needlessly destructive.",
+                "The Raven Queen then reveals her true harpy-like form, unfurling enormous black wings covered in clinging shadows, and flies away down the corridor."
             ]
         },
         {
-            "title": "Testing the Portal",
+            "title": "Experimenting with the Keystone Portal",
             "bullets": [
-                "After the Raven Queen departs, the party experiments further with Gerk's portal-opening ability.",
-                "Each attempt produces a different destination, suggesting the portal's destination is not yet under Gerk's full control.",
-                "One portal opens onto a rainy mountain landscape, while another reveals a dark forest illuminated by glowing insects.",
-                "Dana recognizes the forest's flora as matching the forests surrounding Langdale, suggesting the portal may have connected somewhere near the party's homeland.",
-                "Walker recognizes a distinctive tree from his previous travels near Langdale, reinforcing that the portal likely connected close to home.",
-                "The party prevents anyone from immediately walking through the portal, deciding they should first discuss the major responsibility they have just received before leaving."
+                "After the Raven Queen leaves, the party remains with Glimmen, Juten Prime, Elrus, Araden, Boris, and Kit Anger.",
+                "Gerk experiments with opening the portal again and discovers that the destination appears to change. His first attempt opens onto a gray mountainside in the rain, with distant thunder.",
+                "Dana suggests that Gerk focus on a location he knows well, such as the Great Hall of the Stronghold, in order to improve his control over the portal.",
+                "Gerk attempts to focus on the Stronghold but instead opens a dark, quiet forest filled with glowing insects.",
+                "Dana and Sylan investigate whether the forest is familiar. Dana determines that its flora and fauna match the area around Langdale.",
+                "Walker recognizes a particular old, oddly angled tree from his previous travels while tending to or searching around his bees. This provides stronger evidence that the portal has opened somewhere near Langdale.",
+                "The party realizes Gerk may be capable of opening portals to locations across Atlas, although his ability to precisely control the destination remains uncertain."
             ]
         },
         {
-            "title": "Processing Their New Responsibility",
+            "title": "The Party Reacts to Their New Responsibility",
             "bullets": [
-                "Sylan encourages the group to pause and process the significance of the new responsibility they have been entrusted with before acting on their newfound travel capability.",
-                "Plymouth Gawater expresses interest in understanding Walker's claimed ability to travel between realms, though Walker jokes instead of explaining."
+                "Walker is eager to step through the portal and return home, while Dana and Sylan urge the group not to rush through it.",
+                "Sylan points out that the party has just gained a significant responsibility and suggests they take a moment to organize themselves and process what has happened.",
+                "The party begins considering the implications of their newly acquired responsibilities while also discussing the practical possibilities of Gerk's portal-opening ability.",
+                "Dana asks for a drink, and Plymouth offers her a bottle while noting that Gerk may be able to open portals to other places worth visiting."
             ]
         }
     ],
     "chronologicalEvents": [
-        "The Raven Queen asks Sylan if he has any final request before she departs.",
-        "Sylan declines to ask for any additional favor.",
-        "The Raven Queen advises Sylan not to prepare for death, to value his life, and to act as a precise instrument of her order rather than a butcher.",
-        "The Raven Queen transforms into her winged form and flies away.",
-        "The remaining party members are left with Glimmen, Juten Prime, Elrus, Araden, Boris, Kit Anger, and Plymouth Gawater.",
-        "Gerk opens the portal several times, each attempt revealing a different destination.",
-        "The party observes a rainy mountainside through one portal.",
-        "A later portal reveals a dark forest.",
-        "Dana identifies the forest as resembling the forests around Langdale.",
-        "Walker recognizes a familiar tree from his previous travels near Langdale, supporting that the portal leads near home.",
-        "The party decides not to immediately enter the portal.",
-        "Sylan suggests everyone take time to process their new responsibility before leaving.",
-        "Plymouth questions Walker about his claimed ability to travel between realms, but Walker avoids answering seriously.",
-        "Dana asks Kit Anger for alcohol while anticipating further discussion with Plymouth."
+        "The Raven Queen asks Sylan if there is anything else he wants from her; Sylan declines.",
+        "The Raven Queen tells Sylan to remember his past, future, and what he has, and warns him not to prepare for death.",
+        "The Raven Queen identifies Sylan as a talon of her order rather than a butcher and tells him to remember this.",
+        "The Raven Queen transforms into a shadow-cloaked, harpy-like form with enormous black wings and flies away.",
+        "The party remains with Glimmen, Juten Prime, Elrus, Araden, Boris, and Kit Anger.",
+        "Gerk opens another portal, which leads to a rainy gray mountainside with distant thunder.",
+        "Dana suggests that Gerk focus on a familiar location to improve his portal control.",
+        "Gerk attempts to open a portal to the Stronghold but instead reaches a dark forest.",
+        "Dana recognizes the forest as having flora and fauna consistent with the area around Langdale.",
+        "Walker recognizes a distinctive old tree from his previous travels near Langdale, strengthening the identification of the portal's destination.",
+        "The party discusses whether to use the portal to return home, but Dana and Sylan argue that they should pause and consider their new responsibilities.",
+        "Plymouth provides Dana with a bottle after she asks for a drink and comments that there are other places they could potentially reach through the portals."
     ],
     "entities": {
         "Raven Queen": {
-            "existing": "God of the dead. Elder god.",
+            "existing": "AKA Nira; god of the dead and an elder god.",
             "entityType": "NPC",
             "notes": [
-                "Gives Sylan final guidance focused on valuing life rather than expecting death.",
-                "Explicitly describes Sylan as 'a talon of my order, not a butcher,' defining how she expects him to use the power she granted him.",
-                "Departs by transforming into a winged, shadow-covered form and flying away."
+                "Privately gives Sylan final guidance before leaving the group.",
+                "Warns Sylan not to prepare himself for death because death can come unexpectedly.",
+                "Tells Sylan to remember where he has been, where he will go, and what he has.",
+                "Confirms that Sylan has been given a weapon and describes him as a talon of her order rather than a butcher.",
+                "Leaves by transforming into a harpy-like figure with enormous black wings covered in shadow."
             ],
-            "titles": [],
+            "titles": [
+                "Talon of the Raven Queen's order"
+            ],
             "personality": [
-                "Respects Sylan's decision not to ask for another favor.",
-                "Encourages disciplined, purposeful action rather than needless killing."
+                "Protective and deliberate in her guidance to Sylan.",
+                "Emphasizes purpose and restraint rather than needless killing."
             ],
             "quotesThemes": [
                 "Remember where you have been and where you will go.",
@@ -66,59 +71,106 @@
             "openQuestions": []
         },
         "Sylan": {
-            "existing": "Half elf rogue.",
+            "existing": "Half-elf rogue.",
             "entityType": "PLAYER",
             "notes": [
-                "Declines to request any further boon from the Raven Queen despite being offered the opportunity.",
-                "Receives final instruction from the Raven Queen regarding his role and responsibilities."
+                "Declines to ask the Raven Queen for anything further because he believes she has already done enough for him.",
+                "Receives explicit guidance from the Raven Queen about his role as a talon of her order.",
+                "Is warned to preserve and value what he has rather than preparing himself for death."
             ],
-            "titles": [
-                "Talon of the Raven Queen's order"
-            ],
+            "titles": [],
             "personality": [
-                "Shows humility by refusing to ask for additional gifts."
+                "Shows humility and restraint toward the Raven Queen by declining to ask for additional favors.",
+                "Recognizes the significance of the party's newly acquired responsibilities."
             ],
-            "quotesThemes": [],
-            "openQuestions": [
-                "What responsibilities and abilities come with being a 'talon' of the Raven Queen's order?"
-            ]
+            "quotesThemes": [
+                "Believes it would be wrong to ask the Raven Queen for more after everything she has already done."
+            ],
+            "openQuestions": []
         },
         "Gerk": {
-            "existing": "Half Orc barbarian, party ambassador.",
+            "existing": "Half-orc barbarian and party ambassador.",
             "entityType": "PLAYER",
             "notes": [
-                "Continues experimenting with the newly acquired portal-opening ability.",
-                "Current attempts produce inconsistent destinations, indicating the ability has not yet been mastered."
+                "Experiments with opening the newly controlled portals and discovers that the destination can vary between attempts.",
+                "Successfully opens a portal to a rainy gray mountainside and another to a forest near Langdale.",
+                "Attempts to deliberately target the Great Hall of the Stronghold but does not reach it.",
+                "His portal-opening ability currently appears to have unreliable destination control."
             ],
             "titles": [],
             "personality": [],
-            "quotesThemes": [],
+            "quotesThemes": [
+                "Suggests repeatedly closing and reopening the portal to see whether the destination changes."
+            ],
             "openQuestions": [
-                "How can Gerk intentionally control the destination of the portal?"
+                "Can Gerk eventually learn to reliably choose a specific portal destination?"
             ]
         },
-        "Portal": {
-            "existing": "",
-            "entityType": "CONCEPT",
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
+            "entityType": "PLAYER",
             "notes": [
-                "Successive activations can lead to entirely different locations.",
-                "May be influenced by familiarity or intent, though this remains uncertain.",
-                "Successfully connected to a location believed to be near Langdale during one attempt."
+                "Recognizes a distinctive old, oddly angled tree in the forest through his experience traveling around the area.",
+                "His recognition supports the conclusion that the portal opens somewhere near Langdale.",
+                "Is eager to use the portal to return toward home."
+            ],
+            "titles": [],
+            "personality": [
+                "Eager to investigate the portal and return home."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and the most knowledgeable member of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Suggests that Gerk focus on a familiar location to improve his ability to control portal destinations.",
+                "Recognizes the forest as having flora and fauna consistent with the area around Langdale.",
+                "Urges Walker and the others not to immediately rush through the portal because the party has other matters to address.",
+                "Asks Plymouth for alcohol after the events surrounding the Raven Queen and portals."
+            ],
+            "titles": [],
+            "personality": [
+                "Practical and cautious about immediately using the unstable portal.",
+                "Focused on understanding the implications of the party's new responsibilities."
+            ],
+            "quotesThemes": [
+                "Suggests focusing on somewhere the party has been before, such as the Great Hall of the Stronghold."
+            ],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and friend of the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Is present with the party after the Raven Queen departs.",
+                "Offers Dana a bottle when she asks for alcohol.",
+                "Expresses interest in the party's ability to open portals and mentions that there are places they could potentially venture to."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
-            "openQuestions": [
-                "What determines a portal's destination?",
-                "Can the destination be intentionally selected with practice?"
-            ]
+            "openQuestions": []
+        },
+        "Boris": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Mentioned as being present with the party alongside Glimmen, Juten Prime, Elrus, Araden, and Kit Anger."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
         },
         "Langdale": {
-            "existing": "Region the party calls home.",
+            "existing": "Region that the party calls home.",
             "entityType": "Location",
             "notes": [
-                "The forest revealed through one portal appears to share the same flora and fauna as the forests surrounding Langdale.",
-                "Walker's recognition of a familiar tree further supports that the destination was near Langdale."
+                "A forest reached through Gerk's portal is identified as being in the vicinity of Langdale.",
+                "Dana recognizes the forest's flora and fauna as matching the area around Langdale.",
+                "Walker recognizes a particular tree from his previous travels near Langdale, providing additional confirmation."
             ],
             "titles": [],
             "personality": [],
@@ -128,37 +180,59 @@
     },
     "misTranscriptions": [
         {
+            "heard": "Cy",
+            "likely": "Sylan",
+            "notes": "The Raven Queen is addressing Sylan; the transcript renders his name as 'Cy' in the middle of her farewell."
+        },
+        {
             "heard": "Lithe",
             "likely": "life",
-            "notes": "The Raven Queen is almost certainly saying that no one knows when the stroke will sever their life."
+            "notes": "The phrase about the stroke severing their life is clearly about death and mortality."
         },
         {
-            "heard": "About refined eraser",
-            "likely": "A blade refined erases with ease",
-            "notes": "Sentence is heavily corrupted; context is the Raven Queen contrasting precision with butchery."
-        },
-        {
-            "heard": "lyingdale",
+            "heard": "lying down",
             "likely": "Langdale",
-            "notes": "ASR variation of the party's home region."
+            "notes": "The forest is repeatedly being identified as being in the vicinity of the party's home region, Langdale."
         },
         {
-            "heard": "orange bonus",
-            "likely": "Ord's bonus",
-            "notes": "Refers to Ord's aura bonus affecting Gerk's roll."
+            "heard": "Kirk",
+            "likely": "Gerk",
+            "notes": "Sylan refers to Gerk while discussing the portal; this is a known character-name transcription issue."
+        },
+        {
+            "heard": "Orde",
+            "likely": "Ord",
+            "notes": "The players are discussing Ord's potential bonus while Gerk is making his portal-related roll."
+        },
+        {
+            "heard": "ArOrd",
+            "likely": "Araden / Ord",
+            "notes": "Walker appears to address or reference party members while deciding who should accompany him through the portal; the transcription combines names."
+        },
+        {
+            "heard": "na na V",
+            "likely": "Navi",
+            "notes": "Plymouth's possible technology is discussed in connection with Navi technology."
         }
     ],
     "openQuestions": [
-        "How does Gerk intentionally choose a portal destination?",
-        "What exactly does being a 'talon' of the Raven Queen's order entail?",
-        "What new responsibility is the party referring to after receiving the portal capability?"
+        "Can Gerk learn to control the exact destination of the portals?",
+        "What determines which location Gerk's portal reaches when he does not deliberately choose a destination?"
     ],
     "newTerms": [
         {
             "name": "Talon of the Raven Queen's Order",
             "notes": [
-                "A title or role bestowed upon Sylan by the Raven Queen.",
-                "Represents acting as a precise instrument of her will rather than an indiscriminate killer."
+                "The Raven Queen explicitly describes Sylan as a talon of her order.",
+                "The role appears to imply an agent or instrument of the Raven Queen rather than a mindless killer.",
+                "The Raven Queen specifically contrasts being her talon with being a butcher."
+            ]
+        },
+        {
+            "name": "Gerk's Portal Control",
+            "notes": [
+                "Gerk can apparently open portals to different locations, but the destination is not yet reliably controllable.",
+                "Attempts during this sequence reach a beach, a rainy gray mountainside, and a forest near Langdale."
             ]
         }
     ]

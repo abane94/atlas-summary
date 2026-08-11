@@ -5,7 +5,7 @@ import { generateTranscriptChunks, loadTranscript } from "../lib/transcript.js";
 import { runJsonPrompt } from "../lib/chatgpt.js";
 import { generateSessionData, mergeSessionData } from "../lib/session-data-gen.ts";
 
-const date = process.argv[2] ?? "2026-08-03";
+const date = process.argv[2] ?? "2026-08-04";
 
 const url = process.argv[2] ?? "https://chatgpt.com";
 
@@ -58,9 +58,9 @@ ${recapPrompt.replaceAll('\n', '<br/>')}
 ${recap.replaceAll('\n', '<br/>')}
 `
 
-const recapSummary = await runJsonPrompt(page, ai_prompt);
+// const recapSummary = await runJsonPrompt(page, ai_prompt);
 
-fs.writeFileSync(`summaries/${date}/recap.json`, recapSummary);
+// fs.writeFileSync(`summaries/${date}/recap.json`, recapSummary);
 
 
 
@@ -70,31 +70,39 @@ fs.writeFileSync(`summaries/${date}/recap.json`, recapSummary);
 
 // process.exit(0);
 
+await page.goto(url, { waitUntil: "networkidle2" });
+
 
 
 // iterate over transcript chunks
-let latestSummary = ''; // recapSummary;
-let i = 0;
-console.log(`Generating summaries for ${date}...`);
-for (const chunk of generateTranscriptChunks(transcript)) {
-  console.log(`Generating summary for chunk ${i}...`);
-  const ai_prompt = `
-  # Input
-  This is ${i ? 'a' : 'the first'} sub- section of the DND session.
-  <br/>
-  <br/>
-  ${recapPrompt.replaceAll('\n', '<br/>')}
-  <br/>
-  <br/>
+// let latestSummary = ''; // recapSummary;
+// let i = 0;
+// console.log(`Generating summaries for ${date}...`);
+// for (const chunk of generateTranscriptChunks(transcript)) {
+//   const fileName = `summaries/${date}/summary-${i}.json`;
+//   if (fs.existsSync(fileName)) {
+//     console.log(`Summary for chunk ${i} already exists, skipping...`);
+//     i++;
+//     continue;
+//   }
+//   console.log(`Generating summary for chunk ${i}...`);
+//   const ai_prompt = `
+//   # Input
+//   This is ${i ? 'a' : 'the first'} sub- section of the DND session.
+//   <br/>
+//   <br/>
+//   ${recapPrompt.replaceAll('\n', '<br/>')}
+//   <br/>
+//   <br/>
 
-  ${chunk.replaceAll('\n', '<br/>')}
-  `
-  const summary = await runJsonPrompt(page, ai_prompt);
-  latestSummary = `${summary}`;
-  fs.writeFileSync(`summaries/${date}/summary-${i}.json`, summary);
-  await page.goto(url, { waitUntil: "networkidle2" });
-  i++;
-}
+//   ${chunk.replaceAll('\n', '<br/>')}
+//   `
+//   const summary = await runJsonPrompt(page, ai_prompt);
+//   latestSummary = `${summary}`;
+//   fs.writeFileSync(fileName, summary);
+//   await page.goto(url, { waitUntil: "networkidle2" });
+//   i++;
+// }
 
 
 const allData = await generateSessionData(date);

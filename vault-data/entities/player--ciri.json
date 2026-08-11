@@ -3,19 +3,25 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/player/ciri.md",
-  "description": "Ciri is a half-elf rogue who, after hearing about the remaining arches, chooses to protect Lith.",
+  "description": "Ciri is a half-elf rogue who is connected to the Great Eldarin Tree and serves as the keeper of the Lith keystone. She is capable of using stealth and teleportation to conceal her presence and move unexpectedly. Ciri’s connection to Lith places her in a realm that culturally rejects magic despite containing supernatural phenomena, making her powers potentially strange or unsettling to its inhabitants. Her role as Lith’s protector may lead her to become part of the realm’s history and folklore, potentially remembered as a witch or other supernatural figure.",
   "type": "PLAYER",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "Ciri, a half-elf rogue, commits to safeguarding **Lith** after learning about the remaining arches. When the party is assigned keystones and the last options are laid out for her—**La-rel**, **Terov**, and **Lith**—she listens to Plymouth’s explanations of each realm’s character and stakes. She settles on Lith, taking on the responsibility of its keystone and becoming the arch’s mortal keeper alongside the other party members. That choice ties her to a place often misunderstood as having abandoned magic, but whose people preserve it through folklore, fairy tales, legends, and cryptids rather than formal spellcraft.",
+      "date": "2026-08-03",
+      "summary": "Ciri initially participates from the shadows, using a disembodied voice and concealing her location, before teleporting beside Ben and then returning to the center of the dais. She joins Gerk’s group and becomes connected to the Great Eldarin Tree. Ciri chooses **Lith** as the realm she will protect and receives its keystone. Although Lith culturally rejects magic, it still experiences supernatural phenomena, including occasional incursions or gaps involving things from other worlds that have become the basis for cryptid legends. Ciri’s presence and magic may eventually cause Lith’s inhabitants to interpret her as a witch or other supernatural figure, potentially making her part of the realm’s history and folklore.",
       "notes": [
-        "Chooses to protect Lith after hearing about the remaining arches."
+        "Initially participates from the shadows using a disembodied voice and concealing her location.",
+        "Teleports beside Ben before returning to the center of the dais.",
+        "Joins Gerk's group and becomes connected to the Great Eldarin Tree.",
+        "Chooses Lith as the realm she will protect and receives its keystone.",
+        "Lith rejects magic culturally but still contains supernatural phenomena, and Ciri may become part of its history and folklore.",
+        "Her magic may cause Lith's inhabitants to interpret her as a witch or other supernatural figure.",
+        "Lith experiences occasional incursions or gaps involving things from other worlds, which become sources of cryptid legends."
       ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:32:33.969Z",
-  "updatedAt": "2026-08-10T02:32:33.969Z"
+  "createdAt": "2026-08-11T15:50:08.559Z",
+  "updatedAt": "2026-08-11T15:50:08.559Z"
 }

@@ -3,22 +3,23 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/player/ord.md",
-  "description": "Ord, a dragonborn paladin, accepts stewardship of the Keystone of Feldspar after weighing the remaining realms. Before he settles on that choice, he initially understands Lith as defined by blissful ignorance; Plymouth's fuller explanation of Lith's culture revises that impression. Ord also learns that Lith's rejection of magic does not mean magic is absent there. He chooses Feldspar as the arch he will protect.",
+  "description": "Ord is a dragonborn paladin who joined Gerk’s group and became connected to the Great Eldarin Tree. He serves as the Gatekeeper of Feldspar, a realm he chose for its association with magic, science, alchemy, and experimentation, receiving its keystone after learning that Gilbrick had already been claimed.",
   "type": "PLAYER",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "Ord, a dragonborn paladin, commits to the **Keystone of Feldspar** after weighing the remaining realms, naming Feldspar the arch he will protect. Before that choice, he assumes Lith is defined by blissful ignorance, but Plymouth's fuller account of its culture complicates that picture. He also learns that Lith's rejection of magic does not mean magic is absent there—only that it is not embraced as it is elsewhere.",
+      "date": "2026-08-03",
+      "summary": "Ord joined Gerk’s group and accepted the new connection to the Great Eldarin Tree. After learning that Gilbrick had already been claimed, he chose **Feldspar** for its blend of magic, science, alchemy, and experimentation, receiving the Feldspar keystone and becoming its Gatekeeper. The Raven Queen evaluated Ord and Walker as less impressive than some of the other party members, though she still acknowledged that they had demonstrated something unusual to her.",
       "notes": [
-        "Chooses the Keystone of Feldspar after considering the remaining realms.",
-        "Initially believes Lith is defined by blissful ignorance before Plymouth explains its culture in greater detail.",
-        "Chooses Feldspar as the arch he will protect.",
-        "Learns that Lith's rejection of magic does not mean magic is absent there."
+        "Joins Gerk's group and accepts the new connection to the Great Eldarin Tree.",
+        "Chooses Feldspar after learning that Gilbrick is already claimed.",
+        "Selects Feldspar because of its combination of magic, science, alchemy, and experimentation.",
+        "Receives the Feldspar keystone and becomes its Gatekeeper.",
+        "The Raven Queen evaluates Ord and Walker as less impressive than some of the other party members while still acknowledging that they have shown her something unusual."
       ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:27:42.007Z",
-  "updatedAt": "2026-08-10T02:27:42.007Z"
+  "createdAt": "2026-08-11T15:51:38.382Z",
+  "updatedAt": "2026-08-11T15:51:38.382Z"
 }

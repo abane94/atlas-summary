@@ -3,19 +3,20 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/location/feldspar.md",
-  "description": "**Feldspar** is one of the arches. This session reinforced its identity as the arch devoted to magical knowledge, science, alchemy, and experimentation.",
+  "description": "Feldspar is one of the Arch realms of Atlas, characterized by a focus on knowledge, magic, science, alchemy, and experimentation. It is associated with the pursuit and exploration of arcane and scientific understanding.",
   "type": "Location",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "**Feldspar** is one of the arches of Atlas, and the session on 2026-08-03 reaffirmed its identity as the realm devoted to magical knowledge, science, alchemy, and experimentation. Where other arches emphasize different ways of relating to the world, Feldspar stands out as the center of scholarly inquiry and practical magical study—pursuing understanding through research, alchemical craft, and deliberate experimentation rather than folklore or conventional spellcasting alone. This characterization was reinforced as the party weighed keystone choices and Ord ultimately accepted stewardship of Feldspar, aligning the arch’s scholarly, experimental nature with its new guardian.",
+      "date": "2026-08-03",
+      "summary": "Feldspar was selected by Ord as his assigned Arch realm during the session. Ord received Feldspar’s keystone and became its Gatekeeper, establishing his responsibility for the realm. Feldspar was described as an inner realm centered on knowledge, magic, science, alchemy, and experimentation.",
       "notes": [
-        "Reinforced as the arch focused on magical knowledge, science, alchemy, and experimentation."
+        "Feldspar is an inner realm focused on knowledge, magic, science, alchemy, and experimentation.",
+        "Ord receives its keystone and becomes its Gatekeeper."
       ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:34:27.254Z",
-  "updatedAt": "2026-08-10T02:34:27.254Z"
+  "createdAt": "2026-08-11T16:02:42.068Z",
+  "updatedAt": "2026-08-11T16:02:42.068Z"
 }

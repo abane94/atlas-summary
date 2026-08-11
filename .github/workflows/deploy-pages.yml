@@ -98,6 +98,13 @@ jobs:
         run: |
           sed -i 's/ttrpg-dnd/atelier/g' quartz.config.yaml
 
+      # upload quartz/quartz.config.yaml as an artifact for refrence
+      - name: save config.yaml
+        uses: actions/upload-artifact@v4
+        with:
+          name: quartz.config.yaml
+          path: quartz/quartz.config.yaml
+
       - name: Build Quartz
         working-directory: quartz
         run: npx quartz build

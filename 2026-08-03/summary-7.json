@@ -1,0 +1,224 @@
+{
+    "plotSections": [
+        {
+            "title": "Keystone Assignments",
+            "bullets": [
+                "Plymouth begins formally assigning the remaining keystones to members of the party, recognizing them as the new generation of guardians rather than merely keepers.",
+                "Plymouth explains that the previous keepers were only tasked with hiding and preserving the keystones, while the party's responsibility is to protect their realms and actively help them flourish.",
+                "Gerk accepts stewardship of Midgard's keystone.",
+                "Sylan accepts stewardship of Gilbrick's keystone.",
+                "Walker ultimately chooses stewardship of the Reach instead of his homeland of La-rel after reflecting on where he truly belongs.",
+                "Dana accepts stewardship of Pitel's keystone, calling it the center of the rings of Atlas.",
+                "Ord chooses Feldspar's keystone after considering the remaining options."
+            ]
+        },
+        {
+            "title": "The White Flower Figure",
+            "bullets": [
+                "After Gerk accepts Midgard's keystone, a breeze carries white flower petals through the chamber.",
+                "Gerk sees the mysterious female figure walking away across the central void, leaving a trail of white flowers.",
+                "Unlike previous encounters, Sylan, Walker, and Plymouth all acknowledge that they can also see the mysterious figure.",
+                "Gerk suspects Plymouth may only be agreeing with him to keep him calm after successfully reading his behavior.",
+                "Plymouth encourages Gerk to complete the keystone ceremony first, implying that following the mysterious figure is a separate journey yet to come."
+            ]
+        },
+        {
+            "title": "Choosing a Realm",
+            "bullets": [
+                "Walker debates whether to remain tied to La-rel, where he originated, or embrace the Reach as his true home.",
+                "Through a conversation with Glimmen, Walker concludes that his identity has changed and that protecting the Reach better reflects who he has become.",
+                "Glimmen expresses that she is content with either realm, noting both have become home in different ways.",
+                "Plymouth tailors each keystone assignment based on each person's background, history, or connection to a realm while allowing them to decline if they wished."
+            ]
+        },
+        {
+            "title": "Lith and Feldspar Clarified",
+            "bullets": [
+                "Ord initially understands Lith as a realm that abandoned magic and lives in blissful ignorance.",
+                "Plymouth corrects this impression, explaining Lith has rejected conventional magic but possesses its own culture centered on folklore, cryptids, fairy tales, and misunderstood glimpses of the wider world.",
+                "Plymouth notes that a visibly magical individual like Ord would likely be viewed almost as a deity by the people of Lith rather than feared."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party discusses the remaining realms and possible keystone assignments.",
+        "Plymouth formally grants Gerk the Keystone of Midgard and explains the expanded responsibilities of the new guardians.",
+        "After accepting the keystone, Gerk witnesses the mysterious white-flower woman walking away while white petals drift through the chamber.",
+        "Sylan, Walker, and Plymouth confirm they can also see the mysterious figure.",
+        "Gerk determines Plymouth is likely only pretending to share the same experience after reading his behavior.",
+        "Plymouth asks Gerk to postpone following the figure until after the ceremony.",
+        "Sylan accepts the Keystone of Gilbrick.",
+        "Walker is initially offered La-rel but decides he should instead protect the Reach after discussing it with Glimmen.",
+        "Plymouth gives Walker the Keystone of the Reach.",
+        "Dana accepts the Keystone of Pitel and vows to guard the center of Atlas.",
+        "Plymouth presents the remaining choices to Ord and Ciri.",
+        "Ord chooses the Keystone of Feldspar.",
+        "Plymouth explains that Lith is misunderstood and possesses a unique culture built around folklore rather than conventional magic."
+    ],
+    "entities": {
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and friend of the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Conducts the formal ceremony assigning the remaining keystones to the party.",
+                "Explains that the previous keepers only hid and preserved the keystones while the new guardians are expected to actively protect and improve their assigned realms.",
+                "Allows each recipient the freedom to decline a keystone despite his recommendations.",
+                "Clarifies that Lith rejected conventional magic but has its own culture rooted in folklore and myths."
+            ],
+            "titles": [],
+            "personality": [
+                "Respectful of personal choice.",
+                "Treats stewardship of a keystone as a solemn responsibility."
+            ],
+            "quotesThemes": [
+                "The new guardians must not only protect their realms but help make them greater."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Accepts the Keystone of Midgard and becomes its guardian.",
+                "Witnesses the mysterious white-flower figure immediately after accepting the keystone.",
+                "Successfully realizes Plymouth is likely only agreeing that he sees the figure to keep the ceremony moving."
+            ],
+            "titles": [
+                "Guardian of Midgard"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the significance of the mysterious woman appearing when Gerk accepts the keystone?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Accepts the Keystone of Gilbrick after Plymouth offers him first choice because of his connection to the realm."
+            ],
+            "titles": [
+                "Guardian of Gilbrick"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Declines stewardship of La-rel despite it being his birthplace.",
+                "Determines that the Reach has become his true home after reflecting with Glimmen.",
+                "Accepts the Keystone of the Reach."
+            ],
+            "titles": [
+                "Guardian of the Reach"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Encourages Walker by saying that home is where they choose to make it.",
+                "Expresses happiness with either La-rel or the Reach as their home."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Home is where we make it."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Accepts stewardship of Pitel's keystone.",
+                "Describes Pitel as the center of the rings of Atlas while accepting the responsibility."
+            ],
+            "titles": [
+                "Guardian of Pitel"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Chooses the Keystone of Feldspar after considering the remaining realms.",
+                "Initially believes Lith is defined by blissful ignorance before Plymouth explains its culture in greater detail."
+            ],
+            "titles": [
+                "Guardian of Feldspar"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lith": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Its people intentionally abandoned conventional magic.",
+                "Its culture centers on folklore, cryptids, fairy tales, and fragmented glimpses of the wider world.",
+                "Magically gifted visitors would likely be revered rather than feared."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The current party becomes a new generation of guardians rather than simple keepers.",
+                "Guardians are expected to actively develop and protect their assigned realms instead of merely hiding the keystones."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Jotin Prime",
+            "likely": "Juten Prime",
+            "notes": "Original keeper mentioned by Plymouth."
+        },
+        {
+            "heard": "Midgar",
+            "likely": "Midgard",
+            "notes": "Realm name used interchangeably in speech."
+        },
+        {
+            "heard": "Kill Brick",
+            "likely": "Gilbrick",
+            "notes": "Realm assigned to Sylan."
+        },
+        {
+            "heard": "Felsba",
+            "likely": "Feldspar",
+            "notes": "Realm discussed during Ord's selection."
+        },
+        {
+            "heard": "Turof",
+            "likely": "",
+            "notes": "Realm name mentioned during discussion; verify spelling if this is not correct."
+        }
+    ],
+    "openQuestions": [
+        "Who is the mysterious woman leaving the trail of white flowers, and why is she appearing during the keystone ceremony?",
+        "Why did the mysterious figure become visible to others during this encounter?",
+        "What journey is Plymouth referring to when he tells Gerk that following the figure is 'his journey'?"
+    ],
+    "newTerms": []
+}

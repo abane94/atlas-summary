@@ -3,27 +3,25 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/npc/kit_anger.md",
-  "description": "During the session on 2026-08-03, Kit Anger grew noticeably attentive once Sylan began discussing the journal and Gerk, and moved closer to observe Gerk after Sylan revealed his theory. He will help safeguard the unclaimed La-rel and Terov keystones until successors are found. Later, when Dana asked for a drink, he gave her a bottle of amber liquor, and the two sat together sharing drinks while the party unwound.",
+  "description": "Kit Anger is closely connected to the Navi and takes particular interest in matters involving their history, the journal, and the Mother’s Prayer prophecy. He pays close attention to Gerk after Gerk’s connection to the prophecy is revealed, and he welcomes Gerk as a brother after Gerk becomes a Child of the Great Eldarin Tree. Kit is also willing to step aside to allow important ceremonies to proceed and has taken responsibility for stewarding the unchosen Turof and La-rel keystones until future keepers assume their mantles.",
   "type": "NPC",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "Kit Anger grows noticeably attentive once Sylan brings up the journal and Gerk, listening closely and moving nearer to observe Gerk after Sylan shares his theory—suggesting a personal stake in the matter that remains unexplained. He also commits to helping safeguard the unclaimed La-rel and Terov keystones until worthy successors can be found, reinforcing his role as a steward of the Gatekeepers' legacy. After the ceremony and the party's more intense moments, Kit takes a quieter turn: when Dana asks for a drink, he provides her with a bottle of amber liquor and sits with her to share it while the group unwinds, offering a moment of camaraderie amid the weight of recent events.",
+      "date": "2026-08-03",
+      "summary": "Kit Anger became particularly attentive when Sylan discussed the Navi, the journal, and Gerk’s connection to the prophecy, then examined Gerk more closely after his link to the Mother’s Prayer was revealed. Kit stepped back with Juten Prime to allow the ceremony to proceed and later welcomed Gerk as a brother after Gerk became a Child of the Great Eldarin Tree. Kit will also help steward the unchosen Turof and La-rel keystones alongside the DM until future keepers take up their mantles.",
       "notes": [
-        "Becomes noticeably interested and begins closely listening once Sylan starts discussing the journal and Gerk.",
-        "Became visibly interested once discussion turned to the journal and Gerk.",
-        "Moved closer to observe Gerk after Sylan revealed his theory.",
-        "Will help safeguard the unclaimed La-rel and Terov keystones until successors are found.",
-        "Provides Dana with a bottle of amber liquor after she asks for a drink.",
-        "Joins Dana in sitting together and sharing drinks while the party unwinds."
+        "Becomes particularly attentive when Sylan discusses the Navi, the journal, and Gerk's connection to the prophecy.",
+        "Examines Gerk more closely after his connection to the Mother's Prayer is revealed.",
+        "Steps back with Juten Prime to allow the ceremony to proceed.",
+        "Welcomes Gerk as a brother after he becomes a Child of the Great Eldarin Tree.",
+        "Will steward the unchosen Turof and La-rel keystones alongside the DM until future keepers take their mantles."
       ]
     }
   ],
   "openQuestions": [
-    "Why does Kit Anger react so strongly to the discussion?",
-    "Why did the discussion about Gerk attract Kit Anger's attention?"
+    "Why is Kit Anger particularly interested in Sylan's revelations?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:10:25.118Z",
-  "updatedAt": "2026-08-10T02:10:25.118Z"
+  "createdAt": "2026-08-11T14:27:00.430Z",
+  "updatedAt": "2026-08-11T14:27:00.430Z"
 }

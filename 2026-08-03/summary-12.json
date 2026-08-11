@@ -1,0 +1,165 @@
+{
+    "plotSections": [
+        {
+            "title": "Raven Queen's Farewell to Sylan",
+            "bullets": [
+                "The Raven Queen declines to grant Sylan anything further after he chooses not to ask for another boon, respecting his decision.",
+                "She urges Sylan to remember his past and future, value what he has, and not live in expectation of death because no one knows when their life will end.",
+                "The Raven Queen reminds Sylan that he has been given a weapon and identifies him as 'a talon of my order, not a butcher,' emphasizing precision and purpose over indiscriminate violence.",
+                "After delivering her final guidance, the Raven Queen transforms, unfurling large black wings and departing down the corridor, leaving the party with their allies."
+            ]
+        },
+        {
+            "title": "Testing the Portal",
+            "bullets": [
+                "After the Raven Queen departs, the party experiments further with Gerk's portal-opening ability.",
+                "Each attempt produces a different destination, suggesting the portal's destination is not yet under Gerk's full control.",
+                "One portal opens onto a rainy mountain landscape, while another reveals a dark forest illuminated by glowing insects.",
+                "Dana recognizes the forest's flora as matching the forests surrounding Langdale, suggesting the portal may have connected somewhere near the party's homeland.",
+                "Walker recognizes a distinctive tree from his previous travels near Langdale, reinforcing that the portal likely connected close to home.",
+                "The party prevents anyone from immediately walking through the portal, deciding they should first discuss the major responsibility they have just received before leaving."
+            ]
+        },
+        {
+            "title": "Processing Their New Responsibility",
+            "bullets": [
+                "Sylan encourages the group to pause and process the significance of the new responsibility they have been entrusted with before acting on their newfound travel capability.",
+                "Plymouth Gawater expresses interest in understanding Walker's claimed ability to travel between realms, though Walker jokes instead of explaining."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The Raven Queen asks Sylan if he has any final request before she departs.",
+        "Sylan declines to ask for any additional favor.",
+        "The Raven Queen advises Sylan not to prepare for death, to value his life, and to act as a precise instrument of her order rather than a butcher.",
+        "The Raven Queen transforms into her winged form and flies away.",
+        "The remaining party members are left with Glimmen, Juten Prime, Elrus, Araden, Boris, Kit Anger, and Plymouth Gawater.",
+        "Gerk opens the portal several times, each attempt revealing a different destination.",
+        "The party observes a rainy mountainside through one portal.",
+        "A later portal reveals a dark forest.",
+        "Dana identifies the forest as resembling the forests around Langdale.",
+        "Walker recognizes a familiar tree from his previous travels near Langdale, supporting that the portal leads near home.",
+        "The party decides not to immediately enter the portal.",
+        "Sylan suggests everyone take time to process their new responsibility before leaving.",
+        "Plymouth questions Walker about his claimed ability to travel between realms, but Walker avoids answering seriously.",
+        "Dana asks Kit Anger for alcohol while anticipating further discussion with Plymouth."
+    ],
+    "entities": {
+        "Raven Queen": {
+            "existing": "God of the dead. Elder god.",
+            "entityType": "NPC",
+            "notes": [
+                "Gives Sylan final guidance focused on valuing life rather than expecting death.",
+                "Explicitly describes Sylan as 'a talon of my order, not a butcher,' defining how she expects him to use the power she granted him.",
+                "Departs by transforming into a winged, shadow-covered form and flying away."
+            ],
+            "titles": [],
+            "personality": [
+                "Respects Sylan's decision not to ask for another favor.",
+                "Encourages disciplined, purposeful action rather than needless killing."
+            ],
+            "quotesThemes": [
+                "Remember where you have been and where you will go.",
+                "Do not prepare for death.",
+                "You are a talon of my order, not a butcher."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Declines to request any further boon from the Raven Queen despite being offered the opportunity.",
+                "Receives final instruction from the Raven Queen regarding his role and responsibilities."
+            ],
+            "titles": [
+                "Talon of the Raven Queen's order"
+            ],
+            "personality": [
+                "Shows humility by refusing to ask for additional gifts."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What responsibilities and abilities come with being a 'talon' of the Raven Queen's order?"
+            ]
+        },
+        "Gerk": {
+            "existing": "Half Orc barbarian, party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Continues experimenting with the newly acquired portal-opening ability.",
+                "Current attempts produce inconsistent destinations, indicating the ability has not yet been mastered."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How can Gerk intentionally control the destination of the portal?"
+            ]
+        },
+        "Portal": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Successive activations can lead to entirely different locations.",
+                "May be influenced by familiarity or intent, though this remains uncertain.",
+                "Successfully connected to a location believed to be near Langdale during one attempt."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What determines a portal's destination?",
+                "Can the destination be intentionally selected with practice?"
+            ]
+        },
+        "Langdale": {
+            "existing": "Region the party calls home.",
+            "entityType": "Location",
+            "notes": [
+                "The forest revealed through one portal appears to share the same flora and fauna as the forests surrounding Langdale.",
+                "Walker's recognition of a familiar tree further supports that the destination was near Langdale."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Lithe",
+            "likely": "life",
+            "notes": "The Raven Queen is almost certainly saying that no one knows when the stroke will sever their life."
+        },
+        {
+            "heard": "About refined eraser",
+            "likely": "A blade refined erases with ease",
+            "notes": "Sentence is heavily corrupted; context is the Raven Queen contrasting precision with butchery."
+        },
+        {
+            "heard": "lyingdale",
+            "likely": "Langdale",
+            "notes": "ASR variation of the party's home region."
+        },
+        {
+            "heard": "orange bonus",
+            "likely": "Ord's bonus",
+            "notes": "Refers to Ord's aura bonus affecting Gerk's roll."
+        }
+    ],
+    "openQuestions": [
+        "How does Gerk intentionally choose a portal destination?",
+        "What exactly does being a 'talon' of the Raven Queen's order entail?",
+        "What new responsibility is the party referring to after receiving the portal capability?"
+    ],
+    "newTerms": [
+        {
+            "name": "Talon of the Raven Queen's Order",
+            "notes": [
+                "A title or role bestowed upon Sylan by the Raven Queen.",
+                "Represents acting as a precise instrument of her will rather than an indiscriminate killer."
+            ]
+        }
+    ]
+}

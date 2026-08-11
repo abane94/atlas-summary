@@ -3,29 +3,29 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/player/walker.md",
-  "description": "Walker is a half-elf dragon rider and fighter. During the session on 2026-08-03, he returns the Midgar keystone to Plymouth Gawater so it can be formally bestowed upon Gerk. Plymouth then offers Walker stewardship of the Keystone of La-rel, noting that he is the only party member not originally from Midgar; Walker declines, even though La-rel is his birthplace. After reflecting with Glimmen, he concludes that the Reach has become his true home and that La-rel, while still important to him, no longer defines who he is. He accepts the Keystone of the Reach and chooses to protect the Reach rather than La-rel. Later, Walker recognizes a distinctive tree from his past travels, helping confirm that a portal exits near Langdale. When Plymouth asks how he is able to create portals, Walker avoids giving a real explanation.",
+  "description": "Half-elf dragon rider and fighter, bonded to the mind-linked dragon Glimmen. Walker is originally from La-rel and is the only party member known to have come from outside Midgard. He is now the Gatekeeper of The Reach, responsible for protecting and exploring the largest Arch, a role well suited to him and Glimmen because of their ability to fly.",
   "type": "PLAYER",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "**Walker**, a half-elf dragon rider and fighter, returns the Midgar keystone to Plymouth so it can be formally bestowed upon Gerk. Offered stewardship of the Keystone of La-rel because he is the only party member not originally from Midgar, he declines despite La-rel being his birthplace. After reflecting with Glimmen, he determines that the Reach has become his true home, accepts the Keystone of the Reach, and chooses to protect it rather than La-rel. He states that although La-rel remains important to him, it no longer defines who he is. During the journey, he recognizes a distinctive tree from his past travels, helping confirm that the portal exits near Langdale, and avoids explaining to Plymouth how he is able to create portals.",
+      "date": "2026-08-03",
+      "summary": "Edit\n\nWalker joins Gerk in taking on his new responsibility out of loyalty and friendship, despite initially not understanding the significance of the Great Tree. He considers Glimmen part of the group and jokingly argues that she deserves a crown. As the only party member originally from outside Midgard, Walker is offered the La-rel keystone but declines it, choosing The Reach instead because La-rel represents his past while The Reach better reflects who he has become. He receives The Reach keystone and becomes its Gatekeeper, taking responsibility for protecting and exploring the largest Arch. Walker and Glimmen are particularly well suited to traveling the Reach due to their ability to fly. He is also able to see the mysterious white-flower girl and her trail, and recognizes a distinctive tree after Gerk opens a portal to a forest, helping identify the location as being near Langdale. Walker is eager to use the portal to travel back toward home. The Raven Queen notes that Walker and Ord have impressed her less than some of the others, though they have still demonstrated qualities beyond what she normally sees in mortals.",
       "notes": [
-        "Returns the Midgar keystone to Plymouth so it can be formally bestowed upon Gerk.",
-        "Is offered stewardship of the Keystone of La-rel because he is the only party member not originally from Midgar.",
-        "Declines stewardship of La-rel despite it being his birthplace.",
-        "Determines that the Reach has become his true home after reflecting with Glimmen.",
-        "Accepts the Keystone of the Reach.",
-        "Chooses to protect the Reach instead of La-rel because he feels the Reach is now his true home.",
-        "States that although La-rel remains important to him, it no longer defines who he is.",
-        "Recognizes a distinctive tree from his past travels, helping confirm the portal exits near Langdale.",
-        "Avoids explaining to Plymouth how he is able to create portals."
+        "Joins Gerk's new responsibility out of loyalty and friendship despite not initially understanding the significance of the Great Tree.",
+        "Considers Glimmen part of the group and jokingly argues that she deserves a crown.",
+        "Is identified as the only party member originally from outside Midgard.",
+        "Is offered the La-rel keystone because of his origin there but declines it.",
+        "Chooses The Reach because La-rel represents his past while The Reach better represents who he is now.",
+        "Receives The Reach keystone and becomes its Gatekeeper, responsible for protecting and exploring the largest Arch.",
+        "Walker and Glimmen are well suited to traveling the Reach because they can fly.",
+        "Can see the mysterious white-flower girl and her trail.",
+        "Recognizes a distinctive tree in the forest reached through Gerk's portal, helping establish that the destination is near Langdale.",
+        "Is eager to use the portal to return toward home.",
+        "The Raven Queen says Walker and Ord have not impressed her as much as some others, although they have still shown her something beyond what she normally sees from mortals."
       ]
     }
   ],
-  "openQuestions": [
-    "What is the true source of Walker's portal-travel ability?"
-  ],
+  "openQuestions": [],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:22:35.774Z",
-  "updatedAt": "2026-08-10T02:22:35.774Z"
+  "createdAt": "2026-08-11T15:15:38.663Z",
+  "updatedAt": "2026-08-11T15:15:38.664Z"
 }

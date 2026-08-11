@@ -1,0 +1,21 @@
+{
+  "name": "Boris",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/npc/boris.md",
+  "description": "Boris is an individual who has been present with the party alongside Glimmen, Juten Prime, Elrus, Araden, and Kit Anger.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Boris was mentioned as being present with the party during the session, alongside Glimmen, Juten Prime, Elrus, Araden, and Kit Anger.",
+      "notes": [
+        "Mentioned as being present with the party alongside Glimmen, Juten Prime, Elrus, Araden, and Kit Anger."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T17:24:37.720Z",
+  "updatedAt": "2026-08-11T17:24:37.720Z"
+}

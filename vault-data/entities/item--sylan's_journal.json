@@ -1,0 +1,29 @@
+{
+  "name": "Sylan's Journal",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/item/sylan's_journal.md",
+  "description": "A relatively recent handwritten journal retained by Sylan, containing entries from multiple authors or hands. It records the Navi’s search for a surviving child whose mother died and includes information concerning a plot against Sylan’s family that later came to pass. Sylan does not recall any explicit prophecy being written in the journal, and it is distinct from Nevarr’s known books or tomes.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "The journal was examined by Sylan and found to contain writing from multiple authors or hands. Its contents describe the Navi searching for a surviving child after the child’s mother died, and it also records a plot against Sylan’s family that later came to pass. Sylan does not recall seeing any explicit prophecy written in the journal. The journal was confirmed to be distinct from the books or tomes known to belong to Nevarr.",
+      "notes": [
+        "Contains writing from multiple authors or hands.",
+        "Describes the Navi searching for a surviving child whose mother died.",
+        "Also contains a plot against Sylan's family that later occurred.",
+        "Sylan does not remember any explicit prophecy being written in it.",
+        "The journal is distinct from Nevarr's known books or tomes."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Who authored the different sections of the journal?",
+    "How did the journal contain information about Gerk before Sylan knew his identity?",
+    "How is the journal connected to the Mother's Prayer?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T14:18:13.263Z",
+  "updatedAt": "2026-08-11T14:18:13.264Z"
+}

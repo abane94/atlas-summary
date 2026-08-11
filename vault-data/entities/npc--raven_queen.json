@@ -3,39 +3,32 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/npc/raven_queen.md",
-  "description": "After the other deities depart, the Raven Queen approaches the party alone. Her form shifts between a regal, masked humanoid and a shadowy, harpy-like figure with black wings. She reveals she was once mortal and has walked among mortals, which she says lets her understand mortal perspectives. She admits she has witnessed Sylan and Dana on the Everfalls and that the party has exceeded some of her expectations, expressing confidence in Sylan's determination while acknowledging Walker and Ord have begun to prove themselves. She offers to guide the party but warns them not to waste her time or their lives, and not to treat death frivolously—implying that some members may have very few chances remaining. She confirms she has given Sylan a weapon and that he serves as a talon of her order, explicitly describing him as \"a talon of my order, not a butcher.\" In final counsel, she urges him to value life rather than expect death, then departs by transforming into a winged, shadow-covered form and flying away.",
+  "description": "Raven Queen, also known as Nira, is an elder god associated with death and the dead. She has a regal humanoid appearance, typically wearing a dark flowing robe and a blank white porcelain mask, and can transform into a harpy-like form with enormous black wings. She was once more mortal and has personally walked among mortals, giving her a perspective that distinguishes her from more distant divine beings. She is closely connected to an order of talons, including Sylan, whom she recognizes as a servant of her order rather than a butcher. Raven Queen treats death as a serious and immutable force, encouraging mortals to make their lives and eventual deaths meaningful rather than attempting to defy death.",
   "type": "NPC",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "After the other deities depart, the Raven Queen approaches the party alone, her form shifting between a regal masked humanoid and a shadowy harpy-like figure with black wings. She reveals she was once mortal and has walked among mortals, which gives her insight into mortal perspectives; she has seen Sylan and Dana on the Everfalls. She admits the party has surpassed some of her expectations, expressing confidence in Sylan's determination while acknowledging that Walker and Ord are beginning to prove themselves, though she implies some party members have very few chances remaining. She offers to guide the party but warns them not to waste her time or their own lives, and not to treat death frivolously. She confirms Sylan has been given a weapon and serves as a talon of her order, explicitly defining him as \"a talon of my order, not a butcher\" and urging him to value life rather than expect death. After this final counsel, she transforms into a winged, shadow-covered form and flies away.",
+      "date": "2026-08-03",
+      "summary": "During the ceremony, the Raven Queen observed the party before approaching them after the other gods departed. She appeared in a regal humanoid form wearing a dark flowing robe and blank white porcelain mask, and revealed that she had once been more mortal and had personally walked among mortals. She recognized Sylan and Dana from the Everfalls and expressed surprise at how impressed she was by the party’s accomplishments. She offered to guide the party where they needed to go, provided they did not waste her time or turn the journey into a fool’s errand. She warned that death was not something to be treated lightly and suggested that some members of the party had limited chances or lives remaining. Rather than defying death, she urged them to make their lives and eventual deaths meaningful. She also recognized Sylan as a talon of her order rather than a butcher, advising him to preserve and value what he has instead of preparing for death. She departed by transforming into a harpy-like figure with enormous black wings.",
       "notes": [
-        "Reveals she was once mortal.",
-        "States she understands mortal perspectives because of her past.",
-        "Has witnessed Sylan and Dana on the Everfalls.",
-        "Admits the party has exceeded some of her expectations.",
-        "Expresses confidence in Sylan's determination while acknowledging Walker and Ord have begun to prove themselves.",
-        "Offers to guide the party but warns against wasting time or treating death frivolously.",
-        "Implies some party members have very few chances remaining.",
-        "Reveals she was once mortal before becoming what she is now.",
-        "States she has walked among mortals and has seen some members of the party on the Everfalls.",
-        "Admits the party has surpassed some of her expectations.",
-        "Offers to guide the party but warns against wasting their lives or treating death carelessly.",
-        "Confirms Sylan has been given a weapon and serves as a talon of her order.",
-        "Her appearance shifts between a regal masked humanoid and a shadowy harpy-like form with black wings.",
-        "Gives Sylan final guidance focused on valuing life rather than expecting death.",
-        "Explicitly describes Sylan as 'a talon of my order, not a butcher,' defining how she expects him to use the power she granted him.",
-        "Departs by transforming into a winged, shadow-covered form and flying away."
+        "Observes the party during the ceremony and approaches after the other gods depart.",
+        "Appears in a regal humanoid form wearing a dark flowing robe and blank white porcelain mask, though she can transform into a harpy-like form with enormous black wings.",
+        "States that she was once more mortal and has personally walked among mortals.",
+        "Has seen members of the party at the Everfalls, specifically Sylan and Dana.",
+        "Is more impressed by the party's accomplishments than she expected.",
+        "Offers to lead the party where they need to go provided they do not waste her time or turn the journey into a fool's errand.",
+        "Warns that death is not something to play with and implies that some party members have limited chances or lives remaining.",
+        "Encourages the party to make their lives and eventual deaths meaningful rather than attempting to defy death.",
+        "Recognizes Sylan as a talon of her order rather than a butcher.",
+        "Advises Sylan to preserve and value what he has rather than prepare for death.",
+        "Leaves by transforming into a harpy-like figure with enormous black wings."
       ]
     }
   ],
   "openQuestions": [
-    "What did she witness involving Sylan and Dana on the Everfalls?",
-    "Which party members have very few chances remaining?",
-    "What exactly are the Everfalls and what did she witness there?",
-    "What responsibilities come with being a talon of her order?"
+    "What exactly does the Raven Queen mean by some party members having few chances or lives remaining?",
+    "Why has she seen Sylan and Dana at the Everfalls?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:44:01.952Z",
-  "updatedAt": "2026-08-10T02:44:01.952Z"
+  "createdAt": "2026-08-11T15:56:39.240Z",
+  "updatedAt": "2026-08-11T15:56:39.240Z"
 }

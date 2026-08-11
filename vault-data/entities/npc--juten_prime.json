@@ -1,0 +1,23 @@
+{
+  "name": "Juten Prime",
+  "tags": [],
+  "aliases": [],
+  "filename": "entities/npc/juten_prime.md",
+  "description": "Juten Prime is one of the original keepers of the keystones. He is associated with the ancient traditions and events surrounding the keystones and their keepers. He had previously discussed with Plymouth Gawater what would happen if one of Mother’s children appeared, indicating that such an event was significant enough to supersede existing preparations and alter the expected course of events.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Juten Prime stepped back alongside Kit Anger and allowed the ceremony to proceed. He had previously discussed with Plymouth what would happen if one of Mother’s children appeared, and the appearance of such a child was understood to supersede the party’s prior preparations and require events to unfold according to their natural course.",
+      "notes": [
+        "Steps back with Kit Anger and allows the ceremony to proceed.",
+        "Had previously discussed with Plymouth what would happen if one of Mother's children appeared.",
+        "The appearance of one of Mother's children was expected to override the party's previous preparations and require events to take their course."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T15:59:37.675Z",
+  "updatedAt": "2026-08-11T15:59:37.675Z"
+}

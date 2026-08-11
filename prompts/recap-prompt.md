@@ -17,7 +17,7 @@ The transcription uses discord screen names, but here is a table mapping users s
 | -------------------- | --------- | --------------- | ----------------------------------------------------------------- |
 | tongatank            | k         | *variouse* *dm* | DM                                                                |
 | Skeletorrrrrrrrrr    | Ian       | Gerk            | Half Orc barbarian, party ambassedor                              |
-| "Triple Champ"-E-Tan | Theron    | Sylan           | Half elf rouge                                                    |
+| "Triple Champ"-E-Tan | Theron    | Sylan           | Las name: Ivellio. Half elf rouge                                                    |
 | bbobrien             | Brennan   | Walker          | Half elf dragon rider & fighter. Glimmen is his mind lined dragon |
 | Kyle                 | Kyle      | Ciri            | Half elf rouge (Ciri is a girl, kyle is not)                      |
 | abane94              | Aris      | Ord             | Dragon born paladin                                               |

@@ -3,27 +3,27 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/concept/doorman.md",
-  "description": "**Doorman** is an ancient title that has not been granted in many years. Each Doorman is bound to a specific **Arch** and serves as its guardian, with responsibility for opening and closing access to that Arch and its assigned realm, maintaining its connection, and protecting it. During the session, **Gerk** was offered this office. Unlike earlier practice of merely hiding an Arch's keystone, modern Doormen are expected to actively improve and protect their Arch.",
+  "description": "The Doorman is a unique keeper role held by Gerk, distinct from the Gatekeeper roles held by the other party members. The Doorman has the ability to open and close an Arch, connect with and protect it, and manipulate reality to create doorways through an invisible handle. These doorways have no conventional threshold and bend reality seamlessly, allowing passage between locations. The destinations of Gerk’s doorways are currently unpredictable.",
   "type": "CONCEPT",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "The Doorman is an ancient title that has not been granted in many years. A Doorman is bound to a specific Arch and serves as its guardian, with duties that include opening and closing access to that Arch, maintaining its connection, and protecting it. Unlike the passive role of merely hiding an Arch's keystone, modern Doormen are expected to actively improve and steward their assigned realm. During the session, Gerk is offered this rare office, which would make him the guardian of a single Arch with the power to open and close passage to its realm.",
+      "date": "2026-08-03",
+      "summary": "The Doorman role was established as distinct from the other party members’ Gatekeeper roles, granting Gerk the unique ability to open, close, connect with, and protect an Arch. Gerk demonstrated this power by manipulating an invisible handle to create a seamless doorway through reality, without a conventional threshold. His first demonstrated doorway led to an unknown beach on Midgard, though the destinations of his portals are currently unpredictable.",
       "notes": [
-        "An ancient title not granted in many years.",
-        "A Doorman is bound to a specific Arch.",
-        "The role includes opening and closing access to an Arch, maintaining its connection, and protecting it.",
-        "Gerk is being offered this position.",
-        "A Doorman serves as the guardian of an individual Arch.",
-        "A Doorman can open and close access to their assigned realm.",
-        "Modern Doormen are expected to actively improve and protect their Arch instead of merely hiding its keystone."
+        "The Doorman is distinct from the Gatekeeper roles held by the other party members.",
+        "The Doorman can open and close an Arch and connect with and protect it.",
+        "Gerk can create a doorway through reality by manipulating an invisible handle.",
+        "The resulting doorway has no conventional threshold and bends reality seamlessly.",
+        "Gerk's first demonstrated doorway opened onto an unknown beach on Midgard.",
+        "Gerk's portal destinations are currently unpredictable."
       ]
     }
   ],
   "openQuestions": [
-    "Which Arch will Gerk ultimately become Doorman of?"
+    "What determines the destination of a Doorman-created doorway?",
+    "What additional abilities or responsibilities are unique to the Doorman?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:19:14.117Z",
-  "updatedAt": "2026-08-10T02:19:14.117Z"
+  "createdAt": "2026-08-11T16:25:47.265Z",
+  "updatedAt": "2026-08-11T16:25:47.265Z"
 }

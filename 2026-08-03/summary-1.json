@@ -1,0 +1,170 @@
+{
+    "plotSections": [
+        {
+            "title": "Gerk and the Mother's Prayer",
+            "bullets": [
+                "Sylan revealed to Plymouth Gawater and the assembled gods that he believes Gerk is the child described in a journal he previously discovered and that Gerk is destined to become the keeper who will open the doors.",
+                "Sylan explained his conclusion comes from both the journal and a vision or meditation experienced in Jotunheim, where Gerk was identified as the child.",
+                "Plymouth questioned Sylan carefully about the journal's provenance, whether it was handwritten, whether it contained dates, and whether it explicitly referenced any prophecy.",
+                "Sylan clarified the journal itself only mentioned a child whose mother died while the child survived, along with a plot that ultimately led to the death of Sylan's family, but did not explicitly contain a prophecy.",
+                "Plymouth connected Sylan's story to an existing prophecy known as the Mother's Prayer (or Mother's Prophecy), suggesting the journal is associated with a known legendary tradition rather than an isolated account.",
+                "Dana recited the prophecy previously heard repeatedly within the Stronghold, allowing Plymouth to confirm it as the Mother's Prayer.",
+                "After hearing Sylan's interpretation, Plymouth personally examined Gerk, treating the claim with serious interest and attempting to determine whether Gerk truly is the individual referenced by the Mother's Prayer."
+            ]
+        },
+        {
+            "title": "Reaction of the Gatekeepers",
+            "bullets": [
+                "The gathering remained in diplomatic session while the timeless gods continued their council, reinforcing that such meetings can last for years from a mortal perspective without inconveniencing the gods.",
+                "Juten Prime remained quiet, observing the discussion, while Elrus and Araden appeared restless.",
+                "Kit Anger became noticeably attentive once Sylan began discussing the journal and moved closer to observe Gerk after hearing the claim."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party remained in the ongoing diplomatic gathering with the gods while awaiting further discussion.",
+        "Gerk decided Sylan should explain why he believes Gerk is important.",
+        "Sylan revealed the existence of a journal describing a child whose mother died while the child survived.",
+        "Sylan explained his meditation in Jotunheim convinced him that Gerk is that child.",
+        "Sylan stated his belief that Gerk is the keeper destined to open the doors.",
+        "Plymouth questioned Sylan about the journal's authenticity, age, authorship, and contents.",
+        "Sylan confirmed the journal did not explicitly contain a prophecy.",
+        "Plymouth asked whether Sylan had heard of the Mother's Prayer.",
+        "Dana recited the prophecy previously heard in the Stronghold.",
+        "Plymouth identified that prophecy as the Mother's Prayer (or Mother's Prophecy).",
+        "Sylan affirmed his belief that Gerk is the subject of that prophecy.",
+        "Kit Anger and Plymouth approached Gerk for closer examination.",
+        "Plymouth questioned Gerk directly about whether he believes he is the one described in the Mother's Prayer."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan publicly identified Gerk as the child referenced in the journal.",
+                "Sylan believes Gerk is the keeper destined to open the doors referenced by the Mother's Prayer.",
+                "Plymouth personally examined Gerk after hearing this claim.",
+                "Gerk himself expressed uncertainty and did not claim to know whether the prophecy referred to him."
+            ],
+            "titles": [
+                "Possible child of the Mother's Prayer",
+                "Possible keeper who will open the doors"
+            ],
+            "personality": [
+                "Responded with humor despite the gravity of the discussion.",
+                "Did not assume the prophecy was true simply because others believed it."
+            ],
+            "quotesThemes": [
+                "How would I know?"
+            ],
+            "openQuestions": [
+                "Is Gerk truly the child described in the Mother's Prayer?",
+                "What role will Gerk ultimately play regarding the doors and key stones?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Explained the evidence leading him to believe Gerk is the prophesied child.",
+                "Confirmed his belief comes from both an old journal and a vision experienced in Jotunheim.",
+                "Clarified the journal itself does not explicitly contain the prophecy."
+            ],
+            "titles": [],
+            "personality": [
+                "Carefully distinguished between evidence and his own conclusions."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and friend of the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Recognized the journal's significance after hearing Sylan's description.",
+                "Identified the repeated poem heard in the Stronghold as the Mother's Prayer (or Mother's Prophecy).",
+                "Displayed great interest in determining whether Gerk truly fulfills the prophecy.",
+                "Questioned Sylan about the journal's historical context, dates, and contents before drawing conclusions."
+            ],
+            "titles": [],
+            "personality": [
+                "Methodical and evidence-driven.",
+                "Treated the claim with cautious curiosity rather than immediate acceptance."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Kit Anger": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Became visibly interested once discussion turned to the journal and Gerk.",
+                "Moved closer to observe Gerk after Sylan revealed his theory."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Why did the discussion about Gerk attract Kit Anger's attention?"
+            ]
+        },
+        "Mother's Prayer": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Plymouth identified the prophecy previously heard in the Stronghold as the Mother's Prayer or Mother's Prophecy.",
+                "The prophecy appears to concern a keeper who will open doors and references the arches and keys.",
+                "Plymouth believes the journal discussed by Sylan is connected to this well-known prophecy."
+            ],
+            "titles": [
+                "Mother's Prophecy"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "Associated with the opening of doors, the arches, and the keeper."
+            ],
+            "openQuestions": [
+                "How is the journal connected to the Mother's Prayer?",
+                "Who originally authored or preserved the Mother's Prayer?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Jogelheim",
+            "likely": "Jotunheim",
+            "notes": "Referenced when discussing Sylan's meditation."
+        },
+        {
+            "heard": "Kit Angel",
+            "likely": "Kit Anger",
+            "notes": "NPC observing the discussion."
+        },
+        {
+            "heard": "Mother's tale",
+            "likely": "Mother's Prayer",
+            "notes": "Plymouth appears to refer to the same legendary prophecy."
+        },
+        {
+            "heard": "tomb",
+            "likely": "tome",
+            "notes": "Referring to the journal or book."
+        }
+    ],
+    "openQuestions": [
+        "Is Gerk truly the child described by the Mother's Prayer?",
+        "Who wrote the journal Sylan discovered?",
+        "How is the journal connected to the Mother's Prayer?",
+        "What exactly does it mean for Gerk to be the keeper who opens the doors?"
+    ],
+    "newTerms": [
+        {
+            "name": "Mother's Prayer",
+            "notes": [
+                "Ancient prophecy recognized by Plymouth Gawater.",
+                "Also referred to as the Mother's Prophecy.",
+                "Appears to concern the keeper, the arches, and the opening of doors."
+            ]
+        }
+    ]
+}

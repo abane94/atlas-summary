@@ -3,28 +3,24 @@
   "tags": [],
   "aliases": [],
   "filename": "entities/npc/emhet.md",
-  "description": "Before departing, Emhet offers the party one final chance to request assistance. He tells Dana she may continue to seek his guidance through prayer if she needs it. He reminds the party that they now hold the keys, and warns that if \"the mind walks,\" they should hold their breath, avoid shouting, and trust the path—closing with the words: \"If the mind walks, hold your breath. Do not yell. Trust the path, gatekeeper.\"",
+  "description": "Emhet is a deity who was present at the gods’ council and appears to have knowledge of the party’s role in safeguarding the keys. Emhet provides cryptic guidance, urging the party to trust the path and the Gatekeeper, and warns them that if the mind walks, they should hold their breath and not yell.",
   "type": "NPC",
   "log": [
     {
-      "date": "summaries/2026-08-03",
-      "summary": "As the party prepared to depart, **Emhet** tells Dana she can seek continued guidance through prayer if needed, and offers the group one final opportunity to request assistance before he leaves. He reminds them that they now hold the keys, underscoring their responsibility as gatekeepers. His parting warning is stark: if \"the mind walks,\" they should hold their breath, avoid shouting, and trust the path.",
+      "date": "2026-08-03",
+      "summary": "At the gods’ council, Emhet tells the party that they now hold the keys before departing. Emhet offers cryptic guidance, warning that if the mind walks, they should hold their breath and not yell. Emhet also urges the party to trust the path and the Gatekeeper.",
       "notes": [
-        "Offers Dana continued guidance through prayer.",
-        "Warns the party that if 'the mind walks,' they should hold their breath, avoid shouting, and trust the path.",
-        "Reminds the party they now hold the keys.",
-        "Offers the party one final opportunity to request assistance before departing.",
-        "States that the party now holds the keys.",
-        "Warns: 'If the mind walks, hold your breath. Do not yell. Trust the path, gatekeeper.'"
+        "Tells the party that they now hold the keys before departing.",
+        "Gives cryptic guidance that if the mind walks, they should hold their breath and not yell.",
+        "Tells the party to trust the path and the Gatekeeper."
       ]
     }
   ],
   "openQuestions": [
-    "What does 'the mind walks' refer to?",
-    "What does 'the mind walks' refer to?",
-    "Who or what is the 'gatekeeper' being addressed?"
+    "What does Emhet mean by 'if the mind walks'?",
+    "What path is Emhet referring to?"
   ],
   "linkTargets": [],
-  "createdAt": "2026-08-10T02:42:20.861Z",
-  "updatedAt": "2026-08-10T02:42:20.861Z"
+  "createdAt": "2026-08-11T17:12:09.712Z",
+  "updatedAt": "2026-08-11T17:12:09.712Z"
 }

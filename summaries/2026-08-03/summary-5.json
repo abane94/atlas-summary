@@ -1,132 +1,298 @@
 {
     "plotSections": [
         {
-            "title": "The Mother's Prayer and the Doorman",
+            "title": "The Chosen Responsibility",
             "bullets": [
-                "Dana points out that the appearance of flowers confirms Daisy was present, as flowers are Daisy's signature, reinforcing that whatever Daisy is, she was recently here.",
-                "Plymouth Gawater gathers Gerk and the rest of the party, explaining that by standing with him they are voluntarily accepting the same responsibility tied to Gerk's destiny.",
-                "Plymouth reveals that the Eldarin Tree is a sacred Navi tree whose rings inspired the creation of the keystones. By studying and distilling those rings into the keystones, the Navi unintentionally began the Mother's Prayer prophecy.",
-                "The Mother's Prayer exists to preserve the health and prosperity of all Atlas, selecting individuals when needed to fulfill its purpose.",
-                "Plymouth explains that those chosen are metaphorically 'plucked' from the Eldarin Tree like ripe fruit and are entrusted with protecting Atlas rather than serving only the tree.",
-                "Gerk is offered the ancient title of Doorman of an Arch, becoming the first individual in many years to potentially hold the office.",
-                "The role of a Doorman is to open and close access to a specific Arch, maintain its connection, and protect it.",
-                "The rest of the party implicitly accepts that they are joining Gerk in supporting this responsibility."
+                "The entire party steps forward to join Gerk in the mysterious venture offered to him, accepting a shared responsibility connected to the Eldarin Tree and the Mother's Prayer.",
+                "Gawater explains that Gerk is being recognized as a 'son of the great tree' and that the party members who join him are taking on the responsibility alongside him.",
+                "Glimmen respectfully acknowledges the proceedings while the other powerful figures present, including Kit Anger and Juten Prime, step back and allow the event to unfold without intervention."
             ]
         },
         {
-            "title": "Choosing an Arch",
+            "title": "The Eldarin Tree and the Mother's Prayer",
             "bullets": [
-                "Plymouth retrieves a keystone directly from one of the concentric circles in the floor and presents Gerk with the Keystone of Pitel.",
-                "Plymouth indicates that Gerk is not restricted to Pitel and implies he may choose which Arch's keystone he wishes to bear.",
-                "Before making a decision, Gerk turns to the rest of the party for advice on which Arch would be the best choice.",
-                "The party briefly reviews known properties of several Archs, including Pitel, Feldspar, Gilbrick, and Lith, but no final selection is made during this chunk."
+                "Gawater reveals that the Eldarin Tree is a great and sacred tree of the Navi and one of the most significant magical places in Atlas.",
+                "The Eldarin Tree has rings like Atlas itself. The Navi studied and distilled knowledge from those rings, ultimately creating the keystones from that process.",
+                "The creation of the keystones unintentionally set events into motion and began the Mother's Prayer, a prophecy that appears to propagate itself whenever individuals are needed to act for the health and prosperity of Atlas.",
+                "Gerk is being 'plucked' from the tree like ripe fruit, taking on a responsibility intended to serve not merely the Eldarin Tree but the wellbeing of all Atlas."
+            ]
+        },
+        {
+            "title": "Gerk, the Doorman",
+            "bullets": [
+                "Gawater offers Gerk the title of Doorman, apparently the first such title granted in many years.",
+                "The Doorman has the ability to open and close an Arch, reach out and connect with that Arch, and is responsible for protecting it.",
+                "Gerk accepts the role and is given the opportunity to choose which Arch he will serve."
+            ]
+        },
+        {
+            "title": "Choosing a Keystone",
+            "bullets": [
+                "Plymouth Gawater removes a keystone from one of the concentric circles in the floor and presents it to Gerk as the keystone to Pitel.",
+                "Gerk learns that he can choose which keystone to hold and asks the party for advice.",
+                "The party identifies Feldspar as the science, alchemy, and technology-oriented realm; Gilbrick as a dangerous or frightening realm; and Lith as a realm whose inhabitants have largely rejected magic.",
+                "Gerk is not interested in choosing Gilbrick, while Feldspar is described as an appealing possibility. The transcript ends while the party is still discussing the available choices."
+            ]
+        },
+        {
+            "title": "Daisy's Appearance",
+            "bullets": [
+                "Dana points out that the unexplained flowers associated with the recent events match Daisy's distinctive signature, leading the party to conclude that Daisy was present.",
+                "The DM acknowledges that Daisy's presence is troublesome and says he will need to consult his notes to explain it."
             ]
         }
     ],
     "chronologicalEvents": [
-        "Dana concludes Daisy was recently present because flowers, Daisy's signature, appeared around Gerk.",
-        "Plymouth asks Gerk and the rest of the party to step forward if they wish to participate in Gerk's calling.",
-        "Walker, Dana, Ord, Sylan, and Ciri all agree to stand with Gerk.",
-        "Kit Anger and Juten Prime intentionally step back to observe without interfering.",
-        "Plymouth explains the significance of the Eldarin Tree to the Navi.",
-        "Plymouth reveals the keystones were created from the knowledge of the Eldarin Tree's rings.",
-        "Plymouth explains that creating the keystones unintentionally initiated the Mother's Prayer prophecy.",
-        "Plymouth tells Gerk he can become the first Doorman of an Arch in many years.",
-        "Plymouth explains that a Doorman opens, closes, connects to, and protects an Arch.",
-        "Plymouth retrieves the Keystone of Pitel and offers it to Gerk.",
-        "Gerk learns he may choose which Arch he wishes to represent and asks his companions for advice.",
-        "The party begins discussing the characteristics of the various Archs while considering Gerk's choice."
+        "Dana connects the unexplained flowers to Daisy's signature and concludes that Daisy was present.",
+        "The DM calls Dana, Gerk, Walker, Ord, Sylan, and Ciri forward to participate in the ceremony.",
+        "Ciri teleports to Ben before rejoining the party in the center of the dais.",
+        "The entire party chooses to step forward and join Gerk in the venture despite not yet knowing all of its responsibilities.",
+        "Kit Anger and Juten Prime step back and allow the ceremony to proceed without intervention.",
+        "Gawater explains that Gerk is a 'son of the great tree' and identifies the Eldarin Tree as sacred to the Navi.",
+        "Gawater reveals that the Navi created the keystones by studying and distilling knowledge from the rings of the Eldarin Tree.",
+        "The creation of the keystones unintentionally initiated the Mother's Prayer, a self-propagating prophecy that calls forth individuals when Atlas needs them.",
+        "Gerk accepts responsibility as a chosen individual connected to the Eldarin Tree, with the rest of the party joining him in that responsibility.",
+        "Gawater offers Gerk the title of Doorman, giving him the power and responsibility to open and close an Arch and protect it.",
+        "Gerk accepts the role of Doorman.",
+        "Plymouth Gawater retrieves a keystone from the concentric circles and presents Gerk with the keystone to Pitel as his first potential choice.",
+        "The party discusses the characteristics of Pitel, Feldspar, Gilbrick, and Lith while helping Gerk decide which keystone to choose."
     ],
     "entities": {
-        "Daisy": {
-            "existing": "",
-            "entityType": "NPC",
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
             "notes": [
-                "Flowers are reaffirmed as Daisy's signature.",
-                "Dana concludes Daisy was physically present because flowers appeared where none existed previously."
+                "Is identified by Gawater as a 'son of the great tree' in connection with the Eldarin Tree.",
+                "Accepts the responsibility associated with the Mother's Prayer and the role of a chosen individual.",
+                "Is offered the title of Doorman, apparently the first person to receive the title in many years.",
+                "As Doorman, he can open and close an Arch, connect with that Arch, and is responsible for protecting it.",
+                "Is given the ability to choose which Arch's keystone he will hold."
             ],
-            "titles": [],
-            "personality": [],
+            "titles": [
+                "Doorman",
+                "Son of the Great Tree"
+            ],
+            "personality": [
+                "Likes doors and is enthusiastic about the practical abilities associated with being the Doorman."
+            ],
             "quotesThemes": [
-                "Flowers are Daisy's identifying sign."
+                "The Doorman role appeals to Gerk because it allows him to open and close doors."
             ],
             "openQuestions": [
-                "What exactly is Daisy?",
-                "Why was Daisy present here?"
+                "Which Arch will Gerk ultimately choose as the Arch he serves?"
             ]
         },
-        "Plymouth Gawater": {
-            "existing": "Gnome artificer, friend of the party.",
-            "entityType": "NPC",
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
             "notes": [
-                "Explains the origin of the keystones.",
-                "Reveals the Navi created the keystones by studying and distilling the rings of the Eldarin Tree.",
-                "States that creating the keystones unintentionally began the Mother's Prayer.",
-                "Offers Gerk the ancient office of Doorman and explains its responsibilities.",
-                "Retrieves the Keystone of Pitel from the dais and presents it to Gerk."
+                "Steps forward with the rest of the party to join Gerk in the new responsibility.",
+                "Supports Gerk without needing to know all the details of the commitment.",
+                "Helps Gerk identify the characteristics of the available realms.",
+                "Glimmen is present beside Walker during the ceremony and respectfully acknowledges the proceedings."
+            ],
+            "titles": [],
+            "personality": [
+                "Shows strong loyalty to Gerk and readily joins him despite incomplete information."
+            ],
+            "quotesThemes": [
+                "Walker emphasizes that Gerk is his friend and that he will join him regardless of the details."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and the most knowledgeable member of the group.",
+            "notes": [
+                "Identifies Daisy's flowers as evidence that Daisy was present.",
+                "Steps forward to participate in Gerk's new responsibility.",
+                "Agrees to help craft a crown for Glimmen, though this appears to be unrelated to the actual ceremony."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [
-                "The Mother's Prayer exists to preserve the health and prosperity of Atlas."
+                "The flowers associated with Daisy are treated as a significant clue to her presence."
+            ],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Female half-elf rogue.",
+            "notes": [
+                "Teleports to Ben before rejoining the party at the center of the dais.",
+                "Steps forward with the rest of the party to participate in Gerk's venture."
+            ],
+            "titles": [],
+            "personality": [
+                "Playfully dramatic during the ceremony."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "notes": [
+                "Steps forward and joins Gerk and the rest of the party in accepting the shared responsibility."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "notes": [
+                "Steps forward with the rest of the party to join Gerk in the new responsibility."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and friend of the party.",
+            "notes": [
+                "Explains the connection between Gerk, the Eldarin Tree, the Navi, the keystones, and the Mother's Prayer.",
+                "Identifies Gerk as a 'son of the great tree' and explains the responsibility Gerk is accepting.",
+                "Offers Gerk the title of Doorman.",
+                "Explains that the Doorman can open and close an Arch, connect with it, and protect it.",
+                "Retrieves a keystone from the concentric circles and presents the keystone to Pitel to Gerk as a potential choice."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The keystones were created by distilling knowledge from the rings of the Eldarin Tree.",
+                "The Mother's Prayer was unintentionally initiated through the creation of the keystones."
             ],
             "openQuestions": []
         },
         "Eldarin Tree": {
-            "existing": "",
-            "entityType": "CONCEPT",
+            "existing": "Sacred tree associated with the Navi and the origin of the keystones.",
             "notes": [
-                "A great and sacred tree revered by the Navi.",
-                "One of the largest and most sacred magical locations in Atlas.",
-                "Many such trees once existed historically, but only one remains in the present.",
-                "Its rings inspired the design and creation of the keystones.",
-                "The Mother's Prayer is connected to this tree, with chosen individuals metaphorically described as fruit plucked from it."
+                "Is described as one of the greatest and most sacred magical places in Atlas.",
+                "Has rings analogous to the rings of Atlas.",
+                "The Navi studied and distilled knowledge from its rings to create the keystones.",
+                "Gerk is described as a 'son of the great tree' and as being metaphorically plucked from it like ripe fruit."
             ],
             "titles": [],
             "personality": [],
-            "quotesThemes": [],
+            "quotesThemes": [
+                "The Eldarin Tree represents a source of ancient knowledge and a connection between the Navi, the keystones, and the fate of Atlas."
+            ],
             "openQuestions": [
-                "Why is only one Eldarin Tree believed to remain?"
+                "What exactly is the nature of Gerk's connection to the Eldarin Tree?"
             ]
         },
         "Mother's Prayer": {
-            "existing": "",
-            "entityType": "CONCEPT",
+            "existing": "Prophecy associated with the creation of the keystones.",
             "notes": [
-                "Was unintentionally set into motion when the Navi created the keystones.",
-                "Functions as a prophecy that selects individuals when Atlas requires them.",
-                "Its purpose is preserving the health and prosperity of all Atlas rather than serving only the Eldarin Tree.",
-                "Gerk and his companions are formally accepting responsibility under this prophecy."
+                "Was unintentionally initiated when the Navi created the keystones.",
+                "Appears to propagate itself when individuals are needed to act.",
+                "Its purpose appears connected to the health and prosperity of all Atlas, rather than only the Eldarin Tree.",
+                "Gerk's selection and new responsibility are presented as part of the Mother's Prayer."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The prophecy appears to call forth people when they are needed to do what must be done."
+            ],
+            "openQuestions": []
+        },
+        "Daisy": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Her presence is inferred from flowers appearing in circumstances where there should not have been flowers.",
+                "Dana identifies the flowers as Daisy's distinctive signature."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": [
-                "How does the Mother's Prayer choose those it calls?"
+                "Why was Daisy present during these events?"
             ]
         },
-        "Doorman": {
-            "existing": "",
-            "entityType": "CONCEPT",
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
             "notes": [
-                "An ancient title not granted in many years.",
-                "A Doorman is bound to a specific Arch.",
-                "The role includes opening and closing access to an Arch, maintaining its connection, and protecting it.",
-                "Gerk is being offered this position."
+                "Is present beside Walker during the ceremony.",
+                "Arches her head respectfully as Gawater addresses the group."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
-            "openQuestions": [
-                "Which Arch will Gerk ultimately become Doorman of?"
-            ]
+            "openQuestions": []
+        },
+        "Kit Anger": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Steps back with Juten Prime and allows the ceremony involving Gerk and the party to proceed without intervention."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Juten Prime": {
+            "existing": "One of the original keepers of the keystones.",
+            "notes": [
+                "Steps back with Kit Anger and allows the ceremony to proceed without intervention."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ben": {
+            "existing": "Minor deity and keeper of the Watchers; runs the travelling bar.",
+            "notes": [
+                "Ciri chooses to teleport next to Ben because she trusts that he knows she is present.",
+                "Ben reacts with surprise when Ciri appears beside him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
         },
         "Pitel": {
-            "existing": "Arch of Atlas.",
-            "entityType": "Location",
+            "existing": "One of the Arch realms of Atlas.",
             "notes": [
-                "Its keystone is the first one presented to Gerk as a possible choice.",
-                "The party recalls it as the elemental Arch while discussing options."
+                "A keystone to Pitel is presented to Gerk as one of his possible choices.",
+                "The party discusses Pitel while helping Gerk determine which realm he might want to choose."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Will Gerk choose Pitel as his Arch?"
+            ]
+        },
+        "Feldspar": {
+            "existing": "One of the Arch realms of Atlas.",
+            "notes": [
+                "Is described by the party as the science, alchemy, and technology-oriented realm.",
+                "Gerk considers Feldspar an appealing potential choice."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Will Gerk choose Feldspar as his Arch?"
+            ]
+        },
+        "Gilbrick": {
+            "existing": "One of the Arch realms of Atlas.",
+            "notes": [
+                "Is described by Walker as a scary or dangerous place.",
+                "Gerk explicitly says he does not want to choose Gilbrick."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lith": {
+            "existing": "One of the Arch realms of Atlas.",
+            "notes": [
+                "Is described as a realm whose inhabitants have largely sworn off magic and live in relative ignorance of it."
             ],
             "titles": [],
             "personality": [],
@@ -136,50 +302,78 @@
     },
     "misTranscriptions": [
         {
-            "heard": "Silin",
-            "likely": "Sylan",
-            "notes": "Player character name."
+            "heard": "Vacna",
+            "likely": "Vecna",
+            "notes": "The transcript uses 'Vacna' when referring to the elder god Vecna."
+        },
+        {
+            "heard": "Jotin Prime",
+            "likely": "Juten Prime",
+            "notes": "Matches the established NPC name Juten Prime, one of the original keystone keepers."
         },
         {
             "heard": "Gawater",
             "likely": "Plymouth Gawater",
-            "notes": "NPC's surname used by itself."
+            "notes": "The DM refers to the gnome artificer explaining the Eldarin Tree and keystones."
         },
         {
-            "heard": "Door man / Dorman",
-            "likely": "Doorman",
-            "notes": "Ancient title granted to the guardian of an Arch."
+            "heard": "Glimmond",
+            "likely": "Glimmen",
+            "notes": "Refers to Walker's mind-linked dragon."
         },
         {
-            "heard": "Deck",
+            "heard": "Lemon",
+            "likely": "Glimmen",
+            "notes": "Walker is discussing whether Glimmen can have a crown."
+        },
+        {
+            "heard": "Gurks / Gert / Kirk / Yu Gug",
             "likely": "Gerk",
-            "notes": "Transcript briefly loses speaker context while Plymouth addresses Gerk."
+            "notes": "Multiple ASR variants occur while the DM and players discuss Gerk's role."
+        },
+        {
+            "heard": "Dorman / door man",
+            "likely": "Doorman",
+            "notes": "The formal title being granted to Gerk."
+        },
+        {
+            "heard": "Dais / Deus",
+            "likely": "dais",
+            "notes": "The DM describes the party standing on or around the raised ceremonial platform."
         }
     ],
     "openQuestions": [
-        "Which Arch will Gerk choose to become Doorman of?",
-        "Why was Daisy present before the ceremony?",
-        "What additional responsibilities accompany the title of Doorman beyond protecting an Arch?"
+        "Why was Daisy present, and what is the significance of the flowers she left behind?",
+        "Which Arch will Gerk ultimately choose for his Doorman responsibility?",
+        "What exactly is the nature of Gerk's connection to the Eldarin Tree?",
+        "What further consequences will follow from the party joining Gerk in the responsibility associated with the Mother's Prayer?"
     ],
     "newTerms": [
         {
+            "name": "Doorman",
+            "notes": [
+                "A rare title granted to an individual who can open and close an Arch, connect with it, and protect it.",
+                "Gerk is offered this title and accepts it."
+            ]
+        },
+        {
+            "name": "Son of the Great Tree",
+            "notes": [
+                "A designation applied to Gerk in connection with the Eldarin Tree and his selection by the Mother's Prayer."
+            ]
+        },
+        {
             "name": "Eldarin Tree",
             "notes": [
-                "Sacred Navi tree whose rings inspired the creation of the keystones.",
-                "Source of the symbolism behind the Mother's Prayer."
+                "A great and sacred tree of the Navi and a major magical place in Atlas.",
+                "Its rings were studied and distilled by the Navi in the process that produced the keystones."
             ]
         },
         {
             "name": "Mother's Prayer",
             "notes": [
-                "Prophecy unintentionally created during the creation of the keystones.",
-                "Selects champions to preserve the health and prosperity of Atlas."
-            ]
-        },
-        {
-            "name": "Doorman",
-            "notes": [
-                "Ancient guardian responsible for opening, closing, connecting to, and protecting a specific Arch."
+                "A prophecy unintentionally initiated through the creation of the keystones.",
+                "It appears to call forth individuals when Atlas requires them to act for its health and prosperity."
             ]
         }
     ]
