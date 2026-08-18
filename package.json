@@ -4,7 +4,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node src/example.ts",
+    "start": "node src/cli.ts",
+    "status": "node src/cli.ts status",
+    "process": "node src/cli.ts process",
+    "vault": "node src/cli.ts vault",
+    "markdown": "node lib/generate-markdown.ts",
     "chrome:debug": "node scripts/start-chrome-debug.js",
     "chrome:seed": "node scripts/seed-chrome-profile.js"
   },

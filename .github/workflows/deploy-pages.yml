@@ -89,29 +89,30 @@ jobs:
       # mid-build `npm install` + same-process require (broken on Node 26+).
       - name: Install Quartz theme package
         working-directory: quartz
-        run: npm install @quartz-themes/its-theme @quartz-themes/core @quartz-themes/atelier
+        # run: npm install @quartz-themes/its-theme @quartz-themes/core @quartz-themes/atelier
+        run: npm install @quartz-themes/core @quartz-themes/atelier
 
       - name: Copy quartz.config.yaml
         working-directory: .
         run: cp quartz.config.yaml quartz/quartz.config.yaml
 
       # save the tree output of the whole project
-      - name: save tree.txt
-        working-directory: .
-        run: tree -a -I 'node_modules|.git|.DS_Store' > tree.txt
+      # - name: save tree.txt
+      #   working-directory: .
+      #   run: tree -a -I 'node_modules|.git|.DS_Store' > tree.txt
         
-      - name: upload tree.txt
-        uses: actions/upload-artifact@v4
-        with:
-          name: tree.txt
-          path: tree.txt
+      # - name: upload tree.txt
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: tree.txt
+      #     path: tree.txt
 
       # upload quartz/quartz.config.yaml as an artifact for refrence
-      - name: save config.yaml
-        uses: actions/upload-artifact@v4
-        with:
-          name: quartz.config.yaml
-          path: quartz/quartz.config.yaml
+      # - name: save config.yaml
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: quartz.config.yaml
+      #     path: quartz/quartz.config.yaml
 
       - name: Build Quartz
         working-directory: quartz

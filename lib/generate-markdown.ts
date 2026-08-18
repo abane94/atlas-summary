@@ -1,6 +1,7 @@
 import type { EntityData, SessionData } from "./vault-data.ts";
 import fs from 'fs/promises';
 import path from 'path';
+import { isDirectRun } from "./is-main.ts";
 
 export async function generateMarkdown(vaultDataFolder: string, vaultOutputFolder: string) {
     let indexFrontmatter = [
@@ -123,15 +124,15 @@ function insertWikiLinks(text: string, entityDataList: EntityData[]) {
 }
 
 function escapeRegExp(text: string): string {
+
     return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   }
 
 
-// run the main function if this file is being run directly using modules
-if (import.meta.url === new URL(import.meta.url).href) {
-    main();
-}
-
 async function main() {
     await generateMarkdown('vault-data', 'vault');
+}
+
+if (isDirectRun(import.meta.url)) {
+    main();
 }

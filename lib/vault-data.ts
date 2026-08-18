@@ -24,9 +24,10 @@ import fs from 'fs/promises';
 import path from 'path';
 
 import type { PlotSection, SessionChunkSummary } from "./types/session.ts";
-import { getBrowser } from './browser.js';
 import { Page } from 'puppeteer-core';
 import { runProsePrompt } from './chatgpt.js';
+import { isDirectRun } from './is-main.ts';
+import { withChatGptPage } from './browser.js';
 
 export interface SessionData {
     date: string; // yyyy-mm-dd string
@@ -64,6 +65,19 @@ function entityProcessedForSession(entity: EntityData, sessionDate: string): boo
     return entity.log.some(entry => entry.date === sessionDate);
 }
 
+async function fileExists(filepath: string): Promise<boolean> {
+    try {
+        await fs.access(filepath);
+        return true;
+    } catch {
+        return false;
+    }
+}
+
+function findExistingEntity(entities: EntityData[], name: string): EntityData | undefined {
+    return entities.find((entity) => entity.name === name || entity.aliases.includes(name));
+}
+
 async function saveEntity(vaultDataFolder: string, entity: EntityData): Promise<void> {
     const filename = entityJsonFilename(entity);
     const filepath = path.join(vaultDataFolder, 'entities', filename);
@@ -72,73 +86,179 @@ async function saveEntity(vaultDataFolder: string, entity: EntityData): Promise<
 }
 
 
-export async function generateVaultData(page: Page, summariesFolder: string, vaultDataFolder: string) {
-    // create the log folder if it doesn't exist
+export interface GenerateVaultOptions {
+    /** Only process this session date (yyyy-mm-dd). */
+    date?: string;
+    /** Rewrite the session log even if it already exists. Already-processed entity log entries are still skipped. */
+    force?: boolean;
+}
+
+export async function loadEntities(vaultDataFolder: string): Promise<EntityData[]> {
+    const entitiesDir = path.join(vaultDataFolder, 'entities');
+    await fs.mkdir(entitiesDir, { recursive: true });
+    const existingEntities = await fs.readdir(entitiesDir, { withFileTypes: true });
+    const existingEntitiesList: EntityData[] = [];
+    for (const file of existingEntities) {
+        if (!file.isFile() || !file.name.endsWith('.json')) continue;
+        const entityData = JSON.parse(await fs.readFile(path.join(entitiesDir, file.name), 'utf8')) as EntityData;
+        existingEntitiesList.push(entityData);
+    }
+    return existingEntitiesList;
+}
+
+export async function getVaultProgress(
+    date: string,
+    summariesFolder = 'summaries',
+    vaultDataFolder = 'vault-data',
+): Promise<{
+    hasMerged: boolean;
+    hasSessionLog: boolean;
+    entityTotal: number;
+    entityProcessed: number;
+}> {
+    const mergedPath = path.join(summariesFolder, date, 'merged.json');
+    const sessionLogPath = path.join(vaultDataFolder, 'log', `${date}.json`);
+    const hasMerged = await fileExists(mergedPath);
+    const hasSessionLog = await fileExists(sessionLogPath);
+    if (!hasMerged) {
+        return { hasMerged, hasSessionLog, entityTotal: 0, entityProcessed: 0 };
+    }
+
+    const sessionData = JSON.parse(await fs.readFile(mergedPath, 'utf8')) as SessionChunkSummary;
+    const names = Object.keys(sessionData.entities ?? {});
+    const existingEntitiesList = await loadEntities(vaultDataFolder);
+    let entityProcessed = 0;
+    for (const name of names) {
+        const existing = findExistingEntity(existingEntitiesList, name);
+        if (existing && entityProcessedForSession(existing, date)) {
+            entityProcessed++;
+        }
+    }
+    return {
+        hasMerged,
+        hasSessionLog,
+        entityTotal: names.length,
+        entityProcessed,
+    };
+}
+
+export async function vaultNeedsWork(
+    date: string,
+    options: { force?: boolean; summariesFolder?: string; vaultDataFolder?: string } = {},
+): Promise<boolean> {
+    if (options.force) return true;
+    const progress = await getVaultProgress(
+        date,
+        options.summariesFolder ?? 'summaries',
+        options.vaultDataFolder ?? 'vault-data',
+    );
+    if (!progress.hasMerged) return true;
+    if (!progress.hasSessionLog) return true;
+    return progress.entityProcessed < progress.entityTotal;
+}
+
+export async function generateVaultData(
+    page: Page,
+    summariesFolder: string,
+    vaultDataFolder: string,
+    options: GenerateVaultOptions = {},
+) {
     await fs.mkdir(path.join(vaultDataFolder, 'log'), { recursive: true });
-    // create the entities folder if it doesn't exist
     await fs.mkdir(path.join(vaultDataFolder, 'entities'), { recursive: true });
 
+    let sessionFolders;
+    try {
+        sessionFolders = (await fs.readdir(summariesFolder, { withFileTypes: true }))
+            .filter((dirent) => dirent.isDirectory())
+            .filter((dirent) => dirent.name.match(/^\d{4}-\d{2}-\d{2}$/))
+            .sort((a, b) => a.name.localeCompare(b.name));
+    } catch {
+        throw new Error(`Cannot read ${summariesFolder}. Run recap/chunks/merge first.`);
+    }
 
-    const sessionFolders = (await fs.readdir(summariesFolder, { withFileTypes: true })).filter(dirent => dirent.isDirectory())
-    .filter(dirent => dirent.name.match(/^\d{4}-\d{2}-\d{2}$/))
-    .sort((a, b) => a.name.localeCompare(b.name));
+    if (options.date) {
+        const match = sessionFolders.find((folder) => folder.name === options.date);
+        if (!match) {
+            throw new Error(
+                `No summaries/${options.date} folder found. Run recap/chunks/merge for that date first.`,
+            );
+        }
+        sessionFolders.length = 0;
+        sessionFolders.push(match);
+    }
 
-    // load existing vault data
-    console.log('Loading existing vault entities...');
+    console.log('[vault] Loading existing vault entities...');
     const existingSessions = await fs.readdir(path.join(vaultDataFolder, 'log'), { withFileTypes: true });
-    // read all json files and create a map of session dates to session data
     const existingSessionsMap: Record<string, SessionData> = {};
     for (const file of existingSessions) {
+        if (!file.isFile() || !file.name.endsWith('.json')) continue;
         const sessionData = JSON.parse(await fs.readFile(path.join(vaultDataFolder, 'log', file.name), 'utf8')) as SessionData;
         existingSessionsMap[sessionData.date] = sessionData;
     }
 
-    // load existing entities
-    const existingEntities = await fs.readdir(path.join(vaultDataFolder, 'entities'), { withFileTypes: true });
-    // read all json files and create a list of entity data
-    const existingEntitiesList: EntityData[] = [];
-    for (const file of existingEntities) {
-        console.log(`Loading existing entity ${file.name}`);
-        const entityData = JSON.parse(await fs.readFile(path.join(vaultDataFolder, 'entities', file.name), 'utf8')) as EntityData;
-        existingEntitiesList.push(entityData);
-    }
+    const existingEntitiesList = await loadEntities(vaultDataFolder);
+    console.log(`[vault] Loaded ${existingEntitiesList.length} entities`);
 
-    // for any sessions that don't have a corresponding session data, create a new session data object
     for (const sessionFolder of sessionFolders) {
         const sessionDate = sessionFolder.name;
-        if (!existingSessionsMap[sessionDate]) {
-            const sessionData = await parseSessionData(page, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
-            existingSessionsMap[sessionDate] = sessionData;
-            await fs.writeFile(path.join(vaultDataFolder, 'log', `${sessionDate}.json`), JSON.stringify(sessionData, null, 2));
+        const mergedPath = path.join(summariesFolder, sessionFolder.name, 'merged.json');
+        if (!(await fileExists(mergedPath))) {
+            const message = `Cannot run vault for ${sessionDate}: missing ${mergedPath}. Run the merge step first.`;
+            if (options.date) {
+                throw new Error(message);
+            }
+            console.log(`[vault] Skipping ${sessionDate} — missing ${mergedPath}`);
+            continue;
         }
+
+        const sessionLogPath = path.join(vaultDataFolder, 'log', `${sessionDate}.json`);
+        const sessionLogExists = Boolean(existingSessionsMap[sessionDate]);
+        if (sessionLogExists && !options.force) {
+            const progress = await getVaultProgress(sessionDate, summariesFolder, vaultDataFolder);
+            if (progress.entityProcessed >= progress.entityTotal) {
+                console.log(`[vault] ${sessionDate} already processed, skipping (use --force to regenerate the session log)`);
+                continue;
+            }
+            console.log(
+                `[vault] ${sessionDate} session log exists; processing ${progress.entityTotal - progress.entityProcessed} new entit${progress.entityTotal - progress.entityProcessed === 1 ? 'y' : 'ies'}`,
+            );
+            await parseSessionEntities(page, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
+            continue;
+        }
+
+        console.log(`[vault] Processing session ${sessionDate}...`);
+        const sessionData = await parseSessionData(page, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
+        existingSessionsMap[sessionDate] = sessionData;
+        await fs.writeFile(sessionLogPath, JSON.stringify(sessionData, null, 2));
+        console.log(`[vault] Wrote ${sessionLogPath}`);
     }
 
-    console.log('Vault data generation complete');
-    
+    console.log('[vault] Vault data generation complete');
 }
 
 
-async function parseSessionData(page: Page, date: string, sessionFolder: string, existingEntitiesList: EntityData[], vaultDataFolder: string): Promise<SessionData> {
+async function parseSessionEntities(
+    page: Page,
+    date: string,
+    sessionFolder: string,
+    existingEntitiesList: EntityData[],
+    vaultDataFolder: string,
+): Promise<SessionChunkSummary> {
     const sessionData = JSON.parse(await fs.readFile(path.join(sessionFolder, 'merged.json'), 'utf8')) as SessionChunkSummary;
+    const entityNames = Object.keys(sessionData.entities ?? {});
+    console.log(`[vault] Parsing ${entityNames.length} entities for ${date}`);
 
-    console.log(`Parsing session data for ${date}`);
-    console.log(`Session data: ${JSON.stringify(sessionData, null, 2)}`);
-
-    for (const newEntityName of Object.keys(sessionData.entities)) {
-        // await page.goto('https://chatgpt.com', { waitUntil: "networkidle2", timeout: 60000 });
-        console.log(`Parsing entity ${newEntityName}`);
+    for (const newEntityName of entityNames) {
+        console.log(`[vault] Entity ${newEntityName}`);
         const newEntity = sessionData.entities[newEntityName];
-        // look for an existing entity, check name, and aliases
-        console.log(`Looking for existing entity ${newEntityName}`);
-        const existingEntity = existingEntitiesList.find(entity => entity.name === newEntityName || entity.aliases.includes(newEntityName));
+        const existingEntity = findExistingEntity(existingEntitiesList, newEntityName);
 
         if (existingEntity && entityProcessedForSession(existingEntity, date)) {
-            console.log(`Skipping entity ${newEntityName} — already processed for ${date}`);
+            console.log(`[vault] Skipping ${newEntityName} — already processed for ${date}`);
             continue;
         }
 
         if (existingEntity) {
-            // update the existing entity
             existingEntity.log.push({
                 date: date,
                 summary: await runProsePrompt(page, `
@@ -161,7 +281,6 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
             existingEntity.updatedAt = new Date().toISOString();
             await saveEntity(vaultDataFolder, existingEntity);
         } else {
-            // create a new entity
             const newEntityData: EntityData = {
                 name: newEntityName,
                 tags: [],
@@ -208,7 +327,6 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
                 createdAt: new Date().toISOString(),
                 updatedAt: new Date().toISOString(),
             };
-            // delete log from the data passed to the prompt without modifying the original data
             const newEntityDataForPrompt = JSON.parse(JSON.stringify(newEntityData));
             delete newEntityDataForPrompt.log;
             newEntityData.slug = await runProsePrompt(page, `
@@ -225,15 +343,19 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
         }
     }
 
+    return sessionData;
+}
+
+async function parseSessionData(page: Page, date: string, sessionFolder: string, existingEntitiesList: EntityData[], vaultDataFolder: string): Promise<SessionData> {
+    const sessionData = await parseSessionEntities(page, date, sessionFolder, existingEntitiesList, vaultDataFolder);
+
     const sessionDataForPrompt = JSON.parse(JSON.stringify(sessionData));
     delete sessionDataForPrompt.misTranscriptions;
     delete sessionDataForPrompt.openQuestions;
     delete sessionDataForPrompt.newTerms;
 
-    // update the session data
     const sessionDataToSave: SessionData = {
         date: date,
-        // summary: '', // TODO: generate summary
         summary: await runProsePrompt(page, `
             This is the session data for ${date}.
             Please generate a summary of the session.
@@ -248,7 +370,7 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
             title: section.title,
             bullets: section.bullets,
         })),
-        log: sessionData.chronologicalEvents, // TODO: generate log
+        log: sessionData.chronologicalEvents,
         openQuestions: sessionData.openQuestions,
     };
 
@@ -256,18 +378,14 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
 }
 
 async function main() {
-    console.log('Starting vault data generation...');
-    const browser = await getBrowser();
-    const pages = await browser.pages();
-    const page = pages[0] ?? await browser.newPage();
-
-    const url = "https://chatgpt.com";
-    await page.goto(url, { waitUntil: "networkidle2" });
-    console.log('Generating vault data...');
-    await generateVaultData(page, 'summaries', 'vault-data');
+    const dateArg = process.argv.find((arg) => /^\d{4}-\d{2}-\d{2}$/.test(arg));
+    const force = process.argv.includes('--force');
+    console.log(`[vault] Starting vault data generation${dateArg ? ` for ${dateArg}` : ' for all sessions'}...`);
+    await withChatGptPage(async (page: Page) => {
+        await generateVaultData(page, 'summaries', 'vault-data', { date: dateArg, force });
+    });
 }
 
-// run the main function if this file is being run directly using modules
-if (import.meta.url === new URL(import.meta.url).href) {
+if (isDirectRun(import.meta.url)) {
     main();
 }

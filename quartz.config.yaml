@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: MedievalSharp
+      body: Caudex
       code: IBM Plex Mono
     colors:
       lightMode:
