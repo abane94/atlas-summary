@@ -1,0 +1,206 @@
+{
+    "plotSections": [
+        {
+            "title": "Ord Attempts to Reveal Himself",
+            "bullets": [
+                "Ord, apparently still invisible, considers using black powder to make himself visible but instead remembers his dragon vessel.",
+                "Ord uses the dragon vessel with olive oil, covering himself in oil in an attempt to create a visible outline. The attempt succeeds: the oil becomes visible even though Ord himself remains otherwise invisible.",
+                "The oil produces a faint, silent silhouette of Ord on the ship's top deck, allowing Dana and Ciri to see his general outline. Areas not covered by oil remain invisible."
+            ]
+        },
+        {
+            "title": "The Spectral Door and Gerk",
+            "bullets": [
+                "While Ord is experimenting with visibility, Sylan continues interacting with Gerk, who is apparently affected by an unseen force.",
+                "A shiny spectral door appears hovering above Gerk. Gerk can scream, but his voice is not perceived by the others, and he appears unable to move normally.",
+                "Sylan turns Gerk's head toward the spectral door and then drags him toward it using the unseen forces affecting him."
+            ]
+        },
+        {
+            "title": "Dana's Snake as a Visibility Marker",
+            "bullets": [
+                "Dana uses her serpentine bracers to summon a constrictor snake and commands it to remain at her heel as she moves.",
+                "The summoned snake is visible and therefore provides Dana with another way to track or indicate her position while the party is dealing with the unusual visibility situation.",
+                "The DM confirms that the summoned creature is a large constrictor snake and that speaking the relevant command produces two constrictor snakes, though it is left unresolved whether Dana can release them individually."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord considers using black powder from the ship to make himself visible, then remembers his dragon vessel and abandons the powder idea.",
+        "Ord uses his dragon vessel with olive oil, covering himself in oil on the ship's top deck.",
+        "The oil becomes visible as a faint silhouette around Ord, allowing Dana and Ciri to see his general outline while Ord himself remains invisible.",
+        "A shiny spectral door appears above Gerk while unseen forces shake and manipulate him.",
+        "Gerk screams, but the others cannot hear him; Sylan turns Gerk toward the spectral door and drags him toward it.",
+        "Dana uses her serpentine bracers to summon a visible constrictor snake and commands it to stay at her heel as a positional marker.",
+        "The DM establishes that the summoned creature is a large constrictor snake and that the relevant command produces two constrictor snakes."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Ord is currently invisible except where substances or creatures provide a visible indication of his position.",
+                "Ord discovered that applying olive oil through his dragon vessel creates a visible, faint outline of his otherwise invisible body.",
+                "The visible oil silhouette is silent but has a physical presence on the deck as the oil splashes and drips.",
+                "Ord attempted to communicate in Draconic while investigating whether anyone was present, but no response is established in this chunk."
+            ],
+            "titles": [],
+            "personality": [
+                "Ord is willing to improvise with unusual methods and items when trying to solve the visibility problem."
+            ],
+            "quotesThemes": [
+                "Using the dragon vessel and olive oil as a makeshift method of revealing his location."
+            ],
+            "openQuestions": [
+                "Who or what, if anything, can perceive Ord while he is invisible?"
+            ]
+        },
+        "dragon vessel": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Ord possesses a dragon vessel that can apparently be used with olive oil to create a visible outline around his otherwise invisible body.",
+                "The exact mechanics and limitations of the dragon vessel are not established in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What are the full properties and intended uses of Ord's dragon vessel?"
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Gerk is currently being affected by an unseen force that shakes and moves him despite his apparent inability to move normally.",
+                "A shiny spectral door is hovering above Gerk while he is being manipulated.",
+                "Gerk can physically move his mouth and scream, but his voice is not heard by the surrounding party members.",
+                "Sylan is able to physically reposition Gerk's head and drag his body toward the spectral door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Gerk's confused attempts to communicate while apparently isolated from the others."
+            ],
+            "openQuestions": [
+                "What is the spectral door and what is causing Gerk to be isolated and manipulated?",
+                "Why can Gerk hear his own scream while the others cannot hear him?"
+            ]
+        },
+        "spectral door": {
+            "existing": "",
+            "entityType": "OTHER",
+            "notes": [
+                "A shiny, floating spectral door appears above Gerk while unseen forces are manipulating him.",
+                "Sylan directs Gerk toward the door, but its destination or function is not established in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the spectral door and where does it lead?",
+                "Why has the spectral door appeared over Gerk?"
+            ]
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and the most knowledgeable member of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Dana still has her serpentine bracers equipped.",
+                "Dana can use the serpentine bracers to summon a constrictor snake.",
+                "Dana commands the summoned snake to remain at her heel, using it as a visible positional marker while she moves."
+            ],
+            "titles": [],
+            "personality": [
+                "Dana responds methodically to the unusual visibility situation by creating an external marker she can keep with her."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can Dana choose to release the two constrictor snakes produced by the command one at a time?"
+            ]
+        },
+        "serpentine bracers": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Dana is wearing serpentine bracers that can produce constrictor snakes.",
+                "The summoned snake is visible even while the party is dealing with an unusual invisibility effect.",
+                "The DM states that the relevant command produces two constrictor snakes."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What are the complete mechanics and limitations of the serpentine bracers?"
+            ]
+        },
+        "constrictor snake": {
+            "existing": "",
+            "entityType": "OTHER",
+            "notes": [
+                "The summoned creature is identified as a large constrictor snake.",
+                "Dana commands it to remain at her heel as she moves."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "intraconic",
+            "likely": "Draconic",
+            "notes": "Ord appears to be attempting to speak in the Draconic language."
+        },
+        {
+            "heard": "constructor snake",
+            "likely": "constrictor snake",
+            "notes": "The DM is explicitly discussing the D&D constrictor snake creature."
+        },
+        {
+            "heard": "Ward",
+            "likely": "Ord",
+            "notes": "The transcript refers to the oiled-up character as Ward in a context clearly describing Ord."
+        },
+        {
+            "heard": "peers in coins on the deck",
+            "likely": "",
+            "notes": "The phrase is garbled in the description of the oil silhouette appearing on the deck."
+        },
+        {
+            "heard": "high Sylant",
+            "likely": "Sylan",
+            "notes": "The phrase appears during the DM's transition back to the party and is likely a corrupted reference to Sylan."
+        }
+    ],
+    "openQuestions": [
+        "What is the spectral door and where does it lead?",
+        "Why has Gerk become isolated from the other characters, including being unable to make his screams heard?",
+        "What are the full properties and limitations of Ord's dragon vessel?",
+        "Who or what can perceive Ord while he is invisible?",
+        "What are the complete mechanics of Dana's serpentine bracers?",
+        "Can Dana release the two summoned constrictor snakes individually?"
+    ],
+    "newTerms": [
+        {
+            "name": "Dragon vessel",
+            "notes": [
+                "An item possessed by Ord that can apparently be used with olive oil to produce a visible outline around his otherwise invisible body."
+            ]
+        },
+        {
+            "name": "Spectral door",
+            "notes": [
+                "A shiny floating door that appears above Gerk while unseen forces manipulate him; its purpose and destination are unknown."
+            ]
+        },
+        {
+            "name": "Serpentine bracers",
+            "notes": [
+                "Dana's bracers can summon constrictor snakes, which she can use as visible markers."
+            ]
+        }
+    ]
+}

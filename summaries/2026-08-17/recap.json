@@ -1,0 +1,241 @@
+{
+    "plotSections": [
+        {
+            "title": "Mother's Prayer and the Chosen One",
+            "bullets": [
+                "The DM recapped that Gerk appears to be a recurring chosen one who is selected generationally and brought forward to fulfill a foretold path.",
+                "The Mother's Prayer describes the chosen individual's journey toward a foretold end, but the path remains voluntary: if the chosen individual refuses it, the course changes and the role passes to another person deemed worthy."
+            ]
+        },
+        {
+            "title": "The Keystone Keepers",
+            "bullets": [
+                "Each party member is now the owner and protector of a keystone, while two remaining keystones stay in the custody of Plymouth Gawater and Juten Prime.",
+                "The current assignments were reiterated: Walker holds The Reach, Ord holds Feldspar, Ciri holds Lith, Gerk holds Midgard, Sylan holds Gilbrick, and Dana holds Pitel.",
+                "The party remains responsible for protecting these powerful objects while continuing their effort to track down a lich and its phylactery."
+            ]
+        },
+        {
+            "title": "The Party's Night on Mount Advalia",
+            "bullets": [
+                "The session began after the previous council and related conversations, with the party still at the gatehouse in Mount Advalia and only the previously mentioned NPCs remaining there.",
+                "The party's prior drinking and attempt to teach Ord to fly were revisited. Ord was taken into the air and dropped as a joke, failed the attempt, and ultimately fell into the water after being unable to control the descent; he was caught by the scruff of his neck before or during the fall.",
+                "Glimmen and Raiden were involved in the planned flying prank, with Glimmen intended to catch Ord if he failed to fly."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The DM recapped the Mother's Prayer and Mother's Prophecy, explaining that Gerk appears to be a recurring generational chosen one whose foretold path remains a matter of choice.",
+        "The DM recapped that each party member now possesses and protects a keystone, with two remaining keystones entrusted to Plymouth Gawater and Juten Prime.",
+        "The DM restated the known keystone assignments: Gerk—Midgard; Sylan—Gilbrick; Dana—Pitel; Walker—The Reach; Ord—Feldspar; Ciri—Lith.",
+        "The party's remaining major objective is to track down a lich and its phylactery.",
+        "The gods from the previous council have departed, leaving Eldris, Araden, Juten Prime, Four Secundus, Kit Anger, and Plymouth Gawater at Mount Advalia.",
+        "The session opened with the party recalling that they had been drinking on the mountain and had attempted to teach Ord to fly.",
+        "Ord was taken into the air as part of the prank, failed his attempts to fly, and fell toward the water before being caught by the scruff of his neck."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "The DM reiterated that Gerk appears to be the current generational manifestation of a recurring chosen one connected to the Mother's Prayer.",
+                "Gerk's chosen path is not compulsory; refusing the foretold journey can cause the role to pass to another worthy individual.",
+                "Gerk is the party's keeper and protector of the Midgard keystone."
+            ],
+            "titles": [
+                "Chosen one of the current generation",
+                "Keeper/protector of the Midgard keystone"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "The chosen one's foretold journey ultimately depends on their choice."
+            ],
+            "openQuestions": []
+        },
+        "Mother's Prayer": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The DM reiterated that the Mother's Prayer describes the journey and foretold end of the recurring chosen one.",
+                "The prophecy is not an unavoidable destiny: the chosen individual can reject the path, causing the role and associated course to move to another worthy individual."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Foretold destiny versus individual choice."
+            ],
+            "openQuestions": []
+        },
+        "Mother's Prophecy": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The Mother's Prophecy was recapped alongside the Mother's Prayer as part of the explanation of Gerk's recurring chosen-one role."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "The party members are now the owners and protectors of individual keystones.",
+                "The current assignments are Gerk—Midgard, Sylan—Gilbrick, Dana—Pitel, Walker—The Reach, Ord—Feldspar, and Ciri—Lith.",
+                "Two keystones remain outside the party's possession and are being kept by Plymouth Gawater and Juten Prime."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The party's responsibility is now to protect the keystones."
+            ],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer associated with the keystones and the Mother's Prayer.",
+            "notes": [
+                "Plymouth is one of the two individuals currently entrusted with the two keystones not held by party members.",
+                "Plymouth remains at Mount Advalia after the gods departed."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Juten Prime": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Juten Prime is one of the individuals entrusted with the two keystones not currently held by party members.",
+                "Juten Prime remains at Mount Advalia after the gods departed."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "notes": [
+                "The party attempted to teach Ord to fly while drinking on the mountain.",
+                "Ord was taken into the air and dropped as a prank, failed to fly, and ultimately fell into the water after losing control of the descent.",
+                "Ord was caught by the scruff of his neck during the failed flying attempt."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The attempt to teach Ord to fly was primarily a drunken prank by the party."
+            ],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "notes": [
+                "Glimmen was involved in the plan to drop Ord from the air and catch him if he failed to fly.",
+                "The plan involved Raiden carrying Ord upward while Glimmen served as the intended safety catch."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Raiden": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Raiden participated in the attempted flying lesson/prank involving Ord.",
+                "Raiden was intended to fly Ord upward and drop him while Glimmen caught him if necessary."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mount Advalia": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The gatehouse in Mount Advalia is where the session begins after the previous council and conversations.",
+                "After the gods departed, several NPCs remained at Mount Advalia, including Eldris, Araden, Juten Prime, Four Secundus, Kit Anger, and Plymouth Gawater."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lich's Phylactery": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Tracking down the lich and its phylactery remains a major unresolved objective for the party."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Jotin Prime",
+            "likely": "Juten Prime",
+            "notes": "The DM names the NPC among those holding a remaining keystone and among the NPCs still at Mount Advalia."
+        },
+        {
+            "heard": "Plymouth Gallwater / Plymouth Galwater",
+            "likely": "Plymouth Gawater",
+            "notes": "Repeatedly identified as the gnome artificer associated with the keystones."
+        },
+        {
+            "heard": "Patel",
+            "likely": "Pitel",
+            "notes": "Used for the keystone assigned to Dana."
+        },
+        {
+            "heard": "Weldspar",
+            "likely": "Feldspar",
+            "notes": "Used while discussing the keystone assigned to Ord."
+        },
+        {
+            "heard": "Lyph",
+            "likely": "Lith",
+            "notes": "Used while discussing the keystone assigned to Ciri."
+        },
+        {
+            "heard": "Gilbert",
+            "likely": "Gilbrick",
+            "notes": "Used during the discussion of the keystone assignments."
+        },
+        {
+            "heard": "Glimmin / Gleman",
+            "likely": "Glimmen",
+            "notes": "Refers to Walker's dragon, which was supposed to catch Ord during the flying prank."
+        },
+        {
+            "heard": "Mount Otvalia / Mount Alva Advalia",
+            "likely": "Mount Advalia",
+            "notes": "The location containing the gatehouse and the remaining NPCs at the beginning of the session."
+        },
+        {
+            "heard": "phlactory",
+            "likely": "phylactery",
+            "notes": "Refers to the lich's phylactery, which remains an objective of the party."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Recurring Chosen One",
+            "notes": [
+                "A generational role associated with the Mother's Prayer and Mother's Prophecy; the chosen individual may accept or reject the foretold path."
+            ]
+        },
+        {
+            "name": "Gatehouse of Mount Advalia",
+            "notes": [
+                "The gatehouse in Mount Advalia where the session begins after the previous council and conversations."
+            ]
+        }
+    ]
+}

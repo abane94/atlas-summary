@@ -1,0 +1,278 @@
+{
+    "plotSections": [
+        {
+            "title": "Investigating the Lich",
+            "bullets": [
+                "Sylan and Walker conclude that the party has learned more about the lich but is still no closer to locating him or identifying his phylactery.",
+                "The lich's phylactery is believed to be a mundane object that he keeps on his person. The party has repeatedly noticed him carrying or keeping chess pieces or war-game pieces nearby, raising the possibility that a chess set or one of its pieces could be the phylactery.",
+                "The party discusses the nature of a phylactery and confirms from their lore that it is a vessel containing the lich's soul, though their available lore does not explain exactly how the lich returns after bodily destruction."
+            ]
+        },
+        {
+            "title": "Walker's Scouting Mission to The Reach",
+            "bullets": [
+                "Walker wants to travel to The Reach to recharge his gems. The party agrees this is worthwhile as long as the trip remains a scouting mission rather than an attempt to fight the lich.",
+                "Walker intends to travel with Elrus and Araden, keeping the group small so they can move quickly. Walker specifically wants to preserve Elrus and Araden as hidden assets because the lich has learned weaknesses from previous encounters.",
+                "Sylan stresses that Walker should retreat immediately if he encounters danger. The rest of the party will remain available to return in force if necessary.",
+                "Walker will take the party's sending stone from the ship and use it to keep the others informed. The stone permits a message of up to 25 words once per day, though the party is uncertain how its recharge interacts with The Reach's altered flow of time.",
+                "The party plans to travel to Langdale while Walker conducts his mission, intending to speak with Carlkin and possibly Benji before meeting Walker again."
+            ]
+        },
+        {
+            "title": "Travel and Time Between Realms",
+            "bullets": [
+                "The party establishes that traveling to Langdale from their current location takes about a week.",
+                "Time passes differently in The Reach: the party discusses an approximate ratio of one day in their current realm to seven days in The Reach. This means Walker could potentially spend roughly a month in The Reach while only about a week passes for the rest of the party.",
+                "The party recalls that their previous use of the arch brought them out near the Whispering Abyss. From there, the training grounds are approximately five days of flight away, near the Lost Isles and a group of mountains between three islands."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan and Walker discuss their lack of progress locating the lich and discovering his phylactery.",
+        "The party identifies the lich's recurring chess or war-game pieces as a possible clue to the mundane object he keeps on his person.",
+        "The party reviews their lore on phylacteries and confirms that the phylactery contains the lich's soul.",
+        "Walker proposes going to The Reach to recharge his gems, and Sylan agrees that exhausting this option before returning to their investigation is reasonable.",
+        "The party agrees that Walker's trip should be a scouting mission and that he should avoid fighting the lich unless absolutely necessary.",
+        "Walker plans to take Elrus and Araden, keeping them as concealed assets for a future confrontation because the lich does not yet know about them.",
+        "The party discusses travel logistics and decides Walker can travel with a small group for speed, while the others head toward Langdale.",
+        "Walker takes the sending stone from the ship so he can report his findings. The stone allows a 25-word message once per day.",
+        "The party discusses the difficulty of determining how the sending stone's recharge interacts with The Reach's altered time flow.",
+        "The party plans to travel to Langdale, speak with Carlkin and possibly Benji, and regroup with Walker after his scouting mission.",
+        "The group establishes that Langdale is about a week away and that approximately seven days pass in The Reach for every day outside it.",
+        "Walker recalls that the arch previously deposited them near the Whispering Abyss; the training grounds are about five days of flight from there, near the Lost Isles."
+    ],
+    "entities": {
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Takes a leadership role in planning the party's next moves and recommends that Walker's trip to The Reach remain a scouting mission.",
+                "Wants the eventual confrontation with the lich to happen when the entire party is together.",
+                "Identifies the lich's recurring chess or war-game pieces as a possible clue to his phylactery.",
+                "Suggests Walker take the sending stone so the party can stay informed."
+            ],
+            "titles": [],
+            "personality": [
+                "Cautious about confronting the lich without the full party.",
+                "Focused on exhausting investigative options before committing to another confrontation."
+            ],
+            "quotesThemes": [
+                "The eventual fight with the lich should be a final fight when the party is together.",
+                "Walker should retreat from danger rather than turn the scouting mission into a battle."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Plans to travel to The Reach to recharge his gems.",
+                "Plans to bring Elrus and Araden while keeping the group small and mobile.",
+                "Wants Elrus and Araden to remain secret weapons because the lich has not yet learned about them.",
+                "Agrees to treat the trip as a scouting mission and retreat if necessary.",
+                "Takes the party's sending stone to report his findings during the mission."
+            ],
+            "titles": [],
+            "personality": [
+                "Values keeping the party's unknown assets concealed until they can be used effectively.",
+                "Prefers a small, fast group for the scouting mission."
+            ],
+            "quotesThemes": [
+                "Every encounter with the lich risks revealing another party weakness to him."
+            ],
+            "openQuestions": [
+                "How will the sending stone's once-per-day recharge interact with the accelerated passage of time in The Reach?"
+            ]
+        },
+        "The Reach": {
+            "existing": "A realm previously associated with Walker's chosen keystone.",
+            "entityType": "Location",
+            "notes": [
+                "Walker intends to visit The Reach to recharge his gems.",
+                "Time passes differently there; the party describes approximately seven days passing in The Reach for every one day outside it.",
+                "The altered time flow means Walker could potentially spend about a month there while only about a week passes for the rest of the party."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The party is concerned that the different time flow may affect communication through the sending stone."
+            ],
+            "openQuestions": [
+                "How exactly do magical effects with daily recharge limits function when used inside The Reach?"
+            ]
+        },
+        "Lich": {
+            "existing": "The lich the party has been pursuing, who is interested in powerful objects.",
+            "entityType": "NPC",
+            "notes": [
+                "The party believes his phylactery is a mundane object that he keeps on his person.",
+                "He has repeatedly been observed with chess pieces or war-game pieces, making a chess set or one of its pieces a possible clue to the phylactery.",
+                "The party's lore confirms that a phylactery is a vessel containing the lich's soul.",
+                "The party's current lore does not explain exactly how the lich's body returns after destruction.",
+                "The lich has previously learned weaknesses of the party through their encounters."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The party wants to conceal Elrus and Araden until a decisive confrontation."
+            ],
+            "openQuestions": [
+                "What exactly is the lich's phylactery?",
+                "Are the chess or war-game pieces connected to the lich's phylactery?",
+                "How exactly does the lich return after his body is destroyed?"
+            ]
+        },
+        "Elrus": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Walker intends for Elrus to accompany him to The Reach.",
+                "Walker considers Elrus a secret weapon that should remain unknown to the lich until the eventual confrontation."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Walker wants to preserve Elrus as an unexpected advantage against the lich."
+            ],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Walker intends for Araden to accompany him to The Reach.",
+                "Walker considers Araden a secret weapon that should remain unknown to the lich until the eventual confrontation.",
+                "The party discusses Araden as being highly capable with magic; there is also an apparent transcription reference to Araden being an ancient dragon, but this is not clear enough to establish as fact."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Walker wants to preserve Araden as an unexpected advantage against the lich."
+            ],
+            "openQuestions": []
+        },
+        "Sending Stone": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "The party has a sending stone associated with the ship.",
+                "It allows a message of up to 25 words once per day.",
+                "Walker takes the stone with him for his scouting mission to The Reach so he can keep the party updated.",
+                "The party is uncertain how its recharge period interacts with The Reach's accelerated passage of time."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Does the sending stone recharge according to time outside The Reach or according to the faster passage of time inside The Reach?"
+            ]
+        },
+        "Whispering Abyss": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The party recalls that their previous use of the arch brought them out near the Whispering Abyss.",
+                "The training grounds are described as about five days of flight from the Whispering Abyss."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Training Grounds": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The training grounds are located near the Lost Isles, among a group of mountains between three islands over a large expanse.",
+                "They are approximately five days of flight from the party's previous exit point near the Whispering Abyss."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale": {
+            "existing": "A location the party has previously visited.",
+            "entityType": "Location",
+            "notes": [
+                "The party plans to return to Langdale while Walker scouts The Reach.",
+                "Sylan intends to speak with Carlkin and possibly Benji there in hopes of advancing the investigation."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Langdao",
+            "likely": "Langdale",
+            "notes": "Sylan is discussing returning to the known location Langdale."
+        },
+        {
+            "heard": "Carl Carlkin",
+            "likely": "Carlkin",
+            "notes": "Likely the name of a person the party intends to speak with in Langdale."
+        },
+        {
+            "heard": "Benji",
+            "likely": "Ben",
+            "notes": "The party discusses speaking with someone in Langdale; existing campaign context includes Ben, but the transcript is not sufficiently clear to guarantee this is the same person."
+        },
+        {
+            "heard": "Lars",
+            "likely": "Elrus",
+            "notes": "The DM repeats a name as 'Lars' when Sylan is addressing the two hidden allies that Walker identifies as Elrus and Araden. Likely an ASR error, but the intended name is not completely certain from this isolated exchange."
+        },
+        {
+            "heard": "HollOrd",
+            "likely": "Ord",
+            "notes": "The transcript appears to merge a spoken name with surrounding words while discussing magical ability."
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": "The surrounding discussion is explicitly about the lich's phylactery."
+        },
+        {
+            "heard": "Bullich",
+            "likely": "the lich",
+            "notes": "The discussion concerns how a lich returns after bodily destruction."
+        },
+        {
+            "heard": "last isles / lost isles",
+            "likely": "Lost Isles",
+            "notes": "The DM corrects himself to 'Lost Isles' while describing the location of the training grounds."
+        }
+    ],
+    "openQuestions": [
+        "What exactly is the lich's mundane phylactery?",
+        "Are the chess or war-game pieces the lich repeatedly carries connected to his phylactery?",
+        "How exactly does the lich return after his body is destroyed?",
+        "How does the sending stone's once-per-day recharge interact with the accelerated passage of time in The Reach?"
+    ],
+    "newTerms": [
+        {
+            "name": "Sending Stone",
+            "notes": [
+                "A magical communication item associated with the party's ship that permits a 25-word message once per day.",
+                "Walker takes it to The Reach to communicate with the rest of the party during his scouting mission."
+            ]
+        },
+        {
+            "name": "Training Grounds",
+            "notes": [
+                "A location near the Lost Isles, in a group of mountains between three islands.",
+                "It is approximately five days of flight from the party's previous exit point near the Whispering Abyss."
+            ]
+        },
+        {
+            "name": "The Reach time differential",
+            "notes": [
+                "The party states that approximately seven days pass in The Reach for every one day outside it.",
+                "This creates uncertainty about how time-dependent magical items such as the sending stone function there."
+            ]
+        }
+    ]
+}

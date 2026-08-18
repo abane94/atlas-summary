@@ -1,0 +1,291 @@
+{
+    "plotSections": [
+        {
+            "title": "Choosing the Next Destination",
+            "bullets": [
+                "The party needs to track down the lich and considers investigating the lich's former hideout in The Reach for clues rather than returning to Nyx and interrogating hobgoblins.",
+                "The party discusses using their keystones and Walker's portal-opening ability to reach The Reach, but the Gate spell's maximum 20-foot diameter is too small to bring their boat through.",
+                "The party has another potential way to reach The Reach through a captain who regularly travels between realms, and they also have their own boat available.",
+                "The party has enough food and water aboard the boat, and there is a centrally located port city in The Reach where they could potentially resupply."
+            ]
+        },
+        {
+            "title": "The Party's Crew and Elrus",
+            "bullets": [
+                "The party confirms that their four surviving-and-revived crew members are Abel, Garrett, Bill, and Fritz. Dana remembers Garrett as the gunner and Abel as the helmsman; Fritz and Bill's exact roles remain unclear, although one is apparently a greenhorn.",
+                "Walker needs to take Elrus somewhere before the party leaves because he promised the very old man a place to stay. Instead, Walker discusses bringing Elrus along if the party returns to The Reach.",
+                "Elrus was already accompanying Walker because Walker had previously asked him to come along."
+            ]
+        },
+        {
+            "title": "Grixto, Galixtar, and the Training Grounds",
+            "bullets": [
+                "The party's possible trip to The Reach is also connected to the plan to hunt down Grixto and Galixtar and finally defeat them.",
+                "Walker believes the plan was prompted by a previous vision showing Grixto and Galixtar in caves near the training grounds.",
+                "The caves associated with the dragons are likely to have been uninhabited for a long time, making it uncertain whether Grixto is still there. Walker's own former roost in The Reach is likewise described as effectively empty.",
+                "The party considers sending Walker and Elrus ahead as a scouting team, but Walker warns that if they encounter Grixto, Elrus may not hold back and a fight could result. Sylan ultimately becomes skeptical that a scouting trip is worthwhile unless the whole party goes."
+            ]
+        },
+        {
+            "title": "Al Kurin",
+            "bullets": [
+                "Sylan asks about the Al Kurin seen in the previous vision. The DM explains that Grixto had been collecting Al Kurin from the other trainees, including juvenile dragons.",
+                "An Al Kurin is an object or vessel capable of being transported and contains the soul of a dragon, allowing the dragon's soul to be carried elsewhere.",
+                "The training grounds are within a couple of days' flight of the area where Walker had been staying, making Sylan question how Grixto could have remained hidden there while Walker was present."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party discusses whether to return to Langdale or pursue the lich in The Reach, settling on investigating the lich's former hideout for clues rather than immediately returning to Nyx.",
+        "Walker asks whether his portal can accommodate the party's boat; the DM clarifies that Gate creates a hole up to 20 feet in diameter, so the boat cannot pass through.",
+        "The party considers alternative transportation to The Reach, including their boat and a captain known to travel between realms.",
+        "The party confirms that their four crew members are Abel, Garrett, Bill, and Fritz, and Dana recalls that Garrett is the gunner and Abel is the helmsman.",
+        "Walker realizes he must address his promise to provide Elrus with a place to stay and asks whether Elrus would accompany the party back to The Reach.",
+        "The party discusses hunting Grixto and Galixtar in The Reach based on a previous vision of them near caves by the training grounds.",
+        "The party considers scouting the area with Walker and Elrus rather than taking everyone, but Walker warns that an encounter with Grixto would likely become a fight.",
+        "Sylan asks Elrus about the Al Kurin from the vision and learns that Grixto had been collecting these dragon-soul vessels from trainees, including juvenile dragons.",
+        "After learning the training grounds are only a couple of days' flight from Walker's former location, Sylan concludes that Grixto is unlikely to still be hiding there unless the whole party investigates."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Wants to investigate the lich's former hideout in The Reach for clues.",
+                "Has a portal-opening ability, but the Gate spell's maximum 20-foot diameter is insufficient for bringing the party's boat through.",
+                "Has a former roost in The Reach that he believes is empty.",
+                "Previously saw a vision involving Grixto and Galixtar near caves by the training grounds.",
+                "Has promised Elrus a place to stay and considers bringing him along to The Reach."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Concerned that an encounter with Grixto would inevitably turn into a fight if Elrus accompanies him."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Wants to locate the lich as quickly as possible and supports taking the fastest route to The Reach.",
+                "Suggests using information from people familiar with The Reach before committing to a dangerous investigation.",
+                "Questions whether Grixto could realistically still be hiding near the training grounds after learning how close the area is to Walker's former location.",
+                "Investigates the nature of the Al Kurin seen in the previous vision."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Becomes increasingly cautious about sending Walker and Elrus alone to investigate Grixto."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and the group's most knowledgeable member.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Correctly recalls the party's fourth crew member as Fritz.",
+                "Confirms that the party's crew members died previously but were revived through her efforts.",
+                "Remembers Garrett as the gunner and Abel as the helmsman."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Very old man accompanying Walker.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker has promised Elrus a place to stay.",
+                "Elrus is willing to accompany Walker because Walker had previously asked him to come along.",
+                "Walker believes Elrus would probably become involved in a fight if they encountered Grixto."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Proxy associated with the campaign's main antagonist.",
+            "entityType": "NPC",
+            "notes": [
+                "May have used caves near the dragon training grounds as a hideout.",
+                "Was collecting Al Kurin from other trainees, including juvenile dragons.",
+                "It is unclear whether Grixto remains at the training grounds or elsewhere."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is Grixto still hiding near the training grounds in The Reach?"
+            ]
+        },
+        "Galixtar": {
+            "existing": "Dragon associated with Grixto.",
+            "entityType": "NPC",
+            "notes": [
+                "Appeared alongside Grixto in the previous vision near caves by the training grounds.",
+                "The party intends to hunt down and defeat Grixto and Galixtar."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abel": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "One of the party's four surviving-and-revived crew members.",
+                "Serves as the boat's helmsman."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Garrett": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "One of the party's four surviving-and-revived crew members.",
+                "Serves as the boat's gunner."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Bill": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "One of the party's four surviving-and-revived crew members.",
+                "Exact crew role is currently unclear."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Fritz": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "One of the party's four surviving-and-revived crew members.",
+                "Exact crew role is currently unclear; one of Fritz or Bill is described as a greenhorn."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Al Kurin": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A vessel or object containing the soul of a dragon.",
+                "Can be transported and carried to another location.",
+                "Grixto was collecting Al Kurin from other trainees, including juvenile dragons."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Reach": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Contains a former hideout or cave associated with the lich the party is seeking.",
+                "Contains Walker's former roost, which appears to have been uninhabited for a long time.",
+                "Contains the dragon training grounds and nearby caves associated with the previous vision of Grixto and Galixtar.",
+                "Has a port city that the party considers useful for resupplying."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gate spell": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Creates a portal with a diameter between 5 and 20 feet.",
+                "The party confirms that a 20-foot-diameter Gate is not large enough for their boat to pass through."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "NYX / next",
+            "likely": "Nyx",
+            "notes": "The party discusses returning to Nyx to deal with hobgoblins."
+        },
+        {
+            "heard": "slitch / lich",
+            "likely": "lich",
+            "notes": "Repeated context clearly concerns the lich the party is tracking."
+        },
+        {
+            "heard": "Gorixto / Garixo / Gorixto",
+            "likely": "Grixto",
+            "notes": "Context concerns the established NPC Grixto."
+        },
+        {
+            "heard": "Galixta",
+            "likely": "Galixtar",
+            "notes": "Context concerns the established dragon Galixtar associated with Grixto."
+        },
+        {
+            "heard": "MikGar / Mick / Mick or",
+            "likely": "Midgard",
+            "notes": "Walker is discussing whether Grixto might still be on the current realm rather than in The Reach."
+        },
+        {
+            "heard": "Alcurin / Al Kurin",
+            "likely": "Al Kurin",
+            "notes": "The term is discussed as a vessel containing the soul of a dragon."
+        },
+        {
+            "heard": "Elis / Elis",
+            "likely": "Elrus",
+            "notes": "Sylan explicitly addresses Elrus while asking about the vision and Al Kurin."
+        },
+        {
+            "heard": "Carl Ken / Carlkin",
+            "likely": "",
+            "notes": "Appears to be the name of a person the party considers consulting for information about The Reach; exact canonical spelling is uncertain."
+        },
+        {
+            "heard": "Benji",
+            "likely": "Benji",
+            "notes": "Newly referenced NPC; the party is uncertain where he currently is."
+        }
+    ],
+    "openQuestions": [
+        "Is Grixto still hiding in the caves near the dragon training grounds in The Reach?",
+        "What are the exact roles of Fritz and Bill aboard the party's boat?",
+        "Where is Benji currently located?",
+        "Can the party obtain useful information about Grixto or The Reach from Benji or the person transcribed as Carl Ken?"
+    ],
+    "newTerms": [
+        {
+            "name": "Al Kurin",
+            "notes": [
+                "A vessel containing the soul of a dragon; Grixto was collecting them from trainees, including juvenile dragons."
+            ]
+        },
+        {
+            "name": "Dragon Training Grounds",
+            "notes": [
+                "A location in or near The Reach where trainees and juvenile dragons were present; Grixto was reportedly collecting Al Kurin there."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "plotSections": [
+        {
+            "title": "Closing the Door and Returning",
+            "bullets": [
+                "Gerk and Sylan decide to step back through the door and close it, with the party preparing for an unstable transition.",
+                "The doorway causes reality around the boat to stretch and distort. When Gerk closes it, a quiet physical snap is followed by blinding light that traces the route the boat previously traveled in reverse.",
+                "The party braces themselves with ropes and one another because the transition appears potentially dangerous. Gerk jokes that Dana may need Feather Fall ready."
+            ]
+        },
+        {
+            "title": "The Door's Unexpected Consequence",
+            "bullets": [
+                "Gerk rolls a d10 as part of resolving the door's effect and gets a 5. The DM indicates the result is midway on the relevant chart: neither particularly good nor particularly bad.",
+                "The DM realizes the party has triggered an outcome he did not expect from opening the door on the boat and begins consulting additional rules/notes to resolve what happens.",
+                "Sylan frames Gerk's role as the Doorman as evidence that Gerk was meant to handle situations involving the doors, while Gerk jokes that Plymouth should have warned him."
+            ]
+        },
+        {
+            "title": "The Reach",
+            "bullets": [
+                "The DM checks on Walker and asks him to describe conditions in The Reach.",
+                "Walker describes The Reach as being in fall, with crisp roughly 60-degree weather, changing autumn colors, floating jack-o'-lanterns, and a seasonal atmosphere.",
+                "Walker mentions the National Flying League, a flying sport compared jokingly to Quidditch, and warm apple cider being sold by a turtle-like person the party has encountered before."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk and Sylan agree to return through the door and close it.",
+        "The party prepares for the transition by holding onto ropes or nearby party members, while Gerk warns that Dana may need Feather Fall.",
+        "Closing the door causes reality around the boat to stretch and buckle before a quiet physical snap and a blinding light trace the boat's previous path in reverse.",
+        "Gerk rolls a d10 for the door's effect and gets a 5, producing a middling result on the relevant chart.",
+        "The DM realizes opening and closing the door on the boat has triggered an unexpected situation and consults additional rules and notes.",
+        "Sylan suggests that Gerk was meant to handle this because he is the Doorman, while Gerk jokes that Plymouth should have warned him.",
+        "The DM checks the state of The Reach through Walker, who describes an autumn season with crisp weather, changing leaves, floating jack-o'-lanterns, the National Flying League, and warm apple cider.",
+        "The party recalls a previous turtle-like person connected to a checkpoint, soup, and a figurehead from an earlier adventure, but the person's name is not recovered in this chunk."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador; holds the Midgard keystone and has the Doorman role.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Gerk takes responsibility for stepping through and closing the door.",
+                "Gerk rolls a d10 to resolve the door's effect and gets a 5.",
+                "Gerk is treated by Sylan as the party member specifically suited to handling the doors because of his Doorman role."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [
+                "Willing to take the lead on operating the door despite recognizing that it may be dangerous."
+            ],
+            "quotesThemes": [
+                "Gerk jokes that Plymouth should have warned him about the door's behavior."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue; last name Ivellio.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan accompanies Gerk through the door and prepares to secure himself with a rope.",
+                "Sylan argues that Gerk's Doorman role means he was meant to handle the door."
+            ],
+            "titles": [],
+            "personality": [
+                "Pragmatic and willing to experiment with the unusual doors despite the risks."
+            ],
+            "quotesThemes": [
+                "Sylan suggests that Gerk was meant to handle the situation because he is the Doorman."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and most knowledgeable member of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Dana is expected to be able to use Feather Fall if the door transition causes the party to fall.",
+                "The DM had apparently expected Dana to have a more significant role in resolving the situation, though the exact intended role is unclear from the transcript."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Reach": {
+            "existing": "Realm previously chosen by Walker as his keystone domain.",
+            "entityType": "Location",
+            "notes": [
+                "The Reach is experiencing fall during this scene, with crisp roughly 60-degree weather and autumn colors beginning to appear.",
+                "The Reach has floating jack-o'-lanterns and a culture in which things flying is apparently commonplace.",
+                "The National Flying League is beginning its season in The Reach."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Walker describes the Reach as crisp, autumnal, and heavily associated with things that fly."
+            ],
+            "openQuestions": []
+        },
+        "National Flying League": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A flying sport or league in The Reach, jokingly compared to Quidditch.",
+                "Its season is beginning during the autumn described by Walker."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer associated with the party's earlier adventures.",
+            "entityType": "NPC",
+            "notes": [
+                "Gerk jokingly blames Plymouth for not warning him about the dangers or behavior of the doors."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Gerk jokes that the party should tell Plymouth the door situation was his fault."
+            ],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Plumage",
+            "likely": "Plymouth Gawater",
+            "notes": "Gerk is clearly referring to the known gnome artificer Plymouth."
+        },
+        {
+            "heard": "Salon",
+            "likely": "Sylan",
+            "notes": "Sylan's own name is rendered as 'Salon' while discussing having previously considered the door situation."
+        },
+        {
+            "heard": "Gark",
+            "likely": "Gerk",
+            "notes": "Sylan refers to Gerk as 'Gark' during the discussion of who is in danger."
+        },
+        {
+            "heard": "Dirk",
+            "likely": "Gerk",
+            "notes": "The party is discussing what Gerk gave to the previously encountered turtle-like NPC."
+        },
+        {
+            "heard": "Glimmons",
+            "likely": "Glimmen",
+            "notes": "The known dragon associated with Walker is Glimmen; the transcript renders the name as 'Glimmons.'"
+        },
+        {
+            "heard": "Sunder Chase",
+            "likely": "Sunder Chase",
+            "notes": "The term appears repeatedly as a known seasonal or event-related reference, but its exact nature is not established in this chunk."
+        },
+        {
+            "heard": "Duke Iker",
+            "likely": "",
+            "notes": "The phrase is unclear in context and may be a name or unrelated transcription artifact."
+        },
+        {
+            "heard": "data",
+            "likely": "Dana",
+            "notes": "Gerk appears to address Dana while discussing Feather Fall."
+        },
+        {
+            "heard": "party re entr or party um",
+            "likely": "party re-entry",
+            "notes": "The DM appears to be searching for terminology/rules related to the party returning through the door."
+        }
+    ],
+    "openQuestions": [
+        "What exactly happens as a result of the d10 chart after Gerk rolls a 5?",
+        "What specific role was Dana expected to have in resolving the door situation?",
+        "What is the name of the turtle-like NPC encountered previously at the checkpoint?",
+        "What is the significance of the National Flying League and the Sunder Chase in The Reach?"
+    ],
+    "newTerms": [
+        {
+            "name": "National Flying League",
+            "notes": [
+                "A flying sport or league in The Reach, described as similar to Quidditch."
+            ]
+        }
+    ]
+}

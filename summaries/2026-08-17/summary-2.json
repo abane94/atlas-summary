@@ -1,0 +1,309 @@
+{
+    "plotSections": [
+        {
+            "title": "Deciding Where to Search for Grixto",
+            "bullets": [
+                "Walker considers returning to The Reach with Elrus to investigate the vision showing Grixto and Galixtar near the training grounds, while the rest of the party could return to Langdale for information.",
+                "The group concludes that the old roost in The Reach has probably been uninhabited for a long time, and Grixto could have moved elsewhere after gaining the ability to travel through arches. Walker agrees that finding him there is unlikely, but wants to exhaust the lead.",
+                "Sylan argues that a scouting mission is safer than a full confrontation and wants any eventual fight with Grixto to happen when the entire party is together."
+            ]
+        },
+        {
+            "title": "The Al Kurin and the Training Grounds",
+            "bullets": [
+                "The group clarifies that Grixto had been collecting Al Kurin from the other trainees at the training grounds, including juvenile dragons.",
+                "The Al Kurin are vessels capable of containing the soul of a dragon and can be transported elsewhere, meaning the collected vessels do not necessarily remain at the training grounds.",
+                "The training grounds are within a couple of days' flight of Walker's former residence in The Reach, making it difficult to believe Grixto would remain there unnoticed for an extended period."
+            ]
+        },
+        {
+            "title": "Investigating the Lich and His Phylactery",
+            "bullets": [
+                "The party remains uncertain about Grixto's current location and his phylactery despite having learned more about him.",
+                "The party believes Grixto's phylactery is a mundane object that he keeps on his person. They have repeatedly noticed him carrying or displaying small chess-like or war-game pieces, leading Sylan to speculate that the phylactery could be part of a chess set.",
+                "The party discusses their existing lore on phylacteries and confirms that one is a vessel containing a lich's soul, though the available lore does not explain the precise mechanics of how the lich returns after being destroyed."
+            ]
+        },
+        {
+            "title": "The Keystone and the Scouting Mission",
+            "bullets": [
+                "Walker wants to visit The Reach partly because he can recharge his gems there. Sylan supports the trip as long as Walker treats it strictly as a scouting mission.",
+                "Sylan suggests Walker leave his keystone with the rest of the party for safety, but Walker insists on retaining it, noting that he has held onto the party's keystones in previous situations.",
+                "The party discusses the danger of concentrating multiple keystones in one Bag of Holding, since doing so could make the bag an especially valuable target.",
+                "Walker plans to take Elrus and Araden, giving the scouting group access to two dragons. The party also notes that Araden is highly skilled in magic."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker tells Elrus that the party may return to The Reach and asks whether he wants to accompany them or remain in Midgard.",
+        "The party discusses hunting down Grixto and Galixtar, following a vision of them near the training grounds in The Reach.",
+        "Walker explains that the old roost in The Reach appears largely abandoned and that he has already searched there without finding anything.",
+        "The party considers sending Walker and a companion on a scouting mission while the others return to Langdale to question people who may know more about The Reach.",
+        "Sylan asks about the Al Kurin seen in the vision; the DM explains that Grixto had collected Al Kurin from other trainees, including juvenile dragons, and that the vessels can transport dragon souls.",
+        "The party decides the training grounds are unlikely to be Grixto's current hiding place because the Al Kurin could have been moved and the area is close enough to Walker's former residence that Grixto would have been difficult to conceal there.",
+        "The party discusses Grixto's phylactery and confirms that it is believed to be a mundane object kept on his person; Sylan notes his recurring chess-like pieces as a possible clue.",
+        "Walker and Sylan agree that The Reach is worth investigating before abandoning the lead, but Walker should avoid engaging Grixto unless necessary.",
+        "Walker explains that he wants to keep Araden and Elrus's capabilities hidden from Grixto so they can serve as a secret weapon in a future decisive confrontation.",
+        "Walker plans to travel to The Reach with Elrus and Araden, while the rest of the party can continue gathering information elsewhere."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Wants to investigate The Reach because of the vision showing Grixto and Galixtar near the training grounds.",
+                "Has previously visited his old area in The Reach without being attacked or finding Grixto.",
+                "Plans to treat the return to The Reach as a scouting mission rather than actively seeking a fight.",
+                "Wants to keep Araden and Elrus as secret weapons whose capabilities Grixto does not know about.",
+                "Wants to recharge his gems while in The Reach."
+            ],
+            "titles": [],
+            "personality": [
+                "Willing to take risks to exhaust a possible lead, but agrees that fighting Grixto prematurely would be undesirable."
+            ],
+            "quotesThemes": [
+                "Grixto learns one of the party's weaknesses whenever they fight him, so Walker wants to preserve their hidden advantages for the final confrontation."
+            ],
+            "openQuestions": [
+                "Is Grixto currently hiding somewhere in The Reach?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue, last name Ivellio.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Pushes for a cautious scouting mission rather than an immediate confrontation with Grixto.",
+                "Suggests questioning knowledgeable people in Langdale for information before committing to a dangerous search.",
+                "Identifies Grixto's recurring chess-like pieces as a possible clue to the identity or location of his phylactery.",
+                "Raises concerns about the danger of concentrating multiple keystones in one Bag of Holding."
+            ],
+            "titles": [],
+            "personality": [
+                "Cautious and focused on ensuring the party confronts Grixto only when prepared."
+            ],
+            "quotesThemes": [
+                "Sylan wants the eventual fight with Grixto to be a final confrontation with the entire party together."
+            ],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Previously established NPC/companion associated with Walker.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker intends to bring Elrus with him on the scouting mission into The Reach.",
+                "Elrus is expected to be capable of confronting Grixto alongside Walker if they encounter him, though Walker worries Elrus may not hold back."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "Previously established NPC/companion associated with the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker intends to bring Araden to The Reach as part of the scouting group.",
+                "The party believes Araden is an ancient dragon and is highly skilled in magic.",
+                "Walker considers Araden one of the party's secret weapons that Grixto does not yet know about."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Proxy and recurring antagonist associated with the party's hunt for the lich.",
+            "entityType": "NPC",
+            "notes": [
+                "A vision showed Grixto near the training grounds in The Reach alongside Galixtar.",
+                "Grixto had been collecting Al Kurin from other trainees, including juvenile dragons.",
+                "He can apparently move between arches, so the party cannot assume he remains in The Reach.",
+                "The party believes his phylactery is a mundane object that he keeps on his person.",
+                "He has repeatedly been seen with small chess-like or war-game pieces, which may provide a clue to his phylactery."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Every previous fight with Grixto has allowed him to learn something about the party's weaknesses."
+            ],
+            "openQuestions": [
+                "Where is Grixto currently located?",
+                "What exactly is Grixto's phylactery?",
+                "Why was Grixto collecting Al Kurin from the trainees?"
+            ]
+        },
+        "Galixtar": {
+            "existing": "Previously established dragon associated with Grixto.",
+            "entityType": "NPC",
+            "notes": [
+                "A vision showed Galixtar near the training grounds in The Reach with Grixto.",
+                "The party still intends to hunt down and vanquish Galixtar and Grixto when they are prepared."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is Galixtar currently in The Reach?"
+            ]
+        },
+        "The Reach": {
+            "existing": "Previously established realm/location; chosen by Walker as his keystone domain.",
+            "entityType": "Location",
+            "notes": [
+                "Walker is considering returning to The Reach to investigate the vision of Grixto and Galixtar.",
+                "Walker previously stayed there for an extended period and searched his old roost without finding anything.",
+                "The old roost is apparently uninhabited and may have been abandoned for a long time.",
+                "The training grounds are within a couple of days' flight of Walker's former residence.",
+                "Walker can recharge his gems while in The Reach."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Al Kurin": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Al Kurin are vessels capable of containing the soul of a dragon.",
+                "Grixto had been collecting them from other trainees at the training grounds, including juvenile dragons.",
+                "They can be transported away from the location where they were collected."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Why was Grixto collecting the Al Kurin?"
+            ]
+        },
+        "Phylactery": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The party's lore describes a phylactery as a vessel containing a lich's soul.",
+                "The party believes Grixto's phylactery is a mundane object that he keeps on his person.",
+                "The available lore does not explain the exact mechanism by which the lich returns after being destroyed.",
+                "Grixto's recurring chess-like pieces may be connected to his phylactery."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What specific object is Grixto's phylactery?"
+            ]
+        },
+        "Last Word Chasm": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Grixto's former or associated roost is compared with a roost at Last Word Chasm, which is described as having also been uninhabited for a long period."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Benji": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "The party considers asking Benji for information because he has frequented The Reach many times.",
+                "The party is uncertain where Benji currently is and recalls that he may have been left at their bar."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Where is Benji currently located?"
+            ]
+        },
+        "Carlkin": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "The party considers asking Carlkin for information about The Reach or Grixto.",
+                "Sylan recalls Carlkin as the turtle-like person and believes he is currently back in Langdale."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What information does Carlkin have about Grixto or The Reach?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "MikGar / Mick",
+            "likely": "Midgard",
+            "notes": "Used as the location contrasted with The Reach."
+        },
+        {
+            "heard": "Garixo / Gorixto",
+            "likely": "Grixto",
+            "notes": "Recurring antagonist; canonical campaign spelling is Grixto."
+        },
+        {
+            "heard": "Galixta",
+            "likely": "Galixtar",
+            "notes": "Previously established dragon associated with Grixto."
+        },
+        {
+            "heard": "Alcurin / Al Kurin",
+            "likely": "Al Kurin",
+            "notes": "New term describing vessels containing dragon souls."
+        },
+        {
+            "heard": "Elis / Lars",
+            "likely": "Elrus",
+            "notes": "Context suggests the speaker is referring to Elrus, but the transcription varies substantially."
+        },
+        {
+            "heard": "Raedon / Araden",
+            "likely": "Araden",
+            "notes": "Walker identifies Araden as one of the hidden allies he wants to keep secret from Grixto."
+        },
+        {
+            "heard": "Bullich",
+            "likely": "lich",
+            "notes": "Occurs during discussion of how a lich returns from its phylactery."
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": "The surrounding discussion is explicitly about the vessel containing the lich's soul."
+        },
+        {
+            "heard": "Langdao",
+            "likely": "Langdale",
+            "notes": "Established campaign location."
+        },
+        {
+            "heard": "Knicks",
+            "likely": "",
+            "notes": "Appears in the phrase contrasting The Reach with another possible destination; intended location is unclear."
+        }
+    ],
+    "openQuestions": [
+        "Where is Grixto currently located?",
+        "What exactly is Grixto's phylactery?",
+        "Why was Grixto collecting the Al Kurin from the trainees?",
+        "Is Grixto or Galixtar currently hiding in The Reach?",
+        "Where is Benji currently located?",
+        "What information do Benji or Carlkin have about Grixto or The Reach?"
+    ],
+    "newTerms": [
+        {
+            "name": "Al Kurin",
+            "notes": [
+                "Vessels capable of containing the soul of a dragon; Grixto had been collecting them from trainees, including juvenile dragons."
+            ]
+        },
+        {
+            "name": "Last Word Chasm",
+            "notes": [
+                "A location associated with a roost that is described as having been uninhabited for a long period."
+            ]
+        }
+    ]
+}

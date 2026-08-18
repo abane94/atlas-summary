@@ -1,0 +1,239 @@
+{
+    "plotSections": [
+        {
+            "title": "The Doorkeeper's Magical Discharge",
+            "bullets": [
+                "The closing of the door/portal centered on Gerk and the Doorman role triggers a major magical discharge. Gerk and Sylan are the primary characters affected, with both making Wisdom saving throws; Sylan succeeds while Gerk fails.",
+                "As the door shuts, a strange magical light tracks back toward its original position and the world appears to snap back into cohesion. A wave of magical energy then washes over the ship.",
+                "Gerk is affected by a confusion effect and becomes unable to meaningfully move or act. Everyone else on the ship appears to blink out of existence from the affected characters' perspectives, leaving the party unable to see one another.",
+                "Dana and Sylan recognize the magical surge as reminiscent of the feeling experienced in the presence of deities. They realize that their spells are currently empowered in some unknown way.",
+                "A giant spectral, shining door appears near where Gerk had been. It is closed, majestic, hovering in place, and resembles Gerk's door when it is in shield form.",
+                "A thin, golden, semi-fluorescent line remains embedded through the ship along the path of the magical discharge, resembling a lightning strike without the destructive damage.",
+                "The party experiments with the strange separation. Ciri discovers that she can physically contact Sylan despite being unable to see him, while sounds and vibrations do not propagate normally between the separated individuals."
+            ]
+        },
+        {
+            "title": "The Party Attempts to Understand the Separation",
+            "bullets": [
+                "Dana compares the situation to what previously happened in La-rel, when the party was together but unable to see one another.",
+                "Ciri tests the invisible separation by swinging her hand through the air and eventually makes contact with Sylan. The contact is felt by Sylan but produces no corresponding sound.",
+                "Sylan tests the phenomenon by striking the boat. He can hear the impact himself, while the others cannot hear it; Ciri and Gerk can instead perceive the resulting vibration through the boat.",
+                "The party remains uncertain about the nature of the spectral door and the altered state of the ship."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The door/portal closes, triggering a magical discharge centered around Gerk and the Doorman.",
+        "Gerk and Sylan make Wisdom saving throws; Sylan succeeds while Gerk fails and is affected by confusion.",
+        "The magical surge causes everyone on the ship to disappear from one another's sight.",
+        "Dana and Sylan recognize the magical energy as similar to the presence of deities and learn that their spellcasting is temporarily enhanced.",
+        "A giant spectral closed door appears near Gerk, resembling his door in shield form.",
+        "A golden, shimmering magical line is left embedded through the ship along the path of the discharge.",
+        "The party discovers that they cannot normally see or hear one another, though physical contact and vibrations through the ship can still cross the separation.",
+        "Ciri deliberately tests the phenomenon and strikes Sylan, confirming that unseen physical contact is possible.",
+        "Sylan strikes the boat and discovers that the others cannot hear the impact, though Ciri and Gerk can perceive the boat's vibration.",
+        "The DM confirms that the party had only traveled a short distance before the event occurred."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador; holder of the Midgard keystone and associated with the Doorman role.",
+            "entityType": "PLAYER",
+            "notes": [
+                "The magical event is centered on Gerk and the Doorman aspect of his power.",
+                "Gerk fails the Wisdom saving throw and is immediately affected by a confusion effect.",
+                "While confused, Gerk is unable to meaningfully move or take actions and cannot understand what is happening.",
+                "A giant spectral door appears near where Gerk had been after the magical discharge.",
+                "The spectral door resembles Gerk's door when it is in shield form."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "Gerk's connection to the Doorman/door appears directly tied to the magical event."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue; last name Ivellio.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan succeeds on the Wisdom saving throw associated with the magical event and avoids the confusion effect.",
+                "Sylan experiences magical energy reminiscent of being in the presence of deities and understands that his spells are temporarily empowered.",
+                "Sylan can physically feel contact from Ciri despite being unable to see her.",
+                "Sylan can hear his own impacts against the boat, but the other separated party members cannot hear them."
+            ],
+            "titles": [],
+            "personality": [
+                "Sylan immediately takes an investigative approach to the strange phenomenon and experiments with the environment."
+            ],
+            "quotesThemes": [
+                "Sylan compares the situation to the party's previous experience in La-rel."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and the most knowledgeable member of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Dana is separated from the other party members and cannot see them.",
+                "Dana recognizes the situation as potentially similar to the party's previous experience in La-rel.",
+                "Dana experiences the magical surge as reminiscent of being in the presence of deities and understands that spellcasting is temporarily enhanced."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Dana immediately considers the possibility that the party is experiencing another La-rel-like separation."
+            ],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Female half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Ciri cannot see the other party members after the magical event.",
+                "Ciri tests whether another person is physically present by swinging her hand through the air.",
+                "Ciri eventually makes physical contact with Sylan despite being unable to see him, confirming that the separation does not prevent physical contact.",
+                "Ciri does not hear the contact she makes with Sylan."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Ciri uses physical experimentation to determine whether the other party members are still present."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Ord is established as being within roughly thirty feet of the central situation but positioned away from the immediate action."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A giant spectral, shining door appears hovering near where Gerk had been after the magical discharge.",
+                "The door is closed and has no visible opening or contents.",
+                "Its appearance is majestic and strongly resembles Gerk's door in shield form.",
+                "Its connection to the Doorman event is not yet explained."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the purpose or origin of the giant spectral door that appeared near Gerk?"
+            ]
+        },
+        "Golden Magical Track": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A thin golden, semi-fluorescent line remains embedded through the ship after the magical discharge.",
+                "The line follows the path of the magical event like a lightning strike but does not leave a burnt or damaged crevice."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the golden line left through the ship, and what does it signify?"
+            ]
+        },
+        "Confusion Effect": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Gerk is affected by a confusion spell following his failed Wisdom saving throw.",
+                "The effect leaves Gerk incoherent and unable to move or take meaningful actions."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Deity-like Magical Surge": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Dana and Sylan recognize the magical energy surrounding the event as similar to the sensation experienced in the presence of deities.",
+                "At least Dana and Sylan understand that their spellcasting is temporarily enhanced while this magical state persists."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The magical energy is strongly associated with the party's prior experiences with deities."
+            ],
+            "openQuestions": [
+                "How exactly are Dana and Sylan's spells enhanced by the magical energy?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Pylon",
+            "likely": "",
+            "notes": "Appears to be a person or entity standing near Gerk, but there is not enough context in this chunk to determine the intended name."
+        },
+        {
+            "heard": "Proctor",
+            "likely": "",
+            "notes": "Occurs in the description of where the magical surge happens and is likely an ASR error or malformed phrase."
+        },
+        {
+            "heard": "Faron",
+            "likely": "",
+            "notes": "Ciri refers to moving to where Faron was on the boat, but no established entity named Faron is provided in the campaign context."
+        },
+        {
+            "heard": "Barry",
+            "likely": "Ciri",
+            "notes": "The speaker is identified as Ciri immediately afterward, making 'Barry' likely an ASR artifact rather than a separate character."
+        },
+        {
+            "heard": "Sylant",
+            "likely": "Sylan",
+            "notes": "Repeated alternate transcription of Sylan's name."
+        },
+        {
+            "heard": "Dor",
+            "likely": "Ord",
+            "notes": "The DM explicitly follows this with 'that being Ord, Ciri and Dana,' indicating that Dor refers to Ord."
+        },
+        {
+            "heard": "Vital",
+            "likely": "",
+            "notes": "Gerk mentions waiting for Vital to leave the Castle, but no established NPC named Vital is provided and the context does not establish the intended name."
+        }
+    ],
+    "openQuestions": [
+        "What is the purpose or origin of the giant spectral door that appeared near Gerk?",
+        "What is the golden magical line left embedded through the ship, and what does it signify?",
+        "How exactly are Dana and Sylan's spells enhanced by the deity-like magical energy?"
+    ],
+    "newTerms": [
+        {
+            "name": "Spectral Door",
+            "notes": [
+                "A giant, closed, hovering magical door that appears near Gerk following the Doorman-related magical discharge.",
+                "It resembles Gerk's door in shield form."
+            ]
+        },
+        {
+            "name": "Golden Magical Track",
+            "notes": [
+                "A golden, semi-fluorescent line left running through the ship after the magical discharge."
+            ]
+        },
+        {
+            "name": "Deity-like Magical Surge",
+            "notes": [
+                "A magical state resembling the sensation of being in the presence of deities that temporarily enhances spellcasting for at least Dana and Sylan."
+            ]
+        }
+    ]
+}

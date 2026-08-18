@@ -1,0 +1,256 @@
+{
+    "plotSections": [
+        {
+            "title": "The Door's Reality Tear",
+            "bullets": [
+                "Gerk and Sylan determine that the door is holding open a dangerous distortion and that closing it may cause significant effects.",
+                "The door's effects appear connected to movement: opening it while the ship was moving caused reality to stretch along the ship's path, with the ship briefly seeming to exist in two places at once.",
+                "The distortion is not limited to the door itself. Individuals can pass through the distorted area, and the ship can physically overlap the doorway without being impeded, suggesting that reality has been stretched between the ship's former and current positions.",
+                "Gerk believes he should remain aboard and close the door because he opened it and might die if closing it causes a catastrophic reaction."
+            ]
+        },
+        {
+            "title": "Evacuation and Preparation",
+            "bullets": [
+                "Mahali brings Gerk and Sylan leftover breakfast rolls with preserves and freshly churned butter before they attempt to close the door.",
+                "Because the effects of the door are not fully understood, Sylan recommends evacuating the stronghold. Mahali and the residents leave the area, while guards including Koji, Ponchi, and Bo relocate to the tavern.",
+                "The party establishes that they have some time before closing the door and prepares ropes and other precautions in case the closure causes them to fall or otherwise be displaced.",
+                "Gerk and Sylan proceed with closing the door while Dana, Ciri, and Ord remain involved in preparing for the result."
+            ]
+        },
+        {
+            "title": "Closing the Door",
+            "bullets": [
+                "Gerk steps through the door and again feels a temporal or dimensional shift, described as passing through a semi-thick barrier.",
+                "When Gerk shuts the door, reality around the ship stretches and buckles. A quiet physical sound accompanies the closure, followed by a blinding light originating around the former edges of the door.",
+                "The light follows the stretched path through the center of the ship, tracing the route between where the ship started and where it ended.",
+                "Gerk rolls a 5 on a d10 as part of resolving the door's effects. The DM indicates that this is a middling result and references another chart for the outcome.",
+                "The final consequences of the door closure are not yet resolved by the end of this chunk; the DM pauses to allow the players to take any final actions before determining what happened."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk explains that the door appears to be responsible for keeping the reality distortion open and believes closing it will trigger something.",
+        "Gerk decides he should remain on the ship because he caused the problem and jokes about wanting a final snack if he dies.",
+        "Mahali brings breakfast rolls, preserves, and butter to the party.",
+        "The DM explains that the door appears to open where Gerk opened it and that movement seems to affect the resulting reality distortion.",
+        "Gerk recalls that when the ship was moving during earlier door openings, the ship appeared to stretch and briefly occupy two places at once.",
+        "Sylan recommends evacuating the stronghold, and Mahali and the residents relocate to the tavern.",
+        "The party waits for the evacuation and prepares to close the door, including ropes and precautions against falling.",
+        "Gerk steps back through the door and feels the temporal or dimensional barrier before closing it.",
+        "Closing the door causes reality around the ship to stretch and buckle, followed by a blinding light tracing the distorted path through the ship.",
+        "Gerk rolls a 5 on a d10 to determine the result of the door event; the DM indicates another chart will determine the specific outcome.",
+        "The chunk ends while the DM is preparing to resolve the consequences of the door closure."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Believes closing the door may be dangerous enough to kill him because he caused the distortion.",
+                "Recognizes that movement while using the door appears to stretch reality and may cause the ship to occupy multiple positions.",
+                "Takes responsibility for closing the door and prepares to do so despite the risk.",
+                "Feels the temporal or dimensional barrier again immediately before closing the door.",
+                "Rolls a 5 on a d10 during the resolution of the door's effects."
+            ],
+            "titles": [],
+            "personality": [
+                "Shows a strong sense of responsibility and willingness to accept personal risk for problems he caused.",
+                "Uses humor and food as a coping mechanism despite the potentially lethal situation."
+            ],
+            "quotesThemes": [
+                "Gerk repeatedly treats the possibility of his death with humor while still taking responsibility for the danger."
+            ],
+            "openQuestions": [
+                "What exactly happens as a result of Gerk's d10 roll and the subsequent chart?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue, last name Ivellio.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Recognizes that the situation may be dangerous enough to warrant evacuating the stronghold.",
+                "Helps Gerk prepare to close the door and stays with him using a rope as a precaution.",
+                "Believes the party's role as doorkeepers gives them some confidence that they can handle the situation.",
+                "Remains confident that the party will survive despite the dangerous reality distortion."
+            ],
+            "titles": [],
+            "personality": [
+                "Practical and cautious about the immediate danger, particularly regarding evacuation and physical safety.",
+                "Maintains confidence and humor under pressure."
+            ],
+            "quotesThemes": [
+                "The party are 'the doorkeepers,' reinforcing their responsibility for handling the doors."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and most knowledgeable member of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is visibly flabbergasted by the reality distortion and admits that the party does not fully understand the mechanism behind it.",
+                "Participates in preparing for the door closure and appears ready to use Feather Fall if necessary.",
+                "The DM implies Dana may have been expected to be more involved in understanding or handling the situation, though the exact intended role is unclear."
+            ],
+            "titles": [],
+            "personality": [
+                "Frustrated by being blamed for failing to supervise a mechanism the party does not understand."
+            ],
+            "quotesThemes": [
+                "Dana emphasizes that it is difficult to supervise something whose mechanisms are not fully understood."
+            ],
+            "openQuestions": [
+                "What role was Dana expected to play in resolving or understanding the door event?"
+            ]
+        },
+        "Mahali": {
+            "existing": "NPC associated with the party's stronghold.",
+            "entityType": "NPC",
+            "notes": [
+                "Provides the party with leftover breakfast rolls, preserves, and freshly churned butter before the dangerous door closure.",
+                "Helps evacuate the stronghold's residents to the tavern after Sylan raises concerns about the reality distortion."
+            ],
+            "titles": [],
+            "personality": [
+                "Hospitable and willing to provide food even during an unexpected and dangerous situation."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ringdale Stronghold": {
+            "existing": "The party's stronghold.",
+            "entityType": "Location",
+            "notes": [
+                "The stronghold is evacuated because the consequences of closing the distorted door are uncertain.",
+                "Mahali and the residents relocate to the tavern while the party handles the door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "The door can create a connection that appears to stretch reality between the point where it is opened and the destination or position of the ship.",
+                "Opening the door while the ship is moving appears particularly dangerous, potentially causing the ship to exist in two places at once or causing reality to stretch along its path.",
+                "Individuals can pass through the distorted doorway even though the ship itself is not simply stopped or blocked by the opening.",
+                "Closing the door produces a blinding light that follows the stretched path through the ship before the final outcome is determined by a d10/chart system."
+            ],
+            "titles": [
+                "Doorkeeper's Door"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "The party's newly established identity as doorkeepers is directly tied to their responsibility for managing these dangerous doors."
+            ],
+            "openQuestions": [
+                "What are the full rules governing the doors?",
+                "What happens when a door is closed after reality has been stretched?",
+                "What determines the destination and severity of the door's reality distortion?"
+            ]
+        },
+        "Koji": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Is named as one of the guards who will evacuate the stronghold and relocate to the tavern."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ponchi": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Is named as one of the guards who will evacuate the stronghold and relocate to the tavern."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Bo": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Is named as one of the guards who will evacuate the stronghold and relocate to the tavern."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Mahale",
+            "likely": "Mahali",
+            "notes": "The NPC is referred to elsewhere in the campaign as Mahali; context indicates this is the same character bringing food and helping evacuate the stronghold."
+        },
+        {
+            "heard": "Ringdale",
+            "likely": "Ringdale",
+            "notes": "The transcript's pronunciation/spelling is potentially uncertain, but it appears to refer to the party's stronghold."
+        },
+        {
+            "heard": "data",
+            "likely": "Dana",
+            "notes": "Occurs when characters address or refer to Dana during the door-closing sequence."
+        },
+        {
+            "heard": "Salin",
+            "likely": "Sylan",
+            "notes": "Occurs in dialogue referring to Sylan."
+        },
+        {
+            "heard": "Sylant",
+            "likely": "Sylan",
+            "notes": "Occurs when Gerk addresses Sylan."
+        },
+        {
+            "heard": "the store",
+            "likely": "the door",
+            "notes": "Context is the door holding the reality distortion open."
+        },
+        {
+            "heard": "reality tears or stretches",
+            "likely": "reality tears or stretches",
+            "notes": "The transcript varies between 'tear,' 'stretch,' and similar wording; these appear to describe the same dimensional phenomenon."
+        },
+        {
+            "heard": "D ten chart",
+            "likely": "d10 chart",
+            "notes": "The DM explicitly describes a d10 roll and says the result corresponds to another chart."
+        }
+    ],
+    "openQuestions": [
+        "What is the final result of the d10 roll and the referenced chart?",
+        "What happens to the ship and party after the door is successfully closed?",
+        "What are the established rules or limitations governing the doors and their reality-stretching effects?",
+        "Why does movement, particularly movement of the ship, cause the door to stretch reality along the ship's path?"
+    ],
+    "newTerms": [
+        {
+            "name": "Reality Tear / Reality Stretch",
+            "notes": [
+                "A phenomenon produced by the door in which reality appears to stretch between locations, potentially causing objects or locations to overlap or exist in multiple positions."
+            ]
+        },
+        {
+            "name": "Door Closure Chart",
+            "notes": [
+                "A game mechanic used by the DM to determine the consequences of closing the door, involving at least a d10 roll and another chart."
+            ]
+        },
+        {
+            "name": "Doorkeepers",
+            "notes": [
+                "Sylan explicitly identifies the party as the doorkeepers, reinforcing their role and responsibility regarding the mysterious doors."
+            ]
+        }
+    ]
+}

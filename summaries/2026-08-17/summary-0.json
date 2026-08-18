@@ -1,0 +1,268 @@
+{
+    "plotSections": [
+        {
+            "title": "Planning the Route to The Reach",
+            "bullets": [
+                "The party discussed returning to Langdale but decided their more immediate goal is tracking down the lich who previously had a hideout or cave in The Reach.",
+                "Sylan suggested investigating the lich's old hideout for clues; otherwise, the party may have to return to Nyx and interrogate hobgoblins to learn where the lich is hiding.",
+                "The party considered using Walker's portal ability to transport their boat, but the DM clarified that the Gate spell creates a 5-to-20-foot-diameter opening, so it cannot accommodate their boat unless the vessel can fit through a 20-foot opening.",
+                "The party has multiple ways to reach The Reach, including their boat and a captain who regularly travels between realms. Sylan favored whichever option gets them to the lich most quickly.",
+                "The party noted that their boat has food and water supplies and can potentially resupply at a centrally located port city in The Reach."
+            ]
+        },
+        {
+            "title": "The Party's Ship and Crew",
+            "bullets": [
+                "The party confirmed that their four surviving-and-revived crew members are Abel, Garrett, Bill, and Fritz.",
+                "Abel is the helmsman and Garrett is the gunner. Fritz and Bill's exact roles are not currently remembered, although one is believed to be a greenhorn.",
+                "Dana clarified that some crew members had previously died but were revived, with Dana having invested significant effort and spells into keeping them alive.",
+                "Walker raised another obligation before departing: he needs to take Elrus somewhere."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party discussed whether to return to Langdale and instead focused on investigating the lich's old hideout in The Reach.",
+        "Sylan proposed searching the lich's former cave for clues rather than returning to Nyx to interrogate hobgoblins.",
+        "Walker asked whether his portal could be used to bring the party's boat through.",
+        "The DM clarified that Gate produces a 5-to-20-foot-diameter opening and that the boat cannot fit unless it is within the 20-foot limit.",
+        "The party considered traveling to The Reach by boat or using a captain who regularly travels between realms, with speed being the main consideration.",
+        "The party confirmed they have food and water aboard and could resupply at a port city in The Reach.",
+        "The crew was identified as Abel, Garrett, Bill, and Fritz; Dana clarified that previously dead crew members had been revived.",
+        "Dana identified Garrett as the gunner and Abel as the helmsman, while Fritz and Bill's roles remained uncertain.",
+        "Walker noted that he still needs to take Elrus somewhere."
+    ],
+    "entities": {
+        "The Reach": {
+            "existing": "A realm where the party knows the lich previously maintained a hideout or cave.",
+            "entityType": "Location",
+            "notes": [
+                "The party is considering traveling to The Reach to investigate the lich's former hideout for clues.",
+                "The Reach has a port city that the party considers centrally located enough to serve as a potential resupply point."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lich": {
+            "existing": "An unidentified lich the party is actively trying to track down.",
+            "entityType": "NPC",
+            "notes": [
+                "The lich previously had a hideout or cave in The Reach.",
+                "The party intends to investigate the old hideout for clues about the lich's current whereabouts.",
+                "If the party does not find useful information in The Reach, they may return to Nyx and interrogate hobgoblins for information."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Where is the lich currently hiding?",
+                "What clues remain at the lich's former hideout in The Reach?"
+            ]
+        },
+        "Nyx": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The party may need to return to Nyx if investigating the lich's former hideout does not reveal enough information.",
+                "The party expects hobgoblins in Nyx may know where the lich is hiding."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Walker has a portal-related ability involving a Gate or similar effect and asked whether it could create an opening large enough for the party's boat.",
+                "Walker needs to take Elrus somewhere before or during the party's travel plans."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Where does Walker need to take Elrus?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan strongly favors tracking down the lich as quickly as possible.",
+                "Sylan proposed investigating the lich's old hideout in The Reach before returning to Nyx."
+            ],
+            "titles": [],
+            "personality": [
+                "Prioritizes finding the lich quickly and avoiding a return to Nyx."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and the most knowledgeable member of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Dana confirmed that some of the party's crew members had previously died and were subsequently revived.",
+                "Dana put significant effort and spells into keeping the crew members alive.",
+                "Dana identified Garrett as the gunner and Abel as the helmsman."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abel": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Abel is one of the party's four crew members.",
+                "Abel serves as the ship's helmsman."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Garrett": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Garrett is one of the party's four crew members.",
+                "Garrett serves as the ship's gunner."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Fritz": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Fritz is one of the party's four crew members.",
+                "Fritz's exact shipboard role is currently unknown."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is Fritz's role aboard the ship?"
+            ]
+        },
+        "Bill": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Bill is one of the party's four crew members.",
+                "Bill's exact shipboard role is currently unknown.",
+                "One of Bill or Fritz is believed to be a greenhorn, but the party does not remember which."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is Bill's role aboard the ship?",
+                "Is Bill the crew's greenhorn?"
+            ]
+        },
+        "Gate": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The DM clarified that Gate creates a portal with a diameter between 5 and 20 feet.",
+                "The maximum 20-foot diameter is insufficient for the party's boat to pass through.",
+                "Gate is distinct from Plane Shift."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Walker stated that he needs to take Elrus somewhere."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Where does Walker need to take Elrus?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "c hide cave",
+            "likely": "hide cave / hideout",
+            "notes": "Sylan is describing the lich's former hideout in The Reach."
+        },
+        {
+            "heard": "NYX / next",
+            "likely": "Nyx",
+            "notes": "The transcript alternates between 'NYX' and 'next' while discussing returning to a location to interrogate hobgoblins."
+        },
+        {
+            "heard": "Le Portal",
+            "likely": "portal",
+            "notes": "Walker is referring to his portal ability."
+        },
+        {
+            "heard": "fun cube",
+            "likely": "fun cube",
+            "notes": "Likely a named magical item or ability used by Walker to open portals; exact canonical name is unclear from this chunk."
+        },
+        {
+            "heard": "Astro",
+            "likely": "",
+            "notes": "Appears to be an isolated transcription artifact and cannot be confidently identified from context."
+        },
+        {
+            "heard": "playing shift",
+            "likely": "Plane Shift",
+            "notes": "The DM explicitly contrasts Plane Shift with Gate."
+        },
+        {
+            "heard": "eight owl",
+            "likely": "eight willing",
+            "notes": "The DM is explaining that Plane Shift can transport the caster and additional willing individuals."
+        },
+        {
+            "heard": "slitch",
+            "likely": "lich",
+            "notes": "Sylan says he wants to find the lich as quickly as possible."
+        }
+    ],
+    "openQuestions": [
+        "Where is the lich currently hiding?",
+        "What clues remain at the lich's former hideout in The Reach?",
+        "Where does Walker need to take Elrus?",
+        "What are Fritz's and Bill's exact roles aboard the ship?",
+        "Which of Fritz or Bill is the crew's greenhorn?"
+    ],
+    "newTerms": [
+        {
+            "name": "Gate",
+            "notes": [
+                "A spell that creates a portal with a diameter of 5 to 20 feet.",
+                "The party determined that the maximum 20-foot opening is not large enough for their boat."
+            ]
+        },
+        {
+            "name": "Plane Shift",
+            "notes": [
+                "A separate spell from Gate that can transport the caster and willing individuals between planes."
+            ]
+        },
+        {
+            "name": "Party Ship Crew",
+            "notes": [
+                "The party's four crew members are Abel, Garrett, Bill, and Fritz.",
+                "Abel is the helmsman and Garrett is the gunner; Fritz and Bill's roles remain uncertain."
+            ]
+        }
+    ]
+}

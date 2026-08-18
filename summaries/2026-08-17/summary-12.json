@@ -1,0 +1,295 @@
+{
+    "plotSections": [
+        {
+            "title": "The Doorkeeper's Role and the Magical Surge",
+            "bullets": [
+                "The party discusses the idea that Gerk's role as the Doorman means he may have been specifically meant to handle what is happening with the door and the party's current situation; Sylan explicitly argues that Gerk was meant to do this.",
+                "The magical door closes, producing a powerful magical discharge that causes reality to appear to snap back into cohesion.",
+                "Gerk fails his Wisdom save and is affected by a confusion effect, leaving him temporarily unable to move or take actions. Sylan succeeds and is unaffected.",
+                "Everyone on the ship appears to blink out of existence or become invisible to the others, leaving the party unable to see one another.",
+                "Dana and Sylan recognize the magical surge as resembling the sensation they experienced in the presence of deities. They understand that their spells are currently greatly enhanced in some way.",
+                "A giant spectral door appears near where Gerk had been standing.",
+                "All characters with expended spell slots have them fully restored.",
+                "A thin, golden, semi-fluorescent magical track now runs through the ship along the path of the magical discharge, resembling a lightning strike but without burning or damaging the ship."
+            ]
+        },
+        {
+            "title": "The Reach",
+            "bullets": [
+                "Walker describes The Reach as being in fall, with crisp weather around sixty degrees and autumn colors beginning to appear.",
+                "The Reach has a flying-themed culture, including the National Flying League and floating jack-o'-lanterns; these details were discussed while the DM delayed resolving the magical situation."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan suggests that Gerk's role as the Doorman means he was meant to handle the current situation.",
+        "The party jokes that Plymouth should have warned Gerk about what was coming, with Gerk blaming Plymouth for the situation.",
+        "The DM establishes that Gerk and Sylan are the two characters primarily affected by the initial magical effect because it is centered on the Doorman and his location.",
+        "Gerk and Sylan make Wisdom saving throws; Sylan succeeds with a 19, while Gerk's relevant result is insufficient and he is subsequently affected by confusion.",
+        "The door closes and a magical surge travels back toward its original position, causing reality to seemingly snap back into place.",
+        "Gerk becomes confused and unable to act, while everyone else on the ship appears to blink out of existence from the characters' perspectives.",
+        "Dana and Sylan recognize the magical energy as similar to the presence of deities and learn that their spellcasting is currently enhanced.",
+        "A giant spectral door manifests near Gerk's former position.",
+        "Everyone with expended spell slots receives a full recovery.",
+        "A golden, shimmering magical line remains embedded through the ship where the magical discharge traveled.",
+        "Ciri begins looking for her 'exit buddy' but cannot find them."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador; holder of the Midgard keystone and designated Doorman.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan suggests that Gerk's role as Doorman means he was specifically meant to deal with the current magical door situation.",
+                "Gerk failed the Wisdom saving throw associated with the magical effect.",
+                "Gerk was affected by a confusion spell after the door closed and became unable to move or take actions.",
+                "A giant spectral door appeared near the location where Gerk had been."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [
+                "Gerk joked that Plymouth should have warned him about the situation and blamed Plymouth for what happened."
+            ],
+            "quotesThemes": [
+                "Sylan repeatedly emphasizes that Gerk was meant to perform the role of Doorman."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue; holder of the Gilbrick keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan succeeded on the Wisdom saving throw with a 19 and was unaffected by the confusion effect.",
+                "Sylan experienced the magical surge associated with the closing door.",
+                "Sylan recognized the surge as resembling the sensation of being in the presence of deities.",
+                "Sylan understood that his spells were currently greatly enhanced in some fashion."
+            ],
+            "titles": [],
+            "personality": [
+                "Sylan immediately volunteers to help Gerk when the situation appears dangerous."
+            ],
+            "quotesThemes": [
+                "Sylan argues that Gerk was meant to handle the situation because he is the Doorman."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and one of the group's most knowledgeable members; holder of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Dana was positioned away from the immediate danger when the magical event began.",
+                "Dana experienced the magical surge and recognized it as resembling the sensation associated with being in the presence of deities.",
+                "Dana understood that spellcasting was currently greatly enhanced.",
+                "Dana's spell slots were among those restored by the magical event if she had expended any."
+            ],
+            "titles": [],
+            "personality": [
+                "Dana deliberately tends to stay away from situations she considers suspicious or dangerous."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin; holder of the Feldspar keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Ord was within roughly thirty feet of the main magical situation but deliberately positioned as far from the immediate event as practical."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Ciri was not among the characters directly identified as the primary targets of the initial magical effect.",
+                "After the event, Ciri searches for her 'exit buddy' but cannot find them."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who or what Ciri's 'exit buddy' is, and why Ciri is unable to find them after the magical event."
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon; holder of The Reach keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Walker describes The Reach as being in fall, with crisp weather around sixty degrees and autumn colors beginning to appear.",
+                "Walker describes the National Flying League as beginning its season in The Reach.",
+                "Walker describes floating jack-o'-lanterns and other flying elements as part of the setting in The Reach."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Reach": {
+            "existing": "Realm associated with Walker's chosen keystone.",
+            "entityType": "Location",
+            "notes": [
+                "It is currently fall in The Reach, with cool weather and autumn foliage.",
+                "The Reach has a flying-oriented culture, including the National Flying League.",
+                "Floating jack-o'-lanterns are present during the fall season."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer associated with the party and the creation and history of the keystones.",
+            "entityType": "NPC",
+            "notes": [
+                "Gerk jokingly blames Plymouth for not warning him about the current situation involving the Doorman."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Plymouth is humorously treated as responsible for Gerk's current predicament."
+            ],
+            "openQuestions": []
+        },
+        "National Flying League": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A flying sport or league in The Reach, described as similar to Quidditch but involving flying participants.",
+                "Walker says its season is beginning during the fall."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder Chase": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Referenced as a seasonal event that occurs during summer rather than the current fall season."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A giant spectral door appeared near the location where Gerk had been after the magical door closed and reality snapped back into cohesion."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Golden Magical Track": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A thin, golden, semi-fluorescent line remains embedded through the ship along the path of the magical discharge.",
+                "It resembles a lightning track but did not leave a burnt or damaged crevice."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Confusion Spell": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The magical event caused Gerk to be affected by a confusion spell after he failed his Wisdom saving throw.",
+                "The effect left Gerk dumbfounded and unable to move or take actions at the time described."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Duke Iker",
+            "likely": "",
+            "notes": "Appears during a discussion about what the scholars of the age are doing; unclear whether this is a name, title, or unrelated phrase."
+        },
+        {
+            "heard": "Plumage",
+            "likely": "Plymouth Gawater",
+            "notes": "Gerk immediately discusses Plymouth after this reference, making Plymouth the likely intended name."
+        },
+        {
+            "heard": "Brandon",
+            "likely": "",
+            "notes": "Mentioned as someone who may message the group; unclear whether this is an NPC, player, or out-of-game reference."
+        },
+        {
+            "heard": "Gark",
+            "likely": "Gerk",
+            "notes": "Sylan appears to be referring to Gerk."
+        },
+        {
+            "heard": "Sylant",
+            "likely": "Sylan",
+            "notes": "DM repeatedly uses a form resembling Sylant while describing Sylan's saving throw and magical effects."
+        },
+        {
+            "heard": "Pylon",
+            "likely": "",
+            "notes": "DM asks whether Pylon is next to the group; the identity of this apparent character or entity is unclear."
+        },
+        {
+            "heard": "Vital",
+            "likely": "",
+            "notes": "Gerk says they waited for Vital to leave the castle; the intended name is unclear."
+        },
+        {
+            "heard": "Proctor",
+            "likely": "",
+            "notes": "Appears in the DM's description immediately before discussing Dana; likely an ASR artifact or an unclear location/name."
+        },
+        {
+            "heard": "Barry's",
+            "likely": "",
+            "notes": "Ciri says she is looking for her 'exit buddy'; the transcript may have misheard the subject or phrase."
+        }
+    ],
+    "openQuestions": [
+        "What exactly is the giant spectral door that appeared near Gerk, and what is its connection to the Doorman role?",
+        "What is the nature of the golden magical track left through the ship?",
+        "Why did everyone on the ship become invisible or otherwise disappear from one another's perception?",
+        "What is the nature and extent of the spell-enhancing effect experienced by Dana and Sylan?",
+        "Who or what is Ciri's 'exit buddy,' and why can she no longer find them?"
+    ],
+    "newTerms": [
+        {
+            "name": "Spectral Door",
+            "notes": [
+                "A giant spectral door manifested near Gerk after the magical door closed."
+            ]
+        },
+        {
+            "name": "Golden Magical Track",
+            "notes": [
+                "A golden, semi-fluorescent line was left running through the ship along the path of the magical discharge."
+            ]
+        },
+        {
+            "name": "Enhanced Spellcasting",
+            "notes": [
+                "Dana and Sylan sensed a deity-like magical presence and understood that their spells were temporarily greatly enhanced."
+            ]
+        },
+        {
+            "name": "National Flying League",
+            "notes": [
+                "A flying sport or league in The Reach whose season begins during the fall."
+            ]
+        }
+    ]
+}

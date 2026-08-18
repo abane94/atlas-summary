@@ -1,0 +1,266 @@
+{
+    "plotSections": [
+        {
+            "title": "Keystones and the Gatehouse",
+            "bullets": [
+                "Sylan tells Juten Prime that the party will take the keystones under their guardianship and continue researching the lich; Juten Prime agrees to safeguard the two keystones being left behind.",
+                "Juten Prime explains that Plymouth Gawater is investigating the origin or place of origin of Grixto and Galixtar, and that Plymouth may need to return to verify the group's research.",
+                "Dana finds that the gatehouse's libraries are no longer intact. Juten Prime reports evidence of both raiding and natural degradation, with paper materials largely destroyed and stone, slate, and tile records either broken or raided. The party has explored only roughly the top third of the mountain.",
+                "Sylan reasons that the surviving ruins and archives may explain how Grixto learned to use the keystones."
+            ]
+        },
+        {
+            "title": "Return to Langdale Stronghold",
+            "bullets": [
+                "The party leaves the gatehouse and begins a roughly five-day journey by boat to Langdale Stronghold, intending to track down Benji and check on the situation involving the evil Koroka.",
+                "Dana decides there is no further research worth doing at the ruined gatehouse for now, but wants to speak with Plymouth Gawater later about what he has learned concerning the gatehouse and what previously existed there.",
+                "The party expects to reconnect with Plymouth and Walker's group relatively soon because of the unusual time difference involving Midgard."
+            ]
+        },
+        {
+            "title": "Gerk Experiments with the Door",
+            "bullets": [
+                "Gerk begins practicing with his newly acquired door-opening ability during the boat journey, with Sylan helping him experiment with safer and more controlled uses.",
+                "Gerk attempts to open a door to his own house and bedroom while standing at the rear of the moving boat. Sylan uses Beacon of Hope to help with the wisdom saving throw, and both Gerk and Sylan avoid losing sanity during the experiment.",
+                "When the door opens, the rear of the boat and surrounding open air stretch outward in a rubber-band-like effect. The boat itself does not slow down, and the material does not become less elastic; the space around the opened door instead appears to stretch away while the doorway remains in place.",
+                "The opened doorway creates a powerful pull on Gerk. The DM establishes that remaining attached to the door would require a Strength saving throw, but Gerk decides he will close the door once the effect becomes dangerous.",
+                "The experiment establishes that Gerk's door ability can interact strangely with a moving vessel and may require careful experimentation to understand safely."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan tells Juten Prime that the party is taking their guarded keystones and continuing research into the lich while leaving two keystones behind for Juten Prime to safeguard.",
+        "Juten Prime confirms the two keystones can be protected and explains that Plymouth Gawater is investigating the origin of Grixto and Galixtar.",
+        "Dana asks about a library and learns that the area's former libraries and archives are no longer intact.",
+        "Juten Prime explains that the archives suffered both raiding and degradation, with surviving stone and written materials damaged or destroyed; only roughly the top third of the mountain has been explored.",
+        "Sylan suggests the archives may have helped Grixto learn how to use the keystones.",
+        "The party departs by boat for Langdale Stronghold, a journey of roughly five days.",
+        "The party discusses the Midgard time difference, with one day in the relevant local timeframe corresponding to seven days in Midgard; Walker plans to take advantage of the difference.",
+        "Gerk practices opening doors while traveling, with Sylan assisting him in testing the ability safely.",
+        "Gerk attempts to open a doorway to his own bedroom while standing at the rear of the moving boat.",
+        "Gerk and Sylan succeed on their wisdom saves without losing sanity, but the opened doorway causes the boat's rear and surrounding air to stretch dramatically.",
+        "The stretching creates a strong pull on the door handle; Gerk decides he will close the door rather than risk being pulled away from the boat."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador; holder of the Midgard keystone and Doorman role.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Continues experimenting with his door-opening ability while traveling.",
+                "Can attempt to open a doorway to a specific familiar location, including his own house and bedroom.",
+                "Opening a door from a moving boat can cause the surrounding space and part of the boat to stretch outward while the boat continues moving normally.",
+                "The doorway can exert a strong pulling force on Gerk, requiring a Strength saving throw if he attempts to hold onto it."
+            ],
+            "titles": [],
+            "personality": [
+                "Willing to experiment with his new abilities despite potentially dangerous consequences."
+            ],
+            "quotesThemes": [
+                "Gerk wants to determine whether thinking intensely about a known location allows him to open a door to that location."
+            ],
+            "openQuestions": [
+                "How precisely does Gerk's door ability select and connect to distant locations?",
+                "What happens to a doorway when it is opened from a moving vessel?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and party member.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Takes an active role in helping Gerk safely experiment with his door ability.",
+                "Uses Beacon of Hope to assist Gerk with the wisdom saving throw during the experiment.",
+                "Suggests using a familiar location that Gerk knows well as a test for the door."
+            ],
+            "titles": [],
+            "personality": [
+                "Cautious and safety-conscious when helping Gerk test his new ability."
+            ],
+            "quotesThemes": [
+                "Emphasizes testing Gerk's door ability from a safe position on the boat."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and the party's most knowledgeable member.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Investigates whether the gatehouse has a library or archives that could provide additional information.",
+                "Concludes that the damaged archives do not currently offer enough salvageable material for further study.",
+                "Wants to consult Plymouth Gawater in the future about what he has learned about the gatehouse and its history."
+            ],
+            "titles": [],
+            "personality": [
+                "Strongly interested in historical and scholarly research concerning the gatehouse."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Walker has left with the other rider and is taking advantage of the time difference involving Midgard."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Juten Prime": {
+            "existing": "Entity associated with the party's current location and guardian of the remaining keystones.",
+            "entityType": "NPC",
+            "notes": [
+                "Agrees to safeguard the two keystones the party is leaving behind.",
+                "Will continue investigating the ruined area and expects Plymouth Gawater may need to return to verify the work.",
+                "Reports that the area's former libraries and archives have been heavily damaged or destroyed.",
+                "Says the party has explored only roughly the top third of the mountain.",
+                "Confirms that damage to the archives resulted from both raiding and natural degradation."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally involved in researching the gatehouse and keystones.",
+            "entityType": "NPC",
+            "notes": [
+                "Is investigating the origin or place of origin of Grixto and Galixtar.",
+                "May need to return to the gatehouse to verify the group's research.",
+                "Has already conducted substantial research into the gatehouse and its former contents."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Known antagonist/proxy associated with the keystones.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan theorizes that Grixto may have learned how to use the keystones through knowledge contained in the archives at the ruined site."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Did Grixto actually learn how to use the keystones from the archives?"
+            ]
+        },
+        "Galixtar": {
+            "existing": "Known dragon associated with Grixto.",
+            "entityType": "NPC",
+            "notes": [
+                "Plymouth Gawater is investigating Galixtar's origin or place of origin along with Grixto."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the origin or place of origin of Galixtar?"
+            ]
+        },
+        "Gatehouse": {
+            "existing": "Ruined location associated with the party's keystones and their guardianship duties.",
+            "entityType": "Location",
+            "notes": [
+                "The area's former libraries and archives are not intact.",
+                "Evidence indicates both deliberate raiding and natural degradation destroyed or damaged records.",
+                "Only roughly the top third of the mountain has been explored so far.",
+                "The party expects to guard the gatehouse for an extended period after the lich situation is resolved."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door Ability": {
+            "existing": "Gerk's recently acquired ability associated with his Doorman role.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Gerk can attempt to open a doorway to a location he knows, including his own house.",
+                "The ability requires a wisdom saving throw to use and can have unusual physical or spatial effects.",
+                "Opening a door from a moving boat caused the surrounding space and part of the boat to stretch outward while the boat continued moving normally.",
+                "The opened doorway can exert a powerful pulling force on the user."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What are the full rules and limitations of Gerk's door ability?",
+                "Can the ability reliably reach any familiar location?"
+            ]
+        },
+        "Midgard": {
+            "existing": "Realm associated with Gerk's keystone and the party's Doorman role.",
+            "entityType": "Location",
+            "notes": [
+                "A significant time difference exists between Midgard and the party's current timeframe; the discussion establishes a seven-to-one relationship, with seven days passing in Midgard during approximately one day elsewhere."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Yotin Prime",
+            "likely": "Juten Prime",
+            "notes": "Likely the established NPC name Juten Prime."
+        },
+        {
+            "heard": "slitch",
+            "likely": "lich",
+            "notes": "Sylan says the party will continue research on the lich."
+        },
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Likely the established NPC name Grixto."
+        },
+        {
+            "heard": "own prime",
+            "likely": "Juten Prime",
+            "notes": "Sylan appears to address Juten Prime while asking about the damaged libraries and archives."
+        },
+        {
+            "heard": "Thered",
+            "likely": "Sylan",
+            "notes": "The context indicates Sylan is the person positioning Gerk safely on the boat."
+        },
+        {
+            "heard": "Koroka",
+            "likely": "",
+            "notes": "Appears to be the name of an entity the party intends to check on after returning home; unclear whether this is a new NPC, location, or another established name."
+        },
+        {
+            "heard": "Mount Not Valia",
+            "likely": "",
+            "notes": "Likely a location name, but there is insufficient context to confidently canonicalize it."
+        }
+    ],
+    "openQuestions": [
+        "Did Grixto learn how to use the keystones from the archives at the ruined gatehouse?",
+        "What is the origin or place of origin of Grixto and Galixtar?",
+        "What are the full rules and limitations of Gerk's door-opening ability?",
+        "Can Gerk's door ability reliably connect to any familiar location?",
+        "What will happen if Gerk opens a doorway from a moving vessel again?"
+    ],
+    "newTerms": [
+        {
+            "name": "Door Ability",
+            "notes": [
+                "Gerk's ability to open a doorway to another location, apparently by concentrating on a place he knows.",
+                "The ability can produce unusual spatial effects and may be dangerous when used from a moving vessel."
+            ]
+        },
+        {
+            "name": "Gatehouse Archives",
+            "notes": [
+                "Former libraries and archives at the gatehouse were largely destroyed by a combination of raiding and degradation.",
+                "The archives may have contained information relevant to understanding the keystones and how Grixto learned to use them."
+            ]
+        }
+    ]
+}

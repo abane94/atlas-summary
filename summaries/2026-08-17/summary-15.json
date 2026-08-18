@@ -1,0 +1,197 @@
+{
+    "plotSections": [
+        {
+            "title": "The Spectral Door and Invisible Gerk",
+            "bullets": [
+                "A strange spectral door is present aboard the boat, while Gerk is standing invisibly beside it and cannot move normally.",
+                "Sylan discovers Gerk by physically walking into him, then repeatedly interacts with and shakes the unseen Gerk while trying to understand the situation.",
+                "Gerk eventually gives up trying to remain standing and allows himself to fall to the floor; Sylan catches/supports his falling body before lowering him.",
+                "The spectral door continues hovering above Gerk as the party tries to communicate and determine what is happening."
+            ]
+        },
+        {
+            "title": "Attempts to Communicate with the Invisible Party Members",
+            "bullets": [
+                "Sylan uses coins to create visible writing on the deck, spelling out a greeting to the others and attempting to communicate despite Gerk being unable to help.",
+                "Sylan later rearranges the coins to write Gerk's name with an arrow indicating where the invisible Gerk is, communicating that Gerk is in trouble.",
+                "Ord experiments with ways to reveal an invisible person, initially considering powder or dust before realizing he has a dragon vessel that can be used to apply liquid to himself."
+            ]
+        },
+        {
+            "title": "Ord's Oil Experiment",
+            "bullets": [
+                "Ord pours olive oil over himself using his dragon vessel to test whether coating his body will reveal his position despite the unusual disappearance effect.",
+                "The experiment succeeds partially: an invisible Ord becomes detectable as a faint oil silhouette, with the oil visibly outlining his body despite making little to no normal splashing sound.",
+                "The party continues experimenting while the spectral door remains above Gerk and the nature of the invisibility/disappearance remains unexplained."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan investigates the strange door and discovers that an invisible Gerk is standing beside it.",
+        "Sylan hits the unseen Gerk in the head to confirm that someone is physically present.",
+        "Gerk attempts to deal with the strange force affecting him but cannot technically move normally; he eventually allows himself to fall to the floor.",
+        "Sylan supports Gerk's fall and lowers him to the deck.",
+        "Sylan uses coins to write a message on the deck so the others can communicate with him and locate Gerk.",
+        "Ord considers using powder or dust to reveal an invisible person, but abandons the idea after checking his inventory.",
+        "Ord remembers his dragon vessel and uses it to pour olive oil over himself.",
+        "The oil produces a faint visible silhouette of Ord, demonstrating that physical material can reveal the location of someone affected by the invisibility.",
+        "Sylan uses the coins to mark Gerk's location and indicate that Gerk is in trouble.",
+        "Sylan continues physically shaking and interacting with the invisible Gerk while the spectral door hovers above him."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Gerk is affected by the strange invisibility/disappearance phenomenon and cannot be seen even though he remains physically present.",
+                "Gerk appears unable to move normally while affected, although the DM permits him to fall to the ground by giving up his attempt to remain standing.",
+                "Gerk remains physically tangible: Sylan can collide with, strike, support, and shake him despite being unable to see him.",
+                "A very shiny spectral door is hovering above Gerk while he is affected by the phenomenon."
+            ],
+            "titles": [],
+            "personality": [
+                "Gerk remains cooperative and eventually gives up struggling to remain upright when the situation prevents him from moving normally."
+            ],
+            "quotesThemes": [
+                "The party is trying to physically interact with and locate Gerk despite his invisibility."
+            ],
+            "openQuestions": [
+                "Why is Gerk invisible and unable to move normally?",
+                "What is the relationship between Gerk's condition and the spectral door hovering above him?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan discovers the invisible Gerk by walking around the spectral door and physically making contact with him.",
+                "Sylan experiments with physical interaction to determine Gerk's condition, including hitting and shaking him.",
+                "Sylan uses coins as a communication medium, creating visible messages on the deck and marking Gerk's location."
+            ],
+            "titles": [],
+            "personality": [
+                "Sylan responds to the unusual situation through hands-on experimentation and improvised communication."
+            ],
+            "quotesThemes": [
+                "Using coins as temporary written communication when normal interaction with Gerk is impossible."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Ord investigates whether a physical substance can reveal someone affected by the disappearance/invisibility effect.",
+                "Ord initially considers powder or dust but realizes he has a dragon vessel and instead uses olive oil.",
+                "The olive oil experiment produces a faint visible silhouette of Ord, showing that the phenomenon does not prevent physical substances from outlining an affected person."
+            ],
+            "titles": [],
+            "personality": [
+                "Ord approaches the strange phenomenon experimentally, trying to find a practical way to make invisible people detectable."
+            ],
+            "quotesThemes": [
+                "Testing physical substances as a means of revealing otherwise invisible people."
+            ],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Magical or supernatural phenomenon",
+            "notes": [
+                "A spectral door appears aboard the boat and remains hovering above or near Gerk.",
+                "The door appears to be physically intangible or otherwise unusual, but its exact nature and purpose are not established in this chunk.",
+                "Sylan investigates the door by walking around it and discovers that Gerk is standing beside it rather than being part of the door itself."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The spectral door is closely associated with the strange invisibility and movement restrictions affecting Gerk."
+            ],
+            "openQuestions": [
+                "What is the spectral door and why did it appear?",
+                "Why is it hovering above Gerk?"
+            ]
+        },
+        "Dragon Vessel": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Ord has a dragon vessel in his inventory that he uses to pour olive oil over himself.",
+                "The vessel provides a practical way for Ord to coat himself in a liquid while investigating the invisibility phenomenon."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Gerg",
+            "likely": "Gerk",
+            "notes": "The DM explicitly identifies the person as Gerk."
+        },
+        {
+            "heard": "Garek",
+            "likely": "Gerk",
+            "notes": "Likely ASR variation of Gerk during Gerk's dialogue."
+        },
+        {
+            "heard": "Derek",
+            "likely": "Gerk",
+            "notes": "The surrounding dialogue is explicitly about Gerk."
+        },
+        {
+            "heard": "Dirk",
+            "likely": "Gerk",
+            "notes": "The DM asks how Sylan is interacting with Gerk immediately afterward."
+        },
+        {
+            "heard": "Sylant",
+            "likely": "Sylan",
+            "notes": "Repeatedly appears when the DM describes Sylan."
+        },
+        {
+            "heard": "High Sylance",
+            "likely": "Hi Sylan",
+            "notes": "Sylan is using coins to write a greeting; the transcript likely merged the greeting with Sylan's name."
+        },
+        {
+            "heard": "bun",
+            "likely": "",
+            "notes": "Ord refers to something having disappeared rather than moved through the air; the exact intended word is unclear."
+        },
+        {
+            "heard": "powder mage powder",
+            "likely": "black powder",
+            "notes": "The surrounding discussion explicitly establishes that the ship has black powder/gunpowder."
+        }
+    ],
+    "openQuestions": [
+        "Why is Gerk invisible and unable to move normally?",
+        "What is the spectral door and why is it associated with Gerk?",
+        "Can physical substances reliably reveal people affected by the disappearance/invisibility effect, or did the oil only reveal Ord's outline because of some special property?",
+        "Has this disappearance/invisibility phenomenon happened previously, as Ord suspects?"
+    ],
+    "newTerms": [
+        {
+            "name": "Spectral Door",
+            "notes": [
+                "A mysterious spectral door that appears aboard the boat and hovers near or above the invisible Gerk."
+            ]
+        },
+        {
+            "name": "Dragon Vessel",
+            "notes": [
+                "An item in Ord's inventory that he uses to pour olive oil over himself during an experiment to reveal an invisible person."
+            ]
+        },
+        {
+            "name": "Oil Silhouette",
+            "notes": [
+                "Physical oil can outline a person affected by the invisibility phenomenon, producing a faint visible silhouette without making normal splashing sounds."
+            ]
+        }
+    ]
+}

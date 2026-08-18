@@ -1,0 +1,201 @@
+{
+    "plotSections": [
+        {
+            "title": "Keystone Gate Mechanics",
+            "bullets": [
+                "Plymouth Gawater explains that the keystones must be properly seated and calibrated by the gatehouse's Doorman before a gate can be safely activated; the mishap at Gilbrick was caused by incorrect activation/calibration.",
+                "Gerk, as the Doorman of the gatehouse and keeper of the Midgard keystone, is now responsible for helping the party safely operate the gates.",
+                "A keystone used to open a gate at the current gatehouse must remain there while the gate is open; the gate cannot simply be opened, traversed, and closed from the other side. The keystone can only be removed after the gate is shut, and tampering with a keystone while it is activating is dangerous.",
+                "Walker immediately activates the Reach gate despite Plymouth's explanation and travels through it with Elrus and Araden. He retrieves his sending stone before leaving.",
+                "Plymouth decides to accompany Walker, Elrus, Araden, and Glimmen to investigate the Dragon Rider training grounds for clues concerning Grixto and Galixtar."
+            ]
+        },
+        {
+            "title": "Gerk Experiments with the Gates",
+            "bullets": [
+                "After Walker's departure, Gerk begins experimenting with his new ability as Doorman.",
+                "Gerk opens a gate into a murky, brackish body of water, causing a large rush of swamp-smelling water to blast through the opening and soak Sylan before Gerk closes it.",
+                "Gerk tries again more cautiously, opening the gate only slightly. This time steam and intense heat emerge, accompanied by the smell of sulfur and brimstone; the opening reveals a barren, arid, rocky landscape with geysers.",
+                "The gate openings are manifestations of reality rather than physical doors: turning the handle causes a door-like boundary to materialize, allowing the user to crack open reality and view or access another location.",
+                "The DM establishes that opening or closing one of these gates takes an action in combat."
+            ]
+        },
+        {
+            "title": "Plymouth Joins the Investigation",
+            "bullets": [
+                "Plymouth had been investigating the remaining mosaics around the gatehouse when Walker asked him to accompany the expedition.",
+                "Plymouth consults Juten Prime before leaving, and she agrees that investigating further keystone usage and finding the Dragon Rider training grounds would be beneficial.",
+                "With Plymouth gone, the remaining party members will depend entirely on Gerk to operate the keystones and gates, giving Gerk a new practical responsibility while he learns how his abilities work."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker asks Plymouth Gawater how to use his keystone to travel to The Reach; Plymouth explains that Gerk must calibrate and oversee the gate because he is the gatehouse's Doorman.",
+        "Plymouth explains that a keystone must remain seated in the gatehouse while its gate is open and warns that improperly handling an activating keystone can cause malfunctions.",
+        "Walker activates the gate to The Reach and leaves with Elrus, Araden, and Glimmen to investigate the Dragon Rider training grounds.",
+        "Walker returns briefly to retrieve his sending stone before departing through the gate.",
+        "Plymouth agrees to accompany Walker after consulting Juten Prime and leaves with the expedition.",
+        "Gerk experiments with his Doorman abilities by opening a portal into brackish water, accidentally blasting Sylan with water before closing it.",
+        "Gerk opens another gate cautiously and discovers a hot, sulfurous, barren landscape containing geysers.",
+        "The party learns that opening and closing a gate takes an action in combat and discusses the potential tactical uses and dangers of Gerk's new ability."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, party ambassador; keeper of the Midgard keystone and the gatehouse's Doorman.",
+            "entityType": "PLAYER",
+            "notes": [
+                "As Doorman, Gerk is responsible for calibrating and properly seating keystones before the gates can be safely activated.",
+                "Gerk begins experimenting with his new gate-opening ability and successfully opens multiple portals to unknown environments.",
+                "His first attempt releases a large quantity of brackish swamp water; his second reveals a hot, sulfurous wasteland with geysers.",
+                "With Plymouth leaving the gatehouse, Gerk becomes the sole remaining party member responsible for helping operate the keystones."
+            ],
+            "titles": [
+                "Doorman",
+                "Overseer of the gates at the gatehouse"
+            ],
+            "personality": [
+                "Eager to experiment with his newfound ability despite not yet understanding how it works."
+            ],
+            "quotesThemes": [
+                "Gerk is still trying to understand what it means to be the Doorman and how to control the gates safely."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; travels with Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Uses his keystone to open the gate to The Reach and departs with Elrus and Araden.",
+                "His immediate goal is to investigate the Dragon Rider training grounds for clues related to Grixto and Galixtar.",
+                "Retrieves his sending stone before leaving the gatehouse.",
+                "Plymouth joins Walker's expedition."
+            ],
+            "titles": [],
+            "personality": [
+                "Impatient and confident about using the keystone, activating the gate immediately after receiving Plymouth's explanation."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer investigating the gatehouse mosaics and keystones.",
+            "entityType": "NPC",
+            "notes": [
+                "Has a general understanding of how the keystones and gates operate.",
+                "Explains that keystones must be calibrated and seated correctly by the gatehouse's Doorman to prevent malfunctions.",
+                "Consults Juten Prime before leaving the gatehouse and receives approval to investigate the Dragon Rider training grounds.",
+                "Equips himself for travel with a leather backpack, traveling cloak, short sword, and additional pouches before joining Walker's expedition.",
+                "Leaves the gatehouse with Walker, Elrus, Araden, and Glimmen to investigate the Dragon Rider training grounds."
+            ],
+            "titles": [],
+            "personality": [
+                "Methodical and investigative, but willing to accompany the party when the investigation could provide useful information about the keystones or Dragon Riders."
+            ],
+            "quotesThemes": [
+                "Further investigation into keystone usage and the Dragon Rider training grounds could provide valuable information."
+            ],
+            "openQuestions": []
+        },
+        "Juten Prime": {
+            "existing": "Known NPC associated with the party's current base of operations.",
+            "entityType": "NPC",
+            "notes": [
+                "Approves Plymouth accompanying Walker's expedition because investigating keystone usage and locating the Dragon Rider training grounds could be beneficial."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater's Keystone Knowledge": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Keystones must be properly oriented, calibrated, and seated in the gatehouse before activation.",
+                "The Doorman is responsible for helping calibrate the keystones and prevent gate malfunctions.",
+                "A keystone remains at the originating gatehouse while its gate is open.",
+                "Removing or tampering with an activating keystone is dangerous."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gatehouse Gates": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The gates can be opened by manipulating a door-like interface that materializes as a manifestation of the surrounding reality rather than a permanent physical door.",
+                "Opening a gate can expose the gatehouse to environmental hazards from the destination, such as water, steam, heat, or other substances.",
+                "Opening and closing a gate takes an action in combat.",
+                "A gate opened from a gatehouse is effectively one-way until it is closed from the originating side."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The expedition is traveling there to investigate clues connected to Grixto and Galixtar.",
+                "The grounds were associated with the Dragon Rider guild that Elrus and Araden belonged to."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sending Stone": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Walker remembers to retrieve his sending stone from the gatehouse before departing for The Reach."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Appears alongside Galixtar in the context of investigating where they are hiding."
+        },
+        {
+            "heard": "Galixta",
+            "likely": "Galixtar",
+            "notes": "Appears alongside Grixto in the context of investigating their hiding place."
+        },
+        {
+            "heard": "Juten Prime",
+            "likely": "Juten Prime",
+            "notes": "No correction needed; included only as a potential ASR uncertainty because the transcript contains several distorted references around this name."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Doorman",
+            "notes": [
+                "The title and role given to Gerk as overseer of the gates at his chosen gatehouse.",
+                "The Doorman is responsible for calibrating and properly seating keystones so gates activate safely."
+            ]
+        },
+        {
+            "name": "Keystone Calibration",
+            "notes": [
+                "Keystones must be correctly oriented and seated in a gatehouse before activation; improper calibration can cause gate malfunctions."
+            ]
+        },
+        {
+            "name": "Dragon Rider Training Grounds",
+            "notes": [
+                "Training grounds associated with the Dragon Rider guild that Elrus and Araden previously belonged to; Walker's expedition is investigating them for clues about Grixto and Galixtar."
+            ]
+        }
+    ]
+}

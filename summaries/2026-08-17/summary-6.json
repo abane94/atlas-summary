@@ -1,0 +1,295 @@
+{
+    "plotSections": [
+        {
+            "title": "Gerk Experiments with the Keystone",
+            "bullets": [
+                "Gerk begins experimenting with his new ability to open portals through doors. His first attempt opens onto a murky, brackish body of water, producing a powerful rush of swamp water that blasts Sylan across the room before Gerk closes the portal.",
+                "A second, more cautious portal opens onto a barren, rocky landscape filled with geysers. Steam, intense heat, and a sulfuric/brimstone smell spill through the opening, demonstrating that Gerk can potentially access radically different environments.",
+                "The portals are formed by Gerk interacting with a tangible-looking door that is actually a reflection of the world being opened into; the door materializes as he turns the handle rather than being a normal physical doorway.",
+                "The DM establishes that opening or closing a portal is an action for combat purposes. Gerk and Sylan recognize the potential tactical uses and dangers of the ability and plan to practice during the voyage.",
+                "Gerk intends to experiment with opening portals to familiar locations by concentrating on them, beginning with the party's house."
+            ]
+        },
+        {
+            "title": "The Party Leaves the Gatehouse",
+            "bullets": [
+                "Walker, Glimmen, Plymouth Gawater, Elrus, and Araden leave to investigate the training grounds associated with the guild of dragon riders and the origins of Grixto and Galixtar.",
+                "Sylan speaks with Juten Prime before departing and confirms that the party will take guardianship of the keystones they have claimed while leaving the remaining two keystones in Juten Prime's care.",
+                "Juten Prime agrees to safeguard the two keystones left behind and continue investigating the site, though Plymouth will likely need to return to verify their findings. The party agrees to exchange updates when possible.",
+                "Dana determines that there is little remaining in the ruined archives worth studying immediately, but wants to speak with Plymouth later about what he has learned regarding the gatehouse and its history."
+            ]
+        },
+        {
+            "title": "Ruined Archives and the Keystone Investigation",
+            "bullets": [
+                "The former libraries and archives of the mountain are largely destroyed. Evidence indicates both deliberate raiding and natural degradation over time, with paper and similar materials mostly deteriorated and stone, slate, and tile records either broken or removed.",
+                "Only roughly the upper third of the mountain has been explored so far, leaving substantial portions of the site unexplored.",
+                "Sylan theorizes that Grixto may have learned how to use the keystones through information contained in the site's archives, potentially explaining his knowledge of them."
+            ]
+        },
+        {
+            "title": "Return to Langdale Stronghold",
+            "bullets": [
+                "The party boards the boat for an approximately five-day journey to Langdale Stronghold.",
+                "Because time in Midgar moves at a different rate, one day in Midgar corresponds to seven days there. Walker, having left expecting to have a full week, intends to take advantage of the difference and potentially remain away for much longer from the party's perspective.",
+                "During the voyage, Gerk plans to practice his portal ability while Sylan helps him experiment with safer and more controlled techniques."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker has Glimmen carry Plymouth Gawater through a portal while Walker follows, after which Plymouth, Walker, Glimmen, Elrus, and Araden leave to investigate the dragon-rider training grounds and the origins of Grixto and Galixtar.",
+        "Sylan decides the party should speak with Juten Prime before leaving and asks whether Juten Prime can safeguard the two keystones the party is leaving behind.",
+        "Juten Prime agrees to protect the two remaining keystones and continue investigating the site, with Plymouth expected to verify the work later.",
+        "Gerk experiments with his portal ability and accidentally opens a portal to brackish swamp water, blasting Sylan with water before closing it.",
+        "Gerk opens another portal more carefully, revealing a hot, barren landscape with geysers, steam, sulfur, and brimstone.",
+        "The DM clarifies that opening and closing the portal is an action in combat.",
+        "Sylan and Gerk discuss possible combat applications and dangers of the portals, including using environmental hazards against enemies.",
+        "Dana asks whether the site has an intact library; she learns that the former libraries and archives are largely destroyed.",
+        "The party learns that the archives were damaged through a combination of raiding and natural degradation, and that only about the upper third of the mountain has been explored.",
+        "Sylan theorizes that Grixto may have learned to use the keystones through the site's archives.",
+        "The party begins the five-day journey by boat back to Langdale Stronghold.",
+        "The party discusses Midgar's time differential, where one day corresponds to seven days elsewhere, and Walker plans to exploit the extra apparent time for his own activities.",
+        "Gerk and Sylan plan to use the journey to practice and refine Gerk's portal ability.",
+        "Gerk decides to attempt opening a portal to the party's house by concentrating on the familiar location."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Can now open portals through door-like manifestations that connect to other locations or environments.",
+                "His first demonstrated portal opened onto brackish swamp water and produced a powerful rush of water.",
+                "A second portal opened onto a barren, arid landscape with geysers, steam, intense heat, and sulfuric/brimstone smells.",
+                "He is beginning to experiment with controlling where and how the portals open and intends to practice during the voyage.",
+                "He plans to test whether concentrating on a familiar location, such as the party's house, can cause a portal to open there."
+            ],
+            "titles": [],
+            "personality": [
+                "Excited and curious about his new portal ability despite not yet understanding how it works.",
+                "Willing to experiment repeatedly, even after an initially dangerous result."
+            ],
+            "quotesThemes": [
+                "Theme: learning to control the newly acquired ability to open doors between places.",
+                "Theme: potentially turning portals into powerful environmental or combat tools."
+            ],
+            "openQuestions": [
+                "Can Gerk reliably choose a specific destination by concentrating on it?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue, last name Ivellio.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Helps Gerk understand and safely practice his new portal ability.",
+                "Participates in planning how the party will use the keystones while Juten Prime safeguards the two remaining keystones.",
+                "Concludes that Grixto may have learned how to use the keystones through the ruined archives."
+            ],
+            "titles": [],
+            "personality": [
+                "Practical and safety-conscious about Gerk's experimentation.",
+                "Interested in finding tactical applications for Gerk's portals."
+            ],
+            "quotesThemes": [
+                "Theme: turning Gerk's uncontrolled portal ability into a deliberate and useful technique."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Leaves with Glimmen, Plymouth Gawater, Elrus, and Araden to investigate the dragon-rider training grounds and the origins of Grixto and Galixtar.",
+                "Plans to take advantage of Midgar's time differential after realizing he can potentially spend much longer away from the party than they will experience."
+            ],
+            "titles": [],
+            "personality": [
+                "Eager to take advantage of the unexpected amount of available time."
+            ],
+            "quotesThemes": [
+                "Theme: Walker intends to make extensive use of the time differential while away from the party."
+            ],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "OTHER",
+            "notes": [
+                "Carries Plymouth Gawater through a portal while accompanying Walker, Elrus, and Araden to investigate the dragon-rider training grounds."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party researcher.",
+            "entityType": "NPC",
+            "notes": [
+                "Leaves with Walker and Glimmen, Elrus, and Araden to investigate the dragon-rider training grounds and the origins of Grixto and Galixtar.",
+                "Is expected to return later to verify Juten Prime's findings regarding the site.",
+                "Dana wants to compare notes with Plymouth about what he has learned regarding the gatehouse and its former inhabitants or contents."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Juten Prime": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Agrees to safeguard the two keystones that the party is leaving behind.",
+                "Will continue investigating the ruined site and exchange information with the party when possible.",
+                "States that Plymouth Gawater will likely need to return to verify the group's findings."
+            ],
+            "titles": [],
+            "personality": [
+                "Cooperative and willing to continue the investigation in the party's absence."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and the most knowledgeable member of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Investigates whether the ruined site contains an intact library or archives.",
+                "Concludes that the surviving material is unlikely to provide much additional useful research beyond Plymouth's work.",
+                "Wants to speak with Plymouth in the future about the gatehouse and what previously existed there."
+            ],
+            "titles": [],
+            "personality": [
+                "Scholarly and interested in preserving or understanding the history of the gatehouse."
+            ],
+            "quotesThemes": [
+                "Theme: the party may eventually return to study and guard the gatehouse once the lich situation is resolved."
+            ],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Known figure associated with the keystones.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan theorizes that Grixto may have learned how to use the keystones through information contained in the archives at the ruined site."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Did Grixto actually learn how to use the keystones from the archives at this site?"
+            ]
+        },
+        "Galixtar": {
+            "existing": "Dragon associated with Grixto.",
+            "entityType": "NPC",
+            "notes": [
+                "The investigation Walker's group is undertaking concerns the origins or place of origin of Grixto and Galixtar."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gatehouse": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The party expects that, after dealing with the lich situation, they may spend a long period guarding the gatehouse.",
+                "The surrounding mountain contains ruined libraries and archives, but only roughly the upper third of the mountain has been explored."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Powerful objects entrusted to the party for guardianship.",
+            "entityType": "ITEM",
+            "notes": [
+                "The party intends to retain guardianship of the keystones they have claimed while leaving two keystones in Juten Prime's care.",
+                "The ruined archives may have contained information explaining how to use the keystones, potentially providing a clue to Grixto's knowledge."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Midgar": {
+            "existing": "Realm/world with a different rate of time passage.",
+            "entityType": "Location",
+            "notes": [
+                "One day in Midgar corresponds to seven days outside it.",
+                "The party explicitly considers the time differential when estimating how long Walker can remain away before the others notice significant elapsed time."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Theme: the party's travel and plans are affected by the unusual difference in the passage of time."
+            ],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Sware Plumber Gowater",
+            "likely": "Plymouth Gawater",
+            "notes": "Clearly refers to the party's gnome artificer Plymouth Gawater."
+        },
+        {
+            "heard": "Raedon",
+            "likely": "Araden",
+            "notes": "Appears in the context of the dragon-rider guild alongside Elrus and Walker."
+        },
+        {
+            "heard": "Gorixto / Garixto / Koroka",
+            "likely": "Grixto",
+            "notes": "The transcript produces several variants when discussing the figure connected to Galixtar and the keystones."
+        },
+        {
+            "heard": "Yotin Prime / Oat and Prime / Yotin Prime",
+            "likely": "Juten Prime",
+            "notes": "Multiple ASR variants occur for the NPC the party consults about safeguarding the keystones."
+        },
+        {
+            "heard": "Sylant / Sylantly / Sal",
+            "likely": "Sylan",
+            "notes": "Repeated ASR variations for Sylan."
+        },
+        {
+            "heard": "Waka",
+            "likely": "Walker",
+            "notes": "Used while discussing Walker's departure with Plymouth and the dragon riders."
+        },
+        {
+            "heard": "Glimmin",
+            "likely": "Glimmen",
+            "notes": "Likely the name of Walker's mind-linked dragon."
+        },
+        {
+            "heard": "Mount Not Valia",
+            "likely": "",
+            "notes": "Appears to be a location name, but the intended canonical spelling is unclear from this chunk."
+        }
+    ],
+    "openQuestions": [
+        "Did Grixto learn how to use the keystones from the archives at the ruined mountain site?",
+        "What will Walker's group discover about the origins or place of origin of Grixto and Galixtar?",
+        "Can Gerk reliably open a portal to a specific familiar location?"
+    ],
+    "newTerms": [
+        {
+            "name": "Gerk's Portal Doors",
+            "notes": [
+                "Gerk can manifest a door-like reflection of reality that opens into another location or environment.",
+                "Opening and closing a portal requires an action in combat.",
+                "The destination can produce physical environmental effects, such as flooding, steam, heat, or other hazards."
+            ]
+        },
+        {
+            "name": "Midgar Time Differential",
+            "notes": [
+                "One day in Midgar corresponds to seven days outside Midgar, significantly affecting travel and the amount of time characters can experience while away."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "plotSections": [
+        {
+            "title": "Separated Perceptions",
+            "bullets": [
+                "The party remains unable to see one another, similar to what happened in La-rel, and most characters also cannot hear one another normally.",
+                "Physical interaction is still possible despite the separation: Ciri can strike Sylan, Sylan can touch Gerk, and vibrations through the boat can be perceived by nearby characters.",
+                "Gerk remains incoherent and unable to understand what is happening, making communication with him particularly difficult."
+            ]
+        },
+        {
+            "title": "The Spectral Door",
+            "bullets": [
+                "A spectral, shining door materializes beside Sylan. It is closed, hovering in place, and appears majestic.",
+                "The door strongly resembles Gerk's door when his shield is in its door form, suggesting a possible connection between the phenomenon and Gerk's powers or role.",
+                "Sylan discovers that the apparent empty space around the door is physically occupied: walking around it causes him to bump into the invisible Gerk."
+            ]
+        },
+        {
+            "title": "Attempts at Communication",
+            "bullets": [
+                "Sylan uses physical contact and then spells out a message with coins on the floor so the unseen party members can potentially perceive it.",
+                "The coin message reads essentially 'Hi Sylan' and is intended to establish communication while Gerk cannot help.",
+                "Ord considers using a powder or other substance to reveal invisible people, but the transcript ends while he is still looking for a suitable non-explosive material."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party realizes they are separated from one another in a manner similar to the previous incident in La-rel.",
+        "A tray of rolls suddenly materializes and falls onto the boat; Dana and Ord take rolls, while the party notices that objects can still disappear or be interacted with despite the strange separation.",
+        "Ciri tests whether anyone is physically nearby by blindly striking the air and eventually makes contact with Sylan.",
+        "Sylan realizes he has been struck by an unseen force but hears no corresponding sound.",
+        "Sylan hits the boat and discovers that nearby characters can perceive its vibrations even though they cannot hear the impact normally.",
+        "A spectral shining door appears beside Sylan, hovering closed and resembling Gerk's door-shaped shield form.",
+        "Sylan walks around the spectral door and physically encounters the invisible Gerk.",
+        "Sylan knocks Gerk on the head and Gerk remains confused and incoherent.",
+        "Gerk gives up trying to remain standing and falls to the floor, causing Sylan to physically catch/support him despite being unable to see him.",
+        "Sylan begins spelling a message on the floor using gold coins as a means of communicating with the unseen party members.",
+        "Ord considers using powder, flour, sawdust, or another substance to reveal invisible people, while avoiding anything explosive."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Gerk is still incoherent and unable to understand what is happening during the separation.",
+                "Gerk cannot normally move during this phenomenon, although the DM allows him to fall to the floor.",
+                "Sylan can physically locate and support Gerk despite being unable to see him.",
+                "A spectral door appears near Gerk and resembles Gerk's door when his shield is in door form."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan can physically interact with invisible party members and the environment even though he cannot see them.",
+                "Sylan discovered the spectral door and determined that it does not itself conceal a visible person.",
+                "Sylan used gold coins to spell out a message on the floor as a communication method."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Ciri attempted to locate nearby people by blindly striking the air.",
+                "Ciri successfully made physical contact with Sylan, confirming that unseen people can still be physically encountered.",
+                "Ciri can perceive certain physical interactions despite the party's inability to see one another normally."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and most knowledgeable member of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Dana recognizes that the current separation resembles the previous situation in La-rel."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Ord attempts to find a powder-like substance that could reveal invisible people.",
+                "Ord considers flour, black powder, or other dust but specifically wants to avoid an explosive substance."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "La-rel": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The current separation is explicitly compared to an earlier incident in La-rel where the party members were present but could not see one another."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Magical phenomenon",
+            "notes": [
+                "A majestic, shining spectral door appears hovering near Sylan and Gerk.",
+                "The door is closed and does not appear to have anything visible behind or through it.",
+                "Its appearance is strongly reminiscent of Gerk's door-shaped shield form.",
+                "Sylan can walk around the door and physically encounter invisible Gerk, indicating that the door is not simply a visible representation of Gerk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the relationship between the spectral door and Gerk's door-shaped shield form?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Sylant",
+            "likely": "Sylan",
+            "notes": "Repeated variant of Sylan's name in the DM narration."
+        },
+        {
+            "heard": "Gerg / Garek / Derek",
+            "likely": "Gerk",
+            "notes": "Multiple ASR variants occur while the DM and players are discussing Gerk."
+        },
+        {
+            "heard": "role",
+            "likely": "roll",
+            "notes": "The transcript says a tray of 'rolls' materializes, followed by references to a role disappearing."
+        },
+        {
+            "heard": "powder mage powder",
+            "likely": "unknown",
+            "notes": "Ord is discussing a powder or dust-like substance; the exact intended term is unclear."
+        },
+        {
+            "heard": "bun / buns",
+            "likely": "roll / rolls",
+            "notes": "Later discussion refers to the rolls that disappeared or otherwise behaved strangely."
+        }
+    ],
+    "openQuestions": [
+        "What is the significance of the spectral door that resembles Gerk's door-shaped shield form?"
+    ],
+    "newTerms": [
+        {
+            "name": "Spectral Door",
+            "notes": [
+                "A mysterious hovering, shining door that appears during the party's separation.",
+                "It resembles Gerk's door-shaped shield form but is established to be distinct from Gerk himself."
+            ]
+        }
+    ]
+}

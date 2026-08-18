@@ -1,0 +1,179 @@
+{
+    "plotSections": [
+        {
+            "title": "Gerk Tests the Doorman Ability",
+            "bullets": [
+                "Gerk and Sylan experiment with Gerk's Doorman ability by opening a door to another location while aboard the moving ship.",
+                "Sylan casts Beacon of Hope to assist Gerk with the required Wisdom saving throws, and both avoid losing sanity from the doorway's effects.",
+                "Opening the door at the rear of the moving ship causes the ship and surrounding material to stretch in a rubber-band-like distortion while the doorway remains fixed in place.",
+                "Gerk makes a Strength saving throw and rolls 31, allowing him to hold onto the doorway despite the extreme force pulling him away from the ship.",
+                "Mahali appears through the doorway from his kitchen and pulls Gerk through to safety. Gerk experiences the transition as movement through time and space, with resistance similar to moving through thick smoke or water.",
+                "The doorway remains open after Gerk passes through, maintaining a connection between Mahali's location and the moving ship.",
+                "The crew reverses the ship to return to Gerk. The rubber-band distortion reverses direction with the ship's movement and eventually brings the ship back into alignment with the doorway.",
+                "Gerk explains to Mahali that he is the Doorman and can apparently open doors to places by concentrating on them, establishing a practical capability of his new role."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan uses Beacon of Hope to assist Gerk with a Wisdom saving throw.",
+        "Gerk and Sylan determine a safe location at the rear of the ship for Gerk to open the doorway.",
+        "Gerk opens the door, causing the rear of the ship and surrounding space to stretch toward the fixed doorway.",
+        "Gerk rolls a 31 on a Strength saving throw and maintains his grip on the doorway.",
+        "Gerk realizes that releasing the doorway would cause him to fall because the doorway is suspended in distorted space.",
+        "Mahali sees Gerk through the doorway and pulls him into his kitchen.",
+        "Gerk passes through the doorway and experiences a strange transition through time and space.",
+        "The doorway remains open while the ship continues moving away from it, stretching the ship's material between the vessel and the doorway.",
+        "Gerk calls through the doorway and asks the crew to stop and reverse the ship.",
+        "The crew reverses the ship, causing the distortion to propagate in the opposite direction.",
+        "The ship is brought back into alignment with the doorway, allowing Gerk to return.",
+        "Gerk explains his Doorman ability to Mahali."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, party ambassador; holder of the Midgard keystone and the Doorman role.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Successfully uses his Doorman ability to open a doorway to another location while aboard the moving ship.",
+                "The ability can apparently target a place through concentration or intention rather than requiring a conventional physical doorway.",
+                "Opening the door while the ship is moving causes the ship and surrounding material to stretch toward the stationary doorway.",
+                "Gerk rolls a 31 on a Strength saving throw and is able to hold onto the doorway despite the extreme forces involved.",
+                "Gerk experiences passage through the doorway as movement through time and space with a thick, resistant sensation.",
+                "The doorway remains open after Gerk passes through instead of closing automatically.",
+                "Gerk identifies himself to Mahali as the Doorman."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [
+                "Gerk is willing to experimentally test his new powers despite the potentially dangerous consequences."
+            ],
+            "quotesThemes": [
+                "Gerk describes his ability as being able to open doors to places if he thinks really hard about them.",
+                "The experiment demonstrates both the usefulness and potentially dangerous physical consequences of the Doorman ability."
+            ],
+            "openQuestions": [
+                "What are the full limitations and rules governing Gerk's Doorman ability?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Uses Beacon of Hope to assist Gerk during the Doorman experiment.",
+                "Helps determine a safe location on the ship from which Gerk can open the doorway.",
+                "Helps direct the ship's crew to reverse the ship after Gerk becomes separated from it."
+            ],
+            "titles": [],
+            "personality": [
+                "Sylan is proactive in helping Gerk test his new ability and responding when the experiment becomes dangerous."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mahali": {
+            "existing": "NPC who previously invited the party back to the stronghold for a meal.",
+            "entityType": "NPC",
+            "notes": [
+                "Is unexpectedly encountered through Gerk's newly opened doorway in his kitchen.",
+                "Is initially confused by the appearance of a doorway where one normally does not exist.",
+                "Pulls Gerk through the doorway when Gerk is left hanging from it as the ship moves away.",
+                "Learns that Gerk is now capable of opening doors to other places."
+            ],
+            "titles": [],
+            "personality": [
+                "Mahali responds quickly to Gerk's dangerous predicament and pulls him to safety."
+            ],
+            "quotesThemes": [
+                "Mahali expresses confusion about the unexpected door appearing in his kitchen."
+            ],
+            "openQuestions": []
+        },
+        "Doorman": {
+            "existing": "Gerk's supernatural role associated with his Midgard keystone.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The Doorman role grants Gerk the ability to open a door connecting his current location with another place he can conceptualize.",
+                "The doorway can remain open while Gerk or others pass through it.",
+                "The doorway appears capable of connecting locations across space and may involve unusual interactions with time and space.",
+                "Opening a doorway from a moving vessel creates severe spatial and material distortion as the vessel moves away from the fixed doorway.",
+                "The ability involves Wisdom saving throws and can create physical forces strong enough to require Strength saving throws."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The experiment suggests that the Doorman is capable of creating doors where no physical doorway previously existed."
+            ],
+            "openQuestions": [
+                "Can Gerk intentionally control how a doorway interacts with moving objects?",
+                "Can Gerk choose any location he can visualize, or are there restrictions on destinations?",
+                "Can the Doorman ability connect locations across time as well as space?"
+            ]
+        },
+        "Doorway": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Gerk's supernatural doorway can remain fixed in space while the ship moves away from it.",
+                "The surrounding ship material stretches toward the doorway in a rubber-band-like fashion rather than simply breaking.",
+                "The doorway provides a physical passage between the ship and Mahali's location.",
+                "The passage produces a sensation similar to moving through thick smoke or water."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The doorway behaves less like an ordinary portal and more like a physical slice or tear through space."
+            ],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "w his system saving bro",
+            "likely": "Wisdom saving throw",
+            "notes": "Context indicates the DM is referring to a Wisdom saving throw."
+        },
+        {
+            "heard": "string saving through",
+            "likely": "Strength saving throw",
+            "notes": "The DM is asking Gerk for a Strength saving throw to maintain his grip on the doorway."
+        },
+        {
+            "heard": "Darren",
+            "likely": "",
+            "notes": "Appears during discussion of whether Gerk has advantage; intended reference is unclear."
+        },
+        {
+            "heard": "posai",
+            "likely": "",
+            "notes": "Appears in Mahali's dialogue after Gerk explains his Doorman ability; intended word is unclear."
+        },
+        {
+            "heard": "re d'oeuvre",
+            "likely": "hors d'oeuvre",
+            "notes": "Refers to food Mahali was carrying."
+        },
+        {
+            "heard": "matter bean",
+            "likely": "material",
+            "notes": "Used while describing the substance of the ship stretching like a rubber band."
+        },
+        {
+            "heard": "virtual",
+            "likely": "",
+            "notes": "Appears in an incomplete description of the strange distortion and is likely an ASR artifact."
+        }
+    ],
+    "openQuestions": [
+        "What are the full limitations and rules of Gerk's Doorman ability?",
+        "Can the Doorman open a door to any location Gerk can visualize?",
+        "Can the Doorman connect locations across time as well as space?"
+    ],
+    "newTerms": [
+        {
+            "name": "Doorman",
+            "notes": [
+                "Gerk's supernatural role associated with his Midgard keystone, allowing him to open doors to other locations."
+            ]
+        }
+    ]
+}

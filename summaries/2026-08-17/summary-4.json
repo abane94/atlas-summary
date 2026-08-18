@@ -1,0 +1,289 @@
+{
+    "plotSections": [
+        {
+            "title": "Walker Departs for the Reach",
+            "bullets": [
+                "Walker, Elrus, and Araden prepare to travel to the Reach to investigate the Dragon Rider training grounds and search for clues related to Grixto and Galixtar.",
+                "The party establishes a plan for Walker to travel independently while keeping in contact with a sending stone; if the party does not hear from him, they will send messages or eventually pursue him.",
+                "Time works differently in the Reach: the party believes roughly one day there corresponds to seven days elsewhere, making communication timing potentially complicated."
+            ]
+        },
+        {
+            "title": "Keystone and Gatehouse Mechanics",
+            "bullets": [
+                "Plymouth explains that he has a general understanding of how the keystones and gatehouse work.",
+                "The doorman, currently Gerk, must help orient and calibrate the keystones and ensure that a keystone is properly seated in the gatehouse before a gate can be safely activated.",
+                "A gate opened from the gatehouse is effectively a one-way venture with the keystone: the stone must remain at the originating gatehouse, and the gate stays open until it is shut again.",
+                "The party is warned that tampering with a keystone while it is activating can cause malfunctions, recalling the dangerous activation of the Gilbrick gate.",
+                "Walker immediately activates the gate to the Reach despite Plymouth's lengthy explanation, then travels through it with Glimmen, Elrus, and Araden."
+            ]
+        },
+        {
+            "title": "Plymouth Joins the Investigation",
+            "bullets": [
+                "Walker invites Plymouth to join the investigation into the Dragon Rider training grounds.",
+                "Plymouth consults with Juten Prime, who agrees that investigating further keystone usage and pursuing clues related to the Dragon Riders would be beneficial.",
+                "Plymouth equips himself for travel with a backpack, traveling cloak, short sword, and additional leather pouches before joining Walker.",
+                "Plymouth warns the remaining party that, with him gone, they will rely solely on Gerk to operate the keystones if they wish to use the gates."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party agrees that Walker should travel to the Reach with Elrus and Araden while the others continue toward Langdale, with both groups planning to maintain contact.",
+        "The party discusses the Reach's unusual time difference and the possibility that Walker could experience much more time there than the party does outside it.",
+        "Walker asks Plymouth about using his keystone to reach the Reach. Plymouth explains that Gerk, as the doorman, must calibrate the gatehouse and correctly seat the keystone before it can be safely used.",
+        "Plymouth explains that an activated gate cannot simply be closed from the far side and that the keystone must remain at the originating gatehouse until the gate is shut.",
+        "Walker activates the gate to the Reach despite the warnings and departs with Glimmen, Elrus, and Araden.",
+        "Walker retrieves the party's sending stone before leaving so he can report his progress.",
+        "Walker invites Plymouth to accompany him. Plymouth consults Juten Prime, receives approval, prepares for travel, and joins the investigation.",
+        "Plymouth warns the remaining party that Gerk will be responsible for operating the keystones while Plymouth is away."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter; Glimmen is his mind-linked dragon.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Walker leaves with Elrus and Araden to investigate the Dragon Rider training grounds in the Reach.",
+                "He takes the party's sending stone so he can keep the group updated during the investigation.",
+                "Walker activates the gate to the Reach using his keystone after Plymouth explains that Gerk normally needs to assist with calibration and operation."
+            ],
+            "titles": [],
+            "personality": [
+                "Acts decisively and somewhat impulsively, activating the gate immediately after receiving an explanation of its risks and requirements.",
+                "Is eager to investigate the Dragon Rider training grounds and pursue clues about the party's common foe."
+            ],
+            "quotesThemes": [
+                "Walker treats his new authority over the keystone gates as something he intends to use immediately."
+            ],
+            "openQuestions": [
+                "What will Walker and his companions discover at the Dragon Rider training grounds in the Reach?"
+            ]
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer investigating the gatehouse and its mosaics.",
+            "entityType": "NPC",
+            "notes": [
+                "Plymouth has a general understanding of how the keystones and gatehouses operate.",
+                "He explains that the doorman must orient and calibrate the keystones and ensure they are properly seated to prevent malfunctions.",
+                "He consults Juten Prime before joining Walker's investigation and receives approval to investigate further keystone usage and pursue clues concerning the Dragon Riders.",
+                "Plymouth leaves the gatehouse equipped for travel with a backpack, traveling cloak, short sword, and additional pouches.",
+                "His departure leaves the remaining party dependent on Gerk for operating the keystones."
+            ],
+            "titles": [],
+            "personality": [
+                "Approaches the Dragon Rider investigation cautiously and considers its value before committing to the journey.",
+                "Is methodical and knowledgeable about the gatehouse and keystone mechanics."
+            ],
+            "quotesThemes": [
+                "Plymouth emphasizes that improper keystone alignment or seating can cause gate malfunctions."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, party ambassador; the Doorman associated with the Midgard keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Gerk is confirmed as the doorman and overseer responsible for the gates at this particular gatehouse.",
+                "The doorman must help orient and calibrate the keystones and ensure they are properly seated before safe activation.",
+                "With Plymouth accompanying Walker, Gerk becomes the party's primary source of assistance for operating the keystones at the gatehouse."
+            ],
+            "titles": [
+                "Doorman",
+                "Overseer of the gates at the gatehouse"
+            ],
+            "personality": [
+                "Shows little concern about Plymouth accompanying Walker and gives a blunt response when asked whether he objects."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How much will Gerk learn about operating and calibrating the keystones through his newfound abilities?"
+            ]
+        },
+        "Juten Prime": {
+            "existing": "Established NPC associated with Plymouth's investigations.",
+            "entityType": "NPC",
+            "notes": [
+                "Juten Prime approves Plymouth joining Walker's investigation, considering further investigation of keystone usage and clues concerning the Dragon Riders beneficial."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Established NPC traveling with Walker and associated with the party's investigation of their common foe.",
+            "entityType": "NPC",
+            "notes": [
+                "Elrus accompanies Walker to the Reach to investigate the Dragon Rider training grounds.",
+                "Before departing, Elrus wishes the party fruitful ventures and hopes that their next meeting will allow them to vanquish their common foe."
+            ],
+            "titles": [],
+            "personality": [
+                "Encouraging and supportive toward the party's investigation."
+            ],
+            "quotesThemes": [
+                "Expresses hope that the group's investigations will eventually help them defeat their common foe."
+            ],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "Established companion associated with Elrus and Walker's group.",
+            "entityType": "NPC",
+            "notes": [
+                "Araden accompanies Elrus and Walker through the gate to the Reach."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Established antagonist/proxy connected to the party's common foe.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker and Plymouth's investigation of the Dragon Rider training grounds is intended to uncover clues about where Grixto and Galixtar are hiding."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What clues about Grixto's whereabouts will be found at the Dragon Rider training grounds?"
+            ]
+        },
+        "Galixtar": {
+            "existing": "Established dragon connected to the party's investigation.",
+            "entityType": "NPC",
+            "notes": [
+                "The Dragon Rider training grounds are being investigated in hopes of finding clues about where Galixtar and Grixto are hiding."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What clues about Galixtar's whereabouts will be found at the Dragon Rider training grounds?"
+            ]
+        },
+        "Sending Stone": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "The party has a sending stone associated with the ship that Walker takes with him to maintain contact while traveling.",
+                "The sending stone can send a message of up to 25 words and is discussed as functioning once per day, though the party is uncertain how its recharge interacts with the Reach's unusual flow of time.",
+                "Dana can also cast Sending as a spell, providing another means of communication."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How does the sending stone's once-per-day limitation interact with the Reach's accelerated passage of time?"
+            ]
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The Dragon Rider training grounds are located near the Lost Isles, among a group of mountains between three islands across a large expanse.",
+                "They can be reached through the gate to the Reach.",
+                "Walker, Elrus, Araden, and eventually Plymouth are traveling there to investigate and search for clues about Grixto and Galixtar."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What will the party find at the Dragon Rider training grounds?"
+            ]
+        },
+        "Gatehouse": {
+            "existing": "A gatehouse containing the keystone-operated gates.",
+            "entityType": "Location",
+            "notes": [
+                "The gatehouse requires a doorman to orient and calibrate keystones and ensure they are properly seated.",
+                "Opening a gate requires leaving its keystone at the originating gatehouse.",
+                "A gate remains open at its originating location until it is deliberately shut, and the keystone cannot simply be taken through to close it from the other side."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The gatehouse's operation reinforces why protecting and controlling the keystones is a vital responsibility."
+            ],
+            "openQuestions": []
+        },
+        "Reach": {
+            "existing": "Realm previously chosen by Walker as his keystone domain.",
+            "entityType": "Location",
+            "notes": [
+                "Walker travels to the Reach through the gatehouse with Elrus, Araden, and Glimmen.",
+                "Time in the Reach appears to pass at a different rate, with the party describing one day outside as roughly seven days there.",
+                "The Reach contains or provides access to the Dragon Rider training grounds."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How precisely does time flow between the Reach and the party's current location?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Spoken while discussing where Grixto and Galixtar may be hiding."
+        },
+        {
+            "heard": "Galixta",
+            "likely": "Galixtar",
+            "notes": "Appears alongside Grixto in the discussion of the investigation."
+        },
+        {
+            "heard": "Juten Prime",
+            "likely": "Juten Prime",
+            "notes": "This spelling is already established as the canonical name; no correction is needed."
+        },
+        {
+            "heard": "flattery",
+            "likely": "",
+            "notes": "Plymouth's sentence about finding clues is garbled; the intended term is unclear from context."
+        },
+        {
+            "heard": "Ellers / Elres",
+            "likely": "Elrus",
+            "notes": "Walker repeatedly refers to his traveling companion; Elrus is the established canonical name."
+        },
+        {
+            "heard": "Gerk",
+            "likely": "Gerk",
+            "notes": "Canonical name is already established; transcript spelling should remain Gerk."
+        },
+        {
+            "heard": "Midgar",
+            "likely": "Midgard",
+            "notes": "The transcript repeatedly drops the final 'd' from the established realm name."
+        },
+        {
+            "heard": "Gilbrick",
+            "likely": "Gilbrick",
+            "notes": "Established keystone/realm name; context concerns the previous malfunctioning gate activation."
+        }
+    ],
+    "openQuestions": [
+        "What will Walker, Elrus, Araden, and Plymouth discover at the Dragon Rider training grounds?",
+        "What clues about Grixto and Galixtar will be found there?",
+        "How exactly does the sending stone's recharge limitation interact with the Reach's different flow of time?",
+        "How much will Gerk learn about calibrating and safely operating the keystones?"
+    ],
+    "newTerms": [
+        {
+            "name": "Sending Stone",
+            "notes": [
+                "A magical communication item capable of sending a message of up to 25 words, discussed as usable once per day."
+            ]
+        },
+        {
+            "name": "Dragon Rider Training Grounds",
+            "notes": [
+                "A location in or accessible through the Reach associated with Dragon Riders and now the target of Walker and Plymouth's investigation."
+            ]
+        }
+    ]
+}

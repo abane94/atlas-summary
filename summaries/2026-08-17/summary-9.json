@@ -1,0 +1,243 @@
+{
+    "plotSections": [
+        {
+            "title": "Gerk's Doorway and the Reality Distortion",
+            "bullets": [
+                "Gerk uses his new Doorkeeper ability to open a doorway into Mahali's kitchen/stronghold while the party's ship is moving. Because the ship continues moving after the door opens, Gerk is effectively left behind, hanging onto the door while the ship and surrounding material stretch like a rubber band.",
+                "Mahali sees Gerk through the unexpected doorway and pulls him through into the stronghold. Passing through the doorway feels like moving through a thick, resistant barrier, and the door remains open after Gerk enters.",
+                "The distortion appears connected to the ship's movement: when the ship reverses, the stretching effect reverses direction and a ripple travels through the ship. The ship can physically pass through the open doorway, suggesting the doorway is functioning as a tear or stretched section of reality rather than a conventional doorway.",
+                "Gerk concludes that his ability can open doors to places he is thinking about, confirming the practical meaning of his Doorkeeper role. He also realizes that using the ability while in motion may produce dangerous effects that he does not yet understand.",
+                "The party and Mahali treat the situation as potentially dangerous. Mahali evacuates the stronghold's residents and guards to the tavern as a precaution while the party determines what will happen when the doorway is closed.",
+                "Gerk and Sylan use the opportunity to obtain food from Mahali. Mahali provides breakfast buns with preserves and freshly churned butter, while Gerk jokes that he wants a final snack in case the situation kills him."
+            ]
+        },
+        {
+            "title": "Understanding the Doorkeeper Ability",
+            "bullets": [
+                "Gerk explains that he can apparently open doors to places if he concentrates on them, reinforcing his newly acquired Doorkeeper abilities.",
+                "The group observes that movement seems to be an important factor in the reality distortion. Gerk previously opened doors without noticing the same severity of effect, but doing so from the moving ship caused the ship and surrounding reality to stretch.",
+                "The party recognizes that they are still learning the mechanics and limitations of Gerk's ability. Sylan reassures the group that they are effectively learning how to use their new powers."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk successfully holds onto a doorway while the moving ship pulls away, with his strength allowing him to remain attached despite the surrounding material stretching.",
+        "Gerk opens the doorway far enough to see Mahali in his kitchen at the stronghold. Mahali is surprised because he does not remember a door being there.",
+        "Mahali pulls Gerk through the doorway. Gerk experiences the transition as moving through a thick, resistant barrier, and the doorway remains open behind him.",
+        "The party stops and reverses the ship after Gerk calls through the doorway. The reality-stretching effect changes direction and ripples through the ship.",
+        "Gerk reappears through the doorway aligned with the ship, allowing the party to reconnect.",
+        "Gerk explains to Mahali that he is the Doorkeeper and can open doors to places by concentrating on them.",
+        "Gerk and Mahali determine that the ship's movement appears to be responsible for the dangerous stretching effect.",
+        "Gerk warns that closing the doorway may cause something significant to happen and chooses to remain with the ship because he believes he should face the consequences of the problem he caused.",
+        "Mahali prepares and gives Gerk breakfast buns, preserves, and butter as a snack.",
+        "Sylan recommends evacuating the stronghold in case the reality distortion affects Mahali's side of the doorway. Mahali agrees and moves the residents and guards to the tavern.",
+        "The party successfully passes the tray of food through the doorway while the crew watches the phenomenon with concern.",
+        "Dana observes that the group does not yet understand the mechanics of the ability well enough for her to have meaningfully supervised its use.",
+        "The party prepares to continue dealing with the open doorway and determine what happens next."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Demonstrated his Doorkeeper ability by opening a doorway to Mahali's stronghold while aboard the moving ship.",
+                "His doorway appears capable of connecting directly to a desired location if he concentrates on it.",
+                "Using the doorway while the ship was moving caused the ship and surrounding reality to stretch or behave like a rubber band.",
+                "Gerk believes closing the doorway may have dangerous consequences and is willing to remain aboard the ship to face them.",
+                "He was physically pulled through the doorway by Mahali after becoming stranded while the ship moved away."
+            ],
+            "titles": [
+                "Doorkeeper"
+            ],
+            "personality": [
+                "Shows a strong sense of responsibility for consequences caused by his new ability.",
+                "Maintains humor and optimism despite believing the situation could potentially kill him."
+            ],
+            "quotesThemes": [
+                "Gerk describes the ability as opening doors to places if he thinks hard about them.",
+                "He recognizes that the mechanics of the ability are currently beyond his understanding."
+            ],
+            "openQuestions": [
+                "What exactly happens when Gerk closes a doorway after using the Doorkeeper ability?",
+                "What are the full limitations and consequences of opening doors while the destination or surrounding material is moving?"
+            ]
+        },
+        "Mahali": {
+            "existing": "Known NPC associated with the party's stronghold.",
+            "entityType": "NPC",
+            "notes": [
+                "Was in his kitchen when Gerk unexpectedly opened a doorway into the stronghold.",
+                "Pulled Gerk through the doorway when Gerk was stranded outside the ship.",
+                "Observed the reality distortion and recognized it as highly unnatural.",
+                "Provided Gerk with leftover breakfast buns, preserves, and freshly churned butter.",
+                "Agreed to evacuate the stronghold's residents and guards to the tavern as a precaution."
+            ],
+            "titles": [],
+            "personality": [
+                "Helpful and hospitable even during the unexpected and dangerous incident."
+            ],
+            "quotesThemes": [
+                "Expressed concern about the unnatural doorway and whether it was responsible for the ship's strange stretched appearance."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue, last name Ivellio.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Helped coordinate the ship's rapid stop and reversal to reconnect with Gerk.",
+                "Recognized that evacuating the stronghold was prudent because the effects of the doorway were not understood.",
+                "Encouraged the group to focus on surviving the incident before conducting an after-action analysis."
+            ],
+            "titles": [],
+            "personality": [
+                "Pragmatic and reassuring during the dangerous reality distortion."
+            ],
+            "quotesThemes": [
+                "Reassured the group that they would be all right because they are the Doorkeepers."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and most knowledgeable member of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Observed the doorway and reality distortion with significant concern.",
+                "Pointed out that she could not reasonably have supervised Gerk's actions because the group does not yet understand the mechanisms of the ability."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The group is still learning how Gerk's new ability works and cannot yet reliably predict its consequences."
+            ],
+            "openQuestions": []
+        },
+        "Doorkeeper": {
+            "existing": "Gerk's newly acquired role associated with opening and closing doors.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Gerk can open a doorway to a place by concentrating on it.",
+                "The ability can create a doorway directly into another location, such as Mahali's stronghold.",
+                "When used from a moving ship, the doorway can interact unpredictably with surrounding matter and space, producing severe stretching or reality-tear effects.",
+                "The doorway remains open after Gerk passes through it rather than automatically closing.",
+                "The consequences of closing a doorway under these conditions remain unknown."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The party is still learning the practical mechanics and limitations of the Doorkeeper ability."
+            ],
+            "openQuestions": [
+                "Does closing the doorway restore reality normally, or does it create another dangerous effect?",
+                "Can the Doorkeeper safely use the ability while moving?"
+            ]
+        },
+        "Reality Distortion": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Opening a doorway from a moving ship caused the ship and surrounding material to stretch like a rubber band.",
+                "Stopping and reversing the ship caused the stretching effect to reverse direction and ripple through the ship.",
+                "The doorway appears to function as a cleaved or stretched section of reality rather than an ordinary physical door.",
+                "Objects and people can pass through the doorway, and the ship itself is not physically stopped by the doorway."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Movement appears to interact strongly with the doorway and may be responsible for the unusual stretching effect."
+            ],
+            "openQuestions": [
+                "What causes the reality-stretching effect?",
+                "What happens to the stretched reality when the doorway is closed?"
+            ]
+        },
+        "Mahali's Stronghold": {
+            "existing": "The party's known stronghold associated with Mahali.",
+            "entityType": "Location",
+            "notes": [
+                "Gerk's doorway unexpectedly opened directly into Mahali's kitchen.",
+                "Mahali and the residents evacuated to the tavern as a precaution because of the unknown effects of the doorway.",
+                "The stronghold's inhabitants may be able to return once the danger is resolved."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Will the reality distortion have any lasting effect on the stronghold after the doorway is closed?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "duel m",
+            "likely": "Doorkeeper",
+            "notes": "Context clearly refers to Gerk's newly established Doorkeeper role."
+        },
+        {
+            "heard": "Gerg",
+            "likely": "Gerk",
+            "notes": "ASR variant of the established character name."
+        },
+        {
+            "heard": "Mahale",
+            "likely": "Mahali",
+            "notes": "ASR variant of the established NPC name."
+        },
+        {
+            "heard": "Salin",
+            "likely": "Sylan",
+            "notes": "ASR variant of the established player character name."
+        },
+        {
+            "heard": "Sylant",
+            "likely": "Sylan",
+            "notes": "ASR variant of the established player character name."
+        },
+        {
+            "heard": "Ciri",
+            "likely": "Ciri",
+            "notes": "Likely correct canonical character name despite occasional ASR variation in surrounding text."
+        },
+        {
+            "heard": "virtual reality",
+            "likely": "reality",
+            "notes": "The transcript repeatedly inserts 'virtual' around descriptions of the reality tear/stretch; this appears to be transcription noise rather than an established game concept."
+        },
+        {
+            "heard": "Ringdale",
+            "likely": "",
+            "notes": "The transcript refers to the stronghold as 'Ringdale,' but this location name is not established in the provided campaign vocabulary."
+        },
+        {
+            "heard": "Ponche",
+            "likely": "Ponchi",
+            "notes": "Likely the established guard name mentioned alongside Koji and Bo."
+        },
+        {
+            "heard": "Bo",
+            "likely": "Bo",
+            "notes": "Could be correct, but appears in a list of stronghold guards and may warrant confirmation."
+        }
+    ],
+    "openQuestions": [
+        "What happens when Gerk closes the doorway?",
+        "Can Gerk safely use his Doorkeeper ability while the ship or another surrounding object is moving?",
+        "What causes the reality-stretching effect around a doorway opened from a moving vessel?",
+        "Will the reality distortion leave any lasting effects on the ship or Mahali's stronghold?"
+    ],
+    "newTerms": [
+        {
+            "name": "Doorkeeper",
+            "notes": [
+                "Gerk's new role and ability allowing him to open doors to places by concentrating on them.",
+                "The ability can interact unpredictably with moving matter and space."
+            ]
+        },
+        {
+            "name": "Reality Stretching",
+            "notes": [
+                "A phenomenon caused by Gerk's doorway interacting with the moving ship, making the ship and surrounding reality stretch and ripple like a rubber band."
+            ]
+        }
+    ]
+}
