@@ -89,7 +89,7 @@ jobs:
       # mid-build `npm install` + same-process require (broken on Node 26+).
       - name: Install Quartz theme package
         working-directory: quartz
-        run: npm install @quartz-themes/its-theme
+        run: npm install @quartz-themes/its-theme @quartz-themes/core @quartz-themes/atelier
 
       - name: Copy quartz.config.yaml
         working-directory: .
