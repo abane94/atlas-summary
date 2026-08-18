@@ -37,6 +37,7 @@ export interface SessionData {
 }
 
 export interface EntityData {
+    slug: string;
     name: string;
     tags: string[];
     aliases: string[];
@@ -164,6 +165,7 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
             const newEntityData: EntityData = {
                 name: newEntityName,
                 tags: [],
+                slug: '',
                 aliases: [],
                 filename: path.join('entities', newEntity.entityType.toLowerCase(), newEntityName.toLowerCase().replaceAll(' ', '_').replace(/[/\\?%*:|"<>]/g, '__') + '.md'),
                 description: await runProsePrompt(page, `
@@ -206,6 +208,18 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
                 createdAt: new Date().toISOString(),
                 updatedAt: new Date().toISOString(),
             };
+            // delete log from the data passed to the prompt without modifying the original data
+            const newEntityDataForPrompt = JSON.parse(JSON.stringify(newEntityData));
+            delete newEntityDataForPrompt.log;
+            newEntityData.slug = await runProsePrompt(page, `
+                This is the entity data for ${newEntityName}.
+                Please generate a slug for the entity.
+                The slug should be a single short phrase (1 sentance) that captures the main essence of the entity.
+                The slug should be in the same language as the entity data.
+                The slug should be in plain text format, no markdown.
+
+                ${JSON.stringify(newEntityDataForPrompt, null, 2)}
+            `);
             existingEntitiesList.push(newEntityData);
             await saveEntity(vaultDataFolder, newEntityData);
         }

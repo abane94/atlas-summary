@@ -83,6 +83,7 @@ async function generateEntityFile(entityData: EntityData, vaultOutputFolder: str
         `aliases: ${entityData.aliases.map(a => `  - "${a}"`).join(', ')}`,
         `createdAt: ${entityData.createdAt}`,
         `updatedAt: ${entityData.updatedAt}`,
+        `slug: ${entityData.slug}`,
         '---',
     ].join('\n') + '\n\n';
 

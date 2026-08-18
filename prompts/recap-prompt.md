@@ -24,50 +24,17 @@ The transcription uses discord screen names, but here is a table mapping users s
 | Beccaaaaa            | Becca     | Dana            | Half elf cleric, most knowledgeable of the group                  |
 
 
-
+## Existing entites, concepts, NPCs, locations, items
 
 ### Non-Player Characters
 
 These characters would be all voiced by tongatank the DM. It maybe difficult to determin which character is speaking through tongatank at any given time, but try to pick up form context clues.
 
 
-| Character        | notes                                                                                       |
-| ---------------- | ------------------------------------------------------------------------------------------- |
-| Ben              | AKA Ballard - minor diety. Our friend who runs the travelling bar. Keeper of the watchers   |
-| Mahali           | Elder god. Our chef                                                                         |
-| Narul            | AKA the stranger. Elder god. Previous god of death                                          |
-| Raven Queen      | AKA Nira. God of the dead. Elder god                                                        |
-| Vecna            | God of liches. Elder god                                                                    |
-| Elrus            |                                                                                             |
-| Araden           |                                                                                             |
-| Kit Anger        |                                                                                             |
-| Juten Prime      | one of the original keepers of the key stones                                               |
-| Plymouth Gawater | Gnome artificer, friend of the party.                                                       |
-| Kar              | a very power entity. we are not entirly sure but he seems to be the main antagonist         |
-| Grixto           | A proxy of Kar. Also know as "Karr the enlightened one" "the enlightened one" "The emporer" |
-| Galixtar         | The dragon of grixto                                                                        |
-| Nevarr           | A writer and explorer. We have never met, but we know of this tombs (books)                 |
-
-
 ### Vocab & Concepts
 
 Some these may be useful in identifying incorrect transcripton (based on spelling) or concepts that have meaning that could help determin context. Use these and character names to understand transcriptions errors.
 
-- key stones - physical stones that open doors to the different realms
-- atlas - the world - includes all realms
-- Juten, Jotunheim - a reace and their home land
-- Navi - an acient race
-- Atlas - the name of the world. It is made up the following "archs" (realms)
-- - The Reach
-- - La-rel
-- - Pitel
-- - Feldspar
-- - Gilbrick
-- - Mitgar
-- - Lith
-- Astral Sea the space around and between the arches
-- Langdale - the region that the party calls home
-- Arch a realm in Atlas
 
 
 ## Output

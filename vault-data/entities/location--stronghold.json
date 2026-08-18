@@ -1,5 +1,6 @@
 {
   "name": "Stronghold",
+  "slug": "The Stronghold is a familiar party location whose Great Hall serves as a mental target for controlling portal destinations.",
   "tags": [],
   "aliases": [],
   "filename": "entities/location/stronghold.md",
