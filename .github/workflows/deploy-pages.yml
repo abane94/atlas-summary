@@ -99,6 +99,8 @@ jobs:
       - name: save tree.txt
         working-directory: .
         run: tree -a -I 'node_modules|.git|.DS_Store' > tree.txt
+        
+      - name: upload tree.txt
         uses: actions/upload-artifact@v4
         with:
           name: tree.txt
