@@ -110,6 +110,18 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    title:
+      name: UnifrakturMaguntia MedievalSharp
+      weights: [400, 600, 700]
+      includeItalic: true
+    body:
+      name: Caudex
+      weights: [400, 600, 700]
+      includeItalic: true
+    header:
+      name: MedievalSharp
+      weights: [400, 600, 700]
+      includeItalic: true
   - source: "@quartz-themes/core"
     enabled: true
     options:
