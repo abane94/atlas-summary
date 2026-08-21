@@ -23,6 +23,58 @@
         "The Raven Queen identifies Sylan as a talon of her order rather than a butcher and advises him to value what he has rather than prepare for death.",
         "Sylan declined to ask the Raven Queen for further favors and carefully recorded her guidance."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Sylan took an active leadership role in planning the party’s response to the lich, strongly favoring a rapid investigation of The Reach while advocating cautious scouting, gathering local information, and keeping the eventual confrontation for when the full party is together. He identified Grixto’s recurring chess-like pieces as a possible clue to his phylactery and suspected the ruined archives may have taught Grixto to use the keystones. Sylan helped Gerk safely experiment with his Doorman abilities, using Beacon of Hope, familiar locations, and careful precautions including a rope; he also helped coordinate the ship’s reversal and recognized when evacuation was prudent. During the resulting magical distortion, Sylan resisted the confusion effect, experienced a deity-like magical surge, and noticed his spells were temporarily empowered. When separated from the others by the spectral door, he determined that physical contact remained possible despite invisibility, discovered Gerk, and used gold coins to create visible messages and mark locations for communication.",
+      "notes": [
+        "Sylan strongly favors tracking down the lich as quickly as possible.",
+        "Sylan proposed investigating the lich's old hideout in The Reach before returning to Nyx.",
+        "Wants to locate the lich as quickly as possible and supports taking the fastest route to The Reach.",
+        "Suggests using information from people familiar with The Reach before committing to a dangerous investigation.",
+        "Questions whether Grixto could realistically still be hiding near the training grounds after learning how close the area is to Walker's former location.",
+        "Investigates the nature of the Al Kurin seen in the previous vision.",
+        "Pushes for a cautious scouting mission rather than an immediate confrontation with Grixto.",
+        "Suggests questioning knowledgeable people in Langdale for information before committing to a dangerous search.",
+        "Identifies Grixto's recurring chess-like pieces as a possible clue to the identity or location of his phylactery.",
+        "Raises concerns about the danger of concentrating multiple keystones in one Bag of Holding.",
+        "Takes a leadership role in planning the party's next moves and recommends that Walker's trip to The Reach remain a scouting mission.",
+        "Wants the eventual confrontation with the lich to happen when the entire party is together.",
+        "Identifies the lich's recurring chess or war-game pieces as a possible clue to his phylactery.",
+        "Suggests Walker take the sending stone so the party can stay informed.",
+        "Helps Gerk understand and safely practice his new portal ability.",
+        "Participates in planning how the party will use the keystones while Juten Prime safeguards the two remaining keystones.",
+        "Concludes that Grixto may have learned how to use the keystones through the ruined archives.",
+        "Takes an active role in helping Gerk safely experiment with his door ability.",
+        "Uses Beacon of Hope to assist Gerk with the wisdom saving throw during the experiment.",
+        "Suggests using a familiar location that Gerk knows well as a test for the door.",
+        "Uses Beacon of Hope to assist Gerk during the Doorman experiment.",
+        "Helps determine a safe location on the ship from which Gerk can open the doorway.",
+        "Helps direct the ship's crew to reverse the ship after Gerk becomes separated from it.",
+        "Helped coordinate the ship's rapid stop and reversal to reconnect with Gerk.",
+        "Recognized that evacuating the stronghold was prudent because the effects of the doorway were not understood.",
+        "Encouraged the group to focus on surviving the incident before conducting an after-action analysis.",
+        "Recognizes that the situation may be dangerous enough to warrant evacuating the stronghold.",
+        "Helps Gerk prepare to close the door and stays with him using a rope as a precaution.",
+        "Believes the party's role as doorkeepers gives them some confidence that they can handle the situation.",
+        "Remains confident that the party will survive despite the dangerous reality distortion.",
+        "Sylan accompanies Gerk through the door and prepares to secure himself with a rope.",
+        "Sylan argues that Gerk's Doorman role means he was meant to handle the door.",
+        "Sylan succeeded on the Wisdom saving throw with a 19 and was unaffected by the confusion effect.",
+        "Sylan experienced the magical surge associated with the closing door.",
+        "Sylan recognized the surge as resembling the sensation of being in the presence of deities.",
+        "Sylan understood that his spells were currently greatly enhanced in some fashion.",
+        "Sylan succeeds on the Wisdom saving throw associated with the magical event and avoids the confusion effect.",
+        "Sylan experiences magical energy reminiscent of being in the presence of deities and understands that his spells are temporarily empowered.",
+        "Sylan can physically feel contact from Ciri despite being unable to see her.",
+        "Sylan can hear his own impacts against the boat, but the other separated party members cannot hear them.",
+        "Sylan can physically interact with invisible party members and the environment even though he cannot see them.",
+        "Sylan discovered the spectral door and determined that it does not itself conceal a visible person.",
+        "Sylan used gold coins to spell out a message on the floor as a communication method.",
+        "Sylan discovers the invisible Gerk by walking around the spectral door and physically making contact with him.",
+        "Sylan experiments with physical interaction to determine Gerk's condition, including hitting and shaking him.",
+        "Sylan uses coins as a communication medium, creating visible messages on the deck and marking Gerk's location."
+      ]
     }
   ],
   "openQuestions": [
@@ -32,5 +84,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:02:08.336Z",
-  "updatedAt": "2026-08-11T14:02:08.336Z"
+  "updatedAt": "2026-08-21T17:36:47.015Z",
+  "normalizedAliases": [
+    "sylan"
+  ]
 }

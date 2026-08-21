@@ -1,7 +1,9 @@
 {
   "name": "Mother's Prayer",
   "slug": "An ancient Navi sacred prophecy of catastrophe, a hero, and self-rewriting fate that currently describes Gerk and serves Atlas.",
-  "tags": [],
+  "tags": [
+    "prophecy"
+  ],
   "aliases": [],
   "filename": "entities/concept/mother's_prayer.md",
   "description": "Mother's Prayer, also known as the Mother's Prophecy, Mother's Tale, or Mother's Tales, is an ancient sacred prophecy originating in the early history of the Navi in Midgard and across Atlas. It describes a recurring cycle involving catastrophe, a hero, difficult choices, gates and arches, dormant keys, and individuals connected to the Great Eldarin Tree. The prophecy can apparently change itself when a son or daughter of the Tree chooses an independent path, suggesting that it records possibilities rather than dictating fate. It is associated with the mysterious process by which individuals are brought forth when Atlas requires them, and its purpose appears connected to the health and prosperity of Atlas as a whole. The prophecy was unintentionally set in motion when the Navi created the keystones, and Gerk is currently identified as the individual described by it.",
@@ -34,5 +36,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:25:07.608Z",
-  "updatedAt": "2026-08-11T14:25:07.608Z"
+  "updatedAt": "2026-08-21T19:23:48.049Z",
+  "normalizedAliases": [
+    "mothers prayer"
+  ]
 }

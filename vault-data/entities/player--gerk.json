@@ -1,7 +1,10 @@
 {
   "name": "Gerk",
   "slug": "Gerk is a half-orc barbarian Doorman and Child of the Great Eldarin Tree who opens Arch doorways and keeps the Midgard keystone.",
-  "tags": [],
+  "tags": [
+    "title",
+    "artifact"
+  ],
   "aliases": [],
   "filename": "entities/player/gerk.md",
   "description": "Gerk is a half-orc barbarian and party ambassador who has been revealed as a Child of the Great Eldarin Tree and the child foretold by the Mother’s Prayer. He serves as the Doorman, a unique role that allows him to open, close, connect with, and protect Arch doorways. Gerk is the keeper of the Midgard keystone and is entrusted with helping make Midgard greater rather than simply concealing its power. His developing ability to create seamless doorways through reality is still difficult to control, particularly their destinations, but he is learning to use this power. As a Child of the Tree and honorary member of the Navi, Gerk's path is connected to prophecy while his choices remain his own.",
@@ -27,6 +30,69 @@
         "Gerk can see the mysterious white-flower girl and wants to follow her trail.",
         "Gerk is experimenting with his new portal abilities and is beginning to learn how to operate them."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Gerk is confirmed as the Doorman responsible for calibrating and properly seating keystones before safe activation, becoming the party’s primary assistance for operating the gatehouse. He experiments with his door-opening ability, first connecting to unknown environments and later opening a doorway to Mahali’s stronghold by concentrating on a desired location. Using the ability from the moving ship causes severe spatial distortion, stretching the ship and surrounding reality toward the stationary doorway and exerting dangerous forces on Gerk. He takes responsibility for closing the doorway despite believing doing so may be fatal. Afterward, Gerk fails a Wisdom saving throw and is affected by confusion, becoming incoherent and unable to move or act normally. A giant, shiny spectral door resembling his shield in door form appears above him. Gerk becomes unseen while remaining physically tangible, allowing Sylan to locate and support him despite being unable to see him. Gerk can still move his mouth and scream, but his voice cannot be heard, while an unseen force manipulates his body and Sylan drags him toward the spectral door.",
+      "notes": [
+        "Gerk is confirmed as the doorman and overseer responsible for the gates at this particular gatehouse.",
+        "The doorman must help orient and calibrate the keystones and ensure they are properly seated before safe activation.",
+        "With Plymouth accompanying Walker, Gerk becomes the party's primary source of assistance for operating the keystones at the gatehouse.",
+        "As Doorman, Gerk is responsible for calibrating and properly seating keystones before the gates can be safely activated.",
+        "Gerk begins experimenting with his new gate-opening ability and successfully opens multiple portals to unknown environments.",
+        "His first attempt releases a large quantity of brackish swamp water; his second reveals a hot, sulfurous wasteland with geysers.",
+        "With Plymouth leaving the gatehouse, Gerk becomes the sole remaining party member responsible for helping operate the keystones.",
+        "Can now open portals through door-like manifestations that connect to other locations or environments.",
+        "His first demonstrated portal opened onto brackish swamp water and produced a powerful rush of water.",
+        "A second portal opened onto a barren, arid landscape with geysers, steam, intense heat, and sulfuric/brimstone smells.",
+        "He is beginning to experiment with controlling where and how the portals open and intends to practice during the voyage.",
+        "He plans to test whether concentrating on a familiar location, such as the party's house, can cause a portal to open there.",
+        "Continues experimenting with his door-opening ability while traveling.",
+        "Can attempt to open a doorway to a specific familiar location, including his own house and bedroom.",
+        "Opening a door from a moving boat can cause the surrounding space and part of the boat to stretch outward while the boat continues moving normally.",
+        "The doorway can exert a strong pulling force on Gerk, requiring a Strength saving throw if he attempts to hold onto it.",
+        "Successfully uses his Doorman ability to open a doorway to another location while aboard the moving ship.",
+        "The ability can apparently target a place through concentration or intention rather than requiring a conventional physical doorway.",
+        "Opening the door while the ship is moving causes the ship and surrounding material to stretch toward the stationary doorway.",
+        "Gerk rolls a 31 on a Strength saving throw and is able to hold onto the doorway despite the extreme forces involved.",
+        "Gerk experiences passage through the doorway as movement through time and space with a thick, resistant sensation.",
+        "The doorway remains open after Gerk passes through instead of closing automatically.",
+        "Gerk identifies himself to Mahali as the Doorman.",
+        "Demonstrated his Doorkeeper ability by opening a doorway to Mahali's stronghold while aboard the moving ship.",
+        "His doorway appears capable of connecting directly to a desired location if he concentrates on it.",
+        "Using the doorway while the ship was moving caused the ship and surrounding reality to stretch or behave like a rubber band.",
+        "Gerk believes closing the doorway may have dangerous consequences and is willing to remain aboard the ship to face them.",
+        "He was physically pulled through the doorway by Mahali after becoming stranded while the ship moved away.",
+        "Believes closing the door may be dangerous enough to kill him because he caused the distortion.",
+        "Recognizes that movement while using the door appears to stretch reality and may cause the ship to occupy multiple positions.",
+        "Takes responsibility for closing the door and prepares to do so despite the risk.",
+        "Feels the temporal or dimensional barrier again immediately before closing the door.",
+        "Rolls a 5 on a d10 during the resolution of the door's effects.",
+        "Gerk takes responsibility for stepping through and closing the door.",
+        "Gerk rolls a d10 to resolve the door's effect and gets a 5.",
+        "Gerk is treated by Sylan as the party member specifically suited to handling the doors because of his Doorman role.",
+        "Sylan suggests that Gerk's role as Doorman means he was specifically meant to deal with the current magical door situation.",
+        "Gerk failed the Wisdom saving throw associated with the magical effect.",
+        "Gerk was affected by a confusion spell after the door closed and became unable to move or take actions.",
+        "A giant spectral door appeared near the location where Gerk had been.",
+        "The magical event is centered on Gerk and the Doorman aspect of his power.",
+        "Gerk fails the Wisdom saving throw and is immediately affected by a confusion effect.",
+        "While confused, Gerk is unable to meaningfully move or take actions and cannot understand what is happening.",
+        "A giant spectral door appears near where Gerk had been after the magical discharge.",
+        "The spectral door resembles Gerk's door when it is in shield form.",
+        "Gerk is still incoherent and unable to understand what is happening during the separation.",
+        "Gerk cannot normally move during this phenomenon, although the DM allows him to fall to the floor.",
+        "Sylan can physically locate and support Gerk despite being unable to see him.",
+        "A spectral door appears near Gerk and resembles Gerk's door when his shield is in door form.",
+        "Gerk is affected by the strange invisibility/disappearance phenomenon and cannot be seen even though he remains physically present.",
+        "Gerk appears unable to move normally while affected, although the DM permits him to fall to the ground by giving up his attempt to remain standing.",
+        "Gerk remains physically tangible: Sylan can collide with, strike, support, and shake him despite being unable to see him.",
+        "A very shiny spectral door is hovering above Gerk while he is affected by the phenomenon.",
+        "Gerk is currently being affected by an unseen force that shakes and moves him despite his apparent inability to move normally.",
+        "A shiny spectral door is hovering above Gerk while he is being manipulated.",
+        "Gerk can physically move his mouth and scream, but his voice is not heard by the surrounding party members.",
+        "Sylan is able to physically reposition Gerk's head and drag his body toward the spectral door."
+      ]
     }
   ],
   "openQuestions": [
@@ -39,5 +105,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:01:01.004Z",
-  "updatedAt": "2026-08-11T14:01:01.005Z"
+  "updatedAt": "2026-08-21T17:44:04.570Z",
+  "normalizedAliases": [
+    "gerk"
+  ]
 }

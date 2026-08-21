@@ -1,0 +1,39 @@
+{
+  "name": "Langdale Stronghold",
+  "type": "LOCATION",
+  "aliases": [
+    "Stronghold",
+    "Ringdale Stronghold"
+  ],
+  "tags": [],
+  "slug": "Party's central stronghold and home base",
+  "description": "Langdale Stronghold is the party’s stronghold and home base, containing the Great Hall, which serves as a familiar mental reference point for controlling portal destinations. It is associated with Gerk’s attempts to use familiar places as portal targets. The stronghold was later evacuated while the party dealt with a distorted door, with Mahali and its residents relocating to the tavern for safety.",
+  "filename": "entities/location/langdale_stronghold.md",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "The Great Hall of the stronghold was used as a familiar mental target during attempts to control portal destinations.",
+      "notes": [
+        "Dana suggested Gerk use the Great Hall as a mental target when attempting to control portal destinations.",
+        "Gerk attempted to open a portal to the Great Hall but instead reached a forest near Langdale."
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "The stronghold is evacuated because the consequences of closing the distorted door are uncertain. Mahali and the residents relocate to the tavern for safety while the party handles the door.",
+      "notes": [
+        "The stronghold is evacuated because the consequences of closing the distorted door are uncertain.",
+        "Mahali and the residents relocate to the tavern while the party handles the door."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T17:23:29.829Z",
+  "updatedAt": "2026-08-21T17:52:52.307Z",
+  "normalizedAliases": [
+    "langdale stronghold",
+    "stronghold",
+    "ringdale stronghold"
+  ]
+}

@@ -19,10 +19,28 @@
         "Her magic may cause Lith's inhabitants to interpret her as a witch or other supernatural figure.",
         "Lith experiences occasional incursions or gaps involving things from other worlds, which become sources of cryptid legends."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Ciri was separated from the other party members following a magical event and initially could not see or hear them. While searching for her “exit buddy,” she tested the surrounding space by moving and striking through the air, eventually making physical contact with Sylan despite being unable to perceive him visually. This confirmed that the unseen party members remained physically present and could still be encountered by touch, although Ciri did not hear the contact. Ciri’s experience established that the magical separation affected normal visual and auditory perception without preventing physical interaction.",
+      "notes": [
+        "Ciri was not among the characters directly identified as the primary targets of the initial magical effect.",
+        "After the event, Ciri searches for her 'exit buddy' but cannot find them.",
+        "Ciri cannot see the other party members after the magical event.",
+        "Ciri tests whether another person is physically present by swinging her hand through the air.",
+        "Ciri eventually makes physical contact with Sylan despite being unable to see him, confirming that the separation does not prevent physical contact.",
+        "Ciri does not hear the contact she makes with Sylan.",
+        "Ciri attempted to locate nearby people by blindly striking the air.",
+        "Ciri successfully made physical contact with Sylan, confirming that unseen people can still be physically encountered.",
+        "Ciri can perceive certain physical interactions despite the party's inability to see one another normally."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:50:08.559Z",
-  "updatedAt": "2026-08-11T15:50:08.559Z"
+  "updatedAt": "2026-08-21T17:55:25.715Z",
+  "normalizedAliases": [
+    "ciri"
+  ]
 }

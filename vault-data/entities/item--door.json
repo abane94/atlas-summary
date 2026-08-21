@@ -1,0 +1,32 @@
+{
+  "name": "Door",
+  "tags": [],
+  "slug": "A door that stretches reality between places",
+  "aliases": [],
+  "normalizedAliases": [
+    "door"
+  ],
+  "filename": "entities/item/door.md",
+  "description": "A door capable of creating a distorted connection that appears to stretch reality between its opening point and a destination or the ship's position.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The door was observed to create a stretched path through reality, allowing individuals to pass through even while the ship itself remains in motion. Opening it during movement appears especially dangerous, potentially placing the ship in two places at once or stretching reality along its path. Closing the door produces a blinding light that travels through the stretched path before a d10/chart determines the final outcome.",
+      "notes": [
+        "The door can create a connection that appears to stretch reality between the point where it is opened and the destination or position of the ship.",
+        "Opening the door while the ship is moving appears particularly dangerous, potentially causing the ship to exist in two places at once or causing reality to stretch along its path.",
+        "Individuals can pass through the distorted doorway even though the ship itself is not simply stopped or blocked by the opening.",
+        "Closing the door produces a blinding light that follows the stretched path through the ship before the final outcome is determined by a d10/chart system."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What are the full rules governing the doors?",
+    "What happens when a door is closed after reality has been stretched?",
+    "What determines the destination and severity of the door's reality distortion?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:37:16.665Z",
+  "updatedAt": "2026-08-21T18:37:16.665Z"
+}

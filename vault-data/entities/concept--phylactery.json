@@ -1,0 +1,32 @@
+{
+  "name": "Phylactery",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "A vessel containing a lich's soul",
+  "aliases": [],
+  "normalizedAliases": [
+    "phylactery"
+  ],
+  "filename": "entities/concept/phylactery.md",
+  "description": "A phylactery is a vessel containing a lich's soul. Grixto's phylactery is believed to be a mundane object he keeps on his person, though the exact mechanism by which he returns after being destroyed is unknown. His recurring chess-like pieces may be connected to the phylactery.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The party's lore establishes that a phylactery contains a lich's soul. The party believes Grixto's phylactery is a mundane object he carries, but the available lore does not explain how his return after destruction works. His recurring chess-like pieces may be related to the phylactery.",
+      "notes": [
+        "The party's lore describes a phylactery as a vessel containing a lich's soul.",
+        "The party believes Grixto's phylactery is a mundane object that he keeps on his person.",
+        "The available lore does not explain the exact mechanism by which the lich returns after being destroyed.",
+        "Grixto's recurring chess-like pieces may be connected to his phylactery."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What specific object is Grixto's phylactery?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:18:44.879Z",
+  "updatedAt": "2026-08-21T18:18:44.879Z"
+}

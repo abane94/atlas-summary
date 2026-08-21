@@ -1,0 +1,41 @@
+{
+  "name": "Midgar",
+  "type": "LOCATION",
+  "aliases": [
+    "Midgard"
+  ],
+  "tags": [
+    "realm"
+  ],
+  "slug": "Midgar realm and Arch of Atlas",
+  "description": "Midgar is a realm and Arch of Atlas whose keystone is held by Gerk, who is responsible for protecting it, actively using it, and helping make Midgar greater. Time passes at a significantly different rate in Midgar, with approximately seven days in Midgar passing for every one day elsewhere.",
+  "filename": "entities/location/midgar.md",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Gerk chooses and receives the Midgar keystone, becoming its keeper with responsibilities to protect it, actively use it, and help make Midgar greater.",
+      "notes": [
+        "Gerk chooses and receives the Midgar keystone.",
+        "Gerk becomes responsible for protecting, actively using, and helping make Midgar greater.",
+        "Previous Midgar keepers primarily hid and preserved its keystone."
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "The session establishes that one day in Midgar corresponds to approximately seven days outside it. The party explicitly considers this time differential when estimating how long Walker can remain away before the others notice significant elapsed time, reinforcing that time passes substantially faster in Midgar than in the party's current timeframe.",
+      "notes": [
+        "One day in Midgar corresponds to seven days outside it.",
+        "The party explicitly considers the time differential when estimating how long Walker can remain away before the others notice significant elapsed time.",
+        "A significant time difference exists between Midgard and the party's current timeframe; the discussion establishes a seven-to-one relationship, with seven days passing in Midgard during approximately one day elsewhere."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T16:14:02.645Z",
+  "updatedAt": "2026-08-21T19:23:48.059Z",
+  "normalizedAliases": [
+    "midgar",
+    "midgard"
+  ]
+}

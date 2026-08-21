@@ -1,0 +1,26 @@
+{
+  "name": "Nyx",
+  "tags": [],
+  "slug": "Nyx may hold hobgoblins who know where the lich is hiding.",
+  "aliases": [],
+  "normalizedAliases": [
+    "nyx"
+  ],
+  "filename": "entities/location/nyx.md",
+  "description": "Nyx is a location associated with hobgoblins and the lich's former movements.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The party may need to return to Nyx if investigating the lich's former hideout does not reveal enough information. They expect the hobgoblins in Nyx may know where the lich is currently hiding.",
+      "notes": [
+        "The party may need to return to Nyx if investigating the lich's former hideout does not reveal enough information.",
+        "The party expects hobgoblins in Nyx may know where the lich is hiding."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T17:59:08.827Z",
+  "updatedAt": "2026-08-21T17:59:08.827Z"
+}

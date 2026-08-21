@@ -1,7 +1,9 @@
 {
   "name": "Lith",
   "slug": "Lith is an Arch realm of Atlas whose inhabitants reject magic and interpret the supernatural through folklore, fairy tales, and cryptid stories.",
-  "tags": [],
+  "tags": [
+    "realm"
+  ],
   "aliases": [],
   "filename": "entities/location/lith.md",
   "description": "Lith is an Arch realm of Atlas whose inhabitants have largely rejected magic and instead understand supernatural phenomena through folklore, fairy tales, and cryptid stories. Despite this rejection, magic remains present in Lith, with occasional incursions or gaps involving things from other worlds becoming frightening events that inspire local legends. Ciri is the Gatekeeper of Lith, having received its keystone, and her use of magic may lead the inhabitants to interpret her as a witch or other supernatural figure. Her presence is therefore likely to become part of Lith’s enduring history and folklore, potentially inspiring holidays, stories, and legends.",
@@ -23,5 +25,8 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:06:17.551Z",
-  "updatedAt": "2026-08-11T16:06:17.551Z"
+  "updatedAt": "2026-08-21T19:23:48.059Z",
+  "normalizedAliases": [
+    "lith"
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Dragon Rider Training Grounds",
+  "tags": [],
+  "slug": "Dragon Rider guild training grounds near the Lost Isles",
+  "aliases": [],
+  "normalizedAliases": [
+    "dragon rider training grounds"
+  ],
+  "filename": "entities/location/dragon_rider_training_grounds.md",
+  "description": "The Dragon Rider training grounds are located near the Lost Isles, among a group of mountains between three islands across a large expanse. They were associated with the Dragon Rider guild that Elrus and Araden belonged to.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "During the session, Walker, Elrus, Araden, and eventually Plymouth traveled toward the Dragon Rider training grounds through the gate to the Reach. The expedition was intended to investigate the grounds and search for clues connected to Grixto and Galixtar.",
+      "notes": [
+        "The Dragon Rider training grounds are located near the Lost Isles, among a group of mountains between three islands across a large expanse.",
+        "They can be reached through the gate to the Reach.",
+        "Walker, Elrus, Araden, and eventually Plymouth are traveling there to investigate and search for clues about Grixto and Galixtar.",
+        "The expedition is traveling there to investigate clues connected to Grixto and Galixtar.",
+        "The grounds were associated with the Dragon Rider guild that Elrus and Araden belonged to."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What will the party find at the Dragon Rider training grounds?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:28:00.057Z",
+  "updatedAt": "2026-08-21T18:28:00.057Z"
+}

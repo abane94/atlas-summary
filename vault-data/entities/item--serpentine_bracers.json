@@ -1,0 +1,31 @@
+{
+  "name": "serpentine bracers",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Bracers that summon constrictor snakes",
+  "aliases": [],
+  "normalizedAliases": [
+    "serpentine bracers"
+  ],
+  "filename": "entities/item/serpentine_bracers.md",
+  "description": "Serpentine bracers are worn by Dana and can produce constrictor snakes.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Dana is wearing the serpentine bracers. The relevant command produces two constrictor snakes, and the summoned snakes remain visible even during the unusual invisibility effect affecting the party.",
+      "notes": [
+        "Dana is wearing serpentine bracers that can produce constrictor snakes.",
+        "The summoned snake is visible even while the party is dealing with an unusual invisibility effect.",
+        "The DM states that the relevant command produces two constrictor snakes."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What are the complete mechanics and limitations of the serpentine bracers?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:57:21.097Z",
+  "updatedAt": "2026-08-21T18:57:21.097Z"
+}

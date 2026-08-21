@@ -7,22 +7,30 @@ import {
   formatSessionStatus,
   generateChunks,
   generateMerged,
-  generateRecap,
   getSessionStatus,
   latestTranscriptDate,
   listDatedFolders,
   mergeNeedsWork,
-  recapNeedsWork,
   type PipelineStep,
 } from "../lib/summarize.ts";
-import { generateVaultData, getVaultProgress, vaultNeedsWork } from "../lib/vault-data.ts";
+import { findDuplicateEntities, formatDedupReport, previewEntityTable, runInteractiveDedup } from "../lib/dedup-entities.ts";
+import {
+  backfillEntityTags,
+  formatTagsBackfillReport,
+  previewTagsEntityTable,
+} from "../lib/tag-entities.ts";
+import {
+  generateVaultData,
+  getVaultForcePreview,
+  getVaultProgress,
+  vaultNeedsWork,
+} from "../lib/vault-data.ts";
 
 const HELP = `
 dnd-transcribe-summary
 
 Local pipeline (ChatGPT via Chrome):
   transcripts/YYYY-MM-DD/{recap.md,transcript.md}
-    → recap     summaries/YYYY-MM-DD/recap.json
     → chunks    summaries/YYYY-MM-DD/summary-N.json
     → merge     summaries/YYYY-MM-DD/merged.json
     → vault     vault-data/log/*.json + vault-data/entities/*.json
@@ -32,17 +40,24 @@ Website markdown is generated on CI (lib/generate-markdown.ts), not here.
 Usage:
   npm start                         Show this help and session status
   npm start -- status [date]
-  npm start -- <date>               Recap + chunks + merge (skips completed steps)
+  npm start -- <date>               Chunks + merge (skips completed steps)
   npm start -- process [date]       Same as above (date defaults to latest)
-  npm start -- recap|chunks|merge|vault [date]
+  npm start -- chunks|merge|vault [date]
   npm start -- vault [date]         Vault for one date, or every session that still needs it
+  npm start -- vault <date> --force Redo vault for a date (replace entity logs; requires date)
+  npm start -- dedup                Find likely duplicate vault entities (not part of process)
+  npm start -- dedup --interactive  Confirm duplicates, then AI-merge approved groups
+  npm start -- tags                 Assign closed-catalog tags to existing vault entities
 
 Options:
   --force            Redo selected steps even if output already exists
-  --from <step>      Start at recap, chunks, merge, or vault (then continue)
+                     (vault: re-read merged.json, re-run AI, replace that date's
+                     entity logs; delete entities that only had this date; requires a date)
+  --from <step>      Start at chunks, merge, or vault (then continue)
   --only <step,...>  Run only these steps
   --with-vault       Include vault after merge (off by default)
   --dry-run          Print what would run, without calling ChatGPT
+  --interactive      For dedup: review each group and merge approved ones
   --help, -h         Show this help
 
 Examples:
@@ -51,7 +66,14 @@ Examples:
   npm start -- 2026-08-17 --only merge
   npm start -- 2026-08-17 --with-vault
   npm start -- vault 2026-08-17
+  npm start -- vault 2026-08-17 --force
   npm start -- 2026-08-17 --only chunks --force
+  npm start -- dedup
+  npm start -- dedup --dry-run
+  npm start -- dedup --interactive
+  npm start -- dedup --interactive --dry-run
+  npm start -- tags
+  npm start -- tags --dry-run
 `.trim();
 
 function rethrowChromeHint(error: unknown): never {
@@ -67,6 +89,7 @@ interface ParsedArgs {
   force: boolean;
   dryRun: boolean;
   withVault: boolean;
+  interactive: boolean;
   command: string;
   date?: string;
   from?: PipelineStep;
@@ -100,6 +123,8 @@ function parseArgs(argv: string[]): ParsedArgs {
       flags.add("force");
     } else if (arg === "--dry-run") {
       flags.add("dry-run");
+    } else if (arg === "--interactive") {
+      flags.add("interactive");
     } else if (arg === "--with-vault") {
       flags.add("with-vault");
     } else if (arg === "--from" || arg === "--only") {
@@ -117,10 +142,11 @@ function parseArgs(argv: string[]): ParsedArgs {
 
   const commands = new Set([
     "process",
-    "recap",
     "chunks",
     "merge",
     "vault",
+    "dedup",
+    "tags",
     "status",
     "help",
   ]);
@@ -159,6 +185,7 @@ function parseArgs(argv: string[]): ParsedArgs {
     force: flags.has("force"),
     dryRun: flags.has("dry-run"),
     withVault: flags.has("with-vault"),
+    interactive: flags.has("interactive"),
     command,
     date,
     from,
@@ -203,7 +230,6 @@ async function stepNeedsWork(
   date: string,
   force: boolean,
 ): Promise<boolean> {
-  if (step === "recap") return recapNeedsWork(date, force);
   if (step === "chunks") return chunksNeedWork(date, force);
   if (step === "merge") return mergeNeedsWork(date, force);
   return vaultNeedsWork(date, { force });
@@ -233,8 +259,19 @@ async function printStatus(date?: string): Promise<void> {
   }
 }
 
-async function describeStep(step: PipelineStep, date: string): Promise<string> {
+async function describeStep(step: PipelineStep, date: string, force = false): Promise<string> {
   if (step === "vault") {
+    if (force) {
+      const preview = await getVaultForcePreview(date);
+      const progress = await getVaultProgress(date);
+      const parts = [
+        `replace ${preview.entityLogsToReplace} entity log${preview.entityLogsToReplace === 1 ? "" : "s"}`,
+        `delete ${preview.entitiesToDelete} entit${preview.entitiesToDelete === 1 ? "y" : "ies"}`,
+        preview.hasSessionLog ? "rewrite session log" : "write session log",
+        `${progress.entityTotal} from merged.json`,
+      ];
+      return `${step} --force (${parts.join(", ")})`;
+    }
     const progress = await getVaultProgress(date);
     const remaining = Math.max(0, progress.entityTotal - progress.entityProcessed);
     const log = progress.hasSessionLog ? "session log exists" : "no session log";
@@ -265,7 +302,7 @@ async function runSelectedSteps(
 
   const described: string[] = [];
   for (const step of needed) {
-    described.push(await describeStep(step, date));
+    described.push(await describeStep(step, date, force));
   }
   console.log(`${dryRun ? "Would run" : "Running"}: ${described.join(" → ")}`);
   if (dryRun) return;
@@ -273,8 +310,7 @@ async function runSelectedSteps(
   try {
     await withChatGptPage(async (page) => {
       for (const step of needed) {
-        if (step === "recap") await generateRecap(page, date, { force });
-        else if (step === "chunks") await generateChunks(page, date, { force });
+        if (step === "chunks") await generateChunks(page, date, { force });
         else if (step === "merge") await generateMerged(page, date, { force });
         else await generateVaultData(page, "summaries", "vault-data", { date, force });
       }
@@ -308,23 +344,76 @@ async function main(): Promise<void> {
     return;
   }
 
+  if (args.command === "dedup") {
+    if (args.date) {
+      throw new Error("dedup does not take a session date");
+    }
+    if (args.interactive) {
+      try {
+        await runInteractiveDedup({ dryRun: args.dryRun });
+      } catch (error) {
+        rethrowChromeHint(error);
+      }
+      return;
+    }
+    if (args.dryRun) {
+      console.log(await previewEntityTable());
+      return;
+    }
+    try {
+      await withChatGptPage(async (page) => {
+        const result = await findDuplicateEntities(page);
+        console.log(formatDedupReport(result));
+      });
+    } catch (error) {
+      rethrowChromeHint(error);
+    }
+    return;
+  }
+
+  if (args.command === "tags") {
+    if (args.date) {
+      throw new Error("tags does not take a session date");
+    }
+    if (args.dryRun) {
+      console.log(await previewTagsEntityTable());
+      return;
+    }
+    try {
+      await withChatGptPage(async (page) => {
+        const result = await backfillEntityTags(page);
+        console.log(formatTagsBackfillReport(result));
+      });
+    } catch (error) {
+      rethrowChromeHint(error);
+    }
+    return;
+  }
+
   if (args.command === "vault" && !args.date) {
+    if (args.force) {
+      throw new Error(
+        "vault --force requires a session date, e.g. vault 2026-08-17 --force",
+      );
+    }
     const dates = listDatedFolders("summaries");
     const needed: string[] = [];
     for (const sessionDate of dates) {
-      if (await vaultNeedsWork(sessionDate, { force: args.force })) {
+      if (await vaultNeedsWork(sessionDate, { force: false })) {
         needed.push(sessionDate);
       }
     }
     if (needed.length === 0) {
-      console.log("All vault sessions are up to date. Use --force to regenerate a session log.");
+      console.log(
+        "All vault sessions are up to date. Use vault <date> --force to redo a session.",
+      );
       return;
     }
     console.log(`Vault work needed for: ${needed.join(", ")}`);
     if (args.dryRun) return;
     try {
       await withChatGptPage(async (page) => {
-        await generateVaultData(page, "summaries", "vault-data", { force: args.force });
+        await generateVaultData(page, "summaries", "vault-data", {});
       });
     } catch (error) {
       rethrowChromeHint(error);

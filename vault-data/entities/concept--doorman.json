@@ -1,15 +1,20 @@
 {
   "name": "Doorman",
-  "slug": "The Doorman is Gerk's unique keeper role, able to open and close an Arch and create seamless doorways that bend reality.",
-  "tags": [],
-  "aliases": [],
-  "filename": "entities/concept/doorman.md",
-  "description": "The Doorman is a unique keeper role held by Gerk, distinct from the Gatekeeper roles held by the other party members. The Doorman has the ability to open and close an Arch, connect with and protect it, and manipulate reality to create doorways through an invisible handle. These doorways have no conventional threshold and bend reality seamlessly, allowing passage between locations. The destinations of Gerk’s doorways are currently unpredictable.",
   "type": "CONCEPT",
+  "aliases": [
+    "Door Ability",
+    "Doorkeeper"
+  ],
+  "tags": [
+    "title"
+  ],
+  "slug": "Gerk's Doorman role and doorway ability",
+  "description": "The Doorman is Gerk’s unique keeper role, tied to his Midgard keystone and distinct from the Gatekeeper roles held by the other party members. The role allows Gerk to open and close an Arch, connect with and protect it, and create seamless doorways through reality by manipulating an invisible handle or concentrating on a destination he can conceptualize. These doorways have no conventional threshold and can connect locations directly, remaining open for Gerk or others to pass through rather than necessarily closing automatically. Their destinations are not yet fully predictable, and using the ability requires a Wisdom saving throw. Doorways can produce powerful and unpredictable spatial effects, including stretching or distorting surrounding matter and exerting strong pulling forces, particularly when opened from a moving vessel.",
+  "filename": "entities/concept/doorman.md",
   "log": [
     {
       "date": "2026-08-03",
-      "summary": "The Doorman role was established as distinct from the other party members’ Gatekeeper roles, granting Gerk the unique ability to open, close, connect with, and protect an Arch. Gerk demonstrated this power by manipulating an invisible handle to create a seamless doorway through reality, without a conventional threshold. His first demonstrated doorway led to an unknown beach on Midgard, though the destinations of his portals are currently unpredictable.",
+      "summary": "The Doorman role was established as distinct from the other party members’ Gatekeeper roles, granting Gerk the ability to open, close, connect with, and protect an Arch. Gerk demonstrated the power by manipulating an invisible handle to create a seamless doorway through reality, without a conventional threshold; his first demonstrated doorway led to an unknown beach on Midgard.",
       "notes": [
         "The Doorman is distinct from the Gatekeeper roles held by the other party members.",
         "The Doorman can open and close an Arch and connect with and protect it.",
@@ -18,13 +23,42 @@
         "Gerk's first demonstrated doorway opened onto an unknown beach on Midgard.",
         "Gerk's portal destinations are currently unpredictable."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Gerk’s Doorman role allows him to open a doorway from his current location to a place he can conceptualize, including known locations such as his own house or Mahali’s stronghold. Using the ability requires a Wisdom saving throw and may also trigger Strength saves when the doorway exerts powerful pulling forces. The doorway can remain open as Gerk or others pass through rather than closing automatically. When opened from a moving boat, the fixed doorway interacts unpredictably with the moving vessel, stretching surrounding space and parts of the boat and producing severe spatial or reality-tear effects. The ability appears to connect locations across space and may involve unusual interactions with time and space. The consequences of closing a doorway under these conditions remain unknown.",
+      "notes": [
+        "Gerk can attempt to open a doorway to a location he knows, including his own house.",
+        "The ability requires a wisdom saving throw to use and can have unusual physical or spatial effects.",
+        "Opening a door from a moving boat caused the surrounding space and part of the boat to stretch outward while the boat continued moving normally.",
+        "The opened doorway can exert a powerful pulling force on the user.",
+        "The Doorman role grants Gerk the ability to open a door connecting his current location with another place he can conceptualize.",
+        "The doorway can remain open while Gerk or others pass through it.",
+        "The doorway appears capable of connecting locations across space and may involve unusual interactions with time and space.",
+        "Opening a doorway from a moving vessel creates severe spatial and material distortion as the vessel moves away from the fixed doorway.",
+        "The ability involves Wisdom saving throws and can create physical forces strong enough to require Strength saving throws.",
+        "Gerk can open a doorway to a place by concentrating on it.",
+        "The ability can create a doorway directly into another location, such as Mahali's stronghold.",
+        "When used from a moving ship, the doorway can interact unpredictably with surrounding matter and space, producing severe stretching or reality-tear effects.",
+        "The doorway remains open after Gerk passes through it rather than automatically closing.",
+        "The consequences of closing a doorway under these conditions remain unknown."
+      ]
     }
   ],
   "openQuestions": [
+    "What are the full rules and limitations of Gerk's door ability?",
+    "Can the ability reliably reach any familiar location?",
+    "Does closing the doorway restore reality normally, or does it create another dangerous effect?",
+    "Can the Doorkeeper safely use the ability while moving?",
     "What determines the destination of a Doorman-created doorway?",
     "What additional abilities or responsibilities are unique to the Doorman?"
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:25:47.265Z",
-  "updatedAt": "2026-08-11T16:25:47.265Z"
+  "updatedAt": "2026-08-21T19:23:48.047Z",
+  "normalizedAliases": [
+    "doorman",
+    "door ability",
+    "doorkeeper"
+  ]
 }

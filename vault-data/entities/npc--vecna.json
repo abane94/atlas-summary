@@ -1,7 +1,9 @@
 {
   "name": "Vecna",
   "slug": "Vecna is an elder god of liches who watches from the periphery, pursuing hidden knowledge while reminding others they remain mortal.",
-  "tags": [],
+  "tags": [
+    "deity"
+  ],
   "aliases": [],
   "filename": "entities/npc/vecna.md",
   "description": "Vecna is an elder god and the god of liches. He is associated with the gathering of powerful divine and supernatural beings, but maintains a somewhat detached presence, observing events from the periphery. He possesses significant knowledge and power, including an apparent interest in books and hidden knowledge. Vecna also recognizes the limits of mortal power, reminding others that even those granted extraordinary abilities and responsibilities remain mortal.",
@@ -20,5 +22,8 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:58:30.225Z",
-  "updatedAt": "2026-08-11T15:58:30.225Z"
+  "updatedAt": "2026-08-21T19:23:48.063Z",
+  "normalizedAliases": [
+    "vecna"
+  ]
 }

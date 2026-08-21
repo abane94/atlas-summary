@@ -1,0 +1,32 @@
+{
+  "name": "Al Kurin",
+  "tags": [],
+  "slug": "Vessels containing the souls of dragons",
+  "aliases": [],
+  "normalizedAliases": [
+    "al kurin"
+  ],
+  "filename": "entities/concept/al_kurin.md",
+  "description": "Al Kurin are vessels capable of containing the soul of a dragon.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "During this session, it was noted that Grixto had been collecting Al Kurin from other trainees at the training grounds, including juvenile dragons. Al Kurin can be transported away from the location where they were collected.",
+      "notes": [
+        "A vessel or object containing the soul of a dragon.",
+        "Can be transported and carried to another location.",
+        "Grixto was collecting Al Kurin from other trainees, including juvenile dragons.",
+        "Al Kurin are vessels capable of containing the soul of a dragon.",
+        "Grixto had been collecting them from other trainees at the training grounds, including juvenile dragons.",
+        "They can be transported away from the location where they were collected."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Why was Grixto collecting the Al Kurin?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:12:46.881Z",
+  "updatedAt": "2026-08-21T18:12:46.881Z"
+}

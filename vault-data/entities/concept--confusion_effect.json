@@ -1,0 +1,28 @@
+{
+  "name": "Confusion Effect",
+  "tags": [
+    "spell"
+  ],
+  "slug": "A spell effect that leaves its victim confused and unable to act meaningfully.",
+  "aliases": [],
+  "normalizedAliases": [
+    "confusion effect"
+  ],
+  "filename": "entities/concept/confusion_effect.md",
+  "description": "A confusion effect caused by a spell that disrupts a creature's ability to think and act coherently.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Gerk was affected by a confusion spell after failing a Wisdom saving throw. The effect left him incoherent and unable to move or take meaningful actions.",
+      "notes": [
+        "Gerk is affected by a confusion spell following his failed Wisdom saving throw.",
+        "The effect leaves Gerk incoherent and unable to move or take meaningful actions."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:50:26.371Z",
+  "updatedAt": "2026-08-21T18:50:26.371Z"
+}

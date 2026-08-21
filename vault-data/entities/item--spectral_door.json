@@ -1,0 +1,43 @@
+{
+  "name": "Spectral Door",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "A mysterious spectral door resembling Gerk's shield form",
+  "aliases": [],
+  "normalizedAliases": [
+    "spectral door"
+  ],
+  "filename": "entities/item/spectral_door.md",
+  "description": "A giant spectral, shining door of unexplained nature that appears hovering near Gerk. It is closed, majestic, and strongly resembles Gerk's door-shaped shield form. The door has no visible opening or contents, and its exact nature, purpose, and connection to the Doorman event remain unknown.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "A giant spectral door appeared near Gerk after the magical discharge and later aboard the boat. Sylan investigated it and discovered that Gerk was physically standing beside it rather than being part of the door itself. The door appears intangible or otherwise unusual, but its purpose and connection to the Doorman event remain unexplained.",
+      "notes": [
+        "A giant spectral door appeared near the location where Gerk had been after the magical door closed and reality snapped back into cohesion.",
+        "A giant spectral, shining door appears hovering near where Gerk had been after the magical discharge.",
+        "The door is closed and has no visible opening or contents.",
+        "Its appearance is majestic and strongly resembles Gerk's door in shield form.",
+        "Its connection to the Doorman event is not yet explained.",
+        "A majestic, shining spectral door appears hovering near Sylan and Gerk.",
+        "The door is closed and does not appear to have anything visible behind or through it.",
+        "Its appearance is strongly reminiscent of Gerk's door-shaped shield form.",
+        "Sylan can walk around the door and physically encounter invisible Gerk, indicating that the door is not simply a visible representation of Gerk.",
+        "A spectral door appears aboard the boat and remains hovering above or near Gerk.",
+        "The door appears to be physically intangible or otherwise unusual, but its exact nature and purpose are not established in this chunk.",
+        "Sylan investigates the door by walking around it and discovers that Gerk is standing beside it rather than being part of the door itself."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What is the purpose or origin of the giant spectral door that appeared near Gerk?",
+    "What is the relationship between the spectral door and Gerk's door-shaped shield form?",
+    "What is the spectral door and why did it appear?",
+    "Why is it hovering above Gerk?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:45:54.189Z",
+  "updatedAt": "2026-08-21T18:45:54.189Z"
+}

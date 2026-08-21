@@ -1,0 +1,28 @@
+{
+  "name": "Gatehouse Gates",
+  "tags": [],
+  "slug": "Reality-manifested gates that can expose the gatehouse to destination hazards",
+  "aliases": [],
+  "normalizedAliases": [
+    "gatehouse gates"
+  ],
+  "filename": "entities/concept/gatehouse_gates.md",
+  "description": "Gatehouse Gates are gates that can be opened by manipulating a door-like interface that materializes as a manifestation of the surrounding reality rather than a permanent physical door. Opening a gate can expose the gatehouse to environmental hazards from the destination.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The gates were noted to have a temporary, reality-manifested door interface. Opening one can let hazards such as water, steam, heat, or other substances enter the gatehouse. In combat, opening or closing a gate takes an action, and a gate opened from a gatehouse is effectively one-way until it is closed from the originating side.",
+      "notes": [
+        "The gates can be opened by manipulating a door-like interface that materializes as a manifestation of the surrounding reality rather than a permanent physical door.",
+        "Opening a gate can expose the gatehouse to environmental hazards from the destination, such as water, steam, heat, or other substances.",
+        "Opening and closing a gate takes an action in combat.",
+        "A gate opened from a gatehouse is effectively one-way until it is closed from the originating side."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:31:35.804Z",
+  "updatedAt": "2026-08-21T18:31:35.804Z"
+}

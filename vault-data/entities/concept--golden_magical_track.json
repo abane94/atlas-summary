@@ -1,0 +1,30 @@
+{
+  "name": "Golden Magical Track",
+  "tags": [],
+  "slug": "A golden magical track embedded through the ship marks the path of a magical discharge.",
+  "aliases": [],
+  "normalizedAliases": [
+    "golden magical track"
+  ],
+  "filename": "entities/concept/golden_magical_track.md",
+  "description": "A thin, golden, semi-fluorescent line embedded through the ship along the path of a magical discharge. It resembles a lightning track but does not leave a burnt or damaged crevice.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "A magical discharge left a thin, golden, semi-fluorescent line embedded through the ship. The line follows the path of the magical event like a lightning strike, but the ship shows no corresponding burn or physical damage.",
+      "notes": [
+        "A thin, golden, semi-fluorescent line remains embedded through the ship along the path of the magical discharge.",
+        "It resembles a lightning track but did not leave a burnt or damaged crevice.",
+        "A thin golden, semi-fluorescent line remains embedded through the ship after the magical discharge.",
+        "The line follows the path of the magical event like a lightning strike but does not leave a burnt or damaged crevice."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What is the golden line left through the ship, and what does it signify?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:47:36.057Z",
+  "updatedAt": "2026-08-21T18:47:36.057Z"
+}

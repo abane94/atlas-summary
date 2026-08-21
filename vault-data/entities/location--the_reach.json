@@ -1,8 +1,12 @@
 {
   "name": "The Reach",
   "slug": "The Reach is the largest Arch realm of Atlas, an enormous domain Walker gatekeeps and explores with Glimmen by flight.",
-  "tags": [],
-  "aliases": [],
+  "tags": [
+    "realm"
+  ],
+  "aliases": [
+    "Reach"
+  ],
   "filename": "entities/location/the_reach.md",
   "description": "The Reach is one of the Arch realms of Atlas and the largest of the Arches. It is an enormous realm whose size makes exploration and travel difficult. Walker is its Gatekeeper, having chosen The Reach’s keystone, and is responsible for protecting and exploring the realm. Walker’s ability to travel with Glimmen by flight makes them particularly well suited to navigating The Reach.",
   "type": "Location",
@@ -16,10 +20,42 @@
         "Walker is expected to protect and explore the Reach.",
         "Its enormous size makes it difficult to traverse, but Walker and Glimmen's ability to fly makes them particularly suited to it."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "The party is considering returning to The Reach to investigate the lich's former hideout and Walker's past connections there, including his long-uninhabited roost and the nearby Dragon Rider training grounds tied to the vision of Grixto and Galixtar. The Reach has a centrally useful port city for resupply, and Walker can recharge his gems there. Time passes much faster in The Reach, at roughly seven days there for every one day outside, potentially allowing Walker to spend about a month there while only a week passes for the others. The Reach is currently experiencing fall, with cool weather, autumn foliage, floating jack-o'-lanterns, and a flying-oriented culture marked by the start of the National Flying League. Walker travels there through the gatehouse with Elrus, Araden, and Glimmen.",
+      "notes": [
+        "The party is considering traveling to The Reach to investigate the lich's former hideout for clues.",
+        "The Reach has a port city that the party considers centrally located enough to serve as a potential resupply point.",
+        "Contains a former hideout or cave associated with the lich the party is seeking.",
+        "Contains Walker's former roost, which appears to have been uninhabited for a long time.",
+        "Contains the dragon training grounds and nearby caves associated with the previous vision of Grixto and Galixtar.",
+        "Has a port city that the party considers useful for resupplying.",
+        "Walker is considering returning to The Reach to investigate the vision of Grixto and Galixtar.",
+        "Walker previously stayed there for an extended period and searched his old roost without finding anything.",
+        "The old roost is apparently uninhabited and may have been abandoned for a long time.",
+        "The training grounds are within a couple of days' flight of Walker's former residence.",
+        "Walker can recharge his gems while in The Reach.",
+        "Walker intends to visit The Reach to recharge his gems.",
+        "Time passes differently there; the party describes approximately seven days passing in The Reach for every one day outside it.",
+        "The altered time flow means Walker could potentially spend about a month there while only about a week passes for the rest of the party.",
+        "The Reach is experiencing fall during this scene, with crisp roughly 60-degree weather and autumn colors beginning to appear.",
+        "The Reach has floating jack-o'-lanterns and a culture in which things flying is apparently commonplace.",
+        "The National Flying League is beginning its season in The Reach.",
+        "It is currently fall in The Reach, with cool weather and autumn foliage.",
+        "The Reach has a flying-oriented culture, including the National Flying League.",
+        "Floating jack-o'-lanterns are present during the fall season.",
+        "Walker travels to the Reach through the gatehouse with Elrus, Araden, and Glimmen.",
+        "Time in the Reach appears to pass at a different rate, with the party describing one day outside as roughly seven days there.",
+        "The Reach contains or provides access to the Dragon Rider training grounds."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:15:16.227Z",
-  "updatedAt": "2026-08-11T16:15:16.227Z"
+  "updatedAt": "2026-08-21T17:34:12.163Z",
+  "normalizedAliases": [
+    "reach"
+  ]
 }

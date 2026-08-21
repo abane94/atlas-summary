@@ -1,0 +1,26 @@
+{
+  "name": "Training Grounds",
+  "tags": [],
+  "slug": "Training grounds near the Lost Isles in a mountainous region between three islands.",
+  "aliases": [],
+  "normalizedAliases": [
+    "training grounds"
+  ],
+  "filename": "entities/location/training_grounds.md",
+  "description": "The training grounds are located near the Lost Isles, among a group of mountains between three islands over a large expanse. They are approximately five days of flight from the party's previous exit point near the Whispering Abyss.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The training grounds were located near the Lost Isles, in mountains situated between three islands over a large expanse. The party's previous exit point near the Whispering Abyss was approximately five days of flight away.",
+      "notes": [
+        "The training grounds are located near the Lost Isles, among a group of mountains between three islands over a large expanse.",
+        "They are approximately five days of flight from the party's previous exit point near the Whispering Abyss."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:26:16.483Z",
+  "updatedAt": "2026-08-21T18:26:16.483Z"
+}

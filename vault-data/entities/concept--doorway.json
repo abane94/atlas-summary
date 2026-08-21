@@ -1,0 +1,28 @@
+{
+  "name": "Doorway",
+  "tags": [],
+  "slug": "A fixed supernatural passage between locations",
+  "aliases": [],
+  "normalizedAliases": [
+    "doorway"
+  ],
+  "filename": "entities/concept/doorway.md",
+  "description": "A supernatural doorway that creates a physical passage between locations.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Gerk's supernatural doorway can remain fixed in space while the ship moves away from it. Instead of the surrounding ship material breaking, it stretches toward the doorway in a rubber-band-like fashion. The doorway provides a physical passage between the ship and Mahali's location, and moving through the passage feels similar to traveling through thick smoke or water.",
+      "notes": [
+        "Gerk's supernatural doorway can remain fixed in space while the ship moves away from it.",
+        "The surrounding ship material stretches toward the doorway in a rubber-band-like fashion rather than simply breaking.",
+        "The doorway provides a physical passage between the ship and Mahali's location.",
+        "The passage produces a sensation similar to moving through thick smoke or water."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:33:14.728Z",
+  "updatedAt": "2026-08-21T18:33:14.728Z"
+}

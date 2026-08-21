@@ -17,10 +17,30 @@
         "Receives the Feldspar keystone and becomes its Gatekeeper.",
         "The Raven Queen evaluates Ord and Walker as less impressive than some of the other party members while still acknowledging that they have shown her something unusual."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Ord remained near the central magical situation while deliberately staying as far from the immediate event as practical. While invisible, he investigated ways to reveal the position of someone affected by the disappearance effect, first considering powders or dust before realizing he could use his dragon vessel and olive oil. Spraying the oil produced a faint, visible silhouette of Ord, demonstrating that physical substances can outline an otherwise invisible person. The oil left a silent but physically present trail on the deck as it splashed and dripped. Ord also attempted to communicate in Draconic while investigating whether anyone was present, though no response was established.",
+      "notes": [
+        "Ord was within roughly thirty feet of the main magical situation but deliberately positioned as far from the immediate event as practical.",
+        "Ord is established as being within roughly thirty feet of the central situation but positioned away from the immediate action.",
+        "Ord attempts to find a powder-like substance that could reveal invisible people.",
+        "Ord considers flour, black powder, or other dust but specifically wants to avoid an explosive substance.",
+        "Ord investigates whether a physical substance can reveal someone affected by the disappearance/invisibility effect.",
+        "Ord initially considers powder or dust but realizes he has a dragon vessel and instead uses olive oil.",
+        "The olive oil experiment produces a faint visible silhouette of Ord, showing that the phenomenon does not prevent physical substances from outlining an affected person.",
+        "Ord is currently invisible except where substances or creatures provide a visible indication of his position.",
+        "Ord discovered that applying olive oil through his dragon vessel creates a visible, faint outline of his otherwise invisible body.",
+        "The visible oil silhouette is silent but has a physical presence on the deck as the oil splashes and drips.",
+        "Ord attempted to communicate in Draconic while investigating whether anyone was present, but no response is established in this chunk."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:51:38.382Z",
-  "updatedAt": "2026-08-11T15:51:38.382Z"
+  "updatedAt": "2026-08-21T17:54:15.318Z",
+  "normalizedAliases": [
+    "ord"
+  ]
 }

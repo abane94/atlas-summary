@@ -1,7 +1,10 @@
 {
   "name": "Mahali",
   "slug": "Mahali is an elder god who serves as the party's chef at their stronghold, welcoming them back with elaborate meals.",
-  "tags": [],
+  "tags": [
+    "companion",
+    "deity"
+  ],
   "aliases": [],
   "filename": "entities/npc/mahali.md",
   "description": "Mahali is an elder god who serves as the party’s chef. He is associated with the party’s stronghold and is known for welcoming the party back and preparing elaborate meals for them.",
@@ -14,10 +17,30 @@
         "Follows Ben through the doorway into the traveling tavern.",
         "Invites the party to return to the stronghold and describes a meal of lamb souffles, cabbage stew, and cherry or lemon curd."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Mahali is unexpectedly encountered in his kitchen when Gerk opens a doorway into the stronghold. Initially confused, Mahali recognizes the resulting reality distortion as highly unnatural and pulls Gerk through the doorway when he is left hanging outside as the ship moves away. He learns that Gerk can now open doors to other places and, before the dangerous doorway is closed, provides the party with leftover breakfast rolls, preserves, and freshly churned butter. After Sylan raises concerns about the reality distortion, Mahali agrees to evacuate the stronghold’s residents and guards to the tavern as a precaution.",
+      "notes": [
+        "Is unexpectedly encountered through Gerk's newly opened doorway in his kitchen.",
+        "Is initially confused by the appearance of a doorway where one normally does not exist.",
+        "Pulls Gerk through the doorway when Gerk is left hanging from it as the ship moves away.",
+        "Learns that Gerk is now capable of opening doors to other places.",
+        "Was in his kitchen when Gerk unexpectedly opened a doorway into the stronghold.",
+        "Pulled Gerk through the doorway when Gerk was stranded outside the ship.",
+        "Observed the reality distortion and recognized it as highly unnatural.",
+        "Provided Gerk with leftover breakfast buns, preserves, and freshly churned butter.",
+        "Agreed to evacuate the stronghold's residents and guards to the tavern as a precaution.",
+        "Provides the party with leftover breakfast rolls, preserves, and freshly churned butter before the dangerous door closure.",
+        "Helps evacuate the stronghold's residents to the tavern after Sylan raises concerns about the reality distortion."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:54:38.743Z",
-  "updatedAt": "2026-08-11T15:54:38.743Z"
+  "updatedAt": "2026-08-21T19:23:48.062Z",
+  "normalizedAliases": [
+    "mahali"
+  ]
 }

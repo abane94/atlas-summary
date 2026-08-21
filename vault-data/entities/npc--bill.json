@@ -1,0 +1,34 @@
+{
+  "name": "Bill",
+  "tags": [
+    "companion"
+  ],
+  "slug": "A surviving-and-revived crew member of the party",
+  "aliases": [],
+  "normalizedAliases": [
+    "bill"
+  ],
+  "filename": "entities/npc/bill.md",
+  "description": "Bill is one of the party's four surviving-and-revived crew members. His exact shipboard role is currently unknown. One of Bill or Fritz is believed to be a greenhorn, but the party does not remember which.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Bill is identified as one of the party's four crew members who survived and were revived. His specific shipboard role remains unclear, and the party cannot determine whether Bill or Fritz is the greenhorn.",
+      "notes": [
+        "Bill is one of the party's four crew members.",
+        "Bill's exact shipboard role is currently unknown.",
+        "One of Bill or Fritz is believed to be a greenhorn, but the party does not remember which.",
+        "One of the party's four surviving-and-revived crew members.",
+        "Exact crew role is currently unclear."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What is Bill's role aboard the ship?",
+    "Is Bill the crew's greenhorn?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:06:32.598Z",
+  "updatedAt": "2026-08-21T18:06:32.598Z"
+}

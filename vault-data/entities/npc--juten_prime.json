@@ -15,10 +15,29 @@
         "Had previously discussed with Plymouth what would happen if one of Mother's children appeared.",
         "The appearance of one of Mother's children was expected to override the party's previous preparations and require events to take their course."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Juten Prime approves Plymouth Gawater accompanying Walker’s expedition to investigate keystone usage and locate the Dragon Rider training grounds, and agrees to safeguard the two keystones the party is leaving behind. He will continue investigating the ruined site and exchange information with the party, noting that Plymouth may need to return to verify the group’s findings. Juten reports that the area’s former libraries and archives have been heavily damaged or destroyed by both raiding and natural degradation, and that the party has explored only roughly the top third of the mountain.",
+      "notes": [
+        "Juten Prime approves Plymouth joining Walker's investigation, considering further investigation of keystone usage and clues concerning the Dragon Riders beneficial.",
+        "Approves Plymouth accompanying Walker's expedition because investigating keystone usage and locating the Dragon Rider training grounds could be beneficial.",
+        "Agrees to safeguard the two keystones that the party is leaving behind.",
+        "Will continue investigating the ruined site and exchange information with the party when possible.",
+        "States that Plymouth Gawater will likely need to return to verify the group's findings.",
+        "Agrees to safeguard the two keystones the party is leaving behind.",
+        "Will continue investigating the ruined area and expects Plymouth Gawater may need to return to verify the work.",
+        "Reports that the area's former libraries and archives have been heavily damaged or destroyed.",
+        "Says the party has explored only roughly the top third of the mountain.",
+        "Confirms that damage to the archives resulted from both raiding and natural degradation."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:59:37.675Z",
-  "updatedAt": "2026-08-11T15:59:37.675Z"
+  "updatedAt": "2026-08-21T17:45:14.910Z",
+  "normalizedAliases": [
+    "juten prime"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "name": "Eldarin Tree",
   "slug": "The Eldarin Tree is a sacred magical site in Atlas linked to the Navi and keystones, now diminished but awaiting a new bud.",
-  "tags": [],
+  "tags": [
+    "landmark"
+  ],
   "aliases": [],
   "filename": "entities/location/eldarin_tree.md",
   "description": "The Great Eldarin Tree is one of the greatest and most sacred magical places in Atlas and is deeply connected to the Navi and the Mother’s Prayer. The Navi studied the Tree and distilled knowledge from its rings to create the keystones, linking the Tree to the origin and purpose of these powerful objects. The Tree is also associated with the chosen children of the Mother’s Prayer, with Gerk described as a child or son of the Great Tree. The Tree has diminished significantly and is in grave circumstances, though a new bud is expected to appear at the end of the current growing season. Through their roles as keystone keepers, the party has become Children of the Great Eldarin Tree and honorary members of the Navi.",
@@ -29,5 +31,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:30:08.343Z",
-  "updatedAt": "2026-08-11T14:30:08.343Z"
+  "updatedAt": "2026-08-21T19:23:48.056Z",
+  "normalizedAliases": [
+    "eldarin tree"
+  ]
 }

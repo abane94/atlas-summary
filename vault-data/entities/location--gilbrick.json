@@ -1,7 +1,9 @@
 {
   "name": "Gilbrick",
   "slug": "Gilbrick is a scary Arch realm of Atlas whose keystone is held by Sylan, child of its lord and its Gatekeeper.",
-  "tags": [],
+  "tags": [
+    "realm"
+  ],
   "aliases": [],
   "filename": "entities/location/gilbrick.md",
   "description": "Gilbrick is one of the Arch realms of Atlas. It is associated with a lord whose child is Sylan, and its keystone is entrusted to Sylan, who becomes the Gatekeeper of Gilbrick. The realm is regarded as a scary or dangerous place.",
@@ -21,5 +23,8 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:04:29.558Z",
-  "updatedAt": "2026-08-11T16:04:29.558Z"
+  "updatedAt": "2026-08-21T19:23:48.058Z",
+  "normalizedAliases": [
+    "gilbrick"
+  ]
 }

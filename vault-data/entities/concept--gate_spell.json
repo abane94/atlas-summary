@@ -1,0 +1,28 @@
+{
+  "name": "Gate spell",
+  "tags": [
+    "spell"
+  ],
+  "slug": "A spell that creates a portal up to 20 feet in diameter.",
+  "aliases": [],
+  "normalizedAliases": [
+    "gate spell"
+  ],
+  "filename": "entities/concept/gate_spell.md",
+  "description": "Gate is a spell that creates a portal with a diameter between 5 and 20 feet.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "During the session, the party used or examined Gate and confirmed that even a 20-foot-diameter portal was not large enough for their boat to pass through.",
+      "notes": [
+        "Creates a portal with a diameter between 5 and 20 feet.",
+        "The party confirms that a 20-foot-diameter Gate is not large enough for their boat to pass through."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:14:09.566Z",
+  "updatedAt": "2026-08-21T18:14:09.566Z"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Grixto",
+  "tags": [
+    "antagonist"
+  ],
+  "slug": "Grixto is a mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+  "aliases": [],
+  "normalizedAliases": [
+    "grixto"
+  ],
+  "filename": "entities/npc/grixto.md",
+  "description": "Grixto is a proxy associated with the campaign's main antagonist. He may use caves near the dragon training grounds as a hideout and can apparently move between arches, making his location uncertain. He is associated with Galixtar and has been seen near the Dragon Rider training grounds in The Reach.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Grixto was suspected of collecting Al Kurin from trainees, including juvenile dragons, and may have been hiding near the Dragon Rider training grounds. A vision showed him there in The Reach alongside Galixtar, but he may be able to move between arches. The party believes his phylactery is a mundane object kept on his person; his repeated possession of small chess-like or war-game pieces may be a clue. Sylan theorizes that Grixto learned to use the keystones through information in the archives at the ruined site. Walker and Plymouth are investigating the training grounds for clues to Grixto and Galixtar's whereabouts.",
+      "notes": [
+        "May have used caves near the dragon training grounds as a hideout.",
+        "Was collecting Al Kurin from other trainees, including juvenile dragons.",
+        "It is unclear whether Grixto remains at the training grounds or elsewhere.",
+        "A vision showed Grixto near the training grounds in The Reach alongside Galixtar.",
+        "Grixto had been collecting Al Kurin from other trainees, including juvenile dragons.",
+        "He can apparently move between arches, so the party cannot assume he remains in The Reach.",
+        "The party believes his phylactery is a mundane object that he keeps on his person.",
+        "He has repeatedly been seen with small chess-like or war-game pieces, which may provide a clue to his phylactery.",
+        "Walker and Plymouth's investigation of the Dragon Rider training grounds is intended to uncover clues about where Grixto and Galixtar are hiding.",
+        "Sylan theorizes that Grixto may have learned how to use the keystones through information contained in the archives at the ruined site.",
+        "Sylan theorizes that Grixto may have learned how to use the keystones through knowledge contained in the archives at the ruined site."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Is Grixto still hiding near the training grounds in The Reach?",
+    "Where is Grixto currently located?",
+    "What exactly is Grixto's phylactery?",
+    "Why was Grixto collecting Al Kurin from the trainees?",
+    "What clues about Grixto's whereabouts will be found at the Dragon Rider training grounds?",
+    "Did Grixto actually learn how to use the keystones from the archives at this site?",
+    "Did Grixto actually learn how to use the keystones from the archives?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:10:14.833Z",
+  "updatedAt": "2026-08-21T18:10:14.833Z"
+}

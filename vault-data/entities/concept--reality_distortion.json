@@ -1,0 +1,31 @@
+{
+  "name": "Reality Distortion",
+  "tags": [],
+  "slug": "A doorway that stretches reality around moving objects.",
+  "aliases": [],
+  "normalizedAliases": [
+    "reality distortion"
+  ],
+  "filename": "entities/concept/reality_distortion.md",
+  "description": "Reality Distortion is a doorway or phenomenon that cleaves or stretches a section of reality rather than functioning as an ordinary physical door. Objects and people can pass through it, and a ship can continue moving through it without being physically stopped.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Opening the doorway from a moving ship caused the ship and surrounding material to stretch like a rubber band. Stopping and reversing the ship reversed the direction of the stretching and sent a ripple through the ship, reinforcing that the doorway alters or stretches reality itself.",
+      "notes": [
+        "Opening a doorway from a moving ship caused the ship and surrounding material to stretch like a rubber band.",
+        "Stopping and reversing the ship caused the stretching effect to reverse direction and ripple through the ship.",
+        "The doorway appears to function as a cleaved or stretched section of reality rather than an ordinary physical door.",
+        "Objects and people can pass through the doorway, and the ship itself is not physically stopped by the doorway."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What causes the reality-stretching effect?",
+    "What happens to the stretched reality when the doorway is closed?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:34:26.623Z",
+  "updatedAt": "2026-08-21T18:34:26.623Z"
+}

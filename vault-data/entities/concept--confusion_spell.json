@@ -1,0 +1,28 @@
+{
+  "name": "Confusion Spell",
+  "tags": [
+    "spell"
+  ],
+  "slug": "A confusion spell left Gerk unable to act.",
+  "aliases": [],
+  "normalizedAliases": [
+    "confusion spell"
+  ],
+  "filename": "entities/concept/confusion_spell.md",
+  "description": "Confusion Spell is a spell that can cause a creature to become confused and unable to act normally.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "During this session, Gerk was affected by Confusion Spell after failing a Wisdom saving throw. The effect left him dumbfounded and unable to move or take actions at the time described.",
+      "notes": [
+        "The magical event caused Gerk to be affected by a confusion spell after he failed his Wisdom saving throw.",
+        "The effect left Gerk dumbfounded and unable to move or take actions at the time described."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:48:46.567Z",
+  "updatedAt": "2026-08-21T18:48:46.567Z"
+}

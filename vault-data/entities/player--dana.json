@@ -21,6 +21,42 @@
         "Recognizes the forest reached by Gerk's portal as being near Langdale.",
         "Urges the party not to rush through the unstable portal before addressing other matters."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Dana confirmed that several crew members, including Garrett, Abel, and Fritz, had previously died and were revived through her efforts to keep them alive. She investigated the ruined site's gatehouse and archives, but concluded that too little usable material remained to provide much additional research, though she intends to consult Plymouth Gawater about the gatehouse and its history. During the doorway event, Dana was visibly concerned and flabbergasted by the reality distortion, noting that the party did not understand the mechanism and that she could not reasonably have supervised Gerk's actions. She prepared to use Feather Fall if needed, then experienced a magical surge reminiscent of being near deities, recognizing that spellcasting had been greatly enhanced and that her spent spell slots may have been restored. Separated from the others, she recognized similarities to the party's previous experience in La-rel. Dana retained her serpentine bracers and used a summoned constrictor snake as a visible positional marker while moving.",
+      "notes": [
+        "Dana confirmed that some of the party's crew members had previously died and were subsequently revived.",
+        "Dana put significant effort and spells into keeping the crew members alive.",
+        "Dana identified Garrett as the gunner and Abel as the helmsman.",
+        "Correctly recalls the party's fourth crew member as Fritz.",
+        "Confirms that the party's crew members died previously but were revived through her efforts.",
+        "Remembers Garrett as the gunner and Abel as the helmsman.",
+        "Investigates whether the ruined site contains an intact library or archives.",
+        "Concludes that the surviving material is unlikely to provide much additional useful research beyond Plymouth's work.",
+        "Wants to speak with Plymouth in the future about the gatehouse and what previously existed there.",
+        "Investigates whether the gatehouse has a library or archives that could provide additional information.",
+        "Concludes that the damaged archives do not currently offer enough salvageable material for further study.",
+        "Wants to consult Plymouth Gawater in the future about what he has learned about the gatehouse and its history.",
+        "Observed the doorway and reality distortion with significant concern.",
+        "Pointed out that she could not reasonably have supervised Gerk's actions because the group does not yet understand the mechanisms of the ability.",
+        "Is visibly flabbergasted by the reality distortion and admits that the party does not fully understand the mechanism behind it.",
+        "Participates in preparing for the door closure and appears ready to use Feather Fall if necessary.",
+        "The DM implies Dana may have been expected to be more involved in understanding or handling the situation, though the exact intended role is unclear.",
+        "Dana is expected to be able to use Feather Fall if the door transition causes the party to fall.",
+        "The DM had apparently expected Dana to have a more significant role in resolving the situation, though the exact intended role is unclear from the transcript.",
+        "Dana was positioned away from the immediate danger when the magical event began.",
+        "Dana experienced the magical surge and recognized it as resembling the sensation associated with being in the presence of deities.",
+        "Dana understood that spellcasting was currently greatly enhanced.",
+        "Dana's spell slots were among those restored by the magical event if she had expended any.",
+        "Dana is separated from the other party members and cannot see them.",
+        "Dana recognizes the situation as potentially similar to the party's previous experience in La-rel.",
+        "Dana experiences the magical surge as reminiscent of being in the presence of deities and understands that spellcasting is temporarily enhanced.",
+        "Dana recognizes that the current separation resembles the previous situation in La-rel.",
+        "Dana still has her serpentine bracers equipped.",
+        "Dana can use the serpentine bracers to summon a constrictor snake.",
+        "Dana commands the summoned snake to remain at her heel, using it as a visible positional marker while she moves."
+      ]
     }
   ],
   "openQuestions": [
@@ -28,5 +64,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:54:14.175Z",
-  "updatedAt": "2026-08-11T14:54:14.175Z"
+  "updatedAt": "2026-08-21T17:38:08.840Z",
+  "normalizedAliases": [
+    "dana"
+  ]
 }

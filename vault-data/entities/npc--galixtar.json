@@ -1,0 +1,35 @@
+{
+  "name": "Galixtar",
+  "tags": [],
+  "slug": "Galixtar is a dragon associated with Grixto and being hunted by the party.",
+  "aliases": [],
+  "normalizedAliases": [
+    "galixtar"
+  ],
+  "filename": "entities/npc/galixtar.md",
+  "description": "Galixtar is a dragon associated with Grixto.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Galixtar appeared alongside Grixto in a vision near the caves by the Dragon Rider training grounds in The Reach. The party intends to hunt down and defeat both Galixtar and Grixto once they are prepared. Walker's group is investigating the training grounds for clues about the pair's hiding place and their origins, with Plymouth Gawater specifically investigating the origins or place of origin of Galixtar and Grixto.",
+      "notes": [
+        "Appeared alongside Grixto in the previous vision near caves by the training grounds.",
+        "The party intends to hunt down and defeat Grixto and Galixtar.",
+        "A vision showed Galixtar near the training grounds in The Reach with Grixto.",
+        "The party still intends to hunt down and vanquish Galixtar and Grixto when they are prepared.",
+        "The Dragon Rider training grounds are being investigated in hopes of finding clues about where Galixtar and Grixto are hiding.",
+        "The investigation Walker's group is undertaking concerns the origins or place of origin of Grixto and Galixtar.",
+        "Plymouth Gawater is investigating Galixtar's origin or place of origin along with Grixto."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Is Galixtar currently in The Reach?",
+    "What clues about Galixtar's whereabouts will be found at the Dragon Rider training grounds?",
+    "What is the origin or place of origin of Galixtar?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:11:36.563Z",
+  "updatedAt": "2026-08-21T18:11:36.563Z"
+}

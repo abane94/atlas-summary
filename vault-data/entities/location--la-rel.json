@@ -1,7 +1,9 @@
 {
   "name": "La-rel",
   "slug": "La-rel is a highly magical, Feywild-like Atlas realm and Walker's former home, represented by an as-yet unassigned keystone.",
-  "tags": [],
+  "tags": [
+    "realm"
+  ],
   "aliases": [],
   "filename": "entities/location/la-rel.md",
   "description": "La-rel is a highly magical, Feywild-like realm of Atlas whose inhabitants are relatively unconcerned with the wider world. It is associated with Walker’s past, as it was his former home, and the party has previously visited the realm and encountered Renard, the smiling trickster. La-rel is one of the Atlas realms represented by a keystone, but its keystone remains unassigned.",
@@ -18,10 +20,20 @@
         "The La-rel keystone remains unassigned.",
         "Kit Anger and the DM will steward the keystone until a future keeper takes the mantle."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "The current separation is explicitly compared to an earlier incident in La-rel where the party members were present but could not see one another.",
+      "notes": [
+        "The current separation is explicitly compared to an earlier incident in La-rel where the party members were present but could not see one another."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:11:24.809Z",
-  "updatedAt": "2026-08-11T16:11:24.809Z"
+  "updatedAt": "2026-08-21T19:23:48.058Z",
+  "normalizedAliases": [
+    "la rel"
+  ]
 }

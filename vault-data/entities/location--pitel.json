@@ -1,7 +1,9 @@
 {
   "name": "Pitel",
   "slug": "Pitel is an Arch realm at the core of Atlas's rings, known for its unusual relationship to time and its keystone Gatekeeper.",
-  "tags": [],
+  "tags": [
+    "realm"
+  ],
   "aliases": [],
   "filename": "entities/location/pitel.md",
   "description": "Pitel is one of the Arch realms of Atlas, described as the center or core of Atlas’s rings. It has an unusual relationship to time and was previously sought by Dana as a way to reach or access it. Pitel is associated with a keystone, which Dana receives and becomes the Gatekeeper of.",
@@ -20,5 +22,8 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:00:45.532Z",
-  "updatedAt": "2026-08-11T16:00:45.532Z"
+  "updatedAt": "2026-08-21T19:23:48.060Z",
+  "normalizedAliases": [
+    "pitel"
+  ]
 }

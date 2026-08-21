@@ -1,7 +1,9 @@
 {
   "name": "Feldspar",
   "slug": "Feldspar is an Arch realm of Atlas centered on knowledge, magic, science, alchemy, and the exploration of arcane and scientific understanding.",
-  "tags": [],
+  "tags": [
+    "realm"
+  ],
   "aliases": [],
   "filename": "entities/location/feldspar.md",
   "description": "Feldspar is one of the Arch realms of Atlas, characterized by a focus on knowledge, magic, science, alchemy, and experimentation. It is associated with the pursuit and exploration of arcane and scientific understanding.",
@@ -19,5 +21,8 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:02:42.068Z",
-  "updatedAt": "2026-08-11T16:02:42.068Z"
+  "updatedAt": "2026-08-21T19:23:48.057Z",
+  "normalizedAliases": [
+    "feldspar"
+  ]
 }

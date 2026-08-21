@@ -1,7 +1,9 @@
 {
   "name": "Turof",
   "slug": "Turof is an Arch realm of Atlas, a little cousin of La-rel with a similarly magical atmosphere, whose keystone remains unassigned.",
-  "tags": [],
+  "tags": [
+    "realm"
+  ],
   "aliases": [],
   "filename": "entities/location/turof.md",
   "description": "Turof is one of the Arch realms of Atlas, described as a little cousin of La-rel with a similarly magical atmosphere. The party has not knowingly visited Turof, and its keystone remains unassigned. Until a future keeper takes the mantle, Kit Anger and the DM are responsible for stewarding Turof’s keystone.",
@@ -21,5 +23,8 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:18:01.754Z",
-  "updatedAt": "2026-08-11T16:18:01.754Z"
+  "updatedAt": "2026-08-21T19:23:48.060Z",
+  "normalizedAliases": [
+    "turof"
+  ]
 }

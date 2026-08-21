@@ -1,0 +1,30 @@
+{
+  "name": "dragon vessel",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "A dragon vessel that outlines Ord's invisible body with olive oil.",
+  "aliases": [],
+  "normalizedAliases": [
+    "dragon vessel"
+  ],
+  "filename": "entities/item/dragon_vessel.md",
+  "description": "A dragon vessel possessed by Ord. It can apparently be used with olive oil to create a visible outline around Ord's otherwise invisible body. The exact mechanics and limitations of the vessel are not established.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Ord's dragon vessel was noted as a means of making his otherwise invisible body visibly outlined using olive oil. Its exact mechanics and limitations remain unclear.",
+      "notes": [
+        "Ord possesses a dragon vessel that can apparently be used with olive oil to create a visible outline around his otherwise invisible body.",
+        "The exact mechanics and limitations of the dragon vessel are not established in this chunk."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What are the full properties and intended uses of Ord's dragon vessel?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:54:29.767Z",
+  "updatedAt": "2026-08-21T18:54:29.767Z"
+}

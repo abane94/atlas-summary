@@ -1,0 +1,40 @@
+{
+  "name": "Lich",
+  "tags": [
+    "antagonist"
+  ],
+  "slug": "An unidentified lich whose phylactery may be hidden among his chess pieces.",
+  "aliases": [],
+  "normalizedAliases": [
+    "lich"
+  ],
+  "filename": "entities/npc/lich.md",
+  "description": "An unidentified lich the party is actively trying to track down. The lich has previously learned weaknesses of the party through their encounters.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The party plans to investigate the lich's old hideout or cave in The Reach for clues about his current whereabouts, with a possible fallback of returning to Nyx to interrogate hobgoblins. They believe the lich's phylactery is a mundane object he keeps on his person, potentially connected to the chess or war-game pieces he is repeatedly seen carrying. Their lore confirms that a phylactery contains a lich's soul, but they do not yet understand exactly how his body returns after destruction.",
+      "notes": [
+        "The lich previously had a hideout or cave in The Reach.",
+        "The party intends to investigate the old hideout for clues about the lich's current whereabouts.",
+        "If the party does not find useful information in The Reach, they may return to Nyx and interrogate hobgoblins for information.",
+        "The party believes his phylactery is a mundane object that he keeps on his person.",
+        "He has repeatedly been observed with chess pieces or war-game pieces, making a chess set or one of its pieces a possible clue to the phylactery.",
+        "The party's lore confirms that a phylactery is a vessel containing the lich's soul.",
+        "The party's current lore does not explain exactly how the lich's body returns after destruction.",
+        "The lich has previously learned weaknesses of the party through their encounters."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Where is the lich currently hiding?",
+    "What clues remain at the lich's former hideout in The Reach?",
+    "What exactly is the lich's phylactery?",
+    "Are the chess or war-game pieces connected to the lich's phylactery?",
+    "How exactly does the lich return after his body is destroyed?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T17:57:46.472Z",
+  "updatedAt": "2026-08-21T17:57:46.472Z"
+}

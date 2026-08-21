@@ -1,0 +1,29 @@
+{
+  "name": "Mahali's Stronghold",
+  "tags": [],
+  "slug": "Mahali's stronghold was evacuated after Gerk's doorway opened into its kitchen.",
+  "aliases": [],
+  "normalizedAliases": [
+    "mahalis stronghold"
+  ],
+  "filename": "entities/location/mahali__s_stronghold.md",
+  "description": "Mahali's Stronghold is a known stronghold associated with Mahali and its inhabitants.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "During this session, Gerk's doorway unexpectedly opened directly into Mahali's kitchen. Because the effects of the doorway were unknown, Mahali and the stronghold's residents evacuated to the tavern as a precaution. The inhabitants may be able to return once the danger from the doorway is resolved.",
+      "notes": [
+        "Gerk's doorway unexpectedly opened directly into Mahali's kitchen.",
+        "Mahali and the residents evacuated to the tavern as a precaution because of the unknown effects of the doorway.",
+        "The stronghold's inhabitants may be able to return once the danger is resolved."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Will the reality distortion have any lasting effect on the stronghold after the doorway is closed?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:36:05.763Z",
+  "updatedAt": "2026-08-21T18:36:05.763Z"
+}

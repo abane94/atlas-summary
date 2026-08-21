@@ -1,0 +1,31 @@
+{
+  "name": "Deity-like Magical Surge",
+  "tags": [
+    "deity",
+    "spell"
+  ],
+  "slug": "A deity-like magical state that temporarily enhances spellcasting.",
+  "aliases": [],
+  "normalizedAliases": [
+    "deity like magical surge"
+  ],
+  "filename": "entities/concept/deity-like_magical_surge.md",
+  "description": "A deity-like magical surge or state whose surrounding magical energy resembles the sensation of being in the presence of deities. While it persists, spellcasting is temporarily enhanced.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Dana and Sylan recognize the magical energy surrounding the event as similar to the sensation experienced in the presence of deities. They understand that spellcasting is temporarily enhanced while this magical state persists.",
+      "notes": [
+        "Dana and Sylan recognize the magical energy surrounding the event as similar to the sensation experienced in the presence of deities.",
+        "At least Dana and Sylan understand that their spellcasting is temporarily enhanced while this magical state persists."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "How exactly are Dana and Sylan's spells enhanced by the magical energy?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:51:39.296Z",
+  "updatedAt": "2026-08-21T18:51:39.297Z"
+}

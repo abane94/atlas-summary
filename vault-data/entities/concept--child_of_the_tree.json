@@ -1,7 +1,9 @@
 {
   "name": "Child of the Tree",
   "slug": "A Child of the Tree is an honored individual connected to the Great Eldarin Tree, the Navi, and the Mother's Prayer.",
-  "tags": [],
+  "tags": [
+    "title"
+  ],
   "aliases": [],
   "filename": "entities/concept/child_of_the_tree.md",
   "description": "A Child of the Tree is an individual connected to the Great Eldarin Tree, the Navi, and the Mother’s Prayer. The designation signifies an honored relationship with the sacred Eldarin Tree and its legacy. Those entrusted as keepers of the keystones may receive the broader status of Children of the Great Eldarin Tree.",
@@ -20,5 +22,8 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T17:08:53.245Z",
-  "updatedAt": "2026-08-11T17:08:53.245Z"
+  "updatedAt": "2026-08-21T19:23:48.045Z",
+  "normalizedAliases": [
+    "child of the tree"
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "name": "Carlkin",
+  "tags": [],
+  "slug": "Carlkin is a turtle-like person believed to be back in Langdale.",
+  "aliases": [],
+  "normalizedAliases": [
+    "carlkin"
+  ],
+  "filename": "entities/npc/carlkin.md",
+  "description": "Carlkin is a turtle-like person associated with Langdale.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The party considered asking Carlkin for information about The Reach or Grixto. Sylan recalled Carlkin as the turtle-like person and believed he was currently back in Langdale.",
+      "notes": [
+        "The party considers asking Carlkin for information about The Reach or Grixto.",
+        "Sylan recalls Carlkin as the turtle-like person and believes he is currently back in Langdale."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What information does Carlkin have about Grixto or The Reach?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:22:15.911Z",
+  "updatedAt": "2026-08-21T18:22:15.911Z"
+}

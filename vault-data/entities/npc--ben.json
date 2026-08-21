@@ -1,7 +1,9 @@
 {
   "name": "Ben",
   "slug": "Ben is a minor deity, keeper of the Watchers, and proprietor of a traveling tavern he opens from thin air.",
-  "tags": [],
+  "tags": [
+    "deity"
+  ],
   "aliases": [],
   "filename": "entities/npc/ben.md",
   "description": "Ben is a minor deity, keeper of the Watchers, and proprietor of a traveling tavern. He is capable of opening doorways from thin air into his traveling tavern and welcomes others to return whenever they wish.",
@@ -22,5 +24,8 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:52:46.626Z",
-  "updatedAt": "2026-08-11T15:52:46.626Z"
+  "updatedAt": "2026-08-21T19:23:48.061Z",
+  "normalizedAliases": [
+    "ben"
+  ]
 }

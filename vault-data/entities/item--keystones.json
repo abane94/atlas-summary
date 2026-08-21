@@ -1,24 +1,43 @@
 {
   "name": "Keystones",
-  "slug": "Magical stones the Navi distilled from the Eldarin Tree that open Atlas’s Arch realms and are entrusted to keepers to use and protect.",
-  "tags": [],
-  "aliases": [],
-  "filename": "entities/item/keystones.md",
-  "description": "Magical stones created by the Navi by distilling knowledge from the rings of the Eldarin Tree. Keystones open or connect to the different Arch realms of Atlas and are entrusted to keepers who are expected to actively use and protect them. Their creation unintentionally initiated the Mother’s Prayer.",
   "type": "ITEM",
+  "aliases": [
+    "Eight Keystones"
+  ],
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Magical stones used to open and connect Atlas’s Arch realms",
+  "description": "The Keystones are a set of eight magical stones corresponding to the Arch realms of Atlas, created by the Navi by distilling knowledge from the rings of the Eldarin Tree. They are used with the arches to open or connect the realms and are entrusted to keepers who are expected to use and protect them. Their creation unintentionally initiated the Mother’s Prayer. Six keystones are currently assigned to party members: Gerk holds Midgard, Sylan holds Gilbrick, Dana holds Pitel, Walker holds The Reach, Ord holds Feldspar, and Ciri holds Lith. The La-rel and Turof keystones remain unassigned and are in Juten Prime’s care.",
+  "filename": "entities/item/keystones.md",
   "log": [
     {
       "date": "2026-08-03",
-      "summary": "The Navi created the keystones by distilling knowledge from the rings of the Eldarin Tree, and their creation unintentionally initiated the Mother’s Prayer. The new keepers are expected to actively use and protect the keystones rather than simply hide them.",
+      "summary": "The eight keystones were established as a complete set corresponding to the Arch realms of Atlas. The Navi created them by distilling knowledge from the rings of the Eldarin Tree, and their creation unintentionally initiated the Mother’s Prayer. Six keystones are assigned to party members, who are expected to actively use and protect them, while the La-rel and Turof keystones remain unassigned.",
       "notes": [
+        "There are eight keystones in total.",
         "The Navi created the keystones by distilling knowledge from the rings of the Eldarin Tree.",
         "Their creation unintentionally initiated the Mother's Prayer.",
+        "Six are assigned to the party: Gerk/Midgard, Sylan/Gilbrick, Dana/Pitel, Walker/The Reach, Ord/Feldspar, and Ciri/Lith.",
+        "The La-rel and Turof keystones remain unassigned.",
         "The new keepers are expected to actively use and protect the keystones rather than merely hide them."
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "The party intends to retain guardianship of the keystones they have claimed, while leaving the La-rel and Turof keystones in Juten Prime's care. The ruined archives may have contained information explaining how to use the keystones, potentially providing a clue to Grixto's knowledge.",
+      "notes": [
+        "The party intends to retain guardianship of the keystones they have claimed while leaving two keystones in Juten Prime's care.",
+        "The ruined archives may have contained information explaining how to use the keystones, potentially providing a clue to Grixto's knowledge."
       ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:07:27.725Z",
-  "updatedAt": "2026-08-11T16:07:27.725Z"
+  "updatedAt": "2026-08-21T17:47:47.674Z",
+  "normalizedAliases": [
+    "keystones",
+    "eight keystones"
+  ]
 }

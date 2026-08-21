@@ -1,0 +1,27 @@
+{
+  "name": "Last Word Chasm",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "A long-uninhabited roost associated with Grixto",
+  "aliases": [],
+  "normalizedAliases": [
+    "last word chasm"
+  ],
+  "filename": "entities/location/last_word_chasm.md",
+  "description": "Last Word Chasm is a roost associated with Grixto that had been uninhabited for a long period.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "In this session, Last Word Chasm was referenced in comparison to another roost associated with Grixto. Both locations were described as having been uninhabited for a long period.",
+      "notes": [
+        "Grixto's former or associated roost is compared with a roost at Last Word Chasm, which is described as having also been uninhabited for a long period."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:19:55.344Z",
+  "updatedAt": "2026-08-21T18:19:55.344Z"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Fritz",
+  "tags": [
+    "companion"
+  ],
+  "slug": "A surviving-and-revived crew member whose exact role is unknown.",
+  "aliases": [],
+  "normalizedAliases": [
+    "fritz"
+  ],
+  "filename": "entities/npc/fritz.md",
+  "description": "Fritz is one of the party's four surviving-and-revived crew members. His exact shipboard role is currently unknown.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Fritz is confirmed as one of the party's four crew members and one of the four surviving-and-revived crew members. His exact crew role remains unclear; either Fritz or Bill is described as a greenhorn.",
+      "notes": [
+        "Fritz is one of the party's four crew members.",
+        "Fritz's exact shipboard role is currently unknown.",
+        "One of the party's four surviving-and-revived crew members.",
+        "Exact crew role is currently unclear; one of Fritz or Bill is described as a greenhorn."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What is Fritz's role aboard the ship?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:05:10.423Z",
+  "updatedAt": "2026-08-21T18:05:10.424Z"
+}

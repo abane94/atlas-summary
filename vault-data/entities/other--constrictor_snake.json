@@ -1,0 +1,26 @@
+{
+  "name": "constrictor snake",
+  "tags": [],
+  "slug": "A summoned constrictor snake that follows Dana at her command.",
+  "aliases": [],
+  "normalizedAliases": [
+    "constrictor snake"
+  ],
+  "filename": "entities/other/constrictor_snake.md",
+  "description": "A large constrictor snake that can be summoned as a creature.",
+  "type": "OTHER",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "During this session, the summoned creature was identified as a large constrictor snake. Dana commanded it to remain at her heel as she moved.",
+      "notes": [
+        "The summoned creature is identified as a large constrictor snake.",
+        "Dana commands it to remain at her heel as she moves."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:59:00.651Z",
+  "updatedAt": "2026-08-21T18:59:00.651Z"
+}

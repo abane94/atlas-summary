@@ -1,7 +1,9 @@
 {
   "name": "Jotunheim",
   "slug": "Jotunheim is the homeland of the Juten, associated with Sylan's meditation that revealed Gerk as a destined keeper who opens doors.",
-  "tags": [],
+  "tags": [
+    "realm"
+  ],
   "aliases": [],
   "filename": "entities/location/jotunheim.md",
   "description": "Jotunheim is the homeland of the Juten/Jotun. It is a place associated with significant revelations, including Sylan’s meditation there, which revealed that Gerk was the child described in his journal and was destined to become a keeper capable of opening doors.",
@@ -20,5 +22,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:22:34.403Z",
-  "updatedAt": "2026-08-11T14:22:34.403Z"
+  "updatedAt": "2026-08-21T19:23:48.058Z",
+  "normalizedAliases": [
+    "jotunheim"
+  ]
 }

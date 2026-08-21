@@ -23,10 +23,49 @@
         "Is eager to use the portal to return toward home.",
         "The Raven Queen says Walker and Ord have not impressed her as much as some others, although they have still shown her something beyond what she normally sees from mortals."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Walker plans to return to The Reach with Glimmen, Plymouth Gawater, Elrus, and Araden to scout the Dragon Rider training grounds for clues related to his vision of Grixto and Galixtar near the caves. He intends to keep Elrus and Araden as secret weapons, carry the party's sending stone for updates, recharge his gems, and retreat if necessary rather than seek a fight. Walker uses his keystone to activate the gate to The Reach, despite its portal's size being insufficient to bring the party's boat through. He notes that his former roost appears empty and that he previously explored the area without encountering Grixto. He also recognizes that The Reach's time difference may allow him to spend much longer there than the party experiences in Midgard. Walker describes The Reach as an autumnal setting with crisp weather, early fall colors, and the National Flying League beginning its season, alongside floating jack-o'-lanterns and other flying elements.",
+      "notes": [
+        "Walker has a portal-related ability involving a Gate or similar effect and asked whether it could create an opening large enough for the party's boat.",
+        "Walker needs to take Elrus somewhere before or during the party's travel plans.",
+        "Wants to investigate the lich's former hideout in The Reach for clues.",
+        "Has a portal-opening ability, but the Gate spell's maximum 20-foot diameter is insufficient for bringing the party's boat through.",
+        "Has a former roost in The Reach that he believes is empty.",
+        "Previously saw a vision involving Grixto and Galixtar near caves by the training grounds.",
+        "Has promised Elrus a place to stay and considers bringing him along to The Reach.",
+        "Wants to investigate The Reach because of the vision showing Grixto and Galixtar near the training grounds.",
+        "Has previously visited his old area in The Reach without being attacked or finding Grixto.",
+        "Plans to treat the return to The Reach as a scouting mission rather than actively seeking a fight.",
+        "Wants to keep Araden and Elrus as secret weapons whose capabilities Grixto does not know about.",
+        "Wants to recharge his gems while in The Reach.",
+        "Plans to travel to The Reach to recharge his gems.",
+        "Plans to bring Elrus and Araden while keeping the group small and mobile.",
+        "Wants Elrus and Araden to remain secret weapons because the lich has not yet learned about them.",
+        "Agrees to treat the trip as a scouting mission and retreat if necessary.",
+        "Takes the party's sending stone to report his findings during the mission.",
+        "Walker leaves with Elrus and Araden to investigate the Dragon Rider training grounds in the Reach.",
+        "He takes the party's sending stone so he can keep the group updated during the investigation.",
+        "Walker activates the gate to the Reach using his keystone after Plymouth explains that Gerk normally needs to assist with calibration and operation.",
+        "Uses his keystone to open the gate to The Reach and departs with Elrus and Araden.",
+        "His immediate goal is to investigate the Dragon Rider training grounds for clues related to Grixto and Galixtar.",
+        "Retrieves his sending stone before leaving the gatehouse.",
+        "Plymouth joins Walker's expedition.",
+        "Leaves with Glimmen, Plymouth Gawater, Elrus, and Araden to investigate the dragon-rider training grounds and the origins of Grixto and Galixtar.",
+        "Plans to take advantage of Midgar's time differential after realizing he can potentially spend much longer away from the party than they will experience.",
+        "Walker has left with the other rider and is taking advantage of the time difference involving Midgard.",
+        "Walker describes The Reach as being in fall, with crisp weather around sixty degrees and autumn colors beginning to appear.",
+        "Walker describes the National Flying League as beginning its season in The Reach.",
+        "Walker describes floating jack-o'-lanterns and other flying elements as part of the setting in The Reach."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:15:38.663Z",
-  "updatedAt": "2026-08-11T15:15:38.664Z"
+  "updatedAt": "2026-08-21T17:35:36.626Z",
+  "normalizedAliases": [
+    "walker"
+  ]
 }

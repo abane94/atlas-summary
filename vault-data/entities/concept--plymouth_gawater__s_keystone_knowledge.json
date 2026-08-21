@@ -1,0 +1,30 @@
+{
+  "name": "Plymouth Gawater's Keystone Knowledge",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Keystone calibration and gate safety",
+  "aliases": [],
+  "normalizedAliases": [
+    "plymouth gawaters keystone knowledge"
+  ],
+  "filename": "entities/concept/plymouth_gawater__s_keystone_knowledge.md",
+  "description": "Plymouth Gawater's knowledge concerning the operation and safeguarding of keystones, including their calibration, orientation, seating, and relationship to gatehouses and the Doorman.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The session established that keystones must be properly oriented, calibrated, and seated in the gatehouse before they can be activated. The Doorman is responsible for helping calibrate the keystones and preventing gate malfunctions. An activating keystone remains at its originating gatehouse while its gate is open, and removing or tampering with it is dangerous.",
+      "notes": [
+        "Keystones must be properly oriented, calibrated, and seated in the gatehouse before activation.",
+        "The Doorman is responsible for helping calibrate the keystones and prevent gate malfunctions.",
+        "A keystone remains at the originating gatehouse while its gate is open.",
+        "Removing or tampering with an activating keystone is dangerous."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:30:24.102Z",
+  "updatedAt": "2026-08-21T18:30:24.102Z"
+}

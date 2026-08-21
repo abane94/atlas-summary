@@ -1,0 +1,28 @@
+{
+  "name": "National Flying League",
+  "tags": [],
+  "slug": "A flying league in The Reach entering its autumn season",
+  "aliases": [],
+  "normalizedAliases": [
+    "national flying league"
+  ],
+  "filename": "entities/concept/national_flying_league.md",
+  "description": "A flying sport or league in The Reach, jokingly compared to Quidditch and involving flying participants.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Its season is beginning during the autumn described by Walker.",
+      "notes": [
+        "A flying sport or league in The Reach, jokingly compared to Quidditch.",
+        "Its season is beginning during the autumn described by Walker.",
+        "A flying sport or league in The Reach, described as similar to Quidditch but involving flying participants.",
+        "Walker says its season is beginning during the fall."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:43:01.794Z",
+  "updatedAt": "2026-08-21T18:43:01.794Z"
+}

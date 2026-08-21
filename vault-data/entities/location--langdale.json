@@ -15,10 +15,21 @@
         "Dana recognizes its flora and fauna as consistent with the Langdale area.",
         "Walker recognizes a distinctive old, oddly angled tree from previous travels, further confirming the destination is near Langdale."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "The party plans to return to Langdale while Walker scouts The Reach. Sylan intends to speak with Carlkin and possibly Benji in Langdale in hopes of advancing the investigation.",
+      "notes": [
+        "The party plans to return to Langdale while Walker scouts The Reach.",
+        "Sylan intends to speak with Carlkin and possibly Benji there in hopes of advancing the investigation."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T17:41:02.926Z",
-  "updatedAt": "2026-08-11T17:41:02.927Z"
+  "updatedAt": "2026-08-21T17:39:31.809Z",
+  "normalizedAliases": [
+    "langdale"
+  ]
 }

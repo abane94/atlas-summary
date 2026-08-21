@@ -1,0 +1,25 @@
+{
+  "name": "Sunder Chase",
+  "tags": [],
+  "slug": "A summer seasonal event.",
+  "aliases": [],
+  "normalizedAliases": [
+    "sunder chase"
+  ],
+  "filename": "entities/concept/sunder_chase.md",
+  "description": "Sunder Chase is a seasonal event that occurs during the summer rather than the fall season.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Sunder Chase was referenced as a seasonal event associated with summer, contrasting with the current fall season.",
+      "notes": [
+        "Referenced as a seasonal event that occurs during summer rather than the current fall season."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:44:42.012Z",
+  "updatedAt": "2026-08-21T18:44:42.012Z"
+}

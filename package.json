@@ -8,6 +8,8 @@
     "status": "node src/cli.ts status",
     "process": "node src/cli.ts process",
     "vault": "node src/cli.ts vault",
+    "dedup": "node src/cli.ts dedup",
+    "tags": "node src/cli.ts tags",
     "markdown": "node lib/generate-markdown.ts",
     "chrome:debug": "node scripts/start-chrome-debug.js",
     "chrome:seed": "node scripts/seed-chrome-profile.js"

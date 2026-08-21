@@ -1,0 +1,35 @@
+{
+  "name": "Gatehouse",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "Gatehouse governing keystone-operated gates and their passage.",
+  "aliases": [],
+  "normalizedAliases": [
+    "gatehouse"
+  ],
+  "filename": "entities/location/gatehouse.md",
+  "description": "A gatehouse containing the keystone-operated gates.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The gatehouse requires a doorman to orient and calibrate keystones and ensure they are properly seated. Opening a gate requires leaving its keystone at the originating gatehouse; the gate remains open there until deliberately shut, and the keystone cannot be taken through to close it from the other side. The surrounding mountain contains ruined libraries and archives, with only roughly the upper third explored so far. Records were damaged or destroyed through both deliberate raiding and natural degradation. The party expects to guard the gatehouse for an extended period after resolving the lich situation.",
+      "notes": [
+        "The gatehouse requires a doorman to orient and calibrate keystones and ensure they are properly seated.",
+        "Opening a gate requires leaving its keystone at the originating gatehouse.",
+        "A gate remains open at its originating location until it is deliberately shut, and the keystone cannot simply be taken through to close it from the other side.",
+        "The party expects that, after dealing with the lich situation, they may spend a long period guarding the gatehouse.",
+        "The surrounding mountain contains ruined libraries and archives, but only roughly the upper third of the mountain has been explored.",
+        "The area's former libraries and archives are not intact.",
+        "Evidence indicates both deliberate raiding and natural degradation destroyed or damaged records.",
+        "Only roughly the top third of the mountain has been explored so far.",
+        "The party expects to guard the gatehouse for an extended period after the lich situation is resolved."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:29:11.916Z",
+  "updatedAt": "2026-08-21T18:29:11.916Z"
+}

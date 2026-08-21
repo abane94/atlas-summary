@@ -1,7 +1,9 @@
 {
   "name": "Glimmen",
   "slug": "Glimmen is Walker's mind-linked dragon companion who supports his decisions, joins him in ceremonies, and flies with him through The Reach.",
-  "tags": [],
+  "tags": [
+    "companion"
+  ],
   "aliases": [],
   "filename": "entities/npc/glimmen.md",
   "description": "Glimmen is Walker’s mind-linked dragon and a trusted companion who supports his decisions and accompanies him in important moments. She respectfully participates in significant ceremonies and is comfortable with Walker choosing either La-rel or The Reach as their destination. Glimmen has prior memories of traveling through La-rel, including encounters with strange doors, fox people, and shapeshifting experiences. Her ability to fly makes her particularly well suited to traveling alongside Walker through the vast Reach.",
@@ -17,10 +19,20 @@
         "Has memories of traveling through La-rel and its strange doors, fox people, and shapeshifting experiences.",
         "Is well suited to traveling the vast Reach with Walker because of her ability to fly."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Glimmen accompanies Walker, Elrus, and Araden while they investigate the dragon-rider training grounds, carrying Plymouth Gawater through a portal.",
+      "notes": [
+        "Carries Plymouth Gawater through a portal while accompanying Walker, Elrus, and Araden to investigate the dragon-rider training grounds."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:46:29.731Z",
-  "updatedAt": "2026-08-11T15:46:29.732Z"
+  "updatedAt": "2026-08-21T17:46:37.313Z",
+  "normalizedAliases": [
+    "glimmen"
+  ]
 }

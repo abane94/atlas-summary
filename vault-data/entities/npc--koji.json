@@ -1,0 +1,25 @@
+{
+  "name": "Koji",
+  "tags": [],
+  "slug": "A stronghold guard who will relocate to the tavern during the evacuation.",
+  "aliases": [],
+  "normalizedAliases": [
+    "koji"
+  ],
+  "filename": "entities/npc/koji.md",
+  "description": "Koji is one of the guards associated with the stronghold.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Koji is named as one of the guards who will evacuate the stronghold and relocate to Ben's traveling tavern.",
+      "notes": [
+        "Is named as one of the guards who will evacuate the stronghold and relocate to the tavern."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:38:59.731Z",
+  "updatedAt": "2026-08-21T18:38:59.731Z"
+}

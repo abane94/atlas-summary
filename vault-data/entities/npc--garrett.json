@@ -1,0 +1,30 @@
+{
+  "name": "Garrett",
+  "tags": [
+    "companion"
+  ],
+  "slug": "Garrett is one of the party's surviving-and-revived crew members and serves as the boat's gunner.",
+  "aliases": [],
+  "normalizedAliases": [
+    "garrett"
+  ],
+  "filename": "entities/npc/garrett.md",
+  "description": "Garrett is one of the party's four surviving-and-revived crew members and serves as the boat's gunner.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Garrett is identified as one of the party's four crew members and one of the four surviving-and-revived crew members. He serves as the ship's gunner.",
+      "notes": [
+        "Garrett is one of the party's four crew members.",
+        "Garrett serves as the ship's gunner.",
+        "One of the party's four surviving-and-revived crew members.",
+        "Serves as the boat's gunner."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:04:00.073Z",
+  "updatedAt": "2026-08-21T18:04:00.073Z"
+}

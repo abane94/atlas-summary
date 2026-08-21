@@ -1,0 +1,29 @@
+{
+  "name": "Gate",
+  "tags": [
+    "spell"
+  ],
+  "slug": "A portal spell with a maximum 20-foot diameter",
+  "aliases": [],
+  "normalizedAliases": [
+    "gate"
+  ],
+  "filename": "entities/concept/gate.md",
+  "description": "Gate creates a portal with a diameter between 5 and 20 feet. It is distinct from Plane Shift.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The DM clarified that Gate's portal can range from 5 to 20 feet in diameter. The 20-foot maximum is too small for the party's boat to pass through.",
+      "notes": [
+        "The DM clarified that Gate creates a portal with a diameter between 5 and 20 feet.",
+        "The maximum 20-foot diameter is insufficient for the party's boat to pass through.",
+        "Gate is distinct from Plane Shift."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:07:42.942Z",
+  "updatedAt": "2026-08-21T18:07:42.942Z"
+}

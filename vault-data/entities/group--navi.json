@@ -1,7 +1,9 @@
 {
   "name": "Navi",
   "slug": "The Navi are an ancient race tied to the Eldarin Tree who created the keystones and seek children of the Mother's Prayer to explore Atlas.",
-  "tags": [],
+  "tags": [
+    "people"
+  ],
   "aliases": [],
   "filename": "entities/group/navi.md",
   "description": "The Navi are an ancient race associated with the Eldarin Tree, the keystones, and the Mother's Prayer. They historically sought the sons and daughters produced through the Mother's Prayer, believing these children could aid their efforts to explore Atlas. The Navi created the keystones using knowledge distilled from the rings of the sacred Eldarin Tree.",
@@ -27,5 +29,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:20:01.954Z",
-  "updatedAt": "2026-08-11T14:20:01.954Z"
+  "updatedAt": "2026-08-21T19:23:48.051Z",
+  "normalizedAliases": [
+    "navi"
+  ]
 }

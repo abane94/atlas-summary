@@ -1,7 +1,9 @@
 {
   "name": "Emhet",
   "slug": "Emhet is a deity at the gods' council who knows the party's role safeguarding the keys and offers cryptic guidance about the path.",
-  "tags": [],
+  "tags": [
+    "deity"
+  ],
   "aliases": [],
   "filename": "entities/npc/emhet.md",
   "description": "Emhet is a deity who was present at the gods’ council and appears to have knowledge of the party’s role in safeguarding the keys. Emhet provides cryptic guidance, urging the party to trust the path and the Gatekeeper, and warns them that if the mind walks, they should hold their breath and not yell.",
@@ -23,5 +25,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T17:12:09.712Z",
-  "updatedAt": "2026-08-11T17:12:09.712Z"
+  "updatedAt": "2026-08-21T19:23:48.061Z",
+  "normalizedAliases": [
+    "emhet"
+  ]
 }

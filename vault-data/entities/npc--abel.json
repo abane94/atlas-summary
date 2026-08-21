@@ -1,0 +1,28 @@
+{
+  "name": "Abel",
+  "tags": [],
+  "slug": "Abel is a surviving-and-revived crew member who serves as the boat's helmsman.",
+  "aliases": [],
+  "normalizedAliases": [
+    "abel"
+  ],
+  "filename": "entities/npc/abel.md",
+  "description": "Abel is one of the party's four surviving-and-revived crew members and serves as the boat's helmsman.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Abel is identified as one of the party's four surviving-and-revived crew members and as the ship's helmsman.",
+      "notes": [
+        "Abel is one of the party's four crew members.",
+        "Abel serves as the ship's helmsman.",
+        "One of the party's four surviving-and-revived crew members.",
+        "Serves as the boat's helmsman."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:02:38.608Z",
+  "updatedAt": "2026-08-21T18:02:38.608Z"
+}

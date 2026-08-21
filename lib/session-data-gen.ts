@@ -97,9 +97,7 @@ export interface SessionChunkSummary {
     }
 //#endregion
 
-// function to parse recap and all summary-*.json files in the summaries folder in order into a list of objects, given the date string
-// it looks in the dir, grabs the recap adds it to the list, then looks for summary-0,json, if it fings it, continue, otherwise check if the next summary exsits, to check for bad processing, or contine
-
+// Parse all summary-*.json files in summaries/<date> in order.
 function loadAllSummaries(date: string): SessionChunkSummary[] {
     let hasNext = true;
     let summaries = [];
@@ -130,17 +128,12 @@ function loadAllSummaries(date: string): SessionChunkSummary[] {
     return summaries;
 }
 
-function loadRecap(date: string): SessionChunkSummary {
-    return JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'summaries', `${date}`, `recap.json`), 'utf8'));
-}
-
-export function generateSessionData(date: string): { recap: SessionChunkSummary, summaries: SessionChunkSummary[] } {
-    const recap = loadRecap(date);
+export function generateSessionData(date: string): { summaries: SessionChunkSummary[] } {
     const summaries = loadAllSummaries(date);
-    return { recap, summaries };
+    return { summaries };
 }
 
-export async function mergeSessionData(page: any, sessionData: { recap: SessionChunkSummary, summaries: SessionChunkSummary[] }): Promise<SessionChunkSummary> {
+export async function mergeSessionData(page: any, sessionData: { summaries: SessionChunkSummary[] }): Promise<SessionChunkSummary> {
     const merged: MergedSessionData = {
         plotSections: [],
         chronologicalEvents: [],
@@ -148,7 +141,7 @@ export async function mergeSessionData(page: any, sessionData: { recap: SessionC
         dedupedEntities: {},
         misTranscriptions: [],
         openQuestions: [],
-        newTerms: []
+        newTerms: [],
     }
 
     for (const summary of sessionData.summaries) {
@@ -157,7 +150,6 @@ export async function mergeSessionData(page: any, sessionData: { recap: SessionC
         merged.misTranscriptions.push(...summary.misTranscriptions);
         merged.openQuestions.push(...summary.openQuestions);
         merged.newTerms.push(...summary.newTerms);  //// -------------
-
 
         for (const [key, value] of Object.entries(summary.entities)) {
             if (merged.entities[key]) {
@@ -221,7 +213,7 @@ export async function mergeSessionData(page: any, sessionData: { recap: SessionC
         \`\`\`
         ${JSON.stringify(merged.chronologicalEvents, null, 4)}  
     `);
-    (merged as any).chronologicalEventsDeduped = JSON.parse(chronologicalEvents).events;
+    merged.chronologicalEvents = JSON.parse(chronologicalEvents).events;
 
 
     await page.goto(url, { waitUntil: "networkidle2", timeout: 60000 });
@@ -267,7 +259,7 @@ export async function mergeSessionData(page: any, sessionData: { recap: SessionC
         }
 
         export interface Output{
-            entities: Record<string: EntityName, EntityUpdate>;
+            entities: Record<string, EntityUpdate>;
         }
         \`\`\`
 
@@ -296,9 +288,9 @@ export async function mergeSessionData(page: any, sessionData: { recap: SessionC
         }
         \`\`\`
 
-        ${JSON.stringify(merged.entities, null, 4)}
+        ${JSON.stringify(merged.newTerms, null, 4)}
     `);
-    merged.dedupedEntities = JSON.parse(entities).entities;
-    (merged as any).dedupedTerms = JSON.parse(terms).terms;
+    merged.entities = JSON.parse(entities).entities;
+    merged.newTerms = JSON.parse(terms).terms;
     return merged;
 }

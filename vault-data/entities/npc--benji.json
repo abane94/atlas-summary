@@ -1,0 +1,28 @@
+{
+  "name": "Benji",
+  "tags": [],
+  "slug": "Benji is familiar with The Reach and may be at the party's bar.",
+  "aliases": [],
+  "normalizedAliases": [
+    "benji"
+  ],
+  "filename": "entities/npc/benji.md",
+  "description": "Benji has frequented The Reach many times.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The party considers asking Benji for information because of his familiarity with The Reach. They are uncertain where he currently is and recall that he may have been left at their bar.",
+      "notes": [
+        "The party considers asking Benji for information because he has frequented The Reach many times.",
+        "The party is uncertain where Benji currently is and recalls that he may have been left at their bar."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Where is Benji currently located?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:21:05.572Z",
+  "updatedAt": "2026-08-21T18:21:05.572Z"
+}

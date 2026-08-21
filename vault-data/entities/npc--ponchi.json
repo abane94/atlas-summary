@@ -1,0 +1,25 @@
+{
+  "name": "Ponchi",
+  "tags": [],
+  "slug": "A stronghold guard who will relocate to the tavern.",
+  "aliases": [],
+  "normalizedAliases": [
+    "ponchi"
+  ],
+  "filename": "entities/npc/ponchi.md",
+  "description": "Ponchi is one of the guards associated with the stronghold.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Ponchi is named as one of the guards who will evacuate the stronghold and relocate to the tavern.",
+      "notes": [
+        "Is named as one of the guards who will evacuate the stronghold and relocate to the tavern."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:40:11.895Z",
+  "updatedAt": "2026-08-21T18:40:11.895Z"
+}

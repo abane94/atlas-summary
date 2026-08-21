@@ -1,0 +1,25 @@
+{
+  "name": "Bo",
+  "tags": [],
+  "slug": "A stronghold guard preparing for evacuation",
+  "aliases": [],
+  "normalizedAliases": [
+    "bo"
+  ],
+  "filename": "entities/npc/bo.md",
+  "description": "Bo is one of the guards associated with the stronghold.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "In this session, Bo was named as one of the guards who will evacuate the stronghold and relocate to Ben’s traveling tavern.",
+      "notes": [
+        "Is named as one of the guards who will evacuate the stronghold and relocate to the tavern."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:41:51.603Z",
+  "updatedAt": "2026-08-21T18:41:51.603Z"
+}

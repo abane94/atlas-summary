@@ -32,7 +32,7 @@ Copy `.env.example` to `.env` and adjust paths if needed.
    npm start -- 2026-08-17
    ```
 
-   That runs **recap → chunks → merge**. Vault is skipped by default (it uses a lot of ChatGPT calls). When you are ready:
+   That runs **chunks → merge**. Vault is skipped by default (it uses a lot of ChatGPT calls). When you are ready:
 
    ```bash
    npm start -- vault 2026-08-17
@@ -40,7 +40,25 @@ Copy `.env.example` to `.env` and adjust paths if needed.
    npm start -- 2026-08-17 --with-vault
    ```
 
-4. Commit `summaries/` and `vault-data/`. CI runs `lib/generate-markdown.ts` and publishes the site.
+4. After vault data exists, optionally look for duplicate entities (same person/place under different names). This is **not** part of process/vault:
+
+   ```bash
+   npm start -- dedup
+   npm start -- dedup --interactive
+   ```
+
+   `--dry-run` alone prints the entity table that would be sent to ChatGPT. With `--interactive`, the scan and review still run, but merges are only printed (no ChatGPT merge / file writes).
+
+5. Assign tags from the closed catalog to existing vault entities (also not part of process/vault):
+
+   ```bash
+   npm start -- tags
+   npm start -- tags --dry-run
+   ```
+
+   Suggestions for new catalog tags are appended to `vault-data/tag-suggestions.json` for human review.
+
+6. Commit `summaries/` and `vault-data/`. CI runs `lib/generate-markdown.ts` and publishes the site.
 
 See current progress without calling ChatGPT:
 
@@ -57,13 +75,18 @@ npm start -- status
 | Only merge existing chunk JSON | `npm start -- 2026-08-17 --only merge` |
 | Redo chunk summaries | `npm start -- 2026-08-17 --only chunks --force` |
 | Start at vault for one date | `npm start -- vault 2026-08-17` |
-| Recap + chunks + merge + vault | `npm start -- 2026-08-17 --with-vault` |
-| Redo vault session log | `npm start -- vault 2026-08-17 --force` |
+| Chunks + merge + vault | `npm start -- 2026-08-17 --with-vault` |
+| Redo vault for a date | `npm start -- vault 2026-08-17 --force` |
 | Process every session still missing vault data | `npm start -- vault` |
+| List likely duplicate vault entities | `npm start -- dedup` |
+| Preview the entity table without ChatGPT | `npm start -- dedup --dry-run` |
+| Interactively confirm and merge duplicates | `npm start -- dedup --interactive` |
+| Assign closed-catalog tags to vault entities | `npm start -- tags` |
+| Preview the tags table without ChatGPT | `npm start -- tags --dry-run` |
 
-`--force` overwrites that step’s output. Without it, existing `recap.json`, `summary-N.json`, `merged.json`, and finished vault entity/session logs are left alone.
+`--force` overwrites that step’s output. For **vault**, it re-reads `merged.json`, re-runs the AI prompts, **replaces** that date’s entry on each entity log (does not append a second entry), and **deletes** entity files whose log only contained that date. Vault `--force` requires a session date (`vault 2026-08-17 --force`); it will not redo every session at once. Without `--force`, existing `summary-N.json`, `merged.json`, and finished vault entity/session logs are left alone.
 
-`npm start -- 2026-08-17 --dry-run` prints the steps that would run without calling ChatGPT.
+`npm start -- 2026-08-17 --dry-run` prints the steps that would run without calling ChatGPT. With vault `--force --dry-run`, the preview shows how many entity logs would be replaced and how many entity files would be deleted.
 
 Website markdown (`vault/**/*.md`) is **not** part of the local pipeline. Preview it with `npm run markdown` if you want; CI still generates it on push to `main`.
 

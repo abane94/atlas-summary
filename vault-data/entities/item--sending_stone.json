@@ -1,0 +1,37 @@
+{
+  "name": "Sending Stone",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "A ship-linked sending stone used to maintain contact with the party",
+  "aliases": [],
+  "normalizedAliases": [
+    "sending stone"
+  ],
+  "filename": "entities/item/sending_stone.md",
+  "description": "A sending stone associated with the ship that allows a message of up to 25 words once per day.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The party uses the sending stone associated with the ship to maintain contact while traveling. Walker retrieves it from the gatehouse before departing for The Reach on his scouting mission. The party is uncertain how its once-per-day recharge interacts with The Reach's accelerated passage of time; Dana can also use the Sending spell as another means of communication.",
+      "notes": [
+        "The party has a sending stone associated with the ship.",
+        "It allows a message of up to 25 words once per day.",
+        "Walker takes the stone with him for his scouting mission to The Reach so he can keep the party updated.",
+        "The party is uncertain how its recharge period interacts with The Reach's accelerated passage of time.",
+        "The party has a sending stone associated with the ship that Walker takes with him to maintain contact while traveling.",
+        "The sending stone can send a message of up to 25 words and is discussed as functioning once per day, though the party is uncertain how its recharge interacts with the Reach's unusual flow of time.",
+        "Dana can also cast Sending as a spell, providing another means of communication.",
+        "Walker remembers to retrieve his sending stone from the gatehouse before departing for The Reach."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Does the sending stone recharge according to time outside The Reach or according to the faster passage of time inside The Reach?",
+    "How does the sending stone's once-per-day limitation interact with the Reach's accelerated passage of time?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:23:26.470Z",
+  "updatedAt": "2026-08-21T18:23:26.470Z"
+}

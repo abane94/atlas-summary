@@ -1,0 +1,29 @@
+{
+  "name": "spectral door",
+  "tags": [],
+  "slug": "A mysterious spectral door appeared above Gerk.",
+  "aliases": [],
+  "normalizedAliases": [
+    "spectral door"
+  ],
+  "filename": "entities/other/spectral_door.md",
+  "description": "A shiny, floating spectral door of unknown destination or function.",
+  "type": "OTHER",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "During the session, a shiny, floating spectral door appeared above Gerk while unseen forces were manipulating him. Sylan directed Gerk toward the door, but its destination and function were not established.",
+      "notes": [
+        "A shiny, floating spectral door appears above Gerk while unseen forces are manipulating him.",
+        "Sylan directs Gerk toward the door, but its destination or function is not established in this chunk."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What is the spectral door and where does it lead?",
+    "Why has the spectral door appeared over Gerk?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:56:08.887Z",
+  "updatedAt": "2026-08-21T18:56:08.887Z"
+}

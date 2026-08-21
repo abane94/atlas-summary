@@ -10,7 +10,7 @@ import {
 } from "./transcript.js";
 
 export const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
-export const PROCESS_STEPS = ["recap", "chunks", "merge"] as const;
+export const PROCESS_STEPS = ["chunks", "merge"] as const;
 export const PIPELINE_STEPS = [...PROCESS_STEPS, "vault"] as const;
 export type PipelineStep = (typeof PIPELINE_STEPS)[number];
 
@@ -18,10 +18,6 @@ const CHATGPT_URL = "https://chatgpt.com";
 
 export function summariesDir(date: string): string {
   return path.join("summaries", date);
-}
-
-export function recapJsonPath(date: string): string {
-  return path.join(summariesDir(date), "recap.json");
 }
 
 export function mergedJsonPath(date: string): string {
@@ -98,7 +94,6 @@ export interface SessionStatus {
   date: string;
   recapMd: boolean;
   transcriptMd: boolean;
-  recapJson: boolean;
   chunksDone: number;
   chunksExpected: number | null;
   mergedJson: boolean;
@@ -110,7 +105,6 @@ export function getSessionStatus(date: string): SessionStatus {
     date,
     recapMd: fs.existsSync(recapMarkdownPath(date)),
     transcriptMd: fs.existsSync(transcriptMarkdownPath(date)),
-    recapJson: fs.existsSync(recapJsonPath(date)),
     chunksDone: countExistingChunks(date),
     chunksExpected: expectedChunkCount(date),
     mergedJson: fs.existsSync(mergedJsonPath(date)),
@@ -119,7 +113,6 @@ export function getSessionStatus(date: string): SessionStatus {
 }
 
 export function formatSessionStatus(status: SessionStatus): string {
-  const recap = status.recapJson ? "✓" : "✗";
   const chunkPart =
     status.chunksExpected == null
       ? `${status.chunksDone}/?`
@@ -141,7 +134,7 @@ export function formatSessionStatus(status: SessionStatus): string {
         ]
           .filter(Boolean)
           .join(", ")})`;
-  return `${status.date}  recap ${recap}  chunks ${chunks}  merge ${merge}  vault ${vault}${inputs}`;
+  return `${status.date}  chunks ${chunks}  merge ${merge}  vault ${vault}${inputs}`;
 }
 
 function buildExistingEntitiesTable(): string {
@@ -179,10 +172,6 @@ function toPromptHtml(text: string): string {
   return text.replaceAll("\n", "<br/>");
 }
 
-export function recapNeedsWork(date: string, force: boolean): boolean {
-  return force || !fs.existsSync(recapJsonPath(date));
-}
-
 export function chunksNeedWork(date: string, force: boolean): boolean {
   if (force) return true;
   const expected = expectedChunkCount(date);
@@ -192,41 +181,6 @@ export function chunksNeedWork(date: string, force: boolean): boolean {
 
 export function mergeNeedsWork(date: string, force: boolean): boolean {
   return force || !fs.existsSync(mergedJsonPath(date));
-}
-
-export async function generateRecap(
-  page: Page,
-  date: string,
-  options: { force?: boolean } = {},
-): Promise<"wrote" | "skipped"> {
-  const outPath = recapJsonPath(date);
-  if (!options.force && fs.existsSync(outPath)) {
-    console.log(`[recap] ${outPath} already exists, skipping (use --force to redo)`);
-    return "skipped";
-  }
-
-  ensureTranscripts(date);
-  ensureSummariesFolder(date);
-
-  const recapPrompt = buildRecapPrompt();
-  const { recap } = await loadTranscript(date);
-  const aiPrompt = `
-# Input
-This is section is a recap of the DND session.
-<br/>
-<br/>
-${toPromptHtml(recapPrompt)}
-<br/>
-<br/>
-
-${toPromptHtml(recap)}
-`;
-
-  console.log(`[recap] Generating ${outPath} ...`);
-  const recapSummary = await runJsonPrompt(page, aiPrompt);
-  fs.writeFileSync(outPath, recapSummary);
-  console.log(`[recap] Wrote ${outPath}`);
-  return "wrote";
 }
 
 export async function generateChunks(
@@ -293,11 +247,6 @@ export async function generateMerged(
     return "skipped";
   }
 
-  if (!fs.existsSync(recapJsonPath(date))) {
-    throw new Error(
-      `Cannot merge ${date}: missing ${recapJsonPath(date)}. Run the recap step first.`,
-    );
-  }
   if (countExistingChunks(date) === 0) {
     throw new Error(
       `Cannot merge ${date}: no summary-*.json files in ${summariesDir(date)}. Run the chunks step first.`,
@@ -305,7 +254,7 @@ export async function generateMerged(
   }
 
   ensureSummariesFolder(date);
-  console.log(`[merge] Merging recap + chunk summaries for ${date} ...`);
+  console.log(`[merge] Merging chunk summaries for ${date} ...`);
   const allData = await generateSessionData(date);
   const mergedData = await mergeSessionData(page, allData);
   fs.writeFileSync(outPath, JSON.stringify(mergedData, null, 2));

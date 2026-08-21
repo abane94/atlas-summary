@@ -27,6 +27,30 @@
         "Is visibly startled when Gerk successfully opens his first reality-bending doorway.",
         "Offers Dana a bottle when she asks for alcohol and discusses possible destinations the party could reach through portals."
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Plymouth demonstrates a general understanding of how the keystones and gatehouses operate, explaining that the Doorman must properly orient, calibrate, and seat the keystones to prevent malfunctions. After consulting Juten Prime and receiving approval, he joins Walker, Elrus, Araden, and Glimmen in investigating the Dragon Rider training grounds and the origins of Grixto and Galixtar. Plymouth equips himself for travel and leaves the gatehouse, where his absence leaves the party dependent on Gerk for operating the keystones. He has already conducted substantial research into the gatehouse and its former contents and is expected to return to verify Juten Prime’s findings. Dana also wants to compare notes with him regarding the gatehouse and its former inhabitants or contents.",
+      "notes": [
+        "Plymouth has a general understanding of how the keystones and gatehouses operate.",
+        "He explains that the doorman must orient and calibrate the keystones and ensure they are properly seated to prevent malfunctions.",
+        "He consults Juten Prime before joining Walker's investigation and receives approval to investigate further keystone usage and pursue clues concerning the Dragon Riders.",
+        "Plymouth leaves the gatehouse equipped for travel with a backpack, traveling cloak, short sword, and additional pouches.",
+        "His departure leaves the remaining party dependent on Gerk for operating the keystones.",
+        "Has a general understanding of how the keystones and gates operate.",
+        "Explains that keystones must be calibrated and seated correctly by the gatehouse's Doorman to prevent malfunctions.",
+        "Consults Juten Prime before leaving the gatehouse and receives approval to investigate the Dragon Rider training grounds.",
+        "Equips himself for travel with a leather backpack, traveling cloak, short sword, and additional pouches before joining Walker's expedition.",
+        "Leaves the gatehouse with Walker, Elrus, Araden, and Glimmen to investigate the Dragon Rider training grounds.",
+        "Leaves with Walker and Glimmen, Elrus, and Araden to investigate the dragon-rider training grounds and the origins of Grixto and Galixtar.",
+        "Is expected to return later to verify Juten Prime's findings regarding the site.",
+        "Dana wants to compare notes with Plymouth about what he has learned regarding the gatehouse and its former inhabitants or contents.",
+        "Is investigating the origin or place of origin of Grixto and Galixtar.",
+        "May need to return to the gatehouse to verify the group's research.",
+        "Has already conducted substantial research into the gatehouse and its former contents.",
+        "Gerk jokingly blames Plymouth for not warning him about the dangers or behavior of the doors.",
+        "Gerk jokingly blames Plymouth for not warning him about the current situation involving the Doorman."
+      ]
     }
   ],
   "openQuestions": [
@@ -35,5 +59,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:28:12.188Z",
-  "updatedAt": "2026-08-11T14:28:12.188Z"
+  "updatedAt": "2026-08-21T17:40:42.058Z",
+  "normalizedAliases": [
+    "plymouth gawater"
+  ]
 }

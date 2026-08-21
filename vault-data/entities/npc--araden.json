@@ -1,0 +1,33 @@
+{
+  "name": "Araden",
+  "tags": [
+    "companion"
+  ],
+  "slug": "A magically capable companion brought secretly to The Reach.",
+  "aliases": [],
+  "normalizedAliases": [
+    "araden"
+  ],
+  "filename": "entities/npc/araden.md",
+  "description": "Araden is a previously established NPC/companion associated with the party. Araden is highly capable with magic. The party believes Araden may be an ancient dragon, but this is not established as fact.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Walker intends for Araden to accompany him and Elrus to The Reach as part of the scouting group. The party views Araden as a secret weapon whose capabilities should remain unknown to Grixto, particularly until the eventual confrontation. Araden ultimately accompanies Elrus and Walker through the gate to The Reach.",
+      "notes": [
+        "Walker intends to bring Araden to The Reach as part of the scouting group.",
+        "The party believes Araden is an ancient dragon and is highly skilled in magic.",
+        "Walker considers Araden one of the party's secret weapons that Grixto does not yet know about.",
+        "Walker intends for Araden to accompany him to The Reach.",
+        "Walker considers Araden a secret weapon that should remain unknown to the lich until the eventual confrontation.",
+        "The party discusses Araden as being highly capable with magic; there is also an apparent transcription reference to Araden being an ancient dragon, but this is not clear enough to establish as fact.",
+        "Araden accompanies Elrus and Walker through the gate to the Reach."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:15:19.932Z",
+  "updatedAt": "2026-08-21T18:15:19.932Z"
+}

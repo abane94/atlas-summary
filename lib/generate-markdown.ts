@@ -74,14 +74,23 @@ async function generateSessionFile(sessionData: SessionData, vaultOutputFolder: 
 }
 
 async function generateEntityFile(entityData: EntityData, vaultOutputFolder: string, entityDataList: EntityData[]) {
+    const typeTag = entityData.type.toLowerCase();
+    const tags = [...new Set([...entityData.tags, typeTag])];
+    const tagYaml = tags.length > 0
+        ? `tags:\n${tags.map((t) => `  - "${t}"`).join('\n')}`
+        : 'tags: []';
+    const aliasYaml = entityData.aliases.length > 0
+        ? `aliases:\n${entityData.aliases.map((a) => `  - "${a}"`).join('\n')}`
+        : 'aliases: []';
+
     let frontmatter = [
         '---',
         `name: ${entityData.name}`,
         `title: ${entityData.name}`,
         `type: ${entityData.type}`,
         `description: ${entityData.description.replaceAll('\n', ' ').replaceAll(/[*\#\-_`~:|]/g, '')}`,
-        `tags:\n${[...entityData.tags, entityData.type.toLowerCase()].map(t => `  - "${t}"`).join(', ')}`,
-        `aliases: ${entityData.aliases.map(a => `  - "${a}"`).join(', ')}`,
+        tagYaml,
+        aliasYaml,
         `createdAt: ${entityData.createdAt}`,
         `updatedAt: ${entityData.updatedAt}`,
         `slug: ${entityData.slug}`,
@@ -115,7 +124,9 @@ async function generateEntityFile(entityData: EntityData, vaultOutputFolder: str
 
 function insertWikiLinks(text: string, entityDataList: EntityData[]) {
     for (const entityData of entityDataList) {
-        const targetList = [...entityData.linkTargets, entityData.name];
+        const targetList = [...entityData.linkTargets, ...entityData.aliases, entityData.name]
+            .map((t) => t.trim())
+            .filter(Boolean);
         for (const target of targetList) {
             text = text.replaceAll(new RegExp(escapeRegExp(target), 'gi'), `[[${entityData.filename.replace('.md', '')}|${entityData.name}]]`);
         }

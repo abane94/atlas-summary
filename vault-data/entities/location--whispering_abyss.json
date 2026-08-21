@@ -1,0 +1,26 @@
+{
+  "name": "Whispering Abyss",
+  "tags": [],
+  "slug": "A location near where the party previously emerged from the arch.",
+  "aliases": [],
+  "normalizedAliases": [
+    "whispering abyss"
+  ],
+  "filename": "entities/location/whispering_abyss.md",
+  "description": "The Whispering Abyss is a location associated with the party's travels through the arch.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The party recalled that their previous use of the arch brought them out near the Whispering Abyss. The training grounds were described as approximately five days of flight from the Whispering Abyss.",
+      "notes": [
+        "The party recalls that their previous use of the arch brought them out near the Whispering Abyss.",
+        "The training grounds are described as about five days of flight from the Whispering Abyss."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:25:05.906Z",
+  "updatedAt": "2026-08-21T18:25:05.906Z"
+}

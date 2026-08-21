@@ -1,7 +1,9 @@
 {
   "name": "Gatekeeper",
   "slug": "The role of party members other than Gerk, each holding a keystone associated with an Arch realm and managing paths between realms.",
-  "tags": [],
+  "tags": [
+    "title"
+  ],
   "aliases": [],
   "filename": "entities/concept/gatekeeper.md",
   "description": "Gatekeeper refers to the role held by party members other than Gerk, with each Gatekeeper responsible for a keystone associated with an Arch realm. Gatekeepers hold and interact with these keystones and are involved in managing the paths between realms.",
@@ -23,5 +25,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:35:21.227Z",
-  "updatedAt": "2026-08-11T16:35:21.228Z"
+  "updatedAt": "2026-08-21T19:23:48.048Z",
+  "normalizedAliases": [
+    "gatekeeper"
+  ]
 }

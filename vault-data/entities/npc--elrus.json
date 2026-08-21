@@ -1,0 +1,38 @@
+{
+  "name": "Elrus",
+  "tags": [
+    "companion"
+  ],
+  "slug": "Elrus is Walker's hidden ally in the coming confrontation.",
+  "aliases": [],
+  "normalizedAliases": [
+    "elrus"
+  ],
+  "filename": "entities/npc/elrus.md",
+  "description": "Elrus is an ally of Walker who has agreed to accompany him when asked.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Walker plans to bring Elrus to The Reach to scout the Dragon Rider training grounds. Walker has promised Elrus a place to stay and considers him a secret weapon who should remain unknown to the lich until the eventual confrontation. Walker expects Elrus to fight Grixto if they encounter him, though he worries Elrus may not hold back. Before departing, Elrus wished the party fruitful ventures and hoped their next meeting would allow them to vanquish their common foe.",
+      "notes": [
+        "Walker stated that he needs to take Elrus somewhere.",
+        "Walker has promised Elrus a place to stay.",
+        "Elrus is willing to accompany Walker because Walker had previously asked him to come along.",
+        "Walker believes Elrus would probably become involved in a fight if they encountered Grixto.",
+        "Walker intends to bring Elrus with him on the scouting mission into The Reach.",
+        "Elrus is expected to be capable of confronting Grixto alongside Walker if they encounter him, though Walker worries Elrus may not hold back.",
+        "Walker intends for Elrus to accompany him to The Reach.",
+        "Walker considers Elrus a secret weapon that should remain unknown to the lich until the eventual confrontation.",
+        "Elrus accompanies Walker to the Reach to investigate the Dragon Rider training grounds.",
+        "Before departing, Elrus wishes the party fruitful ventures and hopes that their next meeting will allow them to vanquish their common foe."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Where does Walker need to take Elrus?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:09:04.587Z",
+  "updatedAt": "2026-08-21T18:09:04.587Z"
+}

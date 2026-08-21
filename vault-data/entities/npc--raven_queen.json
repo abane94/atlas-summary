@@ -1,7 +1,10 @@
 {
   "name": "Raven Queen",
   "slug": "The Raven Queen is an elder god of death, also called Nira, who once walked among mortals and can take a harpy-like form.",
-  "tags": [],
+  "tags": [
+    "deity",
+    "order"
+  ],
   "aliases": [],
   "filename": "entities/npc/raven_queen.md",
   "description": "Raven Queen, also known as Nira, is an elder god associated with death and the dead. She has a regal humanoid appearance, typically wearing a dark flowing robe and a blank white porcelain mask, and can transform into a harpy-like form with enormous black wings. She was once more mortal and has personally walked among mortals, giving her a perspective that distinguishes her from more distant divine beings. She is closely connected to an order of talons, including Sylan, whom she recognizes as a servant of her order rather than a butcher. Raven Queen treats death as a serious and immutable force, encouraging mortals to make their lives and eventual deaths meaningful rather than attempting to defy death.",
@@ -31,5 +34,8 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:56:39.240Z",
-  "updatedAt": "2026-08-11T15:56:39.240Z"
+  "updatedAt": "2026-08-21T19:23:48.062Z",
+  "normalizedAliases": [
+    "raven queen"
+  ]
 }
