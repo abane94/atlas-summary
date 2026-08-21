@@ -27,8 +27,14 @@ export async function generateMarkdown(vaultDataFolder: string, vaultOutputFolde
 
 
     const sessionsPaths = await fs.readdir(path.join(vaultDataFolder, 'log'), { withFileTypes: true });
+    const sessions: SessionData[] = [];
     for (const sessionPath of sessionsPaths) {
         const sessionData = JSON.parse(await fs.readFile(path.join(vaultDataFolder, 'log', sessionPath.name), 'utf8')) as SessionData;
+        sessions.push(sessionData);
+    }
+    sessions.sort((a, b) => b.date.localeCompare(a.date));
+
+    for (const sessionData of sessions) {
         const sessionSummary = await generateSessionFile(sessionData, vaultOutputFolder, entityDataList);
         indexMarkdown += `## [[log/${sessionData.date}|${sessionData.date}]]\n`;
         indexMarkdown += `${insertWikiLinks(sessionSummary, entityDataList)}\n`;
@@ -102,7 +108,8 @@ async function generateEntityFile(entityData: EntityData, vaultOutputFolder: str
     markdown += `# ${entityData.name}\n\n${entityData.description}\n\n`;
 
     markdown += `## Log\n\n`;
-    for (const logEntry of entityData.log) {
+    const logEntries = [...entityData.log].sort((a, b) => b.date.localeCompare(a.date));
+    for (const logEntry of logEntries) {
         markdown += `### [[log/${logEntry.date}|${logEntry.date}]]\n ${logEntry.notes.map(note => `- ${note}`).join('\n')}\n`;
     }
 
