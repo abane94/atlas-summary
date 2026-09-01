@@ -25,7 +25,7 @@ import path from 'path';
 
 import type { PlotSection, SessionChunkSummary } from "./types/session.ts";
 import { Page } from 'puppeteer-core';
-import { runJsonPrompt, runProsePrompt } from './chatgpt.js';
+import { runJsonPrompt, runProsePrompt } from './ai.js';
 import { isDirectRun } from './is-main.ts';
 import { withChatGptPage } from './browser.js';
 import {
@@ -780,7 +780,7 @@ async function resolveSessionEntityTargets(
     const raw = await runJsonPrompt(
         page,
         buildEntityMatchPrompt(unmatched, existingEntitiesList),
-        60_000,
+        { timeout: 60_000, effort: "medium" },
     );
     const aiMatches = parseEntityMatchResult(raw);
     const byIncoming = new Map(aiMatches.map((m) => [m.incomingName, m]));
@@ -977,7 +977,7 @@ async function parseSessionEntities(
             const raw = await runJsonPrompt(
                 page,
                 buildExistingEntityPrompt(writeName, date, existingEntity, sessionEntity),
-                60_000,
+                { timeout: 60_000, effort: "low" },
             );
             const ai = parseVaultEntityAiResult(raw);
             const validated = validateEntityTags(ai.tags, { entityName: writeName });
@@ -997,7 +997,7 @@ async function parseSessionEntities(
             const raw = await runJsonPrompt(
                 page,
                 buildNewEntityPrompt(writeName, date, sessionEntity),
-                60_000,
+                { timeout: 60_000, effort: "low" },
             );
             const ai = parseVaultEntityAiResult(raw);
             const validated = validateEntityTags(ai.tags, { entityName: writeName });
@@ -1076,7 +1076,7 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
             The summary should be in markdown format.
 
             ${JSON.stringify(sessionDataForPrompt, null, 2)}
-        `),
+        `, { effort: "low" }),
         plotSections: sessionData.plotSections.map(section => ({
             title: section.title,
             bullets: section.bullets,

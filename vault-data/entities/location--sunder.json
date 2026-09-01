@@ -1,0 +1,30 @@
+{
+  "name": "Sunder",
+  "tags": [
+    "settlement"
+  ],
+  "slug": "Floating tower-and-island market hub in The Reach",
+  "aliases": [],
+  "normalizedAliases": [
+    "sunder"
+  ],
+  "filename": "entities/location/sunder.md",
+  "description": "Sunder is a floating amalgamation of towers and islands in The Reach. It contains districts and venues including Haven Hold, the Bronze Palace, the Bronze Arena, Miss Mary's, the docks, the Prancing Fox, and Louise Casino. Its shops offer rare supplies such as exhaustion potions, horn root, dragon scale powder, and dragon gizzard, though some magic items require investigative work and completing a Sunder Chase circuit to obtain.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Walker and Plymouth detour over Sunder during their Reach excursion while Elrus avoids supply runs there. Plymouth leads Walker through street vendors to Qualin's Quax for alchemical components, and Walker later visits Haven Hold within Sunder to seek exhaustion relief and a loan from Hanzuni rather than run another Sunder Chase.",
+      "notes": [
+        "A floating amalgamation of towers and islands in The Reach.",
+        "Contains Haven Hold, the Bronze Palace, the Bronze Arena, Miss Mary's, the docks, the Prancing Fox, and Louise Casino.",
+        "Has shops with rare supplies including possible exhaustion potions, horn root, dragon scale powder, and dragon gizzard.",
+        "Some magic items require investigative work and completing another Sunder Chase circuit to obtain."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:32:16.895Z",
+  "updatedAt": "2026-09-01T18:32:16.895Z"
+}

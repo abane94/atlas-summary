@@ -1,7 +1,9 @@
 {
   "name": "Walker",
   "slug": "Walker is a half-elf dragon rider and fighter bonded to Glimmen, originally from La-rel and now Gatekeeper of The Reach.",
-  "tags": [],
+  "tags": [
+    "title"
+  ],
   "aliases": [],
   "filename": "entities/player/walker.md",
   "description": "Half-elf dragon rider and fighter, bonded to the mind-linked dragon Glimmen. Walker is originally from La-rel and is the only party member known to have come from outside Midgard. He is now the Gatekeeper of The Reach, responsible for protecting and exploring the largest Arch, a role well suited to him and Glimmen because of their ability to fly.",
@@ -59,12 +61,37 @@
         "Walker describes the National Flying League as beginning its season in The Reach.",
         "Walker describes floating jack-o'-lanterns and other flying elements as part of the setting in The Reach."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Walker travels with Plymouth Gawater and Elrus on a side excursion into The Reach via portal cube near the Whispering Abyss, planning a multi-day flight north to the Dragon Rider training grounds during a broader forty-nine-day Reach stay that costs dragon energy and inflicts daily exhaustion unless he changes course. He has quit alcohol and uses nicotine as a temporary substitute, learns basic SOS fire signals without gaining proficiency, and opens mind-link contact with Ciri while separated. A detour over Sunder leads him to Qualin's Quax, where failed perception leaves him fixated on Quaylin's heirloom gem and unable to afford potions of vitality. He seeks Hanzuni at Haven Hold for a quest-based gold loan rather than trigger a Sunder Chase, citing Quaylin's referral. Walker reveals his golden hand is plated flesh—not metal—a removable thirty-pound replica he believes turned gold after touching cold molten-looking water, possibly near the Temple of I; Quaylin confirms it with a pestle. He carries about eight hundred twenty-six gold and sixty-one platinum locally with roughly ten thousand gold left in Langdale, wears mismatched star gem earrings from a past hoard fight, and declines trading them for matching pairs from Hanzuni.",
+      "notes": [
+        "Is traveling with Plymouth Gawater on a short side excursion, using a portal cube to exit into The Reach near the Whispering Abyss.",
+        "Plans a multi-day dragon flight north to the Dragon Rider training grounds, with a broader 49-day Reach stay at five dragon energy per day for 245 total energy and one exhaustion level per day.",
+        "Will operate at disadvantage on ability checks for the trip unless he changes course.",
+        "Has given up alcohol and considers nicotine as a short-term replacement vice after learning it can help with exhaustion.",
+        "Is flying with Elrus and Plymouth toward the training grounds via a detour over Sunder to shop for exhaustion relief.",
+        "Learns basic SOS fire signals and simple flag-communique recognition, but not as a proficiency; usually relies on mind messages from Dana instead.",
+        "Opens mind-link communication with Ciri while separated.",
+        "Fails a perception check with disadvantage in Qualin's Quax and becomes fixated on Quaylin's heirloom gem.",
+        "Cannot afford twelve hundred gold per potion of vitality and is too exhausted to haggle.",
+        "Decides to seek a loan from the Haven Hold dragon rather than run another Sunder Chase.",
+        "Has a gold-colored hand that is real flesh, not metal; Quaylin tested it with a pestle.",
+        "Believes the hand turned gold when he put it into cold molten-looking water while swimming underwater, possibly near the Temple of I in the north.",
+        "Has about 826 gold and 61 platinum on hand while roughly ten thousand gold remains in Langdale.",
+        "Seeks Hanzuni at Haven Hold for a loan, gift, or affordable magical item to treat worsening daily exhaustion.",
+        "Tells Hanzuni that Quaylin sent him.",
+        "Wears mismatched star sapphire and star ruby earrings from a past dragon hoard fight and declines Hanzuni's offer to trade for matching gems.",
+        "His golden hand is plated gold, not a gauntlet, and can be removed as a solid replica weighing about thirty pounds.",
+        "Cannot throw the gold hand into the hoard to trigger a Sunder Chase.",
+        "Declines a Sunder Chase due to time pressure and accepts Hanzuni's quest-based gold loan terms."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:15:38.663Z",
-  "updatedAt": "2026-08-21T17:35:36.626Z",
+  "updatedAt": "2026-09-01T18:27:45.683Z",
   "normalizedAliases": [
     "walker"
   ]

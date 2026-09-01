@@ -1,0 +1,261 @@
+{
+    "plotSections": [
+        {
+            "title": "Reach travel and exhaustion plan",
+            "bullets": [
+                "Walker finalizes a 49-day itinerary in The Reach, spending five dragon energy per day for a total of 245 energy points.",
+                "He accepts one level of exhaustion per day for the full stay, giving him disadvantage on ability checks throughout the trip.",
+                "The DM confirms this plan can still be changed if Walker wants to adjust mid-journey."
+            ]
+        },
+        {
+            "title": "Exhaustion lore and remedies",
+            "bullets": [
+                "Dragon riders have no reliable cure for travel exhaustion except labor-intensive potion-making.",
+                "Cleric or paladin magic can reduce exhaustion, but Dana and Ord are not with Walker’s group.",
+                "Walker asks whether Elrus can cure exhaustion daily; the answer is no.",
+                "Nicotine is described as short-term effective for pushing through exhaustion, but withdrawal without a steady supply is harsh; Walker makes a mental note to acquire nicotine after giving up alcohol."
+            ]
+        },
+        {
+            "title": "Detour to Sunder",
+            "bullets": [
+                "Walker plans to fly with Elrus and Plymouth toward the training grounds, routing over Sunder.",
+                "He offers a detour stop in Sunder to shop for supplies, especially an exhaustion potion.",
+                "The DM agrees Sunder may carry exhaustion potions and other hard-to-get supplies.",
+                "Elrus declines supplies and says he does not like frequenting Sunder often; Walker offers jerky and salt leaf anyway.",
+                "The group will meet in the mountains after the Sunder stop."
+            ]
+        },
+        {
+            "title": "Communication while separated",
+            "bullets": [
+                "Walker tells Ciri that mind-link communication is open if she needs anything, since she uses it better than he does.",
+                "The DM notes mind chat has limited range and would likely require a spell at this distance.",
+                "Fire signals have not been taught to Walker; the DM also raises flag signaling as an alternative."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker settles on spending five dragon energy per day for 49 days, totaling 245 energy and one exhaustion level per day.",
+        "The DM confirms Walker will operate at disadvantage on ability checks for the duration of his Reach stay.",
+        "The DM explains dragon-rider exhaustion has no easy cure except potions or cleric/paladin aid.",
+        "Walker asks about daily exhaustion relief from Elrus and is told no.",
+        "The DM describes nicotine as a short-term aid with severe withdrawal if supply runs out; Walker notes he should get nicotine.",
+        "Walker commits to the daily exhaustion plan and prepares to fly with Elrus and Plymouth.",
+        "Walker proposes flying over Sunder and stopping there for shopping.",
+        "The DM agrees Sunder may sell exhaustion potions and other rare supplies.",
+        "Elrus says he dislikes frequenting Sunder and declines supply requests.",
+        "Walker offers Elrus jerky and salt leaf; Elrus declines.",
+        "The party agrees to meet in the mountains.",
+        "Walker opens mind-link communication with Ciri for the separated group.",
+        "The DM says mind chat is likely out of range unless they use a spell.",
+        "The DM discovers Walker has not been taught fire signals and asks about flag signaling."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Plans a 49-day stay in The Reach, spending five dragon energy per day for 245 total energy.",
+                "Will take one level of exhaustion each day, accepting disadvantage on ability checks for the whole trip.",
+                "Has given up alcohol and considers nicotine as a replacement vice after learning it can help short-term.",
+                "Is flying with Elrus and Plymouth toward the training grounds via a detour over Sunder.",
+                "Offers to buy supplies for Elrus, including jerky and salt leaf.",
+                "Has not been taught fire signals.",
+                "Opens mind-link communication with Ciri while separated."
+            ],
+            "titles": [],
+            "personality": [
+                "Pragmatic about enduring exhaustion for the mission.",
+                "Looking for a new vice after dropping booze."
+            ],
+            "quotesThemes": [
+                "Mental note. Get nicotine.",
+                "I dropped the booze. I need a vice, guys."
+            ],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Is traveling with Walker and Plymouth on the flight toward the training grounds.",
+                "Cannot cure Walker’s exhaustion daily.",
+                "Dislikes frequenting Sunder and declines supply purchases.",
+                "Will meet the group in the mountains."
+            ],
+            "titles": [],
+            "personality": [
+                "Reluctant to visit Sunder."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the new keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Is flying with Walker and Elrus toward the training grounds.",
+                "The DM describes a small, talkative companion who likes opening conversation; likely Plymouth, though the transcript garbles the name."
+            ],
+            "titles": [],
+            "personality": [
+                "Talkative."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Reach": {
+            "existing": "The largest Arch realm of Atlas, which Walker gatekeeps and explores by flight.",
+            "entityType": "Location",
+            "notes": [
+                "Walker’s current excursion is planned as a 49-day stay with daily exhaustion from dragon-energy use."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "Dragon Rider guild training grounds near the Lost Isles.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Remain Walker’s destination after a planned stop in Sunder."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and Lith Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Uses mind-link communication better than Walker.",
+                "Stays in contact with Walker while he is away; mind chat may be out of range without a spell."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Not present with Walker’s group; her cleric magic could otherwise help reduce exhaustion."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Not present with Walker’s group; paladin magic could otherwise help reduce exhaustion."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "forty nine days",
+            "likely": "49-day Reach stay",
+            "notes": "Used consistently for energy and exhaustion math; may be map distance misread rather than literal calendar days."
+        },
+        {
+            "heard": "Disability",
+            "likely": "Disadvantage",
+            "notes": "DM describing level-one exhaustion."
+        },
+        {
+            "heard": "clOrdal",
+            "likely": "clerical",
+            "notes": "DM referring to cleric magic for exhaustion relief."
+        },
+        {
+            "heard": "Sunderland",
+            "likely": "Sunder",
+            "notes": "Walker’s proposed detour stop."
+        },
+        {
+            "heard": "Sunda",
+            "likely": "Sunder",
+            "notes": "Elrus says he does not like frequenting it often."
+        },
+        {
+            "heard": "Rayodon / Rayden / All radin",
+            "likely": "",
+            "notes": "Garbled NPC name during the supply conversation; context suggests Elrus or another flying companion."
+        },
+        {
+            "heard": "Thunder is throne",
+            "likely": "",
+            "notes": "Garbled description of a small talkative companion."
+        },
+        {
+            "heard": "mine chat",
+            "likely": "mind chat",
+            "notes": "Mind-link communication between separated party members."
+        },
+        {
+            "heard": "Nikki",
+            "likely": "nicotine",
+            "notes": "Ord’s tobacco-plantation joke."
+        },
+        {
+            "heard": "Elruss",
+            "likely": "Elrus",
+            "notes": "Walker naming his companion before flight."
+        }
+    ],
+    "openQuestions": [
+        "Has Walker been taught fire signals?",
+        "Does Walker know flag signaling?"
+    ],
+    "newTerms": [
+        {
+            "name": "Sunder",
+            "notes": [
+                "A Reach settlement with shops carrying rare supplies, including possible exhaustion potions.",
+                "Elrus dislikes visiting it often."
+            ]
+        },
+        {
+            "name": "Exhaustion potion",
+            "notes": [
+                "A labor-intensive remedy that may be available in Sunder and could counter dragon-rider exhaustion."
+            ]
+        },
+        {
+            "name": "Fire signals",
+            "notes": [
+                "A dragon-rider communication method Walker has not yet been taught."
+            ]
+        },
+        {
+            "name": "Flag signaling",
+            "notes": [
+                "An alternative long-distance communication method the DM raises after learning Walker lacks fire signals."
+            ]
+        },
+        {
+            "name": "Nicotine",
+            "notes": [
+                "An in-world stimulant that can help short-term with pushing through exhaustion, but causes severe withdrawal without a steady supply."
+            ]
+        },
+        {
+            "name": "Salt leaf",
+            "notes": [
+                "A supply Walker offers to buy for Elrus during the Sunder stop."
+            ]
+        }
+    ]
+}

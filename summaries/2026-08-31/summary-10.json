@@ -1,0 +1,181 @@
+{
+    "plotSections": [
+        {
+            "title": "The spectral door is not real",
+            "bullets": [
+                "With guidance, Gerk’s investigation total of 18 reveals the floating spectral door is fake protective magic with no portal or opening capability.",
+                "Gerk, Sylan, and Ord all find their hands pass through it into slightly thicker air without physical effect.",
+                "Gerk wildly swings through the door without changing it.",
+                "The DM confirms passing through the spectral door would not simply restore sight or hearing."
+            ]
+        },
+        {
+            "title": "Planning dispel magic",
+            "bullets": [
+                "Sylan says dispel magic may be the party’s best available tool but warns about their poor track record with it.",
+                "The party fears dispelling the wrong effect could drop the ship; Dana is the one most likely able to prevent a fatal fall.",
+                "Ord proposes zone of truth as a meme workaround, but the group moves toward dispel magic instead.",
+                "Ord declares he will cast dispel magic only on the spectral door and explicitly not on the boat or its wings.",
+                "The party recalls a past dispel during the Sunder Chase that went badly."
+            ]
+        },
+        {
+            "title": "Can Gerk replace the fake door?",
+            "bullets": [
+                "Ord asks whether Gerk, as Doorman, can create a real door in place of the fake spectral one.",
+                "Sylan says he already tried to get Gerk to interact with it without success.",
+                "Gerk refuses to listen to Ord and suggests they could simply leave through a new magic door instead.",
+                "The chunk ends with the DM asking whether Gerk will open a door."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk investigates the spectral door with guidance and totals 18.",
+        "Gerk learns the spectral door is fake protective magic, not a real portal.",
+        "Gerk and Sylan’s hands pass through the spectral door without effect.",
+        "Gerk wildly swings through the door to no avail.",
+        "Ord tries and fails to grasp the spectral doorknob.",
+        "The party debates dispel magic and fears the ship could fall.",
+        "Ord proposes zone of truth as a truthful-ideas workaround.",
+        "Ord commits to casting dispel magic on the door only, not the boat.",
+        "Ord asks Gerk to create a replacement door as Doorman.",
+        "Gerk refuses to follow Ord’s suggestion and proposes opening a new magic door to leave instead."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Investigates the spectral door with guidance for a total of 18 and identifies it as fake protective magic.",
+                "Cannot physically interact with the spectral door beyond passing through it.",
+                "Refuses to listen to Ord’s suggestion to create a replacement door.",
+                "Proposes the party could leave through a new magic door instead."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [
+                "Distrusts Ord’s influence in the moment."
+            ],
+            "quotesThemes": [
+                "Oh wait guys, we can just leave. We can just go through a magic door and a new magic door."
+            ],
+            "openQuestions": [
+                "Will Gerk open a door?"
+            ]
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Finds the spectral doorknob intangible.",
+                "Proposes zone of truth as a workaround for finding truthful solutions.",
+                "Commits to casting dispel magic on the spectral door only, explicitly not on the boat or its wings.",
+                "Asks Gerk to create a real door as Doorman to replace the fake spectral one."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Casts guidance on Gerk’s door investigation.",
+                "Tests the spectral door with Gerk and confirms it feels like magic.",
+                "Warns that dispel magic is powerful but risky given the party’s past results.",
+                "Supports dispel magic once alternatives seem exhausted."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "The party says she is the one most likely able to stop them if dispelling the magic causes the ship to fall."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "Investigation confirms it is fake protective magic with no real opening function.",
+                "Hands pass through it into slightly thicker air without physical effect.",
+                "Ord plans to target it with dispel magic rather than the boat itself.",
+                "Gerk cannot use it as a functional Doorman door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Will dispel magic remove the spectral door’s effect?"
+            ]
+        },
+        "Sunder Chase": {
+            "existing": "A summer seasonal event.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The party recalls a previous dispel magic attempt during the Sunder Chase that went badly."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Darren",
+            "likely": "Sylan",
+            "notes": "Gerk dragging the person still holding him toward the door."
+        },
+        {
+            "heard": "Sylant",
+            "likely": "Sylan",
+            "notes": "DM narration."
+        },
+        {
+            "heard": "oily lord",
+            "likely": "oily Ord",
+            "notes": "Sylan speaking to Ord after testing the door."
+        },
+        {
+            "heard": "Orton",
+            "likely": "Ord",
+            "notes": "Gerk refusing to listen to him."
+        },
+        {
+            "heard": "Magic culture",
+            "likely": "magical door",
+            "notes": "Ord asking whether Gerk can create a door in place of the fake one."
+        },
+        {
+            "heard": "thunder chase",
+            "likely": "Sunder Chase",
+            "notes": "Past dispel magic incident."
+        },
+        {
+            "heard": "store",
+            "likely": "door",
+            "notes": "Ord clarifying dispel magic’s target."
+        },
+        {
+            "heard": "phlactory",
+            "likely": "phylactery",
+            "notes": "Zone of truth joke about spitting out locations."
+        }
+    ],
+    "openQuestions": [
+        "Will dispel magic remove the spectral door’s effect?",
+        "Will Gerk open a door?"
+    ],
+    "newTerms": []
+}

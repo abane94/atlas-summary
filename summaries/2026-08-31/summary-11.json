@@ -1,0 +1,173 @@
+{
+    "plotSections": [
+        {
+            "title": "Choosing dispel magic over other options",
+            "bullets": [
+                "After debating zone of truth and other spells, Ord commits to casting dispel magic.",
+                "He explicitly targets the magical effect on the boat, not the boat itself or its wings.",
+                "The party recalls a past dispel during the Sunder Chase that went badly.",
+                "Ord asks Gerk to create a replacement door as Doorman, but Gerk refuses to listen to Ord and briefly suggests leaving through a new magic door instead.",
+                "Sylan insists they cannot abandon the boat because it is too important."
+            ]
+        },
+        {
+            "title": "Dispel magic succeeds",
+            "bullets": [
+                "Sylan casts guidance on Ord while Ord decides whether to target the door or a party member.",
+                "Ord casts dispel magic on the magical effect impeding the party’s ability to see and hear.",
+                "The spell succeeds and sound returns to the boat.",
+                "The entire party can see and hear one another again.",
+                "Confused crew members become visible; one had been screaming while another clung to the banister."
+            ]
+        },
+        {
+            "title": "Aftermath on the boat",
+            "bullets": [
+                "Gerk asks whether the spectral door disappeared.",
+                "The spectral door remains floating in the middle of the sky, but Gerk says they still cannot use it.",
+                "The party praises Ord for breaking the silence and invisibility effect."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord decides to cast dispel magic on the door or related magical effect, explicitly not on the boat.",
+        "Ord asks Gerk to create a door as Doorman; Gerk refuses to follow Ord’s suggestion.",
+        "Gerk briefly proposes leaving through a new magic door, but Sylan says they must stay with the boat.",
+        "Sylan and Ord discuss whether the silence and invisibility are one blanket effect or separate targets.",
+        "Sylan casts guidance on Ord.",
+        "Ord casts dispel magic on the magical effect impeding sight and hearing.",
+        "The dispel succeeds and the party regains sight and sound.",
+        "The crew reappear, confused after trying to communicate silently.",
+        "Gerk confirms the spectral door is still present but unusable.",
+        "The party congratulates Ord."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Casts dispel magic on the magical effect blocking sight and hearing, not on the boat.",
+                "Successfully ends the party’s invisibility and silence.",
+                "Previously used See Invisibility to see the invisible party before the dispel.",
+                "Asked Gerk to create a replacement door as Doorman."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Refuses to listen to Ord and calls him a bad influence.",
+                "Briefly suggests leaving through a new magic door, then accepts staying on the boat.",
+                "After the dispel, asks whether the spectral door is gone and confirms they still cannot use it."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [
+                "Distrusts Ord’s suggestions in the moment."
+            ],
+            "quotesThemes": [
+                "Good job, Ord."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Supports using dispel magic once alternatives seem exhausted.",
+                "Casts guidance on Ord before the dispel.",
+                "Insists the party cannot leave the boat because it is too important.",
+                "Notes the spectral door remains stuck in the middle of the sky."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "Remains present after Ord’s dispel magic.",
+                "Still floats in the middle of the sky.",
+                "The party still cannot use it as a functional door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abel": {
+            "existing": "Surviving-and-revived crew member and the boat's helmsman.",
+            "entityType": "NPC",
+            "notes": [
+                "Reappears once sight and sound return.",
+                "Was among the confused crew trying to communicate during the muted effect."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder Chase": {
+            "existing": "A summer seasonal event.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The party recalls a previous dispel magic attempt during the Sunder Chase that went badly."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Orton / Lord",
+            "likely": "Ord",
+            "notes": "Gerk refusing to follow or praising the paladin."
+        },
+        {
+            "heard": "Magic culture",
+            "likely": "magical door",
+            "notes": "Ord asking whether Gerk can create a door in place of the fake one."
+        },
+        {
+            "heard": "thunder chase",
+            "likely": "Sunder Chase",
+            "notes": "Past bad dispel magic incident."
+        },
+        {
+            "heard": "store",
+            "likely": "door",
+            "notes": "Ord clarifying dispel target."
+        },
+        {
+            "heard": "Sylant",
+            "likely": "Sylan",
+            "notes": "Dispel magic conversation."
+        },
+        {
+            "heard": "spell magic",
+            "likely": "dispel magic",
+            "notes": "Ord casting the spell."
+        },
+        {
+            "heard": "Sylance",
+            "likely": "silence",
+            "notes": "Sylan asking whether they should dispel silence specifically."
+        },
+        {
+            "heard": "spell magic four times",
+            "likely": "Identify four times",
+            "notes": "Sylan mentioning available identification magic."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": []
+}

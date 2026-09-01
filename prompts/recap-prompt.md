@@ -10,7 +10,7 @@ In this transcript we have a set of users who play characters, and our Dongeon M
 
 ### Player charactrers
 
-The transcription uses discord screen names, but here is a table mapping users screen name to real in person name, and DND charactrer name. The players some times switch between first person and third person when voicing what there character says or does.
+The transcription uses discord screen names, but here is a table mapping users screen name to real in person name, and DND charactrer name. The players some times switch between first person and third person when voicing what there character says or does. Sometimes a player will spcify what the player nows vs what their character knows. Ie the player knows the mechanics of the game or some out of wolrd knowledge, that it does not make sense for the inworld player to know.
 
 
 | Screen name          | real name | character name  | Notes                                                             |
@@ -48,6 +48,7 @@ Some these may be useful in identifying incorrect transcripton (based on spellin
 - Do not invent empty entity entries for characters who didn’t appear; only keys with real content.
 - return only the json.
 - character/concepts updates should be in both summaries (prose and bullets) as well as the character/concept updates sections
+- we do not need to rehash the details of an entity when refrenching it in summaries (plot sections, logs, etc), unless it is directly described in the transcription
 
 ```typescript
 /** One chunk summary (e.g. summary-0 … summary-13). Always emit every field; use [] / {} when empty. */

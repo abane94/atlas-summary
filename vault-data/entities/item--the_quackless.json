@@ -1,0 +1,29 @@
+{
+  "name": "The Quackless",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Purple Quinn-line heirloom gem worn by Quaylin",
+  "aliases": [],
+  "normalizedAliases": [
+    "quackless"
+  ],
+  "filename": "entities/item/the_quackless.md",
+  "description": "The Quackless is a purple heirloom gem of the Quinn's line worn by Quaylin. It is not for sale; Quaylin says it would take about five million gold to part with it.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Walker sees The Quackless on Quaylin during the visit to Qualin's Quax and, after failing a perception check, becomes fixated on the gem. He estimates its value as comparable to star gems and other valuable couturements he carries, but cannot afford Quaylin's wares and leaves without obtaining it.",
+      "notes": [
+        "Purple heirloom gem of the Quinn's line worn by Quaylin.",
+        "Not for sale; Quaylin says it would take about five million gold to part with it.",
+        "Walker estimates it as comparable in value to star gems and other valuable couturements he carries."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:32:53.832Z",
+  "updatedAt": "2026-09-01T18:32:53.832Z"
+}

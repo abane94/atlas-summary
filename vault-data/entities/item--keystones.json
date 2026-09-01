@@ -30,12 +30,19 @@
         "The party intends to retain guardianship of the keystones they have claimed while leaving two keystones in Juten Prime's care.",
         "The ruined archives may have contained information explaining how to use the keystones, potentially providing a clue to Grixto's knowledge."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Session planning notes that the party's six assigned keystones grant access to six of Atlas's eight Arch realms, giving them enough control over arch connections to manipulate inter-realm trade if they choose—an option raised in connection with potential economic pressure against the lich.",
+      "notes": [
+        "The party currently has access to six of Atlas's eight Arch realms, enough to manipulate inter-realm trade if they choose."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:07:27.725Z",
-  "updatedAt": "2026-08-21T17:47:47.674Z",
+  "updatedAt": "2026-09-01T18:30:58.496Z",
   "normalizedAliases": [
     "keystones",
     "eight keystones"

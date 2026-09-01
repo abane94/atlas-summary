@@ -19,10 +19,18 @@
         "Gerk is affected by a confusion spell following his failed Wisdom saving throw.",
         "The effect leaves Gerk incoherent and unable to move or take meaningful actions."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "The confusion effect continues to afflict Gerk aboard the invisible boat even after Sylan physically wrangles him in an attempt to break it. Gerk fails a wisdom save with a natural one during the struggle, remaining disoriented enough to grab back at unseen hands and later try to swing Sylan.",
+      "notes": [
+        "Still afflicts Gerk despite Sylan's physical attempts to shake him out of it.",
+        "Gerk fails a wisdom save with a natural 1 during the attempt."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:50:26.371Z",
-  "updatedAt": "2026-08-21T18:50:26.371Z"
+  "updatedAt": "2026-09-01T18:31:18.973Z"
 }

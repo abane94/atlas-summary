@@ -19,10 +19,20 @@
         "The doorway provides a physical passage between the ship and Mahali's location.",
         "The passage produces a sensation similar to moving through thick smoke or water."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Gerk's doorway opening aboard the moving boat triggers the session's central magical mishap: the passage leaves fading glowing edge-lines and ghostly city visions distinct from the later floating spectral door, with that residue nearly gone by the time Ord inspects it. The party concludes that opening a doorway on the ship caused their invisibility and silence and agrees Gerk must not open another door until they reach land.",
+      "notes": [
+        "Gerk's opened portal left fading glowing edge-lines and ghostly city visions separate from the floating spectral door.",
+        "That residue is nearly gone by the time Ord inspects it.",
+        "Opening a doorway on the moving boat caused the invisibility and silence effect.",
+        "The party agrees Gerk must not open another door until they reach land."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:33:14.728Z",
-  "updatedAt": "2026-08-21T18:33:14.728Z"
+  "updatedAt": "2026-09-01T18:31:53.289Z"
 }

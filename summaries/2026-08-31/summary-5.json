@@ -1,0 +1,275 @@
+{
+    "plotSections": [
+        {
+            "title": "Potions of vitality at Qualin's Quax",
+            "bullets": [
+                "Quaylin shows Walker four potions of vitality in a five-vial crate; each removes all exhaustion from a long adventuring day, cures poison and similar ailments, and improves the next short rest.",
+                "The fuchsia potions cost twelve hundred gold apiece and come with the Quax guarantee.",
+                "Walker is too exhausted to haggle and cannot afford them.",
+                "Quaylin tells Walker he can borrow liquid gold directly from the Haven Hold dragon at low interest without running another Sunder Chase.",
+                "Walker reluctantly decides to go speak with the dragon."
+            ]
+        },
+        {
+            "title": "Walker's gold hand",
+            "bullets": [
+                "Quaylin taps Walker's gold-colored hand with a pestle and confirms it is real flesh, not metal for sale.",
+                "Walker says the change happened while swimming underwater in cold molten-looking water, possibly near the Temple of I in the north.",
+                "He put only his hand into the substance and it turned gold; he did not test anything else because he was underwater and panicked.",
+                "Plymouth signals Walker to stop discussing the incident in the shop.",
+                "Quaylin and Walker share a mutual dislike of loon folk."
+            ]
+        },
+        {
+            "title": "Leaving the apothecary",
+            "bullets": [
+                "Plymouth confirms he secured several pounds of dragon gizzard from Quaylin.",
+                "Walker leaves Qualin's Quax and heads to the Haven Hold dragon to seek funds for exhaustion relief.",
+                "Quaylin says Walker may come back later when the potions might be on sale."
+            ]
+        },
+        {
+            "title": "Main party on the boat",
+            "bullets": [
+                "While Walker shops in Sunder, the rest of the party remains invisible on the boat and still cannot hear one another.",
+                "Gerk remains confused and largely unable to act.",
+                "Ord’s olive-oil dragon-vessel outline is still faintly visible but has mostly dissipated over time.",
+                "The DM notes the party could theoretically exploit cross-realm economics across six of Atlas’s eight Arch realms, using keystone access and foreknowledge of door openings to day-trade or cause economic hardship against the lich."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Quaylin describes four potions of vitality at twelve hundred gold each with the Quax guarantee.",
+        "Walker says he cannot afford the potions and is too tired to haggle.",
+        "Quaylin directs Walker to borrow gold from the Haven Hold dragon without running the Sunder Chase.",
+        "Walker decides to go talk to the dragon.",
+        "Quaylin tests Walker's gold hand with a pestle and asks how it happened.",
+        "Walker explains he turned his hand gold by putting it into cold molten-looking water while swimming, possibly near the Temple of I.",
+        "Plymouth signals Walker to stop talking about the gold hand.",
+        "Walker and Quaylin discuss loon folk.",
+        "Plymouth confirms he bought several pounds of dragon gizzard.",
+        "Walker leaves Qualin's Quax and heads for the dragon.",
+        "The scene pauses with Walker about to negotiate with the dragon.",
+        "The DM returns to the main party, still invisible and unable to hear each other on the boat.",
+        "Sylan notes they can still see a faint oily outline of Ord.",
+        "Gerk remains confused and unable to act.",
+        "The party briefly discusses cross-realm gold value and the possibility of exploiting Arch-realm trade against the lich."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Cannot afford twelve hundred gold potions of vitality and is too exhausted to haggle.",
+                "Is leaving Qualin's Quax to seek a loan from the Haven Hold dragon.",
+                "His gold hand is real flesh, not metal.",
+                "He turned it gold by putting his hand into cold molten-looking water while swimming underwater, possibly during time near the Temple of I in the north.",
+                "He did not test the substance with anything else because he panicked."
+            ],
+            "titles": [
+                "Lord"
+            ],
+            "personality": [
+                "Sometimes acts first and thinks later, especially when curious."
+            ],
+            "quotesThemes": [
+                "Of course I put my hand in it because it was cold molten stuff."
+            ],
+            "openQuestions": []
+        },
+        "Quaylin": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Sells potions of vitality for twelve hundred gold apiece with the Quax guarantee.",
+                "Recently sold one of five brewed potions to another adventurer earlier that day.",
+                "Offers a bulk discount if Walker buys the lot.",
+                "Directs Walker to the Haven Hold dragon for low-interest gold loans.",
+                "Tests Walker's gold hand with a pestle and asks about its alchemical origin.",
+                "Strongly dislikes loon folk.",
+                "Says Plymouth secured several pounds of dragon gizzard."
+            ],
+            "titles": [],
+            "personality": [
+                "Shrewd merchant with sharp hearing as an Aarakocra.",
+                "Contemptuous toward loon folk."
+            ],
+            "quotesThemes": [
+                "I fucking hate loon folk.",
+                "Come back later. We might have a sale on these."
+            ],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the new keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Purchased several pounds of dragon gizzard from Quaylin.",
+                "Signals Walker not to discuss his gold hand in the shop."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Potion of vitality": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Fuchsia potion resembling a greater healing potion.",
+                "Removes all exhaustion from a long day of adventuring.",
+                "Also cures poison and similar ailments such as snake bites or basilisk effects.",
+                "Improves healing on the next short rest.",
+                "Costs twelve hundred gold apiece at Qualin's Quax; four remain in stock."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Temple of I": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Northern temple pronounced like the letter I.",
+                "Walker believes his gold-hand incident may have happened during time spent there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remains on the boat, still confused and largely unable to act.",
+                "Still affected by the confusion that left him incapacitated."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Still on the invisible, silent party boat.",
+                "His olive-oil dragon-vessel outline remains faintly visible but has mostly dissipated over time."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Still on the invisible, silent party boat with the others.",
+                "Notes they can still see a faint outline of Ord."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lich": {
+            "existing": "An unidentified lich whose phylactery may be hidden among his chess pieces.",
+            "entityType": "NPC",
+            "notes": [
+                "The DM says the party could use cross-realm trade and foreknowledge of Arch door openings to cause economic hardship against the lich."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas’s Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "The party currently has access to six of Atlas’s eight Arch realms, enough to manipulate inter-realm trade if they chose."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Quaylon / Wayland / Quailin's quacks",
+            "likely": "Quaylin / Qualin's Quax",
+            "notes": "Shopkeeper and shop name."
+        },
+        {
+            "heard": "petzel",
+            "likely": "pestle",
+            "notes": "Tool Quaylin uses to test Walker's hand."
+        },
+        {
+            "heard": "Ayer",
+            "likely": "I",
+            "notes": "Walker mispronounces the Temple of I."
+        },
+        {
+            "heard": "Sunda",
+            "likely": "Sunder",
+            "notes": "City where the dragon hoard loan is available."
+        },
+        {
+            "heard": "hOrd",
+            "likely": "hoard",
+            "notes": "Haven Hold dragon treasure."
+        },
+        {
+            "heard": "save his Lith",
+            "likely": "save his life",
+            "notes": "Quaylin on the adventurer who bought a potion of vitality."
+        },
+        {
+            "heard": "Ordr",
+            "likely": "Ord",
+            "notes": "Invisible oily outline on the boat."
+        },
+        {
+            "heard": "ix nay on the ix",
+            "likely": "nix on the topic",
+            "notes": "Plymouth silencing Walker about his gold hand."
+        },
+        {
+            "heard": "Arakachra",
+            "likely": "Aarakocra",
+            "notes": "Quaylin's race during the loon-folk conversation."
+        },
+        {
+            "heard": "litch",
+            "likely": "lich",
+            "notes": "Target of possible economic manipulation."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Loon folk",
+            "notes": [
+                "Aquatic people Quaylin despises.",
+                "Said to be biologically inferior, unable to walk on land, and prone to trapping themselves in shallow puddles."
+            ]
+        },
+        {
+            "name": "Quax guarantee",
+            "notes": [
+                "Qualin's Quax refund policy: if a purchased item quacks or cracks, the buyer gets their money back."
+            ]
+        },
+        {
+            "name": "Cross-realm trade manipulation",
+            "notes": [
+                "With access to six of eight Arch realms, the party could theoretically build a cross-realm market and exploit door-opening timing against the lich."
+            ]
+        }
+    ]
+}

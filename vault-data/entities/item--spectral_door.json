@@ -29,6 +29,18 @@
         "The door appears to be physically intangible or otherwise unusual, but its exact nature and purpose are not established in this chunk.",
         "Sylan investigates the door by walking around it and discovers that Gerk is standing beside it rather than being part of the door itself."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "The spectral door reappears during the boat crisis floating over and slightly behind Gerk, fully shut and frameless and resembling his shield-door in a more functional form. Investigation confirms it is fake protective magic with no real opening: hands pass through into slightly thicker air without effect, and passing through does not restore the party's suppressed sight or hearing. It persists after Ord dispels the separate invisibility-and-silence effect, continues following Gerk when travel resumes, staying near him and fixed on the ship as it moves, and remains non-interactable despite Gerk's attempts to dismiss it.",
+      "notes": [
+        "Floats over and slightly behind Gerk, fully shut and frameless, resembling his shield-door but more functional.",
+        "Investigation confirms it is fake protective magic with no real opening function.",
+        "Hands pass through it into slightly thicker air without physical effect; passing through does not restore sight or hearing.",
+        "Remains present and unusable after Ord's dispel magic on the sight-and-hearing effect.",
+        "Continues to follow Gerk after travel resumes, staying near him and fixed on the ship when it moves.",
+        "Remains non-interactable despite Gerk's attempts to dismiss it."
+      ]
     }
   ],
   "openQuestions": [
@@ -39,5 +51,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:45:54.189Z",
-  "updatedAt": "2026-08-21T18:45:54.189Z"
+  "updatedAt": "2026-09-01T18:31:08.888Z"
 }

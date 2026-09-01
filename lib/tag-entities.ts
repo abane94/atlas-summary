@@ -1,5 +1,5 @@
 import type { Page } from "puppeteer-core";
-import { runJsonPrompt } from "./chatgpt.js";
+import { runJsonPrompt } from "./ai.js";
 import { isDirectRun } from "./is-main.ts";
 import { withChatGptPage } from "./browser.js";
 import {
@@ -265,7 +265,10 @@ export async function backfillEntityTags(
     console.log(`[tags] Asking ChatGPT to tag ${loaded.length} entities...`);
 
     await page.goto(CHATGPT_URL, { waitUntil: "networkidle2", timeout: 60_000 });
-    const raw = await runJsonPrompt(page, buildTagsBackfillPrompt(table, loaded.length), 90_000);
+    const raw = await runJsonPrompt(page, buildTagsBackfillPrompt(table, loaded.length), {
+        timeout: 90_000,
+        effort: "low",
+    });
     const result = parseTagsBackfillResult(raw, knownPaths);
     const { updated, skipped } = await applyTagsBackfill(result, loaded, vaultDataFolder);
     console.log(`[tags] Wrote tags to ${updated} file(s), skipped ${skipped}`);

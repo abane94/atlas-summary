@@ -1,0 +1,27 @@
+{
+  "name": "Calypso",
+  "tags": [],
+  "slug": "Floating Sunder vendor between Miss Mary's and the docks",
+  "aliases": [],
+  "normalizedAliases": [
+    "calypso"
+  ],
+  "filename": "entities/npc/calypso.md",
+  "description": "Calypso is a named vendor in Sunder who runs a floating vending operation. She drifts between Miss Mary's and the dock corridor. The party has had slight prior interactions with her.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Calypso is noted as a familiar Sunder vendor with a floating vending operation between Miss Mary's and the dock corridor; the party has slight prior contact with her, but no direct interaction is recorded this session.",
+      "notes": [
+        "Named vendor in Sunder with a floating vending operation.",
+        "Drifts between Miss Mary's and the dock corridor.",
+        "The party has had slight prior interactions with her."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:32:28.185Z",
+  "updatedAt": "2026-09-01T18:32:28.185Z"
+}

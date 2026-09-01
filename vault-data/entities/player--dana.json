@@ -1,7 +1,9 @@
 {
   "name": "Dana",
   "slug": "Dana is a thoughtful half-elf cleric and Gatekeeper of the Pitel keystone, connected to the Great Eldarin Tree alongside Gerk.",
-  "tags": [],
+  "tags": [
+    "title"
+  ],
   "aliases": [],
   "filename": "entities/player/dana.md",
   "description": "Dana is a half-elf cleric and one of the most knowledgeable members of the group. She is thoughtful and perceptive, often connecting current events to previously known lore or objectives. She believes Gerk’s role has a divine purpose and is willing to support his responsibilities, becoming connected to the Great Eldarin Tree alongside him. Dana is the Gatekeeper of the Pitel keystone, which is associated with the center of the rings of Atlas and aligns with a place she had previously sought to reach.",
@@ -57,6 +59,17 @@
         "Dana can use the serpentine bracers to summon a constrictor snake.",
         "Dana commands the summoned snake to remain at her heel, using it as a visible positional marker while she moves."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Dana is absent from Walker's Reach excursion, though her cleric magic could otherwise help with exhaustion; she usually relays short mind messages to him in flight instead of dragon-rider signals. Aboard the invisible boat she appears concerned and confused when Ord can suddenly see her, and the party identifies her as the member most likely to halt a catastrophe if dispel magic causes the ship to fall. She is unavailable to study the spectral door and lacks investigative spells such as detect magic this session.",
+      "notes": [
+        "Not present with Walker's group; her cleric magic could otherwise help reduce exhaustion.",
+        "Usually sends Walker short mind messages while he is flying instead of traditional dragon-rider signaling.",
+        "Remains on the boat looking concerned and confused when Ord can see her.",
+        "The party says she is the one most likely able to stop them if dispelling the magic causes the ship to fall.",
+        "Is absent this session and lacks investigative spells such as detect magic for the door study."
+      ]
     }
   ],
   "openQuestions": [
@@ -64,7 +77,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:54:14.175Z",
-  "updatedAt": "2026-08-21T17:38:08.840Z",
+  "updatedAt": "2026-09-01T18:29:30.900Z",
   "normalizedAliases": [
     "dana"
   ]

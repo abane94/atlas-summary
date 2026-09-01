@@ -18,10 +18,17 @@
       "notes": [
         "Grixto's former or associated roost is compared with a roost at Last Word Chasm, which is described as having also been uninhabited for a long period."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Last Word Chasm is cited in session travel planning as a flight-time reference: Elrus previously told Walker that dragon flight from the chasm to the Dragon Rider training grounds takes about five days.",
+      "notes": [
+        "Used as a travel-time reference point: about five days by flight to the Dragon Rider training grounds per Elrus."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:19:55.344Z",
-  "updatedAt": "2026-08-21T18:19:55.344Z"
+  "updatedAt": "2026-09-01T18:28:55.349Z"
 }

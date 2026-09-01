@@ -1,0 +1,37 @@
+{
+  "name": "Quaylin",
+  "tags": [],
+  "slug": "Duck-like apothecary proprietor of Qualin's Quax in Sunder",
+  "aliases": [],
+  "normalizedAliases": [
+    "quaylin"
+  ],
+  "filename": "entities/npc/quaylin.md",
+  "description": "Quaylin is a duck-like Aarakocra and the proprietor of Qualin's Quax, a Sunder apothecary. He wears a stately blue robe with purple trim, a floppy circular hat, and burn scars on his bill, and he displays the heirloom gem The Quackless of the Quinn's line around his neck—a prize from his second Sunder Chase win, valued at about five million gold and not for sale. He was not always duck-fowl; the Beak of the quackiest of brews, his prize from his first Sunder Chase win, transmutes the wearer and grants great potion knowledge. He sells dragon gizzard by the pound at five gold and potions of vitality at twelve hundred gold apiece, offers the Quax guarantee, and is known to Hanzuni. He strongly dislikes loon folk, is partial to alabaster herring especially pickled, and may haggle potion prices down a few hundred gold.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Walker and Plymouth visit Qualin's Quax during their Sunder detour. Quaylin sells Plymouth several pounds of dragon gizzard at five gold per pound while Walker, failing a perception check, becomes fixated on The Quackless and is too exhausted to afford or haggle over twelve-hundred-gold potions of vitality. Quaylin tests Walker's gold hand with a pestle, asks about its alchemical origin, and advises borrowing liquid cash from the Haven Hold dragon at low interest rather than racing. Walker later tells Hanzuni that Quaylin sent him.",
+      "notes": [
+        "Duck-like Aarakocra proprietor of Qualin's Quax in Sunder.",
+        "Wears a stately blue robe with purple trim, a floppy circular hat, and burn scars on his bill.",
+        "Wears the heirloom gem the Quackless of the Quinn's line, valued at about five million gold and not for sale.",
+        "Sells dragon gizzard by the pound at five gold and potions of vitality at twelve hundred gold apiece.",
+        "Recently brewed five potions of vitality and sold one to another adventurer earlier that day.",
+        "Offers the Quax guarantee on purchases and advises Walker to borrow liquid cash from the Haven Hold dragon at low interest.",
+        "Tests Walker's gold hand with a pestle and asks about its alchemical origin.",
+        "Strongly dislikes loon folk.",
+        "Known to Hanzuni; has won two Sunder Chases.",
+        "Was not always a duck-fowl; the Beak of the quackiest of brews transmutes the wearer and grants great potion knowledge.",
+        "Neck heirloom is his prize from his second Sunder Chase win; the beak relates to his first.",
+        "Arrived in Sunder after his race on a small vessel with only potion craft to his name.",
+        "Is partial to alabaster herring, especially pickled, and may haggle potion prices down a few hundred gold."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:32:42.073Z",
+  "updatedAt": "2026-09-01T18:32:42.073Z"
+}

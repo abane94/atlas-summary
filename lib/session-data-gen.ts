@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 // import { MergedSessionData, SessionChunkSummary } from './types/session.ts';
-import { runJsonPrompt } from './chatgpt.js';
+import { runJsonPrompt } from './ai.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -197,7 +197,7 @@ export async function mergeSessionData(page: any, sessionData: { summaries: Sess
         }
         \`\`\`
         ${JSON.stringify(merged.plotSections, null, 4)}
-    `, 60000);
+    `, { timeout: 60_000, effort: "medium" });
     console.log(plotSections);
     merged.plotSections = JSON.parse(plotSections).plotSections;
 
@@ -212,7 +212,7 @@ export async function mergeSessionData(page: any, sessionData: { summaries: Sess
         }
         \`\`\`
         ${JSON.stringify(merged.chronologicalEvents, null, 4)}  
-    `);
+    `, { timeout: 60_000, effort: "medium" });
     merged.chronologicalEvents = JSON.parse(chronologicalEvents).events;
 
 
@@ -264,7 +264,7 @@ export async function mergeSessionData(page: any, sessionData: { summaries: Sess
         \`\`\`
 
         ${JSON.stringify(merged.entities, null, 4)}
-    `);
+    `, { timeout: 60_000, effort: "medium" });
 
     await page.goto(url, { waitUntil: "networkidle2" });
     const terms = await runJsonPrompt(page, `
@@ -289,7 +289,7 @@ export async function mergeSessionData(page: any, sessionData: { summaries: Sess
         \`\`\`
 
         ${JSON.stringify(merged.newTerms, null, 4)}
-    `);
+    `, { timeout: 60_000, effort: "medium" });
     merged.entities = JSON.parse(entities).entities;
     merged.newTerms = JSON.parse(terms).terms;
     return merged;

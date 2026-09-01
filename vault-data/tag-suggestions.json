@@ -1,0 +1,122 @@
+{
+  "updatedAt": "2026-09-01T18:34:26.245Z",
+  "suggestions": [
+    {
+      "tag": "alchemy",
+      "reason": "Session activity centers on sourcing alchemical goods and spell components rather than keystone or prophecy lore.; Quaylin's identity and inventory center on potion brewing, alchemical components, and transmutation lore.; The shop's identity and inventory center on alchemical components and brewed potions.",
+      "exampleEntities": [
+        "Plymouth Gawater",
+        "Qualin's Quax",
+        "Potion of vitality",
+        "Quaylin"
+      ]
+    },
+    {
+      "tag": "communication",
+      "reason": "Silent-boat scenes rely on whisper tokens and mind-link messaging as recurring workarounds when normal speech fails.; Mind-link messaging is a recurring cross-party tool when members are separated or the boat is silent.; The token enables targeted whisper contact during silence and invisibility when ordinary speech does not work.",
+      "exampleEntities": [
+        "Sylan",
+        "Token of blind eye speech",
+        "Walker",
+        "Ciri",
+        "Ord"
+      ]
+    },
+    {
+      "tag": "crew",
+      "reason": "Session head counts and boat crises repeatedly distinguish party members from the surviving crew aboard the ship.; Mikkel is one of the ship's crew distinguished from the main party during head counts and departure logistics.",
+      "exampleEntities": [
+        "Abel",
+        "Garrett",
+        "Mikkel"
+      ]
+    },
+    {
+      "tag": "dragon",
+      "reason": "Hanzuni is a major ancient dragon NPC tied to hoard lore, loans, and Sunder Chase rules.",
+      "exampleEntities": [
+        "Hanzuni",
+        "Glimmen",
+        "Araden"
+      ]
+    },
+    {
+      "tag": "dragon-rider",
+      "reason": "Walker's core identity and travel mode, tied to flight planning and destinations such as the training grounds.; The location is defined by its Dragon Rider guild association and serves as a recurring flight destination for dragon riders.; Elrus is actively traveling toward the Dragon Rider training grounds and shares route knowledge from prior flights.; Araden continues traveling by dragon flight with Elrus toward the mountain rendezvous during the Reach excursion.",
+      "exampleEntities": [
+        "Walker",
+        "Dragon Rider Training Grounds",
+        "Elrus",
+        "Araden"
+      ]
+    },
+    {
+      "tag": "enchanter",
+      "reason": "Benji is explicitly credited with enchanting work on Hanzuni's hoard for the Sunder Chase.",
+      "exampleEntities": [
+        "Benji",
+        "Haven Hold",
+        "Sunder Chase"
+      ]
+    },
+    {
+      "tag": "event",
+      "reason": "Sunder Chase is a structured seasonal competition with explicit rules, prizes, and triggers distinct from ordinary locations or items.",
+      "exampleEntities": [
+        "Sunder Chase",
+        "Haven Hold",
+        "Hanzuni"
+      ]
+    },
+    {
+      "tag": "exhaustion",
+      "reason": "A recurring session mechanic and plot driver for Walker and several related entities (energy costs, potions, nicotine, dragon loans).; Extended Reach stays incur daily dragon-energy costs that drive exhaustion across multiple session entities.; The potion's primary draw this session is treating accumulating travel exhaustion when other magic is unavailable.",
+      "exampleEntities": [
+        "Walker",
+        "Potion of vitality",
+        "Hanzuni",
+        "The Reach",
+        "Quaylin"
+      ]
+    },
+    {
+      "tag": "healing",
+      "reason": "Dana's cleric magic is repeatedly referenced as the party's fallback for exhaustion relief and magical disaster mitigation.",
+      "exampleEntities": [
+        "Dana",
+        "Walker",
+        "Potion of vitality"
+      ]
+    },
+    {
+      "tag": "heirloom",
+      "reason": "The Quackless is explicitly a family-line heirloom tied to Quaylin's identity and Sunder Chase history.",
+      "exampleEntities": [
+        "The Quackless",
+        "Quaylin"
+      ]
+    },
+    {
+      "tag": "market",
+      "reason": "Sunder is primarily encountered as a shopping hub for rare alchemical goods and magic items tied to the Sunder Chase.; Haven Hold's hoard hall functions as a treasure market tied directly to Sunder Chase rules and loans.",
+      "exampleEntities": [
+        "Sunder",
+        "Qualin's Quax",
+        "Haven Hold",
+        "Sunder Chase",
+        "Hanzuni"
+      ]
+    },
+    {
+      "tag": "vendor",
+      "reason": "Calypso is one of several Sunder merchants the party may encounter while sourcing supplies.; Quaylin is a named Sunder shopkeeper whose prices, guarantees, and referrals drive session trade and loans.",
+      "exampleEntities": [
+        "Calypso",
+        "Quaylin",
+        "Sunder",
+        "Qualin's Quax",
+        "Potion of vitality"
+      ]
+    }
+  ]
+}

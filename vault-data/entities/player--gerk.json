@@ -93,6 +93,25 @@
         "Gerk can physically move his mouth and scream, but his voice is not heard by the surrounding party members.",
         "Sylan is able to physically reposition Gerk's head and drag his body toward the spectral door."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Gerk remains aboard the invisible, silent boat while suffering under a confusion effect, reacting to unseen hands until Sylan physically wrangles him and he grows slightly more lucid. After failing a wisdom save with a natural one and trying to swing Sylan, he admits through blind eye speech that he opened the door. With guidance he investigates the spectral door for a total of eighteen, identifying it as fake protective magic he can pass through but not manipulate physically. He refuses Ord's proposal to create a replacement door, is blamed for opening a doorway on the moving boat, and accepts the lesson not to open doors while underway. The spectral door now follows him aboard ship, resisting dismissal by command, performance, or \"closed sesame,\" until he agrees not to open another door until landfall. He also suggests giving Mikkel a teleportation tunnel or other means to rejoin the boat.",
+      "notes": [
+        "Remains on the invisible, silent party boat under the confusion effect.",
+        "Feels accosted by unseen hands, grabs back, and becomes slightly more lucid.",
+        "Fails a wisdom save with a natural 1 and tries to swing Sylan around during the struggle.",
+        "Admits through blind eye speech that he opened the door.",
+        "Investigates the spectral door with guidance for a total of 18 and identifies it as fake protective magic.",
+        "Cannot physically interact with the spectral door beyond passing through it.",
+        "Refuses to listen to Ord's suggestion to create a replacement door and briefly proposes leaving through a new magic door instead.",
+        "Is blamed for causing the doorway incident on the moving boat.",
+        "Accepts the lesson not to open doors on moving things.",
+        "The spectral door now follows him, staying near him as he moves and fixed on the ship when it sails.",
+        "Waving, commands, closed sesame, and a 17 performance check fail to dismiss it.",
+        "Agrees not to open another door until the party reaches land.",
+        "Suggests giving Mikkel a teleportation tunnel or other way back to the boat."
+      ]
     }
   ],
   "openQuestions": [
@@ -105,7 +124,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:01:01.004Z",
-  "updatedAt": "2026-08-21T17:44:04.570Z",
+  "updatedAt": "2026-09-01T18:30:39.726Z",
   "normalizedAliases": [
     "gerk"
   ]

@@ -1,0 +1,241 @@
+{
+    "plotSections": [
+        {
+            "title": "Walker’s finances",
+            "bullets": [
+                "Walker has only about fourteen hundred gold on hand—826 gold and 61 platinum—while roughly ten thousand gold remains back in Langdale.",
+                "That is barely enough for one potion from Quaylin and leaves him nearly broke."
+            ]
+        },
+        {
+            "title": "Meeting Hanzuni at Haven Hold",
+            "bullets": [
+                "Walker enters Haven Hold’s hoard hall and calls out to Hanzuni, an ancient copper dragon swimming through his treasure.",
+                "Hanzuni greets Glimmen first, remembers her as a hatchling, and has forgotten Walker’s name.",
+                "Glimmen dives into the hoard to swim with him; Hanzuni is only slightly larger than her despite his ancient age."
+            ]
+        },
+        {
+            "title": "Quaylin’s backstory",
+            "bullets": [
+                "Hanzuni confirms Quaylin of Quaylin’s Quax and says Quaylin has won two Sunder Chases.",
+                "Quaylin was not always a duck-fowl; a magical beak heirloom transmutes the wearer and grants great potion knowledge.",
+                "The neck heirloom is his second-win prize; the beak relates to his first.",
+                "Quaylin arrived in Sunder after his race with only potion craft on his small vessel."
+            ]
+        },
+        {
+            "title": "Exhaustion and Hanzuni’s scrutiny",
+            "bullets": [
+                "Walker asks Hanzuni for something to remedy terrible daily exhaustion despite constant training.",
+                "Hanzuni sees shimmering magical energy on Walker and criticizes his mismatched star sapphire and star ruby earrings.",
+                "He offers an even trade from the hoard for matching gems; Walker declines to keep the story of how he earned them from a past dragon hoard fight.",
+                "Hanzuni says many hoard items could cure exhaustion, but removing magical items from the hoard requires triggering a Sunder Chase by throwing a gauntlet into the treasure."
+            ]
+        },
+        {
+            "title": "The gold hand revealed",
+            "bullets": [
+                "Walker cannot remove his golden hand to throw it into the hoard.",
+                "When Hanzuni grabs it, the gold slides off as a perfect golden replica, revealing Walker’s normal flesh hand beneath.",
+                "It is not a gauntlet but pure gold; Hanzuni calls it cure gold and returns it, and Walker can put it back on.",
+                "Walker asks what the gold hand is worth; Hanzuni asks how much it weighs, and Walker estimates about four hundred grams."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker notes most of his wealth is in Langdale and only about fourteen hundred gold is on his person.",
+        "Walker calls out to Hanzuni at Haven Hold; Glimmen swims in the hoard with the dragon.",
+        "Hanzuni remembers Glimmen as a hatchling and Walker reintroduces himself.",
+        "Walker asks after Quaylin; Hanzuni recounts Quaylin’s Sunder Chase wins and magical beak history.",
+        "Walker requests a remedy for worsening daily exhaustion.",
+        "Hanzuni detects magical energy on Walker and mocks his mismatched star gem earrings.",
+        "Hanzuni offers a hoard trade for matching gems; Walker refuses.",
+        "Hanzuni explains hoard magical items require a Sunder Chase to remove and suggests throwing a gauntlet.",
+        "Walker tries and fails to remove his golden hand; Hanzuni pulls off a solid gold replica of the hand instead.",
+        "Hanzuni returns the gold hand; Walker asks its value and estimates its weight at four hundred grams."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has about 826 gold and 61 platinum on hand while roughly ten thousand gold sits in Langdale.",
+                "Suffers terrible exhaustion every day despite constant training.",
+                "Carries star sapphire and star ruby earrings from a past dragon hoard fight.",
+                "His golden hand is not a gauntlet but a removable solid gold replica of his hand.",
+                "Cannot throw the gold hand into the hoard to trigger a Sunder Chase.",
+                "Estimates the detached gold hand weighs about four hundred grams."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What would you say this gold hand is worth?"
+            ]
+        },
+        "Hanzuni": {
+            "existing": "Ancient copper dragon whose hoard sits at the center of Haven Hold.",
+            "entityType": "NPC",
+            "notes": [
+                "One of two ancient copper dragons Walker has met on The Reach; name spelled H-A-Z-U-N-I.",
+                "Relatively small for an ancient dragon, with polished copper scales from swimming in his hoard.",
+                "Less tarnished than Araden due to constant activity in treasure.",
+                "Greets Glimmen before Walker and has forgotten Walker’s name.",
+                "Perceives shimmering magical energy on Walker and criticizes his mismatched earrings.",
+                "Says magical hoard items that could cure exhaustion require a Sunder Chase to remove.",
+                "Can physically remove Walker’s gold hand, identifying it as cure gold rather than a gauntlet.",
+                "Has grown bored waiting for another Sunder Chase since Walker’s last race."
+            ],
+            "titles": [],
+            "personality": [
+                "Playful, fashion-conscious, and eager for Sunder Chase excitement."
+            ],
+            "quotesThemes": [
+                "Have you come for a swim, my dear?",
+                "All you need to do is take that golden gauntlet off your hand and throw it into the hoard."
+            ],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Dives eagerly into Hanzuni’s hoard when invited to swim.",
+                "Hanzuni remembers her as a hatchling and notes she is now fully grown with a rider.",
+                "Is roughly similar in size to Hanzuni."
+            ],
+            "titles": [],
+            "personality": [
+                "Excited and antsy when offered a swim in treasure."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Quaylin": {
+            "existing": "Duck Aarakocra shopkeeper of Quaylin’s Quax in Sunder.",
+            "entityType": "NPC",
+            "notes": [
+                "Known to Hanzuni; winner of two Sunder Chases.",
+                "Was not always a duck-fowl; magical beak heirloom transmutes wearer and grants potion knowledge.",
+                "Neck heirloom is prize of second win; beak relates to first win.",
+                "Arrived in Sunder after his race with only potion craft aboard his vessel."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Haven Hold": {
+            "existing": "Sunder district containing a dragon hoard.",
+            "entityType": "Location",
+            "notes": [
+                "Hoard hall is a lively arched market with treasure on a central floating island separated by an empty moat.",
+                "Throwing a gauntlet into the hoard triggers a Sunder Chase.",
+                "Hoard magic prevents treasure from falling away and replenishes spilled coins.",
+                "Magical items taken from the hoard require completing a Sunder Chase."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder Chase": {
+            "existing": "A summer seasonal event.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Throwing a gauntlet into Hanzuni’s hoard triggers a chase to claim treasure.",
+                "Removing magical items from the hoard, including exhaustion remedies, requires participating in a chase."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Hanzuni’s scales are less tarnished than Araden’s, apparently from greater activity and contact with treasure."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "hOrd / Horn / hold",
+            "likely": "hoard",
+            "notes": "Dragon treasure at Haven Hold."
+        },
+        {
+            "heard": "Haven HOrds",
+            "likely": "Haven Hold",
+            "notes": "Sunder hoard hall."
+        },
+        {
+            "heard": "Hazuni",
+            "likely": "Hanzuni",
+            "notes": "Ancient copper dragon; H-A-Z-U-N-I."
+        },
+        {
+            "heard": "Glimant / Glimmint / Glimind",
+            "likely": "Glimmen",
+            "notes": "Walker's dragon."
+        },
+        {
+            "heard": "patchling",
+            "likely": "hatchling",
+            "notes": "Hanzuni describing young Glimmen."
+        },
+        {
+            "heard": "Ord air cochra",
+            "likely": "Aarakocra",
+            "notes": "Walker asking Quaylin’s race."
+        },
+        {
+            "heard": "Quailin / Qualin's Quacks",
+            "likely": "Quaylin / Quaylin's Quax",
+            "notes": "Sunder shopkeeper."
+        },
+        {
+            "heard": "star staffer",
+            "likely": "star sapphire",
+            "notes": "Gem Hanzuni pulls from hoard."
+        },
+        {
+            "heard": "Calford",
+            "likely": "",
+            "notes": "Sylan referencing the past dragon hoard fight where Walker got his earrings."
+        },
+        {
+            "heard": "this trick",
+            "likely": "this dragon",
+            "notes": "DM asking how Walker will get a loan."
+        },
+        {
+            "heard": "cure gold",
+            "likely": "pure gold",
+            "notes": "Hanzuni’s term for Walker’s gold hand material."
+        }
+    ],
+    "openQuestions": [
+        "What would you say this gold hand is worth?"
+    ],
+    "newTerms": [
+        {
+            "name": "Cure gold",
+            "notes": [
+                "Hanzuni’s term for the solid gold material of Walker’s hand; not a gauntlet and removable as a golden replica."
+            ]
+        },
+        {
+            "name": "Beak of the quackiest of brews",
+            "notes": [
+                "Magical beak heirloom that transmutes the wearer into a duck-fowl and grants great potion knowledge; Quaylin’s first Sunder Chase prize."
+            ]
+        }
+    ]
+}

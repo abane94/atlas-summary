@@ -1,0 +1,36 @@
+{
+  "name": "Hanzuni",
+  "tags": [],
+  "slug": "Ancient copper dragon of Haven Hold who loans gold for quests",
+  "aliases": [],
+  "normalizedAliases": [
+    "hanzuni"
+  ],
+  "filename": "entities/npc/hanzuni.md",
+  "description": "Hanzuni (H-A-Z-U-N-I) is an ancient male copper dragon and one of two ancient copper dragons Walker has met on The Reach. He is relatively small for an ancient dragon, with polished copper scales from swimming in his hoard at Haven Hold and less tarnish than Araden thanks to constant activity among treasure. He swims through the hoard and offers low-interest loans repaid as quests. Magical hoard items that could cure exhaustion require a Sunder Chase to remove, though plain gold can be loaned out. He knows Quaylin and that Quaylin may haggle if offered pickled alabaster herring.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Walker and Glimmen visit Hanzuni at Haven Hold seeking exhaustion relief funding. Hanzuni greets Glimmen first—remembering her as a hatchling—and has forgotten Walker's name. He perceives shimmering magical energy on Walker, criticizes his mismatched star gem earrings, and offers matching gems in trade, which Walker declines. Hanzuni removes Walker's plated gold hand and identifies it as pure gold weighing roughly thirty pounds, says hoard cures for exhaustion require a Sunder Chase, and offers twelve hundred gold in exchange for an island crab. Walker declines the race due to time pressure, cites Quaylin's referral, and accepts the quest-based loan; Glimmen swims in the hoard when invited.",
+      "notes": [
+        "Ancient copper dragon (H-A-Z-U-N-I); male.",
+        "One of two ancient copper dragons Walker has met on The Reach.",
+        "Relatively small for an ancient dragon, with polished copper scales from swimming in his hoard.",
+        "Less tarnished than Araden due to constant activity in treasure.",
+        "Swims through his hoard at Haven Hold and offers low-interest loans repaid as quests.",
+        "Greets Glimmen before Walker and has forgotten Walker's name.",
+        "Perceives shimmering magical energy on Walker and criticizes his mismatched earrings.",
+        "Says magical hoard items that could cure exhaustion require a Sunder Chase to remove.",
+        "Can physically remove Walker's plated gold hand and identifies it as pure gold plating weighing roughly thirty pounds or four hundred troy ounces.",
+        "Has grown bored waiting for another Sunder Chase since Walker's last race.",
+        "Offers twelve hundred gold in exchange for an island crab.",
+        "Knows Quaylin may haggle if offered pickled alabaster herring."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:34:26.243Z",
+  "updatedAt": "2026-09-01T18:34:26.243Z"
+}

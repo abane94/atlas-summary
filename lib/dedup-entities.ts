@@ -3,7 +3,7 @@ import fs from "fs/promises";
 import path from "path";
 import readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";
-import { runJsonPrompt } from "./chatgpt.js";
+import { runJsonPrompt } from "./ai.js";
 import { isDirectRun } from "./is-main.ts";
 import { withChatGptPage } from "./browser.js";
 import { unionTags, validateEntityTags } from "./entity-tags.ts";
@@ -250,7 +250,10 @@ export async function findDuplicateEntities(
     console.log(`[dedup] Asking ChatGPT to review ${loaded.length} entities...`);
 
     await page.goto(CHATGPT_URL, { waitUntil: "domcontentloaded", timeout: 60_000 });
-    const raw = await runJsonPrompt(page, buildDedupPrompt(table, loaded.length), 60_000);
+    const raw = await runJsonPrompt(page, buildDedupPrompt(table, loaded.length), {
+        timeout: 60_000,
+        effort: "medium",
+    });
     return parseDedupResult(raw, knownPaths);
 }
 
@@ -606,11 +609,10 @@ export async function applyApprovedMerges(
         }
 
         await page.goto(CHATGPT_URL, { waitUntil: "domcontentloaded", timeout: 60_000 });
-        const raw = await runJsonPrompt(
-            page,
-            buildMergePrompt(members, merge, aliases),
-            60_000,
-        );
+        const raw = await runJsonPrompt(page, buildMergePrompt(members, merge, aliases), {
+            timeout: 60_000,
+            effort: "medium",
+        });
         const stamped = stampMergedEntity(parseMergedEntity(raw), merge, members, aliases);
         const keepPath = await saveEntity(vaultDataFolder, stamped);
 

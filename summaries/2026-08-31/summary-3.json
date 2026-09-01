@@ -1,0 +1,307 @@
+{
+    "plotSections": [
+        {
+            "title": "Signaling before the Sunder stop",
+            "bullets": [
+                "The dragon-rider guild has flags, but they are for ground observers to signal riders, not for riders to carry.",
+                "Walker usually relies on mind messages from Dana instead of traditional signaling.",
+                "Elrus and Plymouth teach Walker rudimentary SOS fire signals and basic flag-communique recognition, but not as a proficiency.",
+                "Elrus and Araden fly to the mountains while Walker and Plymouth enter Sunder."
+            ]
+        },
+        {
+            "title": "Arrival in Sunder",
+            "bullets": [
+                "Sunder is a floating city of towers and islands with districts including Haven Hold, the Bronze Palace, the Bronze Arena, Miss Mary’s, the docks, the Prancing Fox, and Louise Casino.",
+                "The Haven may have exhaustion potions and magic items obtainable through investigative work and another Sunder Chase circuit.",
+                "Haven Hold’s dragon hoard is enchanted by Benji and that dragon as a pre-race prize pick.",
+                "Calypso runs a floating vending operation between Miss Mary’s and the dock corridor.",
+                "The docks are busy with griffins, giant eagles, flying ships, and a diverse market crowd; Walker draws fewer stares than usual for a dragon rider.",
+                "Glimmen waits outside shops while Walker goes inside."
+            ]
+        },
+        {
+            "title": "Shopping goals",
+            "bullets": [
+                "Walker seeks potions or magic items to offset daily dragon-rider exhaustion.",
+                "Plymouth seeks horn root, powdered dragon scale, wet alchemical items, and dragon gizzard for spell components.",
+                "Plymouth recommends greater restoration or a rare potion of vitality, though both are expensive in Sunder.",
+                "They buy herbs and raw ingredients from street vendors, then enter an apothecary."
+            ]
+        },
+        {
+            "title": "Qualin's Quax",
+            "bullets": [
+                "The apothecary is doubly named Qualin's Quax and smells of thyme, oleander, earthy root, and citrus.",
+                "The shopkeeper is a duck-like Aarakocra in a blue robe with purple trim, scarred and stately, cataloging potions when they enter.",
+                "Plymouth asks for dragon gizzard; the shopkeeper says stock is low and it is sold by the pound.",
+                "Walker fails a perception check with disadvantage from exhaustion, getting distracted by the shop and by the shopkeeper’s purple gem necklace.",
+                "Plymouth negotiates dragon gizzard at five gold per pound while Walker misses part of the exchange.",
+                "The shopkeeper’s family-heirloom gem is called the Quackless of the Quinn’s line and would take about five million gold to part with.",
+                "Walker asks for exhaustion relief; the shopkeeper produces a milk-crate holder built for five small vials with one slot empty and four remaining potions that resemble greater healing vials."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker learns guild flags are for others to signal dragon riders, not for riders to use outbound.",
+        "Elrus and Plymouth teach Walker basic SOS fire signals and simple flag recognition.",
+        "Elrus and Araden fly to the mountains; Walker and Plymouth land in Sunder.",
+        "The DM describes Sunder’s districts, the Haven Hold hoard prize, and Calypso’s vending route.",
+        "Walker and Plymouth discuss their separate shopping goals for exhaustion relief and alchemical supplies.",
+        "They purchase herbs and ingredients from street vendors.",
+        "Plymouth leads Walker into the apothecary Qualin's Quax.",
+        "A duck-like Aarakocra shopkeeper greets them and says dragon gizzard is sold by the pound.",
+        "Walker rolls perception with disadvantage and becomes distracted by the shop and the shopkeeper’s gem.",
+        "Plymouth secures dragon gizzard at five gold per pound while Walker misses details of the exchange.",
+        "Walker learns the shopkeeper’s heirloom gem the Quackless of the Quinn’s line is worth about five million gold and not for sale.",
+        "Walker asks for help with exhaustion.",
+        "The shopkeeper brings out a crate of five vial slots with one missing and four exhaustion potions remaining."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is shopping in Sunder with Plymouth for exhaustion relief while suffering one level of exhaustion.",
+                "Fails a perception check with disadvantage because of exhaustion and fixation on the shopkeeper’s gem.",
+                "Asks the apothecary for something to help with constant exhaustion.",
+                "Usually communicates while flying via mind messages from Dana rather than flags or fire signals."
+            ],
+            "titles": [
+                "Lord"
+            ],
+            "personality": [
+                "Easily distracted by valuable gems and curios."
+            ],
+            "quotesThemes": [
+                "I suffer from exhaustion all the time."
+            ],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the new keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Leads Walker through Sunder’s market to Qualin's Quax.",
+                "Seeks horn root, powdered dragon scale, wet alchemical items, and dragon gizzard.",
+                "Negotiates dragon gizzard at five gold per pound while Walker is distracted.",
+                "Makes a knowing hum during the shopkeeper’s appraisal of the pair."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Qualin": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Duck-like Aarakocra proprietor of Qualin's Quax in Sunder.",
+                "Wears a stately blue robe with purple trim and a floppy circular hat.",
+                "Has burn scars, notches, and pockmarks on his large bill.",
+                "Wears a precious purple gem necklace that is a family heirloom.",
+                "Is low on dragon gizzard and sells it by the pound.",
+                "Has a crate of five small exhaustion potion vials with one already sold and four remaining."
+            ],
+            "titles": [],
+            "personality": [
+                "Dutiful, professor-like, and shrewd in appraising customers."
+            ],
+            "quotesThemes": [
+                "What brings you to my shop?",
+                "Not for sale. Family heirloom."
+            ],
+            "openQuestions": []
+        },
+        "The Quackless": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Purple heirloom gem worn by Qualin of the Quinn’s line.",
+                "Not for sale; Qualin says it would take about five million gold to part with it.",
+                "Walker estimates it as high-tier or mid-tier, comparable to star gems and other valuable couturements he carries."
+            ],
+            "titles": [
+                "Quackless of the Quinn's line"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Qualin's Quax": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Small apothecary shop in Sunder with a doubly punned name.",
+                "Smells of thyme, oleander, earthy root, and citrus.",
+                "Sells dragon gizzard by the pound and carries exhaustion potions resembling greater healing vials."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Floating Reach city where Walker and Plymouth are shopping.",
+                "Contains Haven Hold, the Bronze Palace, the Bronze Arena, Miss Mary’s, the docks, the Prancing Fox, and Louise Casino."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Follows Walker through Sunder and waits outside while he enters shops."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Helps teach Walker fire signals, then flies with Araden to the mountains to rendezvous later."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Flies with Elrus to the mountains while Walker and Plymouth shop in Sunder."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Usually sends Walker short mind messages while he is flying instead of using traditional dragon-rider signaling."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Gilwater",
+            "likely": "Plymouth Gawater",
+            "notes": "DM narrating who enters Sunder with Walker."
+        },
+        {
+            "heard": "HavenhOrd",
+            "likely": "Haven Hold",
+            "notes": "Central Sunder district with the dragon hoard."
+        },
+        {
+            "heard": "Prancine Fox",
+            "likely": "Prancing Fox",
+            "notes": "Named Sunder district."
+        },
+        {
+            "heard": "Moller's code",
+            "likely": "Morse code",
+            "notes": "Comparison for SOS fire-signal pattern."
+        },
+        {
+            "heard": "gast sending",
+            "likely": "cast Sending",
+            "notes": "DM on magical long-distance communication."
+        },
+        {
+            "heard": "z z euro in",
+            "likely": "zero in",
+            "notes": "Plymouth focusing on market areas."
+        },
+        {
+            "heard": "hOrd",
+            "likely": "hoard",
+            "notes": "Dragon treasure at Haven Hold."
+        },
+        {
+            "heard": "Ara Cacra / Arocacra / Aracochra / Cockro",
+            "likely": "Aarakocra",
+            "notes": "Qualin's race."
+        },
+        {
+            "heard": "Quayland",
+            "likely": "Qualin",
+            "notes": "Shopkeeper name garbled alongside Qualin's Quax."
+        },
+        {
+            "heard": "Draken Gizzard",
+            "likely": "Dragon Gizzard",
+            "notes": "Plymouth's requested spell component."
+        },
+        {
+            "heard": "five gold a po",
+            "likely": "five gold a pound",
+            "notes": "Dragon gizzard price."
+        },
+        {
+            "heard": "feramilum",
+            "likely": "for a million",
+            "notes": "Shopkeeper on the gem's value."
+        },
+        {
+            "heard": "Glimmen",
+            "likely": "oleander",
+            "notes": "Shop aroma description, not Walker's dragon."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Qualin's Quax",
+            "notes": [
+                "Doubly named apothecary shop in Sunder where Walker seeks exhaustion potions."
+            ]
+        },
+        {
+            "name": "Qualin",
+            "notes": [
+                "Duck-like Aarakocra shopkeeper of Qualin's Quax."
+            ]
+        },
+        {
+            "name": "The Quackless",
+            "notes": [
+                "Qualin's family-heirloom purple gem of the Quinn's line, worth about five million gold and not for sale."
+            ]
+        },
+        {
+            "name": "Quinn's line",
+            "notes": [
+                "Family line associated with Qualin and the Quackless heirloom gem."
+            ]
+        },
+        {
+            "name": "Dragon gizzard",
+            "notes": [
+                "Spell component Plymouth seeks; Qualin sells it by the pound at five gold per pound and is currently short on stock."
+            ]
+        },
+        {
+            "name": "Exhaustion potion",
+            "notes": [
+                "Small vials resembling greater healing potions; Qualin has four left in a five-slot crate."
+            ]
+        }
+    ]
+}

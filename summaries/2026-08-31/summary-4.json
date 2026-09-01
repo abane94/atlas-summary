@@ -1,0 +1,304 @@
+{
+    "plotSections": [
+        {
+            "title": "Qualin's Quax apothecary",
+            "bullets": [
+                "Walker and Plymouth enter Qualin's Quax, a Sunder apothecary run by a stately duck-like Aarakocra in blue and purple robes.",
+                "Plymouth asks for dragon gizzard; the shopkeeper Quaylin says stock is low and sells it by the pound.",
+                "Walker fails a perception check with disadvantage from exhaustion and becomes fixated on Quaylin’s heirloom gem rather than the negotiation.",
+                "Plymouth secures dragon gizzard at five gold per pound while Walker misses part of the exchange."
+            ]
+        },
+        {
+            "title": "The Quackless and Walker's distraction",
+            "bullets": [
+                "Quaylin wears a family-heirloom purple gem called the Quackless of the Quinn’s line.",
+                "It is not for sale; Quaylin ballparks its value at about five million gold for a lord like Walker.",
+                "Walker is mesmerized by the gem and admits he came in for exhaustion relief, not jewelry."
+            ]
+        },
+        {
+            "title": "Potions of vitality",
+            "bullets": [
+                "Quaylin produces a milk-crate holder for five vials with one slot empty and four potions of vitality remaining.",
+                "The potions look like greater healing potions but in a lighter fuchsia shade.",
+                "Each potion removes all exhaustion from a long day of adventuring, cures poison and similar ailments such as snake bites or basilisk effects, and improves healing on the next short rest.",
+                "Quaylin sells them for twelve hundred gold apiece and offers the Quax guarantee: if it quacks or cracks, Walker can bring it back for a refund.",
+                "Walker is too worn down to haggle and cannot afford twelve hundred gold right now."
+            ]
+        },
+        {
+            "title": "Dragon hoard financing",
+            "bullets": [
+                "Quaylin suggests Walker use the Haven Hold dragon hoard for liquid cash instead of paying out of pocket.",
+                "The dragon can loan gold at very low interest, with conversion around a couple silver per gold, and may simply give gold away if he likes a customer.",
+                "Walker does not want to run another Sunder Chase circuit, but Quaylin clarifies he can talk to the dragon directly for a loan without racing.",
+                "Walker decides to go speak with the dragon and leaves the shop after shaking Quaylin’s feathered hand."
+            ]
+        },
+        {
+            "title": "Walker's gold hand",
+            "bullets": [
+                "Quaylin notices Walker’s gold-colored hand and taps it with a pestle, confirming it is real flesh rather than metal for sale.",
+                "Walker begins explaining it came from swimming in cold molten-looking water, possibly during time at the Temple of I in the north.",
+                "Plymouth silently signals Walker to stop talking about the hand.",
+                "Quaylin asks whether loon folk were involved; Walker says no, and Quaylin expresses hatred for loon folk."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker and Plymouth enter Qualin's Quax and meet Quaylin, a duck-like Aarakocra shopkeeper.",
+        "Plymouth asks for dragon gizzard; Quaylin says it is sold by the pound.",
+        "Walker rolls perception with disadvantage and becomes distracted by the shop and Quaylin’s gem.",
+        "Plymouth buys dragon gizzard at five gold per pound.",
+        "Walker learns the Quackless of the Quinn’s line is worth about five million gold and not for sale.",
+        "Walker asks Quaylin for help with constant exhaustion.",
+        "Quaylin shows four remaining potions of vitality in a five-vial crate.",
+        "Quaylin prices each potion of vitality at twelve hundred gold with the Quax guarantee.",
+        "Walker says he cannot afford that much and is too tired to haggle.",
+        "Quaylin tells Walker to seek a loan from the Haven Hold dragon hoard.",
+        "Walker refuses a Sunder Chase run but agrees to talk to the dragon directly.",
+        "Walker shakes Quaylin’s hand and heads out to find the dragon.",
+        "Quaylin taps Walker’s gold hand with a pestle and asks what alchemical event caused it.",
+        "Walker starts to explain an incident involving cold molten-looking water and possibly the Temple of I.",
+        "Plymouth gestures for Walker to stop discussing the gold hand."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is suffering exhaustion and failed a perception check with disadvantage inside Qualin's Quax.",
+                "Cannot afford twelve hundred gold per potion of vitality and is too tired to haggle.",
+                "Decides to seek a loan from the Haven Hold dragon rather than run another Sunder Chase.",
+                "Has a gold-colored hand that is real flesh, not metal; Quaylin tested it with a pestle.",
+                "Believes the hand may be tied to swimming in cold molten-looking water, possibly at the Temple of I in the north."
+            ],
+            "titles": [
+                "Lord"
+            ],
+            "personality": [
+                "Easily distracted by valuable gems when exhausted."
+            ],
+            "quotesThemes": [
+                "I suffer from exhaustion all the time.",
+                "I don't wanna take a loan from a fucking dragon."
+            ],
+            "openQuestions": [
+                "What exactly caused Walker's gold hand?"
+            ]
+        },
+        "Quaylin": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Duck-like Aarakocra proprietor of Qualin's Quax in Sunder.",
+                "Wears the heirloom gem the Quackless of the Quinn’s line, valued at about five million gold.",
+                "Sells dragon gizzard by the pound at five gold and potions of vitality at twelve hundred gold apiece.",
+                "Recently brewed five potions of vitality and sold one to another adventurer earlier that day.",
+                "Offers the Quax guarantee on purchases.",
+                "Advises Walker to borrow liquid cash from the Haven Hold dragon at low interest.",
+                "Hates loon folk."
+            ],
+            "titles": [],
+            "personality": [
+                "Shrewd appraiser, proud shopkeeper, and willing financier-by-referral."
+            ],
+            "quotesThemes": [
+                "If it quacks or if it cracks, you can bring it back and you get your money back.",
+                "I fucking hate loon folk."
+            ],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the new keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Purchases dragon gizzard at five gold per pound while Walker is distracted.",
+                "Signals Walker to stop explaining his gold hand in front of Quaylin."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Quackless": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Purple heirloom gem of the Quinn’s line worn by Quaylin.",
+                "Not for sale; Quaylin says it would take about five million gold to part with it."
+            ],
+            "titles": [
+                "Quackless of the Quinn's line"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Qualin's Quax": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Sunder apothecary shop run by Quaylin.",
+                "Sells dragon gizzard, potions of vitality, and other alchemical goods.",
+                "Offers the Quax guarantee on purchases."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Potion of vitality": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Fuchsia-toned potion resembling a greater healing potion.",
+                "Removes all exhaustion from a long day of adventuring.",
+                "Also cures poison and similar ailments such as snake bites or basilisk effects.",
+                "Improves healing on the next short rest.",
+                "Quaylin has four in stock and sells them for twelve hundred gold each."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder Chase": {
+            "existing": "A summer seasonal event.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker does not want to run another circuit to pay for potions.",
+                "Quaylin says Walker can instead borrow cash directly from the Haven Hold dragon without racing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Temple of I": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Northern temple pronounced like the letter I.",
+                "Walker thinks his gold hand may be connected to time spent there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Did Walker's gold hand originate at the Temple of I?"
+            ]
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Waits outside Qualin's Quax while Walker shops inside."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Qualin's Quax / Quailin's quacks",
+            "likely": "Qualin's Quax",
+            "notes": "Shop name and pun on the proprietor's name."
+        },
+        {
+            "heard": "Quayland / Wayland / Quaylon",
+            "likely": "Quaylin",
+            "notes": "Shopkeeper introduces himself as Quaylin."
+        },
+        {
+            "heard": "Cockro / Ara Cacra / Arocacra / Aracochra",
+            "likely": "Aarakocra",
+            "notes": "Quaylin's race."
+        },
+        {
+            "heard": "feramilum",
+            "likely": "for a million",
+            "notes": "Quaylin on the gem's value."
+        },
+        {
+            "heard": "five gold a po",
+            "likely": "five gold a pound",
+            "notes": "Dragon gizzard price."
+        },
+        {
+            "heard": "Glimmen",
+            "likely": "oleander",
+            "notes": "Shop aroma, not Walker's dragon."
+        },
+        {
+            "heard": "Sunda",
+            "likely": "Sunder",
+            "notes": "City where the hoard-financing conversation happens."
+        },
+        {
+            "heard": "hOrd",
+            "likely": "hoard",
+            "notes": "Haven Hold dragon treasure used for loans."
+        },
+        {
+            "heard": "petzel",
+            "likely": "pestle",
+            "notes": "Tool Quaylin uses to test Walker's gold hand."
+        },
+        {
+            "heard": "Ayer",
+            "likely": "I",
+            "notes": "Walker mispronounces the Temple of I."
+        },
+        {
+            "heard": "the quax guarantee / quailing guarantee",
+            "likely": "Quax guarantee",
+            "notes": "Shop refund policy."
+        }
+    ],
+    "openQuestions": [
+        "What exactly caused Walker's gold hand?",
+        "Did Walker's gold hand originate at the Temple of I?"
+    ],
+    "newTerms": [
+        {
+            "name": "Quaylin",
+            "notes": [
+                "Duck-like Aarakocra proprietor of Qualin's Quax in Sunder."
+            ]
+        },
+        {
+            "name": "Quax guarantee",
+            "notes": [
+                "Qualin's Quax refund policy: if a purchased item quacks or cracks, the buyer gets their money back."
+            ]
+        },
+        {
+            "name": "Potion of vitality",
+            "notes": [
+                "Rare fuchsia potion that removes exhaustion, cures poison-like ailments, and improves the next short rest; twelve hundred gold in Sunder."
+            ]
+        },
+        {
+            "name": "Temple of I",
+            "notes": [
+                "Northern temple pronounced like the letter I; Walker suspects it is connected to his gold hand."
+            ]
+        },
+        {
+            "name": "Loon folk",
+            "notes": [
+                "A people Quaylin hates; he asks whether they were involved in Walker's gold-hand incident."
+            ]
+        },
+        {
+            "name": "Dragon gizzard",
+            "notes": [
+                "Alchemical spell component sold by the pound at Qualin's Quax for five gold per pound."
+            ]
+        }
+    ]
+}

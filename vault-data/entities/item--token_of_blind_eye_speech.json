@@ -1,0 +1,29 @@
+{
+  "name": "Token of blind eye speech",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Whisper token for communication when normal speech fails",
+  "aliases": [],
+  "normalizedAliases": [
+    "token of blind eye speech"
+  ],
+  "filename": "entities/item/token_of_blind_eye_speech.md",
+  "description": "A token of blind eye speech is an item used for whispered communication when normal speech fails. It requires pointing and whispering to activate. Gerk can reply to whispers sent to him without needing to activate it himself.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Sylan uses a token of blind eye speech aboard the invisible, silent boat to whisper with Ord when voice fails and to ask Gerk what he did. Gerk responds through the token without activating it himself, admitting that he opened the door.",
+      "notes": [
+        "Sylan uses it to whisper with Ord when normal speech fails.",
+        "Requires pointing and whispering to activate.",
+        "Gerk can reply to whispers sent to him without needing to activate it himself."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:33:45.091Z",
+  "updatedAt": "2026-09-01T18:33:45.091Z"
+}

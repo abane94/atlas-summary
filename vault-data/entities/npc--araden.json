@@ -24,10 +24,18 @@
         "The party discusses Araden as being highly capable with magic; there is also an apparent transcription reference to Araden being an ancient dragon, but this is not clear enough to establish as fact.",
         "Araden accompanies Elrus and Walker through the gate to the Reach."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Araden splits from Walker and Plymouth during the Reach excursion, flying into the mountains with Elrus while the others detour to Sunder. During Walker's visit to Hanzuni at Haven Hold, the ancient copper dragon's scales are noted as less tarnished than Araden's, apparently from greater activity and contact with treasure.",
+      "notes": [
+        "Flies with Elrus to the mountains while Walker and Plymouth shop in Sunder.",
+        "Hanzuni's scales are less tarnished than Araden's, apparently from greater activity and contact with treasure."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:15:19.932Z",
-  "updatedAt": "2026-08-21T18:15:19.932Z"
+  "updatedAt": "2026-09-01T18:29:53.795Z"
 }

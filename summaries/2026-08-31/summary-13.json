@@ -1,0 +1,276 @@
+{
+    "plotSections": [
+        {
+            "title": "Head count and missing crew",
+            "bullets": [
+                "After sight and sound return, Sylan calls for a head count on the flying boat.",
+                "All four named crew members are found safe aboard; none fell or jumped off during the invisibility episode.",
+                "Ciri hides behind the mast or a barrel and is eventually accounted for.",
+                "Walker is not on the boat; he is away on his separate Sunder mission.",
+                "Mikkel the spymaster is not aboard again, continuing the recurring problem of departing without him.",
+                "The party discusses giving Mikkel a sending stone or teleportation tunnel so he can rejoin more reliably."
+            ]
+        },
+        {
+            "title": "Skipping Dana’s door study",
+            "bullets": [
+                "Sylan offers Dana about thirty minutes to investigate the spectral door.",
+                "Dana’s player is not present, and the DM notes Dana lacks investigative spells such as detect magic.",
+                "The party decides not to wait and continues the journey as if nothing happened."
+            ]
+        },
+        {
+            "title": "The spectral door follows Gerk",
+            "bullets": [
+                "As the ship resumes travel, the fake spectral door continues following Gerk rather than staying fixed in the sky.",
+                "It keeps roughly the same distance from Gerk as he moves around the ship.",
+                "When the ship sails forward, the door remains stationary relative to the ship, as if standing on it.",
+                "Gerk tries waving, verbal commands, closed sesame, and a performance of Bye Bye Bye (17 total) to dismiss it; nothing works.",
+                "Sylan tells Gerk to keep experimenting if he wants, but not to open another door until they are on land."
+            ]
+        },
+        {
+            "title": "Walker seeks the Haven Hold dragon",
+            "bullets": [
+                "Walker reaches Quaylin’s Quax and learns the dragon whose hoard sits in the center of Haven Hold is the same one he has met before.",
+                "That dragon offers loans at very low interest rates.",
+                "Walker goes to speak with the male dragon, hoping for charity or a magical item he can afford.",
+                "Walker notes he left his money at home and likely has at least ten thousand gold there."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan organizes a head count; all four crew are found safe aboard.",
+        "Ciri is located hiding on the boat.",
+        "Sylan confirms Mikkel is not aboard.",
+        "Sylan cancels the planned wait for Dana’s door investigation because Dana is unavailable.",
+        "The party continues travel, pretending nothing happened.",
+        "The spectral door begins following Gerk and stays fixed on the ship as it moves.",
+        "Gerk fails to dismiss the door through physical, verbal, and performance attempts.",
+        "Sylan forbids Gerk from opening another door until they reach land.",
+        "Walker heads to the Haven Hold dragon at Quaylin’s Quax to ask for help or a loan."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "The spectral door now follows him rather than remaining behind in the sky.",
+                "It maintains roughly the same distance from him as he moves around the ship.",
+                "When the ship sails, the door stays stationary on the ship as if planted there.",
+                "Waving, commands, closed sesame, and a 17 performance check fail to dismiss or interact with it.",
+                "Agrees not to open another door until the party is on land."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "Guys, it's following me.",
+                "Go away door. We don't want you here."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Runs a head count and searches for crew and party members after the dispel.",
+                "Offers Dana time to investigate the door, then drops the wait when she is unavailable.",
+                "Decides the party should continue as if nothing happened.",
+                "Guides Gerk to try dismissing the door with his Doorman powers but forbids opening new doors until landfall.",
+                "Expects Walker to message within about a day."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is not present this session.",
+                "Does not have investigative magical spells such as detect magic available for the door study."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and Lith Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Hides behind the mast or a barrel during the head count.",
+                "Sylan calls her the party’s Whisper Master."
+            ],
+            "titles": [
+                "Whisper Master"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remains covered in oil from his dragon vessel.",
+                "Gerk asks him to stand nearby instead of Sylan while tempers settle."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is not on the boat; he is in Sunder near Quaylin’s Quax.",
+                "Seeks out the male Haven Hold dragon whose hoard he has interacted with before.",
+                "That dragon offers loans at very low interest.",
+                "Hopes the dragon will help him afford a magical item because he left his money at home.",
+                "Estimates he has at least ten thousand gold back home."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "Continues to follow Gerk after the party resumes travel.",
+                "Appears tied to Gerk rather than the ship, keeping roughly constant distance from him.",
+                "When the ship moves, the door stays fixed on the ship as if standing on it.",
+                "Remains non-interactable despite Gerk’s attempts to dismiss it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mikkel": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Spymaster crew member who is not aboard again.",
+                "The party departed last time without verifying he was onboard.",
+                "Party considers a sending stone or teleportation tunnel so he can rejoin."
+            ],
+            "titles": [
+                "Spymaster"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Where did we leave Mikkel?"
+            ]
+        },
+        "Quaylin": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Shopkeeper of Quaylin’s Quax in Sunder.",
+                "Walker is directed toward the dragon associated with this shop and Haven Hold."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Haven Hold": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Contains a dragon hoard at its center.",
+                "The dragon there is the same one Walker has met before and offers low-interest loans."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Opening a doorway on the moving boat caused the earlier invisibility and silence effect.",
+                "The party agrees Gerk must not open another door until they reach land."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Silid",
+            "likely": "Sylan",
+            "notes": "Gerk asking Ord to stand near him instead."
+        },
+        {
+            "heard": "Mikhail",
+            "likely": "Mikkel",
+            "notes": "Missing spymaster crew member."
+        },
+        {
+            "heard": "real board",
+            "likely": "real door",
+            "notes": "Gerk testing whether the spectral door works."
+        },
+        {
+            "heard": "spell magic",
+            "likely": "detect magic",
+            "notes": "DM checking Dana’s available spells."
+        },
+        {
+            "heard": "chew it away",
+            "likely": "shoo it away",
+            "notes": "Sylan telling Gerk to dismiss the door."
+        },
+        {
+            "heard": "brain afraid",
+            "likely": "",
+            "notes": "Sylan guiding Gerk to use his Doorman powers; exact phrase unclear."
+        },
+        {
+            "heard": "hOrd",
+            "likely": "hoard",
+            "notes": "Dragon treasure in Haven Hold."
+        },
+        {
+            "heard": "Quaylin Quaks",
+            "likely": "Quaylin's Quax",
+            "notes": "Sunder shop Walker visits."
+        }
+    ],
+    "openQuestions": [
+        "Where did we leave Mikkel?",
+        "What exactly happened to Gerk when he opened the door?"
+    ],
+    "newTerms": [
+        {
+            "name": "Mikkel",
+            "notes": [
+                "Crew spymaster who is frequently left behind when the boat departs."
+            ]
+        },
+        {
+            "name": "Whisper Master",
+            "notes": [
+                "Sylan’s nickname for Ciri during the head count."
+            ]
+        },
+        {
+            "name": "Haven Hold dragon",
+            "notes": [
+                "Male dragon at the center of Haven Hold’s hoard; known to Walker and offers low-interest loans."
+            ]
+        }
+    ]
+}

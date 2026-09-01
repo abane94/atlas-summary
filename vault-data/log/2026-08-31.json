@@ -1,0 +1,348 @@
+{
+  "date": "2026-08-31",
+  "summary": "Checking existing summary format and style in the project for consistency.\nThe party split as Walker used his portal cube to reach The Reach near the Whispering Abyss and committed to a long flight toward the Dragon Rider training grounds, accepting daily dragon-rider exhaustion for the full journey while detouring through Sunder with Plymouth to seek relief. At Qualin's Quax, shopkeeper Quaylin offered costly potions of vitality Walker could not afford and sent him to borrow from the Haven Hold dragon Hanzuni; Walker also revealed his plated golden hand came from cold molten water near the Temple of I, and learned it can be removed as roughly thirty pounds of gold. Meanwhile aboard the sky ship, Gerk's opening of a spectral doorway left the crew invisible and mute, with Gerk confused and Ord still faintly visible through dragon-vessel oil. Sylan physically shook Gerk toward lucidity, Ord cast *See Invisibility* and used a token of blind eye speech to coordinate, and the group learned the floating door was protective magic, not a usable portal. After debate over their poor history with *dispel magic*, Ord successfully dispelled the sight-and-hearing effect, restoring the party while the spectral door remained and began following Gerk wherever he moved. Once accounted for—minus Walker on his errand and Mikkel absent again—the ship pressed on under orders not to open more doors in transit. Walker then negotiated with Hanzuni, who remembered Glimmen from hatchling days, explained Quaylin's Sunder Chase history and the Beak heirloom, and offered a twelve-hundred-gold loan paid not in coin but with a quest: bring the dragon an island crab so Walker could finally buy exhaustion relief.",
+  "plotSections": [
+    {
+      "title": "Walker's departure and Reach travel plan",
+      "bullets": [
+        "Walker confirms Plymouth Gawater is with him before resuming play.",
+        "Walker uses his small portal cube to pop out in The Reach near the Whispering Abyss.",
+        "Sylan notes Walker can navigate by mind link and treats the outing as a short, low-risk adventure.",
+        "From the Whispering Abyss, Walker plans to fly north toward the Lost Isles to reach the Dragon Rider training grounds.",
+        "The DM places the training guild on the largest unnamed island in the hex between the Lost Islands, Camp Two, and the Howling tunnels.",
+        "Elrus previously said Last Word Chasm to the training grounds is about five days by flight; Walker initially estimated eight days, but the DM treats the straight-line route as essentially the same and settles on about five days.",
+        "Walker finalizes a broader 49-day itinerary in The Reach, spending five dragon energy per day for 245 total energy and accepting one exhaustion level per day for the full stay.",
+        "The DM confirms this plan can still be changed mid-journey and that Walker will have disadvantage on ability checks throughout unless he adjusts course.",
+        "Dragon-rider exhaustion has no reliable cure except labor-intensive potions; cleric or paladin magic can help, but Dana and Ord are not with Walker, and Elrus cannot cure exhaustion daily.",
+        "Nicotine can help short-term but causes harsh withdrawal without supply; Walker makes a mental note to acquire it after giving up alcohol."
+      ]
+    },
+    {
+      "title": "Sunder detour and group split",
+      "bullets": [
+        "Walker plans to fly with Elrus and Plymouth toward the training grounds, routing over Sunder to shop for exhaustion relief.",
+        "The DM agrees Sunder may carry exhaustion potions and other rare supplies.",
+        "Elrus declines supplies, says he dislikes frequenting Sunder, and will meet Walker in the mountains with Araden.",
+        "Plymouth flies into Sunder with Walker while Elrus and Araden head for the mountains.",
+        "Glimmen waits outside shops while Walker goes inside."
+      ]
+    },
+    {
+      "title": "Communication while separated",
+      "bullets": [
+        "Walker tells Ciri mind-link communication is open if she needs anything, though the DM notes mind chat is likely out of range without a spell.",
+        "Elrus's dragon could use fire bursts as a signal.",
+        "Elrus and Plymouth teach Walker rudimentary SOS fire signals and basic flag-communique recognition, but not as a proficiency.",
+        "Dragon-rider guild flags exist for ground observers to signal riders, not for riders to signal others."
+      ]
+    },
+    {
+      "title": "Arrival in Sunder",
+      "bullets": [
+        "Sunder is a floating amalgamation of towers and islands in The Reach.",
+        "Named districts include Haven Hold at the center, the Bronze Palace, the Bronze Arena, Miss Mary's, the docks, the Prancing Fox, and Louise Casino.",
+        "The Haven may have exhaustion potions and magic items, some tied to completing another Sunder Chase circuit.",
+        "Haven Hold's dragon hoard is enchanted by Benji and that dragon so racers may pick from it before running the circuit.",
+        "Calypso runs a floating vending operation between Miss Mary's and the dock corridor.",
+        "The docks teem with griffins, giant eagles, flying ships, and a diverse market crowd; Walker draws fewer stares than usual for a dragon rider.",
+        "Plymouth is eager to visit several areas he has been eyeing."
+      ]
+    },
+    {
+      "title": "Qualin's Quax and shopping",
+      "bullets": [
+        "Walker seeks potions or magic items to offset daily dragon-rider exhaustion; Plymouth seeks horn root, powdered dragon scale, wet alchemical items, and dragon gizzard for spell components.",
+        "Plymouth recommends greater restoration or a rare potion of vitality, though both are expensive in Sunder.",
+        "They buy herbs and raw ingredients from street vendors, then enter Qualin's Quax, a Sunder apothecary smelling of thyme, oleander, earthy root, and citrus.",
+        "The shopkeeper Quaylin is a stately duck-like Aarakocra in blue robes with purple trim, cataloging potions when they enter.",
+        "Plymouth negotiates dragon gizzard at five gold per pound while Walker fails a perception check with disadvantage from exhaustion and becomes fixated on Quaylin's heirloom gem.",
+        "Quaylin wears the Quackless of the Quinn's line, a family-heirloom purple gem valued at about five million gold and not for sale.",
+        "Quaylin shows four potions of vitality in a five-vial crate; each removes all exhaustion from a long adventuring day, cures poison and similar ailments, and improves the next short rest.",
+        "The fuchsia potions cost twelve hundred gold apiece and come with the Quax guarantee.",
+        "Walker is too worn down to haggle and cannot afford them.",
+        "Quaylin suggests Walker borrow liquid gold directly from the Haven Hold dragon at low interest without running another Sunder Chase.",
+        "Plymouth confirms he secured several pounds of dragon gizzard, and Walker leaves to speak with the dragon."
+      ]
+    },
+    {
+      "title": "Walker's gold hand origin",
+      "bullets": [
+        "Quaylin taps Walker's gold-colored hand with a pestle and confirms it is real flesh, not metal for sale.",
+        "Walker says the change happened while swimming underwater in cold molten-looking water, possibly near the Temple of I in the north.",
+        "He put only his hand into the substance and it turned gold; he did not test anything else because he panicked.",
+        "Quaylin compares the result to a Midas-like alchemical process and asks whether loon folk were involved; Walker says no, and they share a mutual dislike of loon folk.",
+        "Plymouth silently signals Walker to stop discussing the incident in the shop."
+      ]
+    },
+    {
+      "title": "Invisible silent boat crisis",
+      "bullets": [
+        "While Walker shops in Sunder, the main party remains invisible on the boat and unable to hear one another.",
+        "Closing the door left the ship floating in place; it can list side to side but is otherwise back to normal except for the invisibility and silence.",
+        "Ord's oily dragon-vessel outline is still faintly visible but has mostly dissipated.",
+        "A floating spectral door remains closed where the doorway was.",
+        "Gerk remains confused and largely unable to act normally."
+      ]
+    },
+    {
+      "title": "Cross-realm economics",
+      "bullets": [
+        "Gerk asks whether gold has the same value across Atlas's realms.",
+        "The DM confirms exchange differences exist and notes the party has access to six of eight Arch realms.",
+        "The party could theoretically create a cross-realm market and exploit foreknowledge of keystone door openings to cause economic hardship against the lich.",
+        "Gerk jokingly names the market The Gerkin."
+      ]
+    },
+    {
+      "title": "Breaking Gerk's confusion",
+      "bullets": [
+        "Sylan decides against reopening the spectral door now that the ship seems stabilized.",
+        "With no ship log available, Sylan writes detect magic on the deck using coins.",
+        "Sylan physically wrangles the invisible Gerk by slapping, grabbing, and shaking him under his chitin armor.",
+        "Gerk feels accosted, grabs back, and becomes slightly more lucid enough to recognize his boat and a smaller person's wrist in his grip.",
+        "Gerk fails a wisdom save with a natural 1 and tries to swing Sylan around in a strength contest.",
+        "Ciri watches the invisible struggle without being able to see what is happening."
+      ]
+    },
+    {
+      "title": "Ord casts See Invisibility",
+      "bullets": [
+        "Ord, still outlined in oil from his dragon vessel, cannot communicate normally with the others.",
+        "Sylan asks whether the invisibility is magical; Ord does not have detect magic prepared but offers dispel magic instead.",
+        "Ord casts See Invisibility after covering himself in more oil.",
+        "The level-two divination lets Ord see invisible creatures and objects, including into the ethereal plane.",
+        "Ord sees Gerk half dazed on the deck wrestling with Sylan near the closed floating spectral door.",
+        "Dana stands nearby looking concerned and confused.",
+        "Two crew members, including the helmsman, wander the deck bumping into each other and silently trying to call out.",
+        "All interactions remain soundless despite visible movement.",
+        "Where Gerk opened the portal, Ord sees faint glowing edge-lines and ghostly city passerby that fade quickly and are nearly gone when he investigates.",
+        "Ord tries to steady Sylan and Gerk without restraining them; his persuasion check of 15 is enough that they notice his oily silhouette."
+      ]
+    },
+    {
+      "title": "Blind eye speech and door investigation",
+      "bullets": [
+        "Sylan uses a token of blind eye speech to whisper with Ord and confirm he can see them through See Invisibility.",
+        "Gerk admits through the token that he opened the door.",
+        "The spectral door floats over and slightly behind Gerk, shut and frameless, resembling Gerk's shield-door but more functional.",
+        "With guidance, Gerk's investigation total of 18 reveals it is not a real door but protective magic with no portal or opening capability.",
+        "Gerk, Sylan, and Ord find their hands pass through it into slightly thicker air without physical effect.",
+        "The DM confirms passing through the spectral door would not simply restore sight or hearing."
+      ]
+    },
+    {
+      "title": "Dispel magic debate and resolution",
+      "bullets": [
+        "Sylan says dispel magic may be the party's best available tool but warns about their poor track record with it.",
+        "The party fears dispelling the wrong effect could drop the ship; Dana is the one most likely able to prevent a fatal fall.",
+        "Ord proposes zone of truth as a workaround, but the group moves toward dispel magic instead.",
+        "Ord asks Gerk to create a replacement door as Doorman, but Gerk refuses to listen to Ord and briefly suggests leaving through a new magic door instead.",
+        "Sylan insists they cannot abandon the boat because it is too important.",
+        "The party recalls a past dispel during the Sunder Chase that went badly.",
+        "Sylan casts guidance on Ord while Ord targets the magical effect impeding sight and hearing, not the boat or its wings.",
+        "Ord's dispel magic succeeds and sound returns; the entire party can see and hear one another again.",
+        "Confused crew members become visible; one had been screaming while another clung to the banister.",
+        "The spectral door remains floating in the sky, but the party still cannot use it.",
+        "The party praises Ord for breaking the silence and invisibility effect."
+      ]
+    },
+    {
+      "title": "Head count and moving on",
+      "bullets": [
+        "Sylan calls for a head count to make sure no one fell off during the muted invisible episode.",
+        "All four named crew members are found safe aboard; none jumped or fell off.",
+        "Ciri hides behind the mast or a barrel and is eventually accounted for.",
+        "Walker is not on the boat; he is away on his separate Sunder mission.",
+        "Mikkel the spymaster is not aboard again, continuing the recurring problem of departing without him.",
+        "The party discusses giving Mikkel a sending stone or teleportation tunnel so he can rejoin more reliably.",
+        "Sylan offers Dana about thirty minutes to investigate the spectral door, but Dana's player is absent and Dana lacks investigative spells such as detect magic.",
+        "The party decides not to wait and continues the journey as if nothing happened.",
+        "The party agrees not to open doors on moving things again."
+      ]
+    },
+    {
+      "title": "Spectral door follows Gerk",
+      "bullets": [
+        "As the ship resumes travel, the fake spectral door continues following Gerk rather than staying fixed in the sky.",
+        "It keeps roughly the same distance from Gerk as he moves around the ship.",
+        "When the ship sails forward, the door remains stationary relative to the ship, as if standing on it.",
+        "Gerk tries waving, verbal commands, closed sesame, and a performance check totaling 17 to dismiss it; nothing works.",
+        "Sylan tells Gerk he may keep experimenting but must not open another door until they reach land."
+      ]
+    },
+    {
+      "title": "Walker meets Hanzuni at Haven Hold",
+      "bullets": [
+        "Walker has only about fourteen hundred gold on hand—826 gold and 61 platinum—while roughly ten thousand gold remains back in Langdale.",
+        "Walker enters Haven Hold's hoard hall: a lively arched market with a treasure mountain on a central floating island separated by an empty moat.",
+        "Throwing a gauntlet into the hoard triggers a Sunder Chase; the hoard's magic keeps treasure from falling away.",
+        "Hanzuni is an ancient copper dragon (H-A-Z-U-N-I), relatively small for his age, with polished copper scales; he swims through his hoard.",
+        "He greets Glimmen first, remembers her as a hatchling, and has forgotten Walker's name.",
+        "Glimmen eagerly dives into the hoard to swim with him; Hanzuni is only slightly larger than her despite his ancient age.",
+        "Walker asks Hanzuni for something to remedy terrible daily exhaustion despite constant training.",
+        "Hanzuni perceives shimmering magical energy on Walker and criticizes his mismatched star sapphire and star ruby earrings.",
+        "He offers an even-value hoard trade for matching gems; Walker refuses to keep the story of gems won from a past dragon hoard fight."
+      ]
+    },
+    {
+      "title": "Quaylin's backstory",
+      "bullets": [
+        "Hanzuni confirms Quaylin of Quaylin's Quax and says Quaylin has won two Sunder Chases.",
+        "Quaylin was not always a duck-fowl; the Beak of the quackiest of brews transmutes the wearer and grants great potion knowledge.",
+        "The neck heirloom is his prize from his second Sunder Chase win; the beak relates to his first.",
+        "Quaylin arrived in Sunder after his race on a small vessel with only potion craft to his name."
+      ]
+    },
+    {
+      "title": "Walker's plated gold hand at Haven Hold",
+      "bullets": [
+        "Hanzuni says many hoard items could cure exhaustion, but removing magical items requires a Sunder Chase.",
+        "Walker cannot remove his golden hand to throw into the hoard.",
+        "Hanzuni grabs it and slides off a perfect golden replica, revealing Walker's normal flesh hand beneath.",
+        "It is not a gauntlet but plated gold; Hanzuni returns it and Walker can reattach it like a perfect-fitting glove.",
+        "Hanzuni estimates it weighs roughly thirty pounds, or about four hundred troy ounces of gold.",
+        "Walker is unsettled to learn it can come off; Hanzuni says many people do not realize it is only plated."
+      ]
+    },
+    {
+      "title": "Sunder Chase rules",
+      "bullets": [
+        "Participants choose as many magical hoard items as they wish, then must race.",
+        "Items lost overboard during the race return to the hoard; non-winners lose all taken items back to the hoard.",
+        "Only the winner's chosen treasures permanently leave Hanzuni's hoard.",
+        "Walker wants to compete but lacks time; Sylan notes retrieving gold from Midgar would be faster."
+      ]
+    },
+    {
+      "title": "Hanzuni's gold loan",
+      "bullets": [
+        "Hanzuni can loan plain gold from the hoard but cannot give magical items such as a potion of vitality directly.",
+        "His interest is not monetary; he charges a quest because he cannot leave the hoard unattended.",
+        "For the price of Quaylin's twelve-hundred-gold potion, he asks Walker to bring him an island crab, which he has not eaten in a long time.",
+        "Hanzuni tips that Quaylin favors alabaster herring, especially pickled, and may haggle down a few hundred gold."
+      ]
+    }
+  ],
+  "log": [
+    "Walker confirms Plymouth Gawater is accompanying him.",
+    "After a brief out-of-game break, Walker uses his portal cube and pops out near the Whispering Abyss in The Reach.",
+    "Walker locates the Reach map and confirms the exit point with the DM.",
+    "The party identifies the flight destination as the Dragon Rider training grounds near the Lost Isles.",
+    "The DM specifies the guild sits on the largest unnamed island in the hex between the Lost Islands, Camp Two, and the Howling tunnels.",
+    "Walker recalls Elrus's estimate of about five days from Last Word Chasm to the training grounds and proposes about eight days from the Whispering Abyss.",
+    "The DM accepts about five days of flight as close enough for travel time.",
+    "Walker and the DM review exhaustion rules for dragon energy expenditure.",
+    "Walker settles on spending five dragon energy per day for 49 days, totaling 245 energy and one exhaustion level per day.",
+    "The DM confirms Walker will operate at disadvantage on ability checks for the duration of his Reach stay.",
+    "The DM explains dragon-rider exhaustion has no easy cure except potions or cleric/paladin aid.",
+    "Walker asks about daily exhaustion relief from Elrus and is told no.",
+    "The DM describes nicotine as a short-term aid with severe withdrawal if supply runs out; Walker notes he should get nicotine.",
+    "Walker commits to the daily exhaustion plan and prepares to fly with Elrus and Plymouth.",
+    "Walker proposes flying over Sunder and stopping there for shopping.",
+    "The DM agrees Sunder may sell exhaustion potions and other rare supplies.",
+    "Elrus says he dislikes frequenting Sunder and declines supply requests, including jerky and salt leaf.",
+    "The party agrees to meet in the mountains.",
+    "Walker opens mind-link communication with Ciri for the separated group.",
+    "The DM says mind chat is likely out of range unless they use a spell.",
+    "The DM discovers Walker has not been taught fire signals and asks about flag signaling.",
+    "Elrus and Plymouth teach Walker basic SOS fire signals and simple flag recognition.",
+    "Walker learns guild flags are for others to signal dragon riders, not for riders to use outbound.",
+    "Elrus and Araden fly to the mountains; Plymouth accompanies Walker into Sunder.",
+    "Walker and Plymouth arrive in the floating city of Sunder.",
+    "The DM describes Sunder's districts, the Haven Hold dragon hoard prize tied to Sunder Chase, and Calypso's vending route.",
+    "Walker and Plymouth discuss their separate shopping goals for exhaustion relief and alchemical supplies.",
+    "Plymouth recommends greater restoration or a rare potion of vitality for exhaustion.",
+    "They purchase herbs and ingredients from street vendors, then enter Qualin's Quax.",
+    "Walker and Plymouth meet Quaylin, a duck-like Aarakocra shopkeeper who sells dragon gizzard by the pound.",
+    "Walker rolls perception with disadvantage and becomes distracted by the shop and Quaylin's heirloom gem.",
+    "Plymouth buys dragon gizzard at five gold per pound.",
+    "Walker learns the Quackless of the Quinn's line is worth about five million gold and not for sale.",
+    "Walker asks Quaylin for help with constant exhaustion.",
+    "Quaylin shows four remaining potions of vitality in a five-vial crate and prices each at twelve hundred gold with the Quax guarantee.",
+    "Walker says he cannot afford the potions and is too tired to haggle.",
+    "Quaylin directs Walker to borrow gold from the Haven Hold dragon without running the Sunder Chase.",
+    "Quaylin tests Walker's gold hand with a pestle and asks how it happened.",
+    "Walker explains he turned his hand gold by putting it into cold molten-looking water while swimming, possibly near the Temple of I.",
+    "Plymouth signals Walker to stop talking about the gold hand.",
+    "Walker and Quaylin discuss loon folk.",
+    "Plymouth confirms he bought several pounds of dragon gizzard.",
+    "Walker leaves Qualin's Quax to negotiate with the Haven Hold dragon.",
+    "The scene shifts to the main party, still invisible and unable to hear each other on the boat.",
+    "Sylan notes they can still see a faint oily outline of Ord, which is fading.",
+    "Gerk remains confused and unable to act.",
+    "The party discusses cross-realm gold value and the possibility of exploiting Arch-realm trade against the lich.",
+    "Sylan notes the floating spectral door is now closed.",
+    "The DM confirms the ship is floating in place and otherwise back to normal aside from invisibility and silence.",
+    "Sylan writes detect magic on the floor with coins.",
+    "Sylan begins physically wrangling invisible Gerk to break the confusion effect.",
+    "Gerk grabs back and becomes slightly more lucid.",
+    "Gerk fails a wisdom save.",
+    "Gerk tries to swing Sylan around during the struggle.",
+    "Ciri watches the invisible chaos without being able to see it.",
+    "Ord determines he does not have detect magic prepared but does have dispel magic.",
+    "Ord casts See Invisibility while covered in oil.",
+    "Ord sees Gerk and Sylan wrestling near the closed spectral door, with Dana and confused crew nearby in silent motion.",
+    "Ord notices fading glowing lines and ghostly city figures where Gerk opened the portal.",
+    "Ord investigates the fading lines, but they are nearly gone by the time he arrives.",
+    "Ord steadies Sylan and Gerk with a persuasion check of 15.",
+    "Sylan uses a token of blind eye speech to whisper with Ord.",
+    "Gerk says he opened the door.",
+    "Gerk sees the shut floating spectral door behind him.",
+    "Gerk investigates the door with guidance and totals 18.",
+    "Gerk learns the spectral door is fake protective magic, not a real portal.",
+    "Gerk, Sylan, and Ord find their hands pass through the spectral door without effect.",
+    "Gerk wildly swings through the door to no avail.",
+    "Ord tries and fails to grasp the spectral doorknob.",
+    "The party debates using dispel magic and fears the ship could fall.",
+    "Ord proposes zone of truth as a truthful-ideas workaround.",
+    "Ord commits to casting dispel magic on the magical effect impeding sight and hearing, explicitly not on the boat.",
+    "Ord asks Gerk to create a replacement door as Doorman; Gerk refuses and briefly proposes leaving through a new magic door instead.",
+    "Sylan insists they must stay with the boat.",
+    "Sylan casts guidance on Ord.",
+    "Ord casts dispel magic on the magical effect impeding sight and hearing.",
+    "The dispel succeeds and the party regains sight and sound.",
+    "The crew reappear, confused after trying to communicate silently.",
+    "Gerk confirms the spectral door is still present but unusable.",
+    "The party congratulates Ord and jokes about him being covered in oil.",
+    "Sylan calls for a head count while the boat is still in flight.",
+    "All four crew members are found safe aboard.",
+    "Ciri is located hiding behind the mast or a barrel.",
+    "Sylan confirms Mikkel is not aboard the boat.",
+    "Sylan says Gerk caused the incident and offers Dana thirty minutes to investigate the spectral door.",
+    "The party skips waiting for Dana because she is absent and lacks investigative spells such as detect magic.",
+    "The party continues travel, pretending nothing happened.",
+    "The spectral door begins following Gerk and stays fixed on the ship as it moves.",
+    "Gerk fails to dismiss the door through physical, verbal, and performance attempts.",
+    "Sylan forbids Gerk from opening another door until they reach land.",
+    "Walker notes most of his wealth is back in Langdale and only about fourteen hundred gold is on his person.",
+    "Walker approaches Hanzuni at Haven Hold.",
+    "Hanzuni swims in his hoard and invites Glimmen to swim rather than addressing Walker first.",
+    "Glimmen dives into the hoard; Hanzuni remembers her as a hatchling and has forgotten Walker's name.",
+    "Walker reintroduces himself and asks after Quaylin.",
+    "Hanzuni reveals Quaylin's Sunder Chase wins and magical beak backstory.",
+    "Walker asks Hanzuni for something to help with his worsening daily exhaustion.",
+    "Hanzuni detects magical energy on Walker and mocks his mismatched star gem earrings.",
+    "Hanzuni offers a hoard gem trade; Walker refuses.",
+    "Hanzuni explains hoard magical items require a Sunder Chase to remove and suggests throwing a gauntlet.",
+    "Walker tries and fails to remove his golden hand; Hanzuni pulls off a plated gold replica instead.",
+    "Hanzuni returns the hand; Walker learns it weighs about thirty pounds and reattaches it.",
+    "Hanzuni clarifies Sunder Chase rules for selecting and keeping hoard treasure.",
+    "Walker asks to buy a potion of vitality; Hanzuni offers a gold loan instead.",
+    "Hanzuni proposes a quest-payment loan for twelve hundred gold: bring him an island crab."
+  ],
+  "openQuestions": [
+    "Has Walker been taught fire signals?",
+    "Does Walker know flag signaling?",
+    "What exactly caused Walker's gold hand?",
+    "Did Walker's gold hand originate at the Temple of I?",
+    "Should the party dispel the spectral door’s magic?",
+    "Will they use zone of truth to force truthful solution ideas?",
+    "Will dispel magic remove the spectral door’s effect?",
+    "Will Gerk open a door?",
+    "Where was Mikkel left?",
+    "What exactly happened to Gerk when he opened the door?",
+    "Where did we leave Mikkel?",
+    "What exactly happened to Gerk when he opened the door?",
+    "What would you say this gold hand is worth?"
+  ]
+}

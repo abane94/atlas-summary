@@ -1,0 +1,203 @@
+{
+    "plotSections": [
+        {
+            "title": "Invisible boat after the door closes",
+            "bullets": [
+                "With the spectral door closed, the ship floats in place and can list side to side but is otherwise back to normal except that the party remains invisible and unable to hear one another.",
+                "Sylan sees the closed floating spectral door and decides not to reopen it.",
+                "There is no ship log or ledger onboard unless a character carries writing materials."
+            ]
+        },
+        {
+            "title": "Sylan tries to break Gerk's confusion",
+            "bullets": [
+                "Sylan writes detect magic on the deck with coins, then physically wrangles the invisible Gerk to snap him out of the confusion effect.",
+                "Gerk feels accosted, grabs back, and becomes slightly more lucid enough to recognize his boat and a smaller person’s wrist.",
+                "Gerk fails a wisdom save with a natural 1.",
+                "Gerk tries to swing Sylan around, but Sylan wins an opposed strength contest when Gerk’s low roll becomes an effective 21.",
+                "Ciri watches the unseen struggle without being able to see it."
+            ]
+        },
+        {
+            "title": "Ord casts See Invisibility",
+            "bullets": [
+                "Ord, still outlined in oil from his dragon vessel, cannot communicate normally with the others.",
+                "Sylan asks whether the invisibility is magical; Ord does not have Detect Magic prepared but offers Dispel Magic instead.",
+                "Ord casts See Invisibility after covering himself in more oil.",
+                "The level-two divination lets Ord see invisible creatures and objects, including into the ethereal plane.",
+                "Ord now sees Gerk half dazed on the deck while Sylan wrestles and slaps him."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk mentions combining a cross-realm market with the party’s bank idea.",
+        "Sylan confirms the floating spectral door is closed.",
+        "The DM says the ship is floating in place and otherwise normal aside from invisibility and silence.",
+        "Sylan writes detect magic on the floor with coins.",
+        "Sylan escalates physical attempts to snap Gerk out of confusion.",
+        "Gerk grabs back and becomes slightly more lucid.",
+        "Gerk fails a wisdom save.",
+        "Gerk tries to swing Sylan around; Sylan wins the opposed strength contest.",
+        "Ciri watches the invisible chaos without seeing it.",
+        "Ord considers using magic to identify the effect.",
+        "Ord determines he does not have Detect Magic prepared but does have Dispel Magic.",
+        "Ord casts See Invisibility on himself.",
+        "Ord sees Gerk dazed on the deck wrestling with Sylan."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remains on the invisible, silent party boat under the confusion effect.",
+                "Feels accosted by unseen hands and grabs back, becoming slightly more lucid.",
+                "Fails a wisdom save with a natural 1.",
+                "Attempts to swing Sylan around but loses an opposed strength contest when his low roll becomes an effective 21.",
+                "Appears half asleep or dazed to Ord once See Invisibility is active."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Decides not to reopen the closed spectral door.",
+                "Writes detect magic on the deck with coins because the boat has no paper log.",
+                "Physically wrangles invisible Gerk in an escalating attempt to break the confusion effect.",
+                "Wins an opposed strength contest against Gerk.",
+                "Is seen by Ord wrestling and slapping Gerk once invisibility can be perceived."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remains on the invisible party boat while covered in oil from his dragon vessel.",
+                "Does not have Detect Magic prepared but does have Dispel Magic prepared.",
+                "Casts See Invisibility on himself after adding more oil.",
+                "Can now see invisible creatures and objects, including Gerk and Sylan wrestling on deck."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and Lith Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Stays on the boat watching the chaos without being able to see the invisible struggle."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "Remains closed and floating where the doorway was.",
+                "Sylan chooses not to reopen it now that the ship seems stabilized."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Confusion Effect": {
+            "existing": "A spell effect that leaves its victim confused and unable to act meaningfully.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Still afflicts Gerk despite Sylan’s physical attempts to shake him out of it.",
+                "Gerk fails a wisdom save with a natural 1 during the attempt."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "dragon vessel": {
+            "existing": "A dragon vessel that outlines Ord's invisible body with olive oil.",
+            "entityType": "ITEM",
+            "notes": [
+                "Ord is still covered in oil from the vessel.",
+                "He adds more oil on himself while casting See Invisibility."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "See Invisibility": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Level-two divination spell Ord casts on himself.",
+                "Lets him see invisible creatures and objects as if visible, including ghostly translucent forms on the ethereal plane."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "C invisibility / scene invisibility / sea invisibility",
+            "likely": "See Invisibility",
+            "notes": "Level-two divination Ord casts to perceive the invisible party."
+        },
+        {
+            "heard": "Gerg",
+            "likely": "Gerk",
+            "notes": "Strength-save exchange."
+        },
+        {
+            "heard": "Exam saw",
+            "likely": "strength save",
+            "notes": "Opposed roll between Sylan and Gerk."
+        },
+        {
+            "heard": "chitin of a bullet",
+            "likely": "chitin of a beetle",
+            "notes": "Description of Gerk’s bug-like armor."
+        },
+        {
+            "heard": "gold message",
+            "likely": "coin message",
+            "notes": "Sylan’s detect magic note written on the deck with coins."
+        },
+        {
+            "heard": "check magic",
+            "likely": "Detect Magic",
+            "notes": "Spell Sylan wanted Ord to use."
+        },
+        {
+            "heard": "spell magic radio",
+            "likely": "Identify",
+            "notes": "Sylan mentions having another identification spell but not knowing the effect type."
+        },
+        {
+            "heard": "hOrd porty boy",
+            "likely": "Ord",
+            "notes": "DM addressing Ord while he is covered in oil."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "See Invisibility",
+            "notes": [
+                "Level-two divination that lets Ord see invisible creatures and objects, including ethereal forms."
+            ]
+        }
+    ]
+}

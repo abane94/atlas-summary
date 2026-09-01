@@ -1,7 +1,9 @@
 {
   "name": "Sylan",
   "slug": "Sylan is a half-elf rogue and Gilbrick Gatekeeper who holds a keystone, a Navi-related journal, and a cautious bond with the Raven Queen.",
-  "tags": [],
+  "tags": [
+    "title"
+  ],
   "aliases": [],
   "filename": "entities/player/sylan.md",
   "description": "Sylan is a half-elf rogue and a Gatekeeper associated with Gilbrick. He possesses a handwritten journal containing information about the Navi, including their search for a surviving child and a plot against his family, and he remains cautious about the Navi and the Mother’s Prayer. Sylan accepted the Gilbrick keystone and was identified by Plymouth as a child of the lord of Gilbrick. He can interact with doorways through the keystone, though he has only experienced a brief sensation from it so far. Sylan can also see the mysterious white-flower girl and has committed to investigating her trail with the party. He has a connection to the Raven Queen, who considers him a talon of her order rather than a butcher and urged him to value what he has rather than focus on death. Sylan carefully records important guidance and has demonstrated caution in accepting further favors from the Raven Queen.",
@@ -75,6 +77,27 @@
         "Sylan experiments with physical interaction to determine Gerk's condition, including hitting and shaking him.",
         "Sylan uses coins as a communication medium, creating visible messages on the deck and marking Gerk's location."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "While the party remains aboard the invisible, silent boat, Sylan treats Walker's mind-link travel as a quick adventure and takes charge of the spectral-door crisis. He observes the closed floating door without reopening it, records detect magic on the deck with coins for lack of a paper log, and physically wrangles an invisible Gerk to break the confusion effect. Using a token of blind eye speech, he whispers with Ord, urges Gerk to investigate the door in his Doorman role, and casts guidance on both Gerk and Ord while cautioning that dispel magic is powerful but risky given past results. Sylan insists the boat is too important to abandon, organizes a head count when sight and sound return—finding all four crew but not Mikkel—and offers Dana time to study the door before deciding the party should proceed as if nothing happened. He then directs Gerk to dismiss the door with Doorman powers but forbids opening new doors until landfall, expecting Walker to message within about a day.",
+      "notes": [
+        "Remarks that Walker can travel by mind link without needing sight and frames the outing as a quick adventure.",
+        "Still on the invisible, silent party boat with the others.",
+        "Sees the closed floating spectral door and decides not to reopen it.",
+        "Writes detect magic on the deck with coins because the boat has no paper log.",
+        "Physically wrangles invisible Gerk in an escalating attempt to break the confusion effect.",
+        "Uses a token of blind eye speech to whisper with Ord and asks Gerk what he did.",
+        "Urges Gerk to investigate the door as Doorman and casts guidance on the investigation.",
+        "Warns that dispel magic is powerful but risky given the party's past results, then supports using it once alternatives seem exhausted.",
+        "Casts guidance on Ord before the dispel.",
+        "Insists the party cannot leave the boat because it is too important.",
+        "Organizes a head count after sight and sound return; all four crew are found but Mikkel is not aboard.",
+        "Offers Dana time to investigate the spectral door, then drops the wait when she is unavailable.",
+        "Decides the party should continue as if nothing happened.",
+        "Guides Gerk to try dismissing the door with his Doorman powers but forbids opening new doors until landfall.",
+        "Expects Walker to message within about a day."
+      ]
     }
   ],
   "openQuestions": [
@@ -84,7 +107,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:02:08.336Z",
-  "updatedAt": "2026-08-21T17:36:47.015Z",
+  "updatedAt": "2026-09-01T18:29:09.760Z",
   "normalizedAliases": [
     "sylan"
   ]

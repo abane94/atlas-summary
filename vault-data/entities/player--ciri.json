@@ -1,7 +1,9 @@
 {
   "name": "Ciri",
   "slug": "Ciri is a half-elf rogue connected to the Great Eldarin Tree and keeper of Lith's keystone, using stealth and teleportation.",
-  "tags": [],
+  "tags": [
+    "title"
+  ],
   "aliases": [],
   "filename": "entities/player/ciri.md",
   "description": "Ciri is a half-elf rogue who is connected to the Great Eldarin Tree and serves as the keeper of the Lith keystone. She is capable of using stealth and teleportation to conceal her presence and move unexpectedly. Ciri’s connection to Lith places her in a realm that culturally rejects magic despite containing supernatural phenomena, making her powers potentially strange or unsettling to its inhabitants. Her role as Lith’s protector may lead her to become part of the realm’s history and folklore, potentially remembered as a witch or other supernatural figure.",
@@ -34,12 +36,21 @@
         "Ciri successfully made physical contact with Sylan, confirming that unseen people can still be physically encountered.",
         "Ciri can perceive certain physical interactions despite the party's inability to see one another normally."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "While Walker is away, Ciri handles mind-link communication more reliably than he does, though she notes such contact may fall out of range without a spell. She stays aboard the invisible, silent party boat as the spectral-door crisis unfolds, unable to see the invisible struggle around her. During Sylan's head count she hides behind the mast or a barrel before eventually being accounted for with the rest of the party.",
+      "notes": [
+        "Uses mind-link communication better than Walker while he is away; mind chat may be out of range without a spell.",
+        "Remains on the invisible party boat watching the chaos without being able to see the invisible struggle.",
+        "Hides behind the mast or a barrel during the head count and is eventually accounted for."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:50:08.559Z",
-  "updatedAt": "2026-08-21T17:55:25.715Z",
+  "updatedAt": "2026-09-01T18:29:19.599Z",
   "normalizedAliases": [
     "ciri"
   ]

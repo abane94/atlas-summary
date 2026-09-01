@@ -1,0 +1,281 @@
+{
+    "plotSections": [
+        {
+            "title": "Walker's gold hand and departure",
+            "bullets": [
+                "Walker tells Quaylin he turned his hand gold by putting it into cold molten-looking water while swimming underwater, with no loon folk nearby.",
+                "He tested only his hand because he panicked and thought he had lost it.",
+                "Quaylin compares the result to a Midas-like alchemical process.",
+                "Plymouth confirms he secured several pounds of dragon gizzard.",
+                "Walker leaves Qualin's Quax to seek funds from the Haven Hold dragon; Quaylin says potions may go on sale later."
+            ]
+        },
+        {
+            "title": "Invisible party on the boat",
+            "bullets": [
+                "After Walker’s scene pauses, the main party remains invisible on the boat and still cannot hear one another.",
+                "Closing the door left the ship floating in place; the boat can list side to side but is otherwise back to normal except for the invisibility and silence.",
+                "Ord’s oily dragon-vessel outline is still faintly visible but has mostly dissipated.",
+                "A floating spectral door remains closed where the doorway was.",
+                "Gerk is still confused and largely unable to act normally."
+            ]
+        },
+        {
+            "title": "Cross-realm economics",
+            "bullets": [
+                "Gerk asks whether gold has the same value across Atlas’s realms.",
+                "The DM confirms exchange differences exist and notes the party has access to six of eight Arch realms.",
+                "The party could theoretically create a cross-realm market and exploit foreknowledge of keystone door openings to cause economic hardship against the lich.",
+                "Gerk jokingly names the market The Gerkin."
+            ]
+        },
+        {
+            "title": "Sylan tries to snap Gerk out of confusion",
+            "bullets": [
+                "Sylan decides against reopening the spectral door now that the ship seems stabilized.",
+                "With no ship paper available, Sylan writes detect magic on the floor using coins.",
+                "Sylan physically wrangles the invisible Gerk by slapping, grabbing, and shaking him under his chitin armor.",
+                "Gerk feels accosted, grabs back, and becomes slightly more lucid enough to recognize his boat and a smaller person’s wrist in his grip.",
+                "Gerk fails a wisdom save and then tries to swing Sylan around.",
+                "In a strength contest Gerk wins with an effective 21, and Sylan cannot budge him.",
+                "Ciri watches the invisible struggle without being able to see what is happening."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker finishes explaining his gold hand to Quaylin.",
+        "Plymouth confirms he bought several pounds of dragon gizzard.",
+        "Walker leaves Qualin's Quax to negotiate with the Haven Hold dragon.",
+        "The scene shifts to the main party, still invisible and unable to hear each other on the boat.",
+        "The party confirms Ord’s oily outline is fading and Gerk remains confused.",
+        "The group discusses cross-realm gold values and the idea of a keystone-based stock market against the lich.",
+        "Sylan notes the floating spectral door is now closed.",
+        "The DM confirms the ship is floating in place and otherwise back to normal aside from invisibility and silence.",
+        "Sylan writes detect magic on the floor with coins.",
+        "Sylan begins physically wrangling invisible Gerk to break the confusion effect.",
+        "Gerk grabs back and becomes slightly more lucid.",
+        "Gerk fails a wisdom save.",
+        "Gerk tries to swing Sylan around; Sylan wins the strength contest on Gerk’s side with a 21 and cannot be moved.",
+        "Ciri watches the unseen chaos."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Explains his gold hand came from putting his hand into cold molten-looking water while swimming underwater.",
+                "Only his hand was affected because he panicked.",
+                "Leaves Qualin's Quax to seek a loan from the Haven Hold dragon."
+            ],
+            "titles": [],
+            "personality": [
+                "Sometimes acts first and thinks later when curious."
+            ],
+            "quotesThemes": [
+                "Of course I put my hand in it because it was cold molten stuff."
+            ],
+            "openQuestions": []
+        },
+        "Quaylin": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Hears Walker’s full gold-hand story.",
+                "Confirms Plymouth bought several pounds of dragon gizzard.",
+                "Tells Walker he may come back later when potions might be on sale."
+            ],
+            "titles": [],
+            "personality": [
+                "Strongly dislikes loon folk."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the new keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Secured several pounds of dragon gizzard at Qualin's Quax.",
+                "Previously signaled Walker not to discuss the gold hand further in the shop."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remains on the invisible, silent party boat under the confusion effect.",
+                "Feels accosted by unseen hands as Sylan tries to shake him back to lucidity.",
+                "Grabs back, becomes slightly more lucid, and recognizes his boat plus a smaller person’s wrist in his hand.",
+                "Fails a wisdom save.",
+                "Wins a strength contest with an effective 21 and cannot be moved or swung successfully by Sylan."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sees the closed floating spectral door and decides not to reopen it.",
+                "Writes detect magic on the boat floor using coins because there is no ship paper or log onboard.",
+                "Physically wrangles invisible Gerk to break the confusion effect.",
+                "Loses a strength contest against Gerk despite grabbing him under his armor."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remains on the invisible party boat.",
+                "His oily dragon-vessel outline is still faintly visible but has mostly dissipated."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and Lith Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remains on the invisible party boat watching the chaos.",
+                "Cannot see the invisible struggle between Sylan and Gerk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "Now appears as a closed floating spectral door where the doorway was.",
+                "Sylan had planned to open it again but decides against it after the ship stabilizes."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Confusion Effect": {
+            "existing": "A spell effect that leaves its victim confused and unable to act meaningfully.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Still afflicts Gerk on the boat.",
+                "Sylan’s physical wrangling only partially improves Gerk’s lucidity.",
+                "Gerk fails a wisdom save during the attempt to shake him out of it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lich": {
+            "existing": "An unidentified lich whose phylactery may be hidden among his chess pieces.",
+            "entityType": "NPC",
+            "notes": [
+                "The DM says the party could use cross-realm trade and keystone door timing as insider knowledge to cause economic hardship against the lich."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas’s Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "The party currently has access to six of Atlas’s eight Arch realms, enough to manipulate inter-realm trade if they choose."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Quaylon",
+            "likely": "Quaylin",
+            "notes": "Walker addressing the shopkeeper on departure."
+        },
+        {
+            "heard": "hoodloon folks",
+            "likely": "loon folk",
+            "notes": "Discussion of the aquatic people Quaylin hates."
+        },
+        {
+            "heard": "Loonzah",
+            "likely": "loon folk",
+            "notes": "Same conversation."
+        },
+        {
+            "heard": "nick ix nay on the ix",
+            "likely": "nix on the topic",
+            "notes": "Plymouth silencing Walker about his gold hand."
+        },
+        {
+            "heard": "mightiest touch",
+            "likely": "Midas touch",
+            "notes": "Quaylin comparing flesh-to-gold transformation."
+        },
+        {
+            "heard": "Ordr",
+            "likely": "Ord",
+            "notes": "Oily invisible outline on the boat."
+        },
+        {
+            "heard": "litch",
+            "likely": "lich",
+            "notes": "Target of possible economic manipulation."
+        },
+        {
+            "heard": "Gerg",
+            "likely": "Gerk",
+            "notes": "Strength-save exchange."
+        },
+        {
+            "heard": "Exam saw",
+            "likely": "strength save",
+            "notes": "Opposed roll between Sylan and Gerk."
+        },
+        {
+            "heard": "chitin of a bullet",
+            "likely": "chitin of a beetle",
+            "notes": "Description of Gerk’s bug-like armor."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Loon folk",
+            "notes": [
+                "Aquatic people Quaylin despises.",
+                "Said to be biologically inferior, unable to walk on land, and prone to trapping themselves in shallow puddles."
+            ]
+        },
+        {
+            "name": "The Gerkin",
+            "notes": [
+                "Joking name Gerk proposes for a cross-realm stock market using the party’s keystone access."
+            ]
+        },
+        {
+            "name": "Cross-realm trade manipulation",
+            "notes": [
+                "With access to six of eight Arch realms, the party could exploit door-opening timing for economic leverage against the lich."
+            ]
+        }
+    ]
+}

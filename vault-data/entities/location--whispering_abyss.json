@@ -1,6 +1,8 @@
 {
   "name": "Whispering Abyss",
-  "tags": [],
+  "tags": [
+    "landmark"
+  ],
   "slug": "A location near where the party previously emerged from the arch.",
   "aliases": [],
   "normalizedAliases": [
@@ -17,10 +19,17 @@
         "The party recalls that their previous use of the arch brought them out near the Whispering Abyss.",
         "The training grounds are described as about five days of flight from the Whispering Abyss."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Walker and Plymouth emerge at the Whispering Abyss when Walker activates his portal cube to begin their side excursion into The Reach, reusing a familiar arch-adjacent exit point from prior travel.",
+      "notes": [
+        "Walker and Plymouth pop out here when Walker uses his portal cube."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:25:05.906Z",
-  "updatedAt": "2026-08-21T18:25:05.906Z"
+  "updatedAt": "2026-09-01T18:28:23.102Z"
 }

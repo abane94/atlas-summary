@@ -1,0 +1,30 @@
+{
+  "name": "Qualin's Quax",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "Doubly punned Sunder apothecary run by Quaylin",
+  "aliases": [],
+  "normalizedAliases": [
+    "qualins quax"
+  ],
+  "filename": "entities/location/qualin__s_quax.md",
+  "description": "Qualin's Quax is a small Sunder apothecary shop with a doubly punned name, run by Quaylin. It smells of thyme, oleander, earthy root, and citrus, and sells dragon gizzard by the pound, potions of vitality, and other alchemical goods. Purchases come with the Quax guarantee.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Plymouth leads Walker to Qualin's Quax during their Sunder detour. Plymouth negotiates several pounds of dragon gizzard at five gold per pound while Walker, failing a perception check inside the shop, becomes fixated on Quaylin's heirloom gem and is too exhausted to afford twelve-hundred-gold potions of vitality. Quaylin tests Walker's gold hand with a pestle and advises borrowing cash from the Haven Hold dragon.",
+      "notes": [
+        "Small Sunder apothecary shop with a doubly punned name.",
+        "Smells of thyme, oleander, earthy root, and citrus.",
+        "Sells dragon gizzard by the pound, potions of vitality, and other alchemical goods.",
+        "Offers the Quax guarantee on purchases."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:33:04.063Z",
+  "updatedAt": "2026-09-01T18:33:04.063Z"
+}

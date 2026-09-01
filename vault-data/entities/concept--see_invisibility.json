@@ -1,0 +1,29 @@
+{
+  "name": "See Invisibility",
+  "tags": [
+    "spell"
+  ],
+  "slug": "Level-two divination spell that reveals the invisible",
+  "aliases": [],
+  "normalizedAliases": [
+    "see invisibility"
+  ],
+  "filename": "entities/concept/see_invisibility.md",
+  "description": "See Invisibility is a level-two divination spell that lets the caster see invisible creatures and objects, including ghostly translucent forms on the ethereal plane.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Ord casts See Invisibility on himself aboard the invisible, silent boat after adding more oil from his dragon vessel. The spell lets him perceive the full hidden scene, including Gerk, Sylan, Dana, the crew, the spectral door, and fading portal residue, though it does not by itself end the party's suppressed sight and hearing.",
+      "notes": [
+        "Level-two divination spell Ord casts on himself.",
+        "Lets him see invisible creatures and objects, including ghostly translucent forms on the ethereal plane.",
+        "Lets Ord perceive the full silent scene on the boat."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:33:35.054Z",
+  "updatedAt": "2026-09-01T18:33:35.054Z"
+}

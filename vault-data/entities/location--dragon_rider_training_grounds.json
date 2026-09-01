@@ -1,6 +1,8 @@
 {
   "name": "Dragon Rider Training Grounds",
-  "tags": [],
+  "tags": [
+    "landmark"
+  ],
   "slug": "Dragon Rider guild training grounds near the Lost Isles",
   "aliases": [],
   "normalizedAliases": [
@@ -20,6 +22,15 @@
         "The expedition is traveling there to investigate clues connected to Grixto and Galixtar.",
         "The grounds were associated with the Dragon Rider guild that Elrus and Araden belonged to."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Session travel planning refines the Dragon Rider Training Grounds' placement within The Reach: they sit on the largest unnamed island in the relevant hex, positioned between the Lost Islands, Camp Two, and the Howling tunnels. Walker, Elrus, and Plymouth aim for the site after entering The Reach near the Whispering Abyss, with Sunder as a planned detour first. Under the session's agreed travel time, the grounds lie about five days of dragon flight from the Whispering Abyss.",
+      "notes": [
+        "Located on the largest unnamed island in the relevant Reach hex, between the Lost Islands, Camp Two, and the Howling tunnels.",
+        "About five days of dragon flight from the Whispering Abyss under the travel time agreed in session.",
+        "Remains Walker's destination after a planned stop in Sunder."
+      ]
     }
   ],
   "openQuestions": [
@@ -27,5 +38,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:28:00.057Z",
-  "updatedAt": "2026-08-21T18:28:00.057Z"
+  "updatedAt": "2026-09-01T18:28:12.505Z"
 }

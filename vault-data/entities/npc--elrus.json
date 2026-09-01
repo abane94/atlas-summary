@@ -27,6 +27,18 @@
         "Elrus accompanies Walker to the Reach to investigate the Dragon Rider training grounds.",
         "Before departing, Elrus wishes the party fruitful ventures and hopes that their next meeting will allow them to vanquish their common foe."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Elrus travels with Walker and Plymouth toward the Dragon Rider training grounds, having earlier advised that dragon flight from Last Word Chasm to the site takes about five days. He cannot relieve Walker's daily exhaustion, avoids supply runs in Sunder, and helps teach Walker rudimentary fire signals before the group splits. Elrus then flies into the mountains with Araden, planning to rendezvous with the others later.",
+      "notes": [
+        "Previously told Walker that flight from Last Word Chasm to the training grounds takes about five days.",
+        "Is traveling with Walker and Plymouth on the flight toward the training grounds.",
+        "Cannot cure Walker's daily exhaustion.",
+        "Dislikes frequenting Sunder and declines supply purchases.",
+        "Helps teach Walker rudimentary fire signals before splitting off.",
+        "Flies to the mountains with Araden to rendezvous later."
+      ]
     }
   ],
   "openQuestions": [
@@ -34,5 +46,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:09:04.587Z",
-  "updatedAt": "2026-08-21T18:09:04.587Z"
+  "updatedAt": "2026-09-01T18:28:45.424Z"
 }

@@ -49,12 +49,21 @@
         "Time in the Reach appears to pass at a different rate, with the party describing one day outside as roughly seven days there.",
         "The Reach contains or provides access to the Dragon Rider training grounds."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "During Walker's side excursion, The Reach serves as the active travel backdrop: his portal cube places him on the realm map near the Whispering Abyss, from which he plans dragon flight toward the Dragon Rider training grounds in a hex containing the Lost Islands, Camp Two, and the Howling tunnels. The outing is scoped as a forty-nine-day stay within the realm, with daily dragon-energy expenditure expected to cause accumulating exhaustion unless Walker alters course.",
+      "notes": [
+        "Walker's portal exit places him on the Reach map near the Whispering Abyss.",
+        "The training guild destination lies in a hex containing the Lost Islands, Camp Two, and the Howling tunnels.",
+        "Walker's current excursion is planned as a 49-day stay with daily exhaustion from dragon-energy use."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:15:16.227Z",
-  "updatedAt": "2026-08-21T17:34:12.163Z",
+  "updatedAt": "2026-09-01T18:28:34.253Z",
   "normalizedAliases": [
     "reach"
   ]

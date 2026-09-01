@@ -1,0 +1,235 @@
+{
+    "plotSections": [
+        {
+            "title": "Sight and sound restored",
+            "bullets": [
+                "Ord’s dispel magic removes the effect blocking the party’s ability to see and hear.",
+                "Everyone aboard can see and hear again, including the confused crew.",
+                "The spectral door remains floating in the sky, but the party still cannot use it.",
+                "The party praises Ord for ending the effect."
+            ]
+        },
+        {
+            "title": "Head count on the flying boat",
+            "bullets": [
+                "Sylan calls for a head count to make sure no one fell off during the muted invisible episode.",
+                "All four named crew members are found aboard and none jumped or fell off.",
+                "Ciri is hiding behind the mast or a barrel and is eventually accounted for.",
+                "Walker is not on the boat; he is away on his separate Sunder excursion.",
+                "Mikkel the spymaster is not aboard, continuing the running problem of the party leaving without him."
+            ]
+        },
+        {
+            "title": "Aftermath of Gerk’s doorway",
+            "bullets": [
+                "Sylan says Gerk caused the situation and they need to figure out what happened to him.",
+                "Gerk keeps his distance from Sylan and asks Ord to stand nearby instead.",
+                "The party agrees not to open doors on moving things again.",
+                "Gerk retests the spectral door and confirms it still does nothing."
+            ]
+        },
+        {
+            "title": "Moving on",
+            "bullets": [
+                "Sylan gives Dana about thirty minutes to investigate the spectral door if she wants.",
+                "If Dana does not care to study it, the party plans to leave the floating portal behind and continue the journey.",
+                "The group discusses giving Mikkel better ways to rejoin the boat, such as a sending stone or teleportation tunnel."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord’s dispel magic restores sight and sound for the party and crew.",
+        "Gerk asks whether the spectral door disappeared; it remains unusable in the sky.",
+        "The party congratulates Ord and jokes about him being covered in oil.",
+        "Sylan calls for a head count while the boat is still in flight.",
+        "All four crew members are found safe aboard.",
+        "Ciri is located hiding behind the mast or a barrel.",
+        "Sylan confirms Mikkel is not aboard the boat.",
+        "Sylan says Gerk caused the incident and they need to understand what happened.",
+        "Sylan offers Dana thirty minutes to investigate the spectral door.",
+        "The party agrees to leave the portal behind and continue unless Dana finds reason to stay."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "His dispel magic successfully ends the party’s invisibility and silence.",
+                "Remains covered in oil from his dragon vessel.",
+                "Gerk asks him to stand nearby instead of Sylan while tempers settle."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is blamed for causing the doorway incident on the moving boat.",
+                "Retests the spectral door and confirms it still does nothing.",
+                "Accepts the lesson not to open doors on moving things.",
+                "Suggests giving Mikkel a teleportation tunnel or other way back to the boat."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "Good job, Ord."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Organizes a head count after sight and sound return.",
+                "Finds all four crew members but not Mikkel.",
+                "Gives Dana thirty minutes to investigate the spectral door if she wants.",
+                "Plans to leave the floating portal behind and continue travel."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan gives her about thirty minutes to investigate the spectral door because she may be the only one who can understand it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and Lith Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Hides behind the mast or a barrel during the head count.",
+                "Is eventually accounted for on the boat."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is not on the boat during the head count; he is away on his Sunder side trip."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "Remains floating in the sky after the dispel.",
+                "Still cannot be used as a functional door.",
+                "Dana is offered time to investigate it before the party moves on."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mikkel": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Spymaster associated with the crew.",
+                "Is not aboard the boat again when the party checks.",
+                "The party has a recurring problem of departing without verifying he is onboard."
+            ],
+            "titles": [
+                "Spymaster"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Where was Mikkel left?"
+            ]
+        },
+        "Abel": {
+            "existing": "Surviving-and-revived crew member and the boat's helmsman.",
+            "entityType": "NPC",
+            "notes": [
+                "Is confirmed safe aboard with the other crew after the dispel."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Opening a doorway on the moving boat caused the invisibility and silence effect.",
+                "The party agrees not to open doors on moving things again."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Lord",
+            "likely": "Ord",
+            "notes": "Gerk praising the paladin after the dispel."
+        },
+        {
+            "heard": "Sylance",
+            "likely": "silence",
+            "notes": "Effect dispelled alongside invisibility."
+        },
+        {
+            "heard": "spell magic",
+            "likely": "dispel magic",
+            "notes": "Ord casting the spell."
+        },
+        {
+            "heard": "Sylant / Silid",
+            "likely": "Sylan",
+            "notes": "Head-count and dispel planning."
+        },
+        {
+            "heard": "Mikhail",
+            "likely": "Mikkel",
+            "notes": "Missing spymaster crew member."
+        },
+        {
+            "heard": "too informing",
+            "likely": "too important",
+            "notes": "Why the party cannot leave the boat."
+        },
+        {
+            "heard": "UK",
+            "likely": "Ord",
+            "notes": "Gerk joking about sharing a chaos god."
+        }
+    ],
+    "openQuestions": [
+        "Where was Mikkel left?",
+        "What exactly happened to Gerk when he opened the door?"
+    ],
+    "newTerms": [
+        {
+            "name": "Mikkel",
+            "notes": [
+                "Crew spymaster who is frequently left behind when the boat departs."
+            ]
+        }
+    ]
+}

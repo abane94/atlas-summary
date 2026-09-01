@@ -1,0 +1,31 @@
+{
+  "name": "Potion of vitality",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Fuchsia potion that removes exhaustion and cures poison",
+  "aliases": [],
+  "normalizedAliases": [
+    "potion of vitality"
+  ],
+  "filename": "entities/item/potion_of_vitality.md",
+  "description": "A potion of vitality is a fuchsia-toned potion resembling a greater healing potion. It removes all exhaustion from a long day of adventuring, cures poison and similar ailments such as snake bites or basilisk effects, and improves healing on the next short rest. At Qualin's Quax it costs twelve hundred gold apiece; four remain in stock.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Plymouth recommends a potion of vitality—or greater restoration—for Walker's worsening daily exhaustion during the Sunder stop. Walker cannot afford the twelve-hundred-gold price at Qualin's Quax and is too exhausted to haggle, so he instead seeks a loan or affordable relief from Hanzuni at Haven Hold.",
+      "notes": [
+        "Fuchsia-toned potion resembling a greater healing potion.",
+        "Removes all exhaustion from a long day of adventuring.",
+        "Also cures poison and similar ailments such as snake bites or basilisk effects.",
+        "Improves healing on the next short rest.",
+        "Costs twelve hundred gold apiece at Qualin's Quax; four remain in stock."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:33:13.752Z",
+  "updatedAt": "2026-09-01T18:33:13.752Z"
+}

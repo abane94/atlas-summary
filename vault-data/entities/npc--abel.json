@@ -19,10 +19,18 @@
         "One of the party's four surviving-and-revived crew members.",
         "Serves as the boat's helmsman."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "During the invisible-boat crisis, Abel is one of two confused crew members Ord sees silently wandering the deck once See Invisibility reveals them. After Ord's dispel magic restores sight and sound, Sylan's head count confirms Abel is safe aboard with the other crew.",
+      "notes": [
+        "Visible to Ord as one of two confused crew members silently wandering the deck.",
+        "Is confirmed safe aboard with the other crew after the dispel."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:02:38.608Z",
-  "updatedAt": "2026-08-21T18:02:38.608Z"
+  "updatedAt": "2026-09-01T18:31:37.966Z"
 }

@@ -1,0 +1,368 @@
+{
+    "plotSections": [
+        {
+            "title": "Exhaustion plan and remedies",
+            "bullets": [
+                "Walker commits to 49 days at five dragon energy per day, totaling 245 energy and one exhaustion level per day for his entire Reach stay.",
+                "The DM confirms he will have disadvantage on ability checks throughout the trip unless he changes course.",
+                "Dragon-rider exhaustion has no easy cure except labor-intensive potions or cleric/paladin magic; Dana and Ord are not with him.",
+                "Elrus cannot cure Walker’s exhaustion daily.",
+                "Nicotine can help short-term but causes severe withdrawal without supply; Walker makes a mental note to acquire it after giving up alcohol."
+            ]
+        },
+        {
+            "title": "Detour to Sunder and group split",
+            "bullets": [
+                "Walker plans to fly with Elrus and Plymouth toward the training grounds, routing over Sunder to shop for exhaustion relief.",
+                "The DM agrees Sunder may carry exhaustion potions and other rare supplies.",
+                "Elrus declines supplies, says he dislikes frequenting Sunder, and will meet Walker in the mountains with Araden.",
+                "Plymouth flies into Sunder with Walker while Elrus and Araden head for the mountains."
+            ]
+        },
+        {
+            "title": "Communication while separated",
+            "bullets": [
+                "Walker tells Ciri mind-link communication is open, though the DM notes mind chat is likely out of range without a spell.",
+                "Elrus’s dragon could use fire bursts as a signal.",
+                "Elrus and Plymouth teach Walker rudimentary fire signals equivalent to SOS: several short flame bursts, one long burst, then several short bursts.",
+                "Walker has not learned full fire or flag signaling; he can now recognize basic SOS and a few simple flag communique, but not as a proficiency.",
+                "Dragon-rider guild flags exist for ground observers to signal riders, not for riders to signal others."
+            ]
+        },
+        {
+            "title": "Arrival in Sunder",
+            "bullets": [
+                "Sunder is a floating amalgamation of towers and islands in The Reach.",
+                "Named districts include Haven Hold at the center, the Bronze Palace, the Bronze Arena, Miss Mary’s, the docks, the Prancing Fox, and Louise Casino.",
+                "The Haven likely has exhaustion potions and magic items, some tied to completing another Sunder Chase circuit.",
+                "A dragon’s hoard serves as Haven Hold’s hoard, enchanted by Benji and that dragon so racers may pick from it before running the circuit.",
+                "The dock quarter has shops; Calypso runs a vending operation that drifts between Miss Mary’s and the dock corridor.",
+                "On landing, Walker draws fewer stares than usual for a dragon rider; the docks teem with griffins, giant eagles, flying ships, and a diverse market crowd.",
+                "Plymouth is eager to visit several areas he has been eyeing."
+            ]
+        },
+        {
+            "title": "Shopping goals",
+            "bullets": [
+                "Walker wants potions or magic items to offset daily exhaustion, with nicotine as a fallback.",
+                "Plymouth seeks horn root, powdered dragon scale, wet alchemical items, and a dragon gizzard for spell components.",
+                "Plymouth says greater restoration can cure exhaustion effects and a rare potion of vitality can remove all exhaustion-related ailments, though both are expensive in Sunder.",
+                "They run Plymouth’s street-vendor errands first, then enter an apothecary that may have potions for Walker and gizzard for Plymouth."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker finalizes spending 245 dragon energy over 49 days at one exhaustion level per day.",
+        "The DM confirms Walker will operate at disadvantage on ability checks for his Reach stay.",
+        "The DM explains exhaustion remedies are limited to potions or cleric/paladin aid.",
+        "Walker learns Elrus cannot cure his daily exhaustion.",
+        "The DM describes nicotine as a short-term aid with harsh withdrawal; Walker notes he should get nicotine.",
+        "Walker commits to the exhaustion plan and prepares to fly with Elrus and Plymouth.",
+        "Walker proposes a detour stop in Sunder for exhaustion potions and supplies.",
+        "Elrus declines supplies, says he dislikes visiting Sunder often, and agrees to meet in the mountains.",
+        "Walker offers Elrus jerky and salt leaf; Elrus declines.",
+        "Walker opens mind-link communication with Ciri for the separated group.",
+        "Elrus and Plymouth teach Walker basic SOS fire signals and simple flag recognition.",
+        "Elrus and Araden fly to the mountains; Plymouth accompanies Walker into Sunder.",
+        "Walker and Plymouth arrive in the floating city of Sunder.",
+        "The DM describes Sunder’s districts, the Haven Hold dragon hoard prize tied to Sunder Chase, and Calypso’s vending route.",
+        "Walker and Plymouth discuss their separate shopping goals.",
+        "Plymouth recommends greater restoration or a rare potion of vitality for exhaustion.",
+        "They shop street vendors for Plymouth’s ingredients, then enter an apothecary."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Plans 49 days in The Reach at five dragon energy per day, accepting one exhaustion level daily.",
+                "Is roleplaying cumulative tiredness from expending energy into his magical gems.",
+                "Seeks potions or magic items in Sunder to offset exhaustion, with nicotine as a backup plan.",
+                "Learns basic SOS fire signals and simple flag-communique recognition, but not as a proficiency.",
+                "Usually relies on mind messages from Dana rather than traditional dragon-rider signaling."
+            ],
+            "titles": [],
+            "personality": [
+                "Pragmatic about enduring exhaustion for the mission.",
+                "Recently gave up alcohol and is looking for a replacement vice."
+            ],
+            "quotesThemes": [
+                "Mental note. Get nicotine.",
+                "I'm here for items or potions or anything to help me with just being tired."
+            ],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the new keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Flies into Sunder with Walker while Elrus and Araden head for the mountains.",
+                "Wants horn root, powdered dragon scale, wet alchemical items, and a dragon gizzard for spell components.",
+                "Knows Sunder’s market well enough to lead Walker through street vendors to an apothecary.",
+                "Recommends greater restoration or a rare potion of vitality for Walker’s exhaustion."
+            ],
+            "titles": [],
+            "personality": [
+                "Talkative and eager in the Sunder market.",
+                "Knowledgeable about alchemical supplies and exhaustion remedies."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Cannot cure Walker’s daily exhaustion.",
+                "Dislikes frequenting Sunder and declines supply purchases.",
+                "Helps teach Walker rudimentary fire signals before splitting off.",
+                "Flies to the mountains with Araden to rendezvous later."
+            ],
+            "titles": [],
+            "personality": [
+                "Reluctant to visit Sunder."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Flies with Elrus to the mountains while Walker and Plymouth enter Sunder."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "A floating amalgamation of towers and islands in The Reach.",
+                "Contains Haven Hold, the Bronze Palace, the Bronze Arena, Miss Mary’s, the docks, the Prancing Fox, and Louise Casino.",
+                "Has shops with rare supplies including possible exhaustion potions, horn root, dragon scale powder, and dragon gizzard.",
+                "Some magic items require investigative work and completing another Sunder Chase circuit to obtain."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder Chase": {
+            "existing": "A summer seasonal event.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Completing another circuit of the Sunder Chase may be required to obtain certain magic items in the Haven.",
+                "Haven Hold’s dragon hoard is set up as a pre-race prize pick before running the circuit."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Benji": {
+            "existing": "Benji is familiar with The Reach and may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "Worked with the Haven Hold dragon to enchant its hoard as the penultimate Sunder Chase prize."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Calypso": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Named vendor in Sunder with a floating vending operation.",
+                "Drifts between Miss Mary’s and the dock corridor.",
+                "The party has had slight prior interactions with her."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and Lith Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Uses mind-link communication better than Walker while he is away.",
+                "Stays in contact with the separated group; mind chat may be out of range without a spell."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Not present with Walker; her cleric magic could help with exhaustion.",
+                "Walker usually receives short mind messages from her while flying rather than using flags or fire signals."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Disability",
+            "likely": "Disadvantage",
+            "notes": "DM describing level-one exhaustion."
+        },
+        {
+            "heard": "clOrdal",
+            "likely": "clerical",
+            "notes": "DM referring to cleric magic for exhaustion relief."
+        },
+        {
+            "heard": "Sunderland / Sunda",
+            "likely": "Sunder",
+            "notes": "Floating Reach city Walker detours to."
+        },
+        {
+            "heard": "Gilwater",
+            "likely": "Plymouth Gawater",
+            "notes": "DM narrating who flies into Sunder with Walker."
+        },
+        {
+            "heard": "HavenhOrd",
+            "likely": "Haven Hold",
+            "notes": "Central district of Sunder with the dragon hoard."
+        },
+        {
+            "heard": "Prancine Fox",
+            "likely": "Prancing Fox",
+            "notes": "Named Sunder district."
+        },
+        {
+            "heard": "Moller's code",
+            "likely": "Morse code",
+            "notes": "DM comparing fire-signal SOS pattern."
+        },
+        {
+            "heard": "mine chat",
+            "likely": "mind chat",
+            "notes": "Mind-link communication between separated party members."
+        },
+        {
+            "heard": "All radin",
+            "likely": "Elrus's dragon",
+            "notes": "Suggested fire-burst signaling method."
+        },
+        {
+            "heard": "Rayodon / Rayden",
+            "likely": "Elrus",
+            "notes": "Garbled name during Sunder supply conversation."
+        },
+        {
+            "heard": "hOrd",
+            "likely": "hoard",
+            "notes": "Dragon treasure tied to Haven Hold and Sunder Chase."
+        },
+        {
+            "heard": "gast sending",
+            "likely": "cast Sending",
+            "notes": "DM on magical long-distance communication."
+        },
+        {
+            "heard": "z z euro in",
+            "likely": "zero in",
+            "notes": "Plymouth focusing on market areas he wants to visit."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Sunder",
+            "notes": [
+                "Floating Reach city of towers and islands with major market districts and rare alchemical goods."
+            ]
+        },
+        {
+            "name": "Haven Hold",
+            "notes": [
+                "Central Sunder district housing a dragon hoard enchanted as a Sunder Chase prize."
+            ]
+        },
+        {
+            "name": "Bronze Palace",
+            "notes": [
+                "Named district or landmark in Sunder."
+            ]
+        },
+        {
+            "name": "Bronze Arena",
+            "notes": [
+                "Named district or landmark in Sunder, likely tied to Sunder Chase events."
+            ]
+        },
+        {
+            "name": "Miss Mary's",
+            "notes": [
+                "Named Sunder location near Calypso's vending route."
+            ]
+        },
+        {
+            "name": "Prancing Fox",
+            "notes": [
+                "Named Sunder district."
+            ]
+        },
+        {
+            "name": "Louise Casino",
+            "notes": [
+                "Named Sunder location."
+            ]
+        },
+        {
+            "name": "Calypso",
+            "notes": [
+                "Named Sunder vendor with a floating vending operation between Miss Mary's and the dock corridor."
+            ]
+        },
+        {
+            "name": "Fire signals",
+            "notes": [
+                "Dragon-rider distress communication using flame bursts; Walker learned an SOS equivalent."
+            ]
+        },
+        {
+            "name": "Flag signaling",
+            "notes": [
+                "Non-magical ground-to-rider communication; guild flags are for observers to signal dragon riders."
+            ]
+        },
+        {
+            "name": "Horn root",
+            "notes": [
+                "Alchemical ingredient Plymouth seeks in Sunder and has not obtained elsewhere recently."
+            ]
+        },
+        {
+            "name": "Dragon gizzard",
+            "notes": [
+                "Spell component Plymouth seeks; a full gizzard is preferred over a partial one."
+            ]
+        },
+        {
+            "name": "Potion of vitality",
+            "notes": [
+                "Rare potion that removes all exhaustion-related ailments; available in Sunder but very expensive."
+            ]
+        },
+        {
+            "name": "Salt leaf",
+            "notes": [
+                "Supply Walker offered to buy for Elrus during the Sunder stop."
+            ]
+        }
+    ]
+}

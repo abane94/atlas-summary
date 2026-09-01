@@ -1,0 +1,279 @@
+{
+    "plotSections": [
+        {
+            "title": "Leaving the spectral door behind",
+            "bullets": [
+                "Dana is absent and lacks investigative spells such as detect magic, so the party skips waiting to study the door.",
+                "The party resumes travel, pretending nothing happened.",
+                "The fake spectral door continues following Gerk, staying near him as he moves and fixed on the ship when it sails.",
+                "Gerk tries waving, verbal commands, closed sesame, and a performance check totaling 17 to dismiss it; nothing works.",
+                "Sylan tells Gerk he may keep experimenting but must not open another door until they reach land."
+            ]
+        },
+        {
+            "title": "Walker’s empty pockets",
+            "bullets": [
+                "Walker has only about fourteen hundred gold on hand—826 gold and 61 platinum—while roughly ten thousand gold sits unused back in Langdale.",
+                "He goes to the Haven Hold dragon Hanzuni hoping for charity, a loan, or an affordable magical item."
+            ]
+        },
+        {
+            "title": "Haven Hold and Hanzuni",
+            "bullets": [
+                "Walker enters Haven Hold’s hoard hall: a lively arched market with a treasure mountain on a central floating island separated by an empty moat.",
+                "Throwing a gauntlet into the hoard triggers a Sunder Chase; the hoard’s magic keeps treasure from falling away.",
+                "Hanzuni is an ancient copper dragon, relatively small for his age, with polished copper scales; he swims through his hoard.",
+                "He greets Glimmen first, remembers her as a hatchling, and has forgotten Walker’s name.",
+                "Glimmen eagerly dives into the hoard to swim with him."
+            ]
+        },
+        {
+            "title": "Quaylin’s history",
+            "bullets": [
+                "Hanzuni confirms Quaylin of Quaylin’s Quax and says Quaylin has won two Sunder Chases.",
+                "Quaylin was not always a duck-fowl; a magical beak heirloom transmutes the wearer and grants great potion knowledge.",
+                "The neck heirloom is his prize from his second Sunder Chase win; the beak relates to his first.",
+                "Quaylin arrived in Sunder after his race on a small vessel with nothing but potion craft to his name."
+            ]
+        },
+        {
+            "title": "Walker’s request",
+            "bullets": [
+                "Walker tells Hanzuni that Quaylin sent him and asks for help with terrible exhaustion he has been suffering lately."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party skips Dana’s door investigation because she is absent and lacks detect magic.",
+        "Travel resumes; the spectral door follows Gerk and stays fixed on the ship.",
+        "Gerk fails to dismiss the door through physical, verbal, and performance attempts.",
+        "Sylan forbids opening new doors until landfall.",
+        "Walker notes most of his wealth is back in Langdale and approaches Hanzuni at Haven Hold.",
+        "Hanzuni swims in his hoard and invites Glimmen to swim rather than addressing Walker first.",
+        "Glimmen dives into the hoard; Hanzuni recognizes her as a grown dragon with a rider.",
+        "Walker reintroduces himself and asks after Quaylin.",
+        "Hanzuni reveals Quaylin’s Sunder Chase wins and magical beak backstory.",
+        "Walker asks Hanzuni for something to help with his worsening exhaustion."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "The spectral door continues following him as the ship travels.",
+                "Waving, commands, closed sesame, and a 17 performance check fail to affect it.",
+                "Agrees not to open another door until the party reaches land.",
+                "Keeps trying various antics to shut the door while traveling."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "Guys, it's following me."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Decides not to wait for Dana and continues travel as if nothing happened.",
+                "Guides Gerk to use his Doorman powers on the door but forbids new doorways until landfall.",
+                "Expects Walker to message within about a day."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is absent this session.",
+                "Does not have detect magic or other investigative spells prepared for the door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "Follows Gerk rather than staying behind in the sky.",
+                "Stays fixed on the ship when it moves forward.",
+                "Remains non-interactable despite Gerk’s dismissal attempts."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has about 826 gold and 61 platinum on hand but left roughly ten thousand gold in Langdale.",
+                "Seeks Hanzuni at Haven Hold for a loan, gift, or affordable magical item.",
+                "Tells Hanzuni that Quaylin sent him.",
+                "Asks for help with terrible exhaustion he has been feeling every day."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Is present beside Walker at Haven Hold.",
+                "Eagerly dives into Hanzuni’s hoard when invited to swim.",
+                "Hanzuni remembers her as a hatchling and notes she is now fully grown with a rider.",
+                "Is roughly similar in size to Hanzuni, who is only slightly larger."
+            ],
+            "titles": [],
+            "personality": [
+                "Excited and antsy when offered a swim in the hoard."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Hanzuni": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Ancient copper dragon (HAZUNI); male.",
+                "One of two ancient copper dragons Walker has met on The Reach.",
+                "Relatively small for an ancient dragon, with polished copper scales.",
+                "Swims through his hoard at Haven Hold and offers low-interest loans.",
+                "Greets Glimmen before Walker and has forgotten Walker’s name.",
+                "Knows Quaylin and recounts his Sunder Chase history."
+            ],
+            "titles": [],
+            "personality": [
+                "Playful and fond of swimming in treasure."
+            ],
+            "quotesThemes": [
+                "Have you come for a swim, my dear?"
+            ],
+            "openQuestions": []
+        },
+        "Quaylin": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Shopkeeper of Quaylin’s Quax; known to Hanzuni.",
+                "Has won two Sunder Chases.",
+                "Was not always a duck-fowl; a magical beak heirloom transmutes the wearer and grants great potion knowledge.",
+                "Neck heirloom is his prize from his second win; the beak relates to his first.",
+                "Arrived in Sunder after his race on a small vessel with only potion craft to his name."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Haven Hold": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Giant arched structure with a lively market atmosphere in Sunder.",
+                "Central hoard sits on a floating island surrounded by an empty moat.",
+                "Throwing a gauntlet into the hoard triggers a Sunder Chase.",
+                "Hoard magic prevents treasure from falling away and replenishes spilled coins."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder Chase": {
+            "existing": "A summer seasonal event.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Throwing a gauntlet into Hanzuni’s hoard at Haven Hold triggers a Sunder Chase for treasure."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Sylan forbids Gerk from opening another door until the party reaches land."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "spell magic",
+            "likely": "detect magic",
+            "notes": "DM checking Dana’s spell list."
+        },
+        {
+            "heard": "chew it away",
+            "likely": "shoo it away",
+            "notes": "Sylan telling Gerk to dismiss the door."
+        },
+        {
+            "heard": "hOrd",
+            "likely": "hoard",
+            "notes": "Dragon treasure at Haven Hold."
+        },
+        {
+            "heard": "Quaylin Quaks / Qualin's Quacks",
+            "likely": "Quaylin's Quax",
+            "notes": "Sunder shop name."
+        },
+        {
+            "heard": "Hazuni",
+            "likely": "Hanzuni",
+            "notes": "Ancient copper dragon; spelled H-A-Z-U-N-I."
+        },
+        {
+            "heard": "Glimant / Glimmint / Glimind",
+            "likely": "Glimmen",
+            "notes": "Walker's dragon companion."
+        },
+        {
+            "heard": "Ord air cochra",
+            "likely": "Aarakocra",
+            "notes": "Walker asking about Quaylin’s race."
+        },
+        {
+            "heard": "Quailin",
+            "likely": "Quaylin",
+            "notes": "Duck Aarakocra shopkeeper."
+        },
+        {
+            "heard": "this trick",
+            "likely": "this dragon",
+            "notes": "DM asking how Walker will get his loan from Hanzuni."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Hanzuni",
+            "notes": [
+                "Ancient copper dragon whose hoard sits at the center of Haven Hold; offers low-interest loans and knows Quaylin."
+            ]
+        },
+        {
+            "name": "Beak of the quackiest of brews",
+            "notes": [
+                "Magical beak heirloom that transmutes the wearer into a duck-fowl and grants great potion knowledge; tied to Quaylin’s first Sunder Chase win."
+            ]
+        }
+    ]
+}

@@ -1,7 +1,9 @@
 {
   "name": "Ord",
   "slug": "Ord is a dragonborn paladin connected to the Great Eldarin Tree who serves as Gatekeeper of Feldspar.",
-  "tags": [],
+  "tags": [
+    "title"
+  ],
   "aliases": [],
   "filename": "entities/player/ord.md",
   "description": "Ord is a dragonborn paladin who joined Gerk’s group and became connected to the Great Eldarin Tree. He serves as the Gatekeeper of Feldspar, a realm he chose for its association with magic, science, alchemy, and experimentation, receiving its keystone after learning that Gilbrick had already been claimed.",
@@ -34,12 +36,29 @@
         "The visible oil silhouette is silent but has a physical presence on the deck as the oil splashes and drips.",
         "Ord attempted to communicate in Draconic while investigating whether anyone was present, but no response is established in this chunk."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Ord stays with the main party on the invisible, silent boat rather than joining Walker's Reach excursion, his paladin magic noted as another potential source of exhaustion relief. Covered in oil from his dragon vessel and lacking detect magic, he instead casts See Invisibility after adding more oil, revealing Gerk, Sylan, Dana, the crew, the spectral door, and fading portal residue aboard the boat. He investigates the portal lines and steadies Sylan and Gerk with a persuasion check of fifteen, communicating with Sylan through blind eye speech when normal speech fails. Unable to physically interact with the spectral door, he proposes zone of truth before casting dispel magic on the effect suppressing sight and hearing rather than on the ship itself, successfully restoring visibility and sound. He asks Gerk to create a replacement door as Doorman, but Gerk refuses and asks Ord to stand nearby instead of Sylan while tempers settle.",
+      "notes": [
+        "Not present with Walker's group; paladin magic could otherwise help reduce exhaustion.",
+        "Remains on the invisible party boat while covered in oil from his dragon vessel.",
+        "Does not have detect magic prepared but does have dispel magic prepared.",
+        "Casts See Invisibility after adding more oil and sees Gerk, Sylan, Dana, crew, the spectral door, and fading portal residue on the silent boat.",
+        "Investigates the fading portal lines and steadies Sylan and Gerk with a persuasion check of 15.",
+        "Communicates with Sylan through blind eye speech after normal voice fails.",
+        "Fails to physically interact with the spectral door.",
+        "Proposes zone of truth as a workaround, then casts dispel magic on the magical effect blocking sight and hearing, not on the boat.",
+        "Successfully ends the party's invisibility and silence.",
+        "Asks Gerk to create a replacement door as Doorman; Gerk refuses.",
+        "Gerk asks him to stand nearby instead of Sylan while tempers settle."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:51:38.382Z",
-  "updatedAt": "2026-08-21T17:54:15.318Z",
+  "updatedAt": "2026-09-01T18:29:43.197Z",
   "normalizedAliases": [
     "ord"
   ]

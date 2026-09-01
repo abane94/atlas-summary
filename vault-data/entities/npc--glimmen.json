@@ -26,12 +26,23 @@
       "notes": [
         "Carries Plymouth Gawater through a portal while accompanying Walker, Elrus, and Araden to investigate the dragon-rider training grounds."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Glimmen accompanies Walker through Sunder, waiting outside while he shops before joining him at Haven Hold. When Hanzuni invites her to swim, she eagerly dives into the dragon's hoard. Hanzuni remembers her as a hatchling and observes that she is now fully grown and bonded to a rider; the two dragons are roughly similar in size, with Hanzuni only slightly larger.",
+      "notes": [
+        "Follows Walker through Sunder and waits outside while he enters shops.",
+        "Is present beside Walker at Haven Hold.",
+        "Eagerly dives into Hanzuni's hoard when invited to swim.",
+        "Hanzuni remembers her as a hatchling and notes she is now fully grown with a rider.",
+        "Is roughly similar in size to Hanzuni, who is only slightly larger."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:46:29.731Z",
-  "updatedAt": "2026-08-21T17:46:37.313Z",
+  "updatedAt": "2026-09-01T18:30:26.021Z",
   "normalizedAliases": [
     "glimmen"
   ]

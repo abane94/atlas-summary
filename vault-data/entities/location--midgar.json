@@ -28,12 +28,19 @@
         "The party explicitly considers the time differential when estimating how long Walker can remain away before the others notice significant elapsed time.",
         "A significant time difference exists between Midgard and the party's current timeframe; the discussion establishes a seven-to-one relationship, with seven days passing in Midgard during approximately one day elsewhere."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Sylan proposes that Walker could teleport to Midgar to retrieve his stored gold more quickly than attempting to fund himself through a Sunder Chase alone.",
+      "notes": [
+        "Sylan suggests Walker could teleport there to retrieve his stored gold faster than running a Sunder Chase alone."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:14:02.645Z",
-  "updatedAt": "2026-08-21T19:23:48.059Z",
+  "updatedAt": "2026-09-01T18:32:03.774Z",
   "normalizedAliases": [
     "midgar",
     "midgard"

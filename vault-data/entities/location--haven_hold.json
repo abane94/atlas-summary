@@ -1,0 +1,31 @@
+{
+  "name": "Haven Hold",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "Sunder district centered on a dragon hoard market",
+  "aliases": [],
+  "normalizedAliases": [
+    "haven hold"
+  ],
+  "filename": "entities/location/haven_hold.md",
+  "description": "Haven Hold is a Sunder district containing a dragon hoard at its center. Its hoard hall is a lively arched market with treasure on a central floating island separated by an empty moat. Throwing a gauntlet into the hoard triggers a Sunder Chase. Hoard magic prevents treasure from falling away and replenishes spilled coins. Plain gold can pass out of the hoard by loan, but magical items cannot leave without a Sunder Chase win.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Walker visits Haven Hold with Glimmen to seek exhaustion relief funding from Hanzuni rather than run another Sunder Chase. He cannot throw his removable gold hand into the hoard to trigger the race, declines the chase due to time pressure, and accepts Hanzuni's quest-based gold loan after saying Quaylin sent him. Glimmen swims in the hoard when invited.",
+      "notes": [
+        "Sunder district containing a dragon hoard at its center.",
+        "Hoard hall is a lively arched market with treasure on a central floating island separated by an empty moat.",
+        "Throwing a gauntlet into the hoard triggers a Sunder Chase.",
+        "Hoard magic prevents treasure from falling away and replenishes spilled coins.",
+        "Plain gold can pass out of the hoard by loan, but magical items cannot leave without a Sunder Chase win."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:34:13.347Z",
+  "updatedAt": "2026-09-01T18:34:13.348Z"
+}

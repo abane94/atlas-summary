@@ -1,0 +1,227 @@
+{
+    "plotSections": [
+        {
+            "title": "Ord surveys the silent boat",
+            "bullets": [
+                "With See Invisibility active, Ord sees Gerk and Sylan wrestling near the closed spectral door while Dana looks concerned and confused.",
+                "Two crew members wander the deck bumping into each other and silently trying to call out.",
+                "All visible activity remains completely soundless.",
+                "Where Gerk opened his portal, faint glowing edge-lines and ghostly city passerby fade quickly and are nearly gone when Ord investigates."
+            ]
+        },
+        {
+            "title": "Contact through blind eye speech",
+            "bullets": [
+                "Ord’s spoken words still do not carry; his persuasion check of 15 lets him calmly steady Sylan and Gerk, who notice his oily silhouette.",
+                "Sylan uses a token of blind eye speech to whisper with Ord and confirm he can see them.",
+                "Gerk admits through the token that he opened the door.",
+                "The token requires pointing and whispering to activate, but Gerk can reply directly to whispers sent to him."
+            ]
+        },
+        {
+            "title": "Investigating the spectral door",
+            "bullets": [
+                "The spectral door floats over and slightly behind Gerk, shut and frameless, resembling Gerk’s shield-door but more functional.",
+                "With guidance, Gerk’s investigation total of 18 reveals it is not a real door but protective magic with no portal or opening capability.",
+                "Gerk and Sylan’s hands pass through it into thicker-feeling air with no physical resistance or effect.",
+                "Gerk wildly swings through the door without changing it.",
+                "Ord’s attempt to turn a doorknob also passes straight through.",
+                "The DM notes passing through the spectral door would not simply restore sight or hearing."
+            ]
+        },
+        {
+            "title": "Debate over dispelling the effect",
+            "bullets": [
+                "Sylan suggests dispel magic may be their strongest available tool but warns about their poor track record with it.",
+                "The party fears dispelling the wrong magic could drop them to their deaths, noting Dana is the one who could most likely prevent that.",
+                "Ord proposes casting zone of truth and intentionally failing the save so any spoken fix ideas must be truthful."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord sees Dana, confused crew, the spectral door, and fading portal residue on the silent boat.",
+        "Ord investigates the fading glowing lines, but they are almost gone.",
+        "Ord steadies Sylan and Gerk with a persuasion check of 15.",
+        "Sylan uses blind eye speech to confirm Ord can see the party.",
+        "Gerk says he opened the door.",
+        "Gerk sees the shut floating spectral door behind him.",
+        "Gerk investigates the door with guidance and totals 18.",
+        "Gerk learns the spectral door is fake protective magic, not a real opening.",
+        "Gerk, Sylan, and Ord all find their hands pass through the spectral door without effect.",
+        "Gerk wildly swings through the door to no avail.",
+        "Ord tries and fails to grasp the spectral doorknob.",
+        "The party debates using dispel magic versus the risk of falling.",
+        "Ord proposes a zone of truth workaround to force truthful solution ideas."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Admits he opened the door.",
+                "Investigates the spectral door with guidance for a total of 18.",
+                "Determines it is fake protective magic with no real portal or opening function.",
+                "His hands and arms pass through the spectral door without affecting it."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "I opened door."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Uses a token of blind eye speech to communicate with Ord.",
+                "Casts guidance on Gerk’s door investigation.",
+                "Pushes Gerk to investigate the door as Doorman and tests the spectral door with him.",
+                "Warns that dispel magic is powerful but risky given the party’s past results."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Gerk, what did you do?"
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Still sees the invisible silent scene through See Invisibility.",
+                "Investigates the fading portal residue and steadies Sylan and Gerk with persuasion 15.",
+                "Confirms via blind eye speech that he can see the party.",
+                "Fails to physically interact with the spectral door.",
+                "Proposes using zone of truth and intentionally failing the save to extract truthful fix ideas."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remains on the boat looking concerned and confused when Ord can see her.",
+                "The party says she is the one most likely able to stop them if dispelling the magic causes a fall."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "Floats over and slightly behind Gerk, fully shut and frameless.",
+                "Resembles Gerk’s shield-door but looks more functional and less shield-like.",
+                "Investigation reveals it is fake protective magic, not a real door with portal capability.",
+                "Hands pass through it into slightly thicker air without physical effect.",
+                "Passing through it does not simply restore normal sight or hearing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Should the party dispel the spectral door’s magic?"
+            ]
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Gerk’s earlier opened portal left fading glowing edge-lines and ghostly city visions.",
+                "That residue is separate from the floating spectral door and nearly gone by the time Ord inspects it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abel": {
+            "existing": "Surviving-and-revived crew member and the boat's helmsman.",
+            "entityType": "NPC",
+            "notes": [
+                "Visible to Ord as one of two confused crew members silently wandering the deck."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Token of blind eye speech": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan uses it to whisper with Ord when normal speech fails.",
+                "Requires pointing and whispering to activate.",
+                "Gerk can reply to whispers sent to him without needing to activate it himself."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "oil Leo word",
+            "likely": "oily Ord",
+            "notes": "Sylan seeing Ord move after See Invisibility."
+        },
+        {
+            "heard": "Gark",
+            "likely": "Gerk",
+            "notes": "Sylan addressing him through blind eye speech."
+        },
+        {
+            "heard": "Sylant",
+            "likely": "Sylan",
+            "notes": "DM narration."
+        },
+        {
+            "heard": "doll man",
+            "likely": "door man",
+            "notes": "Sylan referring to Gerk’s Doorman role."
+        },
+        {
+            "heard": "Darren",
+            "likely": "Sylan",
+            "notes": "Gerk dragging the person still holding him toward the door."
+        },
+        {
+            "heard": "C invisibility",
+            "likely": "See Invisibility",
+            "notes": "Spell Ord used to see the party."
+        },
+        {
+            "heard": "oily lord",
+            "likely": "oily Ord",
+            "notes": "Sylan speaking to Ord after the door test."
+        }
+    ],
+    "openQuestions": [
+        "Should the party dispel the spectral door’s magic?",
+        "Will they use zone of truth to force truthful solution ideas?"
+    ],
+    "newTerms": [
+        {
+            "name": "Token of blind eye speech",
+            "notes": [
+                "Magic item enabling pointed whisper communication between holders when normal speech fails."
+            ]
+        },
+        {
+            "name": "Fake spectral door",
+            "notes": [
+                "The floating spectral door appears to be protective magic rather than a real portal Gerk can open or close."
+            ]
+        }
+    ]
+}

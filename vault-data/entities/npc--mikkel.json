@@ -1,0 +1,29 @@
+{
+  "name": "Mikkel",
+  "tags": [],
+  "slug": "Spymaster crew member often left behind when the party departs",
+  "aliases": [],
+  "normalizedAliases": [
+    "mikkel"
+  ],
+  "filename": "entities/npc/mikkel.md",
+  "description": "Mikkel is a spymaster crew member. The party has a recurring problem of departing without verifying he is onboard.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "After Ord's dispel magic restores sight and sound aboard the boat, Sylan's head count finds all four other crew members safe but Mikkel is not aboard. The party discusses giving him a sending stone or teleportation tunnel so he can rejoin when they leave without him again.",
+      "notes": [
+        "Spymaster crew member who is not aboard again when the party checks.",
+        "The party has a recurring problem of departing without verifying he is onboard.",
+        "Party considers a sending stone or teleportation tunnel so he can rejoin."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Where did we leave Mikkel?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:33:55.962Z",
+  "updatedAt": "2026-09-01T18:33:55.962Z"
+}

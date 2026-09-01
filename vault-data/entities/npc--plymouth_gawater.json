@@ -51,6 +51,19 @@
         "Gerk jokingly blames Plymouth for not warning him about the dangers or behavior of the doors.",
         "Gerk jokingly blames Plymouth for not warning him about the current situation involving the Doorman."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Plymouth Gawater accompanies Walker on a short Reach excursion, flying with him into Sunder while Elrus and Araden continue toward the mountains. Drawing on familiar knowledge of Sunder's market, he leads Walker through street vendors to Qualin's Quax in search of horn root, powdered dragon scale, wet alchemical items, and dragon gizzard for spell components. He recommends greater restoration or a rare potion of vitality to address Walker's worsening exhaustion, then negotiates dragon gizzard at five gold per pound while Walker is distracted by Quaylin's heirloom gem. Plymouth discreetly signals Walker to stop discussing his gold hand in front of the shopkeeper and ultimately secures several pounds of dragon gizzard from Quaylin.",
+      "notes": [
+        "Is present with Walker for this Reach excursion and flies into Sunder with him while Elrus and Araden head for the mountains.",
+        "Seeks horn root, powdered dragon scale, wet alchemical items, and dragon gizzard for spell components.",
+        "Knows Sunder's market well enough to lead Walker through street vendors to Qualin's Quax.",
+        "Recommends greater restoration or a rare potion of vitality for Walker's exhaustion.",
+        "Negotiates dragon gizzard at five gold per pound while Walker is distracted.",
+        "Signals Walker to stop explaining his gold hand in front of Quaylin.",
+        "Secured several pounds of dragon gizzard from Quaylin."
+      ]
     }
   ],
   "openQuestions": [
@@ -59,7 +72,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:28:12.188Z",
-  "updatedAt": "2026-08-21T17:40:42.058Z",
+  "updatedAt": "2026-09-01T18:27:59.504Z",
   "normalizedAliases": [
     "plymouth gawater"
   ]

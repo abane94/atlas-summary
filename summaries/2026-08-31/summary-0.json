@@ -1,0 +1,193 @@
+{
+    "plotSections": [
+        {
+            "title": "Walker’s side trip setup",
+            "bullets": [
+                "Walker confirms Plymouth Gawater is with him before resuming play.",
+                "Walker uses his small portal cube to pop out in The Reach near the Whispering Abyss.",
+                "Sylan notes Walker can navigate by mind link and does not need sight for where he is going; Sylan treats the outing as a short, low-risk adventure."
+            ]
+        },
+        {
+            "title": "Route to the Dragon Rider training guild",
+            "bullets": [
+                "From the Whispering Abyss, Walker plans to fly north toward the Lost Isles area to reach the Dragon Rider training grounds.",
+                "The DM places the training guild on the largest unnamed island dead center in the hex between the Lost Islands, Camp Two, and the Howling tunnels.",
+                "Elrus had previously said Last Word Chasm to the training grounds is about five days by flight.",
+                "Walker initially estimates about eight days from the Whispering Abyss; the DM agrees the distance is close enough and treats the straight-line flight as essentially the same, settling on about five days."
+            ]
+        },
+        {
+            "title": "Dragon energy and exhaustion planning",
+            "bullets": [
+                "Walker reviews his dragon-riding energy rules: every five energy spent adds one level of exhaustion, rounded down.",
+                "A long rest removes only one exhaustion level, so stacking multiple levels in one day is inefficient unless timed carefully.",
+                "The DM advises taking any bulk exhaustion on the first day rather than the last, so a rest before arrival does not leave Walker impaired on arrival.",
+                "Walker plans to spend five energy per travel day, accepting one exhaustion level per day for the roughly five-day flight."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker confirms Plymouth Gawater is accompanying him.",
+        "After a brief out-of-game break, Walker uses his portal cube and pops out near the Whispering Abyss in The Reach.",
+        "Walker locates the Reach map and confirms the exit point with the DM.",
+        "The party identifies the flight destination as the Dragon Rider training grounds near the Lost Isles.",
+        "The DM specifies the guild sits on the largest unnamed island in the hex between the Lost Islands, Camp Two, and the Howling tunnels.",
+        "Walker recalls Elrus’s estimate of about five days from Last Word Chasm to the training grounds and proposes about eight days from the Whispering Abyss.",
+        "The DM accepts about five days of flight as close enough for travel time.",
+        "Walker and the DM review exhaustion rules for dragon energy expenditure.",
+        "Walker decides to spend five energy per day and take one exhaustion level per day for the journey."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is traveling with Plymouth Gawater on a short side excursion.",
+                "Uses a small portal cube to exit into The Reach near the Whispering Abyss.",
+                "Is planning a multi-day dragon flight north to the Dragon Rider training grounds.",
+                "Dragon riding costs five energy per day on this trip, producing one level of exhaustion per day under current rules.",
+                "Plans to accept one exhaustion level per travel day rather than stacking exhaustion late in the journey."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who explains keystone lore and guides the keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Is present with Walker for this Reach excursion."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "Dragon Rider guild training grounds near the Lost Isles.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Located on the largest unnamed island in the relevant Reach hex, positioned between the Lost Islands, Camp Two, and the Howling tunnels.",
+                "About five days of dragon flight from the Whispering Abyss under the travel time agreed in session."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Whispering Abyss": {
+            "existing": "A location near where the party previously emerged from the arch.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Walker and Plymouth pop out here when Walker uses his portal cube."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Reach": {
+            "existing": "The largest Arch realm of Atlas, which Walker gatekeeps and explores by flight.",
+            "entityType": "Location",
+            "notes": [
+                "Walker's portal exit places him on the Reach map near the Whispering Abyss.",
+                "The training guild destination lies in a hex containing the Lost Islands, Camp Two, and the Howling tunnels."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Previously told Walker that flight from Last Word Chasm to the training grounds takes about five days."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Last Word Chasm": {
+            "existing": "A long-uninhabited roost associated with Grixto.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Used as a travel-time reference point: about five days by flight to the Dragon Rider training grounds per Elrus."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remarks that Walker can travel by mind link without needing sight.",
+                "Frames Walker’s outing as a quick five-minute adventure."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Just a five-minute adventure, no problems."
+            ],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "rule twenty",
+            "likely": "Roll20",
+            "notes": "Walker was not on the Roll20 map after looking at Discord."
+        },
+        {
+            "heard": "Reach Band",
+            "likely": "Reach map",
+            "notes": "DM may have meant swapping Walker to the Reach map or channel."
+        },
+        {
+            "heard": "p little fun cube",
+            "likely": "",
+            "notes": "Walker's portal or keystone travel item; exact name unclear."
+        },
+        {
+            "heard": "Howling Um tunnels",
+            "likely": "Howling tunnels",
+            "notes": "Map landmark near the training guild island."
+        },
+        {
+            "heard": "Humble down",
+            "likely": "Round down",
+            "notes": "Said while confirming exhaustion rounds down."
+        },
+        {
+            "heard": "forty nine days",
+            "likely": "",
+            "notes": "Walker’s map readout used jokingly; travel time was settled at about five days."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Camp Two",
+            "notes": [
+                "Reach map landmark in the hex containing the Dragon Rider training guild island."
+            ]
+        },
+        {
+            "name": "Howling tunnels",
+            "notes": [
+                "Reach map landmark bordering the hex with the training guild island."
+            ]
+        },
+        {
+            "name": "Dragon energy points",
+            "notes": [
+                "Walker's dragon-riding resource; spending five energy adds one level of exhaustion, rounded down."
+            ]
+        }
+    ]
+}

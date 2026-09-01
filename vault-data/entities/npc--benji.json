@@ -17,6 +17,13 @@
         "The party considers asking Benji for information because he has frequented The Reach many times.",
         "The party is uncertain where Benji currently is and recalls that he may have been left at their bar."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Benji is credited with helping the Haven Hold dragon enchant its hoard as the penultimate Sunder Chase prize, tying his prior familiarity with The Reach to the event's magical setup at Haven Hold.",
+      "notes": [
+        "Worked with the Haven Hold dragon to enchant its hoard as the penultimate Sunder Chase prize."
+      ]
     }
   ],
   "openQuestions": [
@@ -24,5 +31,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:21:05.572Z",
-  "updatedAt": "2026-08-21T18:21:05.572Z"
+  "updatedAt": "2026-09-01T18:30:15.686Z"
 }

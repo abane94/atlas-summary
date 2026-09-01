@@ -1,0 +1,30 @@
+{
+  "name": "Temple of I",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "Northern temple pronounced like the letter I",
+  "aliases": [],
+  "normalizedAliases": [
+    "temple of i"
+  ],
+  "filename": "entities/location/temple_of_i.md",
+  "description": "The Temple of I is a northern temple pronounced like the letter I.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-31",
+      "summary": "Walker links the Temple of I to his gold-hand incident, believing the transformation may have happened while swimming underwater in cold molten-looking water during time he spent there in the north.",
+      "notes": [
+        "Northern temple pronounced like the letter I.",
+        "Walker believes his gold-hand incident may have happened during time spent there."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Did Walker's gold hand originate at the Temple of I?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-09-01T18:33:25.105Z",
+  "updatedAt": "2026-09-01T18:33:25.105Z"
+}

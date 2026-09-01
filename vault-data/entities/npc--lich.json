@@ -25,6 +25,13 @@
         "The party's current lore does not explain exactly how the lich's body returns after destruction.",
         "The lich has previously learned weaknesses of the party through their encounters."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "The DM notes a possible strategy against the lich: leveraging cross-realm trade and foreknowledge of keystone door openings to inflict economic hardship on the unidentified foe the party is still pursuing.",
+      "notes": [
+        "The DM says the party could use cross-realm trade and foreknowledge of keystone door openings to cause economic hardship against the lich."
+      ]
     }
   ],
   "openQuestions": [
@@ -36,5 +43,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T17:57:46.472Z",
-  "updatedAt": "2026-08-21T17:57:46.472Z"
+  "updatedAt": "2026-09-01T18:30:49.215Z"
 }

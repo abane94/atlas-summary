@@ -1,0 +1,239 @@
+{
+    "plotSections": [
+        {
+            "title": "Ord sees the invisible boat",
+            "bullets": [
+                "Ord casts See Invisibility and can finally see the invisible party on the muted boat.",
+                "He sees Gerk half dazed on the deck wrestling with Sylan near the closed floating spectral door.",
+                "Dana stands nearby looking concerned and confused.",
+                "Two crew members, including the helmsman, wander the deck bumping into each other and silently trying to call out.",
+                "All interactions remain soundless despite visible movement."
+            ]
+        },
+        {
+            "title": "Fading doorway impression",
+            "bullets": [
+                "Where Gerk opened the portal, Ord sees faint glowing lines at the edges that fade faster with each blink.",
+                "By the time Ord reaches them they are down to about fifteen or sixteen percent opacity.",
+                "Inside the fading frame he briefly sees ghostly watercolor-like figures passing as if through a side street in a city.",
+                "The vision smudges into nothing as the impression fades into the ether."
+            ]
+        },
+        {
+            "title": "Ord calms the wrestling match",
+            "bullets": [
+                "Ord investigates the fading portal lines, then tries to steady Sylan and Gerk without restraining them.",
+                "His persuasion check of 15 is solid enough that Sylan and Gerk notice his oily silhouette placing a hand on both of them."
+            ]
+        },
+        {
+            "title": "Blind Eye Speech and the spectral door",
+            "bullets": [
+                "Sylan uses a token of blind eye speech to whisper with Ord, confirming Ord can see them through See Invisibility.",
+                "Sylan asks Gerk what he did; Gerk replies that he opened the door.",
+                "The spectral door still floats over and slightly behind Gerk, resembling his shield-door but more functional and without a frame.",
+                "It appears fully shut with no visible portal beyond it.",
+                "Sylan urges Gerk as Doorman to investigate the door, and Gerk agrees."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord casts See Invisibility while covered in oil.",
+        "Ord sees Gerk and Sylan wrestling near the closed spectral door, with Dana and confused crew nearby in silent motion.",
+        "Ord notices fading glowing lines and ghostly city figures where Gerk opened the portal.",
+        "Ord moves to the fading lines, but they are nearly gone by the time he arrives.",
+        "Ord steadies Sylan and Gerk with a persuasion check of 15.",
+        "Sylan and Gerk see Ord’s oily silhouette touch them.",
+        "Sylan uses a token of blind eye speech to whisper with Ord.",
+        "Sylan asks Gerk what happened; Gerk says he opened the door.",
+        "Gerk confirms he can see the shut floating spectral door behind him.",
+        "Gerk agrees to investigate the door as Doorman."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Casts See Invisibility and sees the invisible party, Dana, crew, spectral door, and fading portal residue.",
+                "Finds the boat completely silent despite visible activity.",
+                "Investigates the fading glowing lines where Gerk opened the portal.",
+                "Uses a persuasion check of 15 to calmly steady Sylan and Gerk.",
+                "Communicates with Sylan through blind eye speech after normal voice fails."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "I can see you guys with See Invisibility."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Still dazed and wrestling with Sylan when Ord can finally see him.",
+                "Admits through blind eye speech that he opened the door.",
+                "Can see the closed floating spectral door over and slightly behind him.",
+                "Agrees to investigate the door as Doorman."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "I opened door."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Continues physically wrangling Gerk on the invisible boat.",
+                "Uses a token of blind eye speech to whisper with Ord.",
+                "Asks Gerk what he did and points him toward the spectral door.",
+                "Urges Gerk to investigate the door as the party Doorman."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Gerk, what did you do?"
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is on the invisible boat near Ord.",
+                "Appears very concerned and confused when Ord can see her."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abel": {
+            "existing": "Surviving-and-revived crew member and the boat's helmsman.",
+            "entityType": "NPC",
+            "notes": [
+                "Visible to Ord as one of two confused crew members wandering the deck and silently trying to communicate."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "Still floats over and slightly behind Gerk.",
+                "Looks fully shut, frameless, and without any visible portal beyond it.",
+                "Resembles Gerk’s shield-door but appears more like a functional door than a shield."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Gerk’s opened portal left fading glowing edge-lines where it was opened.",
+                "The residue showed ghostly passerby like a city side street before fading into the ether.",
+                "The impression fades faster with each blink and was nearly gone when Ord investigated."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and Lith Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remains on the boat watching from a distance rather than joining the wrestling."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "See Invisibility": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Level-two divination Ord casts to reveal invisible creatures and objects, including ethereal forms.",
+                "Lets Ord perceive the full silent scene on the boat."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "C invisibility / scene invisibility / sea invisibility",
+            "likely": "See Invisibility",
+            "notes": "Divination spell Ord casts."
+        },
+        {
+            "heard": "gold message",
+            "likely": "coin message",
+            "notes": "Sylan’s detect magic note written on the deck."
+        },
+        {
+            "heard": "hOrd porty boy / Org",
+            "likely": "Ord",
+            "notes": "Oily invisible paladin on the boat."
+        },
+        {
+            "heard": "oil Leo word",
+            "likely": "oily Ord",
+            "notes": "Sylan seeing Ord move after See Invisibility."
+        },
+        {
+            "heard": "Gark",
+            "likely": "Gerk",
+            "notes": "Sylan addressing him through blind eye speech."
+        },
+        {
+            "heard": "doll man",
+            "likely": "door man",
+            "notes": "Sylan referring to Gerk’s Doorman role."
+        },
+        {
+            "heard": "token of blind eye speech",
+            "likely": "token of blind eye speech",
+            "notes": "Kept as heard; magic item enabling pointed whisper communication."
+        },
+        {
+            "heard": "check magic",
+            "likely": "Detect Magic",
+            "notes": "Spell Ord did not have prepared."
+        },
+        {
+            "heard": "spell magic radio",
+            "likely": "Identify",
+            "notes": "Sylan mentions having another identification spell."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Token of blind eye speech",
+            "notes": [
+                "Magic item Sylan uses by pointing and whispering to communicate with another holder when normal speech fails."
+            ]
+        },
+        {
+            "name": "Portal residue",
+            "notes": [
+                "Fading glowing edge-lines and ghostly city visions left where Gerk opened his doorway."
+            ]
+        }
+    ]
+}

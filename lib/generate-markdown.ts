@@ -135,7 +135,7 @@ function insertWikiLinks(text: string, entityDataList: EntityData[]) {
             .map((t) => t.trim())
             .filter(Boolean);
         for (const target of targetList) {
-            text = text.replaceAll(new RegExp(escapeRegExp(target), 'gi'), `[[${entityData.filename.replace('.md', '')}|${entityData.name}]]`);
+            text = text.replaceAll(new RegExp(`\\b${escapeRegExp(target)}\\b`, 'gi'), `[[${entityData.filename.replace('.md', '')}|${entityData.name}]]`);
         }
     }
     return text;

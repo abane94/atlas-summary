@@ -19,6 +19,13 @@
         "Ord possesses a dragon vessel that can apparently be used with olive oil to create a visible outline around his otherwise invisible body.",
         "The exact mechanics and limitations of the dragon vessel are not established in this chunk."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Ord remains coated in oil from his dragon vessel aboard the invisible boat and applies more while casting See Invisibility, continuing to use the oily outline to make his otherwise hidden form visible during the crisis.",
+      "notes": [
+        "Ord is still covered in oil from the vessel and adds more oil on himself while casting See Invisibility."
+      ]
     }
   ],
   "openQuestions": [
@@ -26,5 +33,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:54:29.767Z",
-  "updatedAt": "2026-08-21T18:54:29.767Z"
+  "updatedAt": "2026-09-01T18:31:28.379Z"
 }

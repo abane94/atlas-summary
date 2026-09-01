@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import type { Page } from "puppeteer-core";
-import { runJsonPrompt } from "./chatgpt.js";
+import { runJsonPrompt } from "./ai.js";
 import { generateSessionData, mergeSessionData } from "./session-data-gen.ts";
 import {
   divideTranscriptIntoChunks,
@@ -63,14 +63,10 @@ export function ensureSummariesFolder(date: string): void {
 }
 
 export function ensureTranscripts(date: string): void {
-  const recapPath = recapMarkdownPath(date);
   const transcriptPath = transcriptMarkdownPath(date);
-  const missing: string[] = [];
-  if (!fs.existsSync(recapPath)) missing.push(recapPath);
-  if (!fs.existsSync(transcriptPath)) missing.push(transcriptPath);
-  if (missing.length > 0) {
+  if (!fs.existsSync(transcriptPath)) {
     throw new Error(
-      `Missing transcript files for ${date}:\n  ${missing.join("\n  ")}\n\nAdd recap.md and transcript.md under transcripts/${date}/ first.`,
+      `Missing transcript file for ${date}:\n  ${transcriptPath}\n\nAdd transcript.md under transcripts/${date}/ first.`,
     );
   }
 }
@@ -191,6 +187,11 @@ export async function generateChunks(
   ensureTranscripts(date);
   ensureSummariesFolder(date);
 
+  const recapPath = recapMarkdownPath(date);
+  if (!fs.existsSync(recapPath)) {
+    console.warn(`[chunks] Warning: ${recapPath} is missing, skipping recap input`);
+  }
+
   const recapPrompt = buildRecapPrompt();
   const { transcript } = await loadTranscript(date);
   const expected = divideTranscriptIntoChunks(transcript).length;
@@ -221,7 +222,7 @@ export async function generateChunks(
 
   ${chunk.replaceAll("\n", "<br/>")}
   `;
-    const summary = await runJsonPrompt(page, aiPrompt);
+    const summary = await runJsonPrompt(page, aiPrompt, { effort: "low" });
     fs.writeFileSync(fileName, summary);
     wrote++;
     await page.goto(CHATGPT_URL, { waitUntil: "networkidle2" });

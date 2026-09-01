@@ -1,0 +1,212 @@
+{
+    "plotSections": [
+        {
+            "title": "Exhaustion and Hanzuni’s scrutiny",
+            "bullets": [
+                "Walker asks Hanzuni for something to remedy terrible daily exhaustion despite constant training.",
+                "Hanzuni perceives shimmering magical energy on Walker and mocks his mismatched star sapphire and star ruby earrings.",
+                "He offers an even-value hoard trade for matching gems; Walker refuses to keep the story of gems won from a past dragon hoard fight.",
+                "Hanzuni says many hoard items could cure exhaustion, but removing magical items requires a Sunder Chase."
+            ]
+        },
+        {
+            "title": "The plated gold hand",
+            "bullets": [
+                "Walker cannot remove his golden hand to throw into the hoard.",
+                "Hanzuni grabs it and slides off a perfect golden replica, revealing Walker’s normal flesh hand beneath.",
+                "It is not a gauntlet but plated gold; Hanzuni returns it and Walker can reattach it like a perfect-fitting glove.",
+                "Hanzuni estimates it weighs roughly thirty pounds, or about four hundred troy ounces of gold.",
+                "Walker is unsettled to learn it can come off; Hanzuni says many people do not realize it is only plated."
+            ]
+        },
+        {
+            "title": "Sunder Chase rules",
+            "bullets": [
+                "Participants choose as many magical hoard items as they wish, then must race.",
+                "Items lost overboard during the race return to the hoard; non-winners lose all taken items back to the hoard.",
+                "Only the winner’s chosen treasures permanently leave Hanzuni’s hoard.",
+                "Walker wants to compete but lacks time; Sylan notes retrieving gold from Midgar would be faster."
+            ]
+        },
+        {
+            "title": "Hanzuni’s gold loan",
+            "bullets": [
+                "Hanzuni can loan plain gold from the hoard but cannot give magical items such as a potion of vitality directly.",
+                "His interest is not monetary; he charges a quest because he cannot leave the hoard unattended.",
+                "For the price of Quaylin’s twelve-hundred-gold potion, he asks Walker to bring him an island crab, which he has not eaten in a long time.",
+                "Hanzuni tips that Quaylin favors alabaster herring, especially pickled, and may haggle down a few hundred gold."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker asks Hanzuni for an exhaustion remedy.",
+        "Hanzuni detects magical shimmer on Walker and criticizes his mismatched star gem earrings.",
+        "Hanzuni offers a hoard gem trade; Walker declines.",
+        "Hanzuni explains hoard magical items require a Sunder Chase to remove.",
+        "Walker fails to remove his golden hand; Hanzuni pulls off a plated gold replica instead.",
+        "Hanzuni returns the hand; Walker learns it weighs about thirty pounds and reattaches it.",
+        "Hanzuni clarifies Sunder Chase rules for selecting and keeping hoard treasure.",
+        "Walker asks to buy a potion of vitality; Hanzuni offers a gold loan instead.",
+        "Hanzuni proposes a quest-payment loan for twelve hundred gold: bring him an island crab."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Suffers worsening daily exhaustion despite training and use of magical rites Hanzuni can perceive.",
+                "Wears mismatched star sapphire and star ruby earrings from a past dragon hoard fight.",
+                "His golden hand is plated gold, not a gauntlet, and can be removed as a solid replica weighing about thirty pounds.",
+                "Declines Hanzuni’s gem trade and a Sunder Chase due to time pressure.",
+                "Seeks a potion of vitality and accepts Hanzuni’s quest-based gold loan terms."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Hanzuni": {
+            "existing": "Ancient copper dragon whose hoard sits at the center of Haven Hold.",
+            "entityType": "NPC",
+            "notes": [
+                "Perceives shimmering magical energy on Walker and criticizes his earring mismatch.",
+                "Can remove Walker’s plated gold hand and identifies it as pure gold plating.",
+                "Estimates the detached gold hand at roughly thirty pounds or four hundred troy ounces.",
+                "Cannot give magical hoard items without a Sunder Chase; can loan plain gold from the hoard.",
+                "Charges no monetary interest—repayment is a quest because he cannot leave the hoard.",
+                "Offers twelve hundred gold in exchange for an island crab.",
+                "Knows Quaylin may haggle if offered pickled alabaster herring."
+            ],
+            "titles": [],
+            "personality": [
+                "Fashion-conscious, bored without recent races, and pragmatic about hoard rules."
+            ],
+            "quotesThemes": [
+                "What I charge is the quest."
+            ],
+            "openQuestions": []
+        },
+        "Quaylin": {
+            "existing": "Duck Aarakocra shopkeeper of Quaylin’s Quax in Sunder.",
+            "entityType": "NPC",
+            "notes": [
+                "Charges twelve hundred gold for a potion of vitality.",
+                "Is partial to alabaster herring, especially pickled, and may reduce price by a few hundred gold."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder Chase": {
+            "existing": "A summer seasonal event.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Contestants choose any number of magical hoard items before racing.",
+                "Items lost overboard during the race return to the hoard.",
+                "If the racer is not the winner, all taken items return to the hoard.",
+                "Only the winner permanently keeps chosen hoard treasures."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Haven Hold": {
+            "existing": "Sunder district containing Hanzuni’s dragon hoard.",
+            "entityType": "Location",
+            "notes": [
+                "Plain gold can pass out of the hoard by loan, but magical items cannot leave without a Sunder Chase win."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Midgar": {
+            "existing": "Midgar realm and Arch of Atlas.",
+            "entityType": "Location",
+            "notes": [
+                "Sylan suggests Walker could teleport there to retrieve his stored gold faster than running a Sunder Chase alone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "right of magic",
+            "likely": "rite of magic",
+            "notes": "Hanzuni describing Walker’s visible magical energy."
+        },
+        {
+            "heard": "star staffer",
+            "likely": "star sapphire",
+            "notes": "Gem Hanzuni offers from the hoard."
+        },
+        {
+            "heard": "Horn / hold",
+            "likely": "hoard",
+            "notes": "Hanzuni’s treasure."
+        },
+        {
+            "heard": "Calford",
+            "likely": "",
+            "notes": "Sylan referencing the past dragon hoard fight."
+        },
+        {
+            "heard": "Zuni",
+            "likely": "Hanzuni",
+            "notes": "Walker addressing the dragon."
+        },
+        {
+            "heard": "cure gold",
+            "likely": "pure gold",
+            "notes": "Material of Walker’s plated hand."
+        },
+        {
+            "heard": "retouch",
+            "likely": "reach for",
+            "notes": "Walker reaching toward Hanzuni to remove the hand."
+        },
+        {
+            "heard": "MidCard",
+            "likely": "Midgar",
+            "notes": "Sylan’s suggestion for retrieving Walker’s stored gold."
+        },
+        {
+            "heard": "question",
+            "likely": "quest",
+            "notes": "Hanzuni’s loan repayment terms."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Potion of vitality",
+            "notes": [
+                "Magical exhaustion remedy Quaylin sells for twelve hundred gold; Walker seeks it through Hanzuni’s loan."
+            ]
+        },
+        {
+            "name": "Island crab",
+            "notes": [
+                "Delicacy Hanzuni wants Walker to fetch as repayment for a twelve-hundred-gold loan."
+            ]
+        },
+        {
+            "name": "Alabaster herring",
+            "notes": [
+                "Pickled alabaster herring may help haggle Quaylin down on potion prices."
+            ]
+        },
+        {
+            "name": "Plated gold hand",
+            "notes": [
+                "Walker’s golden hand is removable plated gold weighing about thirty pounds, not a gauntlet or permanently transformed flesh."
+            ]
+        }
+    ]
+}

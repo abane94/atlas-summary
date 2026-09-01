@@ -16,10 +16,24 @@
       "notes": [
         "Referenced as a seasonal event that occurs during summer rather than the current fall season."
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Session discussion clarifies how the Sunder Chase works at Haven Hold: throwing a gauntlet into Hanzuni's hoard triggers the race, with contestants first selecting any number of magical hoard items as pre-race prizes before running the circuit. Items knocked overboard during the chase return to the hoard, non-winners forfeit everything taken, and only the winner permanently keeps chosen treasures. Walker learns he may need another completed circuit to obtain certain Haven magic items, though Quaylin notes he can borrow cash directly from the Haven Hold dragon without racing. The party also recalls a previous dispel magic attempt during a Sunder Chase that ended badly.",
+      "notes": [
+        "Completing another circuit may be required to obtain certain magic items in the Haven.",
+        "Haven Hold's dragon hoard is set up as a pre-race prize pick before running the circuit.",
+        "Throwing a gauntlet into Hanzuni's hoard at Haven Hold triggers a chase to claim treasure.",
+        "Contestants choose any number of magical hoard items before racing.",
+        "Items lost overboard during the race return to the hoard; non-winners lose all taken items back to the hoard.",
+        "Only the winner permanently keeps chosen hoard treasures.",
+        "Quaylin says Walker can borrow cash directly from the Haven Hold dragon without racing.",
+        "The party recalls a previous dispel magic attempt during the Sunder Chase that went badly."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:44:42.012Z",
-  "updatedAt": "2026-08-21T18:44:42.012Z"
+  "updatedAt": "2026-09-01T18:30:04.724Z"
 }
