@@ -1,6 +1,8 @@
 {
   "name": "Door",
-  "tags": [],
+  "tags": [
+    "artifact"
+  ],
   "slug": "A door that stretches reality between places",
   "aliases": [],
   "normalizedAliases": [
@@ -19,6 +21,18 @@
         "Individuals can pass through the distorted doorway even though the ship itself is not simply stopped or blocked by the opening.",
         "Closing the door produces a blinding light that follows the stretched path through the ship before the final outcome is determined by a d10/chart system."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Gerk opens it on the ground floor with no destination, slowly in case water comes out, and rolls 68 on a d100; one description calls that table all ocean. The opening is a dark hole of the abyss that makes a thunderous sucking noise. Oily black tentacles pour through and block him from slamming it shut. Looking through forces a Wisdom save; past the tentacles are thousands of staring eyes, one pupil shaped like a small light-complexioned figure, and the view nearly pulls the viewer in. After the tendrils are cut it slams shut, then flies open on a gale-force wind as a weird square outline filled with eyes, with a wall of eyes just inside. Fifth-level Dispel Magic does not close it. Gerk does not close it, and Sylan says only Gerk can end the doorway. Ord finds a gap and is pulled through with a hollow sucking pop. The eyes show him a dock and a younger dragonborn and offer his past for his future, then become white orbs as a red glow builds and eyes blink out. A deep cosmic voice speaks from the abyss. The doorway still appears closable.",
+      "notes": [
+        "Gerk opens it on the ground floor with no destination in mind, slowly in case water comes out, and rolls 68 on a d100. One description calls that table all ocean. The opening is a dark hole of the abyss.",
+        "Opening it makes a thunderous sucking noise. Oily black tentacles pour through and physically block him from slamming it shut.",
+        "Looking through it forces a Wisdom save. Past the tentacles are thousands of staring eyes. One pupil is shaped like a small light-complexioned figure. The view nearly pulls the viewer into that reality.",
+        "After the tendrils are cut, it slams shut, then flies open on a gale-force wind. It then looks like a weird square outline more than a solid door, filled with eyes, and does not clearly reflect what is behind it. A wall of eyes sits just inside.",
+        "Fifth-level Dispel Magic does not close or dismiss it. Gerk does not close it. Sylan says only Gerk can end this doorway.",
+        "Ord finds a gap between the eyes and is pulled through, which makes an oddly hollow sucking pop. The eyes blink him visions of a dock and a younger dragonborn and offer his past in exchange for his future. They then swivel into white orbs, a red glow builds in the dark between them, and eyes pop and blink out as the light intensifies. A deep cosmic voice speaks from the abyss. The doorway still appears closable."
+      ]
     }
   ],
   "openQuestions": [
@@ -28,5 +42,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:37:16.665Z",
-  "updatedAt": "2026-08-21T18:37:16.665Z"
+  "updatedAt": "2026-09-22T19:59:33.436Z"
 }

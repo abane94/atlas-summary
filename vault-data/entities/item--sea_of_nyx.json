@@ -1,0 +1,25 @@
+{
+  "name": "Sea of Nyx",
+  "tags": [],
+  "slug": "Carlkin keeps a first edition of the Sea of Nyx that the party was part of.",
+  "aliases": [],
+  "normalizedAliases": [
+    "sea of nyx"
+  ],
+  "filename": "entities/item/sea_of_nyx.md",
+  "description": "The Sea of Nyx is a written chronicle, also heard once as Sea of Nyxs. The party was part of what the DM calls its first edition.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-09-21",
+      "summary": "Carlkin has papers the DM calls a first edition of the Sea of Nyx mixed on his tables with newer pages of various ages and much older tomes.",
+      "notes": [
+        "Carlkin has papers the DM calls a first edition of the Sea of Nyx, which the party was part of, mixed on his tables with newer pages of various ages and much older tomes."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-22T20:01:42.565Z",
+  "updatedAt": "2026-09-22T20:01:42.565Z"
+}

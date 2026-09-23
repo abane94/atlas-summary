@@ -1,0 +1,154 @@
+{
+    "plotSections": [
+        {
+            "title": "Fighting the extraplanar tentacles",
+            "bullets": [
+                "The party is in melee with a god-tier extraplanar creature whose tentacles are coming through a hole. Dana is about fifteen feet back from the fight. Ord is beside Sylan and has already been hit; one tentacle is grasping Gerk and another has lashed Sylan.",
+                "Sylan suggests Fireball. Dana refuses because it would burn Carlkin's books.",
+                "Dana casts Sacred Flame at the tentacles. The creature makes its Dexterity save (23) and the flame does nothing. She sidesteps out of range and uses a bonus action to give inspiration, cueing Ord.",
+                "Ord spends his last 5th-level slot to cast Holy Weapon (concentration) on his Watcher's Mantle. The mantle is buzzing because the foe is not from this plane, and it deals extra damage for that. He smites with a 4th-level slot and severs the tentacle holding Gerk in a mostly radiant, lightsaber-like arc. The cut end flails; the rest collapses like stagnant water into a puddle of semi-tacky black goo, thicker than water and closer to frog spawn than tar, severed from the hole.",
+                "Two tentacles are still coming through the hole. Ord swings the mantle at the one on Sylan, spends inspiration to land the hit, and smites again with another 4th-level slot. The blow cuts away most of that tentacle, but it stays intact and the strike is less bright than the first."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Dana, about fifteen feet from the fight, rejects Sylan's Fireball so Carlkin's books are not burned.",
+        "Dana's Sacred Flame at the tentacles fails when the creature passes a Dexterity save.",
+        "Dana moves out of range and grants inspiration, turning the turn over to Ord.",
+        "Ord casts Holy Weapon on the Watcher's Mantle with his last 5th-level slot; the weapon reacts because the creature is extraplanar.",
+        "Ord smites and severs the tentacle grasping Gerk, leaving a puddle of black, frog-spawn-like fluid.",
+        "Ord smites the tentacle that lashed Sylan, destroying most of it while leaving it still intact."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Spent his last 5th-level spell slot to cast Holy Weapon (concentration) on the Watcher's Mantle, expecting no further fights that day.",
+                "The mantle buzzes against this extraplanar foe and adds extra damage because the target is not from this plane.",
+                "Smitted twice with 4th-level slots: fully severed the tentacle grasping Gerk, then cut away most of the tentacle on Sylan without finishing it.",
+                "With Holy Weapon active, the mantle's strikes are mostly radiant; the aura coalesces into the blade in a blinding arc."
+            ],
+            "titles": [],
+            "personality": [
+                "Willing to burn his highest remaining slots on this fight rather than hold them."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Was about fifteen feet back from the tentacles.",
+                "Refused to Fireball the fight because it would burn Carlkin's books.",
+                "Cast Sacred Flame at the tentacles; it had no effect after the creature's Dexterity save.",
+                "Moved sideways out of range and granted inspiration so Ord could act."
+            ],
+            "titles": [],
+            "personality": [
+                "Protective of Carlkin's books even in the middle of the fight."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and keeper of the Midgar keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "A tentacle was grasping him until Ord severed it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "His books are in the immediate area of this fight; Dana will not use Fireball because it would burn them."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Watcher's Mantle": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Ord's weapon. It buzzes, like a phone on silent, when he faces this extraplanar creature, and the attack includes extra damage because the target is extraplanar.",
+                "Under Holy Weapon it channels a radiant aura into the blade; the severing blow on Gerk's tentacle looked like a lightsaber swing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Extraplanar tentacled creature": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Confirmed in play as a god-tier monster and explicitly not from this plane.",
+                "Tentacles are coming through a hole. One was grasping Gerk and was fully severed; one lashed Sylan and was mostly severed but remained intact. The DM then described two tentacles still coming through.",
+                "A severed tentacle flails at the cut end, then the rest falls like stagnant water and splashes into semi-tacky black goo with the consistency of frog spawn, not quite tar."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "topicles",
+            "likely": "tentacles",
+            "notes": "Dana's Sacred Flame target."
+        },
+        {
+            "heard": "Tynicoles",
+            "likely": "tentacles",
+            "notes": "Sylan describing the remaining limbs."
+        },
+        {
+            "heard": "Christopher",
+            "likely": "",
+            "notes": "Dana says 'Christopher, why why, sir? Hello' while deciding what to do. No matching name in the known cast."
+        },
+        {
+            "heard": "blomped",
+            "likely": "bumped",
+            "notes": "Dana: 'I'm being blomped as I'm trying to figure out what to do.'"
+        },
+        {
+            "heard": "genuine",
+            "likely": "",
+            "notes": "Dana: 'Sidle sideways to genuine being outside of the range.' Movement out of an area; the middle word is unclear."
+        },
+        {
+            "heard": "Dort",
+            "likely": "Ord",
+            "notes": "Sylan immediately repeats it as Ord."
+        },
+        {
+            "heard": "seven more tentacles",
+            "likely": "two more tentacles",
+            "notes": "DM first says seven more, then agrees there are two tentacles coming through the hole."
+        },
+        {
+            "heard": "Mudray",
+            "likely": "",
+            "notes": "Ord, while deciding whether to spend inspiration on the second attack."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Watcher's Mantle",
+            "notes": [
+                "Ord's weapon. It reacts to extraplanar creatures by buzzing and adds extra damage against them. Holy Weapon turns its strikes into a radiant, lightsaber-like arc."
+            ]
+        }
+    ]
+}

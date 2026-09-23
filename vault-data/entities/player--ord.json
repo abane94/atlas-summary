@@ -53,12 +53,28 @@
         "Asks Gerk to create a replacement door as Doorman; Gerk refuses.",
         "Gerk asks him to stand nearby instead of Sylan while tempers settle."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Ord dispelled the party's invisibility and silence; Dana says the spectral door appeared because he tried to open a door or thought about one. He went with Sylan, Gerk, and Dana to Carlkin, calling him a useful resource they have no reason to distrust. Allies he can see, including Carlkin and even a mouse, add his proficiency bonus to initiative (stated as +6, and once as +7); enemies do not. His initiative was 21, and Sylan's 26 and Dana's 22 include that bonus. Hold Monster failed: spell save DC 18, the creature saved, and it is immune to paralyzed. He spent his last 5th-level slot to concentrate on Holy Weapon on the Watcher's Mantle, which buzzed because the foe is extraplanar. A 24 hit for 16, plus 15 against an off-plane target and 21 from a 4th-level smite, severed the tentacle grasping Gerk in a mostly radiant arc. With Dana's inspiration and another 4th-level smite, a dimmer blow removed most of the tentacle on Sylan but left it intact. He dealt over a hundred damage that turn and had already used his bonus action. A grapple tied his Athletics of 25 and lost the tie, then struck for 19 and 12 bludgeoning; he had no reaction left to stomp. Play confirmed him as an Oath of the Watchers paladin, previously Oath of Vengeance. Disease immunity, Cleansing Touch, and his holy sword do not cover this mental effect. Beside the wall of eyes he failed a Wisdom save of 17, including +5, and expected to succumb. Vigilant Rebuke damages the source when an ally succeeds, even far away; he used his reaction once for 14 radiant damage, popping eyes on the door's edge. Pulled through a gap as pupils tracked him, he babbled about sea breezes and \"my strength.\" After Gerk broke the floor he was left shoulder-deep in a roughly four-to-five-foot hole, looking up at the doorway of eyes. On a Wisdom save of 23, blinks showed a dock's edge and a younger dragonborn, and a melancholy voice offered to show his past if he gave them his future.",
+      "notes": [
+        "He cast the dispel magic that removed the party's invisibility and silence. Dana says the spectral door appeared because he tried to open a door or thought about one.",
+        "He goes with Sylan, Gerk, and Dana to Carlkin. He says Carlkin has been a useful resource and that the party has no reason to distrust him.",
+        "Allies he can see, including Carlkin, add his proficiency bonus to initiative. The bonus is stated as +6, and one report also treats it as +7. It covers other living creatures he can see, which he describes as even a mouse that would have to survive, and it does not apply to the enemy. His own initiative is 21, bonus already included. Sylan's 26 and Dana's 22 include this bonus.",
+        "Hold Monster against the tentacles fails. His spell save DC is 18, the creature saves, and it is immune to the paralyzed condition.",
+        "He spends his last 5th-level spell slot to cast Holy Weapon, concentrating, on the Watcher's Mantle, expecting no further fights that day. The mantle buzzes because the foe is extraplanar. An attack of 24 deals 16, plus 15 because the target is not from this plane, plus 21 from a 4th-level smite (5d8), severing the tentacle grasping Gerk in a mostly radiant arc. He then spends Dana's inspiration and another 4th-level smite on the tentacle attacking Sylan. That second blow is dimmer, removes most of the tentacle, and leaves it intact. He deals over a hundred damage that turn and has already used his bonus action.",
+        "A tentacle tries to grapple him beside Sylan. His Athletics of 25 ties, and the tie goes to him, so it cannot hold him. The follow-up strikes deal 19 and then 12 bludgeoning. He has no reaction left to stomp.",
+        "He is confirmed in play as an Oath of the Watchers paladin; he previously had an Oath of Vengeance. Disease immunity, Cleansing Touch, and his holy sword do not cover this mental effect. Adjacent to the wall of eyes, he fails a Wisdom save of 17, including a +5 bonus, and expects to succumb.",
+        "Vigilant Rebuke lets him damage the source when an ally succeeds on the save, even if that source is far from him. He asks to trigger it for both successes. It costs his reaction, so he uses it once and deals 14 radiant damage, popping eyes on the edge of the door.",
+        "He steps into a gap between the eyes and is pulled bodily through. Pupils track him. He babbles incoherently about sea breezes and \"my strength.\" After Gerk breaks the floor, the arm already inside the mass holds him up somewhat, and he is left shoulder-deep in a roughly four-to-five-foot hole, head and shoulders above ground, looking up at the doorway of eyes.",
+        "On a Wisdom save of 23, each blink shows him the edge of a dock and a younger dragonborn. A reverberating melancholy voice says they will show him his past if he gives them his future."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:51:38.382Z",
-  "updatedAt": "2026-09-01T18:29:43.197Z",
+  "updatedAt": "2026-09-22T19:51:06.590Z",
   "normalizedAliases": [
     "ord"
   ]

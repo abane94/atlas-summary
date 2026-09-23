@@ -17,6 +17,14 @@
         "Gives cryptic guidance that if the mind walks, they should hold their breath and not yell.",
         "Tells the party to trust the path and the Gatekeeper."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "A vision received by basically everyone, triggered by Dana's legend-lore-like interaction with Emhet, showed Grixto at the training-ground hideaway with Al Kurin. The figures left a humble abode looking for guests. The roost Walker enters is that same room, slightly changed: a smaller planning area plus a larger dragon roost. Elrus says he only learned the place existed from that vision.",
+      "notes": [
+        "A vision received by basically everyone, triggered by Dana's legend-lore-like interaction with Emhet, showed Grixto at the training-ground hideaway with Al Kurin. The figures left a humble abode looking for guests.",
+        "The roost Walker enters is that same room, slightly changed: a smaller planning area plus a larger dragon roost. Elrus says he only learned the place existed from that vision."
+      ]
     }
   ],
   "openQuestions": [
@@ -25,7 +33,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T17:12:09.712Z",
-  "updatedAt": "2026-08-21T19:23:48.061Z",
+  "updatedAt": "2026-09-22T19:57:31.704Z",
   "normalizedAliases": [
     "emhet"
   ]

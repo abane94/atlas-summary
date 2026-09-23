@@ -1,0 +1,28 @@
+{
+  "name": "Watcher's Mantle",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Ord's weapon that buzzes and deals extra damage to extraplanar creatures.",
+  "aliases": [],
+  "normalizedAliases": [
+    "watchers mantle"
+  ],
+  "filename": "entities/item/watcher__s_mantle.md",
+  "description": "Ord's weapon. It buzzes, like a phone on silent, when the target is not from this plane, and its hits deal extra damage to extraplanar creatures.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-09-21",
+      "summary": "Ord fights with it in Carlkin's shop. It buzzes when the target is not from this plane, and one hit deals 16 from the weapon plus 15 for that extraplanar property. Under Holy Weapon, a radiant aura coalesces into the blade, and the blow that severs Gerk's tentacle looks like a lightsaber swing, with little actual slashing.",
+      "notes": [
+        "Ord fights with it in Carlkin's shop. It buzzes, like a phone on silent, when the target is not from this plane, and the hit includes extra damage for an extraplanar creature: 16 from the weapon plus 15 for that property.",
+        "Under Holy Weapon, a radiant aura coalesces into the blade. The blow that severs Gerk's tentacle looks like a lightsaber swing, with little actual slashing."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-22T20:03:40.317Z",
+  "updatedAt": "2026-09-22T20:03:40.317Z"
+}

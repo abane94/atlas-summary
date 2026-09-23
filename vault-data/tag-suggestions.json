@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T18:34:26.245Z",
+  "updatedAt": "2026-09-22T20:03:40.318Z",
   "suggestions": [
     {
       "tag": "alchemy",
@@ -105,6 +105,13 @@
         "Haven Hold",
         "Sunder Chase",
         "Hanzuni"
+      ]
+    },
+    {
+      "tag": "region",
+      "reason": "Home regions are broader than a settlement, landmark, or realm, and none of those catalog tags fit.",
+      "exampleEntities": [
+        "Langdale"
       ]
     },
     {

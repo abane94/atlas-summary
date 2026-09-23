@@ -1,0 +1,135 @@
+{
+    "plotSections": [
+        {
+            "title": "Ord severs the tentacle on Gerk",
+            "bullets": [
+                "Ord's Holy Weapon (concentration) strikes as a blinding radiant arc, mostly radiant with very little slashing, and severs the tentacle grasping Gerk.",
+                "The cut end flails; the rest collapses like stagnant water and splashes into a puddle of semi-tacky, gooey black liquid, thicker than water and closer to frog spawn than tar."
+            ]
+        },
+        {
+            "title": "The tentacles still coming through",
+            "bullets": [
+                "More tentacles remain. The DM first says seven more, then confirms two are coming through the opening: one had struck Sylan and one had struck Gerk.",
+                "Ord moves to the tentacle on Sylan, spends inspiration, hits, and burns a 4th-level smite. The blow takes off most of that tentacle, but it stays intact and the strike is less bright than the first. Across the turn he deals over a hundred damage, with his bonus action already used."
+            ]
+        },
+        {
+            "title": "The tentacles strike Ord",
+            "bullets": [
+                "A tentacle tries to grapple Ord. His Athletics ties the contest and the tie goes to him, so it wraps him and then falls away without holding.",
+                "A second tentacle hits him twice for 19 and 12 bludgeoning."
+            ]
+        },
+        {
+            "title": "Sylan cuts the wounded tentacle",
+            "bullets": [
+                "Sylan uses Sentinel when Ord is hit and crits the tentacle Ord had wounded with his +1 greatsword, for 29 damage including radiant. The blade cleaves it further, but tendrils still hold it together.",
+                "On his turn the tentacles are only flailing, none currently grappling. He stays on that same tentacle. Flanking is impossible: it is a tentacle coming out of a door, not a creature that can be flanked. He hits; the damage count is still underway when the chunk ends (sword damage plus 3 radiant)."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord's Holy Weapon severs the tentacle grasping Gerk; the stump flails and the rest splashes down as black, frog-spawn-like goo.",
+        "Two tentacles are still coming through the opening after one each had struck Sylan and Gerk.",
+        "Ord attacks the tentacle on Sylan with inspiration and a 4th-level smite, dealing about 45 damage and over a hundred for the turn. Most of the tentacle is severed, but it remains intact.",
+        "That tentacle fails a contested grapple on Ord, then the other hits him for 19 and 12 bludgeoning.",
+        "Sylan's Sentinel reaction crits the wounded tentacle for 29 damage with his +1 greatsword; tendrils still hold it.",
+        "Sylan continues on that tentacle. The DM rules he cannot flank a tentacle emerging from a door. His hit lands as the chunk cuts off."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Holy Weapon is up and concentrating; the strike reads as a radiant, lightsaber-like arc with little actual slashing.",
+                "Severed the tentacle that was grasping Gerk, then spent inspiration and a 4th-level smite on the tentacle attacking Sylan. That second blow was dimmer and left the tentacle intact after removing most of it. He dealt over a hundred damage and had already used his bonus action.",
+                "Won a contested Athletics grapple on a tie, so a tentacle could not hold him, then took 19 and 12 bludgeoning from the follow-up hits."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Uses Sentinel: when an ally is hit, he can strike as a reaction. He did so when Ord was hit, critting the tentacle Ord had wounded.",
+                "Fights with a +1 greatsword that also deals radiant damage. The reaction dealt 29 total, including radiant from a d8, and still left tendrils holding the tentacle.",
+                "On his turn he kept attacking that flailing tentacle and was told he cannot flank it because it comes out of a door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "A tentacle was grasping him until Ord severed it. Another of the tentacles coming through the opening had also struck him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Black goo tentacles": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Creature",
+            "notes": [
+                "Tentacles reach through a hole or door and grasp or lash. One was holding Gerk; two more were coming through after having struck Sylan and Gerk.",
+                "When severed, the end flails and the rest falls like stagnant water, leaving a puddle of semi-tacky black goo with the consistency of frog spawn, not quite tar.",
+                "They attempt grapples and deal bludgeoning. The one Ord and Sylan focused stayed intact on remaining tendrils after both a heavy smite and a crit.",
+                "They cannot be flanked; they are appendages coming out of a door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Tynicoles",
+            "likely": "tentacles",
+            "notes": "Sylan describing the two still hanging through the opening."
+        },
+        {
+            "heard": "mantle",
+            "likely": "",
+            "notes": "Ord says he will swing the mantle again on the tentacle attacking Sylan. May be his weapon's name."
+        },
+        {
+            "heard": "Satinal",
+            "likely": "Sentinel",
+            "notes": "Sylan's reaction when an ally is hit."
+        },
+        {
+            "heard": "radium",
+            "likely": "radiant",
+            "notes": "Sylan's greatsword damage on the tentacle."
+        },
+        {
+            "heard": "Mudray",
+            "likely": "",
+            "notes": "Ord, just before choosing to spend inspiration on the second attack."
+        },
+        {
+            "heard": "Misardine",
+            "likely": "",
+            "notes": "DM, while totaling the smite dice on Ord's second hit."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Black goo tentacles",
+            "notes": [
+                "Unnamed tentacles emerging from a hole or door. Severed flesh collapses into semi-tacky black liquid like frog spawn. They grapple and deal bludgeoning, and cannot be flanked."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Sylan's relic",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Sylan's relic is an item he still intends to learn how to use.",
+  "aliases": [],
+  "normalizedAliases": [
+    "sylans relic"
+  ],
+  "filename": "entities/item/sylan__s_relic.md",
+  "description": "Sylan possesses a relic that he is still learning to use.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-09-21",
+      "summary": "With about two downtime days available, Sylan plans to spend part of that time getting to know his relic and learning to use it better.",
+      "notes": [
+        "Sylan plans to spend part of the two downtime days getting to know his relic and learning to use it better."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-22T20:00:52.059Z",
+  "updatedAt": "2026-09-22T20:00:52.059Z"
+}

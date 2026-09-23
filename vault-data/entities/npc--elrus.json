@@ -39,6 +39,16 @@
         "Helps teach Walker rudimentary fire signals before splitting off.",
         "Flies to the mountains with Araden to rendezvous later."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "With Araden, Elrus helped end Grixto's group after Grixto killed the guild dragons at the training grounds. He travels with Walker to the training island and speaks into Walker's mind while the wind howls. He identifies the crumbled structure as the guild hall and suspects Grixto's cavern is reached from the backside or underneath. He offers to enter the crack or act as a relay, then stays outside as the relay. Because flag signals need line of sight, he tells Walker to call mentally, and says he can intervene faster than Araden, who would take a long time to dig the crevice open. When Walker contacts him from inside, he asks if Walker is in trouble. He says there has not been a trainee in centuries, that only one person used this place, that he did not know it was there until the vision Walker's friend presented, and that nothing dead should be down there. He agrees to get Plymouth and come down shortly.",
+      "notes": [
+        "With Araden, he brought about the end of Grixto's group after Grixto killed the guild dragons at the training grounds.",
+        "He travels with Walker to the training island and speaks into Walker's mind while the wind howls. He identifies the crumbled structure as the guild hall and suspects Grixto's cavern is reached from the backside or underneath.",
+        "He offers to enter the crack or act as a relay, and stays outside as the relay. Flag signals will not work without line of sight, so he tells Walker to call mentally. He says he can intervene faster than Araden, who would take a long time to dig the crevice open.",
+        "When Walker contacts him from inside, he asks if Walker is in trouble. He says there has not been a trainee in centuries, that only one person used this place, that he did not know it was there until the vision Walker's friend presented, and that nothing dead should be down there. He agrees to get Plymouth and come down shortly."
+      ]
     }
   ],
   "openQuestions": [
@@ -46,5 +56,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:09:04.587Z",
-  "updatedAt": "2026-09-01T18:28:45.424Z"
+  "updatedAt": "2026-09-22T19:56:50.022Z"
 }

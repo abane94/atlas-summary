@@ -37,12 +37,21 @@
         "Hanzuni remembers her as a hatchling and notes she is now fully grown with a rider.",
         "Is roughly similar in size to Hanzuni, who is only slightly larger."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Glimmen enters a crevice with Walker by crawling and squeezing, unable to fly in or out. Backtracking would mean squeezing under her; a younger dragon could tuck, hop out, and fly. Over the mind link she says she thought the place was unused and that the death smells fresh. She grumbles at the smell and readies her fiery breath as Walker advances. While crawling she must use Stealth at disadvantage. She has no Stealth bonus, so the check is Dexterity. She rolls a 19 counted as 18 and works along above Walker in a spiral without making much noise.",
+      "notes": [
+        "She enters the crevice with Walker by crawling and squeezing. She cannot fly in or out. Backtracking means squeezing under her. A younger dragon could tuck, hop out, and fly.",
+        "Over the mind link she says she thought the place was unused and that the death smells fresh. She grumbles at the smell and readies her fiery breath as Walker advances.",
+        "While crawling she must use Stealth at disadvantage. She has no Stealth bonus; the check is Dexterity. She rolls a 19 counted as 18 and works along above Walker in a spiral without making much noise."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:46:29.731Z",
-  "updatedAt": "2026-09-01T18:30:26.021Z",
+  "updatedAt": "2026-09-22T19:58:39.464Z",
   "normalizedAliases": [
     "glimmen"
   ]

@@ -1,11 +1,10 @@
-import type { Page } from "puppeteer-core";
 import fs from "fs/promises";
 import path from "path";
 import readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";
-import { runJsonPrompt } from "./ai.js";
+import type { AiClient } from "./ai.js";
+import { withAi } from "./ai.js";
 import { isDirectRun } from "./is-main.ts";
-import { withChatGptPage } from "./browser.js";
 import { unionTags, validateEntityTags } from "./entity-tags.ts";
 import {
     entityJsonFilename,
@@ -20,8 +19,6 @@ import {
 } from "./vault-data.ts";
 
 const DESCRIPTION_MAX_CHARS = 240;
-const CHATGPT_URL = "https://chatgpt.com";
-
 export interface DuplicateEntityRef {
     path: string;
     name: string;
@@ -236,7 +233,7 @@ export function formatDedupReport(result: DedupResult): string {
 }
 
 export async function findDuplicateEntities(
-    page: Page,
+    ai: AiClient,
     vaultDataFolder = "vault-data",
 ): Promise<DedupResult> {
     const loaded = await loadEntityFiles(vaultDataFolder);
@@ -249,8 +246,8 @@ export async function findDuplicateEntities(
     const knownPaths = new Set(loaded.map((item) => item.filepath));
     console.log(`[dedup] Asking ChatGPT to review ${loaded.length} entities...`);
 
-    await page.goto(CHATGPT_URL, { waitUntil: "domcontentloaded", timeout: 60_000 });
-    const raw = await runJsonPrompt(page, buildDedupPrompt(table, loaded.length), {
+    await ai.resetConversation();
+    const raw = await ai.runJsonPrompt(buildDedupPrompt(table, loaded.length), {
         timeout: 60_000,
         effort: "medium",
     });
@@ -537,7 +534,7 @@ async function loadEntityAtPath(filepath: string): Promise<EntityData | null> {
 }
 
 export async function applyApprovedMerges(
-    page: Page,
+    ai: AiClient | null,
     approved: ApprovedMerge[],
     vaultDataFolder = "vault-data",
     options: { dryRun?: boolean } = {},
@@ -608,8 +605,11 @@ export async function applyApprovedMerges(
             continue;
         }
 
-        await page.goto(CHATGPT_URL, { waitUntil: "domcontentloaded", timeout: 60_000 });
-        const raw = await runJsonPrompt(page, buildMergePrompt(members, merge, aliases), {
+        if (!ai) {
+            throw new Error("applyApprovedMerges requires an AiClient when not dry-running");
+        }
+        await ai.resetConversation();
+        const raw = await ai.runJsonPrompt(buildMergePrompt(members, merge, aliases), {
             timeout: 60_000,
             effort: "medium",
         });
@@ -646,7 +646,7 @@ export async function runInteractiveDedup(
 
     let result: DedupResult;
     try {
-        result = await withChatGptPage(async (page) => findDuplicateEntities(page, vaultDataFolder));
+        result = await withAi(async (ai) => findDuplicateEntities(ai, vaultDataFolder));
     } catch (error) {
         throw error;
     }
@@ -664,7 +664,7 @@ export async function runInteractiveDedup(
     if (options.dryRun) {
         console.log("[dedup] dry-run: skipping ChatGPT merge and file writes.");
         await applyApprovedMerges(
-            null as unknown as Page,
+            null,
             approved,
             vaultDataFolder,
             { dryRun: true },
@@ -672,8 +672,8 @@ export async function runInteractiveDedup(
         return;
     }
 
-    await withChatGptPage(async (page) => {
-        await applyApprovedMerges(page, approved, vaultDataFolder);
+    await withAi(async (ai) => {
+        await applyApprovedMerges(ai, approved, vaultDataFolder);
     });
     console.log("[dedup] Interactive dedup complete.");
 }
@@ -689,8 +689,8 @@ async function main() {
         console.log(await previewEntityTable());
         return;
     }
-    await withChatGptPage(async (page: Page) => {
-        const result = await findDuplicateEntities(page);
+    await withAi(async (ai) => {
+        const result = await findDuplicateEntities(ai);
         console.log(formatDedupReport(result));
     });
 }

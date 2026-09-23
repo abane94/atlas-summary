@@ -1,0 +1,300 @@
+{
+    "plotSections": [
+        {
+            "title": "Walker paused at the crevice",
+            "bullets": [
+                "Walker taps his head. The contact on the other end drops the flag plan: with no line of sight, Walker should call with his mind and they will try to intervene. That help will be faster than Araden, who would take a long time to dig the crevice open.",
+                "Walker is satisfied with that and the scene pauses on him."
+            ]
+        },
+        {
+            "title": "Carlkin's door",
+            "bullets": [
+                "Ord, Sylan, Gerk, and Dana arrive in New Navel at a semi-familiar lighthouse they have been inside once or twice. The door is aged, weathered wood. Posted signs, in mixed styles and several languages, include the equivalent of a no-loitering notice and one the party takes as appointments only.",
+                "Sylan jokes that they need an appointment, then asks if Gerk can read. Gerk says the sign reads \"Knock loud. Be let in.\" and pounds the door. A roll of 12, which he calls a 32, cracks the boards, squeaks the hinges, shifts the door like a struck sandbag, and shakes dust loose. After the third blow Carlkin shouts to stop breaking the door. He says he does not know any \"girls\" and that they have no appointment. Sylan had forgotten Carlkin's voice.",
+                "Gerk keeps hitting it. A bolt slides, and the last blow throws the door open into a pile of crates and books. Carlkin, an elderly turtle, had been holding it and is slid backward, startled, confused, and furious. He says that is not what the signs say: he wrote them in sixteen languages, and asks what they want and why they cannot read.",
+                "Gerk says Sylan wanted to talk to him. Sylan calls Gerk their ambassador and Gerk mocks Sylan's arms. Sylan says they have been dealing with stern matters, takes Carlkin for someone knowledgeable, admits he is not sure they have spoken before, and asks to discuss things of great importance. Carlkin refuses the vagueness and the lack of an appointment, says he is busy studying, and tries to push Gerk back. He has no leverage. Gerk walks in and Carlkin is shoved aside."
+            ]
+        },
+        {
+            "title": "Inside the lighthouse",
+            "bullets": [
+                "The ground floor is piled with boxes, books, and supplies. A heap behind the door stops it dead. Barrels line the other wall. A spiral stair on the far wall goes up. Tables in the middle hold maps, tomes, and loose papers, including what the DM calls a first edition of the Sea of Nyx that the party had been part of, mixed with newer pages of many ages and very old tomes in no order. Porridge bowls are evident. A pile of books in the corner is snoring.",
+                "Before committing, Sylan asks Dana and Ord whether anything should be kept from Carlkin. Ord says Carlkin has been a useful resource and sees no reason to distrust him. Dana says he was one of the original holders and that they have no reason to hide. Sylan takes that as covering their relics, and they all go in.",
+                "The door swings shut behind them almost on its own; Gerk reaches for it and finds it already closing. Sylan tells Carlkin they have questions and knowledge to trade. Carlkin's first question is still why they were banging on his door, then he tells them to produce the knowledge and cut to the chase because he has studying and other appointments."
+            ]
+        },
+        {
+            "title": "A door in the living room",
+            "bullets": [
+                "Gerk opens one of his doorways in Carlkin's living room without knowing the destination. He hopes it is not the ocean and opens it slowly in case water comes through. The DM calls for a d100 and says Gerk is about to learn something about this ability. Gerk rolls 68. The result is not narrated before the chunk ends; the table only jokes that it nearly went badly."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker taps his head and is told to call mentally instead of using flags, because there is no line of sight. Araden would be slow to dig the crevice open. The scene pauses on Walker.",
+        "Ord, Sylan, Gerk, and Dana reach Carlkin's lighthouse in New Navel. Signs include no loitering and appointments only, in several languages.",
+        "Gerk reads a sign as \"Knock loud. Be let in.\" and beats the door until the boards crack. Carlkin yells from inside, denies knowing them, and says they have no appointment.",
+        "Another blow throws the door open onto crates and books. Carlkin, holding it, is knocked back. He says the signs do not say that and that he wrote them in sixteen languages.",
+        "Sylan asks to come in about something important and names Gerk as ambassador. Carlkin refuses without an appointment, fails to push Gerk out, and Gerk walks into the ground floor.",
+        "The room is a clutter of books, maps, barrels, a spiral stair, Sea of Nyx papers the party was part of, porridge bowls, and a snoring pile of books.",
+        "Sylan checks with Ord and Dana. They agree not to hide anything: Carlkin has been useful, and Dana says he was one of the original holders of their relics.",
+        "The door shuts behind them on its own. Carlkin demands the useful knowledge immediately.",
+        "Gerk begins opening a doorway in the room, destination unknown, and rolls a 68 on a d100. The outcome is not described yet."
+    ],
+    "entities": {
+        "Elrus": {
+            "existing": "Walker's hidden ally, relaying from outside the crevice.",
+            "entityType": "NPC",
+            "notes": [
+                "Tells Walker to skip flags and holler with his mind if he needs help, and that this intervention will be faster than Araden digging the crevice open."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"Just holler with your mind and we will do our best to intervene.\""
+            ],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Digging Walker out of the crevice would take her a long time, so she is the slower backup."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Signals by tapping his head, accepts the mental-relay plan, and the scene pauses on him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Ord, Sylan, Gerk, and Dana enter New Navel and go to Carlkin's lighthouse."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person the party believed was back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Lives in a lighthouse in New Navel that the party has entered once or twice. He is elderly.",
+                "Posts mixed-script signs on the weathered wooden door, including no loitering and appointments only, and says he wrote the notices in sixteen languages. He rejects Gerk's reading of \"Knock loud. Be let in.\"",
+                "Answers the pounding by telling them to stop breaking the door, claims he does not know any \"girls,\" and refuses them for lack of an appointment. He was holding the door when Gerk's last blow threw it open into crates and books.",
+                "Calls himself very busy with studying and other appointments. He tries to shove Gerk back out and cannot.",
+                "Dana says he was one of the original holders. Ord says he has been a useful resource and that the party has no reason to distrust him. Sylan is not sure he has actually talked to Carlkin before, and had forgotten his voice.",
+                "His ground floor is cluttered with boxes, barrels, maps, tomes, porridge bowls, papers he has on the Sea of Nyx including a so-called first edition the party was part of, and a pile of books that is snoring. The door swings shut behind the party almost by itself."
+            ],
+            "titles": [
+                "One of the original holders"
+            ],
+            "personality": [
+                "Irritable about unscheduled visitors, pedantic about his signs, and preoccupied with study."
+            ],
+            "quotesThemes": [
+                "\"Stop trying to break down my door.\"",
+                "\"I do not know any girls.\"",
+                "\"No appointment.\"",
+                "\"Can you not read?\"",
+                "\"I wrote it in sixteen different languages.\"",
+                "\"I am a very busy individual. I have much studying to do.\"",
+                "\"Let's see it then.\""
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Says he can read and reads Carlkin's sign as \"Knock loud. Be let in.\" He then knocks hard enough to crack the boards and eventually throw the door open. He rolled a 12 and treated it as a 32 strength check.",
+                "Sylan introduces him to Carlkin as the party's ambassador. He answers Carlkin's complaint by pointing out Sylan's arms and walks in when Carlkin tries to push him out.",
+                "Opens a doorway in Carlkin's living room without a chosen destination, slowly, in case water comes out. He rolls a 68 on a d100. The DM says he is about to learn about this ability. The destination is not described in this chunk."
+            ],
+            "titles": [
+                "Ambassador"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "\"Knock loud. Be let in.\"",
+                "\"I don't know where this will go. Hopefully not the ocean.\""
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "At the lighthouse he jokes about needing an appointment, asks whether Gerk can read, and tells him to knock. He had forgotten Carlkin's voice and is not sure they have spoken before.",
+                "Calls Gerk their ambassador and asks Carlkin to talk about matters of great importance, then asks to come inside.",
+                "Checks with Dana and Ord before sharing anything. After they say Carlkin was an original holder and trustworthy, he agrees not to hide their relics and goes in.",
+                "Offers Carlkin an exchange of knowledge. Carlkin demands he get to the point."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"Gerk is our ambassador.\""
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Enters the lighthouse with Ord, Sylan, and Gerk.",
+                "Tells Sylan that Carlkin was one of the original holders and that they have no reason to hide their relics from him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"He was one of the original holders.\""
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Enters the lighthouse with Sylan, Gerk, and Dana.",
+                "Says Carlkin has been a useful resource and that he sees no reason to distrust him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations, opened by Gerk.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Gerk opens one in the ground floor of Carlkin's lighthouse with no stated destination, slowly, checking for rushing water. A d100 of 68 is rolled. The DM frames it as Gerk learning how this ability behaves. Where it leads is not narrated in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sea of Nyx": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Carlkin has aged papers the DM calls a first edition of the Sea of Nyx, which the party had been part of, mixed on his tables with newer pages and much older tomes."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Toe",
+            "likely": "",
+            "notes": "\"Dana and Toe enter into New Navel.\" Extra name or a garble of the arrival line."
+        },
+        {
+            "heard": "evil, no loitering",
+            "likely": "",
+            "notes": "DM's reading of a door sign, \"the equivalent of\" that phrase. Exact wording is uncertain."
+        },
+        {
+            "heard": "girls",
+            "likely": "Gerk",
+            "notes": "Carlkin: \"I do not know any girls,\" right after he is addressed and before he refuses them for having no appointment. He later says \"What do you want, girl?\""
+        },
+        {
+            "heard": "Burk",
+            "likely": "Gerk",
+            "notes": "DM names him while Carlkin is answering the door."
+        },
+        {
+            "heard": "store",
+            "likely": "door",
+            "notes": "\"I wrote it in sixteen different languages on the store.\""
+        },
+        {
+            "heard": "punty",
+            "likely": "puny",
+            "notes": "Gerk on Sylan's arms: \"punty little baby arms.\""
+        },
+        {
+            "heard": "Orden data",
+            "likely": "Ord and Dana",
+            "notes": "DM asking whether Ord and Dana are entering too."
+        },
+        {
+            "heard": "Ciri Kidd",
+            "likely": "Carlkin",
+            "notes": "Sylan addressing the turtle in the lighthouse."
+        },
+        {
+            "heard": "Zylin",
+            "likely": "Sylan",
+            "notes": "Dana: \"I'm gonna follow Zylin.\""
+        },
+        {
+            "heard": "JCR",
+            "likely": "the chase",
+            "notes": "Carlkin: \"Let's cut to that JCR.\""
+        },
+        {
+            "heard": "Sea of Nyxs",
+            "likely": "Sea of Nyx",
+            "notes": "Papers on Carlkin's tables, called a first edition the party was part of."
+        },
+        {
+            "heard": "I don't think I work well",
+            "likely": "",
+            "notes": "Sylan, while Dana is saying Carlkin was an original holder. May be \"I don't know him well.\""
+        },
+        {
+            "heard": "telephone is real",
+            "likely": "",
+            "notes": "Sylan as Gerk starts the doorway: \"You're gonna do a telephone is real. Where is it going?\""
+        },
+        {
+            "heard": "Lesson Tiger",
+            "likely": "",
+            "notes": "Gerk, just before the d100 for the doorway."
+        },
+        {
+            "heard": "Hoover house",
+            "likely": "",
+            "notes": "Sylan after the 68: \"It almost opened up to a Hoover house.\" Player comment, not the DM's narration of the result."
+        },
+        {
+            "heard": "almost passing great",
+            "likely": "",
+            "notes": "Gerk's comment on the d100 of 68, before any described destination."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "New Navel",
+            "notes": [
+                "Where Ord, Sylan, Gerk, and Dana find Carlkin's lighthouse."
+            ]
+        },
+        {
+            "name": "Sea of Nyx",
+            "notes": [
+                "Papers in Carlkin's lighthouse, including a first edition the party had been part of, kept with newer pages and older tomes."
+            ]
+        }
+    ]
+}

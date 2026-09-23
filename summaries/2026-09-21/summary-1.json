@@ -1,0 +1,258 @@
+{
+    "plotSections": [
+        {
+            "title": "Invisibility resolved; phylactery hunt continues",
+            "bullets": [
+                "The party’s invisibility and silence are already solved: Ord dispelled the effect while the crew yelled and rocked the boat, and the party used their communication items once they realized magic could end it.",
+                "They are still hunting a phylactery. The ship is flying home to Langdale Stronghold to meet Walker on his return. Sylan expects Carlkin and Benji may have leads; if those fail, he expects a return to Nyx despite not wanting to go."
+            ]
+        },
+        {
+            "title": "The spectral door on the voyage",
+            "bullets": [
+                "A shut, corporeal spectral door with no frame and no writing follows the ship. It is translucent and glowing. The party has thought about opening it and has not. Gerk will not touch it aboard after previously sinking and turning invisible.",
+                "Dana ties the door to Gerk’s Doorman role and to Ord having tried to open, or merely thought of, a door. She treats it as keystone-level magic and doubts a simple dispel would dismiss it or that dispelling the door would be the same as making it leave. Sylan suggests waiting about four hours and consulting the magic users if it remains; both agree to test only on solid ground.",
+                "About the same time of day the door was opened, it pops out of existence. Gerk feels briefly less protected, then that feeling fades. The space-altering effect is gone and the stern is empty. The party later reads the duration as at least about twenty-four hours. Gerk did not experiment with it. He checks a watch; after confusion about how to read it, the watch does move."
+            ]
+        },
+        {
+            "title": "Walker at Haven Hold",
+            "bullets": [
+                "Walker is leaving Hanzuni’s hoard room at Haven Hold. He set no meeting time with Elrus or Araden and is on his own running-track training schedule.",
+                "His training has a level of exhaustion, imposing disadvantage on ability checks. The party plans to regroup after about a week for them, which the DM frames as roughly a month for Walker under a sevenfold time difference."
+            ]
+        },
+        {
+            "title": "Five days to Langdale",
+            "bullets": [
+                "The voyage from the DM’s named departure point to the stronghold takes five days through the Twin Peaks, uneventful, with autumn snowline, migrating herds, and no further door.",
+                "Langdale is in harvest. A familiar hut is ringed with manageable tomato fields. Trade caravans move between New Navel and the party’s tavern, with some traffic toward the Rita area. More fishing boats and net-casters are on the glassy lake and its coves as the ship circles in to land."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan recaps that Ord’s dispel magic ended the party’s invisibility and silence after the crew shouted and rocked the boat, and that they then used their communication items.",
+        "The DM confirms the spectral door is still following and that the party is still seeking a phylactery while flying home to meet Walker.",
+        "Sylan names Carlkin and Benji as possible leads and Nyx as the fallback.",
+        "The DM places Walker in Hanzuni’s hoard room at Haven Hold, exhausted from training, with no set time to meet Elrus or Araden, while the others sail with the door behind them toward the stronghold.",
+        "Gerk confirms Dana can see the glowing door. Dana calls him the Doorman and suggests closing it; he refuses to use it on the boat.",
+        "The door is described as shut, corporeal, frameless, and without writing. The party agrees not to test or dispel it until they are on solid ground, in case it is keystone-level and tied to the Doorman role rather than an ordinary spell.",
+        "After roughly a day, near the same time of day it appeared, the door vanishes. Gerk feels briefly more vulnerable, then the feeling fades, and the rest of the five-day autumn crossing of the Twin Peaks is quiet.",
+        "They reach harvest-time Langdale: tomato fields by a familiar hut, caravans from New Navel and the Rita area, new fishing traffic on the glassy lake, and they circle to land at the stronghold.",
+        "The party notes the door is gone and treats its duration as about a day. Gerk checks his watch and, after struggling to read it, concludes it is moving."
+    ],
+    "entities": {
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "It followed the ship as a shut, corporeal, translucent glowing door with no frame and no writing or other information.",
+                "The party did not open it on the voyage. It vanished on its own about the same time of day it had appeared, after they treated the duration as roughly twenty-four hours.",
+                "When it vanished, the space-altering effect ended and Gerk briefly felt less protected.",
+                "Dana argues it manifested because Ord tried to open a door or thought of one, and that Doorman and keystone-level magic may not be removed by dispel magic the way the invisibility effect was."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Dana identifies the following door as part of his Doorman role. He will not use it aboard after previously sinking and turning invisible, and he does not experiment during the wait.",
+                "He notices the door is gone and feels briefly more vulnerable before that sensation fades.",
+                "He checks a watch to judge whether twelve or twenty-four hours passed. He has trouble reading it; the watch does move."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She can see the glowing door and suggests Gerk simply close it.",
+                "She warns that a dispel on the door itself might not dismiss a Doorman or keystone-level effect, and that they should wait until they are not airborne."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He briefs Dana on the dispel of invisibility and silence and keeps the ship flying toward the stronghold.",
+                "He proposes leaving the door alone for about four hours, then consulting the spellcasters on solid ground.",
+                "He plans to check Carlkin and Benji for leads and expects Nyx if those fail. He later infers the door lasted about a day."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "His dispel magic removed the effect that made the party invisible and silent.",
+                "Dana says the spectral door appeared because he tried to open a door or thought about a door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He is leaving Hanzuni’s hoard room at Haven Hold on his own running-track training schedule, with no meeting time set with Elrus or Araden.",
+                "Training leaves him with a level of exhaustion and disadvantage on ability checks.",
+                "About a week of travel for the party is described as roughly a month for him, at a sevenfold time rate. The others are flying home to meet him when he returns."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Hanzuni": {
+            "existing": "Ancient copper dragon of Haven Hold who loans gold for quests.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker has just spoken with him and is leaving the hoard room. The DM calls him the hoard master of Haven Hold."
+            ],
+            "titles": [
+                "Hoard master of Haven Hold"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan thinks Carlkin may have a lead when the party reaches home."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Benji": {
+            "existing": "Familiar with The Reach and may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan thinks Benji may have a lead when the party reaches home."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nyx": {
+            "existing": "Nyx may hold hobgoblins who know where the lich is hiding.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sylan expects the party will have to go back to Nyx if Carlkin, Benji, and other leads produce nothing. He does not want to."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale": {
+            "existing": "Forested home region identified by its flora, fauna, and landmarks.",
+            "entityType": "LOCATION",
+            "notes": [
+                "After five days the party finds it in harvest, with crops ready near a familiar hut surrounded by small tomato fields.",
+                "Trade caravans run from New Navel to the party’s tavern, and some still travel to and from the Rita area.",
+                "The glassy lake has more fishing vessels, and fishermen are casting nets in the coves."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorman": {
+            "existing": "Gerk's Doorman role and doorway ability.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Dana treats the lingering spectral door as a product of this role. She suspects ordinary dispel magic will not dismiss it because it is keystone-level."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Aeris",
+            "likely": "Aris",
+            "notes": "Sylan says they used communication items and then Aeris, and that two magical characters solved invisibility. Aris is Ord’s player."
+        },
+        {
+            "heard": "Hazuni",
+            "likely": "Hanzuni",
+            "notes": "Copper dragon and hoard master Walker is leaving at Haven Hold."
+        },
+        {
+            "heard": "Monta Valia",
+            "likely": "",
+            "notes": "DM names this as the start of the five-day voyage to the stronghold."
+        },
+        {
+            "heard": "New Navel",
+            "likely": "",
+            "notes": "Origin of trade caravans that stop at the party’s tavern in Langdale."
+        },
+        {
+            "heard": "Rita",
+            "likely": "",
+            "notes": "DM refers to caravans still going to and from the Rita area."
+        },
+        {
+            "heard": "Island crab",
+            "likely": "",
+            "notes": "DM corrects his notes from invisible crab to island crab. Gerk then worries the door might take them to the crabs."
+        },
+        {
+            "heard": "invisible crab",
+            "likely": "Island crab",
+            "notes": "DM rejects this wording in the same note check."
+        },
+        {
+            "heard": "three island boys",
+            "likely": "",
+            "notes": "Gerk immediately glosses this as the crabs, in the island-crab note."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Twin Peaks",
+            "notes": [
+                "Mountain range the ship crosses on the five-day autumn voyage from the departure point to Langdale. Snow is creeping down from the higher slopes, and migratory herds are moving through."
+            ]
+        },
+        {
+            "name": "New Navel",
+            "notes": [
+                "Unclear place name. Trade caravans from there stop at the party’s tavern in Langdale."
+            ]
+        },
+        {
+            "name": "Rita area",
+            "notes": [
+                "Unclear place name. Some caravans still travel between Langdale and this area."
+            ]
+        }
+    ]
+}

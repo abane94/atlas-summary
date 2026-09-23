@@ -1,0 +1,172 @@
+{
+    "plotSections": [
+        {
+            "title": "The last tendril",
+            "bullets": [
+                "A prior hit for 21 damage shears the remaining dark tendrils off their connecting point. Black ichor splashes the room again, leaving one tentacle and an ominously cracked door.",
+                "Sylan cuts at that last tentacle, close to where the door would shut. It reforms slightly as it is struck, but the damage shows. Across the round he lands three hits, including a Distracting Strike (next ally to hit it has advantage) and a Trip that the door is likely too big for, then spends a class resource he calls a warp priest point for a final slash.",
+                "Those three attacks total 75 damage. The last cut breaks the final tendrils free. A stump is left wriggling in the door and the rest falls, splattering. Sylan had been weighing Action Surge to finish it and does not need to."
+            ]
+        },
+        {
+            "title": "Wall of eyes",
+            "bullets": [
+                "Sylan warns Carlkin he is in the splash zone. Carlkin beelines for the stairs. Gerk jokes about opening another door so the doors can fight, or going three doors down. The door slams shut.",
+                "At the end of Sylan's turn the door uses a legendary action. It flies open and a gale blows out. Behind it is nothing but a wall of eyes.",
+                "Dana, who had moved as far away as she could, and Carlkin, already running, are not fully exposed. Sylan, Gerk, and Ord, standing adjacent, must make Wisdom saves. The effect is a magical mental ability, not sleep and not charm or fear.",
+                "Sylan uses Indomitable and saves with a 25. Gerk saves with a 23. Ord rolls a 17 and fails, and expects to succumb."
+            ]
+        },
+        {
+            "title": "Vigilant Rebuke",
+            "bullets": [
+                "Ord is an Oath of the Watchers paladin, previously Oath of Vengeance. Sylan hopes a holy sword, disease immunity, or Cleansing Touch would have protected him. They do not stop this effect.",
+                "Ord uses Vigilant Rebuke: when a creature he can see succeeds on the mental save, he can strike the source for psychic damage, and the source does not need to be within a set distance of him. He asks to apply it to both allies who saved. The DM agrees it works. The chunk ends before the damage is rolled."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Black tendrils fall away after 21 damage, coating the room in black ichor and leaving one tentacle and a cracked door.",
+        "Sylan hits the last tentacle three times for 75 damage total, using Distracting Strike, a Trip, and an extra slash. The tendrils break free, leaving a wriggling stump in the door.",
+        "Sylan tells Carlkin to take cover. Carlkin runs for the stairs. Gerk floats opening another door to fight this door.",
+        "The door slams shut, then on a legendary action flies open into a gale and a wall of eyes.",
+        "Sylan (25, with Indomitable) and Gerk (23) pass the Wisdom save. Ord (17) fails.",
+        "Ord, Oath of the Watchers, begins Vigilant Rebuke against the source for each ally who saved. Damage is not resolved in this chunk."
+    ],
+    "entities": {
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Cuts down the last tendril on the cracked door for 75 damage in one round, using Distracting Strike so the next ally to hit has advantage, a Trip the creature is probably too large for, and an extra slash funded by a resource heard as warp priest points.",
+                "Considers spending Action Surge to finish the tendril, then does not need to once the DM totals the damage.",
+                "Warns Carlkin out of the splash zone.",
+                "Uses Indomitable and succeeds on the wall of eyes Wisdom save with a 25."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Forever unclean, on the ichor coating the room."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Stands adjacent to the opened door and fails the Wisdom save with a 17, including a +5 bonus. He expects to succumb to the wall of eyes.",
+                "Is an Oath of the Watchers paladin. He previously had a different subclass, referred to as Revenge (Vengeance). Disease immunity, Cleansing Touch, and his holy sword are discussed as not covering this mental effect.",
+                "Uses Vigilant Rebuke on allies who succeed on the save. The psychic damage does not require the source to be near him, so a creature forcing the save from across the area can still be struck. He asks to trigger it for both successful saves, and the DM agrees. Damage is not rolled in this chunk."
+            ],
+            "titles": [
+                "Oath of the Watchers paladin"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Suggests going through a door to fight this door, opening a second door so the two doors fight, or going three doors down.",
+                "Sees the door slam shut after the tendrils are cut.",
+                "Succeeds on the wall of eyes Wisdom save with a 23 (18 plus a +5 bonus)."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Had already moved as far from the door as she could, so she is not among those forced to save against the wall of eyes."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person previously believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Is present in this fight, in the splash zone of the tendril and the door.",
+                "After Sylan warns him to take cover, he beelines toward the stairs and is running when the wall of eyes appears, so he is not required to make the Wisdom save."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Wall of Eyes": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Creature",
+            "notes": [
+                "A hostile cracked door fought in a room now coated in black ichor. Dark tendrils connected to it; cutting them leaves a stump wriggling in the doorway while the rest collapses and splatters.",
+                "The tendril mass is pretty big, bigger than Large, and reforms a little when cut.",
+                "It has a legendary action. After the tendrils are destroyed the door slams shut, then flies open. A gale-force wind blows out and the opening shows nothing but a wall of eyes.",
+                "The wall forces a Wisdom save on creatures adjacent to it. The DM describes this as a magical mental ability, not sleep and not charm or fear.",
+                "Ord's Vigilant Rebuke can damage it when nearby allies succeed on that save, even if the source is far from Ord."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Icker",
+            "likely": "ichor",
+            "notes": "The black goo that splashes from the tendrils and coats the room."
+        },
+        {
+            "heard": "Gerk Oprah",
+            "likely": "",
+            "notes": "DM line heard as 'This Gerk Oprah is another fucking door' just as the tendril fight is identified as a door."
+        },
+        {
+            "heard": "warp priest points",
+            "likely": "",
+            "notes": "Sylan spends one to make a final slash after Distracting Strike and Trip Attack. Resource name is unclear."
+        },
+        {
+            "heard": "dagger door",
+            "likely": "",
+            "notes": "Sylan: 'Can't open another dagger door today,' while Gerk is talking about opening another door."
+        },
+        {
+            "heard": "Garpin",
+            "likely": "Carlkin",
+            "notes": "Sylan says 'I save Garpin' during the Wisdom saves, while Carlkin is the bystander he told to take cover."
+        },
+        {
+            "heard": "charm of fan",
+            "likely": "charm or fear",
+            "notes": "DM: the wall of eyes is not a charm of fan; it is a magical mental ability. Sylan had asked if it was sleep or a charm."
+        },
+        {
+            "heard": "organs bonus",
+            "likely": "",
+            "notes": "Gerk's Wisdom save: 'eighteen plus organs bonus,' later totaling 23 after the DM says five."
+        },
+        {
+            "heard": "word photos",
+            "likely": "",
+            "notes": "Gerk asks 'what's word photos? five? four?' and the DM answers five, just before Gerk's save is totaled as 23."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Wall of Eyes",
+            "notes": [
+                "What the cracked door reveals when it flies open on a legendary action: a gale and a wall of eyes that forces a Wisdom save. The effect is a magical mental ability, not sleep, charm, or fear. Destroying the door's dark tendrils left a stump wriggling in the door and splashed the room with black ichor."
+            ]
+        }
+    ]
+}

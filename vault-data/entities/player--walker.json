@@ -86,12 +86,25 @@
         "Cannot throw the gold hand into the hoard to trigger a Sunder Chase.",
         "Declines a Sunder Chase due to time pressure and accepts Hanzuni's quest-based gold loan terms."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Walker leaves Hanzuni's hoard room at Haven Hold on his own training schedule, with no meeting set with Elrus or Araden. The regimen has left him with one level of exhaustion and disadvantage on ability checks. Under a sevenfold time difference, about a week of party travel is roughly a month for him; the others fly home to meet him, and from the stronghold he is expected back in about two days, with Sylan taking an earlier check-in as a sign he is fine. He does not go to Carlkin. He meets Elrus and Araden and, after Plymouth finishes an errand, travels with them from Sunder to the training island, not remembering why until the Grixto hideaway lead is restored. Sylan has told him to retreat rather than fight if Grixto is there. He rolls a 21 on Perception, finds the hidden ledge and crevice, leaves Araden outside with Elrus as a mental relay and Plymouth searching the guild stronghold, and signals Elrus by tapping his head. Bow drawn, he climbs the narrow path toward the smell of death (passive Perception 18), hears faint humming and two stones tapping, and has Elrus bring Plymouth down. Approaching the roost with Glimmen, he fails a disadvantaged Stealth check with a 10. He recognizes the cavern from Emhet's vision, notes the smaller side has changed slightly, refuses Vecna's request to help retrieve a book, and walks in. His replacement arm and hand are compared to Vecna's; both losses are tied to a battle over an item the party reached first.",
+      "notes": [
+        "He leaves Hanzuni's hoard room at Haven Hold on his own training schedule, with no meeting time set with Elrus or Araden. The regimen has given him one level of exhaustion and disadvantage on ability checks.",
+        "About a week of travel for the party is roughly a month for him under a sevenfold time difference. The others are flying home to meet him. From the party's side at the stronghold, he is expected back in about two days, and Sylan treats an earlier check-in as evidence he is fine.",
+        "He does not go to Carlkin. He meets Elrus and Araden and, after Plymouth finishes an errand, travels with them from Sunder to the training island. He does not remember why they are going until the DM restores the Grixto hideaway lead. Sylan has told him to retreat rather than fight if Grixto is there.",
+        "He rolls a 21 on Perception, finds the hidden ledge and crevice, and investigates. He leaves Araden outside, Elrus as a mental relay, and Plymouth searching the guild stronghold with orders not to wander too far. He signals Elrus by tapping his head.",
+        "He climbs the narrow cliff path into the crevice with his bow drawn, stalking the smell of death. His passive Perception is 18. He hears faint humming and two different stones tapping. He confirms with Elrus that the place should have been unused for centuries, then has Elrus bring Plymouth down while he continues.",
+        "He approaches the roost with Glimmen and fails a disadvantaged Stealth check with a 10; his footsteps echo. He recognizes the cavern as the room from Emhet's vision. The smaller side has changed slightly since that vision. He refuses Vecna's request to help retrieve a book and walks in.",
+        "His own arm and hand are a replacement, compared directly to Vecna's alchemical or mechanical replacement. Both losses are tied to a battle over an item the party reached first."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:15:38.663Z",
-  "updatedAt": "2026-09-01T18:27:45.683Z",
+  "updatedAt": "2026-09-22T19:51:39.303Z",
   "normalizedAliases": [
     "walker"
   ]

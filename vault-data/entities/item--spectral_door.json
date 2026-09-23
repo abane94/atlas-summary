@@ -41,6 +41,17 @@
         "Continues to follow Gerk after travel resumes, staying near him and fixed on the ship when it moves.",
         "Remains non-interactable despite Gerk's attempts to dismiss it."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "The spectral door followed the ship toward the stronghold as a shut, corporeal, translucent glowing door with no frame, writing, or other markings. The party never opened it. Gerk refused to use it aboard after a previous use sank him and turned him invisible. Sylan suggested leaving it alone for about four hours and, if it remained, asking the spellcasters only once they were on solid ground. The dispel that ended the party's invisibility and silence did not remove it. Dana argued it was keystone-level Doorman magic, manifested because Ord tried to open a door or thought of one. It lasted about a day, then vanished on its own around the same time of day it had appeared. The space-altering effect ended, and Gerk briefly felt less protected before that feeling faded.",
+      "notes": [
+        "It followed the ship toward the stronghold as a shut, corporeal, translucent glowing door with no frame, no writing, and no other markings.",
+        "The party never opened it. Gerk refused to use it aboard after a previous use sank him and turned him invisible.",
+        "Sylan suggested leaving it alone for about four hours and, if it remained, asking the spellcasters only once they were on solid ground.",
+        "The dispel that ended the party's invisibility and silence did not remove it. Dana argued it was keystone-level Doorman magic, manifested because Ord tried to open a door or thought of one.",
+        "It lasted about a day, then vanished on its own around the same time of day it had appeared. The space-altering effect ended, and Gerk briefly felt less protected before that feeling faded."
+      ]
     }
   ],
   "openQuestions": [
@@ -51,5 +62,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:45:54.189Z",
-  "updatedAt": "2026-09-01T18:31:08.888Z"
+  "updatedAt": "2026-09-22T19:47:58.764Z"
 }

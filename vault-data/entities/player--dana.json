@@ -70,6 +70,18 @@
         "The party says she is the one most likely able to stop them if dispelling the magic causes the ship to fall.",
         "Is absent this session and lacks investigative spells such as detect magic for the door study."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Dana sees the glowing door following Gerk, calls him the doorman, and tells him to close it. She argues it is keystone-level Doorman magic, possibly manifested because Ord tried to open a door or thought of one, and warns against trying to dispel it while airborne. A legend-lore-like exchange with Emhet triggers a shared vision of Grixto at the training-ground hideaway with Al Kurin. She goes with Sylan, Gerk, and Ord to Carlkin and tells Sylan that Carlkin was one of the original holders, so they have no reason to hide their relics from him. In the fight she stays at the back (initiative 22, after Ord’s +6). She hears the tentacles and steps back, then retreats another half of her movement when Sylan uses maneuvering strike, ending about fifteen feet from the doorway, and acknowledges Gerk’s warning not to look. She refuses Fireball so it will not burn Carlkin’s books; Sacred Flame has no effect after the creature’s Dexterity save of 23. She sidesteps out of range and gives Ord inspiration, asking him to do paladin things. Far enough from the wall of eyes that she does not have to save, she casts 5th-level Dispel Magic on the eye-door to force it shut, with no effect. She will not use Grasping Vine, unwilling to drag whatever is in the door out, then gives Sylan Bardic Inspiration and ends her turn.",
+      "notes": [
+        "She can see the glowing door following Gerk, calls him the doorman, and tells him to close it. She argues it is keystone-level Doorman magic, possibly manifested because Ord tried to open a door or thought of one, and warns against trying to dispel it while airborne.",
+        "A legend-lore-like interaction between her and Emhet triggered the shared vision of Grixto at the training-ground hideaway with Al Kurin.",
+        "She goes with Sylan, Gerk, and Ord to Carlkin. She tells Sylan that Carlkin was one of the original holders and that they have no reason to hide their relics from him.",
+        "She stays at the back of the fight. Initiative 22 after Ord's +6. She hears the tentacles and steps back, then retreats another half of her movement when Sylan uses maneuvering strike, ending about fifteen feet from the doorway. She acknowledges Gerk's warning not to look.",
+        "She refuses to cast Fireball because it would burn Carlkin's books. Sacred Flame has no effect after the creature's Dexterity save of 23. She sidesteps out of range and uses a bonus action to give Ord inspiration, asking him to do paladin things.",
+        "She is far enough from the wall of eyes that she does not have to save. She casts 5th-level Dispel Magic on the eye-door to force it shut, and the spell has no effect. She has Grasping Vine available but will not use it, because she does not want to drag whatever is in the door out. She gives Sylan Bardic Inspiration and ends her turn."
+      ]
     }
   ],
   "openQuestions": [
@@ -77,7 +89,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:54:14.175Z",
-  "updatedAt": "2026-09-01T18:29:30.900Z",
+  "updatedAt": "2026-09-22T19:49:16.017Z",
   "normalizedAliases": [
     "dana"
   ]

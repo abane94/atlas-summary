@@ -1,0 +1,25 @@
+{
+  "name": "Tunimus",
+  "tags": [],
+  "slug": "Killed by Grixto after Grixto grew stronger on stolen Al Kurin.",
+  "aliases": [],
+  "normalizedAliases": [
+    "tunimus"
+  ],
+  "filename": "entities/npc/tunimus.md",
+  "description": "Tunimus was killed by Grixto after Grixto amplified his power with stolen Al Kurin. The DM alluded to a second victim, possibly Tunimus's right hand, whose name he could not recall. Their group then met its end at the hands of Elrus and Araden.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-09-21",
+      "summary": "The DM recounted that Grixto killed Tunimus after amplifying his power with stolen Al Kurin, and alluded to a second victim, possibly Tunimus's right hand, whose name he could not recall. Their group then met its end at the hands of Elrus and Araden.",
+      "notes": [
+        "Killed by Grixto after Grixto amplified his power with stolen Al Kurin. The DM also alluded to a second victim, possibly Tunimus's right hand, whose name he could not recall. Their group then met its end at the hands of Elrus and Araden."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-22T20:00:32.108Z",
+  "updatedAt": "2026-09-22T20:00:32.108Z"
+}

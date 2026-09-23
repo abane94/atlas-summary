@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 // import { MergedSessionData, SessionChunkSummary } from './types/session.ts';
-import { runJsonPrompt } from './ai.js';
+import type { AiClient } from './ai.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -75,12 +75,23 @@ export interface SessionChunkSummary {
     openQuestions: string[];
   }
   
+  /** One hearing from a single chunk. Grouping happens when the session is merged. */
   export interface MisTranscription {
-    /** What the transcript said. */
+    /** What the transcript said. One spelling, not a slash-joined list. */
     heard: string;
     /** Best guess for the intended term; empty string if unknown. */
     likely: string;
     /** Why / context. Empty string if none. */
+    notes: string;
+  }
+
+  /** Same intended term across chunks, with every distinct hearing collected. */
+  export interface DedupedMisTranscription {
+    /** Best guess for the intended term. Empty string if still unknown. */
+    likely: string;
+    /** Distinct transcript spellings of this one term. */
+    heard: string[];
+    /** Combined context for the term and its hearings. */
     notes: string;
   }
   
@@ -92,8 +103,9 @@ export interface SessionChunkSummary {
 
 
 
-    export type MergedSessionData = SessionChunkSummary & {
+    export type MergedSessionData = Omit<SessionChunkSummary, "misTranscriptions"> & {
         dedupedEntities: Record<string, EntityUpdate>;
+        misTranscriptions: DedupedMisTranscription[];
     }
 //#endregion
 
@@ -133,7 +145,8 @@ export function generateSessionData(date: string): { summaries: SessionChunkSumm
     return { summaries };
 }
 
-export async function mergeSessionData(page: any, sessionData: { summaries: SessionChunkSummary[] }): Promise<SessionChunkSummary> {
+export async function mergeSessionData(ai: AiClient, sessionData: { summaries: SessionChunkSummary[] }): Promise<MergedSessionData> {
+    const flatMisTranscriptions: MisTranscription[] = [];
     const merged: MergedSessionData = {
         plotSections: [],
         chronologicalEvents: [],
@@ -147,7 +160,7 @@ export async function mergeSessionData(page: any, sessionData: { summaries: Sess
     for (const summary of sessionData.summaries) {
         merged.plotSections.push(...summary.plotSections);
         merged.chronologicalEvents.push(...summary.chronologicalEvents);
-        merged.misTranscriptions.push(...summary.misTranscriptions);
+        flatMisTranscriptions.push(...summary.misTranscriptions);
         merged.openQuestions.push(...summary.openQuestions);
         merged.newTerms.push(...summary.newTerms);  //// -------------
 
@@ -174,10 +187,8 @@ export async function mergeSessionData(page: any, sessionData: { summaries: Sess
         merged.newTerms = dedupedNewTerms;
     }
 
-    const url = "https://chatgpt.com";
-
-    await page.goto(url, { waitUntil: "networkidle2" });
-    const plotSections = await runJsonPrompt(page, `
+    await ai.resetConversation();
+    const plotSections = await ai.runJsonPrompt(`
         This json blob below is a list of plot sections that have been updated in the session.
         They were the outcome of baches of transcription summerization that was done prgramatically,
         There are likely many duplicates in the list, that may have similar but different names, or descriptions, or other information.
@@ -201,8 +212,8 @@ export async function mergeSessionData(page: any, sessionData: { summaries: Sess
     console.log(plotSections);
     merged.plotSections = JSON.parse(plotSections).plotSections;
 
-    await page.goto(url, { waitUntil: "networkidle2" });
-    const chronologicalEvents = await runJsonPrompt(page, `
+    await ai.resetConversation();
+    const chronologicalEvents = await ai.runJsonPrompt(`
         This json blob below is a list of chronological events that have been updated in the session. This merge was done prgramatically,
         Can you please return a new json blob that matches the original format, but mergeing any common chronological events and removing any duplicate information
         The out put should be json and only json following this iterface
@@ -216,8 +227,8 @@ export async function mergeSessionData(page: any, sessionData: { summaries: Sess
     merged.chronologicalEvents = JSON.parse(chronologicalEvents).events;
 
 
-    await page.goto(url, { waitUntil: "networkidle2", timeout: 60000 });
-    const entities = await runJsonPrompt(page, `
+    await ai.resetConversation();
+    const entities = await ai.runJsonPrompt(`
         This json blob below is a list of entities that have been updated in the session.
         They were the outcome of baches of transcription summerization that was done prgramatically,
         There are likely many duplicates in the list, that may have similar but different names, or descriptions, or other information.
@@ -266,8 +277,8 @@ export async function mergeSessionData(page: any, sessionData: { summaries: Sess
         ${JSON.stringify(merged.entities, null, 4)}
     `, { timeout: 60_000, effort: "medium" });
 
-    await page.goto(url, { waitUntil: "networkidle2" });
-    const terms = await runJsonPrompt(page, `
+    await ai.resetConversation();
+    const terms = await ai.runJsonPrompt(`
         This json blob below is a list of terms that have been updated in the session.
         They were the outcome of baches of transcription summerization that was done prgramatically,
         There are likely many duplicates in the list, that may have similar but different names, or descriptions, or other information.
@@ -290,7 +301,46 @@ export async function mergeSessionData(page: any, sessionData: { summaries: Sess
 
         ${JSON.stringify(merged.newTerms, null, 4)}
     `, { timeout: 60_000, effort: "medium" });
+
+    await ai.resetConversation();
+    const misTranscriptions = await ai.runJsonPrompt(`
+        This json blob is every mis-transcription reported from the chunk summaries of one session.
+        Each row is one hearing: what the transcript said (heard), the best guess (likely, or "" if unknown), and why (notes).
+        The same term was often reported more than once, with a different heard spelling and a repeated or conflicting note.
+
+        Group rows that are the same intended term. Return one object per term, not one object per hearing.
+
+        Rules:
+        - Group by the intended term, not by the heard string. "Carlton", "Carl can", and "Carla Kid" with likely "Carlkin" are one group.
+        - Treat likely values as the same term when they differ only by case, spacing, or punctuation.
+        - If one row stuffed several terms into heard and likely with slashes (heard "horde room / Haven Horde", likely "hoard room / Haven Hold"), split them into separate groups. Pair each heard fragment with the likely fragment in the same position.
+        - Rows with an empty likely stay unknown. Group those only when they are the same phrase or obvious variants of one unknown. Do not put every unknown into one group.
+        - heard is the list of distinct transcript strings for that one term. Drop exact duplicates. Keep meaningfully different spellings.
+        - likely is the best spelling already present in the inputs. Use "" when the inputs never named one. Do not invent a correction.
+        - notes is a single string. Join the useful context, drop repeated sentences, and keep disagreements when the inputs conflict.
+        - Leave out rows that are not transcription issues.
+
+        The output should be json and only json following this interface
+        \`\`\`typescript
+        export interface DedupedMisTranscription {
+            /** Best guess for the intended term. Empty string if still unknown. */
+            likely: string;
+            /** Distinct transcript spellings of this one term. */
+            heard: string[];
+            /** Combined context for the term and its hearings. */
+            notes: string;
+        }
+
+        export interface Output {
+            misTranscriptions: DedupedMisTranscription[];
+        }
+        \`\`\`
+
+        ${JSON.stringify(flatMisTranscriptions, null, 4)}
+    `, { timeout: 90_000, effort: "medium" });
+
     merged.entities = JSON.parse(entities).entities;
     merged.newTerms = JSON.parse(terms).terms;
+    merged.misTranscriptions = JSON.parse(misTranscriptions).misTranscriptions;
     return merged;
 }

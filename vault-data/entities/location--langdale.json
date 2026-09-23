@@ -23,12 +23,20 @@
         "The party plans to return to Langdale while Walker scouts The Reach.",
         "Sylan intends to speak with Carlkin and possibly Benji there in hopes of advancing the investigation."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "After five days through the Twin Peaks, the party reaches Langdale in harvest. Crops are ready, a familiar hut is surrounded by small tomato fields, and more fishing vessels work the coves of the glassy lake. Trade caravans run from New Navel to the party's tavern, and some traffic still runs to and from the Rita area.",
+      "notes": [
+        "The party reaches it after five days through the Twin Peaks and finds it in harvest. Crops are ready, a familiar hut is surrounded by small tomato fields, and the glassy lake has more fishing vessels working the coves.",
+        "Trade caravans run from New Navel to the party's tavern, and some traffic still runs to and from the Rita area."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T17:41:02.926Z",
-  "updatedAt": "2026-08-21T17:39:31.809Z",
+  "updatedAt": "2026-09-22T19:53:58.436Z",
   "normalizedAliases": [
     "langdale"
   ]

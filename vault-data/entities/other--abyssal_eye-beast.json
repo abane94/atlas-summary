@@ -1,0 +1,33 @@
+{
+  "name": "Abyssal eye-beast",
+  "tags": [
+    "antagonist"
+  ],
+  "slug": "A god-tier extraplanar beast of oily tentacles and a wall of eyes that speaks from the abyss.",
+  "aliases": [],
+  "normalizedAliases": [
+    "abyssal eye beast"
+  ],
+  "filename": "entities/other/abyssal_eye-beast.md",
+  "description": "A god-tier monster from beyond this plane, summoned through a doorway into Carlkin's shop. It first appears as oily, semi-translucent black tentacles, octopus-like and corporeal, reading as liquefied shadow or ink and thickening toward the door. Behind them is a wall of thousands of staring eyes. The party likens it to a kraken. It is immune to the paralyzed condition. Creatures next to the eyes must make a Wisdom save against a magical mental effect that is not sleep, charm, or fear. A deep cosmic voice speaks from the abyss.",
+  "type": "OTHER",
+  "log": [
+    {
+      "date": "2026-09-21",
+      "summary": "On initiative 19, three tentacles pour from the opening. One grapples Gerk about the waist while the others search and flail. They cannot be flanked, and Watcher's Mantle deals extra damage because the beast is extraplanar. Hold Monster fails against its immunity to paralyzed, and Sacred Flame does nothing after a Dexterity save of 23. A legendary action lashes two creatures, hitting Sylan and raging Gerk. A grapple on Ord fails when his Athletics ties and wins the tie. The mass is bigger than Large. Ord severs the tentacle holding Gerk, and Sylan finishes the visible tendrils, which fall like stagnant water into semi-tacky black goo. The opening is then a wall of eyes, one pupil shaped like a small, light-complexioned figure. Gerk and Sylan save. Ord fails and is drawn through a gap. The eyes show him a dock and a younger dragonborn, offer his past for his future, then swivel into white orbs as a red glow builds and a deep cosmic voice speaks.",
+      "notes": [
+        "It is a god-tier monster and explicitly not from this plane. The party likens it to a kraken and excludes it from Ord's ally bonus. Carlkin calls it the beast the doorway summoned into his shop. Dana agrees with Sylan that it is god-tier. Watcher's Mantle buzzes and deals extra damage because the target is extraplanar.",
+        "Its initiative is 19. Three oily, semi-translucent black tentacles pour from the opening. One grapples Gerk about the waist. The others search the room and flail. The tips are about a foot across, octopus-like, and grow thicker toward the door. They read as liquefied shadow or ink. They are corporeal: the door strikes them with a wet-meat sound. They cannot be flanked, because they are appendages coming out of a door.",
+        "It is immune to the paralyzed condition, so Hold Monster does not stick. Sacred Flame does nothing after its Dexterity save of 23.",
+        "A legendary action lashes two creatures. An attack of 29 hits Sylan for 14 bludgeoning after his Strength save of 22. An attack of 24 hits raging Gerk for 9 bludgeoning. A grapple against Ord fails when Ord's Athletics of 25 ties and wins the tie. Follow-up hits deal 19 and 12 bludgeoning.",
+        "The tendril mass is bigger than Large. Damaged tendrils can look like they reform, and the mass is too big for Sylan's trip to treat it as a normal foe. When severed, the cut end flails and the rest falls like stagnant water, splashing into semi-tacky black goo with the consistency of frog spawn. Ichor coats the room. Ord fully severs the tentacle holding Gerk. The tentacle on Sylan is mostly severed and stays intact on remaining tendrils until Sylan's later round finishes the visible tendrils, leaving a stump wriggling in the door.",
+        "Behind the tentacles are thousands of staring eyes. One pupil is shaped like a small, light-complexioned figure. After the tendrils are destroyed, the opening shows nothing but that wall of eyes. Creatures adjacent to it must make a Wisdom save. The effect is a magical mental ability. It is not sleep, and it is not charm or fear. Gerk saves with a 24 on the first look and a 23 against the wall. Sylan saves with a 25 using Indomitable. Ord fails with a 17 and is drawn in through a gap while the pupils track him. Edge eyes pop when Ord's Vigilant Rebuke deals 14 radiant damage.",
+        "The eyes blink Ord a dock and a younger dragonborn, then offer his past in exchange for his future. They swivel 180 degrees into white orbs, a red glow builds between them, and eyes pop and blink out as the light intensifies. A deep cosmic voice speaks from the abyss."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-22T20:03:02.017Z",
+  "updatedAt": "2026-09-22T20:03:02.017Z"
+}

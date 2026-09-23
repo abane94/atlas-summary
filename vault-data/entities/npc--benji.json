@@ -24,6 +24,13 @@
       "notes": [
         "Worked with the Haven Hold dragon to enchant its hoard as the penultimate Sunder Chase prize."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Sylan thinks Benji may have a lead once the party is home, and wants to question him about what they are hunting if he is in town. The party does not confirm that he is there.",
+      "notes": [
+        "Sylan thinks Benji may have a lead once the party is home and wants to question him about what they are hunting if he is in town. The party does not confirm that he is there."
+      ]
     }
   ],
   "openQuestions": [
@@ -31,5 +38,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:21:05.572Z",
-  "updatedAt": "2026-09-01T18:30:15.686Z"
+  "updatedAt": "2026-09-22T19:52:53.513Z"
 }

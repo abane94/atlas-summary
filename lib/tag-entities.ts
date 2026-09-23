@@ -1,7 +1,6 @@
-import type { Page } from "puppeteer-core";
-import { runJsonPrompt } from "./ai.js";
+import type { AiClient } from "./ai.js";
+import { withAi } from "./ai.js";
 import { isDirectRun } from "./is-main.ts";
-import { withChatGptPage } from "./browser.js";
 import {
     buildTagCatalogPromptSection,
     mergeSuggestedTags,
@@ -17,8 +16,6 @@ import fs from "fs/promises";
 import path from "path";
 
 const DESCRIPTION_MAX_CHARS = 240;
-const CHATGPT_URL = "https://chatgpt.com";
-
 export interface EntityTagAssignment {
     path: string;
     name: string;
@@ -251,7 +248,7 @@ export async function applyTagsBackfill(
 }
 
 export async function backfillEntityTags(
-    page: Page,
+    ai: AiClient,
     vaultDataFolder = "vault-data",
 ): Promise<TagsBackfillResult> {
     const loaded = await loadEntityFiles(vaultDataFolder);
@@ -264,8 +261,8 @@ export async function backfillEntityTags(
     const knownPaths = new Set(loaded.map((item) => item.filepath));
     console.log(`[tags] Asking ChatGPT to tag ${loaded.length} entities...`);
 
-    await page.goto(CHATGPT_URL, { waitUntil: "networkidle2", timeout: 60_000 });
-    const raw = await runJsonPrompt(page, buildTagsBackfillPrompt(table, loaded.length), {
+    await ai.resetConversation();
+    const raw = await ai.runJsonPrompt(buildTagsBackfillPrompt(table, loaded.length), {
         timeout: 90_000,
         effort: "low",
     });
@@ -287,8 +284,8 @@ async function main() {
         console.log(await previewTagsEntityTable());
         return;
     }
-    await withChatGptPage(async (page: Page) => {
-        const result = await backfillEntityTags(page);
+    await withAi(async (ai) => {
+        const result = await backfillEntityTags(ai);
         console.log(formatTagsBackfillReport(result));
     });
 }

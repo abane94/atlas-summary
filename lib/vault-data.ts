@@ -24,10 +24,9 @@ import fs from 'fs/promises';
 import path from 'path';
 
 import type { PlotSection, SessionChunkSummary } from "./types/session.ts";
-import { Page } from 'puppeteer-core';
-import { runJsonPrompt, runProsePrompt } from './ai.js';
+import type { AiClient } from './ai.js';
+import { withAi } from './ai.js';
 import { isDirectRun } from './is-main.ts';
-import { withChatGptPage } from './browser.js';
 import {
     buildTagCatalogPromptSection,
     mergeSuggestedTags,
@@ -36,8 +35,6 @@ import {
     validateEntityTags,
     type SuggestedTag,
 } from './entity-tags.ts';
-
-const CHATGPT_URL = "https://chatgpt.com";
 
 export interface SessionData {
     date: string; // yyyy-mm-dd string
@@ -510,7 +507,7 @@ export async function vaultNeedsWork(
 }
 
 export async function generateVaultData(
-    page: Page,
+    ai: AiClient,
     summariesFolder: string,
     vaultDataFolder: string,
     options: GenerateVaultOptions = {},
@@ -588,12 +585,12 @@ export async function generateVaultData(
             console.log(
                 `[vault] ${sessionDate} session log exists; processing ${progress.entityTotal - progress.entityProcessed} new entit${progress.entityTotal - progress.entityProcessed === 1 ? 'y' : 'ies'}`,
             );
-            await parseSessionEntities(page, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
+            await parseSessionEntities(ai, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
             continue;
         }
 
         console.log(`[vault] Processing session ${sessionDate}...`);
-        const sessionData = await parseSessionData(page, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
+        const sessionData = await parseSessionData(ai, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
         existingSessionsMap[sessionDate] = sessionData;
         await fs.writeFile(sessionLogPath, JSON.stringify(sessionData, null, 2));
         console.log(`[vault] Wrote ${sessionLogPath}`);
@@ -752,7 +749,7 @@ function parseEntityMatchResult(raw: string): EntityMatchAiRow[] {
 }
 
 async function resolveSessionEntityTargets(
-    page: Page,
+    ai: AiClient,
     sessionEntities: Record<string, EntityUpdate>,
     existingEntitiesList: EntityData[],
 ): Promise<Map<string, EntityData | null>> {
@@ -776,9 +773,8 @@ async function resolveSessionEntityTargets(
     }
 
     console.log(`[vault] Asking ChatGPT to match ${unmatched.length} unmatched entit${unmatched.length === 1 ? "y" : "ies"}...`);
-    await page.goto(CHATGPT_URL, { waitUntil: "networkidle2", timeout: 60_000 });
-    const raw = await runJsonPrompt(
-        page,
+    await ai.resetConversation();
+    const raw = await ai.runJsonPrompt(
         buildEntityMatchPrompt(unmatched, existingEntitiesList),
         { timeout: 60_000, effort: "medium" },
     );
@@ -933,7 +929,7 @@ ${sessionEntity.notes.join("\n")}
 }
 
 async function parseSessionEntities(
-    page: Page,
+    ai: AiClient,
     date: string,
     sessionFolder: string,
     existingEntitiesList: EntityData[],
@@ -944,7 +940,7 @@ async function parseSessionEntities(
     const entityNames = Object.keys(sessionEntities);
     console.log(`[vault] Parsing ${entityNames.length} entities for ${date}`);
 
-    const resolved = await resolveSessionEntityTargets(page, sessionEntities, existingEntitiesList);
+    const resolved = await resolveSessionEntityTargets(ai, sessionEntities, existingEntitiesList);
     const writeGroups = groupResolvedWrites(sessionEntities, resolved);
     console.log(`[vault] ${writeGroups.length} write group(s) after match/merge (${entityNames.length} incoming names)`);
 
@@ -970,57 +966,55 @@ async function parseSessionEntities(
             continue;
         }
 
-        await page.goto(CHATGPT_URL, { waitUntil: "networkidle2", timeout: 60_000 });
+        await ai.resetConversation();
 
         if (existingEntity) {
             addAliasNames(existingEntity, incomingNames);
-            const raw = await runJsonPrompt(
-                page,
+            const raw = await ai.runJsonPrompt(
                 buildExistingEntityPrompt(writeName, date, existingEntity, sessionEntity),
                 { timeout: 60_000, effort: "low" },
             );
-            const ai = parseVaultEntityAiResult(raw);
-            const validated = validateEntityTags(ai.tags, { entityName: writeName });
+            const parsed = parseVaultEntityAiResult(raw);
+            const validated = validateEntityTags(parsed.tags, { entityName: writeName });
             collectedSuggestions.push(
-                ...ai.suggestedTags,
+                ...parsed.suggestedTags,
                 ...validated.implicitSuggestions,
             );
 
             upsertEntityLog(existingEntity, date, {
-                summary: ai.summary,
+                summary: parsed.summary,
                 notes: sessionEntity.notes,
             });
             existingEntity.tags = unionTags(existingEntity.tags ?? [], validated.tags);
             existingEntity.updatedAt = new Date().toISOString();
             await saveEntity(vaultDataFolder, existingEntity);
         } else {
-            const raw = await runJsonPrompt(
-                page,
+            const raw = await ai.runJsonPrompt(
                 buildNewEntityPrompt(writeName, date, sessionEntity),
                 { timeout: 60_000, effort: "low" },
             );
-            const ai = parseVaultEntityAiResult(raw);
-            const validated = validateEntityTags(ai.tags, { entityName: writeName });
+            const parsed = parseVaultEntityAiResult(raw);
+            const validated = validateEntityTags(parsed.tags, { entityName: writeName });
             collectedSuggestions.push(
-                ...ai.suggestedTags,
+                ...parsed.suggestedTags,
                 ...validated.implicitSuggestions,
             );
 
             const newEntityData: EntityData = {
                 name: writeName,
                 tags: validated.tags,
-                slug: ai.slug ?? "",
+                slug: parsed.slug ?? "",
                 aliases: [],
                 normalizedAliases: [],
                 filename: entityMarkdownFilename({
                     name: writeName,
                     type: normalizeEntityType(sessionEntity.entityType),
                 }),
-                description: ai.description ?? "",
+                description: parsed.description ?? "",
                 type: normalizeEntityType(sessionEntity.entityType),
                 log: [{
                     date: date,
-                    summary: ai.summary,
+                    summary: parsed.summary,
                     notes: sessionEntity.notes,
                 }],
                 openQuestions: sessionEntity.openQuestions,
@@ -1052,8 +1046,8 @@ async function parseSessionEntities(
     return sessionData;
 }
 
-async function parseSessionData(page: Page, date: string, sessionFolder: string, existingEntitiesList: EntityData[], vaultDataFolder: string): Promise<SessionData> {
-    const sessionData = await parseSessionEntities(page, date, sessionFolder, existingEntitiesList, vaultDataFolder);
+async function parseSessionData(ai: AiClient, date: string, sessionFolder: string, existingEntitiesList: EntityData[], vaultDataFolder: string): Promise<SessionData> {
+    const sessionData = await parseSessionEntities(ai, date, sessionFolder, existingEntitiesList, vaultDataFolder);
 
     // Plot + chronology is enough for a short session blurb. The full merged
     // JSON (especially every entity's notes) is large enough to hang ChatGPT's
@@ -1067,7 +1061,7 @@ async function parseSessionData(page: Page, date: string, sessionFolder: string,
 
     const sessionDataToSave: SessionData = {
         date: date,
-        summary: await runProsePrompt(page, `
+        summary: await ai.runProsePrompt(`
             This is the session data for ${date}.
             Please generate a summary of the session.
             The summary should be a single paragraph that captures the main points of the session.
@@ -1097,8 +1091,8 @@ async function main() {
         );
     }
     console.log(`[vault] Starting vault data generation${dateArg ? ` for ${dateArg}` : ' for all sessions'}...`);
-    await withChatGptPage(async (page: Page) => {
-        await generateVaultData(page, 'summaries', 'vault-data', { date: dateArg, force });
+    await withAi(async (ai) => {
+        await generateVaultData(ai, 'summaries', 'vault-data', { date: dateArg, force });
     });
 }
 

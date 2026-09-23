@@ -1,6 +1,8 @@
 {
   "name": "Al Kurin",
-  "tags": [],
+  "tags": [
+    "artifact"
+  ],
   "slug": "Vessels containing the souls of dragons",
   "aliases": [],
   "normalizedAliases": [
@@ -21,6 +23,14 @@
         "Grixto had been collecting them from other trainees at the training grounds, including juvenile dragons.",
         "They can be transported away from the location where they were collected."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Al Kurin are described as a dragon’s heart of hearts. Grixto took them from guild companions he killed at the training grounds and used them to amplify his power. In Emhet’s vision he sat with a couple of Al Kurin while plotting his next steps.",
+      "notes": [
+        "Described as a dragon's heart of hearts. Grixto took them from guild companions he killed at the training grounds and used them to amplify his power.",
+        "In Emhet's vision he sat with a couple of Al Kurin while plotting his next steps."
+      ]
     }
   ],
   "openQuestions": [
@@ -28,5 +38,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:12:46.881Z",
-  "updatedAt": "2026-08-21T18:12:46.881Z"
+  "updatedAt": "2026-09-22T19:55:56.788Z"
 }

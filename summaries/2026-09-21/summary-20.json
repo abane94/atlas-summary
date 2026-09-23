@@ -1,0 +1,167 @@
+{
+    "plotSections": [
+        {
+            "title": "Gerk drives Ord into the ground",
+            "bullets": [
+                "Gerk, raging, makes a strength check of 27 and dives into the ground with a hollow sucking pop, throwing Ord bodily into the earth.",
+                "He stops about five feet down so nothing can pass farther. Ord is left standing in a roughly four-to-five-foot hole with his head and shoulders above ground while Gerk holds him.",
+                "Sylan asks that the door be closed. Gerk does not close it. Carlkin's footsteps fade as he runs upstairs."
+            ]
+        },
+        {
+            "title": "The doorway of eyes resists Dispel Magic",
+            "bullets": [
+                "Dana is left facing a doorway that is not quite a door: a square outline filled with eyes that does not clearly reflect what is behind it. Gerk is in the hole and Sylan stands adjacent.",
+                "Dana casts Dispel Magic at 5th level to force the door closed. It has no effect.",
+                "She rejects Grasping Vine because she does not want to pull whatever is in the door out of it, then gives Sylan Bardic Inspiration."
+            ]
+        },
+        {
+            "title": "The eyes offer Ord his past",
+            "bullets": [
+                "Ord succeeds on a Wisdom save (23). Each blink shows him the edge of a dock with a younger dragonborn standing before him.",
+                "A repeating, melancholy, reverberating voice says they will show him his past if he gives them his future.",
+                "At the end of his turn several eyes swivel 180 degrees into white orbs. A red glow rises from the dark gaps, and some eyes pop or blink out of existence."
+            ]
+        },
+        {
+            "title": "Sylan wards the party as the glow deepens",
+            "bullets": [
+                "Sylan holds that Gerk has to be the one to end this, recalling that he could not interact with Gerk's door on the boat. He does not try to close or stab the door.",
+                "The eyes sit as a wall just inside the far side of the doorway, so the door still seems able to close. A reddish glow is coming from the depths.",
+                "Sylan casts Beacon of Hope on friendly creatures in range, granting advantage on Wisdom saves and death saving throws, and steps to the side of the door rather than standing in front of it.",
+                "More eyes blink out, the light intensifies, and a deep cosmic voice speaks from the depths of the abyss."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk, raging, rolls a 27 strength check and dives about five feet into the ground, pulling Ord into a hole so Ord's head and shoulders remain above ground. Gerk holds him there.",
+        "Sylan urges the door closed. Carlkin runs upstairs and his footsteps fade.",
+        "Dana faces a square outline of a doorway filled with eyes that poorly reflects what lies behind it.",
+        "Dana casts 5th-level Dispel Magic on the door to shut it. It does nothing.",
+        "Dana decides against Grasping Vine and gives Sylan Bardic Inspiration.",
+        "Ord makes a Wisdom save of 23. The blinking eyes show him a dock and a younger dragonborn, and a melancholy voice offers to show his past in exchange for his future.",
+        "Eyes turn into white orbs, a red glow rises between them, and some eyes vanish.",
+        "Sylan casts Beacon of Hope on friendlies in range and moves beside the door, leaving the front of it clear.",
+        "More eyes blink out, the glow intensifies, and a deep cosmic voice rises from the abyss."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He is raging and dives roughly five feet into the ground on a strength check of 27, planting Ord in the hole and holding him so passage stops there.",
+                "He does not close the door. Sylan treats this doorway as Gerk's to end, the same way Sylan could not work Gerk's door on the boat."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He is thrown into the ground and left shoulder-deep in a four-to-five-foot hole, looking up at a doorway of eyes.",
+                "On a Wisdom save of 23, each blink shows him the edge of a dock and a younger dragonborn standing before him.",
+                "A reverberating melancholy voice tells him they will show him his past if he gives them his future."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The eyes: \"we will show you your past if you give us your future.\""
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She casts 5th-level Dispel Magic on the eye-doorway to force it shut. It has no effect.",
+                "She has Grasping Vine available but will not use it, because she does not want to drag whatever is in the door out.",
+                "She gives Sylan Bardic Inspiration and otherwise ends her turn."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He asks Gerk to close the door and later says Gerk has to be the one to end the doorway, remembering he could not interact with Gerk's door on the boat.",
+                "He casts Beacon of Hope on friendly creatures in range, giving advantage on Wisdom saves and death saving throws.",
+                "He moves to the side of the door so he is not in front of it, positioned in case something tries to come through."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "His footsteps dissipate as he runs upstairs, away from the doorway."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places; Gerk's doorway.",
+            "entityType": "ITEM",
+            "notes": [
+                "It currently appears as a square outline rather than a solid door, filled with eyes, and does not clearly reflect what is behind it. The eyes form a wall just inside the far side.",
+                "Fifth-level Dispel Magic does not close or dismiss it. Gerk is not closing it.",
+                "The eyes blink visions of a dock and a younger dragonborn to Ord and speak a melancholy offer of his past in exchange for his future.",
+                "Eyes swivel 180 degrees into white orbs, a red glow emanates from the dark between them, and eyes begin popping and blinking out as the light intensifies.",
+                "A deep cosmic voice then emanates from the depths of the abyss. The doorway still appears closable."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"We will show you your past if you give us your future,\" repeated in a melancholy voice."
+            ],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "saunter strength",
+            "likely": "straight strength",
+            "notes": "Sylan confirming Gerk's check is a straight Strength check."
+        },
+        {
+            "heard": "That's a D time",
+            "likely": "that's a d10",
+            "notes": "Dana naming the Bardic Inspiration die given to Sylan."
+        },
+        {
+            "heard": "best saving throws",
+            "likely": "death saving throws",
+            "notes": "Sylan describing Beacon of Hope: advantage on Wisdom saves and death saving throws."
+        },
+        {
+            "heard": "Girl has to be the one that ends it",
+            "likely": "Gerk has to be the one that ends it",
+            "notes": "Sylan insisting the Doorman must close his own door."
+        },
+        {
+            "heard": "rule that day",
+            "likely": "",
+            "notes": "DM line while refusing to say whether touching the door is an action before Sylan commits."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Doorway of eyes",
+            "notes": [
+                "The current form of Gerk's open door: a square outline made of eyes that shows Ord a dock and a younger dragonborn, offers his past for his future, and answers 5th-level Dispel Magic with nothing. Eyes later turn to white orbs as a red glow and a cosmic voice rise from the abyss."
+            ]
+        }
+    ]
+}

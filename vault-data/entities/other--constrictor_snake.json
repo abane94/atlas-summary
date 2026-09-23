@@ -1,6 +1,8 @@
 {
   "name": "constrictor snake",
-  "tags": [],
+  "tags": [
+    "companion"
+  ],
   "slug": "A summoned constrictor snake that follows Dana at her command.",
   "aliases": [],
   "normalizedAliases": [
@@ -17,10 +19,17 @@
         "The summoned creature is identified as a large constrictor snake.",
         "Dana commands it to remain at her heel as she moves."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "While checking the party's current state on the ship, the DM confirms that the giant constrictor snake is still summoned.",
+      "notes": [
+        "The DM confirms the giant constrictor snake is still summoned while checking the party's current state on the ship."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:59:00.651Z",
-  "updatedAt": "2026-08-21T18:59:00.651Z"
+  "updatedAt": "2026-09-22T19:53:35.730Z"
 }

@@ -1,0 +1,149 @@
+{
+    "plotSections": [
+        {
+            "title": "Ord pulled into the eye-door",
+            "bullets": [
+                "On Gerk's turn, Ord is being sucked bodily into a doorway with a wall of eyes just inside it; the eyes focus and track him as he enters, and he babbles incoherently about sea breezes and \"my strength.\" Sylan reads the babble as Ord voicing what he has lost.",
+                "The tentacle that had grappled Gerk is already cut away. What remains is the door, Ord being pulled into it, and the wall of eyes."
+            ]
+        },
+        {
+            "title": "Gerk anchors Ord in the floor",
+            "bullets": [
+                "Gerk breaks the cobble floor under Ord with his hammer (attack 15 against an inanimate object, 16 damage, plus extra from rage) and, while raging, pulls him down with Strength (Athletics) 27.",
+                "An oddly hollow sucking popping noise accompanies the pull. Gerk goes about five feet under the floor; Ord is left standing in a roughly four-to-five-foot hole with head and shoulders above ground, his sucked-in hand and arm still holding him up somewhat. Gerk holds onto him so he cannot walk farther into the door.",
+                "Sylan asks that the door be closed if it can be."
+            ]
+        },
+        {
+            "title": "Dispel Magic fails",
+            "bullets": [
+                "Carlkin's footsteps fade as he runs upstairs.",
+                "Dana is left with a square-outline doorway that does not reflect what is behind it well, full of eyes, with Gerk in the hole and Sylan adjacent. She casts Dispel Magic at 5th level to force the door closed. It has no effect.",
+                "She considers throwing a vine at the door and rejects it, unwilling to pull Ord out of the doorway."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord is sucked into a doorway lined with a wall of eyes that track him, babbling about sea breezes and his strength.",
+        "Gerk confirms he is no longer grappled; the tentacle has been cut away.",
+        "Gerk smashes the cobble floor with his hammer and, raging, pulls Ord down into a roughly five-foot hole so he cannot proceed into the door, then holds him there.",
+        "Carlkin runs upstairs and his footsteps fade.",
+        "Dana casts 5th-level Dispel Magic on the eye-door; it does nothing. She decides not to vine-pull Ord out of the door."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Being sucked bodily into a doorway; a wall of eyes inside the door focuses on him and tracks him as he enters.",
+                "Babbles incoherently about sea breezes and something about \"my strength.\" Sylan interprets this as Ord speaking about what he has lost.",
+                "The hand and arm already inside the mass hold him up somewhat as he stumbles after the floor is broken.",
+                "Pulled into a roughly four-to-five-foot hole: head and shoulders remain above ground while Gerk holds him so he cannot go farther into the door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Incoherent babble about sea breezes and \"my strength,\" read by Sylan as what Ord has lost."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman.",
+            "entityType": "PLAYER",
+            "notes": [
+                "No longer grappled; the tentacle was cut away.",
+                "Raging. Breaks the cobbles under Ord with his hammer, then dives about five feet under the floor and holds Ord in the hole to stop him entering the door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Casts Dispel Magic at 5th level on the eye-door to force it shut; the spell has no effect.",
+                "Considers a vine attack and rejects it because pulling Ord out of the door seems like a bad idea."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Standing adjacent to the hole and the door. Asks that the door be closed if possible.",
+                "Interprets Ord's babbling as Ord voicing what he has lost."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person previously believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Present at the scene; his footsteps dissipate as he runs upstairs."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "Currently a weird square outline more than a proper door; it does not reflect what is behind it well.",
+                "A wall of eyes sits just inside it. The eyes focus their pupils on Ord and track him as he is pulled in.",
+                "A tentacle associated with this encounter was cut away before this turn.",
+                "5th-level Dispel Magic does not close or end it. Pulling Ord through it makes an oddly hollow sucking popping noise."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "yawnk",
+            "likely": "",
+            "notes": "DM asks if Gerk wants to \"yawnk\" the floor with the hammer; treated as an optional damage rider (\"ten plus a yonk,\" 16 damage)."
+        },
+        {
+            "heard": "yonk",
+            "likely": "",
+            "notes": "Same hammer option as \"yawnk,\" said by Gerk (\"would yonk a floor,\" \"ten plus a yonk\")."
+        },
+        {
+            "heard": "scroll me damage",
+            "likely": "",
+            "notes": "DM on the floor: \"The floor isn't gonna like scroll me damage,\" before asking what Gerk is using to break the cobbles."
+        },
+        {
+            "heard": "saunter strength",
+            "likely": "a strength",
+            "notes": "Sylan confirming the burrow pull is a strength check: \"It's saunter strength.\""
+        },
+        {
+            "heard": "Retro",
+            "likely": "",
+            "notes": "Dana says \"Retro\" while looking for another option after Dispel Magic fails."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Wall of Eyes",
+            "notes": [
+                "A mass of eyes just inside the square-outline door, pupils locked on and tracking Ord as he is pulled in. His hand and arm inside the mass help hold him up. 5th-level Dispel Magic does not dismiss the door."
+            ]
+        }
+    ]
+}

@@ -17,10 +17,17 @@
         "The party may need to return to Nyx if investigating the lich's former hideout does not reveal enough information.",
         "The party expects hobgoblins in Nyx may know where the lich is hiding."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Sylan does not want to go to Nyx, but he believes the party has to return there if Carlkin, Benji, and the other leads produce nothing.",
+      "notes": [
+        "Sylan does not want to go, but he believes the party has to return to Nyx if Carlkin, Benji, and the other leads produce nothing."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T17:59:08.827Z",
-  "updatedAt": "2026-08-21T17:59:08.827Z"
+  "updatedAt": "2026-09-22T19:53:12.088Z"
 }

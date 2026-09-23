@@ -1,0 +1,269 @@
+{
+    "plotSections": [
+        {
+            "title": "Initiative in Carlkin's shop",
+            "bullets": [
+                "Combat initiative is being settled as a tentacled beast fills Carlkin's bookshop. Gerk's initiative is 25. Ord's is 21, with his bonus already included. Dana, standing at the back, totals 22 after adding Ord's +6 and is above the line the DM is using.",
+                "Ord's bonus applies to living creatures he can see that are not the enemy, including Carlkin. Carlkin also totals 25, dives behind a box, and acts after Gerk because his Dexterity is lower. Sylan asks whether the person sleeping in the corner gets the same bonus; that is not answered before the fighting continues."
+            ]
+        },
+        {
+            "title": "Cutting the tentacle",
+            "bullets": [
+                "Gerk is squeezed by a tentacle. Sylan draws his magic greatsword to cut that tentacle rather than use his psychic sword, which does not cut. He hits for 26 slashing plus 3 radiant (29 total); only his last attack actually damages it, and the tentacle flexes as it is hacked.",
+                "With a maneuvering strike, Sylan has Dana use half her movement to back up, and she retreats. Gerk is grappled about the waist, not restrained: movement 0, weapon undrawn. Breaking free would take his action, though the DM provisionally allows replacing one attack if he takes the Attack action."
+            ]
+        },
+        {
+            "title": "The door full of eyes",
+            "bullets": [
+                "Gerk peeks past the tentacle through the door he opened, eyeballs only. Beyond it are thousands of eyeballs staring back. He pulls back and warns the others not to look. Walker calls it the void. Dana notes the warning.",
+                "Gerk makes a Wisdom save. A 19 plus the relevant bonus is taken as 24 and succeeds. For a moment his vision hard-zooms into one eye among the thousands, as if his mind were about to breach that reality. The pupil is shaped like a small, light-complexioned figure. He catches nothing more, but the gaze was unfavorable and he nearly lost himself.",
+                "Carlkin, whose shop this is, demands to know why Gerk opened a door straight to the abyss here. Gerk says he can open doors anywhere but does not know how to work the power. A tentacle rakes the room on a legendary action and scatters Carlkin's books."
+            ]
+        },
+        {
+            "title": "Legendary lashes and the sleeper",
+            "bullets": [
+                "The same legendary lash targets Gerk and Sylan. A 29 hits Sylan. Both make Strength saves; Gerk's 7 is totaled as 22 and succeeds. Sylan takes 14 bludgeoning. Gerk, who rages with his bonus action before the damage, takes 9 bludgeoning from the other tentacle. The DM notes the two hits were rolled differently, so Gerk's damage is not simply half of Sylan's.",
+                "From behind the books, Carlkin throws a book at a slumbering pile and shouts for the \"tin can\" to wake up, saying hooligans summoned the beast and they need its help. The book clangs off something metal in the corner."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Initiative is called: Gerk 25, Ord 21, Dana 22 with Ord's +6 bonus. Carlkin also receives that bonus, rolls 25, hides behind a box, and is placed after Gerk.",
+        "Sylan attacks the tentacle grappling Gerk with his magic greatsword, deals 29 damage on the last hit only, and uses a maneuvering strike so Dana can retreat.",
+        "Gerk is left grappled, unrestrained, and weaponless, then peeks through his door and sees thousands of eyes.",
+        "Gerk succeeds on a Wisdom save (taken as 24), resists being pulled into one eye whose pupil is a small light-complexioned figure, and warns the party not to look into the door.",
+        "Carlkin protests that Gerk opened the door to the abyss in his shop. A legendary tentacle scatters his books and lashes Sylan and Gerk.",
+        "Sylan takes 14 bludgeoning. Gerk rages and takes 9 bludgeoning.",
+        "Carlkin throws a book to wake a metal sleeper in the corner, calling the party hooligans who summoned the beast."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree who opens Arch doorways and keeps the Midgard keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Initiative 25 this fight, helped by proficiency.",
+                "Grappled about the waist by a tentacle after entering through his own door. Not restrained; movement 0; had not drawn a weapon.",
+                "Peeked through the door and saw thousands of staring eyeballs. Wisdom save taken as 24 succeeded. Vision zoomed toward one eye whose pupil was shaped like a small, light-complexioned figure. He nearly lost himself and told the others not to look.",
+                "Told Carlkin he can open doors anywhere but does not know how to work the power. This opening went to the abyss, in Carlkin's shop.",
+                "Raged as a bonus action before a legendary tentacle hit and took 9 bludgeoning."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats the doorway power as something he can use without yet understanding where it opens."
+            ],
+            "quotesThemes": [
+                "Warns the party not to look in the door after seeing the eyes.",
+                "\"I can open doors anywhere.\" \"I don't know how to work this power.\""
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Chose his cutting magic greatsword over his psychic sword, which does not cut, to free Gerk from a tentacle.",
+                "Dealt 26 magical slashing plus 3 radiant. Only the last attack damaged the tentacle. Used a maneuvering strike so Dana could move half her speed back.",
+                "Was the next closest to the tentacles after Gerk because he followed Gerk in.",
+                "Hit by a legendary tentacle lash (attack 29) and took 14 bludgeoning after a Strength save."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Stood at the back and did not want to be in the combat. Initiative 22 after Ord's +6.",
+                "Heard the tentacles and stepped back. Retreated further when Sylan's maneuvering strike let her move half her movement.",
+                "Acknowledged Gerk's warning not to look through the door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Initiative 21, bonus already included in the roll.",
+                "His bonus also applies to other living creatures he can see that are not the enemy. Carlkin received it. He described it as covering even a mouse that would have to survive, and not the kraken."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Does the person sleeping in the corner also receive Ord's bonus?"
+            ]
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person previously believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Present in his own bookshop for this fight, not absent in Langdale.",
+                "Received Ord's ally bonus, initiative 25, and dove behind a box. Acts after Gerk due to lower Dexterity.",
+                "Angry that Gerk opened a door to the abyss in the shop. A tentacle scattered his books.",
+                "Threw a book at a metal sleeper in the corner and yelled for the \"tin can\" to wake up because hooligans had summoned the beast and they need its help."
+            ],
+            "titles": [],
+            "personality": [
+                "Protective of his shop and books, and sharp with the party once the doorway lets the beast in."
+            ],
+            "quotesThemes": [
+                "\"You didn't tell me you can open a door straight to the abyss.\"",
+                "\"Wake up you tin can... these bunch of stupid hooligans have summoned the beast.\""
+            ],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "Gerk's door in this scene opened onto an abyss of eyes. Tentacles came through into Carlkin's shop and grappled Gerk.",
+                "Looking through it forces a Wisdom save. Gerk passed and still saw thousands of eyes and one pupil shaped like a small light-complexioned figure."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abyss of eyes": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "creature",
+            "notes": [
+                "Called a kraken by the party as they exclude it from Ord's ally bonus. It has tentacles that squeeze, whip, and scatter books, and it can lash two creatures with a legendary action.",
+                "Past the tentacles, through Gerk's door, are thousands of staring eyeballs. One iris's pupil is the shape of a small, light-complexioned figure. Staring into it nearly pulled Gerk's mind across.",
+                "Carlkin treats it as a beast the party summoned into his shop by the doorway."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Tin can": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Someone or something asleep in the corner of Carlkin's shop, under or among a pile of books.",
+                "Carlkin threw a book at it and called it a tin can, demanding it wake and help against the summoned beast. The impact clanged on metal."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who or what is the metal sleeper Carlkin called a tin can?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "grisma",
+            "likely": "charisma",
+            "notes": "DM asking whether Gerk's initiative bonus is proficiency or charisma."
+        },
+        {
+            "heard": "Gerk Ward",
+            "likely": "Gerk, or Ord",
+            "notes": "DM correcting whose initiative roll he is asking for."
+        },
+        {
+            "heard": "darker",
+            "likely": "dagger",
+            "notes": "Sylan: \"I'll let go of the darker\" as he switches weapons."
+        },
+        {
+            "heard": "Tane",
+            "likely": "Theron",
+            "notes": "Dana thanking Sylan's player while she stays at the back."
+        },
+        {
+            "heard": "Honeyclub",
+            "likely": "",
+            "notes": "Sylan burst after Dana's initiative total. Sounds like a cheer, not a clear item or spell name."
+        },
+        {
+            "heard": "shashimi",
+            "likely": "sashimi",
+            "notes": "Sylan describing cutting the tentacle."
+        },
+        {
+            "heard": "Milk",
+            "likely": "Mikkel",
+            "notes": "Gerk names who is closest to a tentacle besides himself. DM instead places Sylan next, then Dana, then Ord."
+        },
+        {
+            "heard": "radian",
+            "likely": "radiant",
+            "notes": "Sylan's +3 radiant damage on the greatsword hit."
+        },
+        {
+            "heard": "icker",
+            "likely": "ichor",
+            "notes": "DM describing the hacked tentacle flexing or spattering across the room."
+        },
+        {
+            "heard": "words bonus",
+            "likely": "Ord's bonus",
+            "notes": "Added to Gerk's Wisdom save after the eye gaze."
+        },
+        {
+            "heard": "swords thought us",
+            "likely": "Ord's bonus",
+            "notes": "Gerk totaling the Wisdom save as 24."
+        },
+        {
+            "heard": "Sogar",
+            "likely": "so Gerk",
+            "notes": "DM speaking through the save-bonus ruling."
+        },
+        {
+            "heard": "NOTIN",
+            "likely": "nothing",
+            "notes": "Carlkin: the door opened onto nothing, the abyss."
+        },
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "Second target of the legendary tentacle lash, alongside Gerk."
+        },
+        {
+            "heard": "Board",
+            "likely": "Ord",
+            "notes": "DM briefly assigns a hit to the wrong name, then corrects to Gerk."
+        },
+        {
+            "heard": "I can't open doors anywhere",
+            "likely": "I can open doors anywhere",
+            "notes": "Gerk's reply to Carlkin, followed by admitting he does not know how the power works."
+        },
+        {
+            "heard": "claying",
+            "likely": "clanging",
+            "notes": "Book striking the metal sleeper in the corner."
+        }
+    ],
+    "openQuestions": [
+        "Does the sleeper in the corner receive Ord's initiative bonus?",
+        "Who or what is the metal sleeper Carlkin woke and called a tin can?"
+    ],
+    "newTerms": [
+        {
+            "name": "Abyss of eyes",
+            "notes": [
+                "What lies through the door Gerk opened in Carlkin's shop: a tentacled beast the party treats as a kraken, and beyond the tentacles thousands of eyes. One pupil is shaped like a small light-complexioned figure. Looking in calls for a Wisdom save."
+            ]
+        },
+        {
+            "name": "Tin can",
+            "notes": [
+                "Carlkin's name for the metal figure asleep in the corner of his shop. He throws a book to wake it and asks it to help fight the beast the doorway let in."
+            ]
+        }
+    ]
+}

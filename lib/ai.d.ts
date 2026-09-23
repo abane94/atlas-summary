@@ -16,14 +16,33 @@ export type AiPromptOptions = {
   model?: string;
 };
 
-export function runJsonPrompt(
-  page: unknown,
-  ai_prompt: string,
-  options?: AiPromptOptions,
-): Promise<string>;
+export interface AiClient {
+  open(): Promise<void>;
+  close(): Promise<void>;
+  /** Next prompt starts a new conversation. */
+  resetConversation(): Promise<void>;
+  runJsonPrompt(prompt: string, options?: AiPromptOptions): Promise<string>;
+  runProsePrompt(prompt: string, options?: AiPromptOptions): Promise<string>;
+}
 
-export function runProsePrompt(
-  page: unknown,
-  ai_prompt: string,
-  options?: AiPromptOptions,
-): Promise<string>;
+export declare const ai: AiClient;
+
+export declare function withAi<T>(
+  fn: (client: AiClient) => Promise<T>,
+): Promise<T>;
+
+export declare class CursorClient implements AiClient {
+  open(): Promise<void>;
+  close(): Promise<void>;
+  resetConversation(): Promise<void>;
+  runJsonPrompt(prompt: string, options?: AiPromptOptions): Promise<string>;
+  runProsePrompt(prompt: string, options?: AiPromptOptions): Promise<string>;
+}
+
+export declare class ChatGptClient implements AiClient {
+  open(): Promise<void>;
+  close(): Promise<void>;
+  resetConversation(): Promise<void>;
+  runJsonPrompt(prompt: string, options?: AiPromptOptions): Promise<string>;
+  runProsePrompt(prompt: string, options?: AiPromptOptions): Promise<string>;
+}

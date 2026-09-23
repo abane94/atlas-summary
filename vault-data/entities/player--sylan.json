@@ -98,6 +98,22 @@
         "Guides Gerk to try dismissing the door with his Doorman powers but forbids opening new doors until landfall.",
         "Expects Walker to message within about a day."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Sylan recaps that he and Aris dispelled the party's invisibility and silence, keeps the ship flying toward the stronghold, and tells Gerk to leave the spectral door alone for about four hours before consulting spellcasters on solid ground; he later infers the door lasted about a day. With about two days before Walker is expected back, he plans to visit Carlkin and possibly Benji rather than return to Nyx, practice doors privately away from untrusted onlookers, and study his relic, looking toward someone or something called Caracas. He reminds Walker that the training grounds stored dragon things and lured dragons to be killed, and orders a retreat if Grixto is there. At Carlkin's lighthouse he introduces Gerk as ambassador, checks with Dana and Ord, then offers Carlkin a full exchange of knowledge. His door opens into the room where Walker faces Vecna. Following Gerk, he fights the tentacles with a +1 greatsword after setting aside his psychic sword, damages the tentacle holding Gerk, takes 14 bludgeoning from a legendary hit after a successful Strength save, and with Sentinel and further strikes finishes the visible tendrils. Beside the wall of eyes he succeeds on a Wisdom save, asks Gerk to close the door because only Gerk can end it, casts Beacon of Hope, and stands at the door's side.",
+      "notes": [
+        "He recaps for Dana that he and Aris dispelled the party's invisibility and silence. He keeps the ship flying toward the stronghold and suggests Gerk leave the spectral door alone for about four hours, then consult the spellcasters on solid ground. He later infers that door lasted about a day.",
+        "He expects to check Carlkin and Benji for leads and otherwise return to Nyx, which he does not want to do. Once home, with about two days before Walker is expected back, he plans to visit Carlkin, possibly Benji, practice doors privately away from untrusted onlookers, and study his relic. He looks toward someone or something called Caracas while saying he does not want untrusted people watching.",
+        "He reminds Walker that the training grounds are where dragon things were stored and dragons were lured to be killed, and orders Walker and his companion to retreat if Grixto is there.",
+        "At Carlkin's lighthouse he jokes that the sign means they need an appointment, asks whether Gerk can read, and tells him to knock. He had forgotten Carlkin's voice and is not sure they have spoken before. He introduces Gerk as the party's ambassador, asks to discuss matters of great importance, and checks with Dana and Ord before sharing the relics. He then agrees to hide nothing and offers Carlkin an exchange of knowledge.",
+        "He declares that his own door opens into the room where Walker is facing Vecna, and the DM confirms that destination.",
+        "He is next closest to the tentacles after Gerk because he followed Gerk in. Initiative 26, including Ord's bonus. He sets aside his psychic sword, which does not cut, and draws his +1 magic greatsword. He deals 26 magical slashing plus 3 radiant; only the last attack damages the tentacle holding Gerk. Maneuvering strike lets Dana move half her speed away.",
+        "A legendary tentacle attack of 29 hits him. His Strength save of 22 succeeds, and he takes 14 bludgeoning. He asks whether they are fighting a god-tier monster, and Dana says yes.",
+        "With Sentinel he reacts when Ord is hit and crits that tentacle for 29 total damage, part of it radiant from a d8, leaving tendrils still holding it. He cannot flank a tentacle coming out of a door. He then deals 75 damage across three attacks: Distracting Strike so the next ally has advantage, a Trip Attack that fails because the creature is too large, and a further slash funded by a resource heard as warp priest points. That finishes the visible tendrils and leaves a wriggling stump. He warns Carlkin out of the splash zone, considers Action Surge, and does not need it.",
+        "Adjacent to the wall of eyes, he uses Indomitable and succeeds on a Wisdom save of 25. He reads Ord's babble about sea breezes and \"my strength\" as Ord voicing what he has lost. He asks Gerk to close the door and says Gerk has to be the one to end it, remembering he could not work Gerk's door on the boat.",
+        "He casts Beacon of Hope on friendly creatures in range, giving advantage on Wisdom saves and death saving throws, and moves to the side of the door in case something tries to come through."
+      ]
     }
   ],
   "openQuestions": [
@@ -107,7 +123,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:02:08.336Z",
-  "updatedAt": "2026-09-01T18:29:09.760Z",
+  "updatedAt": "2026-09-22T19:50:00.186Z",
   "normalizedAliases": [
     "sylan"
   ]

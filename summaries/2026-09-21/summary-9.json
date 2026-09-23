@@ -1,0 +1,202 @@
+{
+    "plotSections": [
+        {
+            "title": "The door opens onto the abyss",
+            "bullets": [
+                "Whatever Gerk opened is pouring oily black tentacles into the room: one wraps his leg while two more slip out the sides, and a deathly scream sounds as they emerge.",
+                "Carlkin takes one look and dives for the nearest pile of books, later described as hiding behind a box.",
+                "Gerk tries to slam the door. The slam hits the tentacles with a wet-meat sound and does not close; the two free tentacles, each about a foot across at the octopi-like tips and thicker toward the door, begin searching the room. They look semi-translucent, like liquefied shadow or ink mixed with black oil, and corporeal enough for the door to strike them. The DM frames the opening as a dark hole of the abyss and the limbs as Cthulhu-like horrors."
+            ]
+        },
+        {
+            "title": "Hold Monster fails",
+            "bullets": [
+                "Ord casts Hold Monster (DC 18) to stop the tentacles. The creature makes the save and shrugs the spell off as if immune to the paralyzed condition. The other two tentacles start to flail, and initiative is called."
+            ]
+        },
+        {
+            "title": "Sylan cuts the tentacle holding Gerk",
+            "bullets": [
+                "Ord's proficiency bonus of +6 applies to initiative for living allies he can see, including Carlkin, and not to the creature. Rough results: Sylan 26, Gerk 25, Carlkin 25 (after Gerk), Dana 22, Ord 21, creature 19.",
+                "Sylan draws his cutting magic greatsword instead of his psychic sword, which does not cut, and uses a maneuvering strike so Dana can back up half her movement. He deals 26 slashing plus 3 radiant (29 total) to the tentacle grappling Gerk. Ichor sprays, but only his last attack seems to actually damage it. Dana retreats.",
+                "Gerk is grappled, not restrained: movement 0, and breaking free costs his action unless he can otherwise replace the grapple. The chunk ends as his turn begins."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Oily black tentacles erupt from the opening Gerk made: one wraps his leg, two more enter, and something screams.",
+        "Carlkin dives behind a pile of books.",
+        "Gerk slams the door into the tentacles; it does not shut, and the free tentacles search the room.",
+        "The tentacles are described as foot-thick, oily, semi-translucent, ink-or-shadow limbs with octopi-like ends, thickening toward a dark hole of the abyss.",
+        "Ord casts Hold Monster at DC 18. The creature saves and is immune to paralyzed. The other tentacles flail.",
+        "Initiative: Sylan 26, Gerk 25, Carlkin 25, Dana 22, Ord 21, creature 19. Ord's +6 proficiency bonus applies to allies he chooses, including Carlkin.",
+        "Sylan attacks the tentacle holding Gerk with his magic greatsword, uses maneuvering strike so Dana can retreat half her movement, and deals 29 damage (26 slashing, 3 radiant); only the last attack seems to hurt it, and ichor flies.",
+        "Gerk is grappled but not restrained, with movement 0, and must use his action to break free unless he can otherwise end the grapple."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman who opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "A tentacle from the opening wraps his leg while he tries and fails to slam the door shut.",
+                "He is grappled, not restrained: movement is 0, and escaping the grapple takes his action unless he can otherwise replace it.",
+                "Initiative 25."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He sets aside his psychic sword, which does not cut, and draws his magic greatsword to sever the tentacle holding Gerk.",
+                "Maneuvering strike lets Dana move half her movement away.",
+                "He hits for 26 slashing and 3 radiant. Ichor sprays, but only the last attack seems to damage the tentacle.",
+                "Initiative 26."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Hold Monster (DC 18) fails: the tentacle creature saves and is immune to the paralyzed condition.",
+                "Allies he can see, including Carlkin, add his proficiency bonus of +6 to initiative. The creature does not.",
+                "Initiative 21, with his bonus already included in the roll."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She stays at the back, then retreats half her movement when Sylan uses maneuvering strike.",
+                "Initiative 22 after Ord's +6."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person previously believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "He is in the room when the tentacles erupt, screams or is present for a deathly scream, and dives behind a pile of books, later a box.",
+                "Treated as an ally: he receives Ord's initiative bonus, rolls 25, and acts after Gerk because of lower Dexterity."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "Gerk's opening leads into a dark hole of the abyss. Oily tentacles force their way through and physically block the door when he tries to slam it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abyssal tentacles": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "creature",
+            "notes": [
+                "Three oily black, semi-translucent tentacles pour from the opening: one grapples Gerk, two search the room and then flail. Tips are about a foot in diameter with octopi-like ends and grow thicker toward the door. They read as liquefied shadow or ink and as Cthulhu-like horrors mixed with black oil.",
+                "Corporeal: the door strikes them with a wet-meat sound.",
+                "Immune to the paralyzed condition; Hold Monster does not stick.",
+                "Sylan's greatsword draws ichor, but only his last attack seems to damage the limb holding Gerk.",
+                "Initiative 19."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "whole monster",
+            "likely": "Hold Monster",
+            "notes": "Ord asking whether the spell can stop the tentacles."
+        },
+        {
+            "heard": "Dark whole of the abyss",
+            "likely": "dark hole of the abyss",
+            "notes": "DM naming what the door opened into."
+        },
+        {
+            "heard": "Word's bonus",
+            "likely": "Ord's bonus",
+            "notes": "Gerk asking the size of the initiative bonus."
+        },
+        {
+            "heard": "horse bonus",
+            "likely": "Ord's bonus",
+            "notes": "Sylan reporting initiative 26."
+        },
+        {
+            "heard": "grisma",
+            "likely": "charisma",
+            "notes": "DM checking which ability the bonus uses."
+        },
+        {
+            "heard": "Max Chris",
+            "likely": "max Charisma",
+            "notes": "DM estimating the bonus."
+        },
+        {
+            "heard": "shashimi",
+            "likely": "sashimi",
+            "notes": "Sylan describing cutting the tentacle."
+        },
+        {
+            "heard": "radian",
+            "likely": "radiant",
+            "notes": "Damage type on the greatsword hit."
+        },
+        {
+            "heard": "icker",
+            "likely": "ichor",
+            "notes": "Fluid from the cut tentacle."
+        },
+        {
+            "heard": "spectral slash inky",
+            "likely": "spectral, inky",
+            "notes": "DM describing the tentacles blocking the door."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Abyssal tentacles",
+            "notes": [
+                "Oily, semi-translucent limbs forcing through Gerk's door from a dark hole of the abyss. One grapples him. They are immune to paralyzed and bleed ichor when cut."
+            ]
+        },
+        {
+            "name": "Sylan's psychic sword",
+            "notes": [
+                "A sword Sylan distinguishes from his magic greatsword because it does not cut. He does not use it on the tentacle."
+            ]
+        },
+        {
+            "name": "Sylan's magic greatsword",
+            "notes": [
+                "His cutting magic weapon. This strike deals slashing plus radiant damage."
+            ]
+        }
+    ]
+}

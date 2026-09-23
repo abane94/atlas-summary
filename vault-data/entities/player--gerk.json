@@ -112,6 +112,20 @@
         "Agrees not to open another door until the party reaches land.",
         "Suggests giving Mikkel a teleportation tunnel or other way back to the boat."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Gerk sees the spectral door following him, refuses to touch it on the boat, and agrees to keep sailing and report if anything changes. When it vanishes after about a day, he feels briefly more vulnerable, then the feeling fades. He checks a watch to judge whether twelve or twenty-four hours have passed, though he has trouble reading it. With Sylan, Dana, and Ord he goes to Carlkin’s lighthouse in New Navel, reads a posted notice as “Knock loud. Be let in,” and knocks hard enough to crack the boards and throw the door open. Sylan introduces him as the party’s ambassador; he points out Sylan’s arms and walks in when Carlkin tries to push him out. He opens a door with no destination chosen and rolls the abyss, telling Carlkin he can open doors anywhere but does not know how the power works. A tentacle grapples him about the waist. He peeks through, succeeds on a Wisdom save, sees thousands of eyes—one pupil shaped like a small light-complexioned figure—and tells the others not to look. He rages and takes a legendary tentacle hit before Ord severs it. He does not close the door, then breaks the cobbles under Ord and holds him in a hole so Ord cannot continue through.",
+      "notes": [
+        "He can see the spectral door following him, refuses to touch it on the boat, and agrees to keep sailing and report if anything changes. When it vanishes after about a day, he feels briefly more vulnerable, then the feeling fades.",
+        "He checks a watch to judge whether twelve or twenty-four hours have passed. He has trouble reading it; the watch does move.",
+        "He goes with Sylan, Dana, and Ord to Carlkin's lighthouse in New Navel. He says he can read and reads a posted notice as \"Knock loud. Be let in.\" He knocks hard enough to crack the boards and throw the door open, rolling a 12 and treating it as a 32 Strength check. Sylan introduces him as the party's ambassador. He answers Carlkin by pointing out Sylan's arms and walks in when Carlkin tries to push him out.",
+        "In the living room he opens a door with no destination chosen, slowly in case water comes out, and rolls 68 on a d100. The opening is the abyss. He tells Carlkin he can open doors anywhere but does not know how the power works.",
+        "A tentacle grapples him about the waist. He is grappled with movement 0, and escaping costs his action. He had not drawn a weapon. He peeks through, succeeds on a Wisdom save of 24, sees thousands of eyes, nearly loses himself, and tells the others not to look. One pupil is shaped like a small light-complexioned figure.",
+        "His Charisma bonus is +5 to ability checks and saves, and Sentinel applies to his initiative. He rolls 19 and his initiative is 25 after Ord's proficiency bonus. He rages as a bonus action and takes 9 bludgeoning from a legendary tentacle attack of 24. Ord later severs the tentacle holding him.",
+        "Adjacent to the wall of eyes, he succeeds on a Wisdom save of 23 (18 plus his +5). He suggests opening a second door so the doors fight, or going three doors down. He does not close this door.",
+        "He breaks the cobbles under Ord with his hammer (attack 15, 16 damage), then on a Strength check of 27 dives about five feet under the floor and holds Ord in the hole so Ord cannot continue through the door."
+      ]
     }
   ],
   "openQuestions": [
@@ -124,7 +138,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:01:01.004Z",
-  "updatedAt": "2026-09-01T18:30:39.726Z",
+  "updatedAt": "2026-09-22T19:48:41.477Z",
   "normalizedAliases": [
     "gerk"
   ]

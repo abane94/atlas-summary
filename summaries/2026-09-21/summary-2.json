@@ -1,0 +1,362 @@
+{
+    "plotSections": [
+        {
+            "title": "The spectral door fades",
+            "bullets": [
+                "Dana doubts Dispel Magic would remove the spectral door: it appeared because Ord tried to open a door, or merely thought of one, and she treats it as keystone-level magic tied to the Doorman role rather than an ordinary spell.",
+                "Sylan and Dana agree not to test dispelling it while airborne. They plan to try on solid ground if it is still present, on the theory it might last a couple of hours and then could be reopened.",
+                "The door has no writing or other information. It is a translucent, spectral floating door.",
+                "About a day after Gerk opened it, at roughly the same time of day, the door pops out of existence. The space-altering effect is gone and the back of the boat is empty. Gerk feels briefly a little less protected, then that feeling fades."
+            ]
+        },
+        {
+            "title": "Five days back to Langdale",
+            "bullets": [
+                "The rest of the voyage from Monta Valia to the stronghold is casual and uneventful: a five-day journey through the Twin Peaks, with autumn on the mountains, snow creeping down from the heights, and the first migratory herds moving through.",
+                "In Langdale the crops are ready to harvest. A familiar hut is ringed with manageable tomato fields. Trade caravans run from New Navel and stop at the party's tavern, with some still traveling to and from the Rita area.",
+                "A few more fishing vessels are on the glassy lake, and small crews are casting nets in the coves. The party circles and lands at the stronghold."
+            ]
+        },
+        {
+            "title": "Two days at the stronghold",
+            "bullets": [
+                "Walker is about two days out. Sylan proposes using the time to find Carlkin, who lives in the tower, and Benji if he is in town, with questions about what they are hunting, and otherwise to practice doors indoors away from people they do not trust.",
+                "Sylan also plans to spend time with his relic and learn to use it better. Gerk, Dana, and Ord go with him to Carlkin. Walker stays behind."
+            ]
+        },
+        {
+            "title": "Grixto's hideaway",
+            "bullets": [
+                "Walker will meet Elrus and Araden and, once Plymouth is finished, continue to the training grounds to investigate. He does not remember the lead they were chasing.",
+                "The grounds are the secret hideaway of a younger Grixto. He lured his guild compatriots there, killed them, and took their Al Kurin—their dragons' hearts of hearts—to amplify his power. He eventually killed Tunimus and a right hand whose name is not recalled, and that group then fell to Elrus and Araden.",
+                "The party knows the place from a vision Emhet gave them, triggered by something like legend lore through Dana: Grixto sitting with a couple of Al Kurin, plotting his next steps.",
+                "Sylan's instruction if Grixto is there: do not fight; both of them retreat."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Aboard the moving boat, Sylan offers further Dispel Magic on the spectral door. Dana argues it may not dismiss a door created when Ord tried to open one, or only thought of one, because the effect is keystone-level Doorman magic.",
+        "They postpone any test until they are on solid ground. Sylan keeps the boat flying. The door bears no writing; it is only a translucent spectral floating door.",
+        "The DM jumps the journey ahead. About a day after the door was opened, it vanishes. Gerk feels briefly more vulnerable, then that passes, and the space-warping effect is gone.",
+        "Five uneventful days through the Twin Peaks bring them into autumn Langdale: harvest-ready crops, tomato fields around a familiar hut, caravans from New Navel at their tavern and traffic toward the Rita area, and new fishing boats on the glassy lake.",
+        "They land at the stronghold. Sylan notes the door lasted about a day. With roughly two days before Walker returns, he recruits Gerk, Dana, and Ord to visit Carlkin in the tower, and may look for Benji about the hunt, practice doors in private, and study his relic.",
+        "Walker does not go. He will join Elrus and Araden after Plymouth is done and continue to the training grounds.",
+        "The training grounds are young Grixto's secret hideaway, where he killed guild dragons for their Al Kurin, including Tunimus, before Elrus and Araden ended that group. Emhet's vision, via a legend-lore-like effect associated with Dana, showed him there with Al Kurin. Sylan tells Walker to retreat if Grixto is present."
+    ],
+    "entities": {
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "No writing or other information on it; described as a translucent spectral floating door.",
+                "It lasted about a day, then popped out of existence around the same time of day it had been opened, leaving the back of the boat empty.",
+                "While it existed it was a space-altering effect of doorkeeping. After it vanished, Gerk felt briefly a little less protected, then that feeling faded."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether Dispel Magic can dismiss a door created through the Doorman role, or whether the effect simply expires."
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman and Child of the Tree, keeper of the Midgar keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Noticed the spectral door was gone after about a day and felt briefly more vulnerable before that sensation faded.",
+                "Goes with Sylan, Dana, and Ord to talk to Carlkin in the tower."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin, Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Dana says the spectral door appeared because Ord tried to open a door, or only thought about a door.",
+                "Goes with Sylan, Gerk, and Dana to see Carlkin."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric, Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Advises against trying to dispel the door in the air, arguing it is keystone-level Doorman magic rather than something Dispel Magic would simply erase.",
+                "Goes with Sylan, Gerk, and Ord to Carlkin.",
+                "The vision of Grixto at the training grounds was triggered by something like legend lore associated with Dana."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue, Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Wants to test the door's duration and dispelling only on solid ground, and to practice doors indoors away from untrusted onlookers.",
+                "Plans to spend the two days before Walker returns visiting Carlkin, possibly Benji, and studying his relic.",
+                "Reminds Walker that the training grounds are where he stored dragon things and lured dragons to be killed, and orders a retreat if Grixto is there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Does not go to Carlkin. He will meet Elrus and Araden and, once Plymouth is done, continue to the training grounds to investigate a lead he no longer remembers.",
+                "Expected back at the stronghold in about two days. Sylan treats his earlier check-in as evidence he is fine.",
+                "Told not to fight Grixto if he is at the hideaway; he and his companion are to retreat."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorman": {
+            "existing": "Gerk's Doorman role and doorway ability.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Dana links the spectral door to this role: Ord's attempt to open a door, or even thinking of a door, manifested it, so she does not expect ordinary Dispel Magic to end it.",
+                "The manifested space-altering effect lasted about a day and then ended on its own."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist seeking Al Kurin, hiding a phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "As a younger figure he kept a secret hideaway at the dragon-rider training grounds.",
+                "He lured guild compatriots there, killed them, and took their Al Kurin to amplify his power. He killed Tunimus and an unnamed right hand; Elrus and Araden then brought that group down.",
+                "Emhet's vision showed him there, sitting with a couple of Al Kurin and plotting his next steps."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Al Kurin": {
+            "existing": "Vessels containing the souls of dragons.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Described here as a dragon's heart of hearts. Grixto took them from dragons he lured to the training grounds and used them to amplify his power."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "Dragon Rider guild training grounds near the Lost Isles.",
+            "entityType": "Location",
+            "notes": [
+                "Identified as the secret hideaway where young Grixto gathered and killed guild dragons for their Al Kurin.",
+                "Walker, with Elrus and Araden, is heading there to investigate after Plymouth finishes. If Grixto is present they are to retreat rather than fight."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "With Araden, brought about the demise of Grixto's group after Grixto had killed the guild dragons at the training grounds.",
+                "Walker is meeting him to continue on to those grounds."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "With Elrus, was responsible for the end of Grixto's group at the training grounds.",
+                "Traveling with Walker toward that hideaway."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Emhet": {
+            "existing": "Deity at the gods' council who knows the party safeguards the keys.",
+            "entityType": "NPC",
+            "notes": [
+                "Gave a vision, received by basically everybody and triggered by something like legend lore associated with Dana, of Grixto at the training grounds with Al Kurin."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Lives in the tower. Sylan, Gerk, Dana, and Ord go to talk to him during the two days before Walker returns."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Benji": {
+            "existing": "Familiar with The Reach and may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan wants to question him about what they are hunting if he is in town. The party does not confirm that he is there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is Benji in town?"
+            ]
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally guiding the new keystone keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker's group is waiting on him to finish before they go on to the training grounds."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale": {
+            "existing": "Forested home region of the party.",
+            "entityType": "Location",
+            "notes": [
+                "Reached after five days through the Twin Peaks. Crops are harvestable. A familiar hut has small tomato fields around it. The glassy lake now has more fishing vessels working the coves.",
+                "Trade caravans from New Navel stop at the party's tavern, and some traffic still runs to and from the Rita area."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale Stronghold": {
+            "existing": "Party's central stronghold and home base.",
+            "entityType": "Location",
+            "notes": [
+                "The party lands here with about two days before Walker is expected back. Sylan wants door practice kept inside, out of sight of people they do not trust."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Tunimus": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Killed by Grixto after Grixto had used stolen Al Kurin to amplify his power. The DM could not recall the name of Tunimus's right hand. Their group then met its end at the hands of Elrus and Araden."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "dispeled magics",
+            "likely": "Dispel Magic",
+            "notes": "Sylan offering to cast it on the spectral door."
+        },
+        {
+            "heard": "Monta Valia",
+            "likely": "",
+            "notes": "Departure point of the five-day voyage to the stronghold. Not in the existing location list."
+        },
+        {
+            "heard": "daughter",
+            "likely": "door",
+            "notes": "Sylan asks Gerk whether he noticed his daughter was gone, immediately after the spectral door vanishing."
+        },
+        {
+            "heard": "wayspan",
+            "likely": "waistband",
+            "notes": "Gerk tucking the broken watch away; the follow-up is that it falls through his shorts."
+        },
+        {
+            "heard": "Caracas",
+            "likely": "",
+            "notes": "Sylan looks toward Caracas while saying he does not want untrusted people watching them practice doors."
+        },
+        {
+            "heard": "New Navel",
+            "likely": "",
+            "notes": "Origin of trade caravans that stop at the party's tavern. May be a place name or a hearing of an existing name."
+        },
+        {
+            "heard": "Rita",
+            "likely": "",
+            "notes": "Area some caravans still travel to and from, mentioned beside Langdale."
+        },
+        {
+            "heard": "Tunimus",
+            "likely": "",
+            "notes": "Name of someone Grixto killed after taking Al Kurin. Spelling is only as heard."
+        }
+    ],
+    "openQuestions": [
+        "Will Dispel Magic actually dismiss a door manifested through the Doorman role, or does that door only end when its duration runs out?",
+        "Is Benji in town to answer questions about what the party is hunting?"
+    ],
+    "newTerms": [
+        {
+            "name": "Twin Peaks",
+            "notes": [
+                "Mountain range the party crosses on the five-day voyage from Monta Valia into Langdale. Autumn snow is creeping down from the higher slopes, and migratory herds are starting to move through."
+            ]
+        },
+        {
+            "name": "Monta Valia",
+            "notes": [
+                "Heard name of the place they leave at the start of the five-day trip to the stronghold. Spelling is uncertain."
+            ]
+        },
+        {
+            "name": "New Navel",
+            "notes": [
+                "Heard name of a place whose trade caravans stop at the party's tavern in Langdale."
+            ]
+        },
+        {
+            "name": "Rita",
+            "notes": [
+                "Heard name of an area some caravans still travel between and Langdale."
+            ]
+        },
+        {
+            "name": "Tunimus",
+            "notes": [
+                "Someone Grixto killed after amplifying himself with stolen Al Kurin. Had a right hand whose name the DM did not recall. Elrus and Araden later destroyed that group."
+            ]
+        },
+        {
+            "name": "Sylan's relic",
+            "notes": [
+                "An item Sylan already has and plans to study over the two days at the stronghold so he can use it better. No further description in this chunk."
+            ]
+        }
+    ]
+}

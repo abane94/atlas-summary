@@ -1,7 +1,6 @@
 import fs from "fs";
 import path from "path";
-import type { Page } from "puppeteer-core";
-import { runJsonPrompt } from "./ai.js";
+import type { AiClient } from "./ai.js";
 import { generateSessionData, mergeSessionData } from "./session-data-gen.ts";
 import {
   divideTranscriptIntoChunks,
@@ -13,8 +12,6 @@ export const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 export const PROCESS_STEPS = ["chunks", "merge"] as const;
 export const PIPELINE_STEPS = [...PROCESS_STEPS, "vault"] as const;
 export type PipelineStep = (typeof PIPELINE_STEPS)[number];
-
-const CHATGPT_URL = "https://chatgpt.com";
 
 export function summariesDir(date: string): string {
   return path.join("summaries", date);
@@ -180,7 +177,7 @@ export function mergeNeedsWork(date: string, force: boolean): boolean {
 }
 
 export async function generateChunks(
-  page: Page,
+  ai: AiClient,
   date: string,
   options: { force?: boolean } = {},
 ): Promise<"wrote" | "skipped"> {
@@ -200,7 +197,7 @@ export async function generateChunks(
   let i = 0;
 
   console.log(`[chunks] Generating summaries for ${date} (${expected} chunks)...`);
-  await page.goto(CHATGPT_URL, { waitUntil: "networkidle2" });
+  await ai.resetConversation();
 
   for (const chunk of generateTranscriptChunks(transcript)) {
     const fileName = summaryChunkPath(date, i);
@@ -222,10 +219,10 @@ export async function generateChunks(
 
   ${chunk.replaceAll("\n", "<br/>")}
   `;
-    const summary = await runJsonPrompt(page, aiPrompt, { effort: "low" });
+    const summary = await ai.runJsonPrompt(aiPrompt, { effort: "low" });
     fs.writeFileSync(fileName, summary);
     wrote++;
-    await page.goto(CHATGPT_URL, { waitUntil: "networkidle2" });
+    await ai.resetConversation();
     i++;
   }
 
@@ -238,7 +235,7 @@ export async function generateChunks(
 }
 
 export async function generateMerged(
-  page: Page,
+  ai: AiClient,
   date: string,
   options: { force?: boolean } = {},
 ): Promise<"wrote" | "skipped"> {
@@ -257,7 +254,7 @@ export async function generateMerged(
   ensureSummariesFolder(date);
   console.log(`[merge] Merging chunk summaries for ${date} ...`);
   const allData = await generateSessionData(date);
-  const mergedData = await mergeSessionData(page, allData);
+  const mergedData = await mergeSessionData(ai, allData);
   fs.writeFileSync(outPath, JSON.stringify(mergedData, null, 2));
   console.log(`[merge] Wrote ${outPath}`);
   return "wrote";

@@ -1,0 +1,28 @@
+{
+  "name": "Tin can",
+  "tags": [],
+  "slug": "A snoring metal figure in Carlkin's shop that he calls a tin can.",
+  "aliases": [],
+  "normalizedAliases": [
+    "tin can"
+  ],
+  "filename": "entities/npc/tin_can.md",
+  "description": "A metal figure that sleeps in the corner of Carlkin's shop, under or among a pile of books, and snores.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-09-21",
+      "summary": "Carlkin threw a book at the sleeping metal figure, which clanged on impact. He called it a tin can and demanded it wake and help against the beast.",
+      "notes": [
+        "A metal figure asleep in the corner of Carlkin's shop, under or among a pile of books that is snoring.",
+        "Carlkin throws a book at it, calls it a tin can, and demands it wake and help against the beast. The impact clangs on metal."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Who or what is the metal sleeper Carlkin called a tin can?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-09-22T20:03:13.085Z",
+  "updatedAt": "2026-09-22T20:03:13.085Z"
+}

@@ -1,0 +1,163 @@
+{
+    "plotSections": [
+        {
+            "title": "Tentacles from the door",
+            "bullets": [
+                "Ord, already spent and standing beside Sylan, shrugs off a grapple from a gooey tentacle reaching out of a door; a second tentacle still hits him for 19 and 12 bludgeoning.",
+                "Sylan answers with a Sentinel reaction crit on the tentacle Ord had damaged, using his +1 greatsword (including radiant damage). The cut bites deep, but tendrils still hold."
+            ]
+        },
+        {
+            "title": "Cutting the last tendrils",
+            "bullets": [
+                "On his turn Sylan keeps hacking the flailing tentacles. He cannot flank a tentacle coming out of a door. One set of dark tendrils shears off the connecting point and splatters the room with black ichor, leaving one tentacle and an ominously cracked door.",
+                "He spends a Distracting Strike so the next ally to hit the remaining tentacle has advantage, then a Trip Attack he expects will not matter because the thing is very large, then another slash. Across those attacks he deals 75 damage. The last tendrils break, a stump wriggles in the doorway, and the rest falls and splatters.",
+                "Sylan warns Carlkin he is in the splash zone. Carlkin beelines for the stairs and may move up to half his movement.",
+                "Gerk is next in order. He floats opening another door so the doors could fight; that does not happen."
+            ]
+        },
+        {
+            "title": "The door answers",
+            "bullets": [
+                "At the end of Sylan's turn the door uses a legendary action: it flies open and a gale-force wind blows out. The chunk ends as the wind begins."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord cannot spend leftover movement to stomp the target; his bonus action and reaction are already used.",
+        "A gooey tentacle tries to grapple Ord. He contests with Athletics 25; the tie goes to him, so the tentacle wraps him and then falls away without holding.",
+        "A second tentacle hits Ord twice (19 bludgeoning, then 12 bludgeoning).",
+        "Sylan uses Sentinel when Ord is hit, crits the tentacle Ord had been damaging with his +1 greatsword, and deals 29 damage. Tendrils remain.",
+        "Sylan's turn: he keeps attacking the flailing tentacles and is told he cannot flank one coming out of a door.",
+        "His next hit (21 damage, including radiant) severs dark tendrils at the connecting point. Black ichor coats the room again. One tentacle and a cracked door remain.",
+        "He hits the last tentacle with Distracting Strike (26 plus 2 radiant). It nearly reforms, but the damage shows. The next ally to hit it has advantage.",
+        "He hits again with a Trip Attack (20 plus 3 radiant). The creature is too big for the trip to matter as he hoped, and he follows with another slash (21 plus 3 radiant).",
+        "He calls for Carlkin to take cover. Carlkin runs for the stairs.",
+        "The DM totals 75 damage from Sylan's three attacks that round. The final tendrils break; a stump wriggles in the door and the rest splatters to the floor.",
+        "Gerk, next in initiative, suggests opening another door to pit doors against each other. He does not do it.",
+        "The door takes a legendary action, flies open, and a gale-force wind blows out."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Stood next to Sylan at the door while a tentacle tried to grab him.",
+                "Contested the grapple with Athletics 25. The tie went to him, so the tentacle could not hold him.",
+                "Took 19 bludgeoning and then 12 bludgeoning from the follow-up tentacle strikes.",
+                "Had already dealt over a hundred damage earlier in the same turn and had no bonus action or reaction left to stomp."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Used Sentinel to strike when an ally (Ord) was hit, critting the tentacle with a +1 greatsword for 29 damage, part of it radiant.",
+                "Could not flank a tentacle emerging from a door.",
+                "Cut one mass of tendrils free at the connecting point, splattering black ichor through the room.",
+                "Used Distracting Strike on the last tentacle so the next ally to hit it has advantage, then a Trip Attack that did not lay it out because it is very large, then a further slash.",
+                "Dealt 75 damage across three attacks in the round. That finished the visible tendrils, leaving a wriggling stump in the door.",
+                "Warned Carlkin out of the splash zone before the last cut.",
+                "Considered Action Surge to finish the fight and held off once the tendrils were already down."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Warned Carlkin by name to take cover because he was in the splash zone."
+            ],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Is present at this fight, close enough to be in the splash zone of the tentacle.",
+                "When Sylan warned him, he beelined toward the stairs and was allowed to move up to half his movement."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Cracked tentacle door": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Hostile doorway",
+            "notes": [
+                "Gooey tentacles reach out of a door and attack in melee. One tried to grapple Ord and failed; another struck him.",
+                "While the tentacles are not holding anyone they flail. They are too big for Sylan's trip to treat them as a normal-sized foe, and damaged tendrils can look like they reform.",
+                "Severing tendrils at the connecting point dumps black ichor that coats the room. After Sylan's round, one tentacle mass was gone and the door was ominously cracked; the last tendrils then broke, leaving a stump wriggling in the doorway.",
+                "Has a legendary action. At the end of Sylan's turn the door flew open and a gale-force wind blew out."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "bonus tax",
+            "likely": "bonus action",
+            "notes": "Ord saying he had already used his bonus action, so he could not also stomp."
+        },
+        {
+            "heard": "blushing",
+            "likely": "bludgeoning",
+            "notes": "Damage type of the second tentacle hit on Ord."
+        },
+        {
+            "heard": "now Yorga",
+            "likely": "now your go",
+            "notes": "DM handing the turn to Sylan."
+        },
+        {
+            "heard": "Satinal",
+            "likely": "Sentinel",
+            "notes": "Sylan's reaction when an ally is hit."
+        },
+        {
+            "heard": "radium",
+            "likely": "radiant",
+            "notes": "Extra damage on the greatsword hits."
+        },
+        {
+            "heard": "Icker",
+            "likely": "ichor",
+            "notes": "Black splash when the tendrils are cut."
+        },
+        {
+            "heard": "warp priest points",
+            "likely": "superiority dice",
+            "notes": "Spent alongside Distracting Strike and Trip Attack."
+        },
+        {
+            "heard": "accident surge",
+            "likely": "Action Surge",
+            "notes": "Sylan weighing whether to spend it to finish the tentacle."
+        },
+        {
+            "heard": "action search",
+            "likely": "Action Surge",
+            "notes": "Same ability, said again a few lines later."
+        },
+        {
+            "heard": "dagger door",
+            "likely": "another door",
+            "notes": "Sylan saying they cannot open another door today, aimed at Gerk."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Cracked tentacle door",
+            "notes": [
+                "A hostile door in this fight that extrudes black gooey tentacles, splatters ichor when they are cut, and can take a legendary action that throws the door open into a gale."
+            ]
+        }
+    ]
+}

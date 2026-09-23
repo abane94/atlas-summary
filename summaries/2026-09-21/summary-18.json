@@ -1,0 +1,122 @@
+{
+    "plotSections": [
+        {
+            "title": "Ord drawn into the door",
+            "bullets": [
+                "On Gerk's turn, Ord is being sucked bodily into the door, into a wall of eyes just inside it. The eyes are focused on him and their pupils track him as he enters.",
+                "Ord babbles incoherently about sea breezes and something about his strength.",
+                "Gerk is no longer grappled: the tentacle was cut away. What remains is the door, Ord being pulled into it, and the wall of eyes."
+            ]
+        },
+        {
+            "title": "Breaking the floor under Ord",
+            "bullets": [
+                "Gerk tries to stop Ord from going farther in by breaking the stone floor under him and pulling him down into the dirt so he cannot walk into the mass.",
+                "The floor is a cobble layer over a granular base, not solid stone all the way down. Gerk attacks it with his hammer (attack 15 against an inanimate object, 16 damage) and breaks up the cobbles under Ord.",
+                "Ord begins to stumble. The hand and arm already sucked into the mass are holding him up somewhat. Gerk starts to burrow under him and pull him down; the DM calls for Strength (Athletics) as he pulls. The check is not resolved in this chunk."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk's turn begins with Ord being pulled into the door and a wall of eyes inside it, all tracking him, while he babbles about sea breezes and his strength.",
+        "The DM confirms the grappling tentacle is gone; only the door, Ord being drawn in, and the wall of eyes remain.",
+        "Gerk hammers the cobble floor beneath Ord, hits with a 15, and deals 16 damage, breaking up the cobbles.",
+        "Ord stumbles, still held up by the arm already inside the mass. Gerk tries to pull him down into the broken floor and is asked for a Strength (Athletics) check."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Being sucked bodily into the door and a wall of eyes that have focused on him, pupils tracking him as he enters.",
+                "Babbling incoherently about sea breezes and something about his strength.",
+                "After Gerk breaks the cobbles, Ord stumbles; the hand and arm already inside the mass hold him up somewhat."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "No longer grappled; the tentacle that had held him was cut away.",
+                "Breaks the cobble floor under Ord with his hammer (attack 15, 16 damage) to drop Ord into a hole so he cannot continue into the door.",
+                "Starts to burrow under Ord and pull him down into the dirt; a Strength (Athletics) check is called and not yet resolved."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "Ord is being pulled into this door.",
+                "Just inside it is a wall of eyes focused on Ord.",
+                "A tentacle that had been present and grappling was cut away before this moment."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Wall of Eyes": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Hazard",
+            "notes": [
+                "A wall full of eyes sits just inside the door.",
+                "Every eye focuses on Ord and the pupils track him as he is drawn in.",
+                "The hand and arm already sucked into the mass hold Ord up after the floor gives way."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "yawnk",
+            "likely": "",
+            "notes": "DM asks if Gerk wants to yawnk the hammer strike on the floor; repeated as a modifier ('ten plus a yonk')."
+        },
+        {
+            "heard": "yonk",
+            "likely": "",
+            "notes": "Same floor-attack modifier as yawnk: 'ten plus a yonk' before 16 damage."
+        },
+        {
+            "heard": "yawn",
+            "likely": "",
+            "notes": "DM: 'You're gonna yawn at the floor,' same strike as yawnk/yonk."
+        },
+        {
+            "heard": "Obscure",
+            "likely": "",
+            "notes": "DM says this while checking the floor damage; unclear whether a rule term or a mishear."
+        },
+        {
+            "heard": "Are you aging?",
+            "likely": "Are you raging?",
+            "notes": "Sylan, as Gerk makes the Strength (Athletics) pull on Ord."
+        },
+        {
+            "heard": "sea breezes",
+            "likely": "",
+            "notes": "Part of Ord's incoherent babbling while being pulled into the wall of eyes; may be misheard in-world speech."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Wall of Eyes",
+            "notes": [
+                "A wall of eyes inside the door, focused on Ord with pupils tracking him as he is sucked in. His arm already in the mass holds him up."
+            ]
+        }
+    ]
+}

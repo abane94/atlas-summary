@@ -1,6 +1,8 @@
 {
   "name": "Galixtar",
-  "tags": [],
+  "tags": [
+    "antagonist"
+  ],
   "slug": "Galixtar is a dragon associated with Grixto and being hunted by the party.",
   "aliases": [],
   "normalizedAliases": [
@@ -22,6 +24,14 @@
         "The investigation Walker's group is undertaking concerns the origins or place of origin of Grixto and Galixtar.",
         "Plymouth Gawater is investigating Galixtar's origin or place of origin along with Grixto."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "The DM says Galixtar is probably the one who used this crevice the way a younger dragon could, tucking its wings, hopping out, and flying clear, while Glimmen has to squeeze. Elrus says only one person used the place and that there has been no trainee there in centuries.",
+      "notes": [
+        "The DM says Galixtar is probably the one who used this crevice the way a younger dragon could, tucking its wings, hopping out, and flying clear. Glimmen has to squeeze.",
+        "Elrus says only one person used the place and that there has been no trainee there in centuries."
+      ]
     }
   ],
   "openQuestions": [
@@ -31,5 +41,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:11:36.563Z",
-  "updatedAt": "2026-08-21T18:11:36.563Z"
+  "updatedAt": "2026-09-22T19:55:35.341Z"
 }

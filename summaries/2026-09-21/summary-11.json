@@ -1,0 +1,225 @@
+{
+    "plotSections": [
+        {
+            "title": "The door full of eyes",
+            "bullets": [
+                "Gerk is weaponless and grappled about the waist by a tentacle in Carlkin's shop. He peeks past the tentacle through the open door with only his eyes.",
+                "Beyond the tentacles are thousands of eyeballs staring back. Gerk pulls back and warns the others not to look. Dana notes it.",
+                "Gerk makes a Wisdom save of 24 (19 plus a +5 Charisma bonus to saves) and passes. His vision hard-zooms into one eye whose pupil is shaped like a small, light-complexioned figure. He catches nothing more and nearly loses himself as his mind almost breaches that reality. Staring in is unfavorable."
+            ]
+        },
+        {
+            "title": "Carlkin's shop and the legendary lash",
+            "bullets": [
+                "Carlkin demands to know why Gerk opened a door to the abyss in his shop. Gerk says he can open doors anywhere but does not know how the power works, and that he has tested it before. Carlkin protests that this test hit his shop and his books.",
+                "A tentacle rakes the room on a legendary action, scattering books, and lashes Sylan and Gerk. A 29 hits Sylan; his Strength save of 22 succeeds, and he takes 14 bludgeoning. A 24 hits Gerk. Gerk rages as a bonus action before the damage and takes 9 bludgeoning.",
+                "From behind the books, Carlkin throws a book at a slumbering pile and shouts for the tin can to wake, saying hooligans summoned the beast and they need its help. The book clangs off metal in the corner."
+            ]
+        },
+        {
+            "title": "Sacred Flame, then Ord's smite",
+            "bullets": [
+                "Dana is about fifteen feet back. She refuses to fireball the tentacles because it would burn Carlkin's books. Sacred Flame at the tentacles calls for a Dexterity save; a 23 succeeds and the spell does nothing. She sidesteps out of range and gives Ord inspiration.",
+                "Sylan asks if they are fighting a god-tier monster. Dana says yes.",
+                "Ord spends his last 5th-level slot to cast Holy Weapon, then swings Watcher's Mantle. The DM confirms the beast is not from this plane, and the sword is buzzing hard. The attack is a 24 to hit. Mantle damage is 16, plus 15 because the target is extraplanar. Ord spends a 4th-level slot to smite (5d8) and rolls another 21. The chunk ends before a combined total is stated. He holds the inspiration for a later roll."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk, weaponless and grappled, peeks through the door and sees thousands of eyes.",
+        "Gerk passes a Wisdom save of 24. One pupil is shaped like a small light-complexioned figure, and he nearly loses himself.",
+        "Gerk tells the party not to look through the door. Dana acknowledges it.",
+        "Carlkin protests that Gerk opened the door to the abyss in his shop. A legendary tentacle scatters his books and lashes Sylan and Gerk.",
+        "Sylan is hit by a 29, succeeds on a Strength save of 22, and takes 14 bludgeoning. Gerk rages and takes 9 bludgeoning from a hit of 24.",
+        "Carlkin throws a book to wake a metal sleeper in the corner, calling the party hooligans who summoned the beast.",
+        "Dana refuses to fireball the books, misses with Sacred Flame when the tentacles save on a 23, steps out of range, and inspires Ord.",
+        "Ord casts Holy Weapon with his last 5th-level slot and hits the extraplanar beast with Watcher's Mantle for 16 plus 15, then adds 21 from a 4th-level smite."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman who opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Entered this moment weaponless and grappled about the waist by a tentacle.",
+                "Peeked through the door, saw thousands of eyes, and passed a Wisdom save of 24. The +5 is his Charisma bonus to ability checks and saves. Sentinel applies to initiative rolls.",
+                "One eye's pupil was shaped like a small light-complexioned figure. He nearly lost himself and told the others not to look.",
+                "Told Carlkin he can open doors anywhere but does not know how to work the power. This opening went to the abyss, in Carlkin's shop.",
+                "Raged before the tentacle hit and took 9 bludgeoning from an attack of 24."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Warned the party not to look in the door.",
+                "Told Carlkin to focus on the fact that he can open the door, then admitted he does not know how the power works."
+            ],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person whose shop the party is in.",
+            "entityType": "NPC",
+            "notes": [
+                "Present in his bookshop. Angry that Gerk tested the doorway here and opened it onto the abyss.",
+                "A tentacle scattered his books. He hid behind them, threw a book at a sleeping metal figure in the corner, and called it a tin can that must wake and help because hooligans summoned the beast."
+            ],
+            "titles": [],
+            "personality": [
+                "Protective of his books and shop, and sharp with the party once the doorway lets the beast in."
+            ],
+            "quotesThemes": [
+                "You didn't tell me you can open a door straight to the abyss.",
+                "Wake up you tin can. These hooligans have summoned the beast and we need your help."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Standing next to Ord. A legendary tentacle attack of 29 hits him. Strength save 22 succeeds. He takes 14 bludgeoning.",
+                "Asks whether they are fighting a god-tier monster. Dana says yes."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Backed up about fifteen feet from the doorway.",
+                "Refuses to fireball the tentacles because it would burn Carlkin's books.",
+                "Sacred Flame at the tentacles fails when they succeed on a Dexterity save of 23.",
+                "Sidesteps out of the effect's range and uses a bonus action to give Ord inspiration, asking him to do paladin things."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "We're not going to burn all the books."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Spends his last 5th-level spell slot to cast Holy Weapon, hoping they will not have to fight anything else today.",
+                "Attacks with Watcher's Mantle. 24 to hit. The weapon deals 16, plus 15 because the beast is extraplanar, plus 21 from a 4th-level smite (5d8). He keeps Dana's inspiration for a later roll.",
+                "The sword buzzes strongly against this creature. The DM confirms it is not from this plane."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "Gerk's open door in Carlkin's shop looks past the tentacles onto thousands of staring eyes. One pupil is the shape of a small light-complexioned figure. Looking in forces a Wisdom save and nearly pulls the viewer into that reality.",
+                "Carlkin describes the destination as the abyss. Gerk says he can open doors anywhere and does not yet know how to control where this one goes."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abyssal eye-beast": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "What lies through the door: tentacles in the shop, and beyond them thousands of eyes staring back. One iris has a pupil shaped like a small light-complexioned figure.",
+                "Uses a legendary action to lash two creatures. A 29 hits Sylan for 14 bludgeoning after a successful Strength save of 22. A 24 hits raging Gerk for 9 bludgeoning.",
+                "Not from this plane. Watcher's Mantle adds 15 damage because it is extraplanar, and Ord's sword buzzes in its presence. Sacred Flame does nothing when it makes a Dexterity save of 23.",
+                "Dana agrees with Sylan that they are fighting a god-tier monster. Carlkin calls it the beast the party summoned into his shop."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Tin can": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Something metal asleep in the corner of Carlkin's shop, under or among a pile of books.",
+                "Carlkin throws a book at it, calls it a tin can, and tells it to wake and help fight the beast the doorway let in. The impact clangs."
+            ],
+            "titles": [
+                "tin can"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Watcher's Mantle": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Ord's weapon in this fight. On the hit, the slash is 16 damage, plus 15 against an extraplanar creature.",
+                "It buzzes strongly when the target is not from this plane."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "DM asks whether a 29 hits silent as the tentacle lashes the second target."
+        },
+        {
+            "heard": "Board",
+            "likely": "Ord",
+            "notes": "DM says Board on a hit of 24, then corrects to Gerk. Sylan had just been talking about Ord."
+        },
+        {
+            "heard": "Dort",
+            "likely": "Ord",
+            "notes": "Sylan asks if Dort got hit next to him, then repeats Ord."
+        },
+        {
+            "heard": "NOTIN",
+            "likely": "nothing",
+            "notes": "Carlkin shouts that the door opened to NOTIN, in the same breath as the abyss."
+        },
+        {
+            "heard": "Sogar",
+            "likely": "",
+            "notes": "DM says Sogar while confirming Gerk's Wisdom save bonus. The total is 19 plus 5, Charisma to saves."
+        },
+        {
+            "heard": "swords thought us",
+            "likely": "",
+            "notes": "Gerk's line that nineteen plus swords thought us equals twenty-four. Same +5 Charisma save bonus."
+        },
+        {
+            "heard": "topicles",
+            "likely": "tentacles",
+            "notes": "Dana aims Sacred Flame at the topicles."
+        },
+        {
+            "heard": "Christopher",
+            "likely": "",
+            "notes": "Dana says Christopher, why, sir, hello while deciding what to do. No clear addressee in the chunk."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Watcher's Mantle",
+            "notes": [
+                "Ord's weapon. It buzzes against creatures from another plane and adds extra damage when the target is extraplanar."
+            ]
+        },
+        {
+            "name": "Tin can",
+            "notes": [
+                "Carlkin's name for the metal figure asleep in the corner of his shop. He throws a book to wake it and asks it to help fight the beast the doorway let in."
+            ]
+        }
+    ]
+}

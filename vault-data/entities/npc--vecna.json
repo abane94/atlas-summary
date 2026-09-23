@@ -17,12 +17,22 @@
         "Leaves the gathering to find a book.",
         "Reminds the party that despite their new powers and responsibilities, they remain mortal."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Vecna is already waiting in the dragon roost from Emhet's vision, seated at a square slab table of crumbling maps and military-planning figurines, one of which hovers in his hand. The tapping stops as Walker reaches the door, and a faint humming stops seconds later. His face is sullen and white, with amusement under a vague smile, and he sits in a stone chair he dragged through the dust; of the three chairs, one is overturned and one is against the back wall. His hand and arm are an alchemical or mechanical replacement for a limb lost in a battle over an item the party reached first, which the DM compares to Walker's own. He expected Walker sooner and asks Walker to help retrieve his book. Walker refuses. The book is not identified.",
+      "notes": [
+        "He is already waiting in the dragon roost from Emhet's vision, seated at a square slab table of crumbling maps and military-planning figurines. One figurine hovers in his hand. The tapping stops as Walker reaches the door, and a faint humming stops seconds later.",
+        "His face is sullen and white, with amusement under a vague smile. He sits in a stone chair he dragged through the dust. Of the three chairs, one is overturned and one is against the back wall.",
+        "His hand and arm are an alchemical or mechanical replacement for a limb lost in a battle over an item the party reached first. The DM compares that replacement to Walker's own.",
+        "He expected Walker sooner and asks Walker to help retrieve his book. Walker refuses. The book is not identified."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:58:30.225Z",
-  "updatedAt": "2026-08-21T19:23:48.063Z",
+  "updatedAt": "2026-09-22T19:59:57.128Z",
   "normalizedAliases": [
     "vecna"
   ]

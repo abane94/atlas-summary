@@ -1,0 +1,52 @@
+{
+    "plotSections": [
+        {
+            "title": "Ord forces a gap in the eyed door",
+            "bullets": [
+                "Ord's effect is a reaction, so it can be used only once rather than on each target. It deals 14 radiant damage.",
+                "Several eyes on the very edge of the door pop from the damage.",
+                "Sylan and Gerk watch Ord step forward, find a gap between the eyes with his hand, and begin to pass through."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord learns his effect is a reaction and can be used only once; the result is 14 radiant damage.",
+        "Several eyes on the very edge of the door pop.",
+        "Ord reaches into a gap between the eyes and begins to pass through while Sylan and Gerk watch."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Uses a reaction that can be applied only once, dealing 14 radiant damage.",
+                "Steps forward, finds a gap between the eyes on the door, and begins to pass through."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "Eyes cover the door; several on the very edge pop when struck by Ord's radiant damage.",
+                "Ord's hand finds a gap between the eyes, and he begins to pass through."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Radian damage",
+            "likely": "Radiant damage",
+            "notes": "Damage type named as the eyes on the door pop."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": []
+}

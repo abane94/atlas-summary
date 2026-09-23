@@ -1,4 +1,4 @@
-import { chromeConnectHint, withChatGptPage } from "../lib/browser.js";
+import { withAi } from "../lib/ai.js";
 import {
   DATE_RE,
   PIPELINE_STEPS,
@@ -29,7 +29,7 @@ import {
 const HELP = `
 dnd-transcribe-summary
 
-Local pipeline (ChatGPT via Chrome):
+Local pipeline (AI via Cursor by default, or ChatGPT via Chrome):
   transcripts/YYYY-MM-DD/{recap.md,transcript.md}
     → chunks    summaries/YYYY-MM-DD/summary-N.json
     → merge     summaries/YYYY-MM-DD/merged.json
@@ -56,12 +56,11 @@ Options:
   --from <step>      Start at chunks, merge, or vault (then continue)
   --only <step,...>  Run only these steps
   --with-vault       Include vault after merge (off by default)
-  --dry-run          Print what would run, without calling ChatGPT
+  --dry-run          Print what would run, without calling the AI
   --interactive      For dedup: review each group and merge approved ones
   --help, -h         Show this help
 
 Examples:
-  npm run chrome:debug
   npm start -- 2026-08-17 --dry-run
   npm start -- 2026-08-17 --only merge
   npm start -- 2026-08-17 --with-vault
@@ -74,15 +73,10 @@ Examples:
   npm start -- dedup --interactive --dry-run
   npm start -- tags
   npm start -- tags --dry-run
+  # ChatGPT provider only:
+  npm run chrome:debug
+  AI_PROVIDER=chatgpt npm start -- 2026-08-17
 `.trim();
-
-function rethrowChromeHint(error: unknown): never {
-  const message = error instanceof Error ? error.message : String(error);
-  if (/ECONNREFUSED|ERR_CONNECTION_REFUSED|fetch failed|webSocket URL/i.test(message)) {
-    throw new Error(chromeConnectHint());
-  }
-  throw error;
-}
 
 interface ParsedArgs {
   help: boolean;
@@ -307,17 +301,13 @@ async function runSelectedSteps(
   console.log(`${dryRun ? "Would run" : "Running"}: ${described.join(" → ")}`);
   if (dryRun) return;
 
-  try {
-    await withChatGptPage(async (page) => {
-      for (const step of needed) {
-        if (step === "chunks") await generateChunks(page, date, { force });
-        else if (step === "merge") await generateMerged(page, date, { force });
-        else await generateVaultData(page, "summaries", "vault-data", { date, force });
-      }
-    });
-  } catch (error) {
-    rethrowChromeHint(error);
-  }
+  await withAi(async (ai) => {
+    for (const step of needed) {
+      if (step === "chunks") await generateChunks(ai, date, { force });
+      else if (step === "merge") await generateMerged(ai, date, { force });
+      else await generateVaultData(ai, "summaries", "vault-data", { date, force });
+    }
+  });
 }
 
 async function main(): Promise<void> {
@@ -349,25 +339,17 @@ async function main(): Promise<void> {
       throw new Error("dedup does not take a session date");
     }
     if (args.interactive) {
-      try {
-        await runInteractiveDedup({ dryRun: args.dryRun });
-      } catch (error) {
-        rethrowChromeHint(error);
-      }
+      await runInteractiveDedup({ dryRun: args.dryRun });
       return;
     }
     if (args.dryRun) {
       console.log(await previewEntityTable());
       return;
     }
-    try {
-      await withChatGptPage(async (page) => {
-        const result = await findDuplicateEntities(page);
-        console.log(formatDedupReport(result));
-      });
-    } catch (error) {
-      rethrowChromeHint(error);
-    }
+    await withAi(async (ai) => {
+      const result = await findDuplicateEntities(ai);
+      console.log(formatDedupReport(result));
+    });
     return;
   }
 
@@ -379,14 +361,10 @@ async function main(): Promise<void> {
       console.log(await previewTagsEntityTable());
       return;
     }
-    try {
-      await withChatGptPage(async (page) => {
-        const result = await backfillEntityTags(page);
-        console.log(formatTagsBackfillReport(result));
-      });
-    } catch (error) {
-      rethrowChromeHint(error);
-    }
+    await withAi(async (ai) => {
+      const result = await backfillEntityTags(ai);
+      console.log(formatTagsBackfillReport(result));
+    });
     return;
   }
 
@@ -411,13 +389,9 @@ async function main(): Promise<void> {
     }
     console.log(`Vault work needed for: ${needed.join(", ")}`);
     if (args.dryRun) return;
-    try {
-      await withChatGptPage(async (page) => {
-        await generateVaultData(page, "summaries", "vault-data", {});
-      });
-    } catch (error) {
-      rethrowChromeHint(error);
-    }
+    await withAi(async (ai) => {
+      await generateVaultData(ai, "summaries", "vault-data", {});
+    });
     return;
   }
 

@@ -65,12 +65,23 @@ export interface SessionChunkSummary {
     openQuestions: string[];
   }
   
+  /** One hearing from a single chunk. Grouping happens when the session is merged. */
   export interface MisTranscription {
-    /** What the transcript said. */
+    /** What the transcript said. One spelling, not a slash-joined list. */
     heard: string;
     /** Best guess for the intended term; empty string if unknown. */
     likely: string;
     /** Why / context. Empty string if none. */
+    notes: string;
+  }
+
+  /** Same intended term across chunks, with every distinct hearing collected. */
+  export interface DedupedMisTranscription {
+    /** Best guess for the intended term. Empty string if still unknown. */
+    likely: string;
+    /** Distinct transcript spellings of this one term. */
+    heard: string[];
+    /** Combined context for the term and its hearings. */
     notes: string;
   }
   
@@ -82,6 +93,7 @@ export interface SessionChunkSummary {
 
 
 
-    export type MergedSessionData = SessionChunkSummary & {
+    export type MergedSessionData = Omit<SessionChunkSummary, "misTranscriptions"> & {
         dedupedEntities: Record<string, EntityUpdate>;
+        misTranscriptions: DedupedMisTranscription[];
     }

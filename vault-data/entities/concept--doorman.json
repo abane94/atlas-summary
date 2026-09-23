@@ -43,6 +43,14 @@
         "The doorway remains open after Gerk passes through it rather than automatically closing.",
         "The consequences of closing a doorway under these conditions remain unknown."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Dana treats a lingering spectral door as a product of Gerk’s Doorman role and does not expect ordinary Dispel Magic to dismiss keystone-level Doorman magic; that door lasted about a day and ended on its own. Gerk can open a door without choosing a destination. An opening in Carlkin’s lighthouse, from a d100 roll of 68, led to the abyss. Fifth-level Dispel Magic did not close or dismiss it, and Sylan could not end it. Sylan treats these doorways as Gerk’s to close.",
+      "notes": [
+        "Dana treats the lingering spectral door as a product of this role and does not expect ordinary Dispel Magic to dismiss keystone-level Doorman magic. That door lasted about a day and ended on its own.",
+        "Gerk can open a door without choosing a destination. The opening in Carlkin's lighthouse, a d100 roll of 68, led to the abyss. Fifth-level Dispel Magic did not close or dismiss it, and Sylan could not end it. Sylan treats these doorways as Gerk's to close."
+      ]
     }
   ],
   "openQuestions": [
@@ -55,7 +63,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:25:47.265Z",
-  "updatedAt": "2026-08-21T19:23:48.047Z",
+  "updatedAt": "2026-09-22T19:54:25.736Z",
   "normalizedAliases": [
     "doorman",
     "door ability",

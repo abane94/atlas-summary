@@ -1,0 +1,281 @@
+{
+    "plotSections": [
+        {
+            "title": "The training island",
+            "bullets": [
+                "Walker, with Araden and Plymouth Gawater, travels from Sunder to a small floating island between the Lost Isles, Camp Two, and the Howling Tunnels. The trip is seven days for Walker and one day for the others.",
+                "The island looks ordinary among the local floating islands: a broad flat of thick grass, and on the western side a plateau of cliffs. A crumbling stronghold foundation overlooks the field. Caves cut into the cliffs are dead-end roosts, from about a small horse stable up to the size of Araden's roost entrance, meant to shelter dragons and trainees.",
+                "Elrus mind-whispers to Walker over the howling wind, indicates the back of the cliffs, and identifies the ruin as the guild hall. He suspects Grixto's cavern is reached from the backside or underneath.",
+                "On a Perception check of 21, Walker confirms those caves sit on the underside, away from the training field. He also remembers the vision from Dana's dealings with Emhet: the people there walked out of a humble home while looking for guests, rather than emerging from a cave.",
+                "In the transition between the rocky underside and the field, Walker finds a thin crevice a medium dragon, maybe a large one, could squirm through, close enough to the field for a short bound up onto the grass. A easily missed footpath ledge runs from the training field down into that crack."
+            ]
+        },
+        {
+            "title": "Splitting at the crevice",
+            "bullets": [
+                "Walker decides the crack is the place to start. Araden cannot enter. Glimmen would be a squeeze, and it is unknown whether he fits. Walker intends to try.",
+                "Plymouth is not in the mental conversation with Elrus and the others. He is studying the island's runes, thinks they look expansive, and wonders whether any artifacts remain after a long abandonment. Walker tells him not to wander far in case they need to leave quickly.",
+                "They split up. Plymouth will search the stronghold, then regroup at the crack, and says to holler if needed. Araden stays outside and can raise a ruckus if something goes wrong. Elrus stays as a mental relay: flag signals are useless without line of sight, so Walker should call with his mind. Elrus says he can intervene more effectively than Araden, who would take a long time to dig the crevice open."
+            ]
+        },
+        {
+            "title": "Carlkin's lighthouse",
+            "bullets": [
+                "Ord, Sylan, Gerk, and Dana arrive in New Navel at a semi-familiar lighthouse they have entered once or twice, where Carlkin is.",
+                "The door is aged, weathered wood. Posted signs, in a mix of styles and languages, include one to the effect of no loitering and one the party reads as appointments only. Gerk says he can read and reads a sign as \"Knock loud. Be let in.\"",
+                "Gerk beats on the door (he treats a roll of 12 as a 32 strength check). The boards crack, the hinges squeak, the door shifts like a struck sandbag, and dust shakes loose. After the third blow, Carlkin shouts from inside to stop breaking his door. He brushes them off: he does not know any \"girls\" (likely Gerk), and they have no appointment. Sylan remarks that he had forgotten Carlkin's voice."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker meets Araden and Plymouth Gawater and leaves Sunder for the training island between the Lost Isles, Camp Two, and the Howling Tunnels, a trip of seven of Walker's days to one day for the others.",
+        "The island is a grassy flat with a western cliff plateau, a crumbled stronghold, and roost-caves of many sizes that do not connect through the mountain.",
+        "Elrus tells Walker by mind-whisper that the ruin was the guild hall and that Grixto's cavern is likely entered from the back or underneath.",
+        "Walker rolls a 21 Perception, places those caves off the training field, recalls the Emhet vision of people leaving a humble home to seek guests, and finds a hidden footpath into a narrow crevice a dragon could squeeze through.",
+        "Walker chooses to enter the crack. Araden waits outside. Glimmen may not fit. Plymouth, warned not to go far, goes to search the stronghold and its runes for leftover artifacts, then plans to regroup.",
+        "Elrus stays outside as a mental relay because there is no line of sight for flags, and notes Araden would be slow to dig the crevice out.",
+        "Ord, Sylan, Gerk, and Dana reach Carlkin's lighthouse in New Navel. Signs say no loitering and appointments only. Gerk reads one as \"Knock loud. Be let in.\" and hammers the door until Carlkin yells at them to stop and refuses them for lack of an appointment."
+    ],
+    "entities": {
+        "Training Grounds": {
+            "existing": "Dragon rider guild training grounds near the Lost Isles, in a mountainous region between three islands.",
+            "entityType": "Location",
+            "notes": [
+                "The island sits between the Lost Isles, Camp Two, and the Howling Tunnels.",
+                "Most of it is a flat expanse of thick grass. The western side is a plateau of cliffs with the crumbled foundation of a stronghold overlooking the field.",
+                "Caves in the cliffs are temporary roosts, not through-tunnels, sized from a small horse stable up to Araden's roost entrance, to shelter dragons and trainees from the weather.",
+                "Elrus identifies the ruin as the old guild hall, crumbled from time and disuse.",
+                "A thin crevice in the transition between the rocky underside and the field could fit a medium dragon and maybe a large one, with a short hop from the crack up onto the field. A concealed footpath ledge runs from the training field down into it.",
+                "The roost caves Elrus points to are on the backside or underside, away from the training field. He suspects Grixto's cavern is entered from there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is inside the crevice?",
+                "Can Glimmen fit through the crevice?"
+            ]
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally.",
+            "entityType": "NPC",
+            "notes": [
+                "Speaks to Walker by mind-whisper, with the wind howling as he does.",
+                "Identifies the crumbled structure as the guild hall and suspects Grixto's cavern opens from the backside or underneath.",
+                "Stays outside the crevice as a relay instead of going in with Walker.",
+                "Had meant to practice flag signals with Walker, but there is no line of sight, so he tells Walker to call mentally.",
+                "Says he can intervene more effectively than Araden, who would take a long time to dig the crevice open."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"That was the guild hall. It is crumbled with time and lack of use... I suspect Grixto's cavern is accessed from the backside or underneath.\"",
+                "\"Just holler with your mind and we will do our best to intervene.\""
+            ],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the new keystone keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Travels with Walker and Araden from Sunder to the training island.",
+                "Is not part of the mental conversation with Elrus and the others until Walker talks to him aloud.",
+                "Studies the island with curiosity, especially expansive runes on the stronghold, and wonders if any artifacts remain after a long time abandoned.",
+                "Agrees to search the stronghold, then regroup with Walker at the crack, and not to wander too far.",
+                "Notes the crack looks too small to assume Glimmen can enter, and suggests Araden raise a ruckus from outside if needed."
+            ],
+            "titles": [],
+            "personality": [
+                "Curious about old runes and leftover artifacts, and willing to divide the search."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Comes with Walker to the training island and stays outside the crevice because she cannot fit.",
+                "The largest roost-caves are about the size of her roost entrance.",
+                "Can be used as a loud signal if Walker needs help. Digging the crevice open would take her a long time, so Elrus is the faster backup."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Entering the crevice would be a squeeze. Walker still plans to try. Whether Glimmen fits is unsettled."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can Glimmen fit through the crevice?"
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Leads Araden and Plymouth from Sunder to the training island.",
+                "Rolls a 21 Perception, finds the concealed ledge and crevice, and chooses to investigate it.",
+                "Leaves Plymouth on the stronghold, Araden outside, and Elrus as a mental relay. Signals Elrus by tapping his head."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin, hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Elrus suspects Grixto's cavern on this island is entered from the backside or underneath the cliff, not from the open roosts facing the training field.",
+                "Walker's memory of the Emhet vision cuts against a simple cave exit: those figures walked out of a humble home while looking for guests."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Emhet": {
+            "existing": "A deity at the gods' council who knows the party's role safeguarding the keys.",
+            "entityType": "NPC",
+            "notes": [
+                "A vision triggered by Dana's interactions with Emhet showed the relevant figures leaving a humble abode to look for guests, rather than coming out of a cave. Walker uses that memory while looking at the training-island caves and crevice."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Ord, Sylan, Gerk, and Dana enter New Navel and approach Carlkin's lighthouse, a place they have been inside once or twice."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person previously believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Is at a lighthouse in New Navel that the party has visited once or twice.",
+                "The door is aged weathered wood. Signs posted on it include no loitering and appointments only, with other notices in different languages. Gerk reads one as \"Knock loud. Be let in.\"",
+                "After Gerk's third heavy knock cracks the boards and shifts the door, Carlkin shouts from inside to stop breaking the door, says he does not know any \"girls,\" and refuses them because they have no appointment.",
+                "Sylan had forgotten what Carlkin's voice sounds like."
+            ],
+            "titles": [],
+            "personality": [
+                "Immediately hostile to unannounced visitors pounding on his door."
+            ],
+            "quotesThemes": [
+                "\"What are you doing? Stop trying to break down my door.\"",
+                "\"I do not know any girls.\"",
+                "\"No appointment.\""
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Arrives at Carlkin's lighthouse with Ord, Sylan, and Dana.",
+                "Says he can read, and reads the posted notice as \"Knock loud. Be let in.\"",
+                "Knocks hard enough to crack the boards, squeak the hinges, and shift the door. He rolled a 12 and called the check a 32."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"Knock loud. Be let in.\""
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "At Carlkin's lighthouse he jokes that they will have to come back because the sign says appointments only, then asks whether Gerk can read and tells him to go ahead and knock.",
+                "Recognizes the voice from inside as familiar, and says he had forgotten it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Thunder",
+            "likely": "Sunder",
+            "notes": "Walker said he was in Thunder; the DM corrected the scene to Sunder."
+        },
+        {
+            "heard": "Plymouth Gowater",
+            "likely": "Plymouth Gawater",
+            "notes": "DM's pronunciation of Plymouth while sending him with Walker."
+        },
+        {
+            "heard": "New Navel",
+            "likely": "",
+            "notes": "Place Ord, Sylan, Gerk, and Dana enter before the lighthouse."
+        },
+        {
+            "heard": "Toe",
+            "likely": "",
+            "notes": "\"Dana and Toe enter into New Navel.\" May be an extra name or a garble of the arrival line."
+        },
+        {
+            "heard": "Camp Two",
+            "likely": "",
+            "notes": "Named with the Lost Isles and the Howling Tunnels as a bound of the training island."
+        },
+        {
+            "heard": "Howling Tunnels",
+            "likely": "",
+            "notes": "Named with the Lost Isles and Camp Two as a bound of the training island."
+        },
+        {
+            "heard": "girls",
+            "likely": "Gerk",
+            "notes": "Carlkin's \"I do not know any girls,\" immediately after addressing Gerk and before refusing the visit for lack of an appointment."
+        },
+        {
+            "heard": "evil, no loitering",
+            "likely": "",
+            "notes": "DM's reading of a sign on Carlkin's door, described as the equivalent of that phrase. Wording is uncertain."
+        }
+    ],
+    "openQuestions": [
+        "What is inside the crevice on the training island?",
+        "Can Glimmen fit through the crevice?"
+    ],
+    "newTerms": [
+        {
+            "name": "Camp Two",
+            "notes": [
+                "A landmark bounding the training island, named alongside the Lost Isles and the Howling Tunnels."
+            ]
+        },
+        {
+            "name": "Howling Tunnels",
+            "notes": [
+                "A landmark bounding the training island, named alongside the Lost Isles and Camp Two."
+            ]
+        },
+        {
+            "name": "New Navel",
+            "notes": [
+                "Where Ord, Sylan, Gerk, and Dana go to Carlkin's lighthouse."
+            ]
+        }
+    ]
+}

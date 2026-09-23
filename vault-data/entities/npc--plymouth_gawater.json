@@ -1,7 +1,9 @@
 {
   "name": "Plymouth Gawater",
   "slug": "Gnome artificer and party ally who explains the Great Eldarin Tree, keystones, and Mother's Prayer, and guides the new keepers.",
-  "tags": [],
+  "tags": [
+    "companion"
+  ],
   "aliases": [],
   "filename": "entities/npc/plymouth_gawater.md",
   "description": "Plymouth Gawater is a gnome artificer and ally of the party with extensive knowledge of the Great Eldarin Tree, the Navi, the keystones, and the Mother's Prayer. He understands the significance of the prophecy and is able to identify individuals connected to the Great Tree, including Gerk. He serves as a knowledgeable guide concerning the history and purpose of the keystones and the role of the Doorman, helping the party understand their responsibilities as the new keepers. He has experience communicating with other children of the Great Tree and appears capable of recognizing unusual magical phenomena, including the mysterious white-flower girl.",
@@ -64,6 +66,15 @@
         "Signals Walker to stop explaining his gold hand in front of Quaylin.",
         "Secured several pounds of dragon gizzard from Quaylin."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Walker's group waits for Plymouth to finish an errand, then he travels with Walker and Araden from Sunder to the training island. He is outside the mental conversation with Elrus and Araden until Walker speaks to him aloud. He studies the island, especially the expansive runes on the stronghold, and wonders whether any artifacts remain after so long. He splits off to search the stronghold, regroups at the crack, and agrees not to wander too far, telling the others to holler if he is needed. He notes the crack looks too small to assume Glimmen can enter and suggests Araden raise a ruckus from outside if needed. Elrus later goes to bring him down into the crevice.",
+      "notes": [
+        "Walker's group waits for him to finish an errand, then he travels with Walker and Araden from Sunder to the training island. He is not part of the mental conversation with Elrus and Araden until Walker speaks to him aloud.",
+        "He studies the island, especially the expansive runes on the stronghold, and wonders whether any artifacts remain after so long.",
+        "He splits off to search the stronghold, then regroups at the crack, and agrees not to wander too far. He says to holler if he is needed. He notes the crack looks too small to assume Glimmen can enter and suggests Araden raise a ruckus from outside if needed. Elrus later goes to bring him down into the crevice."
+      ]
     }
   ],
   "openQuestions": [
@@ -72,7 +83,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:28:12.188Z",
-  "updatedAt": "2026-09-01T18:27:59.504Z",
+  "updatedAt": "2026-09-22T19:57:54.102Z",
   "normalizedAliases": [
     "plymouth gawater"
   ]

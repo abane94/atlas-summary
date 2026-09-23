@@ -16,7 +16,7 @@ concurrency:
 
 env:
   # Pin Quartz so builds stay reproducible. Bump intentionally when upgrading.
-  QUARTZ_COMMIT: 075afd3f712da0088a07f5284a7b3aba37dd61b6 #74b3fc9efd0caafea3dbcd846ddf1f06855b6d2a
+  QUARTZ_COMMIT: 97a2d05f80c4c50534959b1d0d41cc4b3895625e  # 075afd3f712da0088a07f5284a7b3aba37dd61b6
 
 jobs:
   build:

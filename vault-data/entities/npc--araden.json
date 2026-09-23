@@ -32,10 +32,19 @@
         "Flies with Elrus to the mountains while Walker and Plymouth shop in Sunder.",
         "Hanzuni's scales are less tarnished than Araden's, apparently from greater activity and contact with treasure."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "With Elrus, Araden brought about Grixto's demise. She accompanies Walker to the training island, but she cannot fit into the crevice and stays outside. She can raise a giant ruckus if Walker needs help. Digging the crevice open would take her a long time, so Elrus is the faster backup. The largest cliff roosts are about the size of the entrance to her roost.",
+      "notes": [
+        "With Elrus, she brought about Grixto's demise. She accompanies Walker to the training island.",
+        "She cannot fit into the crevice and stays outside. She can raise a giant ruckus if Walker needs help. Digging the crevice open would take her a long time, so Elrus is the faster backup.",
+        "The largest cliff roosts are about the size of the entrance to her roost."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:15:19.932Z",
-  "updatedAt": "2026-09-01T18:29:53.795Z"
+  "updatedAt": "2026-09-22T19:57:12.775Z"
 }

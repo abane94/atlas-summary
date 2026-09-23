@@ -1,0 +1,168 @@
+{
+    "plotSections": [
+        {
+            "title": "Wall of Eyes",
+            "bullets": [
+                "A wall of eyes fills the party's view at a door. Dana has moved as far away as possible and is not fully exposed; Carlkin is running away.",
+                "The three people still adjacent to the wall must make Wisdom saving throws. The effect is a magical mental ability, not sleep or charm.",
+                "Sylan saves with a 25 after using Indomitable. Gerk saves with a 23. Ord fails with a 17 and is overcome by the effect."
+            ]
+        },
+        {
+            "title": "Vigilant Rebuke",
+            "bullets": [
+                "Ord, an Oath of the Watchers paladin (previously Oath of Vengeance), uses Vigilant Rebuke when allies succeed on the Wisdom save. It is a reaction, so it triggers only once.",
+                "The rebuke deals 14 damage. Several eyes on the very edge of the door pop."
+            ]
+        },
+        {
+            "title": "Ord Passes Through",
+            "bullets": [
+                "Sylan and Gerk watch Ord step forward, find a gap between the eyes with his hand, and begin to pass into the wall.",
+                "Ord's mind is elsewhere. The scene with him is taken off the recorded channel, so what he experiences is not in this chunk."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "A wall of eyes presents itself. Dana is far enough away not to be fully exposed, and Carlkin runs.",
+        "Wisdom saves are called for the three people still adjacent. The effect is a magical mental ability, not charm or sleep.",
+        "Sylan uses Indomitable and saves with a 25. Gerk saves with a 23. Ord rolls a 17 and fails.",
+        "Ord uses Vigilant Rebuke once in reaction to the successful saves, dealing 14 damage. Eyes on the edge of the door pop.",
+        "Ord reaches into a gap between the eyes and starts to pass through. His mind is elsewhere, and that scene leaves the recorded channel."
+    ],
+    "entities": {
+        "Wall of Eyes": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A wall of eyes occupies a door in front of the party and forces a Wisdom save on anyone standing adjacent to it.",
+                "The effect is a magical mental ability. It is not sleep and not charm.",
+                "Failing draws the victim in: Ord found a gap between the eyes and began to pass through.",
+                "Eyes on the very edge of the door popped when struck by Ord's Vigilant Rebuke."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Confirmed in play as an Oath of the Watchers paladin. He previously had an Oath of Vengeance.",
+                "Failed the wall of eyes Wisdom save with a 17, including a +5 bonus.",
+                "Used Vigilant Rebuke once as a reaction to an ally's successful Wisdom save, dealing 14 damage and popping eyes on the edge of the door. The feature could not be used a second time because it costs a reaction.",
+                "Stepped into a gap between the eyes and began to pass through. His mind was elsewhere; the follow-up was taken off the recorded channel."
+            ],
+            "titles": [
+                "Oath of the Watchers"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Stood adjacent to the wall of eyes, used Indomitable, and succeeded on the Wisdom save with a 25.",
+                "Watched Ord reach into the eyes and start to pass through."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and keeper of the Midgard keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Stood adjacent to the wall of eyes and succeeded on the Wisdom save with a 23.",
+                "Watched Ord reach into the eyes and start to pass through."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of Pitel.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Moved as far from the wall of eyes as possible and was not among those forced to save."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person previously believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Is present at the wall of eyes and runs away. He is not among those forced to make the Wisdom save."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Garpin",
+            "likely": "",
+            "notes": "Sylan says \"I save Garpin\" as the Wisdom saves begin. No matching name; may be a garbled \"I saved\" rather than a person."
+        },
+        {
+            "heard": "charm of fan",
+            "likely": "charm effect",
+            "notes": "DM denying that the wall of eyes is charm or sleep."
+        },
+        {
+            "heard": "shist",
+            "likely": "shift",
+            "notes": "DM: \"see if you can shist your way out of this\" on the Wisdom save."
+        },
+        {
+            "heard": "organs bonus",
+            "likely": "",
+            "notes": "Gerk's 18 plus this bonus became 23 after the DM confirmed the bonus was 5."
+        },
+        {
+            "heard": "word photos",
+            "likely": "wisdom bonus",
+            "notes": "Gerk asking for the size of the bonus; DM answers five."
+        },
+        {
+            "heard": "vigilantly rebuke",
+            "likely": "Vigilant Rebuke",
+            "notes": "Oath of the Watchers reaction Ord uses after a successful Wisdom save."
+        },
+        {
+            "heard": "mental two DA",
+            "likely": "2d8",
+            "notes": "DM describing Vigilant Rebuke's damage dice before the roll of 9+5."
+        },
+        {
+            "heard": "Radian",
+            "likely": "radiant",
+            "notes": "DM asking the damage type as the eyes pop. Earlier in the same ruling he called it mental damage."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Wall of Eyes",
+            "notes": [
+                "A door-filling mass of eyes with a magical mental effect. Adjacent creatures make a Wisdom save; failure draws the victim into a gap between the eyes. Eyes on the door's edge can be destroyed."
+            ]
+        },
+        {
+            "name": "Vigilant Rebuke",
+            "notes": [
+                "Oath of the Watchers reaction. When a creature Ord can see succeeds on an Intelligence, Wisdom, or Charisma save, he can deal damage back to the source. Used once here for 14 damage."
+            ]
+        }
+    ]
+}

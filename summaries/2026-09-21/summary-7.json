@@ -1,0 +1,172 @@
+{
+    "plotSections": [
+        {
+            "title": "An undirected door",
+            "bullets": [
+                "Gerk opens a Door with no destination in mind. A 68 is rolled, and the table is described as all ocean. The opening is left hanging while the scene shifts."
+            ]
+        },
+        {
+            "title": "The unused roost",
+            "bullets": [
+                "Walker descends a worn cliffside path about two feet wide, sheer drop on the left and a retaining wall on the right, into a crevice. Glimmen has to crawl and squeeze through; getting out is easier, and a younger dragon could tuck its wings, hop out, and fly, which is probably how Galixtar used it.",
+                "The tunnel is about thirty feet long, dry and musty, with wind and a draft outside. About twenty feet in, it opens into a larger space, and the smell of death and decay wafts from that end. Glimmen, over the mind link, says she thought the place was unused and that the death smells fresh. Walker agrees.",
+                "Walker contacts Elrus. Elrus says there has not been a trainee in centuries, that only one person used this place, that he did not know it was there until the vision Walker's friend presented, and that nothing dead should be down there. Walker asks him to get Plymouth and meet him down there, then draws his bow and stalks on. Glimmen readies her fiery breath.",
+                "Walker's passive perception is 18. He hears light tapping of two different stones, one a softer thud than a clack, and a very faint hum from the cavern ahead. He and Glimmen both sneak at disadvantage: Walker gets a 10, Glimmen a 19 that the DM counts as 18. Glimmen squeezes along above him without much noise; Walker's footsteps echo louder than he wants. At the doorway the tapping stops, and the humming stops a couple of seconds later."
+            ]
+        },
+        {
+            "title": "Vecna in the vision room",
+            "bullets": [
+                "Walker stops in the doorway of a single cavern. Peeking in, he recognizes the room from the vision with Emhet: a smaller area and a larger roosting area. The smaller side has changed slightly. A square slab table holds crumbling maps that are nearly dust, and small figurines used as markers for military planning. One figurine hovers above the table in a hand.",
+                "The hand is an alchemical or mechanical replacement, like Walker's own, for an arm and hand lost in a battle tied to an item the party dove for first. Seated there, sullen and white, with a vague amused smile, is Vecna. He dragged one of three stone chairs over through the dust; one chair is turned over and another is against the back wall.",
+                "Vecna says it took Walker much longer than he thought, and asks if Walker has come to help retrieve his book. Walker says no, then steps out of the doorway and into the room. The scene cuts there."
+            ]
+        },
+        {
+            "title": "The door opens",
+            "bullets": [
+                "Sylan says his door opens into Walker's room, and the DM agrees. On the cut back, Gerk grasps the latch of an unseen door and pulls. A thunderous sucking noise erupts, and Gerk, still holding the door, takes the full force of an inky black tentacle."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk opens an undirected Door and a 68 is rolled on a table described as all ocean. The result is not narrated yet.",
+        "Walker spelunks the cliffside crevice. Glimmen squeezes in after him. The tunnel smells of fresh death.",
+        "Glimmen tells Walker she thought the roost was unused. Walker contacts Elrus, who confirms centuries without a trainee, a single former user, and that nothing there should be dead. Elrus agrees to bring Plymouth.",
+        "Walker draws his bow and advances. Glimmen prepares her fiery breath. He hears two-toned stone tapping and a faint hum.",
+        "Walker rolls a 10 on stealth at disadvantage. Glimmen, crawling at disadvantage, rolls a 19. The tapping and then the humming stop as Walker reaches the doorway.",
+        "Walker peeks into the cavern from Emhet's vision and finds Vecna at the map table, holding a hovering planning figurine in a replacement hand.",
+        "Vecna says Walker took longer than expected and asks if he came to help retrieve Vecna's book. Walker refuses and walks into the room.",
+        "Sylan's door is aimed into that room. Gerk pulls the unseen door open; a huge sucking noise and an inky black tentacle hit him."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, party ambassador and Doorman.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He opens a Door with no destination in mind. A 68 is rolled on a table described as all ocean.",
+                "When the door is pulled open, he is holding it and takes the full force of an inky black tentacle that comes with a thunderous sucking noise."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He declares that his door opens into the room where Walker is facing Vecna, and the DM confirms that destination."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, mind-linked to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He enters the crevice roost with bow drawn, passive perception 18, and a disadvantaged stealth roll of 10.",
+                "He has Elrus bring Plymouth down and keeps going after the fresh smell of death.",
+                "His own arm and hand are a replacement, compared directly to Vecna's alchemical or mechanical replacement, from a battle tied to an item the party dove for first.",
+                "He recognizes the cavern as the room from Emhet's vision, refuses to help Vecna retrieve his book, and walks into the room."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Tells Vecna he has not come to help retrieve the book."
+            ],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "She cannot fly in or out of the crevice. She crawls to the edge, grabs the lip, and squeezes in; backtracking means squeezing under her. A younger dragon could tuck, hop out, and fly.",
+                "She smells fresh death, says she thought the place was unused, and readies her fiery breath.",
+                "Crawling through the cave, she sneaks at disadvantage, rolls a 19 counted as 18, and works along above Walker in a spiral without making too much noise."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Asks Walker if he smells it, and says she thought this was unused and that it smells fresh."
+            ],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker reaches him with a ring-ring contact from inside the roost.",
+                "He says there has not been a trainee in centuries, that only one person used this place, that he did not know it was there until the vision Walker's friend presented, and that nothing dead should be down there.",
+                "He agrees to get Plymouth and come down shortly."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Asks Walker if he is in trouble."
+            ],
+            "openQuestions": []
+        },
+        "Galixtar": {
+            "existing": "A dragon associated with Grixto and being hunted by the party.",
+            "entityType": "NPC",
+            "notes": [
+                "The DM says Galixtar is probably the one who hopped in and out of this crevice the way a younger dragon could, tucking its wings and flying clear.",
+                "Elrus says only one person used the place and that there has been no trainee there in centuries."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Emhet": {
+            "existing": "A deity at the gods' council.",
+            "entityType": "NPC",
+            "notes": [
+                "The cavern Walker enters is the room from the vision with Emhet. The smaller side of that room has changed slightly since the vision. Elrus says he only learned the place existed from that vision."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery.",
+            "entityType": "NPC",
+            "notes": [
+                "He is waiting in the roost cavern from Emhet's vision, at a square slab table of crumbling maps and military-planning figurines. One figurine hovers in his hand.",
+                "His face is sullen and white, with amusement under a vague smile. He sits in a stone chair he dragged through the dust. Of the three chairs, one is turned over and one is against the back wall.",
+                "His hand and arm are an alchemical or mechanical replacement for a limb lost in a battle connected to an item the party dove for first. The DM compares that replacement to Walker's own.",
+                "He expected Walker sooner and asks Walker to help retrieve his book. Walker refuses. The tapping of the table pieces stops as Walker reaches the door, and the faint humming stops seconds later."
+            ],
+            "titles": [],
+            "personality": [
+                "Sullen, mocking, and faintly amused while he waits."
+            ],
+            "quotesThemes": [
+                "Took you much longer than I thought it would.",
+                "Have you come to help me retrieve my book?"
+            ],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Glimmend",
+            "likely": "Glimmen",
+            "notes": "The DM describes how she crawls into the crevice."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Vecna's book",
+            "notes": [
+                "Vecna asks Walker if he came to help retrieve it. Walker says no. What the book is, and where it is, is not said in this chunk."
+            ]
+        }
+    ]
+}

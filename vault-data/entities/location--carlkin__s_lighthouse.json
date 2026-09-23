@@ -1,0 +1,28 @@
+{
+  "name": "Carlkin's lighthouse",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "Carlkin's lighthouse in New Navel is his home and bookshop, where an abyss door opens onto a fight with tentacles and a wall of eyes.",
+  "aliases": [],
+  "normalizedAliases": [
+    "carlkins lighthouse"
+  ],
+  "filename": "entities/location/carlkin__s_lighthouse.md",
+  "description": "Carlkin's lighthouse in New Navel is his home and bookshop. The party has been inside once or twice. The ground floor is crowded with crates, barrels, maps, books, porridge bowls, and papers, with a pile directly behind the door and a spiral staircase on the far wall. The weathered door can swing shut almost on its own.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-09-21",
+      "summary": "The party is inside the lighthouse again. The weathered door can swing shut almost on its own. Gerk opens his abyss door in the crowded ground-floor room, and the fight with the tentacles and the wall of eyes happens there.",
+      "notes": [
+        "The party has been inside once or twice. The ground floor is crowded with crates, barrels, maps, books, porridge bowls, and papers, with a pile directly behind the door and a spiral staircase on the far wall.",
+        "The weathered door can swing shut almost on its own. Gerk opens his abyss door in this room, and the fight with the tentacles and the wall of eyes happens here."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-22T20:02:14.319Z",
+  "updatedAt": "2026-09-22T20:02:14.319Z"
+}

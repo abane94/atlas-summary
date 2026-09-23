@@ -1,0 +1,28 @@
+{
+  "name": "New Navel",
+  "tags": [
+    "settlement"
+  ],
+  "slug": "New Navel is a familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
+  "aliases": [],
+  "normalizedAliases": [
+    "new navel"
+  ],
+  "filename": "entities/location/new_navel.md",
+  "description": "New Navel is a place the party has visited before. Carlkin's lighthouse is there, and trade caravans run from New Navel to the party's tavern in Langdale.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-09-21",
+      "summary": "Ord, Sylan, Gerk, and Dana enter New Navel and go to Carlkin's lighthouse, which they have been inside once or twice. Trade caravans run from New Navel to the party's tavern in Langdale.",
+      "notes": [
+        "Ord, Sylan, Gerk, and Dana enter New Navel and go to Carlkin's lighthouse, a place they have been inside once or twice.",
+        "Trade caravans run from New Navel to the party's tavern in Langdale."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-22T20:01:14.777Z",
+  "updatedAt": "2026-09-22T20:01:14.777Z"
+}

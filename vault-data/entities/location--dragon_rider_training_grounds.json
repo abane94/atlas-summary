@@ -31,6 +31,17 @@
         "About five days of dragon flight from the Whispering Abyss under the travel time agreed in session.",
         "Remains Walker's destination after a planned stop in Sunder."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "The grounds are a small, otherwise ordinary floating island of thick grass between the Lost Isles, Camp Two, and the Howling Tunnels, with a western plateau and cliffs. Travel from Sunder takes seven days for the travelers and one day for those who remain behind. A crumbling foundation—the old guild stronghold, identified by Elrus as the guild hall—overlooks the field, marked with expansive runes; Plymouth wonders whether any artifacts remain. Cliff caves are open roosts used to shelter dragons and trainees, from small-stable size up to the entrance of Araden's roost. A thin crevice between the rocky underside and the field, reached by a concealed footpath, can admit a medium dragon and possibly a large one. Elrus believes this backside is the way into Grixto's cavern, the hideaway where young Grixto gathered and killed guild dragons for their Al Kurin. Walker, Elrus, Araden, Plymouth, and Glimmen investigate, with orders to retreat if Grixto is present. The crevice leads to the roost from Emhet's vision, slightly changed into a smaller planning area and a larger dragon roost, where Vecna is waiting.",
+      "notes": [
+        "A small, otherwise ordinary floating island between the Lost Isles, Camp Two, and the Howling Tunnels, in a mountainous region between three islands. Travel from Sunder takes seven days for the travelers and one day for people remaining behind.",
+        "Most of the island is a flat field of thick grass. The western side is a plateau and cliffs. A crumbling foundation, the old guild stronghold, overlooks the field. Elrus identifies the ruin as the guild hall, crumbled from time and disuse. Expansive runes mark the ruins. Plymouth wonders whether any artifacts remain.",
+        "Cliff caves are open roosts, not through-tunnels, from small-stable size up to the entrance of Araden's roost, used to shelter dragons and trainees.",
+        "A thin crevice between the rocky underside and the field, reached by a concealed footpath, can admit a medium dragon and possibly a large one, with a short bound from the crack onto the field. Elrus believes this backside or underside is the way into Grixto's cavern. It is the secret hideaway where young Grixto gathered and killed guild dragons for their Al Kurin.",
+        "Walker, Elrus, Araden, Plymouth, and Glimmen investigate it. If Grixto is present they are to retreat. The crevice leads to the roost from Emhet's vision, slightly changed into a smaller planning area plus a larger dragon roost, where Vecna is waiting."
+      ]
     }
   ],
   "openQuestions": [
@@ -38,5 +49,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:28:00.057Z",
-  "updatedAt": "2026-09-01T18:28:12.505Z"
+  "updatedAt": "2026-09-22T19:56:29.144Z"
 }

@@ -1,0 +1,243 @@
+{
+    "plotSections": [
+        {
+            "title": "Invisibility and silence lifted",
+            "bullets": [
+                "The party is no longer invisible or silent. Ord cast dispel magic, and the crew could yell out loud again, rocking the boat.",
+                "Before that, they had been using their small communication items to talk. Sylan says he and Aris, as the two magical characters, solved it with magic.",
+                "Sylan is unsure whether dispel magic was on the spectral door or on an effect on the party. Dana says that if it had been on the door itself, she would expect the door to no longer lead anywhere."
+            ]
+        },
+        {
+            "title": "Route home and phylactery leads",
+            "bullets": [
+                "The party is still hunting a phylactery and is flying back toward home, the stronghold, to meet Walker when he returns.",
+                "Carlkin and Benji may each have a lead once the party arrives. If those turn up nothing, Sylan expects the next stop is Nyx, which he does not want but thinks they will have to revisit.",
+                "The DM still has the giant constrictor snake in play, and notes olive oil as a summoned effect while checking the party's state."
+            ]
+        },
+        {
+            "title": "Walker at Haven Hold",
+            "bullets": [
+                "Walker is leaving the hoard room at Haven Hold after speaking with Hanzuni, the copper dragon and hoard master. He has not set a time to meet Elrus or Araden and is on his own training schedule.",
+                "His training regimen has left him with a level of exhaustion, so he has disadvantage on ability checks.",
+                "The party plans to regroup with him after about a week of their time, which the DM figures as roughly a month for Walker, working a sevenfold difference (seven times four, then seven times seven)."
+            ]
+        },
+        {
+            "title": "The spectral door",
+            "bullets": [
+                "A glowing spectral door is still following the ship. It is corporeal, shut, and has no door frame — just a door. The party has thought about opening it and has not.",
+                "Dana can see it and, calling Gerk the doorman, asks why he does not just close it. Gerk says the door is over there and they are here, and that the last time he sank he turned invisible.",
+                "Sylan wonders whether using it again would open to a new place, and suggests leaving it for about four hours, then consulting the magic characters if it is still there. Gerk may experiment but will not do it on the boat; he does not want to fall off again. They keep sailing, and he will tell the others if anything happens."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan recaps that Ord's dispel magic ended the invisibility and silence; the crew yelled and rocked the boat, after the party had used their communication items.",
+        "The DM confirms the spectral door is still following them and that they are still searching for a phylactery while flying home to meet Walker.",
+        "Sylan names Carlkin and Benji as possible leads, and Nyx as the fallback he wants to avoid.",
+        "The DM notes the olive oil effect and the giant constrictor snake, then places Walker leaving Hanzuni's hoard room at Haven Hold, exhausted from training, with no set meeting with Elrus or Araden.",
+        "The DM sets the regrouping as about a week for the party and roughly a month for Walker.",
+        "On the ship, Dana confirms she sees the glowing door. It is described as a shut corporeal door with no frame. The party agrees not to use it aboard, to give it about four hours, and to keep sailing toward the stronghold.",
+        "Sylan tells Dana the dispel may have been on the door or only on the party; Dana reasons that a dispel on the door itself should have stopped it leading anywhere."
+    ],
+    "entities": {
+        "Spectral Door": {
+            "existing": "A mysterious spectral door resembling Gerk's shield form.",
+            "entityType": "ITEM",
+            "notes": [
+                "It is still following the party as they sail toward the stronghold.",
+                "It is corporeal, shut, and has no door frame — only the door.",
+                "The party has considered opening it and has not. Gerk will not use it on the boat after previously sinking and turning invisible.",
+                "Sylan suggests treating it as something that may last a few hours: wait about four hours, and if it remains, ask the magical characters.",
+                "Reusing it might lead somewhere new; that is untested.",
+                "Dispel magic that ended the party's invisibility and silence may have been cast on the door, or only on an effect on the party. The door is still present afterward."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "If Gerk uses the door again, does it open to a new location?",
+                "Was dispel magic on the door itself, and if so does the door still lead anywhere?"
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Dana can see the glowing door following him. He says it is over there while the party is here, and that the last time he sank he turned invisible.",
+                "He will not touch the door on the boat, does not want to fall off again, and agrees to keep sailing and report if anything happens. He may try to make it leave during the next few hours."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She can see the giant glowing door following Gerk and tells him, as the doorman, to close it.",
+                "She reasons that if dispel magic had been on the door itself, the door should no longer lead anywhere."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Calls Gerk the doorman and asks why he does not just close the door."
+            ],
+            "openQuestions": [
+                "If dispel magic was on the door, does it still go anywhere?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He recaps the dispel of invisibility and silence for Dana, and says he and Aris handled it with magic.",
+                "He expects to meet Walker, check leads from Carlkin and Benji, and otherwise return to Nyx despite not wanting to.",
+                "He suggests Gerk leave the door alone for about four hours and consult the magic characters if it is still there, and that experimenting with his new powers is fine if he stays safe and off the boat."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Will using the spectral door again take them to a new location?"
+            ]
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He cast the dispel magic that removed the effect making the party invisible and silent."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He is leaving the hoard room at Haven Hold after talking with Hanzuni, and is deciding what to do next.",
+                "He did not set a meeting time with Elrus or Araden and is on his own training schedule.",
+                "The training regimen has given him a level of exhaustion and disadvantage on ability checks.",
+                "The party intends to regroup with him after about a week of their travel, which the DM treats as roughly a month for Walker under a sevenfold time difference."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Hanzuni": {
+            "existing": "Ancient copper dragon of Haven Hold who loans gold for quests.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker has just spoken with him in the hoard room and is leaving. The DM describes him as the hoard master of Haven Hold."
+            ],
+            "titles": [
+                "Hoard master of Haven Hold"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan thinks Carlkin might have a lead when the party gets back."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Benji": {
+            "existing": "Familiar with The Reach and may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan thinks Benji might have a lead when the party gets back."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nyx": {
+            "existing": "A location that may hold hobgoblins who know where the lich is hiding.",
+            "entityType": "Location",
+            "notes": [
+                "Sylan does not want to go, but if Carlkin, Benji, and other leads fail, he believes the party has to go back to Nyx."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "constrictor snake": {
+            "existing": "A summoned constrictor snake that follows Dana at her command.",
+            "entityType": "OTHER",
+            "otherEntityType": "Summoned creature",
+            "notes": [
+                "The DM confirms the giant constrictor snake is still summoned while checking the party's current state on the ship."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Aeris",
+            "likely": "Aris",
+            "notes": "Sylan says he and Aeris, the two magical characters, solved the invisibility. Aris plays Ord, who cast dispel magic."
+        },
+        {
+            "heard": "Hazuni",
+            "likely": "Hanzuni",
+            "notes": "Copper dragon and hoard master Walker just left in the hoard room."
+        },
+        {
+            "heard": "horde master",
+            "likely": "hoard master",
+            "notes": "DM's title for Hanzuni at Haven Hold, in the hoard room."
+        },
+        {
+            "heard": "order",
+            "likely": "Ord",
+            "notes": "DM reading notes: the one who dispelled magic."
+        },
+        {
+            "heard": "Invisible crab",
+            "likely": "Island crab",
+            "notes": "DM corrected himself while reading notes. No further description in this chunk."
+        },
+        {
+            "heard": "disabilities",
+            "likely": "disadvantage",
+            "notes": "DM then states Walker has disadvantage on ability checks from exhaustion."
+        },
+        {
+            "heard": "Glowy Door",
+            "likely": "Spectral Door",
+            "notes": "DM's name for the shut glowing door still following the ship."
+        }
+    ],
+    "openQuestions": [
+        "If Gerk uses the spectral door again, will it take the party to a new location?",
+        "Was the dispel magic on the door itself, and if so does the door still lead anywhere?"
+    ],
+    "newTerms": [
+        {
+            "name": "Island crab",
+            "notes": [
+                "The DM corrected a note from 'invisible crab' to 'island crab' while checking party state. It is not described further here."
+            ]
+        }
+    ]
+}

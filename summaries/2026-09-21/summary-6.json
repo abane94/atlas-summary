@@ -1,0 +1,261 @@
+{
+    "plotSections": [
+        {
+            "title": "Carlkin at the lighthouse",
+            "bullets": [
+                "Gerk bangs on Carlkin's door until Carlkin slides the bolt and the door slams open into a pile of crates, books, and supplies. Carlkin, an elderly turtle, is startled, confused, and irritated, and scolds them for ignoring signs he wrote in sixteen languages.",
+                "Sylan says they have come with Gerk as ambassador to discuss matters of great importance and asks to come in. Carlkin says he is busy studying and has no appointment, and he fails to push Gerk back.",
+                "The ground floor is cluttered with barrels, tables of maps and tomes, papers of many ages, and a spiral stair. Among them is a first edition of the Sea of Nyxs that the party was part of, plus later additions and very old tomes. Porridge bowls are out, and something in a corner pile of books is snoring.",
+                "Sylan checks with Dana and Ord before sharing anything. Both say Carlkin was one of the original holders, has been a useful resource, and that they have no reason to hide their relics from him. The party enters and the door swings shut almost on its own."
+            ]
+        },
+        {
+            "title": "An undirected door",
+            "bullets": [
+                "Before the conversation with Carlkin gets past why they came, Gerk opens a Door in the living room with no destination in mind, slowly, in case water rushes out.",
+                "He rolls a 68 on a d100. The destination is not described in this chunk."
+            ]
+        },
+        {
+            "title": "The crevice",
+            "bullets": [
+                "Walker descends a worn cliffside path about two feet wide, with a sheer drop on the left and a retaining wall on the right, into a crevice. Glimmen has to crawl and squeeze in; a younger dragon could tuck its wings, hop out, and fly, which is probably how Galixtar used the place.",
+                "The tunnel is about thirty feet long, dry and musty, with wind outside. About twenty feet in, a larger space opens, and the smell of fresh death and decay comes from that end. Glimmen, over the mind link, says she thought the place was unused and that the death smells fresh. Walker agrees.",
+                "Walker contacts Elrus. Elrus says there has not been a trainee in centuries, that only one person used this place, that he did not know it was there until a vision Walker's friend presented, and that nothing dead should be down there. Walker asks Elrus to get Plymouth and meet him, then draws his bow and stalks on. Glimmen readies her fiery breath.",
+                "With passive perception 18, Walker hears faint humming and light tapping of two different stones, one a softer thud than the other, from the cavern ahead."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk keeps knocking until Carlkin opens the lighthouse door, which crashes into crates and books. Carlkin demands to know why they are banging and points out signs in sixteen languages.",
+        "Gerk says Sylan wanted to talk and jokes about Sylan's small arms. Sylan calls Gerk their ambassador and asks to discuss matters of great importance.",
+        "Carlkin refuses them for lack of an appointment. Gerk walks in anyway, and Carlkin cannot hold him back.",
+        "The ground floor holds supplies, maps, tomes, a Sea of Nyxs first edition the party was part of, later papers, and a snoring pile of books. A spiral stair leads up.",
+        "Sylan confirms with Dana and Ord that they will not hide their relics. Dana and Ord say Carlkin was an original holder and has been trustworthy. The door shuts behind the party almost by itself.",
+        "Gerk opens an undirected Door in Carlkin's living room and rolls 68 on a d100. Where it leads is not shown.",
+        "Walker enters the cliffside crevice. Glimmen squeezes in after him. The place smells of fresh death. Glimmen notes it was supposed to be unused.",
+        "Elrus tells Walker there has been no trainee for centuries, that only one person used the crevice, that he learned of it from a friend's vision, and that nothing should be dead there. He agrees to bring Plymouth.",
+        "Walker draws his bow and advances. Glimmen prepares her breath. He hears two-toned stone tapping and a faint hum from the cavern."
+    ],
+    "entities": {
+        "Carlkin": {
+            "existing": "A turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "He is at a lighthouse and answers the door irritated, startled, and confused after Gerk bangs on it.",
+                "He posted signs in sixteen languages and expects visitors to be able to read at least one.",
+                "He describes himself as very busy with studying and appointments, and he tries and fails to push Gerk back out.",
+                "Dana says he was one of the original holders. Ord says he has been a useful resource and that the party has no reason to distrust him. They agree not to hide their relics from him.",
+                "His ground floor is a clutter of crates, barrels, maps, tomes, porridge bowls, and papers, including a first edition of the Sea of Nyxs the party was part of, later additions, and very old tomes. Something in a pile of books is snoring."
+            ],
+            "titles": [],
+            "personality": [
+                "Irritable, exacting about being disturbed, and impatient with vague requests."
+            ],
+            "quotesThemes": [
+                "Asks what they want and why they are banging, and tells them he wrote it in sixteen languages.",
+                "Asks whether they have an appointment and says he has much studying to do."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, party ambassador and Doorman.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He forces the visit by knocking until Carlkin opens, then walks in when Carlkin tries to push him out.",
+                "Sylan introduces him as the party's ambassador.",
+                "He opens a Door in Carlkin's living room with no destination chosen, slowly in case water comes out, and rolls 68 on a d100. The result is not narrated here."
+            ],
+            "titles": [
+                "Ambassador"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He asks Carlkin to talk about matters of great importance and checks with Dana and Ord before sharing the relics. He accepts their advice to hide nothing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric, most knowledgeable of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She tells Sylan that Carlkin was one of the original holders and that there is no reason to hide from him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He says Carlkin has been a useful resource and that the party has no reason to distrust him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, mind-linked to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He climbs down the narrow cliff path into the crevice, bow drawn, stalking toward the smell of death.",
+                "He confirms with Elrus that the place should have been unused for centuries, then tells Elrus to bring Plymouth down while he continues.",
+                "His passive perception is 18. He hears faint humming and tapping of two different stones from the cavern."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "She must crawl and squeeze into the crevice and cannot fly in or out. She grumbles at the smell.",
+                "Over the mind link she says she thought the place was unused and that the death smells fresh. She prepares her fiery breath as Walker advances."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Asks Walker if he smells it, and says she thought this was unused and that it smells fresh."
+            ],
+            "openQuestions": []
+        },
+        "Galixtar": {
+            "existing": "A dragon associated with Grixto and being hunted by the party.",
+            "entityType": "NPC",
+            "notes": [
+                "He is described as the one who used this crevice, hopping in and out the way a younger dragon could, tucking wings and flying clear. Glimmen has to squeeze."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker contacts him from the crevice. Elrus asks if Walker is in trouble, then says there has not been a trainee in centuries, that only one person used this place, and that he did not know it was there until he saw the vision Walker's friend presented.",
+                "He says nothing dead should be down there, and he agrees to get Plymouth and meet Walker shortly."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "Gerk opens one inside Carlkin's living room with no destination in mind and a d100 result of 68. He opens it slowly against the chance of water. The far side is not described in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sea of Nyxs": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A first edition is among Carlkin's papers. The party was part of that edition. Newer papers of various ages and very old tomes are mixed in with it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin's lighthouse": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Carlkin lives here. The ground floor is crowded with crates, barrels, maps, books, and supplies, with a pile directly behind the door and a spiral staircase on the far wall.",
+                "The door can swing shut almost on its own."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Ciri Kidd",
+            "likely": "Carlkin",
+            "notes": "Sylan addresses Carlkin this way at the start of the questions."
+        },
+        {
+            "heard": "Zylin",
+            "likely": "Sylan",
+            "notes": "Dana says she will follow Zylin into the lighthouse."
+        },
+        {
+            "heard": "Orden data",
+            "likely": "Ord and Dana",
+            "notes": "The DM asks whether they are entering as well."
+        },
+        {
+            "heard": "girl",
+            "likely": "Gerk",
+            "notes": "Carlkin's 'what do you want, girl?' while speaking to Gerk at the door."
+        },
+        {
+            "heard": "store",
+            "likely": "door",
+            "notes": "Carlkin says he wrote the signs in sixteen languages on the store."
+        },
+        {
+            "heard": "additions",
+            "likely": "editions",
+            "notes": "New additions of the Sea of Nyxs mixed with the first edition."
+        },
+        {
+            "heard": "JCR",
+            "likely": "the chase",
+            "notes": "Carlkin says to cut to that JCR."
+        },
+        {
+            "heard": "Travis",
+            "likely": "crevice",
+            "notes": "The DM's 'into this Travis' while Walker enters the crack."
+        },
+        {
+            "heard": "Glimmend",
+            "likely": "Glimmen",
+            "notes": "Used while describing how she squeezes into the crevice."
+        },
+        {
+            "heard": "Sea of Nyxs",
+            "likely": "",
+            "notes": "A titled work in Carlkin's papers that the party was part of. Spelling is uncertain and it may be tied to Nyx."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Sea of Nyxs",
+            "notes": [
+                "A written work Carlkin keeps. The party was part of the first edition. Later papers of different ages and very old tomes sit with it."
+            ]
+        },
+        {
+            "name": "Carlkin's lighthouse",
+            "notes": [
+                "Carlkin's home. Ground floor is a cluttered study and store of books, maps, and supplies, with a spiral stair to the upper floors. Signs in sixteen languages are posted outside."
+            ]
+        }
+    ]
+}

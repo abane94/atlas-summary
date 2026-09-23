@@ -1,0 +1,237 @@
+{
+    "plotSections": [
+        {
+            "title": "Walker and Glimmen reach the roost",
+            "bullets": [
+                "Walker tries to stay unnoticed and sneak to the entrance with Glimmen. Both roll Stealth at disadvantage because Glimmen is moving through the cave; Walker gets a 10 and Glimmen an 18.",
+                "Glimmen squeezes through the cave in a spiral without much noise. Walker's footsteps echo louder than he wants.",
+                "Tapping inside stops, then humming continues a few seconds and cuts off. The room goes silent. Walker holds at the doorway; crossing would make him visible in the small one-room cavern.",
+                "Peeking, Walker sees the room from the vision with Emhet: a smaller area and a larger dragon roost. A square stone slab table holds crumbling aged maps and small figurines used as military planning markers. One figurine hovers in a semi-familiar replacement hand."
+            ]
+        },
+        {
+            "title": "Vecna waiting",
+            "bullets": [
+                "The hand is an alchemical or mechanical replacement for an arm and hand lost in a fight over an item Walker and the party reached first. The figure is Vecna: sullen white face, vague smile, amusement under the sullenness.",
+                "Vecna sits in one of three stone chairs, dragged into place through the dust. One chair is overturned; another is pushed against the back wall.",
+                "Vecna says it took Walker much longer than he expected, and asks if Walker has come to help retrieve his book. Walker says no, thanks him for asking, and steps fully into the room. The scene then cuts away."
+            ]
+        },
+        {
+            "title": "The door into the abyss",
+            "bullets": [
+                "Gerk grabs the latch of an unseen door and pulls. A thunderous sucking noise erupts. An inky black tentacle wraps his leg and two more slide out the sides.",
+                "There is a deathly scream. Carlkin looks once and dives into the nearest pile of books.",
+                "Gerk tries to slam the door. The spectral, oily black tentacles block it; the door hits them with a wet-meat sound while the grip on his leg tightens. The other two tentacles search the room. Each is about a foot across at the end, thicker toward the door, with octopus-like tips, like Cthulhu-horror flesh mixed with black oil, semi-translucent liquefied shadow or ink.",
+                "Ord casts Hold Monster (DC 18). The creature shrugs it off, immune to paralysis. The loose tentacles flail. Combat starts against whatever was opened in the dark hole of the abyss. Sylan rolls initiative 26, including a +6 or +7 bonus from Ord."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker sneaks toward the cave entrance with Glimmen, both at disadvantage; Walker rolls 10, Glimmen 18.",
+        "Glimmen crawls quietly through the spiral cave while Walker's footsteps echo. Tapping and then humming stop, leaving the room silent.",
+        "Walker stops in the doorway and peeks. The cavern matches Emhet's vision: dragon roost, slab table, crumbling maps, and military figurines, one held aloft by a prosthetic hand.",
+        "Vecna is seated in a dragged stone chair among three, and asks if Walker came to help retrieve his book. Walker refuses and enters the room.",
+        "The scene cuts to Gerk opening an unseen door. A huge sucking noise brings oily black tentacles; one wraps Gerk's leg.",
+        "Carlkin screams and dives into a pile of books. Gerk cannot shut the door on the tentacles.",
+        "Ord's Hold Monster fails because the creature is immune to paralysis. Initiative is rolled as the tentacles flail from the dark hole of the abyss."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Approaches the roost entrance alone with Glimmen and fails a disadvantaged Stealth check (10); his footsteps echo.",
+                "Peeks from the doorway, recognizes the room from the vision with Emhet, then walks in after refusing Vecna.",
+                "He and the party previously dove first for an item in the fight where Vecna lost the original hand."
+            ],
+            "titles": [],
+            "personality": [
+                "Nervous about being alone with only Glimmen, then openly unwilling to stay alone with Vecna."
+            ],
+            "quotesThemes": [
+                "Refuses Vecna's ask: he has not come to help retrieve the book."
+            ],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Must Stealth at disadvantage while crawling through the cave. No Stealth bonus; the check is Dexterity. She rolls 18 and squeezes through in a spiral without making much noise."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery, pursuing hidden knowledge.",
+            "entityType": "NPC",
+            "notes": [
+                "Is already in the dragon roost from Emhet's vision, seated and waiting, tapping military figurines on a slab table of crumbling maps.",
+                "Has an alchemical or mechanical replacement arm and hand, lost in a battle over an item the party reached first. He holds one figurine hovering above the table.",
+                "Face is sullen and white, with amusement under a vague smile. He dragged one of three stone chairs into place; one chair is overturned and one is against the back wall.",
+                "Expected Walker sooner and asks Walker to help retrieve his book. Walker declines."
+            ],
+            "titles": [],
+            "personality": [
+                "Sullen, vaguely smiling, and mocking while he waits."
+            ],
+            "quotesThemes": [
+                "\"Took you much longer than I thought it would.\"",
+                "\"Have you come to help me retrieve my book?\""
+            ],
+            "openQuestions": [
+                "Vecna asks whether Walker came to help retrieve his book; Walker answers no, and the book is not identified in this chunk."
+            ]
+        },
+        "Emhet": {
+            "existing": "A deity at the gods' council who knows the party's role safeguarding the keys.",
+            "entityType": "NPC",
+            "notes": [
+                "The roost Walker enters is the same room shown in the prior vision with Emhet, slightly changed: smaller planning area plus a larger dragon roost."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman who opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Opens an unseen door by the latch. The opening produces a thunderous sucking noise and oily black tentacles; one wraps his leg and tightens as he tries to slam the door.",
+                "The door hits the tentacles but cannot close. He rolls the 19 used as the first initiative result."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person previously believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Is present when Gerk opens the door. Gives a deathly scream, takes one look at the tentacles, and dives into the nearest pile of books."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin, Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Casts Hold Monster on the tentacles, spell save DC 18. The creature is immune to the paralyzed condition and shrugs the spell off.",
+                "Provides an initiative bonus to the party; proficiency bonus stated as 6, with the table treating the bonus as +6 or +7. Sylan's initiative of 26 includes that bonus."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is with the group at Gerk's door when the tentacles come through, and rolls initiative 26 including Ord's bonus."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "Gerk opens an unseen door into a dark hole of the abyss. The opening is a thunderous suck; oily black tentacles pour out and physically block the door from slamming shut."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "SNE",
+            "likely": "sneak",
+            "notes": "Walker: \"I'm not very good at SNE,\" then repeats sneaking."
+        },
+        {
+            "heard": "jax",
+            "likely": "dex",
+            "notes": "Walker checking Glimmen's Stealth: \"she just jax,\" and the DM says the check is Dexterity."
+        },
+        {
+            "heard": "Echo",
+            "likely": "Vecna",
+            "notes": "Sylan: \"you love Echo.\" Walker answers \"I don't love Vecna.\""
+        },
+        {
+            "heard": "ACMA",
+            "likely": "Vecna",
+            "notes": "Sylan: \"What the fuck are we on with ACMA?\" in the same exchange about Vecna."
+        },
+        {
+            "heard": "whole monster",
+            "likely": "Hold Monster",
+            "notes": "Ord doubts \"whole monster\" will work on tentacles this large; the DM treats it as a paralysis effect."
+        },
+        {
+            "heard": "Visible saving",
+            "likely": "Wisdom saving",
+            "notes": "Ord: \"Visible saving to go\" while resolving the Hold Monster save."
+        },
+        {
+            "heard": "Max Chris",
+            "likely": "max Charisma",
+            "notes": "DM discussing Ord's initiative: \"I think you have Max Chris.\""
+        },
+        {
+            "heard": "Maxer",
+            "likely": "max",
+            "notes": "Sylan: \"Maxer is\" during the same Charisma versus proficiency talk."
+        },
+        {
+            "heard": "horse bonus",
+            "likely": "aura bonus",
+            "notes": "Sylan: \"twenty six with horse bonus,\" then asks how much Ord's bonus was."
+        },
+        {
+            "heard": "Word's bonus",
+            "likely": "Ord's bonus",
+            "notes": "Gerk: \"How much was Word's bonus?\""
+        },
+        {
+            "heard": "sheep",
+            "likely": "sheet",
+            "notes": "Sylan: \"how do you up for a sheep on as a plus seven\" while reading the character sheet bonus."
+        },
+        {
+            "heard": "dark whole",
+            "likely": "dark hole",
+            "notes": "DM: fighting whatever was opened in this \"Dark whole of the abyss.\""
+        }
+    ],
+    "openQuestions": [
+        "Vecna asks if Walker came to help retrieve his book; Walker says no, and the book is not named in this chunk."
+    ],
+    "newTerms": [
+        {
+            "name": "Vecna's book",
+            "notes": [
+                "Vecna is waiting in the dragon roost and asks Walker to help retrieve his book. Walker refuses. The book is not described further here."
+            ]
+        },
+        {
+            "name": "Abyss tentacles",
+            "notes": [
+                "Oily black, semi-translucent tentacles from the dark hole of the abyss beyond Gerk's door. About a foot thick at octopus-like tips and thicker toward the door. Immune to paralysis. One grapples Gerk's leg while others search the room."
+            ]
+        }
+    ]
+}

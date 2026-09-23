@@ -1,0 +1,311 @@
+{
+    "plotSections": [
+        {
+            "title": "Two days in town",
+            "bullets": [
+                "The group staying behind has about two full days before Walker returns. Sylan proposes using that time to find Carlkin and, if Benji is in town, to question Benji about what they are hunting; otherwise they can practice the doors indoors, away from people they do not trust.",
+                "Sylan also plans to spend time with his relic and learn to use it better. Carlkin is believed to live in the tower. Sylan, Gerk, Ord, and Dana head to see him. Walker stays behind and is treated as safe because he would have checked in six days ago if something were wrong."
+            ]
+        },
+        {
+            "title": "Why the training grounds",
+            "bullets": [
+                "Walker is meeting Elrus and Araden and, once Plymouth Gawater is finished with his errand, continuing to the dragon-rider training grounds to investigate. He does not remember the lead they were chasing.",
+                "The destination is the secret hideaway of a younger Grixto. He lured guild companions there, killed them, and took their Al Kurin—their dragons' hearts of hearts—to amplify his power, and then killed Tunimus. He later met his end at the hands of Elrus and Araden.",
+                "The party recognized the place from a vision Emhet gave essentially everyone, triggered by Dana through something like legend lore: Grixto sitting comfortably with a couple of Al Kurin and plotting his next steps."
+            ]
+        },
+        {
+            "title": "The island between the Lost Isles",
+            "bullets": [
+                "Walker, Araden, and Plymouth Gawater leave Sunder for a small island between the Lost Isles, Camp Two, and the Howling Tunnels. The trip is seven days for Walker and one day for the party staying behind.",
+                "The floating island looks ordinary: a broad flat field of thick grass, a crumbling foundation of a large structure, and on the western plateau and cliffs the ruins of a stronghold. Caves in the cliff are temporary roosts, not through-tunnels, ranging from a small horse stable up to the size of Araden's roost entrance, enough for any size of dragon that trained or rested here.",
+                "Elrus speaks in Walker's mind over the wind: the guild hall has crumbled from time and disuse, and he suspects Grixto's cavern is reached from the back or underneath."
+            ]
+        },
+        {
+            "title": "The crevice",
+            "bullets": [
+                "Walker's perception (21) picks out the cave systems on the underside of the mountain, away from the training field. The Emhet vision did not show anyone dropping out of a cave; they walked out of a humble dwelling as if looking for guests.",
+                "In the transition between the rocky underside and the field there is a thin crack a medium dragon, possibly a large one, could squirm through, then hop onto the field. A easy-to-miss footpath ledge runs from the training field down into that crevice along the island's rounded edge.",
+                "Walker enters the crack to investigate. Araden cannot fit. Glimmen would be a squeeze. Plymouth is not on the mental link; he is studying expansive runes and wondering whether any artifacts remain after a long abandonment. They split up: Plymouth searches the stronghold, then regroups at the crack, and Walker should holler if he is needed. Araden stays outside to raise a ruckus if necessary. Elrus stays outside as a relay."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "With about two days before Walker returns, Sylan suggests finding Carlkin, questioning Benji about the hunt if he is in town, or practicing the doors in private, and spending time with his relic.",
+        "Sylan, Gerk, Ord, and Dana leave to talk to Carlkin at the tower. Walker does not go.",
+        "Walker plans to meet Elrus and Araden after Plymouth Gawater finishes his errand, then investigate the training grounds.",
+        "The DM recounts that young Grixto used this secret site to lure and kill guild companions, harvest their Al Kurin to amplify his power, kill Tunimus, and was himself ended by Elrus and Araden; Dana's legend-lore-like contact with Emhet showed him there with Al Kurin.",
+        "Walker, Araden, and Plymouth travel from Sunder to the island between the Lost Isles, Camp Two, and the Howling Tunnels; seven days for them equals one day for the others.",
+        "They find a mundane floating island: grassy training field, ruined foundation, western cliff roost-caves, and a crumbled stronghold.",
+        "Elrus mind-whispers that the guild hall is the ruin and that Grixto's cavern is likely entered from behind or below.",
+        "Walker rolls a 21 perception and finds a hidden footpath and a narrow crevice between the field and the rocky underside, large enough for a medium or possibly large dragon, matching the vision of them walking out of a dwelling rather than a cave.",
+        "Walker goes into the crack. Araden stays outside; Glimmen may not fit. Plymouth, outside the mental conversation, goes to search the rune-marked stronghold for leftover artifacts and will regroup at the crack. Elrus stays as relay."
+    ],
+    "entities": {
+        "Carlkin": {
+            "existing": "A turtle-like person the party has been looking for.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan believes Carlkin lives in the tower and takes Gerk, Ord, and Dana to talk to him during the two days before Walker returns."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Benji": {
+            "existing": "Benji is familiar with The Reach and may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan wants to question him about what the party is hunting if he is in town."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Proposes the downtime plan: Carlkin, possibly Benji, private door practice, and time with his relic.",
+                "Looks toward someone or something called Caracas while saying he does not want untrusted people watching them practice.",
+                "Reminds Walker that the training grounds are where dragon things were stored and dragon allies were lured to be killed, and that Walker and his companion should retreat rather than fight if he is there.",
+                "Goes with Gerk, Ord, and Dana to Carlkin's tower."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Goes with Sylan, Gerk, and Ord to see Carlkin.",
+                "Her interaction with Emhet, described as legend lore or something similar, triggered the shared vision of Grixto at the training-ground hideaway with Al Kurin."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen; Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Does not join the trip to Carlkin. Meets Elrus and Araden and travels with Plymouth Gawater from Sunder to the training island.",
+                "Does not remember why they were going; the DM restores the Grixto hideaway lead.",
+                "Rolls a 21 on perception, finds the hidden ledge and crevice, and enters the crack to investigate.",
+                "Tells Plymouth not to go too far in case they need to leave quickly. Leaves Araden outside and asks Elrus to stay as a relay."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "A mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "As a younger dragon he kept a secret hideaway at the training island. He lured guild companions there, killed them, and took their Al Kurin to amplify his power, then killed Tunimus.",
+                "He met his demise at the hands of Elrus and Araden.",
+                "In the Emhet vision he sat cozily with a couple of Al Kurin, plotting next steps, and walked out of a humble dwelling as if looking for guests rather than emerging from a cave.",
+                "Elrus suspects the cavern is entered from the backside or underneath the mountain. A narrow crevice and hidden footpath off the training field may be that entrance."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is inside the crevice Walker is entering?"
+            ]
+        },
+        "Al Kurin": {
+            "existing": "Vessels containing the souls of dragons.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Described as a dragon's heart of hearts. Grixto took them from guild companions he killed at the training island and used them to amplify his power."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Travels with Walker to the training island and speaks into his mind while the wind howls.",
+                "Identifies the crumbled structure as the guild hall and suspects Grixto's cavern is reached from the back or underneath.",
+                "With Araden, brought about Grixto's demise.",
+                "Offers to enter the crack or act as a relay, and stays outside with Araden as the relay."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "That was the guild hall. It is crumbled with time and lack of use, but judging by the seclusion and depth of the cave, Grixto's cavern is accessed from the backside or underneath."
+            ],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Accompanies Walker to the training island.",
+                "With Elrus, brought about Grixto's demise.",
+                "Cannot fit into the crevice. Stays outside and is told to make a giant ruckus if needed.",
+                "The largest cliff roosts are about the size of the entrance to Araden's roost."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who explains the Great Eldarin Tree, keystones, and Mother's Prayer.",
+            "entityType": "NPC",
+            "notes": [
+                "Travels with Walker, Araden, and Elrus to the training island after finishing an errand.",
+                "Is not part of the mental conversation with Araden and Elrus, so he does not know the plan until Walker tells him.",
+                "Studies the island and especially expansive runes on the stronghold, and wonders whether any artifacts remain after a long time.",
+                "Splits off to investigate the stronghold, then regroup at the crack. He says to holler if he is needed and asks whether Glimmen can fit."
+            ],
+            "titles": [],
+            "personality": [
+                "Sheer curiosity about the ruins and runes; cautious enough to ask before walking into the crack."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Emhet": {
+            "existing": "A deity at the gods' council who knows the party's role safeguarding the keys.",
+            "entityType": "NPC",
+            "notes": [
+                "Gave a vision, received by basically everyone, of Grixto at this hideaway with Al Kurin. The trigger was Dana's legend-lore-like interaction with Emhet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Entering the crevice would be a squeeze. It is unresolved whether Glimmen can fit. Araden cannot."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can Glimmen fit through the crevice?"
+            ]
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "Dragon Rider guild training grounds near the Lost Isles.",
+            "entityType": "Location",
+            "notes": [
+                "A small, otherwise ordinary floating island between the Lost Isles, Camp Two, and the Howling Tunnels. Travel from Sunder takes seven days for the travelers and one day for people remaining behind.",
+                "Most of the island is a flat field of thick grass. A crumbling foundation of a large structure overlooks it. The western side is a plateau and cliffs with the ruins of the guild stronghold.",
+                "Cliff caves are open roosts, not tunnels, from small-stable size up to Araden's roost entrance, used to shelter dragons and trainees.",
+                "A thin crevice at the edge between the rocky underside and the field, reached by a concealed footpath ledge, can admit a medium or possibly large dragon and opens onto the field with a short bound. Elrus believes this backside or underside is the way into Grixto's cavern.",
+                "The stronghold ruins carry expansive runes. Plymouth thinks enough time has passed that leftover artifacts are an open question."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Tunimus": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Killed by Grixto after Grixto amplified his power with stolen Al Kurin. The DM also alluded to a second figure, possibly Tunimus's right hand, whose name he could not recall."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan's relic": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan plans to spend part of the two downtime days getting to know his relic and learning to use it better."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Thunder",
+            "likely": "Sunder",
+            "notes": "Walker says he was in Thunder while the DM is talking about the Sunder map and traveling from Sunder."
+        },
+        {
+            "heard": "Caracas",
+            "likely": "",
+            "notes": "Sylan looks toward Caracas while talking about not practicing the doors in front of people they do not trust."
+        },
+        {
+            "heard": "Tunimus",
+            "likely": "",
+            "notes": "Named as someone young Grixto killed after amplifying himself with Al Kurin. The DM was unsure of a second, related name."
+        },
+        {
+            "heard": "giblets",
+            "likely": "",
+            "notes": "Walker says they continue once Plymouth is done getting his giblets or whatever, before leaving for the training grounds."
+        },
+        {
+            "heard": "hollow",
+            "likely": "holler",
+            "notes": "Plymouth tells Walker to make a hollow if he needs him while Plymouth is at the stronghold."
+        },
+        {
+            "heard": "Camp Two",
+            "likely": "",
+            "notes": "One of three landmarks bracketing the training island, with the Lost Isles and the Howling Tunnels."
+        },
+        {
+            "heard": "Howling Tunnels",
+            "likely": "",
+            "notes": "Named with the Lost Isles and Camp Two as bounding the training island. May be a real place name."
+        }
+    ],
+    "openQuestions": [
+        "What is inside the crevice Walker entered?",
+        "Can Glimmen fit through the crevice?"
+    ],
+    "newTerms": [
+        {
+            "name": "Tunimus",
+            "notes": [
+                "Someone young Grixto killed after using stolen Al Kurin to amplify his power. A second associated name was not remembered."
+            ]
+        },
+        {
+            "name": "Howling Tunnels",
+            "notes": [
+                "A place near the training island, named with the Lost Isles and Camp Two."
+            ]
+        },
+        {
+            "name": "Camp Two",
+            "notes": [
+                "A place near the training island, between which and the Lost Isles and Howling Tunnels the island sits. The hearing is uncertain."
+            ]
+        },
+        {
+            "name": "Sylan's relic",
+            "notes": [
+                "An item Sylan intends to study and learn to use better during the two days before Walker returns."
+            ]
+        }
+    ]
+}

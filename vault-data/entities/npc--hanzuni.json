@@ -1,6 +1,8 @@
 {
   "name": "Hanzuni",
-  "tags": [],
+  "tags": [
+    "title"
+  ],
   "slug": "Ancient copper dragon of Haven Hold who loans gold for quests",
   "aliases": [],
   "normalizedAliases": [
@@ -27,10 +29,17 @@
         "Offers twelve hundred gold in exchange for an island crab.",
         "Knows Quaylin may haggle if offered pickled alabaster herring."
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Walker finishes speaking with Hanzuni in the hoard room at Haven Hold and leaves. The DM calls Hanzuni the hoard master of Haven Hold.",
+      "notes": [
+        "Walker has just spoken with him in the hoard room at Haven Hold and is leaving. The DM calls him the hoard master of Haven Hold."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-09-01T18:34:26.243Z",
-  "updatedAt": "2026-09-01T18:34:26.243Z"
+  "updatedAt": "2026-09-22T19:52:03.018Z"
 }
