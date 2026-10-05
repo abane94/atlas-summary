@@ -75,6 +75,14 @@
         "He studies the island, especially the expansive runes on the stronghold, and wonders whether any artifacts remain after so long.",
         "He splits off to search the stronghold, then regroups at the crack, and agrees not to wander too far. He says to holler if he is needed. He notes the crack looks too small to assume Glimmen can enter and suggests Araden raise a ruckus from outside if needed. Elrus later goes to bring him down into the crevice."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Plymouth was present when the party told Juten Prime about Gerk, which Carlkin treats as his chance to claim he has finally gotten ahead of her and of Juten Prime. He was also present when Gerk gained the doorway ability. Gerk and Carlkin agree Plymouth knew how it worked and did not teach the rules, including that a door to nowhere opens onto nowhere and that it must not be opened on a boat.",
+      "notes": [
+        "Was present when the party told Juten Prime about Gerk. Carlkin treats that as a chance to claim he has finally gotten ahead of her and of Juten Prime.",
+        "Was present when Gerk gained the doorway ability. Gerk and Carlkin agree Plymouth knew how it worked and did not teach the rules, including that a door to nowhere opens onto nowhere and that it must not be opened on a boat."
+      ]
     }
   ],
   "openQuestions": [
@@ -83,7 +91,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:28:12.188Z",
-  "updatedAt": "2026-09-22T19:57:54.102Z",
+  "updatedAt": "2026-09-29T18:29:48.087Z",
   "normalizedAliases": [
     "plymouth gawater"
   ]

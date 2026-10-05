@@ -1,0 +1,25 @@
+{
+  "name": "Orcus",
+  "tags": [],
+  "slug": "Orcus is a demon prince whose claim on the undead overlaps Vecna's domain.",
+  "aliases": [],
+  "normalizedAliases": [
+    "orcus"
+  ],
+  "filename": "entities/npc/orcus.md",
+  "description": "Orcus is a demon prince with a claim on the undead that overlaps Vecna's domain. The name was heard as Orcas.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-09-28",
+      "summary": "Vecna names Orcus, heard as Orcas, as a demon prince who holds a claim on the undead that overlaps Vecna's own domain.",
+      "notes": [
+        "Named by Vecna, and heard as Orcas, as a demon prince with a claim on the undead that overlaps Vecna's domain."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-29T18:45:50.107Z",
+  "updatedAt": "2026-09-29T18:45:50.107Z"
+}

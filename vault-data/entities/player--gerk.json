@@ -126,6 +126,22 @@
         "Adjacent to the wall of eyes, he succeeds on a Wisdom save of 23 (18 plus his +5). He suggests opening a second door so the doors fight, or going three doors down. He does not close this door.",
         "He breaks the cobbles under Ord with his hammer (attack 15, 16 damage), then on a Strength check of 27 dives about five feet under the floor and holds Ord in the hole so Ord cannot continue through the door."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Gerk opened doors twice, once with no destination and once aboard the moving sky ship; the lighthouse door went between the arches, and he was relieved the creature does not live there. He failed to level the cobbles a doorway broke, leaving a hole and piles like sandcastles, and kept admiring the damage until Carlkin ordered him off it; Carlkin will repair it with Mending. Asked if his mother is dead, he cried. Carlkin and Sylan treat him as an orphan. He said people never asked, described a blonde girl with flowers, and looked for a daisy in his hair. He said nobody taught him the rules and he would have avoided the responsibility if he had known. Carlkin said the legends treat the role as Gerk's choice; Gerk said Sylan agreed and first identified him as the Doorman. He believes Plymouth was present when he received the ability and never explained the rules; Carlkin agrees Plymouth did not teach the dangers. Gerk claims he cannot write. At the word agenda he lay on the floor. He was told others can open doors, but their names were withheld. Carlkin calls him a footman, an apprentice rank, until he earns Doorman; Gerk accepts grudgingly and promises not to open a door in Carlkin's home again. He is described as changed or bound to a keystone, which Carlkin expects future portals to follow. Sylan says he is still the only party member who can open a door. Carlkin's detect magic does not treat that door as a magical item. Asked which path he had picked, Gerk recounted his day and feelings; Grixto did not like it.",
+      "notes": [
+        "Opened doors twice in the day, including once with no destination. One was aboard the moving sky ship. The lighthouse door went between the arches. He is relieved the creature does not live there.",
+        "Tried and failed to level the cobbles the doorway broke, leaving a hole and cobbles piled like sandcastles. He keeps admiring the damage until Carlkin orders him off it. Carlkin will repair it with Mending.",
+        "Asked if his mother is dead, he cries. Carlkin and Sylan treat him as an orphan. He says people never asked. He describes a blonde girl with flowers and looks for a daisy in his hair.",
+        "Says nobody taught him the rules and that he would have avoided the responsibility if he had known. Carlkin says the legends treat the role as Gerk's own choice. Gerk says Sylan agreed to it and knows how he is. Sylan, not Gerk, first identified him as the Doorman.",
+        "Believes Plymouth was present when he received the ability, knows the rules, and never explained them. Carlkin agrees Plymouth was there and did not teach the dangers.",
+        "Claims he cannot write. Carlkin still wants the lesson written down. At the word agenda, Gerk lies down on the floor.",
+        "Asks whether other people can open doors and whether Carlkin knows every doorman. He is told that others can; the names are withheld.",
+        "Carlkin withholds Doorman and calls him a footman, an apprentice rank, until he earns it. Gerk accepts the label grudgingly and promises never to open a door in Carlkin's home again.",
+        "Described as changed or bound to one of the keystones. Carlkin expects future portals from him to be tied to that stone. Sylan says Gerk is still the only one of the party who can open a door. Carlkin's detect magic does not treat that door as a magical item.",
+        "When Grixto asked which path he had picked, Gerk answered with a long account of his day, his feelings, and his well-being. Grixto did not like it."
+      ]
     }
   ],
   "openQuestions": [
@@ -138,7 +154,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:01:01.004Z",
-  "updatedAt": "2026-09-22T19:48:41.477Z",
+  "updatedAt": "2026-09-29T18:24:43.180Z",
   "normalizedAliases": [
     "gerk"
   ]

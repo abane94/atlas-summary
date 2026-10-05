@@ -1,0 +1,461 @@
+{
+    "plotSections": [
+        {
+            "title": "Gatekeepers, gatehouses, and ley lines",
+            "bullets": [
+                "Carlkin says the party has pledged themselves as gatekeepers. Using a keystone is more or less limited to a gatekeeper or a doorman, with workarounds: long study, or building a gate that a key is seated in so it opens only to a predetermined place.",
+                "A gatekeeper has more freedom than that fixed gate. Opening one portal is not a single one-way door. It can chain gatehouses: a functional gatehouse sits on a ley line, and opening one (his example is a gatehouse for Midgar, while the opener is also trying to reach the Reach) opens every other functional arch gatehouse at the same time, whether or not anyone is there. He corrects himself from eight other arches to seven others.",
+                "Away from a gatehouse, a keystone portal would still require a powerful ley-line crossing. Sylan says the party has tried and failed. Gerk is the only one who can open a door right now.",
+                "Sylan says a door has to be very specific. He hopes to bring his sister home, and that something good may come of that."
+            ]
+        },
+        {
+            "title": "Footman, not doorman",
+            "bullets": [
+                "Carlkin refuses to hold the lich conversation upstairs. He will go down to his chair, and he wants Gerk's promise that no door will open in this place again. Gerk promises he will never open a door here again.",
+                "Carlkin will not call Gerk a doorman yet. Doormen were the more prestigious rank and kept footmen as apprentices who were taught the work. Until Gerk earns doorman, Carlkin calls him a footman. If Gerk announces he is about to open a door, Carlkin says he will teleport away and Gerk will never find him."
+            ]
+        },
+        {
+            "title": "Carlkin's table",
+            "bullets": [
+                "Downstairs, Carlkin unpacks large china mugs and saucers, a genuine silver platter, and doilies, and sets a cup for everyone present: Dana, Gerk, Sylan, Ord (noted as technically present), himself, and Benji. Benji has been watching the whole time and keeps relighting a pipe that sputters, sparks, and fills the room with an acrid smell.",
+                "Carlkin pours a thin, slightly steaming, tea-like liquid from a jug like one Ord sometimes produces, then tops his own cup with liquor from a desk drawer and asks them to explain what they need. They will make the agenda up on the fly."
+            ]
+        },
+        {
+            "title": "Grixto, emperor and lich",
+            "bullets": [
+                "Sylan's first item: they are hunting a lich. Carlkin does not know the name Grixto. He does know the Emperor of Nyx. Sylan says they are the same person. The Emperor of the Hobgoblins was a lich who took Sylan's homeland and Nyx by shrewd, underhanded means. The party brought that emperor down, then realized he was a lich. They hunt him now because he wants the keystones.",
+                "Carlkin already knew the hobgoblins had fallen into civil war and that other people were afraid. He says he should have assumed this party was involved in destabilizing a continent, and that ending that regime was good. He concludes they killed the body and not the phylactery.",
+                "They killed him once and later found him again. The first time, they did not know he was a lich. Sylan says the phylactery stays on his person and is a small mundane item. Clues are his fondness for chess and game pieces. He has been hard to find. Sylan believes they pilfered him at least once and did not find it. Carlkin calls that an overconfident lich who was betting they would not recognize what he was, and who has been playing them."
+            ]
+        },
+        {
+            "title": "The helmet and whatever they are still carrying",
+            "bullets": [
+                "Dana goes quiet, then remembers that Walker took Grixto's helmet. Sylan says Walker still wears the lich's helmet as a style choice. Dana says the helmet is the only thing Walker kept. Sylan remembers the body crumbling to dust when they cut him down.",
+                "Carlkin asks whether they investigated. His shop has residual detect magic, indicated on a couple of bangles, that automatically notices magical items brought inside. It did not flag the party, because something is currently masking their magical items. It also would not treat Gerk's door as a magical item, though he says it would have flagged anyway under that masking.",
+                "Asked whether the masking piece is complex or simple, Sylan pulls a necklace, rubs his neck, and says he believes it is simple. Carlkin says a lich with millennia to plan could put an enchantment on a mundane item and let the party carry it. Given a mundane phylactery kept on the body, a kill, and a looting, he thinks there is a high chance they are carrying it now unless they left something like a notebook or diary behind.",
+                "Sylan sets the helmet question aside until Walker is back."
+            ]
+        },
+        {
+            "title": "How Grixto reached them",
+            "bullets": [
+                "Carlkin asks whether Grixto sent a messenger. Dana says he reached them through the same mental links he used to control the hobgoblins, twice since the second time they vanquished him. They answered him. She thinks it was likely a spell, but she never got a dispel magic off to confirm.",
+                "Carlkin says a reply means he was sending sentences, so it is a Sending rather than a true mental link, even if Grixto also has mental-link abilities. Dana allows it may instead be a high-powered spell that only resembles that connection. What she has been told is that it is like a fire that overtakes the mind. She does not know how it works. Carlkin is still lost on that description when the chunk ends, and says he could look up spells."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Carlkin explains that keystone use is generally for a gatekeeper or doorman, that a seated key can open a fixed predetermined gate, and that a gatekeeper can chain every functional ley-line gatehouse at once, seven other arches in his corrected count.",
+        "Sylan says only Gerk can open a door so far, and that he hopes bringing his sister home will matter.",
+        "Carlkin moves the talk downstairs, gets Gerk's promise never to open a door here again, and names him footman rather than doorman, with a threat to teleport away for good if another door opens.",
+        "He serves china and a tea-like drink, spiked for himself, to Dana, Gerk, Sylan, Ord, Benji, and himself. Benji watches and smokes.",
+        "Sylan identifies Grixto as the Emperor of Nyx and of the hobgoblins, a lich who seized Sylan's homeland and Nyx, was killed once, returned, and wants the keystones. The phylactery is a small mundane item kept on him, possibly tied to chess or game pieces, and a prior looting did not find it.",
+        "Dana realizes Walker still has Grixto's helmet and wears it. Carlkin warns that his detect magic is being masked and that the phylactery may be on the party now. Sylan defers the check until Walker returns.",
+        "Dana says Grixto has contacted them twice since the second defeat, through mental links like those he used on the hobgoblins, and that they replied. She cannot confirm spell versus link. Carlkin calls the reply a Sending. Dana describes a mind-consuming fire and does not know the mechanism."
+    ],
+    "entities": {
+        "Carlkin": {
+            "existing": "Turtle-like ally whose shop and lighthouse are in New Navel.",
+            "entityType": "NPC",
+            "notes": [
+                "He explains gatekeeper portals, fixed keyed gates, ley lines, and chained gatehouses, and he treats careless doors in his home as something he will flee.",
+                "He withholds the title of doorman from Gerk and uses footman for the apprentice rank.",
+                "He keeps formal china, doilies, and a real silver platter for a sit-down, pours a thin steaming tea-like drink from a jug like Ord's, and laces his own cup from a liquor bottle in his desk.",
+                "He does not know the name Grixto. He knows the Emperor of Nyx and already knew the hobgoblins had fallen into civil war.",
+                "Bangles in the shop carry a residual detect magic that automatically notices magical items brought in. He concludes the party's items are being masked.",
+                "He argues the phylactery is likely something they looted and are still carrying, and that a two-way reply from Grixto sounds like Sending rather than a full mental link.",
+                "He says he is usually free Tuesdays at nine thirty and keeps trying to push this briefing into a formal appointment."
+            ],
+            "titles": [],
+            "personality": [
+                "Fussy about rank, hospitality, and appointments.",
+                "Frankly afraid of another door in his home.",
+                "Willing to call the fall of the hobgoblin regime good while scolding the party for how they do it.",
+                "Drinks when the implications get worse."
+            ],
+            "quotesThemes": [
+                "If Gerk opens a door here, Carlkin will teleport away and not be found.",
+                "They may have been carrying the phylactery for Grixto for free.",
+                "A reply means Grixto was sending sentences, not holding a true mental link."
+            ],
+            "openQuestions": [
+                "What did the party tell Grixto when he reached out?",
+                "How a fire overtakes the mind in that contact."
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian and the party's Doorman.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan says Gerk is still the only one who can open a door.",
+                "He promises Carlkin he will never open a door in this place again.",
+                "Carlkin will not grant him doorman yet and calls him a footman, an apprentice rank, until he earns it. Gerk accepts that label grudgingly.",
+                "Carlkin's residual detect magic does not treat Gerk's door as a magical item."
+            ],
+            "titles": [
+                "Footman, in Carlkin's usage, until he earns doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "He promises never to open a door in Carlkin's place again."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He hopes to bring his sister home.",
+                "He is the one who lays out the lich hunt: Grixto is the Emperor of Nyx, the former Emperor of the Hobgoblins, and he took Sylan's homeland and Nyx.",
+                "He believes the phylactery is a small mundane item kept on Grixto, with chess and game pieces as the clue, and that they looted him at least once without finding it.",
+                "He says Walker wears Grixto's helmet as a style choice, and he wants that checked when Walker is back.",
+                "When Carlkin asks if the masking item is simple, Sylan pulls a necklace, rubs his neck, and says he believes it is simple."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She is the one who connects the missed phylactery to the helmet Walker kept.",
+                "She says the helmet is the only thing Walker kept from the body.",
+                "She says Grixto reached them twice since the second defeat, through mental links of the kind he used to control the hobgoblins, and that they answered.",
+                "She thinks the contact was likely a spell but never confirmed it with dispel magic. She has heard it described as a fire that overtakes the mind, and she does not know the mechanism."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The contact has been described to her as a fire that overtakes the mind."
+            ],
+            "openQuestions": [
+                "Whether the contact is a spell, a Sending, or a real mental link."
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, gatekeeper of the Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He briefly confirms that they did kill Grixto once.",
+                "He took Grixto's helmet and still wears it as a style choice. Dana says it is the only thing he kept.",
+                "He is not in the room for the phylactery discussion. Sylan defers checking the helmet until Walker gets back."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether the helmet he wears is Grixto's phylactery."
+            ]
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Carlkin sets a cup for him and describes him as technically present.",
+                "The jug Carlkin pours from looks like one Ord produces from time to time."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Benji": {
+            "existing": "Someone familiar with the Reach who may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "He is at Carlkin's for this meeting, watching and going along with the room.",
+                "He keeps relighting a pipe that sputters, sparks, and leaves an acrid smell."
+            ],
+            "titles": [],
+            "personality": [
+                "Quiet observer during the briefing."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist seeking Al Kurin, with a phylactery hidden among mundane things.",
+            "entityType": "NPC",
+            "notes": [
+                "He is the Emperor of Nyx and was the Emperor of the Hobgoblins. Carlkin knows the imperial title and not the name Grixto.",
+                "He took Sylan's homeland and Nyx by underhanded means. The party toppled him, then learned he was a lich. His fall left the hobgoblins in civil war.",
+                "They killed him once, before they knew he was a lich, and later found him again. The body crumbled to dust. They believe they pilfered him at least once and did not find the phylactery.",
+                "The phylactery is a small mundane item he keeps on his person. Chess and game pieces are the standing clue. Walker kept his helmet and wears it.",
+                "He wants the keystones.",
+                "He controlled the hobgoblins through mental links. Since the second defeat he has reached the party twice. They replied. Dana has heard the contact described as a fire that overtakes the mind.",
+                "Carlkin reads him as overconfident: a lich who bet they would not know what he was the first time, and who may have arranged for them to carry the phylactery."
+            ],
+            "titles": [
+                "Emperor of Nyx",
+                "Emperor of the Hobgoblins"
+            ],
+            "personality": [
+                "Patient and willing to hide a soul in something mundane.",
+                "Confident enough to die once without the party knowing he was a lich."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether the helmet, the necklace, or some other carried mundane item is the phylactery.",
+                "Whether his contact is Sending, a mental link, or the described mind-fire."
+            ]
+        },
+        "Sylan's sister": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan hopes to bring his sister home, and he thinks something good may follow if they do."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gatekeeper": {
+            "existing": "Party role, other than Gerk, for holding a keystone and managing paths between Arch realms.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin treats the party as having pledged themselves gatekeepers.",
+                "A gatekeeper can open more than a fixed door: one opening can connect the current door to the other arches' gatehouses.",
+                "Opening a single functional gatehouse opens every other functional arch gatehouse at once, in a web, regardless of who is present. His corrected count is the other seven.",
+                "That chained opening is specifically a property of gatehouses on ley lines. A keystone used elsewhere still needs a powerful ley-line crossing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorman": {
+            "existing": "Gerk's role and doorway ability.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin says a keystone is generally used by a gatekeeper or a doorman, with long study or a purpose-built gate as ways around that.",
+                "Doorman is a rank above footman. Doormen were more prestigious and had footmen as apprentices whom they taught.",
+                "Carlkin refuses Gerk that rank for now."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Footman": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin's name for an apprentice doorman. Footmen were taught the work by doormen.",
+                "He applies it to Gerk until Gerk earns doorman."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas's Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Grixto is very interested in them, which is why the party is hunting him.",
+                "Seating a key in a constructed gate opens only a predetermined location. A gatekeeper's use is freer than that, but the party has not succeeded at keystone portals. Only Gerk can open a door.",
+                "Using one away from a gatehouse would require sitting at a powerful crossing of ley lines."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gatehouse": {
+            "existing": "Site governing keystone-operated gates.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Gatehouses sit on ley lines. Opening one functional gatehouse opens the other functional arch gatehouses at the same time.",
+                "Carlkin's example is a gatehouse for Midgar, with the other seven opening regardless of who is there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "ITEM",
+            "notes": [
+                "Grixto's is described as a small mundane item kept on his person. Chess and game pieces remain the clue. A looting after the first kill did not identify it.",
+                "Walker's helmet from that body is now the concrete suspect. Carlkin thinks any mundane loot they kept is a candidate, including something as simple as a necklace, because his detect magic is being masked.",
+                "They did not destroy it. He has returned since the killing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Which carried object it is."
+            ]
+        },
+        "Nyx": {
+            "existing": "A place that may hold hobgoblins who know where the lich is hiding.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Its emperor was Grixto, the same lich who was Emperor of the Hobgoblins.",
+                "He took Nyx and Sylan's homeland by underhanded means before the party brought him down."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ley line": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Lines of magic that gatehouses sit on. A powerful crossing is what Carlkin says a keystone portal would need outside a gatehouse.",
+                "The party has tried keystone portals and not succeeded."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Gerkha",
+            "likely": "Gerk",
+            "notes": "Sylan saying only Gerk can open a door."
+        },
+        {
+            "heard": "Midcart",
+            "likely": "Midgar",
+            "notes": "Carlkin's example gatehouse."
+        },
+        {
+            "heard": "lay lines",
+            "likely": "ley lines",
+            "notes": "What gatehouses sit on."
+        },
+        {
+            "heard": "Dora Man",
+            "likely": "doorman",
+            "notes": "Carlkin refusing to kill one."
+        },
+        {
+            "heard": "ledge",
+            "likely": "lich",
+            "notes": "Sylan's agenda item, hunting a lich."
+        },
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Sylan asking if Carlkin knows the name."
+        },
+        {
+            "heard": "Grixo",
+            "likely": "Grixto",
+            "notes": "Carlkin repeating the name he does not know."
+        },
+        {
+            "heard": "Nick's",
+            "likely": "Nyx",
+            "notes": "Sylan's homeland and Nyx."
+        },
+        {
+            "heard": "leech",
+            "likely": "lich",
+            "notes": "Carlkin asking if the emperor was a lich."
+        },
+        {
+            "heard": "Lizzy",
+            "likely": "lich",
+            "notes": "Carlkin asking what the lich's phylactery is."
+        },
+        {
+            "heard": "litch",
+            "likely": "lich",
+            "notes": "Repeated hearing for the emperor and for the enchantment theory."
+        },
+        {
+            "heard": "phyllactory",
+            "likely": "phylactery",
+            "notes": "Carlkin asking if they destroyed it."
+        },
+        {
+            "heard": "phylactory",
+            "likely": "phylactery",
+            "notes": "Carlkin restating the mundane item."
+        },
+        {
+            "heard": "philactory",
+            "likely": "phylactery",
+            "notes": "Carlkin saying they have been carrying it."
+        },
+        {
+            "heard": "glitch",
+            "likely": "lich",
+            "notes": "Sylan on the helmet Walker wears."
+        },
+        {
+            "heard": "necklist",
+            "likely": "necklace",
+            "notes": "Carlkin reacting to the item Sylan indicates."
+        },
+        {
+            "heard": "Diana",
+            "likely": "Dana",
+            "notes": "Carlkin addressing Dana."
+        },
+        {
+            "heard": "Carl",
+            "likely": "Carlkin",
+            "notes": "Dana addressing him while following the detect-magic point."
+        },
+        {
+            "heard": "spare",
+            "likely": "Sending",
+            "notes": "Carlkin saying a reply means Grixto is sending sentences."
+        },
+        {
+            "heard": "abundable abode",
+            "likely": "abominable abode",
+            "notes": "Carlkin describing his home while panicking about the lich and the abyss door."
+        },
+        {
+            "heard": "pattern",
+            "likely": "",
+            "notes": "Dana starts listing what was on the body, 'iron' then 'pattern', and does not finish before the helmet."
+        }
+    ],
+    "openQuestions": [
+        "What did the party tell Grixto when he contacted them?",
+        "Is that contact a Sending, a mental link, or the mind-fire Dana describes?",
+        "Is the phylactery the helmet Walker wears, or another mundane item they kept?"
+    ],
+    "newTerms": [
+        {
+            "name": "Footman",
+            "notes": [
+                "Carlkin's apprentice rank under doorman. He uses it for Gerk until Gerk earns doorman."
+            ]
+        },
+        {
+            "name": "Ley line",
+            "notes": [
+                "Lines of magic that gatehouses sit on. A powerful crossing is what Carlkin says a keystone portal would need outside a gatehouse."
+            ]
+        },
+        {
+            "name": "Emperor of Nyx",
+            "notes": [
+                "Title Carlkin recognizes. Sylan identifies that emperor with Grixto, the lich who was also Emperor of the Hobgoblins."
+            ]
+        },
+        {
+            "name": "Sylan's sister",
+            "notes": [
+                "Sylan hopes to bring her home."
+            ]
+        }
+    ]
+}

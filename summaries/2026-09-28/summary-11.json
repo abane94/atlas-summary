@@ -1,0 +1,294 @@
+{
+    "plotSections": [
+        {
+            "title": "What godhood requires",
+            "bullets": [
+                "Vecna tells Walker that kings stay fleeting and do not reach godhood: followers are only one item on a long checklist, and the fey do not do what transcendence requires.",
+                "He says a domain is also required and is usually stolen from whoever held it last. The other gods can block a bid; he calls that old bureaucratic interference.",
+                "Access to souls is another requirement."
+            ]
+        },
+        {
+            "title": "Undeath, secrets, and the death domain",
+            "bullets": [
+                "Vecna corrects Walker: his domain is the undead, not death, and also secrets. Orcus, as Demon Prince, has an overlapping claim on the undead.",
+                "A woman Sylan would now understand, matching the Raven Queen’s hold on death, tried for the throne of complete undeath. The other gods stopped her. She received death instead, described as the vague moment in between.",
+                "Undead do not pass through that domain again. They are put back where they were found, so she gets no claim on them."
+            ]
+        },
+        {
+            "title": "The book and Grixto’s phylactery",
+            "bullets": [
+                "Walker came to Vecna because he is missing something about Grixto’s phylactery. Vecna points him at the book. Walker is sure the book is not the phylactery; Vecna says it is still worth ruling out.",
+                "Vecna says the book can heal an itch, work as a seeking tool to find the phylactery, and bring back lost people, things, or beings. He calls life and death two sides of the same coin.",
+                "Walker refuses any path that would mean killing someone’s sister. Vecna says he has already done that. The cover is understood to be that long-dead sister’s skin.",
+                "Walker offers a later trade: what he learns about the book for what Vecna learns about the phylactery. He has nothing to trade yet. Vecna says the visit was not a waste and that he enjoys the company."
+            ]
+        },
+        {
+            "title": "The replica",
+            "bullets": [
+                "Vecna conjures a miniature of the Raskina Walker saw in his vision, a field-notes copy of the larger tome: a small book with a black cover and a bright red quill, with no inkwell.",
+                "The cover looks like leather but is not any leather Walker knows. The quill is semi-warm. Walker shudders and takes it anyway, uneasy about what he is agreeing to.",
+                "The stated use is communication: write in the book and Vecna can answer. Walker asked whether there was any other catch and was told no."
+            ]
+        },
+        {
+            "title": "The roost cave",
+            "bullets": [
+                "Elrus stays silent through the talk, sword at his belt, staring Vecna down. Walker then asks him to help search. Walker’s Investigation is 11.",
+                "The cave has a roost side and a study side. The roost has no bedding, only a thin layer of dirt, weeds, fungi, and bat guano. The study is a square slab table where Vecna sits, with faint papery scraps, three chairs each hewn from one piece of light stone, and old troop markers on the ground and table.",
+                "The back wall carries four rudimentary landscape carvings of local views, continued into the roost. They match the outlook from the old tower at the center of the stronghold, the same views Walker knows from the top of the training yard. Each is slightly tilted, as if drawn from memory after standing on that tower. Elrus gives examples of about ten degrees and about twenty-five degrees off true and cannot reconcile the shift with a single vantage.",
+                "The tower is already rubble, seen on the way in. Walker asks to be taken there and says he has an idea. Vecna is still seated, watching. Someone asks what they should do about him before the chunk ends."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Vecna explains that kings and the fey do not transcend: followers are only one step, and a domain and access to souls are also required.",
+        "He names his domains as the undead and secrets, with an overlap claimed by the Demon Prince Orcus.",
+        "He describes a blocked attempt on the throne of undeath. The claimant received the domain of death, the moment between, and does not receive undead because they are returned to where they were found instead of passing through death.",
+        "Walker says he came about Grixto’s phylactery and is missing something. Vecna indicates his book. Walker is certain the book is not the phylactery.",
+        "Vecna describes the book as a way to seek the phylactery, ease an itch, and restore lost people, things, or beings.",
+        "Walker will not kill someone’s sister to use it. Vecna says he already killed her.",
+        "Walker proposes a future exchange of information and apologizes for coming empty-handed. Vecna dismisses the apology.",
+        "Vecna produces a miniature Raskina and a red quill. Writing in the book is how Walker can reach him. Walker takes both.",
+        "Elrus has watched the whole exchange in silence, hand on his sword.",
+        "Walker searches with Elrus and rolls an 11. The roost is bare dirt, weeds, fungi, and bat guano. The study holds a slab table, papery scraps, three light stone chairs, and old troop markers.",
+        "Four cardinal landscape carvings show views from the old central tower, all slightly tilted. Elrus recognizes the local mountains and is confused by the angles.",
+        "Walker confirms Vecna is still there, learns the tower is rubble, and asks to be taken to it. The chunk ends on the question of what to do about Vecna."
+    ],
+    "entities": {
+        "Vecna": {
+            "existing": "Elder god of liches who pursues hidden knowledge from the periphery.",
+            "entityType": "NPC",
+            "notes": [
+                "In this meeting he calls himself a demigod whose domains are the undead and secrets, not death. Orcus has an overlapping claim on the undead.",
+                "He lays out ascendancy as a long checklist: followers, a domain usually stolen from the previous holder, and access to souls. Other gods can stop a claimant.",
+                "He already killed his sister. Her skin is taken to be the cover of the book.",
+                "He says the book can seek a phylactery, address an itch, and bring back lost people, things, or beings.",
+                "He gives Walker a miniature of the Raskina from Walker’s vision. Writing in it reaches him, and he names no further catch.",
+                "He remains seated on the cave’s slab table, watching, when Walker decides to leave for the ruined tower."
+            ],
+            "titles": [
+                "Demigod of the undead and secrets"
+            ],
+            "personality": [
+                "Talks about godhood as bureaucracy, theft, and checklists, and enjoys the company even when Walker has nothing to trade."
+            ],
+            "quotesThemes": [
+                "Followers are but one of the many things on a checklist to become a deity.",
+                "Life and death are two sides of the same coin.",
+                "He jokes about Walker taking notes in order to usurp his throne with the book."
+            ],
+            "openQuestions": [
+                "What the party should do about Vecna when they leave the cave for the tower."
+            ]
+        },
+        "Raven Queen": {
+            "existing": "Elder god of death, also called Nira.",
+            "entityType": "NPC",
+            "notes": [
+                "Vecna does not say her name. He describes a woman Sylan should now understand, who was stopped by the other gods while vying for complete undeath and instead holds death as the vague moment in between.",
+                "Undead do not return through her domain. They are placed back where they were found, so she has no claim on them."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Orcus": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Named through the hearing Orcas. Vecna calls him a Demon Prince with a claim that overlaps Vecna’s domain of the undead."
+            ],
+            "titles": [
+                "Demon Prince"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He sought Vecna because he is missing something about Grixto’s phylactery. He is sure Vecna’s book is not that phylactery.",
+                "He will not kill someone’s sister for the book, and he offers a later trade of book-knowledge for phylactery-knowledge.",
+                "He accepts the miniature Raskina and red quill despite openly dreading the bargain. Writing in the book is how he contacts Vecna.",
+                "His search of the cave is an Investigation of 11. He then asks to be taken to the ruined tower and says he has an idea."
+            ],
+            "titles": [],
+            "personality": [
+                "Pushes the conversation back to the phylactery, refuses the sister’s death as a price, and still takes the book."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker’s hidden ally.",
+            "entityType": "NPC",
+            "notes": [
+                "He says nothing during the talk with Vecna. He stands with his sword in his belt and stares Vecna down.",
+                "He reads the wall carvings as local views in the four cardinal directions, drawn as if from the old tower at the center of the stronghold, each one slightly tilted.",
+                "He is confused: the angles look like the artist shifted location while still standing in the same spot. He cites mountains about ten and about twenty-five degrees off."
+            ],
+            "titles": [],
+            "personality": [
+                "Watchful and silent while Walker bargains, then useful as a local reader of the carvings."
+            ],
+            "quotesThemes": [
+                "Like he shifted locations but was standing in the same spot."
+            ],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Antagonist proxy seeking Al Kurin and hiding a phylactery among mundane things.",
+            "entityType": "NPC",
+            "notes": [
+                "The cave is his roost and study. The roost is empty of bedding. The study once held maps and still has old troop markers.",
+                "Elrus attributes the four tilted landscape carvings to Grixto standing on the old central tower, committing the view to memory, and getting the angles wrong.",
+                "Walker is still looking for Grixto’s phylactery and does not believe Vecna’s book is it. Vecna says that book could be used to seek the phylactery."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Raskina": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Heard name of the tome Walker already saw in a vision. Vecna treats it as his book.",
+                "Claimed powers, stated before the replica appears: ease an itch, seek the phylactery, and bring back lost people, things, or beings. Life and death are both in it.",
+                "The cover is black and resembles leather, but it is the skin of Vecna’s long-dead sister, whom Vecna says he already killed. Walker is sure the book itself is not the phylactery.",
+                "Vecna also gives a miniature, gift-shop field-notes copy with the same detail, plus a bright red quill and no inkwell. The quill is semi-warm. Writing in the miniature is enough for Vecna to answer."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "A vessel for a lich’s soul. Grixto is believed to hide his among ordinary possessions.",
+            "entityType": "ITEM",
+            "notes": [
+                "Walker came to this cave to work out Grixto’s phylactery and says he is missing something. He is certain Vecna’s book is not it.",
+                "Vecna says the book could be used as a seeking tool to find the phylactery."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Last Word Chasm": {
+            "existing": "A long-uninhabited roost associated with Grixto.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The searched cave is a small roost-and-study. One side is a dragon roost with only decomposed dirt, weeds in the entrance light, fungi, and bat guano. The other side is a study where Vecna sits at a square slab table.",
+                "Faint papery scraps remain where maps once were. Three chairs are each cut from a single piece of lighter stone. Old troop markers lie on the floor and a few remain on the table.",
+                "Four crude landscape reliefs run along the back wall and into the roost."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Training Grounds": {
+            "existing": "Dragon-rider training grounds near the Lost Isles, in mountains between three islands.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The cave carvings match views Walker recognizes from the top of the training yard.",
+                "They are drawn from the old tower at the center of the stronghold. That tower is now rubble, already seen on the way in. All four cardinal views are slightly tilted."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Goddom",
+            "likely": "godhood",
+            "notes": "Vecna asks why kings do not transcend to godhood."
+        },
+        {
+            "heard": "Fay",
+            "likely": "fey",
+            "notes": "Given as the reason transcendence fails."
+        },
+        {
+            "heard": "Orcas",
+            "likely": "Orcus",
+            "notes": "Demon Prince said to share a claim on the undead."
+        },
+        {
+            "heard": "balevolent",
+            "likely": "malevolent",
+            "notes": "Vecna’s joke about Walker becoming a god of undead."
+        },
+        {
+            "heard": "ahearsed",
+            "likely": "rehearsed",
+            "notes": "Vecna says the party is already familiar with gods failing to get anything done."
+        },
+        {
+            "heard": "phallac",
+            "likely": "phylactery",
+            "notes": "Walker’s first attempt at the word while explaining why he came."
+        },
+        {
+            "heard": "Ricksto",
+            "likely": "Grixto",
+            "notes": "Named in the same breath as the phylactery."
+        },
+        {
+            "heard": "Resky enough",
+            "likely": "Risky enough",
+            "notes": "Vecna’s reply when Walker identifies the book."
+        },
+        {
+            "heard": "philanthropy",
+            "likely": "phylactery",
+            "notes": "Vecna describing the book as a seeking tool."
+        },
+        {
+            "heard": "Beans",
+            "likely": "beings",
+            "notes": "He had just said the book can bring back lost beings."
+        },
+        {
+            "heard": "depth",
+            "likely": "dip",
+            "notes": "You should dip, immediately after calling the book a good read."
+        },
+        {
+            "heard": "Raskina",
+            "likely": "",
+            "notes": "Proper name of the tome from Walker’s vision. Only this hearing; confirm the spelling."
+        },
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Elrus or the DM attributing the tower carvings to him."
+        }
+    ],
+    "openQuestions": [
+        "What should the party do about Vecna, who is still watching, before they go to the ruined tower?"
+    ],
+    "newTerms": [
+        {
+            "name": "Orcus",
+            "notes": [
+                "Demon Prince with a claim overlapping Vecna’s domain of the undead. Heard as Orcas."
+            ]
+        },
+        {
+            "name": "Raskina",
+            "notes": [
+                "Heard name of Vecna’s tome from Walker’s vision. A miniature copy and red quill let Walker write to Vecna. The book is also described as a phylactery-seeking tool that can restore what was lost. Confirm the name."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "plotSections": [
+        {
+            "title": "Vecna's origin",
+            "bullets": [
+                "Vecna says he was among the first peoples to inhabit Atlas and is not of the Navi line.",
+                "He describes a poor start: a farmer's bastard who belonged to no one, whose father died before he could claim land, with little while growing up. The 'deep, dark' origin is framing; he says the place really was neither.",
+                "He was no fighter ('not a swinger of arms') and became a plotter who stole and read. He compares that path to Grixto, and says what sets them apart is that Grixto does not appear to have had a sister."
+            ]
+        },
+        {
+            "title": "Valkyrie and the book",
+            "bullets": [
+                "Vecna's sister was named Valkyrie. He says the name has been watered down until people no longer recognize the legend, and that she may have been one of the first to be called a shield maiden. He claims he knew the seed of that legend and was there when it was planted. Walker only knows the pop-culture sense of a warrior-angel woman.",
+                "She supported his reading and did the labor he could not. He says there is no happy ending: he killed her, skinned her half alive, and used her blood as ink. He cast the runes; he did not write the pages. The power of ripping a void in the family made the book write itself, and he says demons write in it and that he gained knowledge from them.",
+                "Walker argues that if Vecna is not the author he is only a product of the book. Vecna rejects that: he cast the runes and used what he gained for great power, so the book is his. He still needs it because its contents are not only what he already knew."
+            ]
+        },
+        {
+            "title": "Lich, faith, and domains",
+            "bullets": [
+                "Walker asks whether Vecna is a lich as well as a demigod. Vecna says he began his journey as a lich and has transcended that. Enough followers matter: even when magic fails, the faith of a few peasants can outdo years of study.",
+                "Followers alone do not make a god. Kings, kind or cruel, stay fleeting because they will not do what transcendence requires. A domain is also required, usually stolen from whoever held it last. Vecna's domains are the undead and secrets, not death itself; Orcus has some claim on the undead, with overlap aside from Orcus being a demon prince.",
+                "He points Sylan at domain-stealing and explains the Raven Queen's failed reach for undeath. Other gods did not want her to take it and blocked her. She holds death, the vague moment between, not undeath. Undead are not sent back through death; they are returned to where they were, so she gets no claim on them, and they would otherwise pass through her domain again. Access to souls is another requirement of godhood.",
+                "Vecna jokes that Walker might use the lesson, and the book, to become a malevolent god of the undead and take his throne. Walker refuses. Vecna adds that a gathering of gods gets little done, which he says the party already knows."
+            ]
+        },
+        {
+            "title": "The book and Grixto's phylactery",
+            "bullets": [
+                "Walker says he came to work out Grixto and the phylactery and that he is still missing something. Vecna steers him toward the book and suggests ruling the book out as the phylactery. Walker is sure it is not; Vecna agrees.",
+                "Vecna says the book can be used as a seeking tool to find the phylactery, and that it can bring back lost people, things, or beings — 'life and death.' He also dangles 'ways of healing that itch.' Walker has no desire to repeat the sister-killing and stops him when restoration of the lost comes up."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Vecna distinguishes himself from the Navi and tells an origin as a landless farmer's bastard who survived by plotting, theft, and reading rather than fighting.",
+        "He likens that life to Grixto's and says Grixto seems to have had no sister.",
+        "He names his sister Valkyrie and ties her to the shield-maiden legend.",
+        "He says he killed and skinned her and used her blood as ink; the book wrote itself after he tore a void in the family, with demons writing in it.",
+        "Walker asks why Vecna still needs a book he caused to exist. Vecna says he cast the runes and drew power from knowledge the demons provided.",
+        "Walker asks if Vecna is a lich. Vecna says he started as one and transcended through followers and faith.",
+        "Vecna explains why kings do not become gods and names his domains as undead and secrets, with a partial claim by Orcus.",
+        "He explains that other gods blocked the Raven Queen from undeath, leaving her death but not the undead, and that a god also needs access to souls.",
+        "Walker says he is here for Grixto's phylactery and is missing something. They agree Vecna's book is not that phylactery.",
+        "Vecna says the book can seek the phylactery and restore lost people, things, or beings. Walker presses him to repeat the restoration claim."
+    ],
+    "entities": {
+        "Vecna": {
+            "existing": "Elder god of liches who pursues hidden knowledge.",
+            "entityType": "NPC",
+            "notes": [
+                "Claims to be of the first peoples who inhabited Atlas, and not of the Navi line.",
+                "Origin he tells: a farmer's bastard with no claim after his father died; a plotter, thief, and obsessive reader rather than a warrior.",
+                "Killed his sister Valkyrie, skinned her half alive, and used her blood as the ink of his book. He cast the runes; demons wrote the pages after the act ripped a void in the family, and he gained knowledge from them.",
+                "Says he began as a lich and has transcended that state. Faith and followers can outweigh magic and years of study.",
+                "Domains he claims: the undead and secrets, not death. Orcus has some overlapping claim on the undead.",
+                "Treats godhood as a checklist: doing what is necessary, followers, a domain (often stolen), and access to souls. Other gods can block an aspirant.",
+                "Wants his book back. Agrees it is not Grixto's phylactery, and says it could be used to seek that phylactery or to restore what was lost."
+            ],
+            "titles": [
+                "Demigod of the undead and secrets",
+                "Former lich"
+            ],
+            "personality": [
+                "Speaks as a plotter who values reading, secrets, and necessary cruelty over strength or kindness.",
+                "Smiles at Walker guessing the book was made from his sister, and baits the party with the book's uses."
+            ],
+            "quotesThemes": [
+                "Not a swinger of arms; a plotter.",
+                "A domain is usually stolen from the last one who held it.",
+                "When many gods gather, little gets done."
+            ],
+            "openQuestions": []
+        },
+        "Valkyrie": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Vecna's sister. He says the name has been diluted so listeners no longer hear the legend in it.",
+                "Supported his studies and did physical labor for him because he was not strong. He calls her very courageous and possibly one of the first shield maidens.",
+                "He killed her and used her body and blood to make his book: skin for the pages' binding in Walker's guess, which Vecna's smile accepts, and her blood as ink by his own account. He says he skinned her half alive."
+            ],
+            "titles": [
+                "Vecna's sister",
+                "Shield maiden"
+            ],
+            "personality": [
+                "Described as supportive of Vecna's endeavors and courageous."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Vecna's Book": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Vecna calls it his book. A heard name, Rayaskina, is unconfirmed.",
+                "Made from his sister Valkyrie: he killed her, skinned her half alive, and used her blood as ink. He cast the runes; he did not fill the pages. The void torn in the family, and demons, wrote it.",
+                "He gained knowledge from those demons that he did not have before, and says he turned that to great power. He still needs the physical book.",
+                "Walker and Vecna agree it is not Grixto's phylactery.",
+                "Vecna says it can seek the phylactery, holds life and death, and can bring back lost people, things, or beings. He also claims it holds a way of 'healing that itch.'"
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Vecna describes the making, or the book, as a family reunion — wording is muddy in the transcript."
+            ],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Vecna says Grixto's methods resemble his own younger life — plotting, theft, and reading — and that Grixto does not appear to have had a sister.",
+                "Walker came to Vecna because he is still missing something about Grixto and the phylactery. Vecna's book is agreed not to be that phylactery, but Vecna says the book could be used to find it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Walker says he is missing something about Grixto's phylactery."
+            ]
+        },
+        "Raven Queen": {
+            "existing": "Elder god of death, also called Nira.",
+            "entityType": "NPC",
+            "notes": [
+                "Vecna says her grab at a stolen domain did not end as she wanted. Other gods saw her vying for undeath and stopped her.",
+                "She holds death, described as the vague moment in between, not undeath. Undead are not passed back through death; they are returned to where they were found, so she has no claim on them. If they passed through death again they would move through her domain."
+            ],
+            "titles": [
+                "Holder of death, not undeath"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Orcus": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Named by Vecna as a demon prince with some claim on the undead, overlapping Vecna's domain. Heard as Orcas."
+            ],
+            "titles": [
+                "Demon Prince"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Says all his family is dead.",
+                "Came to this talk to sort out Grixto and the phylactery and says he is missing something. He is sure Vecna's book is not the phylactery.",
+                "Guesses the book was made from Valkyrie's skin. He refuses any interest in killing a sister for power, and stops Vecna when told the book can restore lost people, things, or beings.",
+                "Knows Valkyries only in a general warrior-angel sense, not as a campaign legend."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Navi": {
+            "existing": "Ancient race tied to the Eldarin Tree, the keystones, and the Mother's Prayer.",
+            "entityType": "GROUP",
+            "notes": [
+                "Vecna says he is not of the Navi line; he claims the first peoples of Atlas as his own stock. Heard as Narvi."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Narvi Line",
+            "likely": "Navi",
+            "notes": "Vecna saying he is not of that line."
+        },
+        {
+            "heard": "too good a ravel",
+            "likely": "",
+            "notes": "Garbled aside while he says not to mix him up with another people who connect unknown places. Not clear enough to treat as a name."
+        },
+        {
+            "heard": "Rayaskina",
+            "likely": "",
+            "notes": "He says this is his book. May be the title."
+        },
+        {
+            "heard": "called a family reunion",
+            "likely": "",
+            "notes": "Follows Walker realizing why Vecna needs the book. Unclear whether it names the book, the ritual, or something the book contains. Preceded by the fragment 'Mad contains even.'"
+        },
+        {
+            "heard": "Orcas",
+            "likely": "Orcus",
+            "notes": "Demon prince Vecna says has a claim on the undead."
+        },
+        {
+            "heard": "Ruro",
+            "likely": "",
+            "notes": "Dana, just as Vecna reacts to Walker's 'you are only a product' line."
+        },
+        {
+            "heard": "philanthropy",
+            "likely": "phylactery",
+            "notes": "Vecna saying the book can seek it. Same topic as Walker's 'phallac' / phylactery a moment earlier."
+        }
+    ],
+    "openQuestions": [
+        "Walker says he is still missing something about Grixto and the phylactery."
+    ],
+    "newTerms": [
+        {
+            "name": "Valkyrie",
+            "notes": [
+                "Vecna's sister and, in his telling, an early shield maiden whose name became the watered-down legend. Her skin and blood were used to make his book."
+            ]
+        },
+        {
+            "name": "Vecna's Book",
+            "notes": [
+                "Rune-born book written by demons after Vecna killed his sister. Not Grixto's phylactery. Vecna claims it can seek that phylactery and restore lost people, things, or beings.",
+                "A possible spoken title, Rayaskina, needs confirmation."
+            ]
+        },
+        {
+            "name": "Orcus",
+            "notes": [
+                "Demon prince Vecna says holds some claim on the domain of the undead alongside his own."
+            ]
+        }
+    ]
+}

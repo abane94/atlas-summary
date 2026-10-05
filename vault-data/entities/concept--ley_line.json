@@ -1,0 +1,25 @@
+{
+  "name": "Ley line",
+  "tags": [],
+  "slug": "Lines of magic that gatehouses sit on",
+  "aliases": [],
+  "normalizedAliases": [
+    "ley line"
+  ],
+  "filename": "entities/concept/ley_line.md",
+  "description": "Ley lines are lines of magic that gatehouses sit on.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-09-28",
+      "summary": "Carlkin says a keystone portal opened away from a gatehouse would need a powerful crossing of ley lines. The party has tried to do this and, apart from Gerk's doors, has not succeeded.",
+      "notes": [
+        "Lines of magic that gatehouses sit on. Carlkin says a keystone portal opened away from a gatehouse would need a powerful crossing of them. The party has tried and, apart from Gerk's doors, has not succeeded."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-29T18:46:46.129Z",
+  "updatedAt": "2026-09-29T18:46:46.129Z"
+}

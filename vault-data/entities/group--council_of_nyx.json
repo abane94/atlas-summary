@@ -1,0 +1,25 @@
+{
+  "name": "Council of Nyx",
+  "tags": [],
+  "slug": "A group Grixto held captive when the party first killed him, whose search led them to Gilbrick.",
+  "aliases": [],
+  "normalizedAliases": [
+    "council of nyx"
+  ],
+  "filename": "entities/group/council_of_nyx.md",
+  "description": "The Council of Nyx is a group Grixto had captured by the time the party first killed him.",
+  "type": "GROUP",
+  "log": [
+    {
+      "date": "2026-09-28",
+      "summary": "Grixto had already captured the Council of Nyx by the time the party first killed him. The party searched for where he was keeping them, suspected Gilbrick, and on going there found him for the second fight.",
+      "notes": [
+        "Grixto had captured them by the time the party first killed him. The party searched for where he was keeping them, suspected Gilbrick, and on going there found him for the second fight."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-29T18:48:14.405Z",
+  "updatedAt": "2026-09-29T18:48:14.405Z"
+}

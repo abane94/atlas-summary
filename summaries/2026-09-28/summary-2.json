@@ -1,0 +1,406 @@
+{
+    "plotSections": [
+        {
+            "title": "Gerk's mother and the blonde girl",
+            "bullets": [
+                "Carlkin, smoking a grass-like pipe dosed from a small oil dripper (half-sulfur, half-earthy smoke), takes Sylan's papers and then leans down the stairs to ask whether Gerk's mother is dead. Gerk immediately starts crying; Carlkin takes that as yes, and Sylan calls it a soft subject.",
+                "Carlkin presses that Gerk is probably seeing things too. Gerk names a blonde girl with flowers and looks for a daisy in his hair. Carlkin treats it as a hallucination.",
+                "Asked whether Juten Prime knew about this, Sylan says she did not talk about it much; Plymouth Gawater was present when they told her."
+            ]
+        },
+        {
+            "title": "Doorman rules after the airship mishap",
+            "bullets": [
+                "Carlkin tells Gerk to stop opening doors. The party admits a mishap on the flight over: Gerk opened a doorway on a moving sky ship.",
+                "Rule one: do not open doorways on moving things. A doorway stays where it is opened and bends time and space from the opener's current position.",
+                "Sylan asks for the rules in writing for Gerk. Carlkin doubts Gerk will read them; Sylan says he will work on it. Gerk later says he cannot write, and Dana is sent for paper under a crate.",
+                "Carlkin counts companions and keystones, notes absences (the dragon is on a mission; another companion is at the pub), and Dana confirms the party are all gatekeepers now.",
+                "Rule two, framed as gatekeeping and being a Doorman: do not open doors to places you do not know, or the destination can be misread."
+            ]
+        },
+        {
+            "title": "A door to nowhere",
+            "bullets": [
+                "Gerk says he opened the door with nowhere in mind. Carlkin says that is a door to nowhere: in portal terms, the nothing, the astral, or the space between arches.",
+                "Whatever came through nearly used Carlkin's living room as a birthing place. Carlkin guesses it was some kind of astral creature rather than an abomination. Gerk is glad it does not live there.",
+                "Carlkin warns that if Gerk had been pulled through, a keystone could have gone with him, and says he does not know what would have happened, which is why it must not be tried.",
+                "Sylan says he investigated, concluded Gerk was the Doorman, and brought Gerk that information because Gerk would not have found it quickly on his own. Carlkin ties that role to the Mother's Prayer. Plymouth was there when Gerk learned the ability but did not teach these rules.",
+                "Gerk has been marking up the floor. Carlkin tells him to stop and says he will fix it later with Mending."
+            ]
+        },
+        {
+            "title": "How a doorway is supposed to work",
+            "bullets": [
+                "Carlkin, eventually talking down through a knot in the floorboards, says Gerk was told he can open doors and given a power-and-responsibility speech, but not how it works.",
+                "Do not open a portal in a place you would want to sleep peacefully, and do not open one on a moving ship: the portal stays, reality can rip, and a three-way connection can form. Portal magic is dangerous and should be kept simple.",
+                "The destination must be a specific door held clearly in mind, as if opening it by hand. Carlkin's example is the front door of a particular longhouse, not a vague place-name, because many similar doors exist. Enough focus and familiarity connects the two places. A well-traveled Doorman could open portals more freely.",
+                "Bound to a keystone, Gerk will likely be asked to open portals related to that keystone. Keystones connect the worlds, but once every keystone is set in one gate or gatehouse, the gatekeepers are more or less obligated to remain there, dormant, and keep it safe.",
+                "Gerk asks whether other people can open doors. Carlkin says yes. Gerk asks whether Carlkin knows all the doormen; Carlkin dodges into the dead-mother joke.",
+                "Gerk asks whether trees are dead. Sylan says the trees are living. Carlkin agrees the trees are alive and asks if Sylan's mother is a tree. Sylan says it is complicated.",
+                "Sylan asks whether only a few people can use the keystones, and whether someone must be a Doorman or a guardian to open or use one. The chunk ends on that question."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Carlkin packs and lights a grass-like pipe with a drop of oil, filling the room with sulfurous, earthy smoke, and starts writing from the papers Sylan gave him.",
+        "He leans down the stairs and asks if Gerk's mother is dead. Gerk cries at once; Carlkin treats that as a yes, and Sylan says the subject is sensitive.",
+        "Gerk describes a blonde girl with flowers and checks his hair for a daisy. Carlkin calls it a hallucination.",
+        "Sylan says Juten Prime did not say much about it, and that Plymouth Gawater was there when they told her.",
+        "Carlkin scolds Gerk for opening doors. The party confirms the mishap happened on a moving sky ship.",
+        "Carlkin gives the first Doorman rule: never open a doorway on something that is moving, because the doorway stays put and bends time and space from where the opener is. Sylan offers to record the rules for Gerk.",
+        "Carlkin checks who is absent and whether everyone holds a keystone. The dragon is on a mission, another companion is at the pub, and Dana says they are all gatekeepers.",
+        "Second rule: do not open a door to an unknown place. Gerk says he had no destination. Carlkin identifies that as a door to nowhere, between the arches, and says the creature nearly gave birth in his living room. He calls it an astral creature rather than an abomination.",
+        "Carlkin says he does not know what would have happened if Gerk and a keystone had been pulled through, and that ignorance is why it should not be tested.",
+        "Sylan explains that he discovered Gerk was the Doorman and told him. Carlkin connects the role to the Mother's Prayer and notes Plymouth taught the power without the rules.",
+        "Carlkin tells Gerk to stop damaging the floor and says Mending will repair it.",
+        "Carlkin says the Mother's Prayer is a studied conundrum, refuses to name the scholars, and keeps some secrets because people underestimate the man in the tower.",
+        "Speaking through the floorboards, he explains safe targeting: a specific, familiar door visualized as if opened by hand; no portals on moving ships; risk of a rip or a three-way portal.",
+        "He says a keystone-bound Doorman will be asked for portals tied to that stone, and that a fully assembled gatehouse would oblige the gatekeepers to stay and guard it.",
+        "Carlkin confirms other people can open doors, then will not discuss the other doormen.",
+        "Sylan says the trees are alive and, asked if his mother is a tree, answers that it is complicated. He then asks whether a keystone requires a Doorman or a guardian."
+    ],
+    "entities": {
+        "Carlkin": {
+            "existing": "Turtle-like person in Langdale; his lighthouse in New Navel is his home and bookshop.",
+            "entityType": "NPC",
+            "notes": [
+                "Smokes a grass-like material, not tobacco, primed with a small oil dripper. The smoke is half sulfur, half earthy, and dark like a coal boiler.",
+                "Writes from papers Sylan hands him, then lectures Gerk down the stairs and later through a knot in the floorboards.",
+                "Infers Gerk's mother is dead from Gerk crying, and treats the blonde girl with flowers as a hallucination.",
+                "Teaches two Doorman rules: do not open doorways on moving things, and do not open doors to unknown places.",
+                "Identifies Gerk's aimless door as a door to nowhere, between the arches, and says the creature nearly used his living room as a birthing place. He thinks it was an astral creature rather than an abomination.",
+                "Does not know what would happen if a Doorman and a keystone were pulled through such a door.",
+                "Says Plymouth was present when Gerk learned the ability but did not teach the dangers, including not to do it on a boat.",
+                "Will repair Gerk's damage to the floor with Mending.",
+                "Keeps some Mother's Prayer scholarship to himself and resents that no one expects the man in the tower to know things.",
+                "Confirms people other than Gerk can open doors, and does not list the doormen.",
+                "States that trees are certainly alive."
+            ],
+            "titles": [],
+            "personality": [
+                "Easily affronted and theatrical about visitors, appointments, and his good china, but he does teach once he has the room.",
+                "Withholds names and a reserve of secrets even while explaining doorway mechanics."
+            ],
+            "quotesThemes": [
+                "Number one rule of being a Doorman: do not open doorways on moving things.",
+                "Do not open doors to places you do not know, or the destination can be misinterpreted.",
+                "A door to nowhere is the nothing, the astral, the space between arches.",
+                "When the person explaining the danger does not know the outcome, do not try it.",
+                "Name a specific door and see yourself opening it; vague destinations are not enough.",
+                "With every keystone set in one gatehouse, the gatekeepers are obliged to sit dormant and keep it safe."
+            ],
+            "openQuestions": [
+                "Which scholars has Carlkin studied the Mother's Prayer with, and what is he refusing to say?",
+                "Does Carlkin actually know the other doormen?"
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree who opens Arch doorways and keeps the Midgar keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Breaks down when asked if his mother is dead. Carlkin reads that as a yes.",
+                "Reports a blonde girl with flowers and looks for a daisy in his hair.",
+                "Opened a doorway on the moving sky ship with no destination in mind, which Carlkin calls a door to nowhere.",
+                "Says no one had given him Doorman rules, and that he would not have wanted the responsibility if he had known. Carlkin says the legends treat the role as Gerk's own choice; Gerk says Sylan agreed to it and knows how he is.",
+                "Claims he cannot write. Dana is sent for paper anyway.",
+                "Has been marking the floor and is proud of it. Carlkin wants it left for Mending.",
+                "Asks whether other people can open doors and whether Carlkin knows every doorman. He is told yes, others can, and then the list is dodged.",
+                "Plymouth was present when Gerk learned to open doors and did not teach the restrictions."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [
+                "Deflects grief and lectures with jokes, then admits he was never taught the limits of the power."
+            ],
+            "quotesThemes": [
+                "He opened the door with nowhere in mind."
+            ],
+            "openQuestions": [
+                "Is Gerk's mother dead, or was the crying only Carlkin's reading?",
+                "What happens to a keystone if the Doorman is pulled through a door to nowhere?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Hands Carlkin papers and explains events while Carlkin writes.",
+                "Says he investigated, decided Gerk was the Doorman, and told Gerk because Gerk would not have learned it soon on his own. They had not known whom to trust.",
+                "Offers to write Carlkin's Doorman rules down for Gerk.",
+                "Says Juten Prime did not talk much about Gerk's mother or the visions, and that Plymouth Gawater was present for that conversation.",
+                "Says the trees are living. When Carlkin asks if Sylan's mother is a tree, Sylan says it is complicated.",
+                "Asks whether using a keystone requires being a Doorman or a guardian."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is Sylan's mother a tree?"
+            ]
+        },
+        "Daisy": {
+            "existing": "A mysterious small girl linked to Gerk and unexplained white flowers, inconsistently visible and possibly able to stop time.",
+            "entityType": "NPC",
+            "notes": [
+                "Gerk describes her to Carlkin as a blonde girl with flowers and searches his own hair for a daisy.",
+                "Carlkin's immediate conclusion is that she is a hallucination."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorman": {
+            "existing": "Gerk's Doorman role and doorway ability.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Rule one: do not open a doorway on a moving thing. The doorway remains where it was opened and bends time and space from the opener's current position.",
+                "Rule two: do not open a door to an unknown place.",
+                "Opening with no destination opens onto nowhere: the nothing, the astral, or the gap between arches.",
+                "A portal opened on a moving ship can stay fixed, tear reality, or become a three-way connection.",
+                "Correct use is to picture one specific familiar door and open it as if by hand. Mastery and travel would allow freer use, but a keystone-bound Doorman should expect requests tied to that keystone.",
+                "Other people besides Gerk can open doors. Carlkin does not name them."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Must someone be a Doorman or a guardian to use a keystone?"
+            ]
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin states a doorway stays stationary at the place it is opened, including if that place was a moving ship, and reality bends around the opener's position.",
+                "An unfocused doorway can connect to the space between arches rather than a location."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mother's Prayer": {
+            "existing": "An ancient Navi sacred prophecy of catastrophe, a hero, and self-rewriting fate that currently describes Gerk and serves Atlas.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin calls it an interesting conundrum studied by multiple scholars.",
+                "He refuses to say who those scholars are and keeps part of what he knows in reserve.",
+                "He treats Gerk holding or being subject to the Mother's Prayer as part of why Gerk is the Doorman."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Which scholars study the Mother's Prayer, from Carlkin's point of view?"
+            ]
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas's Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Dana tells Carlkin that the party are all gatekeepers and that they hold the keystones.",
+                "Carlkin warns a keystone could have been lost with Gerk if the nowhere-door had taken him, and he does not know the result.",
+                "Keystones connect the worlds. Once all of them are placed in one gate or gatehouse, the gatekeepers are more or less obligated to remain dormant and protect that hub.",
+                "A Doorman changed by a keystone will likely be asked to open portals related to that stone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Does opening or using a keystone require a Doorman or a guardian?"
+            ]
+        },
+        "Gatekeeper": {
+            "existing": "The role of party members other than Gerk, each holding a keystone associated with an Arch realm and managing paths between realms.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin accepts that the present party are gatekeepers and treats that as a larger responsibility than opening doors casually.",
+                "He says that when the keystones are assembled in one gatehouse, the gatekeepers must largely stay there and keep the gate safe."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who explains the Great Eldarin Tree, keystones, and Mother's Prayer.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan says Plymouth was present when Juten Prime was told about Gerk's situation.",
+                "Carlkin agrees Plymouth was there when Gerk gained the doorway ability, and faults him for not teaching that a door to nowhere is a door to nowhere, or that it must not be opened on a boat."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Juten Prime": {
+            "existing": "An original keeper of the keystones whose ancient traditions yield when one of Mother's children appears.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan says she did not speak much about Gerk's mother or the related visions when the party told her, with Plymouth Gawater present."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Not present. Sylan tells Carlkin the dragon is away on a mission."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Not present. Sylan says the dragon is on a mission."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Ryot in Prime",
+            "likely": "Juten Prime",
+            "notes": "Carlkin asks whether she knew about Gerk's mother and the visions."
+        },
+        {
+            "heard": "Plymouth Gailwater",
+            "likely": "Plymouth Gawater",
+            "notes": "Sylan names who was present when they told Juten Prime."
+        },
+        {
+            "heard": "Mr Dorman",
+            "likely": "Doorman",
+            "notes": "Carlkin addressing Gerk."
+        },
+        {
+            "heard": "daughter man",
+            "likely": "Doorman",
+            "notes": "Same lecture: number one rule of being a Doorman."
+        },
+        {
+            "heard": "daughters",
+            "likely": "doorways",
+            "notes": "The doorways remain stationary wherever they are opened."
+        },
+        {
+            "heard": "skybo erger ship",
+            "likely": "sky ship",
+            "notes": "Carlkin realizing the doorway was opened aboard a moving vessel."
+        },
+        {
+            "heard": "Astrodrid",
+            "likely": "",
+            "notes": "Carlkin's name for the creature that nearly gave birth in the living room; he contrasts it with an abomination. Needs a canonical name."
+        },
+        {
+            "heard": "Mendine",
+            "likely": "Mending",
+            "notes": "The spell Carlkin says he will use on the floor."
+        },
+        {
+            "heard": "orphan silent",
+            "likely": "orphan, Sylan",
+            "notes": "Carlkin asking if the dead-mother point means Gerk is an orphan, directed at Sylan."
+        },
+        {
+            "heard": "had silent tell people",
+            "likely": "had Sylan tell people",
+            "notes": "Gerk saying he would not have had Sylan spread the Doorman news if he had known the responsibilities."
+        },
+        {
+            "heard": "Zion",
+            "likely": "Sylan",
+            "notes": "Carlkin: what do you mean Sylan agreed to it?"
+        },
+        {
+            "heard": "Povirsky",
+            "likely": "",
+            "notes": "Carlkin listing absent comrades after Gerk says Ord: one name, then the dragon and the rider. Needs a mapping."
+        },
+        {
+            "heard": "promiscuous one",
+            "likely": "",
+            "notes": "Sylan says this person is at the pub while the dragon is on a mission. May be a nickname rather than a mishear."
+        },
+        {
+            "heard": "Kirkin",
+            "likely": "Carlkin",
+            "notes": "Carlkin talking about himself expecting good visitors."
+        },
+        {
+            "heard": "Kajana",
+            "likely": "the china",
+            "notes": "Gerk says he does not care about it because the food is the good part, during the good-china joke."
+        },
+        {
+            "heard": "Atena",
+            "likely": "Dana",
+            "notes": "Carlkin asks Atena or Benji to fetch paper from under the crate."
+        },
+        {
+            "heard": "Rita",
+            "likely": "",
+            "notes": "Negative example of a vague destination: do not merely think of going to Rita. May be a place name or a garble."
+        },
+        {
+            "heard": "Burgers Front Door",
+            "likely": "",
+            "notes": "Carlkin's positive example, then clarified as the front door of the longhouse. Could be a real door or a garble of another landmark."
+        },
+        {
+            "heard": "30 keystones",
+            "likely": "the keystones",
+            "notes": "Carlkin says Gerk has changed himself to one of them and will be asked to open related portals."
+        },
+        {
+            "heard": "Actors are living",
+            "likely": "The trees are living",
+            "notes": "Sylan answering Gerk's question about whether trees are dead."
+        },
+        {
+            "heard": "Theresa",
+            "likely": "The trees",
+            "notes": "Carlkin: the trees are most certainly alive, then asks if Sylan's mother is a tree."
+        }
+    ],
+    "openQuestions": [
+        "What would have happened if Gerk had been pulled through the nowhere-door with a keystone?",
+        "Who are the scholars Carlkin says have studied the Mother's Prayer?",
+        "Is Sylan's mother a tree?",
+        "Does someone have to be a Doorman or a guardian to open or use a keystone?"
+    ],
+    "newTerms": [
+        {
+            "name": "Door to nowhere",
+            "notes": [
+                "A doorway opened with no destination. Carlkin equates it with the nothing, the astral, or the space between arches."
+            ]
+        },
+        {
+            "name": "Three-way portal",
+            "notes": [
+                "A failure mode Carlkin describes when portal magic is used on a moving object: the portal can stay fixed, reality can rip, and the opening can connect more than the intended two places."
+            ]
+        },
+        {
+            "name": "Assembled gatehouse dormancy",
+            "notes": [
+                "Carlkin's claim that once all keystones sit in one gate or gatehouse, the gatekeepers are obliged to remain there and keep the hub safe rather than travel freely."
+            ]
+        }
+    ]
+}

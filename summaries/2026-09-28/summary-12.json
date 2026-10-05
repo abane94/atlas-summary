@@ -1,0 +1,228 @@
+{
+    "plotSections": [
+        {
+            "title": "Vecna's field book",
+            "bullets": [
+                "Walker leaves a deal open but unmade: if he learns anything about Vecna's book and Vecna learns anything about the phylactery, they might trade. He apologizes for coming with nothing. Vecna says the visit was not a waste and that he enjoys the company.",
+                "Vecna waves a miniature of the Raskina from Walker's vision onto the table, a gift-shop field-notes copy about a foot square, detailed enough that the pages feel as if they would crinkle. The cover looks like black leather and is taken to be the skin of Vecna's long-dead sister. With it is a small bright-red quill and no inkwell. The quill is semi-warm.",
+                "Walker asks if there is a catch. Vecna says no: write in the book whenever Walker needs him, and he will answer. Walker shudders and takes the book and quill."
+            ]
+        },
+        {
+            "title": "The roost cave",
+            "bullets": [
+                "Elrus says nothing through the meeting. He keeps his sword at his belt and stares Vecna down. Walker then has him help search. Walker's Investigation is 11.",
+                "The cave matches Walker's vision and has two sides. The roost has no bedding, only a thin layer of dirt, weeds in the light from the entrance, fungi, and bat guano. The study is the other side, where Vecna sits at a square slab table that once held maps and now has only faint papery wisps. Walker cannot tell whether those scraps are aged paper or something skin-like.",
+                "The back wall, continuing into the roost, has rudimentary landscape carvings of local views Walker half-recognizes from the top of the training yard. They do not read as writing. Three chairs, each hewn from one piece of lighter stone, and old troop markers on the ground and table are the other contents. Nothing in the room is identified as the phylactery."
+            ]
+        },
+        {
+            "title": "The tilted views",
+            "bullets": [
+                "Elrus reads the carvings as four local landscapes, one for each cardinal direction, drawn as if from the old tower at the center of the stronghold. All of them are slightly tilted. He gives the mismatch as about ten degrees one way and about twenty-five degrees the other if the view were true north.",
+                "They are from the tower's point of view. Elrus thinks Grixto stood on that tower, committed the views to memory, and carved them later with the angles off. He cannot reconcile that with one vantage: it is as if Grixto had shifted location while still standing in the same spot. He says he is thoroughly confused.",
+                "Vecna is still seated and watching. The tower itself is already rubble, seen on the way in. Walker asks to be taken there."
+            ]
+        },
+        {
+            "title": "Leaving Vecna",
+            "bullets": [
+                "Elrus asks what to do about Vecna and whether Walker is about to make a deal. He calls the sister story morbid. Walker says to ignore him and that less contact is better, then on the way out nods and wishes him luck finding the sister-skin book.",
+                "Vecna wishes Walker luck in return and asks if there is a deal. Walker says not right now, and that he knows how to find him. Vecna tells him to write in the book when he is ready. Walker keeps the courtesy up in the room because he thinks showing fear would lose Vecna's respect, then drops it once he is out of sight."
+            ]
+        },
+        {
+            "title": "The guild ruins and Walker's theory",
+            "bullets": [
+                "Elrus leads them up the half-path. Glimmen backtracks and meets them on the plains, then they make a short jump to the cliffside ruins of the guild stronghold from Elrus and Grixto's past. It was an average stronghold, with larger footprints for housing dragons, a huge stable cut into the cliff and joined by a covered walkway that is now only scattered tiles and an overgrown footprint, and a central tower whose standing walls are about five or six feet high. The tower's footprint is about eighty feet across. Moss, grass, vines, bushes, and trees have taken the ruins.",
+                "Walker recalls Elrus's warning that if a dragon or its rider dies, the other most often goes mad. Elrus confirms that. Asked whether that madness would be enough to send someone after a book that could bring the other back, Elrus says yes: in that state, reason would not stop him.",
+                "Walker's theory, formed while Vecna was talking, is that Galixtar was already dead before Grixto became a lich, and that this is why he wanted lichdom. Elrus says the new magic might have kept her from presenting as undead, with Walker's vision coming years later, and that the idea is a real motivation. It would also explain Grixto's eagerness for the Al Kurin. He calls it more sensible than most theories he has heard, while still sounding unsure it would by itself drive a mind that far. Walker then turns back to the tilted mountains as the chunk ends."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker offers a future trade of book-knowledge for phylactery-knowledge and apologizes for having nothing now. Vecna says he enjoys the company.",
+        "Vecna conjures a miniature Raskina field book bound in what is taken to be his long-dead sister's skin, plus a warm red quill and no inkwell. Writing in it is how Walker can reach him. Walker takes both.",
+        "Elrus watches in silence with his sword ready. Walker searches with him on an Investigation of 11 and finds a bare roost, a slab-table study, papery scraps, three light stone chairs, troop markers, and four tilted landscape carvings. No phylactery.",
+        "Elrus reads the carvings as cardinal views from the old central tower, drawn from memory by Grixto and several degrees off. He cannot explain the tilt. The tower is rubble. Vecna is still watching.",
+        "Walker refuses a deal for now, tells the others to leave Vecna alone, wishes him luck finding the sister-skin book, and walks out.",
+        "Elrus leads Walker up to the ruined guild stronghold. Glimmen meets them on the plains.",
+        "Elrus confirms that madness is the usual result when a dragon or rider dies, and that a mad survivor might seek a book to bring the other back.",
+        "Walker proposes that Galixtar died before Grixto became a lich. Elrus treats that as a plausible motive and a reason for Grixto to want the Al Kurin. Walker starts in on the tilted mountains."
+    ],
+    "entities": {
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery and pursues hidden knowledge.",
+            "entityType": "NPC",
+            "notes": [
+                "He gives Walker a miniature of the Raskina from Walker's vision: a field-notes book whose cover is taken to be his long-dead sister's skin, and a bright red quill with no inkwell.",
+                "Writing in the book is enough for him to answer. He names no other catch.",
+                "He stays seated on the cave's slab table and watches the search. When Walker leaves, he asks whether there is a deal and says to write when Walker is ready.",
+                "He returns Walker's parting luck."
+            ],
+            "titles": [],
+            "personality": [
+                "He enjoys the company even when Walker has nothing to trade, and he leaves the bargain open rather than forcing it."
+            ],
+            "quotesThemes": [
+                "Write in the book and he will respond.",
+                "Whenever Walker is ready, let him know with the book."
+            ],
+            "openQuestions": [
+                "Whether Walker will make a deal with him."
+            ]
+        },
+        "Raskina": {
+            "existing": "Vecna's tome from Walker's vision, associated with his sister.",
+            "entityType": "ITEM",
+            "notes": [
+                "The object on the table is a miniature field-notes copy, about a foot by a foot, not the full tome. The pages feel as if they would crinkle. The cover looks like black leather and is taken to be his long-dead sister's skin.",
+                "A separate small bright-red quill comes with it. There is no inkwell. The quill is semi-warm.",
+                "Its stated function in this meeting is two-way contact: Walker writes, and Vecna answers. Walker takes it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "He does not speak while Walker talks with Vecna. He stands with his sword at his belt and stares Vecna down, then keeps a side eye on him while leaving.",
+                "He identifies the four carvings as cardinal views of the local mountains from the old tower at the center of the stronghold, all slightly tilted, and attributes them to Grixto carving from a faulty memory. He cannot make the angles fit one vantage.",
+                "He does not want Walker to deal with Vecna and calls the sister story morbid. He leads Walker out of the cave to the ruined guild stronghold of his and Grixto's past.",
+                "He confirms that if a dragon or its rider dies, madness is the most common outcome for the survivor, and that in that state he himself would seek a book to bring the other back.",
+                "He treats Walker's theory, that Galixtar died before Grixto became a lich, as a real motivation and as an explanation for Grixto's eagerness for the Al Kurin. He says it makes more sense than most theories he has heard."
+            ],
+            "titles": [],
+            "personality": [
+                "Wary of Vecna and unwilling to bargain with him, but willing to follow Walker's read of the room."
+            ],
+            "quotesThemes": [
+                "Madness is the most common outcome when a dragon or rider loses the other.",
+                "If he were mad enough, reason would not stop him from seeking that book."
+            ],
+            "openQuestions": [
+                "Why the four tower views are tilted if Grixto carved them from a single spot on the tower."
+            ]
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "His old roost cave has a bare dirt roost used by bats and a study with a slab table, three stone chairs, troop markers, and faint papery scraps. The search does not find a phylactery.",
+                "Four landscape carvings in that cave are read as his work: cardinal views from the old central tower of the guild stronghold, remembered and then carved slightly wrong.",
+                "The guild stronghold he shared with Elrus is now ruined. Its central tower is rubble, with a footprint of about eighty feet across, dragon housing, and a cliffside stable.",
+                "Walker's current theory is that Galixtar was dead before Grixto became a lich, and that restoring her is why he chose lichdom. Elrus says that would also explain his eagerness for the Al Kurin, and that early magic might have kept her from looking undead in a later vision."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Galixtar": {
+            "existing": "A dragon associated with Grixto and hunted by the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker theorizes she was already dead before Grixto became a lich.",
+                "Elrus suggests the magic may have been new enough that she did not present as undead, and that the vision Walker has is from years later."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He postpones any deal with Vecna and takes the miniature Raskina and red quill as a way to write to him later.",
+                "His Investigation of 11 maps the roost cave and turns up the tilted carvings rather than a phylactery. He has Elrus take him to the ruined tower because he has an idea about those carvings.",
+                "He thinks Vecna responds better to a little insolence than to open fear. He wishes Vecna luck finding the sister-skin book, then admits he was scared once he is out of sight.",
+                "His working theory is that Galixtar died first and that Grixto became a lich to get her back, which is also why Grixto wants the Al Kurin."
+            ],
+            "titles": [],
+            "personality": [
+                "He will be polite to Vecna in the room and drop the act as soon as he is clear of him."
+            ],
+            "quotesThemes": [
+                "Less contact with Vecna is better.",
+                "Galixtar was dead before Grixto became a lich."
+            ],
+            "openQuestions": []
+        },
+        "Al Kurin": {
+            "existing": "Vessels containing the souls of dragons.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Elrus says Walker's theory, that Grixto became a lich after Galixtar's death, would explain his eagerness to get his hands on the Al Kurin."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul. The party is hunting Grixto's.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker is still searching this cave for it and offers Vecna a later information trade about it. The Investigation does not identify it among the table scraps, carvings, chairs, or troop markers."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Raskina",
+            "likely": "",
+            "notes": "Name Vecna and the DM use for the tome from Walker's vision. The miniature field book is called a copy of it."
+        },
+        {
+            "heard": "Rayadin",
+            "likely": "",
+            "notes": "Walker asks if madness would drive someone to seek a book that would 'Rayadin' the lost dragon or rider. Context is bringing the dead partner back. Confirm whether this is a rite, a spell, or a mishearing of 'raise her' or similar."
+        },
+        {
+            "heard": "lookbook",
+            "likely": "",
+            "notes": "Vecna tells Walker to write a letter in his 'lookbook' when he is ready. Likely the field book just handed over."
+        },
+        {
+            "heard": "writer's reign",
+            "likely": "",
+            "notes": "The rest of that same line: write in the book and it will be a 'writer's reign.' Possibly a garbled promise that Vecna will write back."
+        },
+        {
+            "heard": "lead a mine",
+            "likely": "lead a mind",
+            "notes": "Elrus on Walker's lichdom theory: 'That wouldn't lead a mine, I wouldn't say,' just before he credits it as a motive for the Al Kurin."
+        },
+        {
+            "heard": "troop markers",
+            "likely": "",
+            "notes": "Old markers scattered on the cave floor and still sitting on the slab table. Confirm whether these are map counters or another object."
+        }
+    ],
+    "openQuestions": [
+        "Will Walker make a deal with Vecna, or only use the book to write to him later?",
+        "Why are the four cardinal carvings tilted if they were drawn from one spot on the old tower?"
+    ],
+    "newTerms": [
+        {
+            "name": "Guild stronghold ruins",
+            "notes": [
+                "Ruins of the dragon-rider guild stronghold from Elrus and Grixto's past, on the cliff above the roost cave. Average stronghold scale, with dragon housing, a cliffside stable joined by a fallen covered walkway, and a central tower now rubble about eighty feet across. The cave carvings copy the view from that tower, which Walker also knows from the training yard."
+            ]
+        },
+        {
+            "name": "Dragon-rider madness",
+            "notes": [
+                "Elrus confirms that if a dragon or its rider dies, madness is the most common outcome for the one who remains, enough that the survivor might seek a book to bring the other back."
+            ]
+        }
+    ]
+}

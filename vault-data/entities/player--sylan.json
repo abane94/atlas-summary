@@ -114,6 +114,20 @@
         "Adjacent to the wall of eyes, he uses Indomitable and succeeds on a Wisdom save of 25. He reads Ord's babble about sea breezes and \"my strength\" as Ord voicing what he has lost. He asks Gerk to close the door and says Gerk has to be the one to end it, remembering he could not work Gerk's door on the boat.",
         "He casts Beacon of Hope on friendly creatures in range, giving advantage on Wisdom saves and death saving throws, and moves to the side of the door in case something tries to come through."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Sylan briefs Carlkin immediately with paper and pen: the door is gone, and he explains the keystones and the prophecy. He frames the rest of the party as along for the ride, says the prophecy makes Gerk the important one, and recounts deciding on his own that Gerk was the Doorman and telling him because the party had not known whom to trust. He confirms four keystones are in the lighthouse, that keystone portals have failed, and that only Gerk can open a door. He asks Carlkin to write the Doorman rules down, says he will work on getting Gerk to use them, and asks whether a keystone needs a Doorman or a guardian. Juten Prime said little about Gerk’s mother or the visions, with Plymouth Gawater present; asked if his own mother is a tree, Sylan says it is complicated, that the trees are living, and that he hopes to bring his sister home. He lays out the lich hunt: Grixto, Emperor of Nyx and former Emperor of the Hobgoblins, took his homeland and Nyx. He describes one killing, the return, and phylactery clues—a small mundane item kept on Grixto, hinted by chess and game pieces, missed when they looted him. The lich crumbled to dust; Galixtar is his red dragon; Walker wears Grixto’s helmet. Sylan shows a necklace and says the masking item is simple. Grixto has a powerful spellbook, which Dana names the Book of Vecna. Told they would find him, Grixto had been pleased to be left alone. The dragon is away on a mission, another companion is at the pub, and Ord looks peaked after the attack.",
+      "notes": [
+        "Goes upstairs with Carlkin's paper and pen, tells him the door is gone, and explains the keystones and the prophecy. He would rather brief Carlkin now than book a later appointment.",
+        "Frames the rest of the party as along for the ride and says the prophecy makes Gerk the important one. He investigated on his own, decided Gerk was the Doorman, and told him, because he did not think Gerk would learn it soon. The party had not known whom to trust.",
+        "Confirms four keystones are in the lighthouse. He says the party has tried keystone portals and failed, and that only Gerk can open a door. He asks Carlkin to write the Doorman rules down and says he will work on getting Gerk to use them. He also asks whether using a keystone requires a Doorman or a guardian.",
+        "Says Juten Prime said little about Gerk's mother or the visions, and that Plymouth Gawater was present for that conversation. Asked whether his own mother is a tree, he says it is complicated. He says the trees are living. He hopes to bring his sister home and thinks something good may come of that.",
+        "Lays out the lich hunt: Grixto is the Emperor of Nyx and the former Emperor of the Hobgoblins, and he took Sylan's homeland and Nyx. Sylan describes one killing, the return, and the phylactery clues. He believes the phylactery is a small mundane item kept on Grixto, with chess and game pieces as the clue, and that they looted him at least once without finding it.",
+        "Says the lich crumbled to dust, names Galixtar as his red dragon, and says Walker wears Grixto's helmet as a style choice that should be checked when Walker is back. When asked whether the masking item is simple, Sylan shows a necklace, rubs his neck, and says he believes it is simple.",
+        "Says Grixto has an extremely powerful spellbook, which Dana names as the Book of Vecna. When Grixto asked about a better path, Sylan said the party was still looking and would find him. Grixto had been pleased they had left him alone for a while.",
+        "Tells Carlkin the dragon is away on a mission and that another companion is at the pub, accounting for who is not in the lighthouse. He says Ord looks peaked after the attack and may need to sit down."
+      ]
     }
   ],
   "openQuestions": [
@@ -123,7 +137,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:02:08.336Z",
-  "updatedAt": "2026-09-22T19:50:00.186Z",
+  "updatedAt": "2026-09-29T18:25:11.462Z",
   "normalizedAliases": [
     "sylan"
   ]

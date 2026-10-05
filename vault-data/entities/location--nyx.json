@@ -1,6 +1,8 @@
 {
   "name": "Nyx",
-  "tags": [],
+  "tags": [
+    "realm"
+  ],
   "slug": "Nyx may hold hobgoblins who know where the lich is hiding.",
   "aliases": [],
   "normalizedAliases": [
@@ -24,10 +26,18 @@
       "notes": [
         "Sylan does not want to go, but he believes the party has to return to Nyx if Carlkin, Benji, and the other leads produce nothing."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Nyx’s emperor was Grixto, the same lich who had been Emperor of the Hobgoblins. He also seized Sylan’s homeland by underhanded means before the party brought him down. Carlkin remembers the war ending in a liberation, some hobgoblins changing sides, and a civil war afterward; he already knew that much and considers the regime’s fall a good outcome. Before the fights the party remembers, Grixto had captured the Council of Nyx.",
+      "notes": [
+        "Its emperor was Grixto, the same lich who had been Emperor of the Hobgoblins. He also seized Sylan's homeland, by underhanded means, before the party brought him down.",
+        "Carlkin remembers the war ending in a liberation, some hobgoblins changing sides, and a civil war afterward. He already knew that much and considers the regime's fall a good outcome. Before the fights the party remembers, Grixto had captured the Council of Nyx."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T17:59:08.827Z",
-  "updatedAt": "2026-09-22T19:53:12.088Z"
+  "updatedAt": "2026-09-29T18:39:52.645Z"
 }

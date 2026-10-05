@@ -1,0 +1,310 @@
+{
+    "plotSections": [
+        {
+            "title": "Who they are talking to",
+            "bullets": [
+                "Gerk checks that they have the right person. The DM distinguishes this speaker from Grixto: Grixto is the lich, and he and Galixtar are together. The DM guesses Galixtar is an aberration, a possessed spirit tied to a piece.",
+                "The party is in the room with Vecna, who sits in a chair and watches while Walker searches for clues, including under the chair."
+            ]
+        },
+        {
+            "title": "The proposed trade",
+            "bullets": [
+                "Walker is after a phylactery and does not know what it is. Vecna wants a book he wrote, which the lich allegedly has. Walker remembers this as the vision from Emhet; Vecna says that vision showed a very young, adolescent upstart lich fresh from his change, and that the book was clearly visible, including its name and appearance.",
+                "Walker floats a mutual trade if each later holds what the other wants. Vecna is willing to help on a scratch-my-back basis and can arrange to contact Walker if he finds the phylactery's location or the object itself. He argues the bargain is one-sided because he would owe both the phylactery's identity and its location, while Walker would only return a book Walker has already seen.",
+                "Vecna offers a hypothetical: he could name the Raskina as the phylactery and call his side fulfilled, but Walker would then have to procure the Raskina. Walker says that if the Raskina is the phylactery he will destroy it, which would void the bargain.",
+                "Dana rejects the trade. Walker does not close the deal; he says he will think it over while he keeps looking for clues.",
+                "Someone who has overheard, voiced by the DM, warns Walker that dealing with a demigod of the undead seems unwise. They say Vecna may be why their order fell, if his book led to that, and ask whether the party should seek whatever darkness is in the book no matter what Vecna could give them. Walker calls that a fair point, then questions Vecna outside the deal."
+            ]
+        },
+        {
+            "title": "Vecna's account of himself and the book",
+            "bullets": [
+                "Asked why he wants the book, Vecna calls it his book because he wrote it. It has legacy and story, and like him it requires grandeur.",
+                "He says he was not originally a god and is denoted a demigod rather than a full god, treating the difference as semantics and a matter of followers. Unlike the voyager gods, he was born in Atlas, not in this room or this plane, and he has an interest in keeping Atlas as it should be.",
+                "He says the voyager gods did not originate in Atlas. They came from other pantheons, brought in by other creatures like vermin on ships. He says he is not an elder, and the chunk ends as he sets that aside."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk confirms they are speaking to the intended person. The DM says this is not Grixto: Grixto is the lich and is paired with Galixtar, whom the DM guesses is an aberration, a possessed spirit tied to a piece.",
+        "Walker proposes they can help each other: he wants the lich's phylactery, and Vecna wants a book the lich allegedly has.",
+        "Vecna treats it as a location swap. Walker restates it as a later trade if each comes to possess what the other wants. Dana says she does not think so.",
+        "Vecna asks whether Walker knows what the phylactery is. Walker says no. Vecna calls that unfortunate and says the deal is one-sided unless he gets more than the book.",
+        "Walker says it is bold to assume he knows what the book looks like; he only has suspicions. Vecna says Walker saw it in the vision from Emhet: a young adolescent lich, a sprite-like upstart fresh from his change, with the book clearly visible.",
+        "Walker asks for a way to contact Vecna, such as a messenger or a sending. Vecna agrees to make an arrangement and to send word if he finds the phylactery's location or the object.",
+        "Vecna hypothesizes that the Raskina could be named as the phylactery to satisfy his side of the bargain, which would then require Walker to procure it. Walker says that if the Raskina is the phylactery he must destroy it, voiding the deal.",
+        "Walker postpones the deal and searches the room for clues. Vecna remains seated and observing. Walker asks him to move so he can look under the chair.",
+        "A DM-voiced listener who overheard warns that a deal with a demigod of the undead seems unwise, because Vecna's book may be why their order fell, and questions whether that book should be found at all. Walker agrees it is a fair point.",
+        "Walker tells Vecna the next questions are not part of the deal and asks why Vecna wants the book. Vecna says he wrote it, that it carries legacy and story, and that it requires grandeur.",
+        "Vecna says he is a demigod born in Atlas, not an elder and not one of the voyager gods who were brought from other pantheons, and that he is invested in Atlas remaining as it should be."
+    ],
+    "entities": {
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery and pursues hidden knowledge.",
+            "entityType": "NPC",
+            "notes": [
+                "Present in the room, seated and observing, while Walker searches for clues.",
+                "Wants the return of a book he wrote, which the lich allegedly has. He calls it his book and says it has legacy, story, and a need for grandeur.",
+                "Willing to help Walker in exchange, and can arrange to contact him if Vecna finds the phylactery's location or the object.",
+                "Argues a fair bargain is more than the book, because he would be supplying both what the phylactery is and where it is.",
+                "Hypothetically offers that the Raskina could be identified as the phylactery, which would then obligate Walker to procure it.",
+                "Says he was not originally a god. He is denoted a demigod, which he treats as semantics tied to not having enough followers, and he says he is not an elder.",
+                "Says he was born in Atlas, unlike voyager gods who came from other pantheons, and that he has an interest in keeping everything in Atlas as it should be.",
+                "Described in the scene as a demigod of the undead."
+            ],
+            "titles": [
+                "Demigod",
+                "Demigod of the undead"
+            ],
+            "personality": [
+                "Bargains in terms of equivalent exchange and mutual back-scratching, and pushes for the heavier share when he believes he is giving more information than he receives.",
+                "Speaks of his book and himself as requiring grandeur."
+            ],
+            "quotesThemes": [
+                "Help those who scratch the back of those who scratch the back of me.",
+                "I myself was not originally a god.",
+                "I am denoted as a demigod.",
+                "I was technically born here, in Atlas.",
+                "I have an invested interest in making sure everything in Atlas is as it should be."
+            ],
+            "openQuestions": [
+                "Will Vecna and Walker actually bind the exchange, given Walker has not accepted and would destroy the phylactery if it is the Raskina?",
+                "What contact arrangement will Vecna actually use?"
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Does not know what the phylactery is.",
+                "Proposes a trade of the lich's book for the phylactery if each comes to hold the other's prize, then leaves the deal unaccepted while he keeps searching the room.",
+                "Vecna says Walker saw the book in Emhet's vision. Walker does not remember at first, then recalls the vision from Emhet.",
+                "Says that if the Raskina is the phylactery he will destroy it, even if that voids a bargain with Vecna.",
+                "Agrees it is a fair concern that the darkness in Vecna's book may not be worth recovering."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "If the Raskina is actually the phylactery, I will have to destroy it."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Rejects Walker's proposed trade with Vecna."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Confirmed as the lich, and described as being together with Galixtar.",
+                "Allegedly holds the book Vecna wants.",
+                "In Emhet's vision he appeared as a young, adolescent upstart lich, fresh from his change."
+            ],
+            "titles": [
+                "The lich"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Galixtar": {
+            "existing": "A dragon associated with Grixto and being hunted by the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Named alongside Grixto as being together with him.",
+                "The DM guesses she is an aberration, a possessed spirit tied to a piece, rather than stating it as fact."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is Galixtar an aberration or a possessed spirit tied to a piece?"
+            ]
+        },
+        "Emhet": {
+            "existing": "A deity at the gods' council who knows the party's role safeguarding the keys.",
+            "entityType": "NPC",
+            "notes": [
+                "Gave a vision, recalled by Walker and described by Vecna, of a very young lich fresh from his change with Vecna's book clearly visible."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker is searching for the lich's phylactery and does not know what it is.",
+                "Vecna hypothesizes, without asserting it, that the Raskina could be the phylactery.",
+                "Walker says he will destroy it if the Raskina is the phylactery."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the Raskina the phylactery?"
+            ]
+        },
+        "Vecna's book": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Written by Vecna, who calls it his book. He says it has legacy, story, and requires grandeur.",
+                "Allegedly in the lich's possession.",
+                "Shown clearly in Emhet's vision of the young lich, including its look and name, according to Vecna.",
+                "A DM-voiced listener says this book may be why their order fell, and that it holds some darkness the party may not want to recover."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the book's name?",
+                "Did Vecna's book cause an order to fall, and which order?"
+            ]
+        },
+        "Raskina": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Named by Vecna only as a hypothetical identity of the phylactery. He says identifying it as such could satisfy his side of the bargain and would then require Walker to procure it.",
+                "Walker says that if it is the phylactery he will destroy it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the Raskina the phylactery, or a different object?"
+            ]
+        },
+        "Atlas": {
+            "existing": "The world of arches and realms connected by the keystone system.",
+            "entityType": "Location",
+            "notes": [
+                "Vecna says he was born in Atlas and is invested in keeping Atlas as it should be.",
+                "He contrasts himself with voyager gods who did not originate in Atlas and were brought from other pantheons."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Named as the lich, distinct from the person in the room."
+        },
+        {
+            "heard": "Golixtar",
+            "likely": "Galixtar",
+            "notes": "Walker says Grixto and Galixtar are together."
+        },
+        {
+            "heard": "abdoration",
+            "likely": "aberration",
+            "notes": "DM's guess about Galixtar."
+        },
+        {
+            "heard": "Sedlich",
+            "likely": "said lich",
+            "notes": "The one who allegedly has Vecna's book."
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": "Vecna's side of the proposed exchange."
+        },
+        {
+            "heard": "phylactra",
+            "likely": "phylactery",
+            "notes": ""
+        },
+        {
+            "heard": "phlactory",
+            "likely": "phylactery",
+            "notes": ""
+        },
+        {
+            "heard": "phylachery",
+            "likely": "phylactery",
+            "notes": "Vecna asks if Walker knows what it is."
+        },
+        {
+            "heard": "ratskin",
+            "likely": "Raskina",
+            "notes": "Walker doubts he knows what the book looks like; same name later used for the hypothesized phylactery."
+        },
+        {
+            "heard": "Raskina",
+            "likely": "Raskina",
+            "notes": "Vecna's hypothetical name for the phylactery. Confirm spelling."
+        },
+        {
+            "heard": "Redskina",
+            "likely": "Raskina",
+            "notes": "Walker's hearing of the same hypothesized phylactery."
+        },
+        {
+            "heard": "Ahmed",
+            "likely": "Emhet",
+            "notes": "Walker identifies the vision as the one from Emhet."
+        },
+        {
+            "heard": "Fecna",
+            "likely": "Vecna",
+            "notes": "Vecna refers to himself as old Vecna."
+        },
+        {
+            "heard": "Bagna",
+            "likely": "Vecna",
+            "notes": "The figure sitting in the chair."
+        },
+        {
+            "heard": "upsot",
+            "likely": "upstart",
+            "notes": "The young lich in Emhet's vision."
+        },
+        {
+            "heard": "voyager god",
+            "likely": "",
+            "notes": "Repeated as voyager gods who came from other pantheons. May be a real coined term or a mishearing of another rank."
+        }
+    ],
+    "openQuestions": [
+        "Is the Raskina the phylactery?",
+        "Will Walker accept an exchange with Vecna if fulfilling it would stop him from destroying the phylactery?",
+        "What is the name of the book Vecna wrote, and did it cause an order to fall?"
+    ],
+    "newTerms": [
+        {
+            "name": "Raskina",
+            "notes": [
+                "Object Vecna hypothetically names as the phylactery. Also heard as Redskina and ratskin. Walker says he would destroy it if it is the phylactery."
+            ]
+        },
+        {
+            "name": "Vecna's book",
+            "notes": [
+                "Book Vecna wrote and wants back from the lich. Visible in Emhet's vision of the young lich. A listener fears its darkness may have brought down their order."
+            ]
+        },
+        {
+            "name": "Voyager gods",
+            "notes": [
+                "Vecna's term for gods who did not originate in Atlas and were brought from other pantheons like vermin on ships. He contrasts them with himself, a demigod born in Atlas. The phrase may be misheard."
+            ]
+        }
+    ]
+}

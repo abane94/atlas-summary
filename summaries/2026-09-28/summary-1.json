@@ -1,0 +1,374 @@
+{
+    "plotSections": [
+        {
+            "title": "Aftermath in Carlkin's lighthouse",
+            "bullets": [
+                "The loud fight with the alien creature woke Benji. He is up from a pile of old memorabilia, propped on a crate, watching, and smoking a copper corncob pipe packed with a grass-like herb and a drop of oil. The smoke smells half sulfur and half earthy, like a coal boiler.",
+                "Everyone is in the lighthouse base, a room about forty feet across. Dana is farthest from the others. Carlkin ran upstairs and will not come back down; he only leans down the stairs to talk.",
+                "Gerk tries to smooth the broken cobbles and rolls poorly. The floor still looks wrecked, with the hole he made through it. Carlkin tells him to leave it and says he will fix it later with Mending.",
+                "Sylan checks the doorway. Once it was shut, it vanished. There is no remaining portal, only the broken floor."
+            ]
+        },
+        {
+            "title": "Carlkin learns about the keystones and the prophecy",
+            "bullets": [
+                "Sylan tells Carlkin the door is closed and that it is safe downstairs. Carlkin, still upstairs, answers that they nearly opened another part of hell and demands his paper and good pen so he can write a lighthouse rule while it is fresh: no portals on the premises. He does not want Gerk near the pen.",
+                "The writing set is a well-used, high-end quill and ink Carlkin would have imported rather than bought locally.",
+                "Sylan explains that the party finished bringing the keystones to Juten Prime, then an ancient prophecy made them more important, and that Gerk can now open doors the way he just did, though they still do not really know how. Carlkin is angry they did this in his home minutes after arriving.",
+                "Carlkin asks whether the prophecy is about Gerk. Sylan says it seems so: the others are along for the ride, but Gerk is the important one.",
+                "Sylan confirms there are four keystones here, and Dana tells Carlkin they are all gatekeepers now. Carlkin treats that as a larger responsibility handed down by deities or equivalents. He asks after the missing companions; Sylan says the dragon is on a mission and that another of them is at the pub."
+            ]
+        },
+        {
+            "title": "Gerk's mother, Daisy, and the doorman rules",
+            "bullets": [
+                "Carlkin asks Gerk if his mother is dead. Gerk starts crying, and Carlkin takes that as a yes. Sylan calls it a soft subject and agrees that this is an orphan's situation. Carlkin says this is the first he has heard of it.",
+                "Carlkin says Gerk is probably seeing things. Gerk answers with the blonde girl with the flowers and looks for the daisy in his hair. Carlkin calls that a hallucination.",
+                "Asked whether Juten Prime knew, Sylan says she did not talk much about it. Plymouth Gawater was there when they told her. Carlkin claims he finally has something on them.",
+                "Carlkin gives Gerk rules. Do not open doors on moving things: the door stays where it was opened and bends time and space from wherever the opener is now. He is alarmed Gerk already did this on the ship during the flight. Second, do not open a door to a place you do not know, or the result can be misread. Sylan asks for the rules in writing; Carlkin doubts Gerk will read them, and Sylan says he will work on it.",
+                "Gerk says he opened the lighthouse door with nowhere in mind. Carlkin says a door to nowhere opens into the nothing, or the astral sea: a door between arches. The creature almost used his living room as a birthing place. He calls it probably some kind of astral creature rather than simply an abomination. Gerk is glad it does not live here."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The fight's noise wakes Benji in the lighthouse base. Carlkin is already upstairs.",
+        "Gerk fails to repair the cobbled floor and the hole through it. Carlkin tells him to stop.",
+        "Sylan confirms the shut door has disappeared, leaving only the broken floor, and calls up that it should be safe.",
+        "Carlkin demands his paper and good pen and starts a house rule against portals inside the lighthouse.",
+        "Sylan brings him the quill and ink and explains the recovered keystones, the completed delivery to Juten Prime, and the prophecy centered on Gerk.",
+        "Benji packs and lights a copper corncob pipe while watching from a crate. Carlkin takes the pages, then leans down the stairs.",
+        "Carlkin asks if Gerk's mother is dead. Gerk cries, and they treat him as an orphan. Gerk brings up the blonde girl with flowers and searches his hair for a daisy; Carlkin calls it a hallucination.",
+        "Sylan says Juten Prime barely discussed it and that Plymouth Gawater was present when they explained it. Carlkin claims he now has an edge on them.",
+        "Carlkin states the doorman rules about moving vessels and unknown destinations, including that Gerk's ship doorway stayed fixed while the ship moved.",
+        "Sylan confirms four keystones are here. Dana says they are all gatekeepers. Sylan accounts for the dragon being on a mission and another companion being at the pub.",
+        "Gerk says he aimed the door at nowhere. Carlkin identifies that as a door between arches, into the nothing or the astral sea, and says the creature nearly used the room to be born.",
+        "Carlkin again tells Gerk to leave the floor; he will mend it later, and asks what they actually came to do."
+    ],
+    "entities": {
+        "Carlkin": {
+            "existing": "Turtle-like ally whose lighthouse and bookshop are in New Navel.",
+            "entityType": "NPC",
+            "notes": [
+                "He fled upstairs during the fight and refuses to come back down, speaking by leaning over the stairs.",
+                "He is writing a lighthouse rule forbidding portals on the premises and wants it down while it is fresh. His good pen is not to be given to Gerk.",
+                "His quill and ink are well used and high-end, imported rather than bought locally.",
+                "He thought the party was only collecting keystones to deliver to Juten Prime. He did not know they had finished that task, received a prophecy, or become more important.",
+                "He concludes the prophecy is about Gerk after Sylan says so, and he is furious the new power was used in his house.",
+                "He takes Gerk's tears as confirmation that Gerk's mother is dead and that Gerk is an orphan. He says this is the first he has heard of it.",
+                "He treats the blonde girl with flowers as a hallucination.",
+                "He believes he finally knows something Plymouth Gawater and Juten Prime did not fully give the party.",
+                "He knows doorman practice well enough to state rules: doors opened on something moving stay fixed and warp space from the opener's new position, and a door with no chosen destination opens between arches.",
+                "He will repair the cobbles later with Mending. He asks what else the party came for."
+            ],
+            "titles": [],
+            "personality": [
+                "Anxious about portals in his home, sharp with Gerk, and competitive about knowing the prophecy before the people who briefed the party."
+            ],
+            "quotesThemes": [
+                "No portals inside the premises.",
+                "Do not open doors on moving things; they stay where they were opened and bend time and space.",
+                "Do not open doors to places you do not know."
+            ],
+            "openQuestions": [
+                "What the party came to the lighthouse to do besides explain themselves."
+            ]
+        },
+        "Benji": {
+            "existing": "Someone familiar with The Reach who may also be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "He had been lying in a pile of old memorabilia at the base of Carlkin's lighthouse, with part of a burlap sack nearby, and the fight woke him.",
+                "He sits up on a crate and watches while smoking a copper corncob pipe. He packs it with a grass-like material that is not tobacco, adds a drop from a small oil dripper, and lights it. The smoke is dark like a coal boiler and smells half of sulfur and half earthy."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and the one the Mother's Prayer currently describes.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He tries and fails to level the lighthouse cobbles after the door breaks them, then keeps admiring the damage until Carlkin orders him off it.",
+                "Sylan tells Carlkin the prophecy makes Gerk the important one, and that Gerk opened doors twice today, including once with no destination in mind.",
+                "Asked if his mother is dead, he starts crying. Carlkin and Sylan treat him as an orphan. He says people never asked.",
+                "He identifies what he has been seeing as a blonde girl with flowers and looks for a daisy in his hair.",
+                "He already opened a door aboard the moving ship. Carlkin's rule is that such a door stays where it was opened.",
+                "He accepts that the lighthouse door went between arches and is relieved the creature does not live here."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "Blonde girl with the flowers."
+            ],
+            "openQuestions": [
+                "Whether the blonde girl with flowers is a hallucination, as Carlkin says."
+            ]
+        },
+        "Daisy": {
+            "existing": "A mysterious small girl linked to Gerk and unexplained white flowers.",
+            "entityType": "NPC",
+            "notes": [
+                "Gerk describes her to Carlkin as a blonde girl with flowers and looks for a daisy in his own hair.",
+                "Carlkin, connecting this to Gerk's dead mother, says it sounds like a hallucination."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether she is a hallucination."
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He is the one who goes upstairs with Carlkin's paper and pen, tells him the door is gone, and explains the keystones and the prophecy.",
+                "He confirms four keystones are in the lighthouse and says the dragon is on a mission while another companion is at the pub.",
+                "He says Juten Prime did not say much about Gerk's mother or what Gerk sees, and that Plymouth Gawater was present for that conversation.",
+                "He asks Carlkin to write the doorman rules down and says he will work on getting Gerk to use them."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She stays where she was, farthest across the lighthouse room.",
+                "She tells Carlkin directly that they are all gatekeepers now and agrees that the aimless door matches a door to nowhere."
+            ],
+            "titles": [
+                "Gatekeeper"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations, opened by Gerk.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Shutting this doorway ends it completely. It left no visible door and no lasting effect except the smashed cobbles and the hole in the lighthouse floor.",
+                "Carlkin's rule: a door opened aboard something moving stays where it was opened and bends time and space as the opener moves. Gerk already did this on the ship.",
+                "Opening a door with nowhere in mind opens into the nothing or the astral sea, a gap between arches, and can be mistaken for a chosen destination. That is what happened in the lighthouse.",
+                "Carlkin's second rule is not to open doors to unknown places."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorman": {
+            "existing": "Gerk's role and doorway ability.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin treats doorman practice as having rules worth writing down.",
+                "Rule he gives first: do not open doors on moving things, because the door remains stationary and warps space from the traveler's new position.",
+                "Rule he gives second: do not open doors to unknown places, or the opening can be misinterpreted. An unspecified destination is between arches."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abyssal eye-beast": {
+            "existing": "The oily tentacled, many-eyed creature the party just fought through the lighthouse door.",
+            "entityType": "OTHER",
+            "otherEntityType": "Creature",
+            "notes": [
+                "The fight was loud enough to wake Benji, and Carlkin still describes the place beyond the door as hell or nearly hell.",
+                "With the door closed, it is gone from the lighthouse.",
+                "Carlkin says it almost used his living room as a birthing place.",
+                "He thinks an aimless door reaches between arches, and that this creature was probably some kind of astral being rather than simply an abomination."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin's lighthouse": {
+            "existing": "Carlkin's home and bookshop in New Navel, where an abyss door opened into the recent fight.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The ground room is about forty feet across and has a cobbled floor, now broken open where the door was.",
+                "Carlkin is adding a standing rule: no portals inside the premises.",
+                "He plans to repair the floor with Mending."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas's Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan tells Carlkin the delivery to Juten Prime is finished and that the keystones are back in the party's care.",
+                "Four keystones are present in the lighthouse. Dana states that the party are all gatekeepers now, and Carlkin accepts that the people there have them."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Juten Prime": {
+            "existing": "An original keystone keeper whose traditions yield to one of Mother's children.",
+            "entityType": "NPC",
+            "notes": [
+                "Carlkin still believed the party's job was to bring the keystones to her.",
+                "Sylan says that task was completed, and that she did not talk much about Gerk's mother or the things Gerk sees."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer who explained the Eldarin Tree, the keystones, and the Mother's Prayer.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan says she was present when the party told her about Gerk's situation, unlike Juten Prime, who said little.",
+                "Carlkin takes that as a chance to claim he has finally gotten ahead of her on this."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mother's Prayer": {
+            "existing": "The ancient prophecy that currently describes Gerk.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Sylan describes it to Carlkin as an ancient prophecy that made the party more important after the keystone delivery, with Gerk as the one who matters.",
+                "Carlkin had not been told, and he connects it at once to Gerk being an orphan who sees things."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider bonded to Glimmen and gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan tells Carlkin the dragon is away on a mission, accounting for Walker and Glimmen not being in the lighthouse."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan says the dragon is on a mission, so Glimmen is not at the lighthouse."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan is unsure Ord is present, then says he looks peaked after the attack and needs to sit down.",
+                "When Carlkin asks where the girl is, Gerk answers with Ord's name. The lineup of who is actually in the room stays muddled."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "four tortles",
+            "likely": "poor turtle's",
+            "notes": "Sylan ruining Carlkin's day; Carlkin is turtle-like."
+        },
+        {
+            "heard": "alienable monster",
+            "likely": "",
+            "notes": "The creature from the lighthouse door. Carlkin later calls it hellish and probably astral."
+        },
+        {
+            "heard": "art",
+            "likely": "Ord",
+            "notes": "Sylan asks if art is even here while counting the party."
+        },
+        {
+            "heard": "Orange",
+            "likely": "Ord",
+            "notes": "Sylan says Orange looks peaked after the attack and needs to sit down."
+        },
+        {
+            "heard": "Burgers uh trades",
+            "likely": "",
+            "notes": "Where Carlkin's good ink was imported from."
+        },
+        {
+            "heard": "Maya bot",
+            "likely": "my abode",
+            "notes": "Carlkin scolding them for using the power inside his home."
+        },
+        {
+            "heard": "skybo erger ship",
+            "likely": "",
+            "notes": "The moving vessel where Gerk previously opened a door. Carlkin is distinguishing a ship from a fixed place."
+        },
+        {
+            "heard": "unmoving things",
+            "likely": "on moving things",
+            "notes": "The spoken rule matches the ship example: do not open doors on things that are moving."
+        },
+        {
+            "heard": "astral C",
+            "likely": "astral sea",
+            "notes": "Carlkin naming where a door to nowhere goes, alongside the nothing and between arches."
+        },
+        {
+            "heard": "Astrodrid",
+            "likely": "",
+            "notes": "Carlkin's word for the creature, said against calling it an abomination. May be an astral creature type."
+        },
+        {
+            "heard": "Mendine",
+            "likely": "Mending",
+            "notes": "The spell Carlkin says he will use on the floor."
+        },
+        {
+            "heard": "Povirsky",
+            "likely": "",
+            "notes": "Carlkin listing missing comrades after asking where the girl is, then the dragon and rider."
+        },
+        {
+            "heard": "the promiscuous one",
+            "likely": "",
+            "notes": "Sylan says this person is at the pub while the dragon is on a mission. May be a nickname or a garbled name."
+        },
+        {
+            "heard": "floats",
+            "likely": "floors",
+            "notes": "Carlkin complaining that they remodeled his floor."
+        }
+    ],
+    "openQuestions": [
+        "What the party came to Carlkin's lighthouse to do.",
+        "Whether the blonde girl with flowers is a hallucination."
+    ],
+    "newTerms": [
+        {
+            "name": "Between arches",
+            "notes": [
+                "Carlkin's name for where a door opened with no destination goes. He equates it with the nothing or the astral sea. The lighthouse creature came from there and nearly used the room as a birthing place."
+            ]
+        }
+    ]
+}

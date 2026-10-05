@@ -17,6 +17,13 @@
         "Dana recognizes the flowers as Daisy's distinctive signature.",
         "Gerk, Sylan, Walker, and Plymouth can perceive the mysterious white-flower girl during the current events."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Gerk describes Daisy to Carlkin as a blonde girl with flowers and checks his own hair for a daisy. Carlkin connects the description to a dead mother and concludes that Daisy is a hallucination.",
+      "notes": [
+        "Gerk describes her to Carlkin as a blonde girl with flowers and looks for a daisy in his own hair. Carlkin, connecting this to a dead mother, concludes she is a hallucination."
+      ]
     }
   ],
   "openQuestions": [
@@ -27,7 +34,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:46:09.658Z",
-  "updatedAt": "2026-08-11T14:46:09.659Z",
+  "updatedAt": "2026-09-29T18:29:05.852Z",
   "normalizedAliases": [
     "daisy"
   ]

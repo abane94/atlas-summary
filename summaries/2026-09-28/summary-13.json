@@ -1,0 +1,260 @@
+{
+    "plotSections": [
+        {
+            "title": "Leaving Vecna",
+            "bullets": [
+                "The party chooses not to make a deal with Vecna and leaves the cavern. Walker keeps contact minimal, gives Vecna a nod, wishes him luck, and hopes he finds what he is seeking tied to the morbid story about Vecna's sister and a book.",
+                "Vecna wishes them luck in return and leaves the deal open: when they are ready, they can reach him through the books, specifically by writing him a letter in his book.",
+                "Once out of sight, Walker admits Vecna frightens him. He had been polite on purpose, but also slightly irreverent, because he believes Vecna does not respect people who only show fear."
+            ]
+        },
+        {
+            "title": "The guild ruins",
+            "bullets": [
+                "Elrus leads the group up a winding path out of the cavern. Glimmen backtracks and meets Walker and Elrus on the plains, then they make a short climb to the cliffside.",
+                "They arrive at the overgrown ruins of the guild stronghold from Elrus and Grixto's past. It was an average-sized stronghold, with larger buildings that look like they housed dragons and a huge stable built into the cliff, once joined to the rest by a covered walkway that has collapsed. Scattered tiles and the building footprint still show through the growth.",
+                "At the center, the heart of the stronghold is a former tower about eighty feet across. Only about five or six feet of the thick outer walls still stand. Moss, grass, vines, bushes, and trees have taken over the ruins."
+            ]
+        },
+        {
+            "title": "Galixtar and why Grixto became a lich",
+            "bullets": [
+                "Elrus confirms that if a dragon or its rider dies, madness is the most common outcome for the survivor. Asked whether that madness could drive someone to seek a book capable of raising the dead, he says that in a maddened state he would abandon reason and probably do it.",
+                "Walker's working theory, formed while Vecna was talking, is that Galixtar died before Grixto became a lich, and that restoring her is why he pursued lichdom and the Al Kurin.",
+                "Elrus treats this as a real motivation. He notes Galixtar did not seem different at the time, but the magic may have been new enough that she did not present as undead, and the vision the party has is from years later. He says the theory also explains Grixto's eagerness for the Al Kurin, and that it makes more sense than most explanations he has heard."
+            ]
+        },
+        {
+            "title": "Tilted landmarks",
+            "bullets": [
+                "From about eighty feet up, where the tower used to stand, the party can see the same east, west, north, and south landmarks that were drawn or carved on the cave wall.",
+                "Elrus's 'tilt' is a bearing error, not a leaning mountain. Each major landmark, usually the largest mountain or island on that side, sits slightly off the cardinal direction it should occupy. On the wall, the western landmark was drawn as if a clock's hour hand had moved from nine o'clock toward nine-twenty or nine-thirty.",
+                "Walker reads the offset as a clue. He wants to rotate until the real landmarks match the cave drawings, then look along that facing for a destination or hint. He calls for an investigation check. This chunk ends before the result."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party declines a deal with Vecna and leaves the cavern. Walker wishes him luck finding what he seeks regarding his sister and the book. Vecna says to write him a letter in his book when they are ready.",
+        "Elrus leads them up to the plains, where Glimmen rejoins them, and then to the cliffside ruins of Elrus and Grixto's old guild stronghold.",
+        "Elrus confirms that a dragon or rider who loses the other most often goes mad, and that such madness could drive a search for a book to raise the dead.",
+        "Walker proposes that Galixtar died before Grixto became a lich, which would explain both the lichdom and the hunt for the Al Kurin. Elrus calls it a plausible motivation and a better theory than most he has heard.",
+        "From the old tower's height, Elrus shows that the cardinal landmarks are drawn a few degrees off true. Walker tries to use that tilt as a direction clue and begins an investigation check as the chunk ends."
+    ],
+    "entities": {
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery, pursuing hidden knowledge while reminding others they remain mortal.",
+            "entityType": "NPC",
+            "notes": [
+                "The party leaves him in the cavern without making a deal. He asks whether there is a deal, then leaves it open for later.",
+                "He told a morbid story about his sister. Walker hopes he finds his sister's book.",
+                "He says that when they are ready they should let him know with the books, and that writing him a nice letter in his book will reach him."
+            ],
+            "titles": [],
+            "personality": [
+                "Walker believes Vecna plays off fear and would not respect someone who stayed scared the whole time, so a little irreverence is necessary."
+            ],
+            "quotesThemes": [
+                "Best of luck to you as well. Is there a deal?",
+                "Whenever you're ready, just let me know with the books.",
+                "Write me a nice letter in my book and it will reach me."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He refuses a deal with Vecna for now, says he knows how to find him, and leaves after a polite nod.",
+                "He theorizes that Galixtar died before Grixto became a lich and that this is why Grixto wants the Al Kurin.",
+                "He interprets the tilted cardinal landmarks as a directional clue and starts an investigation from the old tower's vantage. The check is not resolved in this chunk."
+            ],
+            "titles": [],
+            "personality": [
+                "He is frightened of Vecna but deliberately stays courteous and a little sharp rather than openly afraid."
+            ],
+            "quotesThemes": [
+                "The less we interact with him, the better.",
+                "I think Galixtar was dead before Grixto became the lich."
+            ],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "He guides the party from the cavern, up a winding half-path, to the plains and then to the ruined guild stronghold from his and Grixto's past.",
+                "He confirms madness is the most common result when a dragon or its rider dies, and says that if he were that mad he would likely seek a book to raise the dead regardless of reason.",
+                "He treats Walker's Galixtar theory as a genuine motivation that would explain the pursuit of the Al Kurin. He says Galixtar did not seem different then, but new magic might have kept her from presenting as undead, and the party's vision is from years later.",
+                "He is the source of the tilted-landmark reading: the cave drawings place each major cardinal landmark slightly off where it actually sits."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Madness is the most common outcome.",
+                "If I was mad enough to do it, rational thought be damned, I'd probably do it."
+            ],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "She cannot follow the same path out and has to backtrack, then meets Walker and Elrus on the plains before the climb to the ruins."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "He and Elrus share a past at a dragon-capable guild whose stronghold is now ruined on this cliffside.",
+                "Walker's theory is that Galixtar died before Grixto became a lich, and that grief-madness drove the lichdom and the search for the Al Kurin. Elrus says this would explain that eagerness and that it fits better than most theories he has heard."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Galixtar": {
+            "existing": "A dragon associated with Grixto and being hunted by the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker theorizes she was already dead before Grixto became a lich.",
+                "Elrus says she did not seem different at the time. He allows that the magic may have been new enough that she did not present as undead, and that the vision the party encountered is from years afterward.",
+                "Her death is now tied, as a theory, to Grixto's pursuit of the Al Kurin."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Al Kurin": {
+            "existing": "Vessels containing the souls of dragons.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Elrus says Walker's theory, that Grixto lost Galixtar before becoming a lich, would explain his eagerness to obtain the Al Kurin."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Guild stronghold ruins": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Ruins of the guild stronghold from Elrus and Grixto's past, on a cliffside above the cavern.",
+                "Average stronghold size, with some larger footprints assumed to be dragon housing. A huge stable was built into the cliff and was once connected by a covered walkway; the walkway is gone, leaving tiles and a footprint in the overgrowth.",
+                "The central tower was about eighty feet across. Its thick walls are the largest standing remains, about five to six feet tall. The site is mossy, grassy, and overtaken by vines, bushes, and trees.",
+                "About eighty feet up, at the old tower height, is the vantage used to compare the landscape to the cardinal landmarks carved on the cave wall."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Tilted landmarks": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "East, west, north, and south landmarks were drawn or carved on the cave wall and can be seen from the ruined tower's vantage.",
+                "Each is the largest landmark on that side, a mountain or an island, and each is a small number of degrees off the cardinal bearing where it should sit. The western one is drawn like a clock hand that has slipped from nine o'clock toward nine-twenty or nine-thirty.",
+                "Walker believes matching the real landscape to that tilt will point toward a place to go or a thing to find. An investigation check was called and not resolved in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Does rotating to match the tilted landmark drawings point to a destination or another clue?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Vikna",
+            "likely": "Vecna",
+            "notes": "Walker looks back at him while leaving the cavern."
+        },
+        {
+            "heard": "Fecno",
+            "likely": "Vecna",
+            "notes": "Walker says the lich theory came together while this person was talking."
+        },
+        {
+            "heard": "sister skin book",
+            "likely": "",
+            "notes": "Walker hopes Vecna finds this after the morbid sister story. Distinct phrase, intended wording unclear."
+        },
+        {
+            "heard": "lookbook",
+            "likely": "book",
+            "notes": "Vecna's instruction to write him a letter in his book."
+        },
+        {
+            "heard": "writer's reign",
+            "likely": "right as rain",
+            "notes": "Follows the offer to write him in the book. Heard as a success phrase."
+        },
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Named with Elrus as sharing the guild's past."
+        },
+        {
+            "heard": "Gurixto",
+            "likely": "Grixto",
+            "notes": "Walker says this person became the lich after Galixtar's death."
+        },
+        {
+            "heard": "Glixtar",
+            "likely": "Galixtar",
+            "notes": "The dragon in Walker's lich theory."
+        },
+        {
+            "heard": "Lynch",
+            "likely": "lich",
+            "notes": "Walker asks why he would want to become one."
+        },
+        {
+            "heard": "Rayadin",
+            "likely": "raise the dead",
+            "notes": "Walker asks if madness would make someone seek a book that would do this."
+        },
+        {
+            "heard": "Ellers",
+            "likely": "Elrus",
+            "notes": "DM referring to whose reading of the landmarks the vantage confirms."
+        },
+        {
+            "heard": "lead a mine",
+            "likely": "",
+            "notes": "Elrus, just after calling the Galixtar theory a motivation. Intended phrase unclear."
+        }
+    ],
+    "openQuestions": [
+        "Does aligning the view to the tilted landmark drawings point toward a place or object?"
+    ],
+    "newTerms": [
+        {
+            "name": "Guild stronghold ruins",
+            "notes": [
+                "Cliffside ruins of the guild Elrus and Grixto once belonged to, including dragon-scale buildings, a cliff stable, and a central tower about eighty feet across, now reduced to low walls and overgrowth."
+            ]
+        },
+        {
+            "name": "Tilted landmarks",
+            "notes": [
+                "Cardinal mountains or islands carved on the cave wall a few degrees off their true bearings, as seen from the ruined tower. Walker is treating the offset as a directional clue."
+            ]
+        },
+        {
+            "name": "Dragon-rider madness",
+            "notes": [
+                "Elrus says madness is the most common outcome when either a dragon or its rider dies, severe enough that the survivor might seek a book to raise the dead."
+            ]
+        }
+    ]
+}

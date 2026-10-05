@@ -25,10 +25,18 @@
       "notes": [
         "Used as a travel-time reference point: about five days by flight to the Dragon Rider training grounds per Elrus."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "The searched cave is a small roost-and-study. One side is a dragon roost of decomposed dirt, entrance weeds, fungi, and bat guano, with no bedding. The other side is a study where Vecna sits at a square slab table. Faint papery scraps remain where maps once were. Three chairs are each cut from a single piece of lighter stone. Old troop markers lie on the floor and a few remain on the table. Four crude landscape reliefs run along the back wall and into the roost. The search does not find a phylactery.",
+      "notes": [
+        "The searched cave is a small roost-and-study. One side is a dragon roost of decomposed dirt, entrance weeds, fungi, and bat guano, with no bedding. The other side is a study where Vecna sits at a square slab table.",
+        "Faint papery scraps remain where maps once were. Three chairs are each cut from a single piece of lighter stone. Old troop markers lie on the floor and a few remain on the table. Four crude landscape reliefs run along the back wall and into the roost. The search does not find a phylactery."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:19:55.344Z",
-  "updatedAt": "2026-09-01T18:28:55.349Z"
+  "updatedAt": "2026-09-29T18:38:07.914Z"
 }

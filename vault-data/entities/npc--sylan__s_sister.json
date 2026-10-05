@@ -1,0 +1,27 @@
+{
+  "name": "Sylan's sister",
+  "tags": [],
+  "slug": "Sylan's sister, whom he hopes to bring home.",
+  "aliases": [],
+  "normalizedAliases": [
+    "sylans sister"
+  ],
+  "filename": "entities/npc/sylan__s_sister.md",
+  "description": "Sylan's sister.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-09-28",
+      "summary": "Sylan hopes to bring his sister home, and he thinks something good may follow if they do.",
+      "notes": [
+        "Sylan hopes to bring his sister home, and he thinks something good may follow if they do."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Who is she, and where is she?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-09-29T18:44:48.686Z",
+  "updatedAt": "2026-09-29T18:44:48.686Z"
+}

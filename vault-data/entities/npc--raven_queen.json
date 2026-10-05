@@ -26,6 +26,14 @@
         "Advises Sylan to preserve and value what he has rather than prepare for death.",
         "Leaves by transforming into a harpy-like figure with enormous black wings."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Vecna does not speak her name, but describes a woman Sylan should now understand who vied for complete undeath. Other gods saw that grab and stopped her, so it did not end as she wanted. She holds death, the vague moment in between, not undeath. Undead are not passed back through death; they are returned to where they were found, so she has no claim on them. If they passed through death again, they would move through her domain.",
+      "notes": [
+        "Vecna does not say her name. He describes a woman Sylan should now understand, who vied for complete undeath. Other gods saw that grab and stopped her, so it did not end as she wanted.",
+        "She holds death, described as the vague moment in between, not undeath. Undead are not passed back through death; they are returned to where they were found, so she has no claim on them. If they passed through death again they would move through her domain."
+      ]
     }
   ],
   "openQuestions": [
@@ -34,7 +42,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:56:39.240Z",
-  "updatedAt": "2026-08-21T19:23:48.062Z",
+  "updatedAt": "2026-09-29T18:37:27.658Z",
   "normalizedAliases": [
     "raven queen"
   ]

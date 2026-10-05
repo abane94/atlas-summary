@@ -1,0 +1,425 @@
+{
+    "plotSections": [
+        {
+            "title": "The phylactery may already be with the party",
+            "bullets": [
+                "The party found nothing that looked like the phylactery. Carlkin walks them through the conclusion that it was a mundane item on the lich when they killed him, that he crumbled to dust, and that they looted him, so unless a notebook or diary was left behind it is very likely still on someone in the party.",
+                "Dana realizes Walker kept the lich's helmet and still wears it as a style choice. She says that is the only thing he kept. Sylan calls that a bold place to hide a phylactery. They set the question aside until Walker is back.",
+                "Carlkin's shop has a residual detect magic that flags magical items brought in. It did not flag the party because something is masking their magic. Sylan indicates a simple necklace. Carlkin says a lich with millennia to spare could write a phylactery onto something that ordinary, then let them carry it."
+            ]
+        },
+        {
+            "title": "Contact since the second death",
+            "bullets": [
+                "The lich has reached out twice since they vanquished him the second time. Dana says the hobgoblins were controlled through mental links, but she thinks the contact with the party was a spell. They answered. She never got to dispel it, so she cannot confirm what it was. It was described to her as a fire that overtakes the mind.",
+                "Carlkin concludes it was Sending rather than a standing mental link, and is badly shaken by the idea of a lich-contact plus abyss portals in his home in the same day. He still allows that the lich's power is beyond an ordinary sending.",
+                "On the latest contact the lich asked if they had found a better path. Dana answered that the path she had chosen was sufficient, reading his offer as another bid to join his legion. She does not know what the others replied."
+            ]
+        },
+        {
+            "title": "Garixto, Galixtar, and the Book of Vecna",
+            "bullets": [
+                "Dana tells Carlkin the lich has the Book of Vecna. That is what he found when he stopped being a dragon rider and became someone who hunts dragon riders. Carlkin is stunned. Benji picks up the thread: a lot to take in, and asks whether this dragon rider was from The Reach.",
+                "Dana gives his original name as Garixto. Sylan names his dragon Galixtar, a red dragon. Carlkin knows the legend: Garixto the Betrayer and Galixtar, the Twin Bloody Comet, from the late heyday of dragon riders. Trainees were warned to be wary of anyone seeking their heart of hearts, and to give that only to the rider they bore it with, and only at inevitable death. Dragons who lost riders mourned that they had not given the heart over. Carlkin places it on the order of hundreds of years, not thousands, and says time on this arch is strange.",
+                "Carlkin remembers Galixtar as slain by the dragon rider Elrus, who was not yet legendary then and was a trainer in that same era. He does not remember whether Elrus was elf or human. Some say Elrus is still around. Dana says they have seen Galixtar, long dead, summoned in necrotic form, and fought her in Gilbrick. Dana does not know whether to call her a ghost or a summon."
+            ]
+        },
+        {
+            "title": "How the second killing happened",
+            "bullets": [
+                "Carlkin remembers the Nyx war ending in liberation, with some hobgoblins changing sides and a civil war afterward, and asks how a man they had already killed was in Gilbrick.",
+                "Dana: they killed Garixto once, and a second time afterward. By then he had captured the Council of Nyx. The party went through the arches to Gilbrick looking for the council, having thought he might be holding them there, and instead found Garixto, a keystone, and what Dana guesses was a former gatehouse. He summoned Galixtar's necrotic form. They vanquished him there, and he has contacted them since."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Carlkin presses the party on the phylactery: they killed the lich, decided the phylactery was a mundane item on his person, and did not identify it among what he carried.",
+        "Dana remembers that Walker took the lich's helmet and still has it. Sylan notes Walker wears it as a style choice. Carlkin asks what else of the lich's they are wearing.",
+        "Dana says the helmet is the only thing Walker kept. Sylan says the lich crumbled to dust when they cut him down.",
+        "Carlkin recounts that this lich drove a continental conquest, died in front of them, and put a mask on as they learned he was a lich. He asks whether they investigated.",
+        "Carlkin explains the shop's residual detect magic. Their items did not flag because something is masking the party's magic. Sylan shows a simple necklace. Carlkin says a simple item is exactly what a lich could turn into a hidden phylactery, and that they have likely been carrying it.",
+        "They postpone checking until Walker returns. Carlkin asks whether the lich sought them out.",
+        "Dana says he contacted them twice since the second defeat, through the same kind of mental link he used on the hobgoblins. She thinks it was a spell, they replied, and she never dispelled it. She describes it as a fire overtaking the mind. Carlkin reads it as Sending.",
+        "Sylan says the lich has an extremely powerful spellbook. Dana says it is the Book of Vecna, found when he turned from dragon rider to hunter of dragon riders. Carlkin is speechless.",
+        "Benji asks if he is from The Reach. Dana names him Garixto. Sylan names the red dragon Galixtar. Carlkin recognizes the Twin Bloody Comet legend and ties Galixtar's death to Elrus.",
+        "Dana says they fought summoned, necrotic Galixtar in Gilbrick and do not know if she is a ghost or a summon. Carlkin, badly shaken, asks how the lich was there if they had already killed him.",
+        "Dana explains the second killing: after the first death he held the Council of Nyx; the party searched Gilbrick, found him with a keystone at a former gatehouse, and destroyed him again after he summoned Galixtar.",
+        "Carlkin asks what they told the lich when he contacted them. Dana's notes: he asked if they had found a better path. She answered that her chosen path was sufficient, taking his offer as a call to rejoin his legion. She does not know the others' answers."
+    ],
+    "entities": {
+        "Grixto": {
+            "existing": "Mobile antagonist seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Dana gives his original name as Garixto, a dragon rider from The Reach who became what he is now. Carlkin knows him in legend as Garixto the Betrayer.",
+                "His dragon was Galixtar. Together they were the Twin Bloody Comet in the late heyday of dragon riders.",
+                "He found the Book of Vecna when he began turning himself from a dragon rider into a hunter of dragon riders.",
+                "Carlkin describes him as the cause of a continental divide and conquest, extremely confident, with one or two contingency plans for death. The party did not know he was a lich the first time they killed him, which Carlkin treats as the lich playing them.",
+                "When they killed him he put a mask on; they then learned he was a lich. He crumbled to dust. The phylactery was a mundane item on his person and was not identified among his gear. Carlkin thinks they have been carrying it, with Walker's helmet and a simple necklace both in suspicion.",
+                "He captured the Council of Nyx before the second fight. The party found him in Gilbrick with a keystone at what Dana believes was a former gatehouse, where he summoned Galixtar in necrotic form. They vanquished him again there.",
+                "He has contacted the party twice since that second defeat. They answered. He asked if they had found a better path. Dana reads that as an invitation back into his legion.",
+                "He controlled hobgoblins through mental links. The contact with the party was described to Dana as a fire overtaking the mind. She thinks it was a spell and did not dispel it. Carlkin thinks the two-way messages were Sending, possibly backed by a much stronger spell."
+            ],
+            "titles": [
+                "Garixto the Betrayer",
+                "Twin Bloody Comet"
+            ],
+            "personality": [
+                "Ballsy and overconfident. He did not expect to die the first time because the party did not yet know he was a lich."
+            ],
+            "quotesThemes": [
+                "Asked the party if they had found a better path."
+            ],
+            "openQuestions": [
+                "Is the phylactery the helmet Walker wears, or another mundane item the party kept?",
+                "Was the contact Sending, a mental link, or a higher spell?"
+            ]
+        },
+        "Galixtar": {
+            "existing": "Dragon associated with Grixto and hunted by the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan identifies Grixto's dragon as Galixtar, a red dragon. Carlkin knows a legend of Galixtar paired with Garixto as the Twin Bloody Comet.",
+                "Carlkin remembers Galixtar as killed by the dragon rider Elrus.",
+                "Dana says Galixtar is long dead. Grixto can summon her. The party fought her necrotic form in Gilbrick. Dana does not know whether she is a ghost or a summon. Dana refers to Galixtar as her."
+            ],
+            "titles": [
+                "Twin Bloody Comet"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the Galixtar they fought a ghost or a summon?"
+            ]
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "For this lich it was a mundane item on his person when the party killed him. Nothing they recognized on the corpse was it, and he turned to dust.",
+                "Carlkin's conclusion: unless they left a notebook or diary behind, they are probably carrying it now and have been handling it for him.",
+                "The helmet Walker kept, and a simple necklace the party is wearing, are the concrete suspects. A simple item is enough if the lich inscribed it. They will check when Walker returns.",
+                "Carlkin's residual detect magic did not catch their items because something is masking the party's magic, so a phylactery in the room would not have announced itself."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Which carried item is the phylactery?"
+            ]
+        },
+        "Carlkin": {
+            "existing": "Turtle-like ally; lighthouse, home, and bookshop in New Navel.",
+            "entityType": "NPC",
+            "notes": [
+                "He is the one interrogating the party in this scene, in his establishment, drinking hard as the story lands. Benji is with him and speaks when Carlkin is at a loss.",
+                "The shop has a residual detect magic on a bangle that automatically detects magical items brought inside. He trusts that system. It did not flag the party because their magic is masked. He notes it would not flag Gerk's door anyway, because that is not a magical item.",
+                "He already knows the Reach dragon-rider legend of Garixto and Galixtar, the Twin Bloody Comet, and Elrus, from the training era. He had not connected that legend to the party's lich until Dana and Sylan named them.",
+                "He is frightened by the combination of a lich who can still send to them and portals to the abyss being opened in his home."
+            ],
+            "titles": [],
+            "personality": [
+                "Direct and skeptical of the party's investigation, then overwhelmed once the Book of Vecna and the legend line up."
+            ],
+            "quotesThemes": [
+                "Warns that they have likely been carrying the phylactery around for the lich."
+            ],
+            "openQuestions": []
+        },
+        "Benji": {
+            "existing": "Familiar with The Reach and may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "Present with Carlkin. When Carlkin freezes at the Book of Vecna, Benji steps in, says there is a lot to take in, and asks whether this dragon rider was from The Reach."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Not present. He took the lich's helmet when they killed him and still wears it as a style choice. Dana says it is the only thing from the lich that he kept. The helmet is now a leading phylactery suspect, to be checked when he returns."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric, Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She is the one who connects Walker's helmet to the phylactery, names the Book of Vecna, gives Garixto as the lich's original name, and recounts the Council of Nyx, the Gilbrick fight, and the necrotic summoning of Galixtar.",
+                "When the lich asked if they had found a better path, she answered that the path she had chosen was sufficient. She takes his offer as joining his legion again. She does not know how the others answered.",
+                "She believes the contact was a spell, not a confirmed mental link, and did not cast dispel magic on it."
+            ],
+            "titles": [],
+            "personality": [
+                "Chooses her own path over the lich's offer and says so to him directly."
+            ],
+            "quotesThemes": [
+                "Told the lich that the path she had chosen was sufficient for her."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue, Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Confirms the lich crumbled to dust, names Galixtar as his red dragon, and shows Carlkin a simple necklace when asked about the mask that is hiding their magic.",
+                "He is the one who says the lich has an extremely powerful spellbook, which Dana then identifies as the Book of Vecna."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "In Carlkin's legend, Elrus is the dragon rider who killed Galixtar. At the time he was a trainer and did not yet have legends of his own, in the same era as Garixto the Betrayer. He later became a legendary dragon rider. Carlkin does not remember whether he was elf or human. Some versions say he is still around."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Was Elrus an elf or a human?"
+            ]
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery.",
+            "entityType": "NPC",
+            "notes": [
+                "Grixto has the Book of Vecna. Dana says that book is what he found at the start of his transformation from dragon rider to hunter of dragon riders."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Book of Vecna": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "In the lich's possession. Sylan describes an extremely powerful spellbook; Dana names it the Book of Vecna. It is what he found when he began turning from a dragon rider into one who hunts dragon riders. Carlkin reacts as if this is catastrophic news."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gilbrick": {
+            "existing": "Arch realm whose keystone is held by Sylan.",
+            "entityType": "Location",
+            "notes": [
+                "The party went there through the arches hunting the captured Council of Nyx and instead found Grixto, a keystone, and what Dana believes used to be a gatehouse. That is where they fought him the second time and where he summoned Galixtar in necrotic form."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nyx": {
+            "existing": "A place that may hold hobgoblins who know where the lich is hiding.",
+            "entityType": "Location",
+            "notes": [
+                "Carlkin remembers the war ending in Nyx with a liberation. Some hobgoblins changed sides and a civil war followed.",
+                "Before the second fight, Grixto had captured the Council of Nyx. The party was searching for where he kept them."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Reach": {
+            "existing": "Largest Arch realm of Atlas; Walker is its Gatekeeper.",
+            "entityType": "Location",
+            "notes": [
+                "Benji asks, and Dana confirms, that Garixto was from The Reach. Carlkin places the Twin Bloody Comet legend in the dragon-rider heyday there, late in that era, and says time on that arch does not line up cleanly with his own."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "helmet of glitch",
+            "likely": "helmet of the lich",
+            "notes": "Sylan describing the helmet Walker wears."
+        },
+        {
+            "heard": "Diana",
+            "likely": "Dana",
+            "notes": "Carlkin addressing Dana."
+        },
+        {
+            "heard": "necklist",
+            "likely": "necklace",
+            "notes": "Carlkin reacting to the item Sylan shows."
+        },
+        {
+            "heard": "spare",
+            "likely": "Sending",
+            "notes": "Carlkin naming the two-way contact spell after they say they replied."
+        },
+        {
+            "heard": "penbook",
+            "likely": "spellbook",
+            "notes": "Carlkin asking if they saw the lich's spellbook."
+        },
+        {
+            "heard": "Dislitz",
+            "likely": "this lich",
+            "notes": "Carlkin repeating that the lich has the Book of Vecna."
+        },
+        {
+            "heard": "Rexkina",
+            "likely": "Book of Vecna",
+            "notes": "Same line as Dislitz. Dana has just said Book of Vecna."
+        },
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Dana states this as his original name. Campaign notes use Grixto. Kept as the heard form in case Garixto is the intended spelling."
+        },
+        {
+            "heard": "Darixto",
+            "likely": "Grixto",
+            "notes": "Dana: they killed him initially."
+        },
+        {
+            "heard": "Garexto",
+            "likely": "Grixto",
+            "notes": "Carlkin linking the lich to the legend."
+        },
+        {
+            "heard": "Garrett Star",
+            "likely": "Galixtar",
+            "notes": "Carlkin's first repeat of the dragon's name, easy to confuse with the crewman Garrett."
+        },
+        {
+            "heard": "Golixar",
+            "likely": "Galixtar",
+            "notes": "Sylan naming the dragon."
+        },
+        {
+            "heard": "Gallick Star",
+            "likely": "Galixtar",
+            "notes": "Carlkin: legend of Gallick Star the portrayer."
+        },
+        {
+            "heard": "Gaelic Star",
+            "likely": "Galixtar",
+            "notes": "Carlkin confirming the pair."
+        },
+        {
+            "heard": "Gorick stars",
+            "likely": "Galixtar",
+            "notes": "Dana: they have seen her."
+        },
+        {
+            "heard": "Golic Star",
+            "likely": "Galixtar",
+            "notes": "Dana: summoned in Gilbrick."
+        },
+        {
+            "heard": "portrayer",
+            "likely": "Betrayer",
+            "notes": "Carlkin later says Garixto the Betrayer. May be the same epithet misheard on Galixtar."
+        },
+        {
+            "heard": "Skillbrick",
+            "likely": "Gilbrick",
+            "notes": "Carlkin: Keystone, Skillbrick."
+        },
+        {
+            "heard": "Pretcar",
+            "likely": "",
+            "notes": "to the Pretcar can still not get over, while he pours a drink. Unclear. Maybe particular, or a stumbled name."
+        },
+        {
+            "heard": "Knicks",
+            "likely": "Nyx",
+            "notes": "Carlkin: the war ended in the Knicks."
+        },
+        {
+            "heard": "Carroger",
+            "likely": "Carl, you're right",
+            "notes": "Well Carroger is right. What did you tell him? Dana has been calling him Carl."
+        },
+        {
+            "heard": "abundable abode",
+            "likely": "abominable abode",
+            "notes": "Carlkin on opening abyss portals in his home."
+        },
+        {
+            "heard": "appointment",
+            "likely": "postponement",
+            "notes": "He agrees with setting the phylactery question aside, then asks about the contact."
+        },
+        {
+            "heard": "dragon writer",
+            "likely": "dragon rider",
+            "notes": "Repeated for Garixto and the guilds. writers likewise means riders."
+        },
+        {
+            "heard": "Find fire",
+            "likely": "",
+            "notes": "What is your dragons? Find fire. Dana agrees. Unclear; sits next to the dragon-rider reveal."
+        },
+        {
+            "heard": "hundreds, fifteen years",
+            "likely": "a hundred and fifteen years",
+            "notes": "Carlkin corrects thousands down to hundreds, fifteen. The Twin Bloody Comet timeframe."
+        },
+        {
+            "heard": "their care and over",
+            "likely": "their heart over",
+            "notes": "Dragons mourning riders who died before the heart of hearts was given."
+        }
+    ],
+    "openQuestions": [
+        "Is the phylactery Walker's helmet or another item the party is carrying?",
+        "Is Galixtar a ghost or a summon?",
+        "What did the rest of the party answer when Grixto asked if they had found a better path?",
+        "Was that contact Sending or a stronger mind-affecting spell?"
+    ],
+    "newTerms": [
+        {
+            "name": "Book of Vecna",
+            "notes": [
+                "The spellbook Grixto found when he turned from dragon rider to hunter of dragon riders. Dana tells Carlkin he has it."
+            ]
+        },
+        {
+            "name": "Twin Bloody Comet",
+            "notes": [
+                "The name Carlkin's tradition gave the pair Garixto and Galixtar. A cautionary legend taught to dragon-rider trainees of other guilds."
+            ]
+        },
+        {
+            "name": "Heart of hearts",
+            "notes": [
+                "In the Twin Bloody Comet lesson, something a dragon gives only to the rider they bear it with, and only when death is inevitable. Dragons who lost riders mourned not having given it."
+            ]
+        },
+        {
+            "name": "Council of Nyx",
+            "notes": [
+                "Captured by Grixto before the Gilbrick fight. The party went to Gilbrick looking for them and found him instead."
+            ]
+        },
+        {
+            "name": "Grixto's helmet",
+            "notes": [
+                "Taken by Walker off the lich and still worn as a style choice. Leading suspect for the mundane phylactery."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "plotSections": [
+        {
+            "title": "Aftermath in Carlkin's lighthouse",
+            "bullets": [
+                "The party is in the base of Carlkin's lighthouse, a room about 40 feet across, after loud combat with the abyss creature. Dana is farthest from the others. Carlkin fled upstairs; Benji, who had been lying in a pile of old memorabilia, is awake and sitting up.",
+                "Gerk tries to smooth the cobbled floor he broke and rolls a 4. The repair looks like sandcastles in the cobbles, with the hole through the floor still there."
+            ]
+        },
+        {
+            "title": "The door is gone",
+            "bullets": [
+                "Once shut, Gerk's door vanished. Nothing of it remains except the broken floor.",
+                "Sylan calls up that the door is closed and the lower level should be safe. Carlkin, still upstairs, answers that they nearly opened hell in his lighthouse and tells them to stay away and open no more doors."
+            ]
+        },
+        {
+            "title": "Carlkin's rule and the keystones",
+            "bullets": [
+                "Carlkin demands his desk parchment and his good pen so he can write a lighthouse rule: no portals on the premises. He tells them not to let Gerk near the pen. The set is a well-used quill and high-end ink he likely imported.",
+                "Sylan goes upstairs with the pen and ink. Gerk stays at the broken floor. Dana stays where she is. Benji watches from a crate while packing a copper smoking pipe in the corn-cob style.",
+                "Sylan tells Carlkin the keystones are back in the party's care. Carlkin is furious: they opened a portal in his home and never said they were holding the stones. He thought the job was to collect the keystones and bring them to Juten Prime.",
+                "Sylan says that delivery was finished, then an ancient prophecy made the party more important. Gerk can open doors the way he just did, they do not really know how yet, and he has opened doors twice today. Carlkin asks if the prophecy is about Gerk. Sylan says it seems so: Gerk is the important one and the rest are along for the ride."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party checks who the fight stirred in the lighthouse. Carlkin had run upstairs; Benji is getting up from a pile of old memorabilia.",
+        "Gerk fails to re-level the broken cobbles (sleight of hand 4), leaving the hole through the floor.",
+        "The closed door is gone, with no lasting trace except the damaged floor.",
+        "Sylan tells Carlkin the lower level is safe. Carlkin forbids more portals and demands his pen and parchment to write that rule.",
+        "Sylan brings Carlkin the quill and ink and says the party holds the keystones again after finishing the delivery to Juten Prime, because of a prophecy centered on Gerk.",
+        "Carlkin reacts with alarm that they are opening doors in his lighthouse without knowing how. Sylan is upstairs with him; Gerk is still at the floor; Dana has not moved; Benji watches and packs a copper smoking pipe."
+    ],
+    "entities": {
+        "Carlkin": {
+            "existing": "Turtle-like keeper of the New Navel lighthouse and bookshop.",
+            "entityType": "NPC",
+            "notes": [
+                "He fled upstairs during the fight and is still yelling down from there.",
+                "He is imposing a house rule: no portals inside the lighthouse, and he wants it written immediately on his own parchment with his good pen.",
+                "He does not want Gerk near that pen.",
+                "His writing set is a well-used quill and high-end ink he probably imported rather than bought locally.",
+                "He did not know the party still had the keystones. He thought they were collecting them to deliver to Juten Prime.",
+                "He treats the doorway as something close to a portal to hell and is angry they used it in his home while admitting they barely understand it."
+            ],
+            "titles": [],
+            "personality": [
+                "Blunt and alarmed when his home is endangered; he makes rules on the spot and wants them written while the incident is fresh."
+            ],
+            "quotesThemes": [
+                "No portals inside the premises.",
+                "Don't let Gerk anywhere near it. That is my good pen."
+            ],
+            "openQuestions": [
+                "How many keystones does the party actually have?"
+            ]
+        },
+        "Benji": {
+            "existing": "Someone familiar with The Reach who may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "He was asleep or lying in a pile of old memorabilia at the base of Carlkin's lighthouse and woke because of the combat.",
+                "He has propped himself on a crate and is watching the party.",
+                "He is packing a copper smoking pipe, corn-cob in style rather than a plumbing pipe. What he is packing it with is not finished in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Tree; opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He tried to fix the cobbled floor his doorway broke and failed, leaving a hole and cobbles piled like sandcastles.",
+                "Sylan tells Carlkin that Gerk opened doors twice today and that the party does not yet know how the ability works.",
+                "Carlkin identifies the prophecy as being about Gerk, and Sylan agrees Gerk is the important one."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He goes upstairs to bring Carlkin the pen and ink and is the one who explains the keystones and the prophecy.",
+                "He frames the rest of the party as along for the ride while Gerk is the one the prophecy is about."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Pitel Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She is the farthest person in the lighthouse room, about a 40-foot span, and she stays where she is."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan questions whether Ord is even present, then says Ord looks peakish after the attack and may need to sit down."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "After it was shut it disappeared completely. The broken cobble floor is the only remaining effect."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas's Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan tells Carlkin the stones are back in the party's care after the delivery to Juten Prime was completed, because the prophecy elevated the party's role.",
+                "Carlkin was not told this and still believed the stones were meant for Juten Prime. He asks how many they have; Sylan starts to answer in terms of who is in the room, and no count is given."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How many keystones are with the party?"
+            ]
+        },
+        "Mother's Prayer": {
+            "existing": "Ancient Navi prophecy that currently describes Gerk.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Sylan describes it to Carlkin only as an ancient prophecy that made the party more important after they finished bringing the keystones to Juten Prime.",
+                "Carlkin asks whether it is about Gerk. Sylan says it would seem so."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin's lighthouse": {
+            "existing": "Carlkin's home and bookshop in New Navel.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The ground room is roughly 40 feet across and is the base of a giant lighthouse, with a cobbled floor now broken by a hole from Gerk's doorway.",
+                "Carlkin's desk holds parchment and a fancy, well-used quill with imported ink.",
+                "Carlkin's new rule for the premises is no portals inside."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "alienable monster",
+            "likely": "abyssal monster",
+            "notes": "The creature from the abyss fight that woke the lighthouse."
+        },
+        {
+            "heard": "four tortles",
+            "likely": "poor turtle's",
+            "notes": "Sylan says he ruined this four tortles day, aimed at Carlkin."
+        },
+        {
+            "heard": "Larry",
+            "likely": "",
+            "notes": "Sylan says Larry over the DM's recap. No clear referent."
+        },
+        {
+            "heard": "art",
+            "likely": "Ord",
+            "notes": "Is art even here, while asking who is in the lighthouse."
+        },
+        {
+            "heard": "Orange",
+            "likely": "Ord",
+            "notes": "I think Orange's gonna need a little sit down; he's looking peakish after that attack."
+        },
+        {
+            "heard": "pell",
+            "likely": "quill",
+            "notes": "DM describing Carlkin's writing utensils: a pell or a quill in ink."
+        },
+        {
+            "heard": "Burgers",
+            "likely": "",
+            "notes": "Ink imported from Burgers uh trades. Source name is unclear."
+        },
+        {
+            "heard": "castons",
+            "likely": "keystones",
+            "notes": "How many castons do you have."
+        },
+        {
+            "heard": "kissed",
+            "likely": "these",
+            "notes": "You come and you tell me that you have kissed how many castons."
+        },
+        {
+            "heard": "Yotin Prime",
+            "likely": "Juten Prime",
+            "notes": "Carlkin thought the keystones were being brought to Yotin Prime."
+        },
+        {
+            "heard": "Maya bot",
+            "likely": "my abode",
+            "notes": "You're doing it inside of Maya bot, Carlkin on the doorway in his lighthouse."
+        }
+    ],
+    "openQuestions": [
+        "How many keystones does the party have?"
+    ],
+    "newTerms": []
+}

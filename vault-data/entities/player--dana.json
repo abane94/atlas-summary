@@ -82,6 +82,17 @@
         "She refuses to cast Fireball because it would burn Carlkin's books. Sacred Flame has no effect after the creature's Dexterity save of 23. She sidesteps out of range and uses a bonus action to give Ord inspiration, asking him to do paladin things.",
         "She is far enough from the wall of eyes that she does not have to save. She casts 5th-level Dispel Magic on the eye-door to force it shut, and the spell has no effect. She has Grasping Vine available but will not use it, because she does not want to drag whatever is in the door out. She gives Sylan Bardic Inspiration and ends her turn."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Dana stays farthest across the lighthouse room, a span of about forty feet. She tells Carlkin that they are all gatekeepers now and agrees that the aimless door matches a door to nowhere. She connects the missed phylactery to the helmet Walker kept, the only thing he kept from the body. She says Grixto has reached them twice since the second defeat, through the kind of contact he used to control the hobgoblins, and that they answered. She thinks the contact was a spell, never confirmed with dispel magic, and has heard it described as a fire that overtakes the mind; she does not know the mechanism. She reads his question about a better path as an attempt to consume them back into his legion, answers that the path she had chosen was sufficient, and does not know how the others answered. She names his original name as Garixto, a dragon rider from The Reach, and names the Book of Vecna, whose discovery began his turn from dragon rider to hunter of dragon riders. She recounts the capture of the Council of Nyx, the second fight in Gilbrick, and his necrotic summoning of Galixtar. From visions she has seen, he killed at least some of the young ones among his kin. She rejects Walker's proposed trade of the book and the phylactery with Vecna.",
+      "notes": [
+        "Stays where she is, farthest across the lighthouse room, a span of about forty feet. She tells Carlkin that they are all gatekeepers now and agrees that the aimless door matches a door to nowhere.",
+        "Connects the missed phylactery to the helmet Walker kept, and says it is the only thing he kept from the body. She says Grixto has reached them twice since the second defeat, through the kind of contact he used to control the hobgoblins, and that they answered.",
+        "Thinks the contact was a spell, never confirmed it with dispel magic, and has heard it described as a fire that overtakes the mind. She does not know the mechanism. She reads his question about a better path as an attempt to consume them back into his legion. She answered that the path she had chosen was sufficient, and she does not know how the others answered.",
+        "Names his original name as Garixto, a dragon rider from The Reach, and names the Book of Vecna. She says finding that book began his turn from dragon rider to hunter of dragon riders. She recounts the capture of the Council of Nyx, the second fight in Gilbrick, and his necrotic summoning of Galixtar.",
+        "From visions she has seen, he killed at least some of the young ones among his kin. She rejects Walker's proposed trade of the book and the phylactery with Vecna."
+      ]
     }
   ],
   "openQuestions": [
@@ -89,7 +100,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:54:14.175Z",
-  "updatedAt": "2026-09-22T19:49:16.017Z",
+  "updatedAt": "2026-09-29T18:25:37.815Z",
   "normalizedAliases": [
     "dana"
   ]

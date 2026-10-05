@@ -1,6 +1,8 @@
 {
   "name": "Benji",
-  "tags": [],
+  "tags": [
+    "companion"
+  ],
   "slug": "Benji is familiar with The Reach and may be at the party's bar.",
   "aliases": [],
   "normalizedAliases": [
@@ -31,6 +33,16 @@
       "notes": [
         "Sylan thinks Benji may have a lead once the party is home and wants to question him about what they are hunting if he is in town. The party does not confirm that he is there."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Benji was asleep in a pile of old memorabilia at the base of the lighthouse, near part of a burlap sack, until the fight woke him. He props himself on a crate and watches the briefing. He smokes a copper corncob pipe packed with a grass-like material, not tobacco, primed with a drop from a small oil dripper. The smoke is dark like a coal boiler and smells half of sulfur and half earthy. He keeps relighting it; it sputters, sparks, and leaves an acrid smell. Carlkin includes him when paper is needed and sets him a cup with the party. When Carlkin freezes at the Book of Vecna, Benji says there is a lot to take in and asks whether the dragon rider was from The Reach.",
+      "notes": [
+        "Was asleep in a pile of old memorabilia at the base of the lighthouse, near part of a burlap sack, until the fight woke him. He props himself on a crate and watches the briefing.",
+        "Smokes a copper corncob pipe packed with a grass-like material, not tobacco, primed with a drop from a small oil dripper. The smoke is dark like a coal boiler and smells half of sulfur and half earthy. He keeps relighting it; it sputters, sparks, and leaves an acrid smell.",
+        "Carlkin includes him when paper is needed and sets him a cup with the party.",
+        "When Carlkin freezes at the Book of Vecna, Benji says there is a lot to take in and asks whether the dragon rider was from The Reach."
+      ]
     }
   ],
   "openQuestions": [
@@ -38,5 +50,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:21:05.572Z",
-  "updatedAt": "2026-09-22T19:52:53.513Z"
+  "updatedAt": "2026-09-29T18:24:03.780Z"
 }

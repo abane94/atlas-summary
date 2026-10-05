@@ -51,6 +51,16 @@
         "Dana treats the lingering spectral door as a product of this role and does not expect ordinary Dispel Magic to dismiss keystone-level Doorman magic. That door lasted about a day and ended on its own.",
         "Gerk can open a door without choosing a destination. The opening in Carlkin's lighthouse, a d100 roll of 68, led to the abyss. Fifth-level Dispel Magic did not close or dismiss it, and Sylan could not end it. Sylan treats these doorways as Gerk's to close."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Carlkin treats doorway practice as rules worth writing down: do not open a doorway on a moving thing or to an unknown place. Opening with no destination opens onto nowhere—the nothing, the astral, or the gap between arches—and correct use is to picture one specific familiar door and open it as if by hand. A portal on a moving ship stays fixed and can tear reality or become a three-way connection. Mastery and wide travel could allow openings nearly anywhere, but a keystone-bound Doorman should expect requests tied to that keystone. Other people besides Gerk can open doors, though Carlkin does not name them; a keystone is generally used by a gatekeeper or a doorman, and long study or a purpose-built gate can work around that. Doorman is the rank above footman: doormen were the more prestigious rank and taught footmen, their apprentices. Carlkin will not grant Gerk the Doorman title yet and calls him a footman until he earns it. As Carlkin tells the legends, the role is Gerk’s own choice; Sylan identified him and brought him the news.",
+      "notes": [
+        "Carlkin treats the practice as rules worth writing down. Do not open a doorway on a moving thing. Do not open a door to an unknown place. Opening with no destination opens onto nowhere: the nothing, the astral, or the gap between arches. Correct use is to picture one specific familiar door and open it as if by hand.",
+        "A portal on a moving ship stays fixed and can tear reality or become a three-way connection. Mastery and wide travel could allow openings nearly anywhere, but a keystone-bound Doorman should expect requests tied to that keystone.",
+        "Other people besides Gerk can open doors. Carlkin does not name them. A keystone is generally used by a gatekeeper or a doorman. Long study, or a purpose-built gate, can work around that.",
+        "Doorman is the rank above footman. Doormen were the more prestigious rank and taught footmen, their apprentices. Carlkin will not grant Gerk the Doorman title yet and calls him a footman until he earns it. The legends, as Carlkin tells them, treat the role as Gerk's own choice. Sylan is the one who identified him and brought him the news."
+      ]
     }
   ],
   "openQuestions": [
@@ -63,7 +73,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:25:47.265Z",
-  "updatedAt": "2026-09-22T19:54:25.736Z",
+  "updatedAt": "2026-09-29T18:42:19.468Z",
   "normalizedAliases": [
     "doorman",
     "door ability",

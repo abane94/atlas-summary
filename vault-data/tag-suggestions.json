@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T20:03:40.318Z",
+  "updatedAt": "2026-09-29T18:48:14.407Z",
   "suggestions": [
     {
       "tag": "alchemy",
@@ -32,6 +32,13 @@
       ]
     },
     {
+      "tag": "demon",
+      "reason": "The closed list has deity, but this session distinguishes a demon prince who holds a domain claim without being called a god.",
+      "exampleEntities": [
+        "Orcus"
+      ]
+    },
+    {
       "tag": "dragon",
       "reason": "Hanzuni is a major ancient dragon NPC tied to hoard lore, loans, and Sunder Chase rules.",
       "exampleEntities": [
@@ -42,12 +49,14 @@
     },
     {
       "tag": "dragon-rider",
-      "reason": "Walker's core identity and travel mode, tied to flight planning and destinations such as the training grounds.; The location is defined by its Dragon Rider guild association and serves as a recurring flight destination for dragon riders.; Elrus is actively traveling toward the Dragon Rider training grounds and shares route knowledge from prior flights.; Araden continues traveling by dragon flight with Elrus toward the mountain rendezvous during the Reach excursion.",
+      "reason": "Walker's core identity and travel mode, tied to flight planning and destinations such as the training grounds.; The location is defined by its Dragon Rider guild association and serves as a recurring flight destination for dragon riders.; Elrus is actively traveling toward the Dragon Rider training grounds and shares route knowledge from prior flights.; Araden continues traveling by dragon flight with Elrus toward the mountain rendezvous during the Reach excursion.; Legendary dragon riders recur as a distinct role the closed catalog does not cover.",
       "exampleEntities": [
         "Walker",
         "Dragon Rider Training Grounds",
         "Elrus",
-        "Araden"
+        "Araden",
+        "Grixto",
+        "Galixtar"
       ]
     },
     {

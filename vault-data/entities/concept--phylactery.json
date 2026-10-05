@@ -21,6 +21,15 @@
         "The available lore does not explain the exact mechanism by which the lich returns after being destroyed.",
         "Grixto's recurring chess-like pieces may be connected to his phylactery."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Grixto's phylactery is described as a small mundane item kept on his person, with chess and game pieces the standing clue. The party did not destroy it. He has returned since the killing, and the body crumbled to dust. Looting after the first kill did not identify it. Carlkin concludes that, unless they left a notebook behind, they are probably carrying it and have been handling it for him. Concrete suspects are the helmet Walker kept and a simple necklace the party is wearing. Carlkin says a simple inscribed item is enough, and that any mundane loot they kept is a candidate. His residual detect magic would not have announced a phylactery in the room, because the party's magic is masked. Walker does not know what it is and is sure Vecna's book is not it. Vecna says that book could be used to seek the phylactery and hypothesizes, without asserting it, that the Raskina could be identified as the phylactery. Walker says he will destroy it if the Raskina is the phylactery. The cave search does not find it among the table scraps, carvings, chairs, or troop markers.",
+      "notes": [
+        "Grixto's is described as a small mundane item kept on his person. Chess and game pieces are the standing clue. They did not destroy it. He has returned since the killing, and the body crumbled to dust. A looting after the first kill did not identify it. Carlkin concludes that, unless they left a notebook behind, they are probably carrying it and have been handling it for him.",
+        "Concrete suspects are the helmet Walker kept and a simple necklace the party is wearing. Carlkin says a simple inscribed item is enough, and that any mundane loot they kept is a candidate. His residual detect magic would not have announced a phylactery in the room, because the party's magic is masked.",
+        "Walker does not know what it is. He is sure Vecna's book is not it. Vecna says that book could be used to seek the phylactery, and he hypothesizes without asserting it that the Raskina could be identified as the phylactery. Walker says he will destroy it if the Raskina is the phylactery. The cave search does not find it among the table scraps, carvings, chairs, or troop markers."
+      ]
     }
   ],
   "openQuestions": [
@@ -28,5 +37,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:18:44.879Z",
-  "updatedAt": "2026-08-21T18:18:44.879Z"
+  "updatedAt": "2026-09-29T18:41:16.776Z"
 }

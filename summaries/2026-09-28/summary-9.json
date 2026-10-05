@@ -1,0 +1,264 @@
+{
+    "plotSections": [
+        {
+            "title": "The unfinished bargain",
+            "bullets": [
+                "Walker and Vecna negotiate over a book Vecna wants. Walker saw it in a vision from Emhet: a very young, newly changed lich, and the book was clearly visible, including its name.",
+                "Walker asks for a way to contact Vecna (carrier pigeon or sending). Vecna agrees he can make an arrangement and says that if he finds the location or the object he will send Walker, and that would be the deal.",
+                "They stall on equivalent exchange. Vecna says he still has to identify the thing, then find and locate it. Hypothetically, naming the Raskina as what the party seeks would satisfy his side, and Walker would then have to procure it.",
+                "Walker will not close that deal: if the Raskina is the phylactery he must destroy it, which would nullify the bargain. He sets the deal aside and keeps searching the room for clues while Vecna watches from the chair.",
+                "Someone who overheard warns that dealing with a demigod of the undead seems unwise, and that Vecna may be why their order fell if his book caused it. They question whether the party should find whatever darkness is in the book no matter what Vecna could offer. Walker treats that as a fair point and still values Vecna's resources."
+            ]
+        },
+        {
+            "title": "Vecna's origin and the Raskina",
+            "bullets": [
+                "Vecna says he was not originally a god and is denoted a demigod rather than a Voyager god. He was born in Atlas, among the first peoples, and is not of the Navi line. Voyager gods came from other pantheons, brought in by other creatures. He claims an invested interest in Atlas remaining as it should be, and says he is not an elder.",
+                "He describes himself as a farmer's bastard whose father died before he could claim land. He was poor at martial skill, a plotter who stole and read, in that way similar to Grixto. What sets them apart, he says, is that Grixto does not appear to have had a sister.",
+                "His sister's name was Valkyrie. He calls her courageous and perhaps one of the first shield maidens. He killed her, skinned her half alive, and used her blood as the ink. He cast the runes; the void torn in the family and the incantations made the book write itself. He calls recovering it a family reunion. He cast the runes and used what was written; he still claims the book as his.",
+                "He started his journey as a lich and says he has transcended that. Faith of followers can outdo years of magic and study once there are enough of them. Asked how to gain followers, he first jokes about killing a sister. Walker says his family is all dead. The exchange cuts off as Walker presses the follower question."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker doubts he would recognize the book; Vecna says Walker already saw it, and its name, in the vision from Emhet of a young adolescent lich just after the change.",
+        "Walker proposes contact by carrier pigeon or sending if he learns something. Vecna says he can arrange that and offers to even the deal: if Vecna finds the location or the object, he will send Walker.",
+        "Vecna floats a hypothetical: identifying the Raskina as the phylactery would fulfill his side, and Walker would then have to bring him the Raskina. He dares the lich to try hiding a phylactery that way.",
+        "Walker refuses to treat that as fair: if the Raskina is the phylactery he will destroy it and void the bargain. He postpones the deal and searches the room for clues. Vecna remains seated, observing.",
+        "An onlooker who heard part of the talk calls a deal with a demigod of the undead unwise and suggests Vecna's book may have brought down their order.",
+        "Walker asks why Vecna wants the book. Vecna tells his Atlas-born demigod origin, contrasts himself with Voyager gods and with the Navi, and compares his plotting and theft of knowledge to Grixto.",
+        "Vecna names his sister Valkyrie and confirms he killed her, bound the book in her skin, and used her blood as ink. The book wrote itself from the power of that act. He still needs it; he calls that a family reunion.",
+        "Walker asks whether Vecna is a witch and a lich. Vecna says he began as a lich and has transcended that through faith and followers.",
+        "Walker asks how one gets followers. Vecna jokes about killing a sister. Walker says all his family is dead. The chunk ends on that question."
+    ],
+    "entities": {
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery, pursuing hidden knowledge while reminding others they remain mortal.",
+            "entityType": "NPC",
+            "notes": [
+                "Present in the room, seated and observing, bargaining with Walker over his book, the Raskina.",
+                "Called a demigod of the undead. He says he is denoted a demigod, not a Voyager god; whether he counts as a god now is semantics tied to followers.",
+                "Born in Atlas, of the first peoples, not the Navi. Claims a stake in keeping Atlas as it should be. Not an elder. Voyager gods, by his account, came from other pantheons.",
+                "Farmer's bastard; father died before he could claim land. A plotter and reader who stole knowledge, not a warrior. Likens that path to Grixto, except Grixto seems to have had no sister.",
+                "Killed his sister Valkyrie, skinned her half alive, and used her blood as ink. He cast the runes; the book wrote itself. He still claims it and wants it back as a family reunion.",
+                "Began as a lich and says he has transcended lichdom. Faith of a few followers can surpass years of magical training.",
+                "He can arrange contact with Walker if either side finds the book or its location. He has not closed the bargain.",
+                "An onlooker suggests Vecna, or his book, may be why that person's order fell."
+            ],
+            "titles": [
+                "Demigod of the undead",
+                "Demigod",
+                "Former lich"
+            ],
+            "personality": [
+                "Grand, candid, and fond of a sly reveal. Treats the sister's murder as the necessary plot that made the book.",
+                "Invested in Atlas because he is from it, and dismissive of Voyager gods as outsiders brought in like vermin."
+            ],
+            "quotesThemes": [
+                "Recovering the Raskina is a family reunion.",
+                "He is the one who cast the runes; the book still wrote itself.",
+                "Faith can outdo magic when magic fails."
+            ],
+            "openQuestions": [
+                "Will he actually arrange a sending or other contact if the book or its location is found?",
+                "Did his book cause the speaker's order to fall?"
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, originally from La-rel and now Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Saw Emhet's vision of a young lich and the book, though he did not remember it at first.",
+                "Negotiates with Vecna under equivalent exchange, asks for a way to contact him, and does not accept a deal that would require handing over the Raskina if it is the phylactery.",
+                "Keeps searching the room for clues while he thinks the deal over, and questions Vecna about the book, lichdom, and followers.",
+                "Says all his family is dead."
+            ],
+            "titles": [],
+            "personality": [
+                "Willing to tempt a deal for Vecna's resources, then pulls back when destroying a phylactery would break the exchange."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Raskina": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Vecna's book. He wrote the act that made it: sister's skin for the pages, her blood for the ink, runes he cast, and the text wrote itself from that power.",
+                "Walker saw the book and knows its name from Emhet's vision of a newly changed young lich.",
+                "Vecna hypothesizes it might be the phylactery the party seeks, while daring the lich to try that trick. He wants it back whether or not that is true.",
+                "An onlooker fears the darkness in the book and links it, tentatively, to the fall of their order."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Vecna calls it his book and a family reunion."
+            ],
+            "openQuestions": [
+                "Is the Raskina the lich's phylactery?"
+            ]
+        },
+        "Valkyrie": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Vecna's sister. He says the name has been watered down until people no longer know the legend it comes from, and that she was courageous, perhaps one of the first to be called a shield maiden.",
+                "She supported his studies and did the physical labor he could not. He killed her to make the Raskina."
+            ],
+            "titles": [
+                "Shield maiden"
+            ],
+            "personality": [
+                "Supportive of Vecna's reading and plotting."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Vecna compares Grixto's plotting, theft, and reading to his own youth, and says Grixto does not appear to have had a sister.",
+                "The phylactery hunt is aimed at this lich. Vecna dares him to pass the Raskina off as that phylactery. The vision was of a young lich fresh from the change."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is his phylactery the Raskina?"
+            ]
+        },
+        "Emhet": {
+            "existing": "Deity at the gods' council who knows the party's role safeguarding the keys and offers cryptic guidance about the path.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker attributes the vision of the young lich and the visible book to Emhet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Voyager Gods": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Vecna's term for gods who did not originate in Atlas. They came from other pantheons, brought by other creatures. He sets himself apart from them as Atlas-born and only a demigod, and says he is not an elder."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The party is in the room looking for the phylactery while Vecna looks for his book. Vecna offers the possibility that the Raskina is the phylactery. Walker says he would destroy it if that is the case."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the Raskina the phylactery?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Ahmed",
+            "likely": "Emhet",
+            "notes": "Walker names the source of the young-lich vision."
+        },
+        {
+            "heard": "ratskin book",
+            "likely": "Raskina",
+            "notes": "Walker's first guess at the book Vecna wants, before Vecna names it."
+        },
+        {
+            "heard": "Raskina",
+            "likely": "Raskina",
+            "notes": "Vecna's name for his book in the phylactery hypothetical. Kept as the working canonical spelling."
+        },
+        {
+            "heard": "Redskina",
+            "likely": "Raskina",
+            "notes": "Walker repeating the book name while saying he would have to destroy it if it is the phylactery."
+        },
+        {
+            "heard": "Rayaskina",
+            "likely": "Raskina",
+            "notes": "Vecna: the book is his, at the turn into the sister story."
+        },
+        {
+            "heard": "Bagna",
+            "likely": "Vecna",
+            "notes": "Seated in the chair while Walker searches the room."
+        },
+        {
+            "heard": "Fecna",
+            "likely": "Vecna",
+            "notes": "Vecna referring to himself as old Fecna."
+        },
+        {
+            "heard": "phlactory",
+            "likely": "phylactery",
+            "notes": "Walker asking why both sides want it."
+        },
+        {
+            "heard": "Garixo",
+            "likely": "Grixto",
+            "notes": "Vecna comparing his early theft and study to Grixto."
+        },
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Same comparison, second hearing."
+        },
+        {
+            "heard": "Narvi",
+            "likely": "Navi",
+            "notes": "Vecna says he is not of the Narvi line."
+        },
+        {
+            "heard": "upsot",
+            "likely": "upstart",
+            "notes": "The young lich in the vision, just after the change."
+        },
+        {
+            "heard": "Voyager god",
+            "likely": "",
+            "notes": "Repeated category for outsider gods versus Atlas-born Vecna. May be intentional, or a hearing of greater god."
+        },
+        {
+            "heard": "Voyager to Gods",
+            "likely": "Voyager gods",
+            "notes": "Same category, garbled once."
+        }
+    ],
+    "openQuestions": [
+        "Is the Raskina the lich's phylactery?",
+        "Did Vecna's book cause the onlooker's order to fall?",
+        "How does Vecna expect Walker to get followers, once the sister joke is set aside?"
+    ],
+    "newTerms": [
+        {
+            "name": "Raskina",
+            "notes": [
+                "Vecna's book, made from his sister Valkyrie: skin pages, blood ink, text that wrote itself after he cast the runes. He wants it back. It may or may not be the phylactery."
+            ]
+        },
+        {
+            "name": "Valkyrie",
+            "notes": [
+                "Vecna's sister and, in his telling, one of the first shield maidens. He killed her to create the Raskina. He says the name survived only as a watered-down legend."
+            ]
+        },
+        {
+            "name": "Voyager Gods",
+            "notes": [
+                "Gods who did not originate in Atlas. Vecna says they came from other pantheons, carried in by other creatures, unlike him."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,419 @@
+{
+    "plotSections": [
+        {
+            "title": "Grixto and the Book of Vecna",
+            "bullets": [
+                "The party tells Carlkin that Grixto has the Book of Vecna, an extremely powerful spellbook and the source of his many spells. Dana says this is what he found when he stopped being a dragon rider and began hunting dragon riders.",
+                "Carlkin is stunned speechless. Benji, present with him, says there is a lot to take in and asks whether this dragon rider is from The Reach. Dana confirms he is, and that his original name was Garixto.",
+                "Sylan adds that Garixto's dragon was Galixtar, a red dragon. Carlkin knows the legend: Galixtar is said to have been killed by the dragon rider Elrus, who was not yet legendary and was a trainer at the time. Some say Elrus is still around. Carlkin does not remember whether Elrus was an elf or a human."
+            ]
+        },
+        {
+            "title": "The Twin Bloody Comet",
+            "bullets": [
+                "On the downside of the dragon riders' heyday there was a legend of Garixto the Betrayer and Galixtar, called the Twin Bloody Comet. Carlkin places it long ago; he corrects himself from thousands of years toward something on the order of hundreds or fifteen hundred years, and says time is strange on this arch.",
+                "Trainees of other guilds were warned to be wary of anyone who seeks their heart of hearts, and to give that only to the rider they are bonded with, and only when death is inevitable. Carlkin remembers the story as gruesome: old dragons who lost their riders mourned and wished they had given their heart over.",
+                "Carlkin asks whether the legend is true that Garixto killed all of his kin. Dana says that in the visions she has seen, he killed at least some of the young ones."
+            ]
+        },
+        {
+            "title": "Nyx, Gilbrick, and the better path",
+            "bullets": [
+                "Carlkin recalls that the war ended in Nyx with a liberation, that some hobgoblins changed sides, and that a civil war followed. Dana says the party killed Garixto once, and that he had captured the Council of Nyx. They searched for the captives, at one point suspecting Gilbrick, and traveled the arches there.",
+                "In Gilbrick they found Garixto, a keystone, and what Dana believes used to be a gatehouse. He summoned Galixtar in a necrotic form, long dead. Dana is unsure whether to call that form a ghost. They vanquished him again there. He has contacted them since.",
+                "Grixto asked whether they had found a better path. Dana answered that the path she had chosen was sufficient, reading his offer as an attempt to consume them into his legion. Gerk answered with a long account of his day and general well-being, which Grixto did not like. Sylan told him they were still looking and would find him; Grixto had been pleased they had left him alone for a while.",
+                "Carlkin connects this lich to killing dragons and stealing Al Kurin, and asks where Walker and his dragon are."
+            ]
+        },
+        {
+            "title": "Walker before Vecna",
+            "bullets": [
+                "Walker is standing before Vecna, who sits semi-relaxed, tapping old game pieces on a table. Vecna has been waiting and greets him as someone looking for Vecna's book. Walker had told Elrus to come in; Elrus is scrambling down the passage toward them.",
+                "Walker greets Vecna and says Vecna is no nearer to finding Galixtar or the book. Vecna wants the red-skinned book back. He came because an elder of his showed the party a vision of the belongings' last known location. He offers the finder boons and says he will make deals for those who do him a favor.",
+                "Walker, out of character, treats a deal with Vecna as a very bad idea and does not want to be indebted to him. In character he brushes off the offered favor as something cheap he no longer wants; Vecna offers other luxuries instead."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan tells Carlkin that Grixto has an extremely powerful spellbook and access to many spells. Dana names it as the Book of Vecna, found when Grixto turned from dragon rider to hunter of dragon riders.",
+        "Carlkin stares, unable to answer. Benji says it is a lot to take in, confirms the man was a dragon rider, and asks if he is from The Reach. Dana says yes, and that his original name was Garixto.",
+        "Sylan names the dragon as Galixtar, a red dragon. Carlkin recounts the legend of Galixtar, killed by the dragon rider Elrus, and of Garixto the Betrayer and Galixtar as the Twin Bloody Comet, including the warning about the heart of hearts.",
+        "The party confirms the lich is Garixto and that they have seen Galixtar. Dana says Grixto can summon her and that they fought her necrotic form in Gilbrick.",
+        "Dana explains the timeline: they killed Garixto once while he held the Council of Nyx; searching the arches led them to Gilbrick, a keystone, and a former gatehouse, where they killed him again after he summoned Galixtar. He has contacted them since.",
+        "Dana, Gerk, and Sylan each report how they answered Grixto's question about whether they had found a better path: Dana refused his legion, Gerk buried him in talk of his day, and Sylan promised they would still find him.",
+        "Carlkin asks if Garixto killed all of his kin. Dana says her visions show he killed at least some of the young ones. Carlkin then asks where Walker and his dragon are.",
+        "The scene is Walker before Vecna, who is waiting with game pieces and looking for his book. Elrus, sent by Walker, scrambles down the passage. Vecna offers boons and a deal to whoever finds the book, which an elder's vision pointed the party toward."
+    ],
+    "entities": {
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "His original name was Garixto. He was a dragon rider from The Reach whose dragon was the red dragon Galixtar. Together they were the Twin Bloody Comet, and he is remembered as Garixto the Betrayer.",
+                "He has the Book of Vecna. Dana says finding it is what began his turn from dragon rider into a hunter of dragon riders.",
+                "The party killed him once while he was holding the Council of Nyx, then again in Gilbrick after he summoned Galixtar's necrotic form. He has contacted them since, asking if they had found a better path and pressing them toward his legion.",
+                "In Dana's visions he killed at least some of his kin, described as the young ones. Carlkin treats the legend that he killed them as still unconfirmed in full.",
+                "Sylan says Grixto was pleased the party had not bothered him for a while, and that Sylan then told him they were still coming to find him."
+            ],
+            "titles": [
+                "Garixto the Betrayer",
+                "Twin Bloody Comet"
+            ],
+            "personality": [
+                "His contact with the party is an attempt to consume them into what he views as his legion."
+            ],
+            "quotesThemes": [
+                "He asked the party whether they had found a better path."
+            ],
+            "openQuestions": [
+                "Did Garixto kill all of his kin, or only some of the young ones?"
+            ]
+        },
+        "Galixtar": {
+            "existing": "A dragon associated with Grixto and being hunted by the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Galixtar was Garixto's red dragon and half of the Twin Bloody Comet. Carlkin's legend says she was killed by the dragon rider Elrus.",
+                "She has been long dead. Grixto can summon her, and the party fought her necrotic form in Gilbrick. Dana is unsure whether to call that form a ghost.",
+                "Vecna is also seeking Galixtar; Walker tells him he is no nearer to finding her."
+            ],
+            "titles": [
+                "Twin Bloody Comet"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "In Reach legend, Elrus is the dragon rider who killed Galixtar. At the time he was a trainer and did not yet have legends to his name. Carlkin does not remember whether he was elf or human. Some say he is still around.",
+                "Walker had instructed Elrus to join him. Elrus is heard scrambling down the passage toward Walker and Vecna. Vecna takes the approaching person for another of Walker's comrades."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person believed to be back in Langdale; keeps a lighthouse and bookshop in New Navel.",
+            "entityType": "NPC",
+            "notes": [
+                "He knows Reach dragon-rider legend, including Elrus, Garixto the Betrayer, Galixtar, and the Twin Bloody Comet. News that Grixto has the Book of Vecna leaves him staring, mouth half open, unable to speak, and he later pours himself liquor rather than tea.",
+                "He says time is strange on this arch and is unsure when the party would have been there. He connects the lich's dragon-killing and theft of Al Kurin to an immediate worry about where Walker and his dragon are."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Trainees were told to be wary of those who seek your heart of hearts, and to give them only to the rider you bear with, and only when death is inevitable."
+            ],
+            "openQuestions": [
+                "Where are Walker and his dragon if this lich kills dragons and steals Al Kurin?"
+            ]
+        },
+        "Benji": {
+            "existing": "Familiar with The Reach and may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "He is with Carlkin when the party explains Grixto. While Carlkin is speechless, Benji says there is a lot to take in and asks whether the dragon rider is from The Reach."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery, pursuing hidden knowledge while reminding others they remain mortal.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker finds him sitting semi-relaxed, tapping old game pieces, waiting. He is looking for his book, which he describes as red-skinned, and also for Galixtar.",
+                "He came because an elder of his showed the party a vision of the last known location of his belongings. He offers boons to the finder and says that, although he does not patronize often, he will make deals for those who do him a favor."
+            ],
+            "titles": [],
+            "personality": [
+                "Willing to bargain luxuries and boons for a favor, while still intent on recovering his book."
+            ],
+            "quotesThemes": [
+                "He asks after his book and offers to gift the finder boons."
+            ],
+            "openQuestions": []
+        },
+        "Book of Vecna": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Grixto has it. Sylan calls it an extremely powerful spellbook and the reason Grixto has access to many spells. Dana says it is what he found when he began turning from dragon rider to hunter of dragon riders.",
+                "Vecna calls it his red-skinned book and wants it back. An elder of Vecna showed the party a vision of its last known location, which is why Vecna came to investigate."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She is the one who tells Carlkin that Grixto has the Book of Vecna, that his original name was Garixto, and that the Gilbrick fight was their second killing of him, after he had captured the Council of Nyx.",
+                "When Grixto asked if she had found a better path, she answered that the path she had chosen was sufficient. She reads his offer as an attempt to consume them into his legion.",
+                "Her visions show Garixto killing at least some of the young ones."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The path I had chosen was sufficient for me."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and keeper of the Midgar keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "When Grixto asked what path he had picked, Gerk answered with a long account of his day, his feelings, and his general well-being. Grixto did not like it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He tells Carlkin that Grixto's dragon was Galixtar, a red dragon.",
+                "When Grixto asked about a better path, Sylan told him the party was still looking and would find him. Grixto had been happy they had not bothered him in a while."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He walks in on Vecna, who is waiting and looking for his book. Walker had sent Elrus to follow him in.",
+                "He tells Vecna that Vecna is no nearer to finding Galixtar or the book, and he declines the offered favor as something cheap. Out of character he does not want to be indebted to Vecna."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gilbrick": {
+            "existing": "Arch realm whose keystone is held by Sylan.",
+            "entityType": "Location",
+            "notes": [
+                "The party went there through the arches while searching for the captured Council of Nyx. They instead found Garixto, a keystone, and what Dana thinks used to be a gatehouse, and fought him and necrotic Galixtar there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nyx": {
+            "existing": "May hold hobgoblins who know where the lich is hiding.",
+            "entityType": "Location",
+            "notes": [
+                "Carlkin says the war ended in Nyx, followed by a liberation, hobgoblins changing sides, and a civil war. Dana says Garixto had captured the Council of Nyx at the time the party first killed him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Council of Nyx": {
+            "existing": "",
+            "entityType": "GROUP",
+            "notes": [
+                "Garixto had captured them by the time the party first killed him. The party searched for where he was keeping them and at one point suspected Gilbrick."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Twin Bloody Comet": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The legendary pairing of Garixto and Galixtar, from the downside of the dragon riders' heyday. Used as a warning to trainees of other guilds about anyone who seeks a rider's heart of hearts."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Al Kurin": {
+            "existing": "Vessels containing the souls of dragons.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin treats Grixto's dragon-killing as theft of Al Kurin and immediately asks where Walker and his dragon are."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "penbook",
+            "likely": "spellbook",
+            "notes": "Carlkin asks if they saw Grixto's penbook; the party means the Book of Vecna."
+        },
+        {
+            "heard": "Dislitz",
+            "likely": "Grixto",
+            "notes": "Carlkin: 'Dislitz has the Rexkina.' Dana agrees."
+        },
+        {
+            "heard": "Rexkina",
+            "likely": "Book of Vecna",
+            "notes": "Dana has just said he has the Book of Vecna."
+        },
+        {
+            "heard": "Find fire",
+            "likely": "",
+            "notes": "Carlkin says 'What is your dragons? Find fire' and Dana agrees, just before he is stunned. May be a dragon-rider order or another garbled name."
+        },
+        {
+            "heard": "Garrett Star",
+            "likely": "Garixto",
+            "notes": "Carlkin's repeat of Dana's 'Garixto.' Distinct from the crewman Garrett."
+        },
+        {
+            "heard": "Golixar",
+            "likely": "Galixtar",
+            "notes": "Sylan names Garixto's red dragon."
+        },
+        {
+            "heard": "Gallick Star the portrayer",
+            "likely": "Galixtar",
+            "notes": "Carlkin's legend name. 'The portrayer' may be a real epithet or a garble; do not fold it into Garixto the Betrayer without confirmation."
+        },
+        {
+            "heard": "Gaelic Star",
+            "likely": "Galixtar",
+            "notes": "Carlkin pairing the lich with the dragon."
+        },
+        {
+            "heard": "Gorick stars",
+            "likely": "Galixtar",
+            "notes": "Dana: they have seen her and Grixto can summon her."
+        },
+        {
+            "heard": "Golic Star",
+            "likely": "Galixtar",
+            "notes": "Dana, on the necrotic form fought in Gilbrick."
+        },
+        {
+            "heard": "Glic Star",
+            "likely": "Galixtar",
+            "notes": "Walker, speaking to Vecna."
+        },
+        {
+            "heard": "Darixto",
+            "likely": "Garixto",
+            "notes": "Dana: 'We killed Darixto initially.'"
+        },
+        {
+            "heard": "Garexto",
+            "likely": "Garixto",
+            "notes": "Carlkin, asking if the lich is Garixto and Galixtar."
+        },
+        {
+            "heard": "Skillbrick",
+            "likely": "Gilbrick",
+            "notes": "Carlkin: they have a keystone for Skillbrick."
+        },
+        {
+            "heard": "Knicks",
+            "likely": "Nyx",
+            "notes": "Carlkin: the war ended in the Knicks, then liberation and civil war."
+        },
+        {
+            "heard": "Pretcar",
+            "likely": "Carlkin",
+            "notes": "'to the Pretcar can still not get over' as he pours a drink."
+        },
+        {
+            "heard": "Carroger",
+            "likely": "Carlkin",
+            "notes": "Vecna's speaker line 'Well Carroger is right' while Carlkin is reacting to the later contact."
+        },
+        {
+            "heard": "Is Keen",
+            "likely": "his kin",
+            "notes": "Carlkin asks whether Garixto killed all of his kin. Dana answers about the young ones."
+        },
+        {
+            "heard": "Yungans",
+            "likely": "young ones",
+            "notes": "Dana: he killed at least some of the Yungans. May be young dragons, or a proper name."
+        },
+        {
+            "heard": "her curren",
+            "likely": "Al Kurin",
+            "notes": "Carlkin: the lich is killing and stealing her curren."
+        },
+        {
+            "heard": "rat skin book",
+            "likely": "Book of Vecna",
+            "notes": "Walker to Vecna: 'your nice little rat skin book.'"
+        },
+        {
+            "heard": "Red Skiner",
+            "likely": "Book of Vecna",
+            "notes": "Vecna: 'my Red Skiner, yes. I'd much like that back.'"
+        },
+        {
+            "heard": "troop pieces",
+            "likely": "chess pieces",
+            "notes": "Vecna is tapping old pieces on the table. The DM says 'call it troop pieces.'"
+        },
+        {
+            "heard": "Dre",
+            "likely": "Elrus",
+            "notes": "Vecna: 'I assume Dre is another one of your comrades coming down.'"
+        }
+    ],
+    "openQuestions": [
+        "What does Grixto mean by a better path? Dana reads it as joining his legion, and Carlkin calls the question vague.",
+        "Did Garixto kill all of his kin? Dana has only seen, in visions, that he killed at least some of the young ones.",
+        "Where are Walker and Glimmen, from Carlkin's point of view, if this lich kills dragons and steals Al Kurin?"
+    ],
+    "newTerms": [
+        {
+            "name": "Book of Vecna",
+            "notes": [
+                "The powerful spellbook Grixto found when he turned from dragon rider to hunter of dragon riders. Vecna wants the red-skinned book back and will offer boons to whoever finds it."
+            ]
+        },
+        {
+            "name": "Twin Bloody Comet",
+            "notes": [
+                "Reach legend for the pairing of Garixto the Betrayer and the red dragon Galixtar, told to dragon-rider trainees as a warning."
+            ]
+        },
+        {
+            "name": "Heart of hearts",
+            "notes": [
+                "In the Twin Bloody Comet warning, something a dragon gives only to the bonded rider, and only when death is inevitable. Dragons who lost their riders mourned that they had not given it over."
+            ]
+        },
+        {
+            "name": "Council of Nyx",
+            "notes": [
+                "Captives Garixto was holding when the party first killed him. The search for them led the party through the arches to Gilbrick."
+            ]
+        },
+        {
+            "name": "Garixto the Betrayer",
+            "notes": [
+                "The name under which Grixto is remembered in Reach dragon-rider legend, beside Galixtar."
+            ]
+        }
+    ]
+}

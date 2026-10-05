@@ -1,0 +1,431 @@
+{
+    "plotSections": [
+        {
+            "title": "Carlkin on doors, responsibility, and rank",
+            "bullets": [
+                "Carlkin warns that being pulled into a hostile keystone while carrying the party's mystical items would have been disastrous, and that he himself does not know what would have happened.",
+                "Gerk says nobody taught him the rules and he would not have taken on the role if he had known the responsibilities. Carlkin says legend frames it as Gerk's own choice. Sylan says he investigated, concluded Gerk was the Doorman, and brought Gerk that information because Gerk would not have found it alone, or not for a long time.",
+                "Carlkin was present when Gerk learned to open doors, but Gerk was not taught that opening a door to nowhere really opens onto nowhere, or that it must not be done on a boat. Gerk says Plymouth was there when he received the power and likely knows; Plymouth did not explain the rules.",
+                "Carlkin retreats upstairs and lectures down through a knot in the floorboards. He has Dana or Benji fetch paper. Gerk says he cannot write.",
+                "Door rules he gives: be extremely specific and picture one exact door (his example is the front door of the longhouse), as if opening it by hand; if you know the place well enough, the two places connect. Do not open a portal onto a bedroom or other place you would want to rest peacefully, and do not open one on a moving ship. A portal stays put while the ship moves, reality can tear, and you can get a three-way opening. Portal magic is dangerous and should be kept as simple as possible.",
+                "Being good and well traveled could eventually allow portals almost anywhere, but binding himself to a keystone means Gerk will be asked to open portals tied to that keystone. Carlkin says there are thirty keystones and that they connect the worlds. Once every keystone is seated together in one gate or gatehouse, the gatekeepers are more or less obligated to remain there, dormant, and keep the network safe.",
+                "Other people can open doors. Sylan says the party has tried keystone portals and failed; only Gerk can open a door right now. Carlkin calls Gerk a footman, not a doorman, until he earns the rank: doormen were the prestigious ones and had footmen as apprentices. If Gerk opens a door in this place again, Carlkin says he will teleport away and not be found. Gerk promises not to open a door here again.",
+                "Using a keystone does not strictly require being a doorman or gatekeeper; long study is a workaround. A key can be seated in a constructed gate that opens only to a predetermined place. A gatekeeper has more freedom: one opening can chain gatehouses. Opening toward a realm such as the Reach is not a single one-way door. Gatehouses sit on ley lines, and opening one functional gatehouse (his example is Midgar) also opens every other functional arch gatehouse at once, whether or not anyone is there. He corrects himself from eight other arches to seven others. Away from a gatehouse, a keystone portal would still need a powerful ley-line crossing.",
+                "Carlkin will not name the scholars who study the Mother's Prayer. He calls it a conundrum and says Gerk is subject to the whims of the universe. He keeps some secrets in reserve and says people underestimate what the old man in the crazy tower knows. Asked whether Sylan's mother is a tree, Sylan says it is complicated. Sylan hopes to bring his sister home."
+            ]
+        },
+        {
+            "title": "The lich emperor",
+            "bullets": [
+                "After extracting a promise of no more doors, Carlkin comes downstairs, sets out the good china, a real silver platter, and doilies, and pours a thin steaming tea-like drink from a jug like one Ord sometimes produces. He laces his own cup from a liquor bottle. Cups are set for Dana, Gerk, Sylan, Ord, Carlkin, and Benji. Benji has been watching and smoking a pipe that sputters, sparks, and smells acrid.",
+                "Sylan's first agenda item: they are hunting a lich. Carlkin does not know the name Grixto. He does know the Emperor of Nyx. Sylan says they are the same person: the Emperor of the Hobgoblins was a lich who took Sylan's homeland and Nyx by underhanded means. The party brought down that emperor, then learned he was a lich, killed him once, and later found him again. They hunt him now because he wants the keystones.",
+                "Carlkin already knew the hobgoblins had fallen into civil war and that other peoples were afraid. He says he should have assumed this party was involved, and that toppling that regime was good. He concludes they never destroyed the phylactery.",
+                "Sylan says the phylactery stays on Grixto's person and is a small mundane item. Clues point to his fondness for chess and game pieces. He has been hard to find. Carlkin asks how an item kept on his person was missed at the killing. Sylan says they would have thought of that and believes they have pilfered him at least once. The explanation is cut off there."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Carlkin tells Gerk that falling into a dangerous keystone with the party's mystical items would have been bad, and that not knowing the outcome is exactly why it must not be tried.",
+        "Sylan explains that he uncovered Gerk's role as Doorman and told him; Carlkin says the Mother's Prayer would eventually have been involved and scolds them for opening portals on his boat.",
+        "Gerk says Plymouth was present when he gained the ability. Gerk mimes opening a door; Carlkin flees upstairs and continues through a knothole in the floor.",
+        "Carlkin teaches Gerk to target one specific known door, forbids portals on moving ships and in places meant for peaceful rest, and warns that a portal can stay fixed, tear reality, and become a three-way opening.",
+        "Carlkin explains thirty keystones, gatehouses on ley lines, and that opening one functional arch gatehouse opens the other functional ones at once. Assembling every keystone in one gatehouse would pin the gatekeepers there as dormant guardians. He says only study, or a keyed gate fixed to one destination, bypasses needing a gatekeeper or doorman.",
+        "Sylan says only Gerk can open a door so far. Carlkin demotes him verbally to footman, threatens to teleport away forever if another door opens here, and Gerk promises not to.",
+        "Carlkin serves the good china and spiked tea to Dana, Gerk, Sylan, Ord, Benji, and himself, and asks what they need.",
+        "Sylan reveals Grixto is the Emperor of Nyx, a lich who seized Sylan's homeland and Nyx, was killed once, returned, and is hunting the keystones. The phylactery is a small mundane item kept on him, possibly among chess or game pieces, and the party believes they looted him at least once."
+    ],
+    "entities": {
+        "Carlkin": {
+            "existing": "Turtle-like ally in New Navel, associated with a lighthouse and bookshop.",
+            "entityType": "NPC",
+            "notes": [
+                "He does not know what would have happened if Gerk had been drawn into a dangerous keystone along with the party's mystical items, and treats that ignorance as a reason not to try it.",
+                "He was present when Gerk learned to open doors, but did not manage to teach him that a door to nowhere opens onto nowhere or that a boat is a forbidden site.",
+                "He lives and receives people in a tower the scene treats as cluttered and slightly mad, keeps good china, doilies, and a genuine silver platter for proper visitors, and prefers appointments. He says he is usually free Tuesdays at nine thirty.",
+                "He withholds the names of scholars who study the Mother's Prayer and says he keeps some secrets in reserve.",
+                "He can teleport away and threatens to do so permanently if Gerk opens another door in his home.",
+                "He knows the Emperor of Nyx and already knew the hobgoblin realm had fallen into civil war, but he does not know the name Grixto or that the emperor was a lich.",
+                "He serves a thin steaming tea-like liquid from a jug resembling one Ord sometimes carries, and adds liquor to his own cup.",
+                "Benji is with him during this meeting and has been quietly watching."
+            ],
+            "titles": [],
+            "personality": [
+                "Fussy about hospitality, appointments, and the good china.",
+                "Openly afraid of portal magic used carelessly in his home.",
+                "Sarcastic about the party destabilizing a continent, then willing to call the fall of the hobgoblin regime a good thing.",
+                "Secretive: he knows more than he will say and resents being underestimated."
+            ],
+            "quotesThemes": [
+                "When the person telling you the danger does not know what would have happened, you should not try it.",
+                "A portal opened on a moving ship stays put, and reality can rip.",
+                "He would rather teleport away forever than remain while Gerk opens a door here."
+            ],
+            "openQuestions": [
+                "Which scholars study the Mother's Prayer? He refuses to say.",
+                "What would actually have happened if Gerk had been taken into one of those keystones?"
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and keeper of the Midgar keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan, not Gerk's own search, is what first identified him as the Doorman and brought him the news.",
+                "He claims he was never taught the rules and would have avoided the responsibility if he had known. Carlkin says the legends call it Gerk's choice.",
+                "Plymouth was present when Gerk received the ability. Gerk believes Plymouth knows the rules and simply did not explain them.",
+                "Carlkin provisionally titles him footman, an apprentice rank, until he earns Doorman. Gerk accepts the label grudgingly.",
+                "He promises not to open a door in Carlkin's home again.",
+                "He says he cannot write. Carlkin still tries to have the lesson written down.",
+                "He is described as changed or bound to one of the keystones, and Carlkin expects future portals from him to be tied to that keystone.",
+                "Sylan confirms that, so far, Gerk is the only one of the party who can open a door."
+            ],
+            "titles": [
+                "Footman (Carlkin's provisional rank, beneath Doorman)"
+            ],
+            "personality": [
+                "Deflects responsibility and paperwork, and lies down on the floor at the word agenda."
+            ],
+            "quotesThemes": [
+                "Nobody told him the rules.",
+                "He promises never to open a door in Carlkin's place again."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He investigated on his own, decided Gerk was the Doorman, and told him, because he did not think Gerk would learn it himself any time soon. He and the party did not know whom to trust while gathering those pieces.",
+                "He says the party has tried to use the keystones to open portals and failed; only Gerk can do it currently.",
+                "He hopes to bring his sister home and thinks something good may come of that.",
+                "Asked whether his mother is a tree, he says it is complicated.",
+                "The Emperor of Nyx, revealed as the lich Grixto, took control of Sylan's homeland and of Nyx. Sylan is the one who lays out the hunt, the single killing, the return, and the phylactery clues."
+            ],
+            "titles": [],
+            "personality": [
+                "Drives the briefing and would rather talk now than book a later appointment."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is his mother a tree? He only says it is complicated.",
+                "Who is his sister, and where is she that he hopes to bring her home?"
+            ]
+        },
+        "Doorman": {
+            "existing": "Gerk's role and the ability to open doorways.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin distinguishes Doorman from Footman. Doormen were the more prestigious rank. Footmen were their apprentices and were taught the craft by them. He will not grant Gerk the Doorman title yet.",
+                "Other people besides Gerk can open doors. Gatekeeper or Doorman is the usual requirement to use a keystone, but long study can work around that.",
+                "Practical limits taught here: name and visualize one exact door you know; do not open onto a place you hope to rest peacefully; never open on a moving ship, because the portal stays, reality can tear, and a three-way connection can form.",
+                "Mastery plus wide travel could allow openings nearly anywhere, but a keystone bond channels the duty toward that keystone's portals."
+            ],
+            "titles": [
+                "Footman"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Gerk asks whether Carlkin knows all the doormen. The answer is lost in the tangled exchange about mothers and trees."
+            ]
+        },
+        "Keystones": {
+            "existing": "Magical stones that open and connect Atlas's arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Carlkin speaks of thirty keystones that connect the worlds.",
+                "If all of them are brought together in one gate or gatehouse, the gatekeepers are more or less obligated to stay there, dormant, keeping the network safe.",
+                "A key can instead be seated in a built gate that opens only to a predetermined location. That is narrower than what a gatekeeper can do.",
+                "A gatekeeper can chain gatehouses: opening one portal, for example toward the Reach or from the Midgar gatehouse, is a web, and every other currently functional arch gatehouse opens at the same time regardless of who is present. He counts seven other arches besides the one used.",
+                "Those linked openings are a property of gatehouses because they sit on ley lines. Using a keystone elsewhere would require sitting at a powerful crossing of ley lines. The party has tried and, except for Gerk's doors, has not succeeded.",
+                "Grixto wants the keystones, which is why the party is still hunting him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gatehouse": {
+            "existing": "A site that governs keystone-operated gates.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Gatehouses sit on ley lines. When one functional gatehouse opens a portal, the other functional arch gatehouses open with it.",
+                "Carlkin's example is a gatehouse for Midgar, with seven other arches responding.",
+                "Gathering every keystone into one gatehouse would bind the gatekeepers to remain there as guardians."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mother's Prayer": {
+            "existing": "Ancient Navi prophecy that currently describes Gerk.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin calls it an interesting conundrum, studied by several scholars, and says Gerk is subject to the whims of the universe because of it.",
+                "He refuses to name those scholars.",
+                "He implies that even without Sylan's investigation, possession of or entanglement with the Mother's Prayer would eventually have revealed Gerk's role."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who are the scholars Carlkin will not name?"
+            ]
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist seeking Al Kurin, hiding a phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan identifies him as the Emperor of Nyx, the hobgoblin emperor, and a lich. Carlkin knows the emperor and the fall of the hobgoblins, but not the name Grixto or the lich reveal.",
+                "He took Sylan's homeland and Nyx through shrewd, underhanded means.",
+                "The party killed him once, then found him again. They did not destroy the phylactery.",
+                "The phylactery is said to be a small mundane item kept on his person. He is fond of chess and game pieces, which are the current clues. He has been difficult to find.",
+                "Sylan believes the party has pilfered him at least once, which Carlkin points out sits badly with an item that should have been on the body.",
+                "He is very interested in the keystones, and that is the reason they are hunting him now."
+            ],
+            "titles": [
+                "Emperor of Nyx",
+                "Emperor of the Hobgoblins"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "If the phylactery is a mundane item kept on his person, how was it missed when they killed him and believe they looted him at least once?"
+            ]
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul. Grixto is thought to hide his among mundane possessions.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "For Grixto, the party now states it stays on his person and is a small mundane item, with chess and game pieces as the lead.",
+                "Carlkin treats the earlier killing as proof they did not destroy it, and asks why an item on the body was not taken then."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Which piece, if any, is the phylactery, given they think they already pilfered him?"
+            ]
+        },
+        "Nyx": {
+            "existing": "A place that may hold hobgoblins who know where the lich is hiding.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Its emperor was Grixto, a lich, who also seized Sylan's homeland.",
+                "After the party cast the emperor down, the hobgoblins fell into civil war and neighboring people were afraid. Carlkin already knew that much and considers the regime's fall a good outcome."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer who explained the Eldarin Tree, keystones, and Mother's Prayer to the new keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Gerk says Plymouth was present when Gerk received the door ability and therefore knows how it works. Gerk's complaint is that Plymouth never told him the rules. Carlkin agrees Plymouth was there and knew."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Benji": {
+            "existing": "Someone familiar with the Reach who may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "He is physically present at Carlkin's for this whole conversation, mostly watching.",
+                "He smokes a pipe that he has to relight. It sputters, sparks, and puts an acrid smell in the room.",
+                "Carlkin includes him when asking someone to fetch paper, and sets him a cup with the party."
+            ],
+            "titles": [],
+            "personality": [
+                "Quiet and observational while the others argue."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Feldspar gatekeeper. An effect has previously outlined his invisible body.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Carlkin sets a cup for him and calls his presence technical, which fits him being there without being plainly visible.",
+                "Carlkin owns a jug of thin tea-like liquid that looks like a jug Ord pulls out from time to time."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystone Keepers": {
+            "existing": "The party members entrusted with keystones and realms, recognized as children of the Great Eldarin Tree.",
+            "entityType": "GROUP",
+            "notes": [
+                "They have pledged themselves as gatekeepers. That pledge is the normal license to use a keystone, alongside the Doorman, with long study as a lesser workaround.",
+                "Carlkin says that if every keystone is assembled in a single gatehouse, the gatekeepers are more or less obligated to remain there, dormant, and protect it.",
+                "Except for Gerk, they have not successfully opened a keystone portal."
+            ],
+            "titles": [
+                "Gatekeepers"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Zion",
+            "likely": "Sylan",
+            "notes": "Carlkin asks what Sylan agreed to: 'What do you mean Zion agree to it?'"
+        },
+        {
+            "heard": "Kirkin",
+            "likely": "Carlkin",
+            "notes": "Carlkin talking about expecting good visitors."
+        },
+        {
+            "heard": "Kajana",
+            "likely": "china",
+            "notes": "Gerk says he does not care about Kajana because the food is the good part, during the good-china argument."
+        },
+        {
+            "heard": "old Gerk",
+            "likely": "old Carlkin",
+            "notes": "'No one thinks old Gerk living in the crazy tower knows everything' is Carlkin talking about himself."
+        },
+        {
+            "heard": "Atena",
+            "likely": "Dana",
+            "notes": "'Atena or Benji, one of you, get him paper.' Dana answers."
+        },
+        {
+            "heard": "Okay, Car",
+            "likely": "Okay, Gerk",
+            "notes": "Said to Gerk just before the portal lesson."
+        },
+        {
+            "heard": "Rita",
+            "likely": "",
+            "notes": "Example of a target that is too vague: 'you don't think I want to go to Rita.' Unclear if a place, a person, or a mangled phrase."
+        },
+        {
+            "heard": "Burgers Front Door",
+            "likely": "",
+            "notes": "The specific-door example: 'the burgers front door of the longhouse.' May be a bar, a burgher, or a real longhouse."
+        },
+        {
+            "heard": "longhouse",
+            "likely": "",
+            "notes": "Same example as the burgers front door. Not clearly an existing named site."
+        },
+        {
+            "heard": "30 keystones",
+            "likely": "",
+            "notes": "'Changed yourself to one of the 30 keystones.' May be a real count or a garble of 'the keystones.'"
+        },
+        {
+            "heard": "Midcart",
+            "likely": "Midgar",
+            "notes": "Gatehouse used as the spider-web example."
+        },
+        {
+            "heard": "lay lines",
+            "likely": "ley lines",
+            "notes": "Repeated as the reason gatehouses link and as the requirement for a keystone portal away from a gatehouse."
+        },
+        {
+            "heard": "Gerkha",
+            "likely": "Gerk",
+            "notes": "Sylan: 'Gerkha's the only one that can open a door.'"
+        },
+        {
+            "heard": "Actors",
+            "likely": "",
+            "notes": "Sylan: 'Actors are living,' in the exchange about whether trees and someone's mother are alive. May be Eldarin or simply 'our trees.'"
+        },
+        {
+            "heard": "Theresa",
+            "likely": "trees",
+            "notes": "Carlkin: 'Theresa are most certainly alive. Is your mother a tree?'"
+        },
+        {
+            "heard": "Dora Man",
+            "likely": "doorman",
+            "notes": "'I don't wanna kill a Dora Man, or that fledging.'"
+        },
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Sylan asks if Carlkin has heard the name."
+        },
+        {
+            "heard": "Grixo",
+            "likely": "Grixto",
+            "notes": "Carlkin repeats the name this way and says he does not know it."
+        },
+        {
+            "heard": "Nick's",
+            "likely": "Nyx",
+            "notes": "'Took control of my homeland and Nick's.'"
+        },
+        {
+            "heard": "ledge",
+            "likely": "lich",
+            "notes": "Sylan's agenda item: 'we are hunting a ledge.'"
+        },
+        {
+            "heard": "litch",
+            "likely": "lich",
+            "notes": "Sylan: the Emperor of the Hobgoblins was a litch."
+        },
+        {
+            "heard": "leech",
+            "likely": "lich",
+            "notes": "Carlkin: 'he was a leech of some kind.'"
+        },
+        {
+            "heard": "Lizzy",
+            "likely": "lich",
+            "notes": "'this Lizzy's phyllactory.'"
+        },
+        {
+            "heard": "phyllactory",
+            "likely": "phylactery",
+            "notes": "Carlkin's pronunciation of the lich's soul vessel."
+        }
+    ],
+    "openQuestions": [
+        "Carlkin does not know what would have happened if Gerk had been sucked into one of the dangerous keystones with the party's items.",
+        "Carlkin refuses to say which scholars study the Mother's Prayer.",
+        "Gerk asks if Carlkin knows all the doormen, and the reply never clearly answers it.",
+        "Carlkin asks whether Sylan's mother is a tree. Sylan says it is complicated.",
+        "If Grixto keeps a mundane phylactery on his person, why was it not found when the party killed him and believes they pilfered him at least once?"
+    ],
+    "newTerms": [
+        {
+            "name": "Footman",
+            "notes": [
+                "Carlkin's name for an apprentice doorman. Doormen were more prestigious and taught footmen the craft. He uses it for Gerk until Gerk earns Doorman."
+            ]
+        },
+        {
+            "name": "Ley line",
+            "notes": [
+                "Gatehouses sit on ley lines, which is why opening one functional arch gatehouse opens the other functional ones together. A keystone portal away from a gatehouse would need a powerful ley-line crossing."
+            ]
+        },
+        {
+            "name": "Emperor of Nyx",
+            "notes": [
+                "Title of the hobgoblin emperor. Sylan says this emperor and the lich Grixto are the same person. His fall threw the hobgoblins into civil war."
+            ]
+        },
+        {
+            "name": "Sylan's sister",
+            "notes": [
+                "Sylan hopes to bring her home and suggests that doing so may turn out well. No name or location is given in this chunk."
+            ]
+        }
+    ]
+}

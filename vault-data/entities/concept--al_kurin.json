@@ -31,6 +31,13 @@
         "Described as a dragon's heart of hearts. Grixto took them from guild companions he killed at the training grounds and used them to amplify his power.",
         "In Emhet's vision he sat with a couple of Al Kurin while plotting his next steps."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Carlkin treats Grixto's dragon-killing as theft of Al Kurin and immediately asks where Walker and his dragon are. Elrus says Walker's theory, that Grixto became a lich after Galixtar's death, would explain his eagerness to obtain the Al Kurin.",
+      "notes": [
+        "Carlkin treats Grixto's dragon-killing as theft of Al Kurin and immediately asks where Walker and his dragon are. Elrus says Walker's theory, that Grixto became a lich after Galixtar's death, would explain his eagerness to obtain the Al Kurin."
+      ]
     }
   ],
   "openQuestions": [
@@ -38,5 +45,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:12:46.881Z",
-  "updatedAt": "2026-09-22T19:55:56.788Z"
+  "updatedAt": "2026-09-29T18:43:12.968Z"
 }

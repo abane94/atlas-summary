@@ -46,12 +46,20 @@
         "Over the mind link she says she thought the place was unused and that the death smells fresh. She grumbles at the smell and readies her fiery breath as Walker advances.",
         "While crawling she must use Stealth at disadvantage. She has no Stealth bonus; the check is Dexterity. She rolls a 19 counted as 18 and works along above Walker in a spiral without making much noise."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Glimmen is not at the lighthouse; Sylan says the dragon is on a mission. She cannot follow the same path out of the cave and has to backtrack. She meets Walker and Elrus on the plains before the climb to the ruins.",
+      "notes": [
+        "Not at the lighthouse. Sylan says the dragon is on a mission.",
+        "Cannot follow the same path out of the cave and has to backtrack. She meets Walker and Elrus on the plains before the climb to the ruins."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:46:29.731Z",
-  "updatedAt": "2026-09-22T19:58:39.464Z",
+  "updatedAt": "2026-09-29T18:28:46.146Z",
   "normalizedAliases": [
     "glimmen"
   ]

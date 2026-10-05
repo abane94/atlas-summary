@@ -31,12 +31,20 @@
         "Says the party has explored only roughly the top third of the mountain.",
         "Confirms that damage to the archives resulted from both raiding and natural degradation."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Carlkin still believed the party's job was to bring the keystones to Juten Prime, while Sylan says that delivery is finished. When the party told her about Gerk, with Plymouth Gawater present, she said little about Gerk's mother or the things Gerk sees.",
+      "notes": [
+        "Carlkin still believed the party's job was to bring the keystones to her. Sylan says that delivery is finished.",
+        "When the party told her about Gerk, with Plymouth Gawater present, she said little about Gerk's mother or the things Gerk sees."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:59:37.675Z",
-  "updatedAt": "2026-08-21T17:45:14.910Z",
+  "updatedAt": "2026-09-29T18:29:37.361Z",
   "normalizedAliases": [
     "juten prime"
   ]

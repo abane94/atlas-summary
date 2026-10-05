@@ -1,0 +1,311 @@
+{
+    "plotSections": [
+        {
+            "title": "How they answered the better path",
+            "bullets": [
+                "Dana describes the lich's dealings with the party as an attempt to consume them; convert is the wrong word.",
+                "Asked which path he chose, Gerk says he talked through his day, his feelings, and a long account of his general well-being, and that the lich did not like it.",
+                "Sylan says he told the lich they were still looking for him and were going to find him. The lich had been pleased they had not bothered him in a while."
+            ]
+        },
+        {
+            "title": "Kin, Al Kurin, and where Walker is",
+            "bullets": [
+                "The speaker asks whether the legend is true that the lich killed all of his kin. Dana says that in the visions she has seen, he killed at least some of the young ones.",
+                "That is treated as concerning. If this lich kills dragons and steals Al Kurin, the question is where Walker, his dragon, and his rider are."
+            ]
+        },
+        {
+            "title": "Walker finds Vecna waiting",
+            "bullets": [
+                "Walker stands before Vecna, who sits semi-relaxed, tapping old pieces on the table. Vecna has been waiting, looking for his book, and greets him.",
+                "Walker had sent Elrus in ahead. Elrus is scrambling down the passage toward them. Vecna takes the approaching figure for another of Walker's comrades.",
+                "Walker says Vecna is no nearer to finding Galixtar or the book. Vecna wants the red-skinned book back. An elder of his showed the party a vision of the belongings' last known location, so Vecna came to investigate and offers the finder boons. He does not patronize often, but he will make deals for those who do him a favor.",
+                "Walker brushes the offered favor off as something cheap he no longer wants. Out of character he does not want to be indebted to Vecna."
+            ]
+        },
+        {
+            "title": "A trade for the book and the phylactery",
+            "bullets": [
+                "Walker says he is not after the book. He is after Grixto. He says Grixto and Galixtar are together.",
+                "Vecna takes Grixto as the lich. Of Galixtar, he guesses she is an aberration, a possessed spirit tied to a piece.",
+                "Walker proposes that they might help each other: he wants the phylactery, and Vecna wants the book the lich allegedly has. Vecna first hears this as an exchange of locations. Walker revises it: if Walker comes to hold the book and Vecna comes to hold the phylactery, they could trade.",
+                "Dana rejects that trade. Vecna restates it as him recovering the phylactery, the party recovering the book, and then an exchange. Walker says that is not the deal, only that if each ends up holding what the other wants, it could be a business opportunity.",
+                "Vecna says he is willing to help those who help him, then asks whether Walker knows what the phylactery is. Walker says no, and warns Vecna not to name it in a way that would put Walker in his debt.",
+                "Vecna calls the bargain one-sided. He would be giving the phylactery's location and its identity, while Walker would only be returning a book Walker already knows by sight. Vecna says he deserves more than the book. The exchange cuts off as Walker starts to answer."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Dana says the lich's interactions with the party are an attempt to consume them.",
+        "Gerk reports the path he gave the lich: a long account of his day, his feelings, and his well-being, which the lich disliked.",
+        "Sylan reports that he told the lich they were still looking and would find him, after the lich had been glad to be left alone.",
+        "Dana confirms from her visions that the lich killed at least some of the young ones, not necessarily all of his kin. The speaker then asks where Walker and his dragon are if the lich is killing dragons and stealing Al Kurin.",
+        "Walker is with Vecna, who is waiting at a table with old pieces and looking for his book. Elrus, sent by Walker, scrambles down the passage.",
+        "Walker tells Vecna that Vecna is no nearer to Galixtar or the red-skinned book. Vecna says an elder's vision of the book's last known location brought him here, and he offers boons or a deal to the finder.",
+        "Walker says he wants Grixto, and that Grixto and Galixtar are together. Vecna calls Grixto the lich and guesses Galixtar is a possessed spirit tied to a piece.",
+        "Walker floats a trade of the book for the phylactery. Vecna misunderstands it as swapping locations, then as each retrieving the other's object. Dana objects. Walker narrows it to a possible later exchange if each holds what the other wants.",
+        "Walker admits he does not know what the phylactery is. Vecna says that makes the deal uneven, because he would be supplying both its location and its identity, and he wants more than the return of the book."
+    ],
+    "entities": {
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Dana frames his contact with the party as an attempt to consume them.",
+                "He disliked Gerk's answer, a long account of Gerk's day and general well-being.",
+                "He had been pleased the party had not bothered him in a while. Sylan then told him they were still looking and would find him.",
+                "In Dana's visions he killed at least some of the young ones among his kin. He is described here as a dragon killer who steals Al Kurin.",
+                "Walker tells Vecna that Grixto and Galixtar are together, and that the lich allegedly has Vecna's book. Vecna identifies Grixto as the lich."
+            ],
+            "titles": [],
+            "personality": [
+                "His approach to the party is to consume them rather than merely convert them."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Did he kill all of his kin, or only some of the young ones?"
+            ]
+        },
+        "Galixtar": {
+            "existing": "A dragon associated with Grixto and being hunted by the party.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker tells Vecna that Vecna is no nearer to finding Galixtar, and that she and Grixto are together.",
+                "Vecna's guess is that she is an aberration: a possessed spirit tied to a piece, distinct from the lich himself."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery, pursuing hidden knowledge while reminding others they remain mortal.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker finds him sitting semi-relaxed, tapping old pieces, waiting and looking for his book.",
+                "He calls the book his red-skinned book and wants it back. An elder of his showed the party a vision of the belongings' last known location, which is why he came to investigate.",
+                "He offers the finder boons and says he will make deals for those who do him a favor. He does not patronize often.",
+                "He is also after Galixtar. He takes Grixto as the lich and guesses Galixtar is a possessed spirit tied to a piece.",
+                "He is willing to help Walker get the phylactery in exchange for the book, but once Walker admits he does not know what the phylactery is, Vecna says the deal is one-sided: location plus identity against a book Walker already recognizes. He wants more than the book."
+            ],
+            "titles": [],
+            "personality": [
+                "He will deal with people who do him a favor, and he pushes for the heavier side of a bargain."
+            ],
+            "quotesThemes": [
+                "He offers to scratch the back of those who scratch his."
+            ],
+            "openQuestions": [
+                "What more than the book does Vecna want from the bargain?"
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He had instructed Elrus to come in, and Elrus is scrambling down the passage as Walker speaks with Vecna.",
+                "He tells Vecna that Vecna is no nearer to Galixtar or the book, and that he himself is after Grixto, who is with Galixtar, rather than after the book.",
+                "He proposes that if he comes to hold Vecna's book and Vecna comes to hold the phylactery, they could trade. He walks it back from an agreed exchange of locations.",
+                "He does not know what the phylactery is, and he warns Vecna not to reveal it in a way that would indebt him.",
+                "Out of character he treats a deal with Vecna as dangerous and does not want to owe him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric, Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She says the lich has been trying to consume the party.",
+                "From visions she has seen, he killed at least some of the young ones.",
+                "She rejects Walker's proposed trade of the book and the phylactery with Vecna."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "When the lich asked which path he had picked, Gerk answered with his day, his feelings, and a long account of his general well-being. The lich did not like that answer."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He told the lich they were still looking for him and were going to find him. The lich had been happy they had left him alone for a while."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker had told him to come in. He is heard scrambling down the passage toward Walker and Vecna. Vecna notices him as another comrade arriving."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker is looking for Grixto's phylactery and offers it as the thing Vecna might one day hold in a trade for Vecna's book.",
+                "Walker does not know what the phylactery is. Vecna treats both its location and its identity as information Walker does not have."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is Grixto's phylactery?"
+            ]
+        },
+        "Al Kurin": {
+            "existing": "Vessels containing the souls of dragons.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The lich is described as killing dragons and stealing Al Kurin, which prompts the question of where Walker and his dragon are."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Litch",
+            "likely": "lich",
+            "notes": "TongaTank: 'so you have Litch with Dragonwriter.'"
+        },
+        {
+            "heard": "Dragonwriter",
+            "likely": "dragon rider",
+            "notes": "Same line, pairing the lich with a dragon rider."
+        },
+        {
+            "heard": "Is Keen",
+            "likely": "his kin",
+            "notes": "Asked just before Dana answers about who the lich killed."
+        },
+        {
+            "heard": "Yungans",
+            "likely": "young ones",
+            "notes": "Dana: 'He killed at least some of the Yungans.'"
+        },
+        {
+            "heard": "leech",
+            "likely": "lich",
+            "notes": "TongaTank: 'If this leech is dragon killer.'"
+        },
+        {
+            "heard": "her curren",
+            "likely": "Al Kurin",
+            "notes": "Same line: killing and stealing Al Kurin."
+        },
+        {
+            "heard": "her writer",
+            "likely": "her rider",
+            "notes": "'where is the dragon and her writer?'"
+        },
+        {
+            "heard": "Vecnow",
+            "likely": "Vecna",
+            "notes": "Walker stands before Vecna."
+        },
+        {
+            "heard": "troop pieces",
+            "likely": "chess pieces",
+            "notes": "Vecna is tapping old pieces on the table; the speaker is searching for the word."
+        },
+        {
+            "heard": "She's talk silent",
+            "likely": "Sylan",
+            "notes": "The question that follows is put to Sylan about which path he picked."
+        },
+        {
+            "heard": "Elvis",
+            "likely": "Elrus",
+            "notes": "Walker waiting for Elrus to come down the passage."
+        },
+        {
+            "heard": "Glic Star",
+            "likely": "Galixtar",
+            "notes": "Walker: Vecna is no nearer to finding Galixtar and the book."
+        },
+        {
+            "heard": "rat skin book",
+            "likely": "red-skinned book",
+            "notes": "Walker's wording; Vecna answers with the red-skinned book."
+        },
+        {
+            "heard": "Red Skiner",
+            "likely": "red-skinned book",
+            "notes": "Vecna: 'my Red Skiner, yes. I'd much like that back.'"
+        },
+        {
+            "heard": "Golixtar",
+            "likely": "Galixtar",
+            "notes": "Walker: 'Garixto, Golixtar, they're together.'"
+        },
+        {
+            "heard": "abdoration",
+            "likely": "aberration",
+            "notes": "Vecna's guess that Galixtar is an aberration, a possessed spirit tied to a piece."
+        },
+        {
+            "heard": "Sedlich",
+            "likely": "said lich",
+            "notes": "Walker: the book that the lich has, allegedly."
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": "Vecna repeating the proposed trade."
+        },
+        {
+            "heard": "phylactra",
+            "likely": "phylactery",
+            "notes": "Walker clarifying what he meant to trade."
+        },
+        {
+            "heard": "phlactory",
+            "likely": "phylactery",
+            "notes": "Vecna on the location and identity he would be providing."
+        }
+    ],
+    "openQuestions": [
+        "Did the lich kill all of his kin, or only some of the young ones?",
+        "What is Grixto's phylactery?",
+        "What more than his book does Vecna want in exchange for the phylactery's location and identity?"
+    ],
+    "newTerms": [
+        {
+            "name": "Vecna's red-skinned book",
+            "notes": [
+                "The book Vecna is searching for. He says an elder of his showed the party a vision of its last known location, and he offers boons or a deal to whoever finds it. Walker says the lich allegedly has it."
+            ]
+        },
+        {
+            "name": "Vecna's elder",
+            "notes": [
+                "Vecna credits an elder of his with the vision of the book's last known location that the party was shown."
+            ]
+        }
+    ]
+}
