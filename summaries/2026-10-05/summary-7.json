@@ -1,0 +1,279 @@
+{
+    "plotSections": [
+        {
+            "title": "Walker meditates with Elrus",
+            "bullets": [
+                "Elrus has Walker set aside what he is holding and sit with him to work through the rituals Grixto has laid out, focusing on where Walker needs to go and how to get there.",
+                "Elrus sits cross-legged in the middle of the room and coaches nose-and-diaphragm breathing, a wave-like breath, and a sense of the floor beneath them. Walker follows and settles into the same meditation.",
+                "Walker pockets the eagle he had been holding. The scene leaves him meditating."
+            ]
+        },
+        {
+            "title": "Sixth day in New Navel",
+            "bullets": [
+                "The rest of the party is outside Carlkin's lighthouse at midday on day six, with a day and a half left before an unnamed deadline. New Navel is busy with ordinary traffic.",
+                "Sylan calls the day long enough: rest, wait to hear from Walker, then help Gerk practice his doorway. Gerk worries something will go wrong; Sylan answers that they solved it last time, and Gerk notes that was with violence.",
+                "Gerk suggests opening onto Carlkin's living room. Sylan wants that saved for tomorrow and prefers short distances while Gerk trains. Carlkin had told them not to use doors in his house; Gerk's distinction is that he would not be inside the house when he opened one."
+            ]
+        },
+        {
+            "title": "Night at the tavern",
+            "bullets": [
+                "Sylan, Ord, and Gerk go to the party's pub rather than straight back to the stronghold. Ciri is already there, drunk in the corner behind a pile of mugs, crouched as if hidden and too drunk to stealth.",
+                "The night is a drinking montage. The basement is finished and can hold cold storage. Owners are not charged. Locals recognize the party, and newer faces include travelers and traders. A middle-aged half-elf minstrel plays a classical lute while moving through the room instead of staying on a stage.",
+                "Flavian is the name given for one of the tavern staff. They wake the next morning in the stronghold to the building shaking and the smell of fresh buns."
+            ]
+        },
+        {
+            "title": "Check-in clock and Gerk's training",
+            "bullets": [
+                "Seven days on Walker's side equal one day for the party. Walker has already spent about forty-two days of that faster time without contacting them.",
+                "The agreed check-in was one Midgar week: a week of the party's time, not a week of Walker's. He is not overdue, and the party is not yet worried.",
+                "After breakfast in the great hall, Sylan starts Gerk's doorway training. Gerk questions why Sylan is the one to train him, looks to Ord (mid-bite of a bun), then accepts Sylan and asks whether Ord is coming along. Sylan has already been up for four hours; Ciri is face-down in the buns."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Elrus sets Walker to unwind the rituals Grixto put forward and has him sit and meditate.",
+        "Walker pockets the eagle he was holding and matches Elrus: seated, breathing through the nose and diaphragm, thinking about where he must go.",
+        "The view shifts to the rest of the party outside Carlkin's lighthouse at midday on day six, with a day and a half remaining.",
+        "Sylan proposes rest, then training Gerk's doorway. Gerk floats a short jump to Carlkin's living room; Sylan delays that until tomorrow.",
+        "Ord, Sylan, and Gerk go to the pub. Ciri is already drunk in the corner, stealth blown, surrounded by mugs.",
+        "The tavern night passes with staff including a woman the DM calls Flavian, a finished cold-storage basement, locals and traders, and a wandering half-elf lutenist. The party sleeps it off.",
+        "They wake in the stronghold to shaking and fresh buns. The table clarifies that Walker's check-in is one Midgar week, so forty-two days of his time so far does not mean he is late.",
+        "In the great hall, Sylan takes Gerk's training after breakfast. Gerk accepts him and asks if Ord will join."
+    ],
+    "entities": {
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Guides Walker through a seated meditation meant to give him time to unweave rituals Grixto has set for him.",
+                "Coaching covers nasal, diaphragm breathing described as a wave, feeling the floor, and concentrating on where Walker needs to be, where he has to go, and what he needs to get there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Unravel the puzzle in front of you: where you need to be, where you have to go, and what you need to get there."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Agrees to try Elrus's approach, pockets an eagle he was holding, and meditates with him. The cutaway leaves him in that meditation.",
+                "His subjective time runs about seven days for each day the party experiences. By this morning roughly forty-two of his days have passed without a check-in.",
+                "He told the party he would talk to them in a week, meaning one Midgar week of their time. They are not due to hear from him yet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Elrus tells Walker to use the meditation to unweave rituals Grixto has put forward for him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman and Child of the Tree, keeper of the Midgar keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan schedules doorway practice after a rest day. Gerk's offered target is Carlkin's living room; Sylan wants short distances and a start tomorrow.",
+                "He expects trouble if the ability goes wrong and frames the last success as violence.",
+                "After breakfast he accepts Sylan as the one to train him and asks whether Ord will come along."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Will Ord join Gerk's doorway training?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "On day six he pushes for rest at the pub, then doorway practice for Gerk, favoring short distances before any jump toward Carlkin.",
+                "He remembers Carlkin's instruction not to use doors in the house.",
+                "Next morning he has already been up four hours, leads Gerk's training, and Gerk accepts him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person whose lighthouse and bookshop are in New Navel; believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "He told the party not to use doors in his house. Gerk still wants a doorway aimed at the living room, arguing he would not himself be in the house."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue, keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Already at the pub when the others arrive, drunk enough that she can no longer stealth: crouched in the corner behind a pile of mugs, convinced she is hidden.",
+                "At breakfast her face is in the buns."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin, Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Goes to the pub with Sylan and Gerk.",
+                "At breakfast in the great hall he is eating a hot bun. Gerk looks to him before accepting Sylan as trainer and asks if Ord will come along."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale Stronghold": {
+            "existing": "Party's central stronghold and home base.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The morning after the pub night the stronghold is shaking and smells of freshly baked buns. Breakfast is in the great hall."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "Familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Midday on the party's sixth day: people are out on ordinary errands. Traders are also coming through for trade associated with New Navel.",
+                "A day and a half remains on the current clock when the party is still outside the lighthouse."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Flavian": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Name the DM attaches to a woman on the tavern staff during the drinking night. He is not certain he has the name right."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Elrus's line about rituals put forward for Walker."
+        },
+        {
+            "heard": "unre unweave",
+            "likely": "unravel and unweave",
+            "notes": "Same line about Grixto's rituals."
+        },
+        {
+            "heard": "Scary's Lur",
+            "likely": "Ciri's lurk",
+            "notes": "Ciri describing herself hiding drunk in the corner."
+        },
+        {
+            "heard": "colds",
+            "likely": "cold stores",
+            "notes": "Basement finished so they can store cold goods."
+        },
+        {
+            "heard": "dullhurst",
+            "likely": "",
+            "notes": "Origin of traders coming for business tied to New Navel. Reused place-name candidate, not confirmed."
+        },
+        {
+            "heard": "rita",
+            "likely": "",
+            "notes": "Paired with New Navel as a trade destination: 'New Navel slash Rita.'"
+        },
+        {
+            "heard": "B man time",
+            "likely": "Brennan time",
+            "notes": "DM's label for Walker's faster subjective clock, about forty-two days elapsed."
+        },
+        {
+            "heard": "grade hall",
+            "likely": "great hall",
+            "notes": "Where the party eats breakfast in the stronghold."
+        },
+        {
+            "heard": "trade me",
+            "likely": "train me",
+            "notes": "Gerk asking why Sylan is qualified to train him."
+        },
+        {
+            "heard": "Ordin",
+            "likely": "Ord",
+            "notes": "Gerk looking at Ord at breakfast."
+        },
+        {
+            "heard": "Horde",
+            "likely": "Ord",
+            "notes": "Gerk asking if Ord will come along for training."
+        },
+        {
+            "heard": "Simon",
+            "likely": "Sylan",
+            "notes": "Line that Sylan wants Walker to check in."
+        },
+        {
+            "heard": "Flavian",
+            "likely": "",
+            "notes": "DM offers this as a tavern staff name and immediately hedges. May be a misremembered name rather than an ASR error."
+        }
+    ],
+    "openQuestions": [
+        "Will Ord join Sylan in training Gerk's doorway?"
+    ],
+    "newTerms": [
+        {
+            "name": "Midgar week",
+            "notes": [
+                "The unit Walker used for his check-in: one week of party/Midgar time, not one week of his own faster time. Seven of his days pass for each party day, so a Midgar week is on the order of forty-nine days for him."
+            ]
+        },
+        {
+            "name": "Flavian",
+            "notes": [
+                "Possible name of a woman on staff at the party's tavern. The DM was unsure."
+            ]
+        },
+        {
+            "name": "Dullhurst",
+            "notes": [
+                "Heard as a place traders come from, or from beyond, to trade at New Navel. Spelling and identity unconfirmed."
+            ]
+        },
+        {
+            "name": "Rita",
+            "notes": [
+                "Heard beside New Navel as another place those traders are here to deal in. Spelling and identity unconfirmed."
+            ]
+        }
+    ]
+}

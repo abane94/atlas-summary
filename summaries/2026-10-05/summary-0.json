@@ -1,0 +1,192 @@
+{
+    "plotSections": [
+        {
+            "title": "Split clocks",
+            "bullets": [
+                "The party is split. The group moving faster in time is the controlling clock. When their one-week return window runs out, Walker's remaining time will be montaged and he rejoins them. He can also end the split early.",
+                "Five days and a morning have passed since the party left Walker and he ended up on The Reach. Walker has experienced eleven days, which the DM equates to just over two days of the party's time, so he is still in limbo relative to their week."
+            ]
+        },
+        {
+            "title": "Walker's landmarks",
+            "bullets": [
+                "Walker had a conversation with Vecna and may now be in a book club with him; the DM frames this as Walker having opened some communication.",
+                "Walker has been deciphering a drawing on the group's page: an obelisk, an island, a waterfall, and a mountain peak (a mountain abbreviation also works). Relative to standing in the old tower of the dragon rider guild, these landmarks are radially shifted from where they should be.",
+                "Walker's thread last ended on his discovery of an earth, wind, sea, and fire sigil."
+            ]
+        },
+        {
+            "title": "Carlkin's lighthouse, same day",
+            "bullets": [
+                "Play resumes with Ord, Gerk, and Sylan still at Carlkin's lighthouse on the same day as the earlier talk. Sylan never made the Carlkin agenda and expects to spitball.",
+                "They have already told Carlkin that the party has keystones, that Gerk is a doorman, that Gerk opened a door in the room onto the abyss, and that they are hunting a lich whose phylactery is a mundane item he kept on his person.",
+                "Gerk keeps trying to fix the hole he made after Carlkin told him to stop. He is upset because he asked for help in his own way, Carlkin did not listen, and Gerk treats that as his own fault.",
+                "Sylan asks whether Carlkin has questions. Carlkin asks why they came. Sylan starts to answer that they hoped his knowledge and long time in the area would mean he knew something; the answer is cut off."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The DM confirms the split-party clock: the faster group controls the timeline, and Walker's leftover scenes will be montaged when the party's one-week timer ends unless he ends early.",
+        "Five days and a morning have passed for the party since they left Walker on The Reach; Walker has lived eleven days, counted as just over two days of their time.",
+        "The DM notes Walker spoke with Vecna and may have joined a book club, and that Walker has been deciphering a page of radially shifted landmarks (obelisk, island, waterfall, mountain) as seen from the dragon rider guild's old tower.",
+        "Walker's last beat was finding an earth, wind, sea, and fire sigil. The table then returns to Ord, Gerk, and Sylan with Carlkin.",
+        "Gerk keeps repairing the hole despite Carlkin telling him to stop, still on the same day, and is upset that Carlkin ignored his ask for help.",
+        "Sylan asks Carlkin if he has questions. Carlkin asks why they came. Sylan begins to cite Carlkin's knowledge and long presence; the transcript cuts off."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Spoke with Vecna and may have joined a book club; the DM describes this as Walker having started communicating with him.",
+                "Has been deciphering a drawing: obelisk, island, waterfall, and mountain peak, radially misplaced from the view at the old tower of the dragon rider guild.",
+                "His separate thread last ended with discovery of an earth, wind, sea, and fire sigil.",
+                "On The Reach on his own clock: eleven days experienced, equated to just over two days of party time, while five days and a morning have passed since the party left him. He rejoins when their one-week window ends, or sooner if he chooses."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery and pursues hidden knowledge.",
+            "entityType": "NPC",
+            "notes": [
+                "Had a conversation with Walker. The DM suggests Walker may now be part of a book club with him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Tilted landmarks": {
+            "existing": "Cardinal cave carvings set a few degrees off true bearing.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A drawing Walker is deciphering shows an obelisk, an island, a waterfall, and a mountain peak (or simply a mountain). They are radially shifted from their true places if the viewer is standing in the old tower of the dragon rider guild."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "Dragon rider guild training grounds near the Lost Isles.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The old tower of the dragon rider guild is the standing point from which the obelisk, island, waterfall, and mountain are radially out of place."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Reach": {
+            "existing": "Largest Arch realm of Atlas; Walker is its Gatekeeper.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Walker is on The Reach on a slower reunion clock than the party with Carlkin. His eleven days there are treated as just over two days of their time."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person; lighthouse, home, and bookshop in New Navel.",
+            "entityType": "NPC",
+            "notes": [
+                "Ord, Gerk, and Sylan are still with him in the lighthouse on the same day they already briefed him.",
+                "He told Gerk to stop fixing the hole. Gerk is still doing it.",
+                "He asks why they came to him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Asks whether they came for no real reason or what they actually want from him."
+            ],
+            "openQuestions": [
+                "Why did the party come to Carlkin?"
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, Child of the Tree, Midgar keystone keeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Still trying to repair the hole he opened, after Carlkin told him to stop. He insists it is fine.",
+                "He had asked for help in his own way. Carlkin did not listen, and Gerk is upset because he takes that as his fault."
+            ],
+            "titles": [],
+            "personality": [
+                "Stubborn about fixing the damage himself, and sore when someone ignores the way he asks for help."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue, Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Did not prepare an agenda for Carlkin and plans to improvise the rest of the conversation.",
+                "Asks Carlkin whether he has questions, then starts to say they came because he is knowledgeable and has been around a long time."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Carl Clinton",
+            "likely": "Carlkin",
+            "notes": "DM's note title: agenda for Carl Clinton."
+        },
+        {
+            "heard": "Carl Ken",
+            "likely": "Carlkin",
+            "notes": "The group currently with Carl Ken."
+        },
+        {
+            "heard": "pellactery",
+            "likely": "phylactery",
+            "notes": "Gerk: showed her my pellactery. Out-of-game joke; same word as the lich vessel."
+        },
+        {
+            "heard": "flactory",
+            "likely": "phylactery",
+            "notes": "DM recap: his flactory is a mundane item he kept on his person."
+        },
+        {
+            "heard": "Girks",
+            "likely": "Gerk",
+            "notes": "Player self-corrects while describing fixing the hole."
+        },
+        {
+            "heard": "Renji",
+            "likely": "",
+            "notes": "Sylan: since you're quite knowledgeable and Renji you've been a laund for a long time. May be and you, you've been around, or a separate name."
+        },
+        {
+            "heard": "a laund",
+            "likely": "around",
+            "notes": "Same sentence as Renji; you've been around for a long time."
+        },
+        {
+            "heard": "earth, wind, sea and fire",
+            "likely": "",
+            "notes": "DM: the sigil thing Walker had just discovered. May be four elemental signs, or a misheard set of names."
+        }
+    ],
+    "openQuestions": [
+        "Carlkin asks why the party came to him. Sylan only begins the answer: they hoped his knowledge and long time there would help."
+    ],
+    "newTerms": [
+        {
+            "name": "Earth, wind, sea, and fire sigil",
+            "notes": [
+                "A sigil Walker had just discovered at the end of his previous thread, before the table returned to Carlkin."
+            ]
+        }
+    ]
+}

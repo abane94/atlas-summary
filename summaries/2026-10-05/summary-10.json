@@ -1,0 +1,167 @@
+{
+    "plotSections": [
+        {
+            "title": "Forest outskirts, not the red-flag runes",
+            "bullets": [
+                "The group heads into the forest. The DM asks if they are going to previously found runes (heard as Paulette runes). Sylan asks whether those were under the forest, near the edge, or at the red flag; the DM says the red flag marks that spot and that it is a decent way in.",
+                "They do not go to the runes. Sylan wants to enter the forest out of view, and by mid-morning they are on the outskirts to practice Gerk's doorway."
+            ]
+        },
+        {
+            "title": "Place targeting lands a quarter mile off",
+            "bullets": [
+                "They restate the rules: picture something very specific, do not think of nothing, never open underwater, always close the door, and do not open it while moving.",
+                "Gerk focuses on the field in front of the tavern, about twenty feet out from the door, still in Langdale, and says the target aloud. Sylan calls on the Raven Queen and grants Guidance. The check is a 16.",
+                "The door opens about a quarter mile southwest of the imagined spot. The tavern is visible in the distance, and from that angle most of the stronghold can be seen."
+            ]
+        },
+        {
+            "title": "The doorway from the far side",
+            "bullets": [
+                "Sylan hops through and holds the door open. He arrives about a quarter mile southwest of the tavern, near the road from the tavern to New Navel.",
+                "Three human traders with a mule-drawn cart, about a football field away and traveling the other direction, are startled when he appears out of nothing. The portal faces away from them. They keep walking and only glance back.",
+                "Sound and sight pass through the door: Sylan can hear Gerk and can see Gerk and the others in the forest. Otherwise the opening is a stationary, featureless, door-shaped hole, described as a green screen projecting the people on the other side.",
+                "Gerk and Sylan treat portal magic here as not especially shocking."
+            ]
+        },
+        {
+            "title": "A known person can be targeted exactly",
+            "bullets": [
+                "Sylan proposes targeting a person instead of a place. Gerk closes the door and focuses on Sylan, whom he knows is in this realm and whose general location he knows: ten feet behind him, close but not too close. He describes it as wanting to be near his best friend at a respectful distance.",
+                "Gerk rolls a natural 20. The door opens exactly as specified, ten feet behind Sylan. There is no flash and no visible frame. The only sign is sound from the forest they left, including birds.",
+                "Sylan concludes the doorway can work on a person as well as a place. Gerk says knowing Sylan's general location helped. Sylan suggests fondness may also play a part; Gerk allows that it might."
+            ]
+        },
+        {
+            "title": "Test against a hidden Ciri",
+            "bullets": [
+                "Sylan asks whether it still works if Gerk does not know where the person is, and has Ciri hide in the woods. Gerk covers his eyes. He still knows she is somewhere in the forest, not her exact spot, and aims for about a ten-foot circle around her, close but not too close.",
+                "Ciri's stealth check is a 7 on the die and a 23 total. Sylan offers Guidance again. The doorway roll is called for and this chunk ends before the result."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The group sets off into the forest. Asked about previously found runes marked by the red flag, they instead stop on the outskirts, out of view, to practice.",
+        "They review the doorway rules, and Gerk targets a point about twenty feet from the tavern door while Sylan grants Guidance.",
+        "On a 16, the door opens roughly a quarter mile southwest of that point, with the tavern and most of the stronghold visible.",
+        "Sylan steps through onto the tavern-to-New Navel road and startles three human traders with a mule cart about a football field away. The portal carries sound and a view of the forest side, but has no visible frame.",
+        "Gerk closes the door and targets Sylan at ten feet behind him. On a natural 20 the door opens exactly there, noticeable only by forest sound.",
+        "They note that a person can be targeted, that knowing the general location helped, and that fondness might matter.",
+        "Ciri hides in the forest (stealth 23) while Gerk covers his eyes and prepares to open a door near her without knowing the exact spot. The roll is not resolved in this chunk."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Tree who opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Practices from the Langdale forest outskirts with Sylan, Ciri, and Ord.",
+                "Restated rules: think of something very specific, do not think of nothing, never open underwater, always close the door, and do not open it while moving.",
+                "A Guidance-assisted 16 aimed at a spot about twenty feet from the tavern door opens the door about a quarter mile southwest, near the road to New Navel.",
+                "A natural 20 aimed at Sylan, known to be in this realm at a known general location, opens the door exactly ten feet behind him.",
+                "Describes the successful person-target as focusing on being a respectful distance from his best friend. Says knowing the general location helped and that fondness might matter.",
+                "For the next test he covers his eyes and tries to open within about ten feet of Ciri, knowing only that she is in the forest."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "Targets people by focusing on being close, but not too close, to a friend."
+            ],
+            "openQuestions": [
+                "Can the doorway reach a person whose exact location Gerk does not know?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sets the practice on the forest outskirts, out of view, instead of going to the red-flag runes.",
+                "Calls on the Raven Queen to grant Guidance on the first attempt, steps through, and inspects the portal from the road southwest of the tavern.",
+                "Proposes targeting a person, then a person whose exact position is unknown, and offers Guidance again for the Ciri test."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Was lying on the ground trying to nap, then hides in the forest so Gerk can try to open a door to her without seeing where she goes.",
+                "Stealth check: 7 on the die, 23 total."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "Gerk's fixed supernatural passage between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Confirmed limits used in practice: a very specific target, not an empty thought, never underwater, always close it, and not while moving.",
+                "A 16 on a clearly pictured place in Langdale missed by about a quarter mile to the southwest. A natural 20 on a person whose realm and general location were known opened exactly ten feet behind that person, which the DM describes as working as prescribed.",
+                "It can target a place or a person. Knowing the person's general location helped. Fondness for the target is suggested as a possible factor.",
+                "From the destination, the opening is stationary and featureless apart from the view through it, compared to a green screen in a door-shaped hole. Sound passes through. A perfect opening has no flash and no other cue besides ambient sound from the origin.",
+                "An attempt to reach Ciri without knowing her exact position in the forest is started and not resolved."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Does person-targeting still work when Gerk knows the person is in the forest but not where?"
+            ]
+        },
+        "Langdale Stronghold": {
+            "existing": "The party's central stronghold and home base.",
+            "entityType": "LOCATION",
+            "notes": [
+                "From the doorway about a quarter mile southwest of the tavern, most of the stronghold is visible at that angle."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "trigas",
+            "likely": "",
+            "notes": "The DM says the group takes off down into the trigas as they leave for the forest."
+        },
+        {
+            "heard": "Paulette runes",
+            "likely": "",
+            "notes": "Previously found runes the DM asks about. Sylan places them in the forest at the red flag, and the DM agrees the red flag marks that spot."
+        },
+        {
+            "heard": "Migart",
+            "likely": "me, Gerk",
+            "notes": "Sylan says not to kill Migart as Gerk closes the door on him."
+        },
+        {
+            "heard": "Helicover series",
+            "likely": "",
+            "notes": "Sylan, while asking to try a person whose location they do not know: heard as Has I hit Helicover series."
+        },
+        {
+            "heard": "Kipago",
+            "likely": "",
+            "notes": "Ciri, leaving to hide: heard as stared at Kipago as she stomps into the woods."
+        }
+    ],
+    "openQuestions": [
+        "Can Gerk's doorway open on a person when he does not know that person's exact location?"
+    ],
+    "newTerms": [
+        {
+            "name": "Red flag",
+            "notes": [
+                "A marker in the Langdale forest. The DM says it marks runes the party found earlier, heard as Paulette runes, and that the site is a decent way into the forest rather than at the edge. The group does not go there in this chunk."
+            ]
+        }
+    ]
+}

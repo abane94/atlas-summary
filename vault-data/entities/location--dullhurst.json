@@ -1,0 +1,25 @@
+{
+  "name": "Dullhurst",
+  "tags": [],
+  "slug": "A place traders come from, or pass beyond, on the way to New Navel.",
+  "aliases": [],
+  "normalizedAliases": [
+    "dullhurst"
+  ],
+  "filename": "entities/location/dullhurst.md",
+  "description": "A place named as somewhere travelers or traders come from, or pass beyond, on the way to trade at New Navel.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-05",
+      "summary": "At the party's pub, newer faces among the locals were travelers and traders from Dullhurst and beyond, in town to trade at New Navel.",
+      "notes": [
+        "Named as a place travelers or traders come from, or pass beyond, on the way to trade at New Navel."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-06T21:14:56.823Z",
+  "updatedAt": "2026-10-06T21:14:56.823Z"
+}

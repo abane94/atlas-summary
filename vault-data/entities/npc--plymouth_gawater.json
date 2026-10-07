@@ -83,6 +83,15 @@
         "Was present when the party told Juten Prime about Gerk. Carlkin treats that as a chance to claim he has finally gotten ahead of her and of Juten Prime.",
         "Was present when Gerk gained the doorway ability. Gerk and Carlkin agree Plymouth knew how it worked and did not teach the rules, including that a door to nowhere opens onto nowhere and that it must not be opened on a boat."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "While Walker waits in the Dragon Rider ruins, Plymouth is doing scribe work and taking etchings. On an earlier Twin Peaks stop, the party picked him up for the Yowan and hid the last keystone from him until they arrived; Sylan remembers deliberately concealing it. That same stop is tied to a dragon and the last keystone. Plymouth told the party that with time and practice they would be able to use the keystones themselves.",
+      "notes": [
+        "While Walker waits in the Dragon Rider ruins, Plymouth is doing scribe work and taking etchings.",
+        "On an earlier Twin Peaks stop, the party picked him up for the Yowan and hid the last keystone from him until they arrived. Sylan remembers deliberately concealing it. The same stop is tied to a dragon and the last keystone.",
+        "He told the party that with time and practice they would be able to use the keystones themselves."
+      ]
     }
   ],
   "openQuestions": [
@@ -91,7 +100,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:28:12.188Z",
-  "updatedAt": "2026-09-29T18:29:48.087Z",
+  "updatedAt": "2026-10-06T21:04:54.022Z",
   "normalizedAliases": [
     "plymouth gawater"
   ]

@@ -34,6 +34,13 @@
         "Vecna does not say her name. He describes a woman Sylan should now understand, who vied for complete undeath. Other gods saw that grab and stopped her, so it did not end as she wanted.",
         "She holds death, described as the vague moment in between, not undeath. Undead are not passed back through death; they are returned to where they were found, so she has no claim on them. If they passed through death again they would move through her domain."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Sylan calls on the Raven Queen to grant Guidance for Gerk's doorway checks.",
+      "notes": [
+        "Sylan calls on the Raven Queen to grant Guidance for Gerk's doorway checks."
+      ]
     }
   ],
   "openQuestions": [
@@ -42,7 +49,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:56:39.240Z",
-  "updatedAt": "2026-09-29T18:37:27.658Z",
+  "updatedAt": "2026-10-06T21:08:46.031Z",
   "normalizedAliases": [
     "raven queen"
   ]

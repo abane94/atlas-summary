@@ -1,0 +1,25 @@
+{
+  "name": "Halo Heart",
+  "tags": [],
+  "slug": "A place to picture for doorway training, not a door to open yet.",
+  "aliases": [],
+  "normalizedAliases": [
+    "halo heart"
+  ],
+  "filename": "entities/location/halo_heart.md",
+  "description": "A place Sylan treats as a good picture for Gerk to hold while training the doorway.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-05",
+      "summary": "During doorway training, Sylan names Halo Heart as a good place for Gerk to picture, and tells him not to open a door to it now, in contrast to going home before the mission is finished.",
+      "notes": [
+        "Sylan names it as a good place for Gerk to picture while training the doorway, and tells him not to open a door to it now, in contrast to going home before the mission is finished."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-06T21:15:31.045Z",
+  "updatedAt": "2026-10-06T21:15:31.045Z"
+}

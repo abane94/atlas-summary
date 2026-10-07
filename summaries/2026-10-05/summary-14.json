@@ -1,0 +1,244 @@
+{
+    "plotSections": [
+        {
+            "title": "A doorway toward Bouncing Betty",
+            "bullets": [
+                "Gerk tries to open a doorway from an inn bedroom in Bouncing Betty into the upstairs hallway. Sylan casts Guidance, and the check totals 19 (16 plus 3).",
+                "The party has not been there in a long while. Their last stop was around picking up Plymouth and hiding the last keystone from him until they reached the place Sylan calls the Yowan, before the month-or-two boat trip toward Nyx. Sylan says the inn has a third floor and that the rooms have been moved."
+            ]
+        },
+        {
+            "title": "Confusion pulls the door to the barn",
+            "bullets": [
+                "The doorway opens about twenty feet off the intended bedroom hallway. Confusion pings it to a more familiar memory: the second story of Bouncing Betty's rebuilt barn, looking down on stables and a wagon set in the center.",
+                "Gerk has slept in that barn. He also remembers a sideline there with a wayward bard and a drunk wizard, in which a mule or donkey was killed with a levitation spell and the party made some gold. He shuts the door before anyone can fall through, and it disappears with a click."
+            ]
+        },
+        {
+            "title": "Rage opens a much larger door",
+            "bullets": [
+                "Sylan thinks Gerk may get better with use, or may need something unlocked. He recalls Carlkin saying they would not be able to open doors, and Plymouth Gawater saying that with time and practice they could use the keystones. Sylan does not intend to practice that yet.",
+                "Gerk refuses to let a key near him: he will not fall for that trick again. Asked to try strength instead of a purely mental focus, he agrees to open the door harder.",
+                "Sylan sets a lantern about twenty feet away as a focus. Gerk turns his back, pictures that lantern, rages, and rips the doorway open. The check totals 17. An enormous narrow door tears open, about eighteen feet tall and seven feet wide, with the lantern directly behind him."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk aims a doorway from a Bouncing Betty bedroom to the upstairs hallway. With Sylan's Guidance the check totals 19.",
+        "The group places their last visit long before the boat trip to Nyx, around collecting Plymouth and only then revealing the last keystone.",
+        "Confusion shifts the opening about twenty feet onto the loft of Bouncing Betty's rebuilt barn, above the stables and a central wagon.",
+        "The barn calls up Gerk's memory of sleeping there and of a bard, a drunk wizard, and a levitated dead donkey or mule that earned the party some gold. Gerk closes the door and it vanishes.",
+        "Sylan weighs practice against unlocking something in Gerk, and contrasts Carlkin's claim that they could not open doors with Plymouth's claim that practice would let them use the keystones. Gerk rejects having a key put near him.",
+        "Sylan places a lantern about twenty feet off as a target. Gerk rages and forces the door. The check totals 17, and the doorway opens roughly eighteen feet tall by seven feet wide."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman who opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Guided doorway check toward a Bouncing Betty bedroom totals 19 and lands instead in the barn loft, a place he has slept.",
+                "He remembers the barn sideline with the levitated donkey or mule.",
+                "He shuts that door before anyone falls through.",
+                "He refuses to have a key put on or near him, saying he will not fall for that trick again.",
+                "Raging and forcing the door as hard as he can, aimed at a specific lantern, totals 17 and opens an eighteen-by-seven-foot door."
+            ],
+            "titles": [],
+            "personality": [
+                "Immediately suspicious of anyone putting a key near him."
+            ],
+            "quotesThemes": [
+                "You're not putting a key anywhere near me. I am not falling for that trick again.",
+                "I don't know how opening the door harder would help, but I can try opening the door harder."
+            ],
+            "openQuestions": [
+                "What earlier key trick is Gerk refusing to fall for again?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Casts Guidance on Gerk's doorway attempts and coaches him, including setting a lantern as a focus and suggesting rage and physical strength.",
+                "Remembers hiding the last keystone from Plymouth until they reached the Yowan.",
+                "Does not intend to practice using his own keystone or realm yet."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats Gerk's doorway work as something that may improve with use, while doubting that force is the right tool."
+            ],
+            "quotesThemes": [
+                "Maybe it'll just be you getting more used to it over time. Or perhaps there's something we need to unlock within you."
+            ],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "Gerk's fixed supernatural passage between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A high check can still miss: confusion shifts the exit toward a stronger familiar memory, here about twenty feet off the intended room and into the barn loft.",
+                "The opened door can be closed again and then disappears.",
+                "Opening it furiously while raging changed the aperture to about eighteen feet tall and seven feet wide."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether Gerk's accuracy comes from practice or from unlocking something further, and whether strength is a usable way to drive the doorway."
+            ]
+        },
+        "Confusion Effect": {
+            "existing": "A spell effect that leaves its victim confused and unable to act meaningfully.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "While Gerk is opening a doorway, confusion causes the destination to ping to a more familiar memory instead of the place he pictured."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Bouncing Betty": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Inn and tavern the party has visited and slept in, including a third floor. Sylan says the rooms have been moved since they were last familiar with the layout.",
+                "The barn was rebuilt and has a second story overlooking stables and a wagon.",
+                "Site of an old sideline: a wayward bard and a drunk wizard ended a levitation bit by depositing a dead donkey or mule there, and the party made some gold.",
+                "Their last visit was well before the long boat trip to Nyx, around collecting Plymouth."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan recalls Carlkin saying the party would not be able to open doors, which he sets against Plymouth's advice that practice would let them use the keystones."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer who guides the new keystone keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Told the party that with time and practice they would be able to use the keystones.",
+                "On the trip when the party picked him up, they hid the last keystone from him until they arrived at the Yowan."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas's Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Plymouth said practice over time would let the keepers use the keystones. Sylan remembers that advice and is putting off practicing, including in his own realm."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "bouncing beddies",
+            "likely": "Bouncing Betty",
+            "notes": "Inn Gerk names as the doorway target."
+        },
+        {
+            "heard": "bouncing bedding",
+            "likely": "Bouncing Betty",
+            "notes": "DM: not been to bouncing bedding in a fair time."
+        },
+        {
+            "heard": "bouncy and Betty",
+            "likely": "Bouncing Betty",
+            "notes": "DM recognizes the barn as bouncy and Betty's barn."
+        },
+        {
+            "heard": "Cinemy",
+            "likely": "Guidance",
+            "notes": "Gerk asks whether Theron also guided him; Sylan answers with Guidance."
+        },
+        {
+            "heard": "Nick",
+            "likely": "Nyx",
+            "notes": "DM's Nick's area and going to Nick's by boat, after saying Lake Nyx."
+        },
+        {
+            "heard": "Yowan",
+            "likely": "",
+            "notes": "Place Sylan says they took Plymouth before revealing the last keystone."
+        },
+        {
+            "heard": "Lord Dragon",
+            "likely": "",
+            "notes": "Gerk asks whether they also went to the Lord Dragon on that same stop. Unconfirmed."
+        },
+        {
+            "heard": "Kro",
+            "likely": "Carlkin",
+            "notes": "Sylan searching for Carlkin's name; DM confirms."
+        },
+        {
+            "heard": "Karolkin",
+            "likely": "Carlkin",
+            "notes": "Sylan searching for Carlkin's name."
+        },
+        {
+            "heard": "Krookin",
+            "likely": "Carlkin",
+            "notes": "Sylan searching for Carlkin's name."
+        },
+        {
+            "heard": "Karok",
+            "likely": "Carlkin",
+            "notes": "Sylan searching for Carlkin's name."
+        },
+        {
+            "heard": "attack",
+            "likely": "tack",
+            "notes": "DM describing stables and bits and bobs in the barn."
+        },
+        {
+            "heard": "Orden",
+            "likely": "Ord",
+            "notes": "Player asks the table to imagine Orden said something wise."
+        },
+        {
+            "heard": "S theory",
+            "likely": "Sylan",
+            "notes": "DM asking where Sylan is standing relative to the lantern."
+        },
+        {
+            "heard": "Laura",
+            "likely": "",
+            "notes": "Said while placing the door on the map: Laura would be swinging it this way. Unresolved at the cut-off."
+        }
+    ],
+    "openQuestions": [
+        "Whether Gerk gets better at doorways through practice or by unlocking something else, and whether strength and rage are a workable method.",
+        "What key trick Gerk means when he says he will not fall for it again."
+    ],
+    "newTerms": [
+        {
+            "name": "Bouncing Betty",
+            "notes": [
+                "Inn and tavern with a third floor and a rebuilt barn. Gerk has slept in the barn, and a past bard-and-wizard levitation sideline ended there with a dead donkey or mule."
+            ]
+        },
+        {
+            "name": "Lake Nyx",
+            "notes": [
+                "Where the party went after their earlier Bouncing Betty stop. The DM describes the boat trip to Nyx as on the order of one to two months."
+            ]
+        }
+    ]
+}

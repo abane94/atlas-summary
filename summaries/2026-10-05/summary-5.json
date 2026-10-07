@@ -1,0 +1,378 @@
+{
+    "plotSections": [
+        {
+            "title": "The roost cave and troop markers",
+            "bullets": [
+                "Walker is searching a cave room with an empty roost, troop markers scattered on the floor, cave sketches of a location above, a map table, and three extra stone chairs carved like the table. He only has landmarks and cardinal directions, and the sketches are all rotated the same way clockwise.",
+                "In the earlier vision a troop marker was taken off the table, so that piece is not in the room. The markers are black stone and ivory, or possibly blackish metal or bronze. They include knight-like cavalry pieces, small etched dragons, pawns with extra marks for rank or unit size, and paired poker-chip discs in two matched sets.",
+                "The piece Vecna was tapping is a high-ranking marker: a hunched eagle on a decorative base, not one of the chips. Walker set the other pieces on the table and is still holding the eagle."
+            ]
+        },
+        {
+            "title": "Shifted landmarks and the ley-line convergence",
+            "bullets": [
+                "Elrus, whom Walker assumes has been shadowing him, names the carved landmarks: an unnamed flat island of rolling green plains, sometimes written as the grassy atoll and about the size of the island they are comparing it to; Mount Elcastar; and Monkey Falls, marked by an old obsidian ley-line marker.",
+                "Walker does not know the Weave or ley lines. Elrus says the Weave is the magical network briefly visible when energy is used, and ley lines are concentrations of it formed over ages. Some credit Atlas's rotation; others treat them as a magical latitude and longitude. Markers can drift over millennia. Standing on a line bolsters spells, so mages sought them out and markers were moved or hidden. They are not a tunnel network, but they make teleportation and other magic cheaper.",
+                "The clockwise shift is the point: the carving shows where the old obsidian marker or intersection would be, and the rotated position is where the convergence is now. Grixto found this ley line. A spell has to be cast within feet of the convergence. The landmark Viablis has stood since Elrus was a boy and is only rumored to be a ley line, which makes Grixto carving it notable."
+            ]
+        },
+        {
+            "title": "Lichdom and what to do next",
+            "bullets": [
+                "Elrus does not know the exact lich ritual. Phylacteries are usually gems of some kind, and the working is an ancient ritual. He ties Grixto's Al Kurin to lichdom, and says Al Kurin plus a ley-line convergence plus the Raskina is a deadly combination. Ley lines would help a lich by strengthening magic, not by acting as roads between planes.",
+                "Elrus means to visit the convergence soon if the rest of their business comes to nothing. Convergences are rare; he has seen only a few, and knowing this one would matter. Walker calls it the best lead they have had. Elrus says they have only been here a few hours and blames the time dilation.",
+                "Elrus dismisses the troop markers as unnecessary. The fancy eagle fits a legion standard, and he notes Grixto was a hobgoblin whose legions would carry an eagle. Without a map he cannot say what the figurines are for. Walker still feels he is missing something. Elrus tells him to meditate, and offers to sit in the cave and meditate for several hours."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker asks what the troop markers looked like. The group distinguishes them from Al Kurin and from the Raskina, which they identified in the vision as the sister-skin book.",
+        "The DM confirms a troop marker was removed from the table in that vision and would not still be in the room, and that the clockwise tilt of the cave sketches is a real tell.",
+        "The room is recapped: empty roost, scattered troop markers, cave sketches of a place above, the map table, and three stone chairs.",
+        "Walker examines the markers and sorts them into cavalry knights, dragons, ranked pawns, paired poker-chip discs, and Vecna's hunched-eagle piece, which he is still holding.",
+        "Elrus identifies the grassy atoll, Mount Elcastar, and Monkey Falls with its obsidian ley-line marker, then explains the Weave and ley lines.",
+        "Elrus reads the rotation as Grixto locating a moved ley-line convergence, where a spell must be cast within feet of the point, and links that site to Al Kurin and the Raskina for lichdom.",
+        "Walker and Elrus agree the convergence is worth visiting. Elrus blames how long the search feels on time dilation, calls the eagle a legion standard, and tells Walker to meditate in the cave."
+    ],
+    "entities": {
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "He is with Walker in the cave and confirms he has been shadowing him.",
+                "He names the grassy atoll, Mount Elcastar, and Monkey Falls, and teaches Walker the Weave and ley lines. He says Walker's training is lacking and must speed up or Walker will never beat Grixto.",
+                "He has visited only a few ley-line convergences and plans to go to this one soon if their other business stalls. The marker called Viablis has been there since he was a boy.",
+                "He does not know the exact lich ritual. He treats the troop markers as toy soldiers, reads the eagle as a legion standard, and cannot explain the figurines without a map.",
+                "When stuck, he meditates, and he tells Walker to start that practice in the cave for several hours."
+            ],
+            "titles": [],
+            "personality": [
+                "Didactic and urgent about magical basics, addressing Walker as 'my boy' and treating ignorance of the Weave as a serious gap."
+            ],
+            "quotesThemes": [
+                "The Weave is the magical network around us; ley lines are concentrations of it.",
+                "Magic on a ley line is like stepping into a fire pit while already on fire.",
+                "Unraveling the mysteries of the universe and playing toy soldiers."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He has not been taught the Weave or ley lines. He is working only from tilted landmark sketches and cardinal directions, and he is holding Vecna's eagle troop marker after setting the others on the table.",
+                "He wants to go to the ley-line landmark and still feels the figurines mean something he cannot see."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "He was a hobgoblin, and his legions would use an eagle as a standard. The hunched-eagle marker is read as a mark of a legion.",
+                "He carved four landmarks rotated clockwise. Elrus reads that shift as Grixto locating a ley-line convergence that had moved, and says a spell must be cast within feet of it.",
+                "The Al Kurin is already deduced to have aided his lichdom. Together with the convergence and the Raskina, Elrus calls it a deadly combination."
+            ],
+            "titles": [
+                "Hobgoblin"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the scattered troop markers were meant to show without a map."
+            ]
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery.",
+            "entityType": "NPC",
+            "notes": [
+                "In the vision he was tapping a high-ranking troop marker, a hunched eagle with a decorative base. Walker is still holding that piece."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ley line": {
+            "existing": "Lines of magic that gatehouses sit on.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Concentrations of the Weave formed over eons. Some say Atlas's rotation created them; others compare them to magical latitude and longitude.",
+                "An old obsidian marker at Monkey Falls marks an intersection. Markers shift over millennia and have been moved or hidden because mages fought over them.",
+                "Spells cast on a line are bolstered, including teleportation for less energy. They are not a tunnel network between planes. The casting point must be within feet of a convergence.",
+                "Grixto's rotated carvings point at a convergence he found. Elrus considers convergences rare and worth visiting."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Weave": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The magical network around everything. Using energy produces a brief flash in which the surrounding magic can be seen. Ley lines are dense concentrations of it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Al Kurin": {
+            "existing": "Vessels containing the souls of dragons.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Elrus says the reason Grixto had the Al Kurin was to aid his lichdom, and that it is deadly combined with a ley-line convergence and the Raskina."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Raskina": {
+            "existing": "Vecna's red-skinned tome, made from his sister and held by Grixto.",
+            "entityType": "ITEM",
+            "notes": [
+                "The party identified it in the vision. Walker calls it the sister-skin book; the DM accepts that as colloquial terminology he did not expect.",
+                "Elrus includes it with the Al Kurin and the ley-line convergence as part of the lichdom working."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Sister-skin book"
+            ],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Elrus says they are usually gems of various kinds. Becoming a lich is an ancient ritual whose exact method he does not know. Any magical requirement would be strengthened at a ley-line convergence."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the ancient lich ritual actually requires."
+            ]
+        },
+        "Tilted landmarks": {
+            "existing": "Cardinal cave carvings set a few degrees off true bearing.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The four sketches are rotated the same direction clockwise. Elrus says the rotation is the message: it moves the old ley-line intersection to the place Grixto found the convergence."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Troop markers": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Scattered on the cave floor, made of black stone and ivory or possibly blackish metal or bronze. Shapes include cavalry knights, etched dragons, ranked pawns, and paired poker-chip discs in two matched sets with roughly equal counts.",
+                "Vecna's piece is a separate high-ranking hunched eagle with a decorative base. One other marker was removed from the table in the vision and is not here. Elrus links the eagle to a hobgoblin legion standard and otherwise sees no use for them without a map."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What arrangement or map the markers were meant to be used with."
+            ]
+        },
+        "Grassy atoll": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "A flat island with rolling green plains, about the same size as the comparison island in the sketches. Some maps write it as the grassy atoll, but Elrus says it has no real name."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mount Elcastar": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The mountain among the four carved landmarks, named by Elrus from his notes."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Monkey Falls": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The waterfall landmark. Its marker is an old obsidian ley-line stone at what would have been an intersection and a highly magical site."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Viablis": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "A landmark Elrus says has stood since he was a boy. It is only rumored to be a ley line, and he finds it concerning that Grixto bothered to carve it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Al Kirin",
+            "likely": "Al Kurin",
+            "notes": "DM asks if Walker means Al Kirin; Walker says no and means the troop markers."
+        },
+        {
+            "heard": "Yotin",
+            "likely": "Grixto",
+            "notes": "Walker says Yotin in the vision is who they realized had the sister-skin book, after rejecting Vecna."
+        },
+        {
+            "heard": "rat skin book",
+            "likely": "Raskina",
+            "notes": "Walker immediately corrects it to the sister-skin book."
+        },
+        {
+            "heard": "Flactory",
+            "likely": "phylactery",
+            "notes": "DM joke asking for the GPS coordinate of the Flactory while Walker wants a coordinate."
+        },
+        {
+            "heard": "Elruss",
+            "likely": "Elrus",
+            "notes": "Walker assumes Elruss is shadowing him; the DM confirms it."
+        },
+        {
+            "heard": "green planes",
+            "likely": "green plains",
+            "notes": "Description of the grassy atoll."
+        },
+        {
+            "heard": "playlines",
+            "likely": "ley lines",
+            "notes": "Elrus explaining how ley lines formed."
+        },
+        {
+            "heard": "lay line",
+            "likely": "ley line",
+            "notes": "Same explanation of where magic is enhanced."
+        },
+        {
+            "heard": "Her leyline",
+            "likely": "A ley line",
+            "notes": "Start of the Weave explanation."
+        },
+        {
+            "heard": "Viablis",
+            "likely": "",
+            "notes": "Named as a long-standing landmark only rumored to be a ley line. May be a real name or a hearing of the obsidian marker."
+        },
+        {
+            "heard": "oblist",
+            "likely": "obelisk",
+            "notes": "Elrus points to where the oblist, the ley-line connection, would be."
+        },
+        {
+            "heard": "GGrixto",
+            "likely": "Grixto",
+            "notes": "Elrus says Walker must learn faster or he will never beat GGrixto."
+        },
+        {
+            "heard": "Karixto",
+            "likely": "Grixto",
+            "notes": "Elrus says Karixto has found this ley line."
+        },
+        {
+            "heard": "Rex Kina",
+            "likely": "Raskina",
+            "notes": "Named with the Al Kurin and the convergence as the lichdom combination."
+        },
+        {
+            "heard": "Alkurin",
+            "likely": "Al Kurin",
+            "notes": "Same lichdom sentence."
+        },
+        {
+            "heard": "Grickstone",
+            "likely": "Grixto",
+            "notes": "Elrus asks whether Grickstone was a hobgoblin."
+        },
+        {
+            "heard": "Toy Solters",
+            "likely": "toy soldiers",
+            "notes": "Elrus describing what Vecna was doing with the markers."
+        },
+        {
+            "heard": "Mount Elcastar",
+            "likely": "",
+            "notes": "Read from the DM's notes as the mountain landmark. Possibly a hearing of Galixtar, but it may be the intended name."
+        }
+    ],
+    "openQuestions": [
+        "What the troop markers are for without a map, and what Walker is still missing.",
+        "What the ancient ritual of lichdom requires beyond a phylactery, usually a gem."
+    ],
+    "newTerms": [
+        {
+            "name": "The Weave",
+            "notes": [
+                "The magical network surrounding everything, briefly visible as a flash when energy is used. Ley lines are concentrations of it."
+            ]
+        },
+        {
+            "name": "Ley line convergence",
+            "notes": [
+                "A rare intersection where magic is greatly strengthened and a spell must be cast within feet of the point. Grixto's rotated carvings mark one that has moved."
+            ]
+        },
+        {
+            "name": "Troop markers",
+            "notes": [
+                "Black stone and ivory, or dark metal or bronze, pieces in the cave: knights, dragons, ranked pawns, paired discs, and a hunched-eagle legion standard."
+            ]
+        },
+        {
+            "name": "Grassy atoll",
+            "notes": [
+                "Map wording for an otherwise unnamed flat green island among the four landmarks."
+            ]
+        },
+        {
+            "name": "Mount Elcastar",
+            "notes": [
+                "The mountain landmark in the cave sketches."
+            ]
+        },
+        {
+            "name": "Monkey Falls",
+            "notes": [
+                "Waterfall landmark with an old obsidian ley-line marker."
+            ]
+        },
+        {
+            "name": "Viablis",
+            "notes": [
+                "Long-standing landmark rumored, not confirmed, to be a ley line."
+            ]
+        },
+        {
+            "name": "Time dilation",
+            "notes": [
+                "Elrus's explanation for why a few hours in this place feels much longer."
+            ]
+        }
+    ]
+}

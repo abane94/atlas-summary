@@ -1,0 +1,390 @@
+{
+    "plotSections": [
+        {
+            "title": "The Weave and ley lines",
+            "bullets": [
+                "Elrus tells Walker the Weave is the magical network around them, briefly visible as a flash when energy is used. Ley lines are concentrations of the Weave formed over ages. Some say Atlas's rotation made them; others treat them as a magical cousin of latitude and longitude.",
+                "A ley-line marker can drift over millennia. An intersection is a highly magical place. Casting there is like stepping into a fire pit while already on fire: low-level spells perform higher, and teleportation costs less energy. Ley lines are not a tunnel network between planes.",
+                "Mages sought the lines out, and the markers were fought over, so many were moved or hidden. A spell has to be cast within feet of a convergence. Convergences are rare; Elrus has visited only a few."
+            ]
+        },
+        {
+            "title": "Grixto's moved convergence",
+            "bullets": [
+                "The four shifted landmarks are the tell. Elrus points to where the old marker or intersection would be, then to where the carving has been rotated: that is the convergence now. Grixto found this ley line, and the line had to have been moved.",
+                "The landmark Viablis has stood since Elrus was a boy and is only rumored to be a ley line. Elrus finds it concerning that Grixto took the trouble to carve it into the wall.",
+                "Walker asks whether the site is worth visiting. Elrus means to go shortly if the rest of their business comes to nothing, because knowing this convergence would be useful. Walker calls it the clearest direction they have had. Elrus says they have only been in the cave a few hours and blames the time dilation for how long it feels."
+            ]
+        },
+        {
+            "title": "Lichdom",
+            "bullets": [
+                "Walker asks whether a lich is made by a spell or by simply designating an object, using a glove as the example. Elrus says phylacteries are usually gems of some kind and that the working is an ancient ritual whose exact method he does not know.",
+                "Ley-line knowledge would help a lich by strengthening magic, not by carrying them between planes. Elrus says the Al Kurin was to aid Grixto's lichdom, and that the Al Kurin, a ley-line convergence, and the Raskina together are a deadly combination."
+            ]
+        },
+        {
+            "title": "The eagle and the meditation",
+            "bullets": [
+                "Walker has only looked at the troop markers and set them on the table. He is still holding the last one, the piece Vecna placed there: a fancy eagle among otherwise generic knights, dragons, and pawns. He pockets the eagle.",
+                "Elrus reads the eagle as a legion standard and notes that Grixto was a hobgoblin, whose legions would carry an eagle. Without a map he cannot say what the figurines are for. Walker still feels he is missing something.",
+                "Elrus sits in the middle of the cave and meditates, and Walker follows. Elrus coaches nose-and-diaphragm breathing and tells him to think about where he must go, what he needs to get there, and the puzzle in front of him. The scene leaves Walker meditating with Elrus."
+            ]
+        },
+        {
+            "title": "New Navel, day six",
+            "bullets": [
+                "The others are outside Carlkin's lighthouse at midday. New Navel is busy. They are on their sixth day, with a day and a half until a deadline the DM does not finish naming.",
+                "Sylan wants to rest, wait to hear from Walker, and then train Gerk's doorway on short distances. Gerk suggests Carlkin's living room. Sylan puts that off until tomorrow: Carlkin told them not to use doors in his house. Gerk's answer is that he would not be in the house when he opened the door.",
+                "Ord, Sylan, and Gerk go to the pub. Ciri is already in the corner, too drunk to keep stealthing, with a pile of mugs."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Elrus explains the Weave, ley lines, drifting markers, and how a convergence bolsters spells and cheapens teleportation without being a road between planes.",
+        "He reads the four shifted carvings as Grixto marking a ley line that moved, and says a spell must be cast within feet of that convergence. Viablis is an old landmark only rumored to be a ley line.",
+        "Walker asks how lichdom works. Elrus calls it an ancient ritual, usually using gems, and ties the Al Kurin, the convergence, and the Raskina together as the dangerous combination.",
+        "Elrus intends to visit the convergence if their other business stalls, and he attributes the sense that hours feel like weeks to time dilation.",
+        "Walker is still holding Vecna's eagle troop marker. Elrus calls it a legion standard tied to hobgoblin Grixto, cannot explain the figurines without a map, and has Walker pocket the eagle and meditate with him in the cave.",
+        "The scene cuts to midday outside Carlkin's lighthouse on day six. Sylan proposes rest and, tomorrow, short-range practice of Gerk's doorway, including a possible opening to Carlkin's living room despite Carlkin's ban on doors in his house.",
+        "Ord, Sylan, and Gerk go to the pub and find Ciri drunk in the corner."
+    ],
+    "entities": {
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "In the cave he teaches Walker the Weave and ley lines, and he reads the rotated landmarks as a moved convergence Grixto has found.",
+                "He has visited only a few convergences and plans to go to this one soon if their other ventures come to nothing. Viablis has stood since he was a boy.",
+                "He does not know the exact lich ritual. He treats the markers as toy soldiers, reads the eagle as a legion standard, and cannot explain them without a map.",
+                "He sits mid-cave and meditates with Walker, coaching breath and focus on the route and the puzzle."
+            ],
+            "titles": [],
+            "personality": [
+                "Didactic with Walker, calling him 'my boy,' and he turns to meditation when a problem will not yield."
+            ],
+            "quotesThemes": [
+                "The Weave is the magical network; ley lines are concentrations of it.",
+                "Magic on a ley line is like stepping into a fire pit while already on fire.",
+                "Unraveling the mysteries of the universe and playing toy soldiers."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He did not know the Weave or ley lines. He wants to know them, including whether they would help a lich.",
+                "He set the troop markers on the table and pockets the eagle Vecna had placed, the last piece he picked up.",
+                "He agrees the convergence is their best lead and starts meditating in the cave with Elrus. The cutaway leaves him there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Elrus says he was a hobgoblin, and that an eagle marks a legion standard.",
+                "He carved the shifted landmarks. Elrus reads that as Grixto finding a ley-line convergence that had been moved. A spell for the working must be cast within feet of it.",
+                "The Al Kurin is already taken to have aided his lichdom. With the convergence and the Raskina, Elrus calls the set a deadly combination. He also left rituals for Walker to unweave."
+            ],
+            "titles": [
+                "Hobgoblin"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the troop markers were meant to show without a map."
+            ]
+        },
+        "Ley line": {
+            "existing": "Lines of magic that gatehouses sit on.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Concentrations of the Weave, formed over ages, sometimes credited to Atlas's rotation and sometimes compared to magical latitude and longitude.",
+                "They bolster spells and reduce the energy cost of teleportation. They are not a tunnel network between planes. Markers drift, and many were moved or hidden because mages fought over them.",
+                "A convergence is a rare intersection. The spell must be cast within feet of it. Grixto's rotated carvings mark one that moved."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Weave": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The magical network around everything. Using energy makes it briefly visible as a magical flash. Ley lines are concentrations of it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Viablis": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "A landmark that has stood since Elrus was a boy. It is only rumored to be a ley line, and Elrus is concerned that Grixto carved it into the wall."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Tilted landmarks": {
+            "existing": "Cardinal cave carvings set a few degrees off true bearing.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The shift is the message. Where the old marker or intersection would sit, versus where the carving was rotated, is the present ley-line convergence. There are four landmarks and no other indication."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Al Kurin": {
+            "existing": "Vessels containing the souls of dragons.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Elrus says they already deduced Grixto had the Al Kurin to aid his lichdom, and that it is deadly combined with a ley-line convergence and the Raskina."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Raskina": {
+            "existing": "Vecna's red-skinned tome, made from his sister and held by Grixto.",
+            "entityType": "ITEM",
+            "notes": [
+                "Named with the Al Kurin and the ley-line convergence as part of the combination Elrus expects was used for Grixto's lichdom."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Elrus says they are usually gems of some kind, and that making one is an ancient ritual rather than simply declaring an ordinary object the vessel. He does not know the exact method."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery.",
+            "entityType": "NPC",
+            "notes": [
+                "One troop marker on the table is the piece he placed. Walker was still holding it, the fancy eagle, and then pockets it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Eagle troop marker": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "The distinctive piece among generic knight, dragon, and pawn markers. Elrus calls it a legion standard. It is the marker Vecna placed on the table, and Walker pockets it before meditating."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Time dilation": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Elrus's explanation for why a few hours in the cave feels like weeks to Walker."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan wants to train his doorway tomorrow, starting with short distances. Gerk suggests opening on Carlkin's living room and argues he would not be inside the house when he did it. He goes to the pub with Sylan and Ord."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "On day six outside Carlkin's lighthouse he calls for a rest, word from Walker, and then short-range doorway practice with Gerk. He defers Carlkin's living room until tomorrow because Carlkin said not to use doors in his house. He goes to the pub."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "He told the party not to use doors in his house. Gerk still floats the living room as a doorway target from outside."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue, keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Already at the New Navel pub, drunk in the corner. She had been hidden until she was too drunk to stealth, with a pile of mugs."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "A familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
+            "entityType": "Location",
+            "notes": [
+                "Midday on the party's sixth day. People are out on ordinary business. The group with Sylan is outside Carlkin's lighthouse, then Ord, Sylan, and Gerk go to the pub."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "playlines",
+            "likely": "ley lines",
+            "notes": "Elrus on how the lines formed from the rotation of Atlas."
+        },
+        {
+            "heard": "lay line",
+            "likely": "ley line",
+            "notes": "Same explanation of where magic is enhanced."
+        },
+        {
+            "heard": "to market",
+            "likely": "a marker",
+            "notes": "Walker summarizing a ley line as energy floating in the air and then a marker."
+        },
+        {
+            "heard": "if you are rich",
+            "likely": "if you are a lich",
+            "notes": "Elrus answering whether ley-line knowledge would help a lich, comparing it to breathing."
+        },
+        {
+            "heard": "Viablis",
+            "likely": "",
+            "notes": "Long-standing landmark only rumored to be a ley line. May be a real name or a hearing of the marker."
+        },
+        {
+            "heard": "oblist",
+            "likely": "obelisk",
+            "notes": "Elrus points to where the oblist, the ley-line connection, would be, then to the rotated convergence."
+        },
+        {
+            "heard": "Karixto",
+            "likely": "Grixto",
+            "notes": "Elrus says Karixto has found this ley line."
+        },
+        {
+            "heard": "Garixto",
+            "likely": "Grixto",
+            "notes": "Elrus tells Walker to unweave the rituals Garixto put forward."
+        },
+        {
+            "heard": "Grickstone",
+            "likely": "Grixto",
+            "notes": "Elrus asks whether Grickstone was a hobgoblin."
+        },
+        {
+            "heard": "Rex Kina",
+            "likely": "Raskina",
+            "notes": "Named with the Al Kurin and the convergence as the lichdom combination."
+        },
+        {
+            "heard": "Alkurin",
+            "likely": "Al Kurin",
+            "notes": "Same lichdom sentence."
+        },
+        {
+            "heard": "litchdom",
+            "likely": "lichdom",
+            "notes": "Elrus on why Grixto had the Al Kurin."
+        },
+        {
+            "heard": "nonplussed",
+            "likely": "",
+            "notes": "Elrus will go to the convergence shortly if the rest of their ventures is nonplussed. Sense is that he will go if the other business comes to nothing."
+        },
+        {
+            "heard": "conveyances",
+            "likely": "convergences",
+            "notes": "He corrects himself in the same sentence to convergences."
+        },
+        {
+            "heard": "Toy Solters",
+            "likely": "toy soldiers",
+            "notes": "Elrus on what Vecna was doing with the markers."
+        },
+        {
+            "heard": "Nie, że",
+            "likely": "",
+            "notes": "A short utterance between the hobgoblin line and 'They're legions.' No clear campaign term."
+        }
+    ],
+    "openQuestions": [
+        "What the troop markers are for without a map, and what Walker still feels he is missing.",
+        "What the ancient lich ritual requires beyond a phylactery, usually a gem.",
+        "What the day-and-a-half deadline is. The DM says they are on day six and have a day and a half until something, and does not finish the sentence."
+    ],
+    "newTerms": [
+        {
+            "name": "The Weave",
+            "notes": [
+                "The magical network surrounding everything, briefly visible when energy is used. Ley lines are concentrations of it."
+            ]
+        },
+        {
+            "name": "Ley line convergence",
+            "notes": [
+                "A rare intersection where magic is greatly strengthened and a spell must be cast within feet of the point. Grixto's rotated carvings mark one that has moved."
+            ]
+        },
+        {
+            "name": "Viablis",
+            "notes": [
+                "Landmark standing since Elrus was a boy, only rumored to be a ley line, and carved by Grixto."
+            ]
+        },
+        {
+            "name": "Eagle troop marker",
+            "notes": [
+                "Fancy eagle among the cave figurines, read as a hobgoblin legion standard. Vecna placed it on the table, and Walker pockets it."
+            ]
+        },
+        {
+            "name": "Time dilation",
+            "notes": [
+                "Elrus's name for why a few hours in the cave feels much longer."
+            ]
+        }
+    ]
+}

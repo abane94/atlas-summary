@@ -16,6 +16,13 @@
       "notes": [
         "Sylan hopes to bring his sister home, and he thinks something good may follow if they do."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Sylan suggests using Gerk's doorway to reach her and get back out quickly. They do not try it. Gerk will not doorway to her after the failed attempt to reach Ciri without knowing where she was.",
+      "notes": [
+        "Sylan suggests using Gerk's doorway to reach her and get back out quickly. They do not try it. Gerk will not doorway to her after the failed attempt to reach Ciri without knowing where she was."
+      ]
     }
   ],
   "openQuestions": [
@@ -23,5 +30,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-09-29T18:44:48.686Z",
-  "updatedAt": "2026-09-29T18:44:48.686Z"
+  "updatedAt": "2026-10-06T21:09:47.171Z"
 }

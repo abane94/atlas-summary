@@ -1,0 +1,210 @@
+{
+    "plotSections": [
+        {
+            "title": "Keystones and whether the party can open doors",
+            "bullets": [
+                "Sylan recalls Carlkin saying the party would not be able to open doors, and contrasts that with Plymouth Gawater, who told them that with time and practice they would be able to use the keystones themselves.",
+                "Sylan does not intend to practice that yet. He says he has plenty of time, and mentions his realm."
+            ]
+        },
+        {
+            "title": "Opening a door by force",
+            "bullets": [
+                "The party is already testing Gerk's doorway. Sylan frames it as a mental exercise Gerk has been handling well, then suggests Gerk tap the same strength he uses to swing his hammer. Gerk answers by trying to open the door as hard as he can.",
+                "Sylan sets a lantern about twenty feet away as a focus, then steps back. Gerk turns his back on the lantern, pictures that specific lantern, rages, and rips the door open. Guidance is on the attempt. He rolls a 17. The DM notes recent door results of 19, 16, a non-20, and a 4.",
+                "The door that opens is about eighteen feet tall and seven feet wide, much larger than his usual doors. It opens into the same forest roughly a quarter mile south, marked by a disturbance of birds, not onto the lantern.",
+                "Where the doorway cuts through canopy branches, those branches sit in a semi-translucent limbo: still present, but translucent where they meet the door.",
+                "Gerk can feel the door he opened and, separately, the presence of its far end."
+            ]
+        },
+        {
+            "title": "Checking the far end",
+            "bullets": [
+                "Sylan treats the oversized door as possible evidence that opening harder makes a bigger door, and notes that a door this size might fit Glimmen. Gerk is unsure but hopes that is how it works.",
+                "Sylan does not trust the portal enough to step through first. He and Ciri walk south about a quarter mile through the woods. Ciri agrees from the trees.",
+                "The far door reaches into the canopy and passes through several branches, which look semi-translucent at the intersection. The forest floor is otherwise undisturbed: no crater and nothing catastrophic. Sylan still does not know what caused the racket.",
+                "Sylan returns through the portal. Ciri follows, passing as a shadow, and both come back out beside Gerk.",
+                "Sylan concludes the door landed well off the lantern and suggests Gerk may need to know a place fondly, or remember it fondly, to place the exit accurately. Gerk does not know whether he can open a door beside himself or what his exact range is."
+            ]
+        },
+        {
+            "title": "A line-of-sight attempt",
+            "bullets": [
+                "They try an easier placement next: a spot Gerk can see, about twenty-five feet away on the other side of the crossing. He stares at that exact point and tries to open a door there. Sylan calls for guidance.",
+                "Gerk rolls a 9. This chunk ends before the door's result is described."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan recalls Carlkin warning that the party could not open doors, against Plymouth Gawater's claim that practice and time would let them use the keystones. Sylan puts off practicing.",
+        "Sylan coaches Gerk to use his hammer-swinging strength on the doorway. Gerk agrees to open the door as hard as he can.",
+        "Sylan places a lantern about twenty feet away as a focus. Gerk faces away, pictures the lantern, rages, and opens the door with guidance, rolling a 17.",
+        "An eighteen-foot-tall, seven-foot-wide door tears open onto the same forest about a quarter mile south, with a bird disturbance at the far end. Intersected branches turn semi-translucent. Gerk feels both this door and the far door.",
+        "Sylan and Ciri walk south through the woods instead of stepping through. They find the far door in the canopy, translucent where it cuts branches, with no crater or other destruction.",
+        "Sylan and Ciri return through the portal to Gerk. Sylan suggests fond memory may be required for accurate placement. Gerk is unsure of his range.",
+        "Gerk attempts a line-of-sight door about twenty-five feet away across the crossing, with guidance, and rolls a 9. The outcome is not yet narrated."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman who opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Raged and opened a door as hard as he could while focusing on a specific lantern he was not looking at. With guidance, the roll was 17.",
+                "The result was an unusually large door, about eighteen feet tall by seven feet wide, exiting roughly a quarter mile south in the same forest rather than at the lantern.",
+                "He can feel the door he has opened and the presence of its opposite end.",
+                "Recent doorway rolls mentioned by the DM were 19, 16, a result that was not 20, and a 4.",
+                "He does not know how close he can place a door or what the exact range is. His next try is a visual fix on a spot about twenty-five feet away; he rolls a 9, unresolved in this chunk."
+            ],
+            "titles": [],
+            "personality": [
+                "Willing to test the doorway by brute force, and skeptical that opening harder is sound tactics until he tries it."
+            ],
+            "quotesThemes": [
+                "Opening the door harder, described as ripping it open."
+            ],
+            "openQuestions": [
+                "How close Gerk can open a door, and what the exact range of the ability is."
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remembers Carlkin saying they would not be able to open doors, and Plymouth Gawater saying practice would eventually let them use the keystones. He does not plan to practice yet and says he has plenty of time, mentioning his realm.",
+                "Set a lantern as Gerk's focus and called guidance on the doorway attempts.",
+                "Walked a quarter mile south with Ciri to inspect the far door before using it, then returned through the portal.",
+                "Hypothesizes that opening the door more strongly makes it larger, and that Gerk may need to know or remember a place fondly to place it accurately."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats doorway practice as outside his usual training, and checks a violent-looking door on foot before stepping through."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What caused the racket and bird disturbance if the far side of the door was not damaged."
+            ]
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Was in the trees and agreed to go with Sylan to inspect the far end of Gerk's door.",
+                "Returned through the portal with Sylan, noticed as a shadow passing behind him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like ally, believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan recalls Carlkin saying the party would not be able to open doors."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the new keystone keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan recalls Plymouth telling them that with time and practice they would be able to use the keystones themselves."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations, opened by Gerk.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Opening one as hard as possible while raging produced a door about eighteen feet tall and seven feet wide.",
+                "Focusing on a lantern about twenty feet away, while facing away from it, placed the exit about a quarter mile south in the same forest. A bird disturbance marked that far end.",
+                "Matter the door intersects, such as canopy branches, becomes semi-translucent where it passes through the door and is not destroyed. The far site had no crater or other catastrophic damage.",
+                "While a door is open, Gerk can feel the near door and the presence of the opposite end.",
+                "Sylan and Ciri could walk to the far end overland and then travel back through the portal safely.",
+                "Party hypothesis, not confirmed: a stronger opening makes a larger door, and fond familiarity with a place may be needed for accuracy. A line-of-sight attempt at about twenty-five feet was rolled as a 9 and not yet resolved."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether how hard Gerk opens a door determines its size.",
+                "Whether accurate placement requires knowing or remembering the destination fondly."
+            ]
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas's Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan's recollection: Carlkin said the party would not be able to open doors, while Plymouth Gawater said that with time and practice they could use the keystones themselves. Sylan is delaying that practice."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Kro",
+            "likely": "Carlkin",
+            "notes": "Sylan guessing Carlkin's name."
+        },
+        {
+            "heard": "Karolkin",
+            "likely": "Carlkin",
+            "notes": "Sylan guessing Carlkin's name."
+        },
+        {
+            "heard": "Krookin",
+            "likely": "Carlkin",
+            "notes": "Sylan guessing Carlkin's name."
+        },
+        {
+            "heard": "Karok",
+            "likely": "Carlkin",
+            "notes": "Sylan guessing Carlkin's name."
+        },
+        {
+            "heard": "Orden",
+            "likely": "Ord",
+            "notes": "Player referring to Ord speaking."
+        },
+        {
+            "heard": "S theory",
+            "likely": "Sylan",
+            "notes": "DM asking where Sylan is standing relative to the lantern."
+        },
+        {
+            "heard": "Laura",
+            "likely": "",
+            "notes": "While placing the door on the map, Gerk says Laura would be swinging it this way. Unclear whether this is the door or a map mark."
+        },
+        {
+            "heard": "FI series back",
+            "likely": "Ciri's back",
+            "notes": "Ciri returning to the scene."
+        },
+        {
+            "heard": "Syria",
+            "likely": "Ciri",
+            "notes": "DM asking if Ciri follows Sylan back through the portal."
+        },
+        {
+            "heard": "store",
+            "likely": "door",
+            "notes": "Sylan saying Glimmen could go through this door, and later that a line-of-sight door is the easiest one to try."
+        }
+    ],
+    "openQuestions": [
+        "What made the racket and disturbed the birds at the far door, given that the site was not cratered or otherwise destroyed?",
+        "What is the exact range of Gerk's doorway, and can he open one immediately beside himself?",
+        "What happens on the line-of-sight doorway attempt that rolled a 9?"
+    ],
+    "newTerms": []
+}

@@ -42,6 +42,15 @@
         "A thin crevice between the rocky underside and the field, reached by a concealed footpath, can admit a medium dragon and possibly a large one, with a short bound from the crack onto the field. Elrus believes this backside or underside is the way into Grixto's cavern. It is the secret hideaway where young Grixto gathered and killed guild dragons for their Al Kurin.",
         "Walker, Elrus, Araden, Plymouth, and Glimmen investigate it. If Grixto is present they are to retreat. The crevice leads to the roost from Emhet's vision, slightly changed into a smaller planning area plus a larger dragon roost, where Vecna is waiting."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Walker is in the ruins of the guild keep. The old tower is the standing point for the radially shifted landmark diagram. Below is the cave room where Vecna had been sitting, with wall etchings and a flat stone table about four feet by four feet. Walker will not go back down until he believes Vecna is gone. Plymouth is on site taking etchings and doing scribe work.",
+      "notes": [
+        "Walker is in the ruins of the guild keep. The old tower is the standing point for the radially shifted landmark diagram.",
+        "Below is the cave room where Vecna had been sitting: wall etchings and a flat stone table about four feet by four feet. Walker will not go back down until he believes Vecna is gone.",
+        "Plymouth is on site taking etchings and doing scribe work."
+      ]
     }
   ],
   "openQuestions": [
@@ -49,5 +58,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:28:00.057Z",
-  "updatedAt": "2026-09-22T19:56:29.144Z"
+  "updatedAt": "2026-10-06T20:58:14.281Z"
 }

@@ -1,0 +1,234 @@
+{
+    "plotSections": [
+        {
+            "title": "Night at the bar",
+            "bullets": [
+                "The night is montaged as drinking at the party's bar. Ciri is drunk and crouching as if hidden. The owners are not charged.",
+                "The basement is finished and can hold cold storage. The manager is recalled as Flavian. Locals recognize the party, and newer faces look like travelers or traders from Dullhurst and beyond, in town for trade at New Navel / Rita.",
+                "A middle-aged half-elf minstrel plays a classical lute while moving through the room rather than staying on a stage. The party drinks and wakes the next morning."
+            ]
+        },
+        {
+            "title": "Morning at the stronghold and Walker's check-in",
+            "bullets": [
+                "Morning at Langdale Stronghold: the sun is up, the stronghold is shaking, and fresh buns are baking. Sylan, Gerk, Ord, and Ciri are in the great hall.",
+                "Established time ratio: seven days for Walker is one day for the party. Walker agreed to check in after one Midgar week of the party's time, not a week of his own time.",
+                "About forty-two days of Walker's time have passed. He has not checked in, and the party is not yet due to worry. He is expected to arrive by dragon; Mahali is asked to have food ready for Glimmen."
+            ]
+        },
+        {
+            "title": "Leaving to train Gerk",
+            "bullets": [
+                "After breakfast, Sylan starts Gerk's training. Gerk questions why Sylan is the one to train him, then accepts. Ord comes to watch. Ciri joins after walking back from her room at the tavern in the same clothes, boots over her shoulder.",
+                "They reject practicing in the living room because Gerk might open a portal to hell again. The lake has no island. They choose the southern forest clearing and stream from the earlier hobgoblin search, where there were also old buildings. They are not going to the bees.",
+                "Sylan tells the guards that if Walker returns, the group went south into the forest and he may contact them. Sylan, Gerk, Ord, and Ciri head out."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ciri spends the evening drunk at the party bar; the night is a drinking montage with locals, travelers, and a half-elf lute player.",
+        "The party wakes at Langdale Stronghold to shaking stone and fresh buns.",
+        "Sylan and Walker clarify the check-in: one Midgar week of party time, with seven of Walker's days equaling one party day; roughly forty-two Walker-days have passed and he has not checked in.",
+        "Sylan proposes training Gerk after breakfast. Gerk accepts, and Ord and Ciri join.",
+        "They rule out the living room and a lake island, and leave for the southern stream clearing, leaving word for Walker and asking Mahali to feed Glimmen."
+    ],
+    "entities": {
+        "Flavian": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Recalled as the name of the bar manager. The party was not asked to pay as owners."
+            ],
+            "titles": [
+                "Bar manager"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Seven days of his time equal one day for the rest of the party.",
+                "He agreed to check in after one Midgar week of the party's time. He has not reached out. About forty-two days of his time have passed, so the party is not yet worried.",
+                "Expected to return on Glimmen rather than by carriage. The stronghold is to be ready to feed the dragon."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "He said he would talk to the party in a week, meaning one Midgar week."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman who opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Agrees to start doorway training with Sylan after breakfast, with Ord watching.",
+                "Does not want to practice in the living room after previously opening a portal toward hell. Prefers somewhere remote and does not care whether the ground is dirt or stone.",
+                "Asks about an island in the stronghold lake; there is none. He goes south into the forest with Sylan, Ord, and Ciri."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Takes the lead on Gerk's training and chooses the southern forest clearing by the stream over the living room, the lake, or the bees.",
+                "Tells the guards that if Walker returns, the group went south into the forest and Walker may contact them. Expects Walker to arrive by dragon and supports having Mahali prepare food for Glimmen."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue, keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has a room in the tavern. Returns to the stronghold in the morning in the same clothes, carrying her boots, and joins the training trip."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin, Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "At breakfast in the great hall and comes along to watch Gerk's training in the southern forest."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mahali": {
+            "existing": "Elder god and the party's chef at the stronghold.",
+            "entityType": "NPC",
+            "notes": [
+                "Asked to prepare food for Glimmen ahead of Walker's return by dragon."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Expected to be how Walker arrives. The stronghold is told to be ready to feed him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale Stronghold": {
+            "existing": "Party's central stronghold and home base.",
+            "entityType": "Location",
+            "notes": [
+                "Morning scene is the great hall, with the stronghold shaking and fresh buns in the air.",
+                "The lake has no island in the middle.",
+                "Guards are informed that Sylan, Gerk, Ord, and Ciri went south into the forest and that Walker may arrive by dragon."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Southern stream clearing": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Clearing to the south of Langdale Stronghold, by a stream, found earlier while looking for hobgoblins. Old buildings or other signs of civilization were there.",
+                "Chosen as the site for Gerk's doorway practice. The nearby bees are explicitly avoided."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dullhurst": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Named as a place travelers or traders come from, or pass beyond, on the way to trade at New Navel."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Flavian",
+            "likely": "",
+            "notes": "DM's recalled name for the bar manager; he was not sure."
+        },
+        {
+            "heard": "dullhurst",
+            "likely": "",
+            "notes": "Origin or waypoint for traders coming to New Navel."
+        },
+        {
+            "heard": "rita",
+            "likely": "",
+            "notes": "Heard as New Navel slash Rita, a place where those traders take part in trade."
+        },
+        {
+            "heard": "kudos",
+            "likely": "",
+            "notes": "Sylan says they have not ridden in a while and should take their kudos out into the forest."
+        },
+        {
+            "heard": "define the Holly",
+            "likely": "find Mahali",
+            "notes": "After agreeing someone should cook for Glimmen, a nod is given and someone goes off to define the Holly."
+        },
+        {
+            "heard": "Simon",
+            "likely": "Sylan",
+            "notes": "In the check-in argument: Walker cannot complain about them not looking for him because he does not check in, and Simon wants to check in."
+        },
+        {
+            "heard": "grade hall",
+            "likely": "great hall",
+            "notes": "Where the party is eating buns in the morning."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Flavian",
+            "notes": [
+                "Name given for the manager of the party's bar."
+            ]
+        },
+        {
+            "name": "Dullhurst",
+            "notes": [
+                "Place traders travel from, or beyond, to reach the New Navel trade."
+            ]
+        },
+        {
+            "name": "Rita",
+            "notes": [
+                "Heard beside New Navel as a trade destination. Spelling and identity are unclear."
+            ]
+        },
+        {
+            "name": "Southern stream clearing",
+            "notes": [
+                "Forest clearing south of the stronghold, by a stream, with remnants of buildings. Used as the site for Gerk's doorway training. Bees are nearby and avoided."
+            ]
+        }
+    ]
+}

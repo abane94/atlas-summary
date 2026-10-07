@@ -1,0 +1,266 @@
+{
+    "plotSections": [
+        {
+            "title": "Holding Gerk's door shut",
+            "bullets": [
+                "Gerk cuts a stalk on his doorway; the rest snaps back and something on the far side scrabbles, growls, and rams the closed door.",
+                "With the door shut and his hand still on it, impacts feel like a normal door. The door stays at whatever opening his hand leaves it at. If he is shoved while still holding it, it can swing open; if his hand comes off, it remains at that position until he lets go entirely.",
+                "While shut, the far side is no longer the usual hollow view of the other space, and no one is there to see what the creature perceives.",
+                "Gerk releases it in a lull. The held outline dissipates, the growling stops, and the space returns to normal. He will not reopen it and risk letting the thing through.",
+                "Sylan takes that as confirmation they can keep a door and reuse it while Gerk is operating it, and frames the party as door guardians whose job is not to let evil through."
+            ]
+        },
+        {
+            "title": "Morning training and the ride home",
+            "bullets": [
+                "They stop the doorway practice for the day. Gerk hands out tomatoes as snacks. They decline a portal back to the stronghold and ride their mounts instead.",
+                "They used the morning to train and learn that Gerk can open these portals seemingly at will, with caveats, and they reach home around midday."
+            ]
+        },
+        {
+            "title": "The landmark table",
+            "bullets": [
+                "Walker has been meditating with Elrus on the puzzle Grixto set, without understanding it. Elrus takes a hunched-eagle marker from Walker's pocket and sets it with cavalry and infantry tokens on a square table he has makeshift assembled.",
+                "The eagle has nothing to do with a mountain or a waterfall. Placing the hunched eagle makes the table flash: four cardinal tokens become landmark representations, troop markings appear as a small semi-animated magical illusion, and a partial battlefield map fills in around them.",
+                "Walker remembers Vecna tapping this same kind of piece on and off during their conversation, and Grixto taking a different hunched eagle from a table and leaving with the plan sorted.",
+                "The table is an illusion item that can project or reenact a battle or scenario if the right tokens are placed. The flat tokens they have are already at their usable limit; more known landmarks or other pieces would extend the map. How the tokens are made is unknown. Elrus reads this as how Grixto worked as a military planner, and says they are in over their heads.",
+                "Walker thinks Grixto may have had a similar table in a command center where they first met him; he cannot settle the place name, and it is not confirmed."
+            ]
+        },
+        {
+            "title": "The offset obelisk and primal stones",
+            "bullets": [
+                "On the map the obelisk sits fifteen degrees off where it should, which Elrus takes to mean a conveyance is there. Both he and Walker think it is worth checking.",
+                "Near a conveyance, Walker's wards and shields would be amplified, then return to normal after a short time once he leaves. Channeling to force a stronger lasting effect is possible but untrained and could erase him. Elrus says that with more he could probably channel, and that they should meditate further.",
+                "Walker's gems already glow with energy he has been putting into them at the cost of exhaustion. Elrus once carried similar gems and gave them to other prospective riders.",
+                "Elrus offers primal stones: raw magic condensed into a stone. The maker would no longer be the only one directing it; a craftsperson could shape it into an item or call the energy, or it could be broken in desperation for a torrent of power. Condensing it could cost Walker part of himself. He wants to learn more. Elrus says he must pick a primal magic and asks whether he is attuned to any of the sources."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk cuts the stalk; it snaps back, and something growls and scrabbles against the far side of the door.",
+        "He slams the door shut but keeps his hand on the handle so Sylan can test whether a closed door still exists.",
+        "The closed door takes a ram like an ordinary door. It holds at the angle where his hand leaves it, and a hard shove while he is still holding it would swing it open.",
+        "Gerk lets go in a lull. The outline vanishes, the creature's noise stops, and he refuses to reopen it.",
+        "They snack, skip portaling home, and ride back, arriving around midday after a morning of portal practice.",
+        "The scene shifts to Walker, still meditating on Grixto's puzzle with Elrus.",
+        "Elrus takes the hunched-eagle marker and cavalry and infantry tokens and lays them on a square table.",
+        "Placing the hunched eagle flashes the table into a partial illusion map: four cardinal landmark tokens and smaller troop markers.",
+        "Memory shows Vecna toggling such a piece, and Grixto taking a different hunched eagle from a table once the plan was set.",
+        "The projected obelisk is fifteen degrees off true, which Elrus reads as a conveyance at that spot.",
+        "Wards would be stronger only while near the conveyance. Elrus warns Walker off untrained channeling and describes primal stones as stored raw magic he could try to condense, at the risk of losing part of himself.",
+        "Elrus asks which primal source Walker is attuned to. The chunk ends before Walker answers."
+    ],
+    "entities": {
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "Cutting the stalk snaps the rest back and leaves something growling and ramming the far side.",
+                "Shut, with Gerk's hand still on it, it behaves like a normal door: it stays at the opening where his hand leaves it, and a shove while he is holding it can swing it wide.",
+                "A closed door does not show the usual hollow view of the other space.",
+                "Letting go completely dissipates the outline and cuts off the far-side noise. Gerk believes he could open it again while operating it, and chooses not to."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree who opens Arch doorways and keeps the Midgard keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "After morning practice he can open these portals seemingly at will, with caveats, and he can hold one shut by keeping his hand on it.",
+                "He releases this door rather than risk letting the growling thing through, and rides home instead of portaling to the stronghold."
+            ],
+            "titles": [],
+            "personality": [
+                "Unwilling to gamble on what is ramming the far side of a door."
+            ],
+            "quotesThemes": [
+                "Sylan calls not letting evil through the doors their job as door guardians."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He tests whether a door Gerk is still operating remains after it is shut, and wants that as a reusable tool.",
+                "He stops the experiment once the far side turns hostile and they ride home."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Names the party door guardians, whatever they later decide to call themselves, whose job is not to let evil things through."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He spent the morning meditating on Grixto's puzzle and still does not understand it until Elrus uses the table.",
+                "He has been spending energy, and taking exhaustion, to charge gems that now glow. He hopes to learn primal stones.",
+                "His wards and shields would be amplified near a conveyance and fade back to normal after he leaves. He is untrained at channeling that power and is warned he could channel himself out of existence."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Elrus asks whether Walker is attuned to any primal source."
+            ]
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "He is the one walking Walker through Grixto's puzzle. He assembled a square table, recognized the hunched eagle and troop tokens as a landmark map, and concluded they are in over their heads.",
+                "He confirms the fifteen-degree obelisk offset means a conveyance, and that wards are amplified only in its vicinity.",
+                "He once carried energy gems like Walker's and gave them to other prospective riders long ago.",
+                "He can describe primal stones and offers to try condensing Walker's energy into them, with the risk that Walker loses part of himself into the stone. He wants more meditation before Walker channels."
+            ],
+            "titles": [],
+            "personality": [
+                "Dry and cautioning with Walker; briefly excited when the token pattern clicks, then alarmed."
+            ],
+            "quotesThemes": [
+                "\"We were right. The obelisk is fifteen degrees where it should be here, meaning that there is a conveyance at that location.\"",
+                "Untrained channeling could \"inadvertently channel yourself into non-existence.\""
+            ],
+            "openQuestions": []
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery.",
+            "entityType": "NPC",
+            "notes": [
+                "In Walker's recalled conversation, Vecna sat at a table repeatedly tapping a hunched-eagle piece on and off."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "A recalled scene shows him pull a different hunched eagle from a table and leave once the plan was sorted.",
+                "The illusion table is Elrus's look at how Grixto planned like a military genius. Walker only maybe remembers a command-center table where they first met him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether Grixto had a matching table in the command center where the party first met him."
+            ]
+        },
+        "Tilted landmarks": {
+            "existing": "Cardinal cave carvings set a few degrees off true bearing.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "On the token map the obelisk is fifteen degrees off where it should be, which Elrus reads as a conveyance at that location."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale Stronghold": {
+            "existing": "Party's central stronghold and home base.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Gerk and Sylan return on mounts around midday after the morning's portal training, rather than opening a door to it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "doggy door",
+            "likely": "door",
+            "notes": "Single phrase for the impact on the door Gerk is holding shut."
+        },
+        {
+            "heard": "Kroka",
+            "likely": "",
+            "notes": "Sylan's aside that Kroka got a pet, aimed at whatever was growling through the door."
+        },
+        {
+            "heard": "Bellers",
+            "likely": "Elrus",
+            "notes": "Walker says he tried to listen to what Bellers was telling him during the meditation."
+        },
+        {
+            "heard": "Point City",
+            "likely": "",
+            "notes": "Walker's first attempt at the city where they first met Grixto, before he switches names."
+        },
+        {
+            "heard": "Alamboo",
+            "likely": "",
+            "notes": "Walker then calls that first-meeting city Alamboo and describes a command center there."
+        },
+        {
+            "heard": "Callan Boo",
+            "likely": "Alamboo",
+            "notes": "DM echo of the same city name; he does not confirm the recall."
+        },
+        {
+            "heard": "Calvary markers",
+            "likely": "cavalry markers",
+            "notes": "Troop tokens Elrus asks Walker to hand over, paired with infantry markers."
+        }
+    ],
+    "openQuestions": [
+        "Is Walker attuned to any primal magic source?",
+        "Did Grixto have a similar token table in the command center where the party first met him?"
+    ],
+    "newTerms": [
+        {
+            "name": "Hunched eagle",
+            "notes": [
+                "A marker Walker had in his pocket. Set on Elrus's table, it triggers an illusion battlefield. Vecna tapped one on and off in a remembered conversation, and Grixto took a different one from a table when a plan was ready. It is unrelated to the mountain and waterfall imagery Walker associated with it."
+            ]
+        },
+        {
+            "name": "Landmark tokens",
+            "notes": [
+                "Flat poker-chip tokens. Four, placed cardinally, become landmark representations. They are already at their usable area; more tokens for known landmarks, or other pieces, would extend the map. How they are made is unknown."
+            ]
+        },
+        {
+            "name": "Troop markers",
+            "notes": [
+                "Cavalry and infantry tokens. On the activated table they show as small semi-animated holographic troop markings relative to the landmarks."
+            ]
+        },
+        {
+            "name": "Illusion war table",
+            "notes": [
+                "A square table Elrus put together that projects a battlefield or other scenario from the right tokens. He treats it as the tool behind Grixto's military planning. Vecna and Grixto have been seen using the same kind of piece."
+            ]
+        },
+        {
+            "name": "Conveyance",
+            "notes": [
+                "Elrus's name for what an obelisk fifteen degrees off true indicates. In its vicinity Walker's wards and shields are amplified, then the boost wanes after he leaves. Channeling it without training could destroy the caster; with more power he might channel it deliberately."
+            ]
+        },
+        {
+            "name": "Primal stones",
+            "notes": [
+                "Raw magic condensed into a stone. The creator stops being the sole director of that magic: a craftsperson can make items or call the energy, or the stone can be broken to release a torrent. Making one could leave part of the person in the stone. Walker must choose a primal source he is attuned to."
+            ]
+        },
+        {
+            "name": "Door guardians",
+            "notes": [
+                "Sylan's working name for the party's duty not to let evil through the doors, with the actual name still undecided."
+            ]
+        }
+    ]
+}

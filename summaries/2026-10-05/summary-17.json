@@ -1,0 +1,237 @@
+{
+    "plotSections": [
+        {
+            "title": "Two open doorways",
+            "bullets": [
+                "Gerk opens a normal, non-rage doorway aimed about twenty-five feet out, past a lantern. The opening lands short of the intended point.",
+                "A previous doorway was still open. The DM describes that one as an eighteen-foot door. Wind rushes between the two openings and pulls Sylan's lantern through the new door and into the larger one.",
+                "Gerk shuts both doors and the wind dies. Breaking branches are heard to the south."
+            ]
+        },
+        {
+            "title": "Closing a doorway cuts",
+            "bullets": [
+                "Sylan finds trees where the doorway closed: limbs sheared in clean cuts with no burn and no loose debris, as if sliced by a blade. Fallen branches lie in a pile, each cut where it passed through the door.",
+                "Sylan's lantern was sucked through and rolled. It is dinged, not shattered. He brings it back and tells Gerk the closing door cut the branches like a sword.",
+                "They treat the shear as dangerous: useful against something huge, or maybe a rope bridge, and unsafe in a crowd or when opening onto a person. Gerk recalls Carlkin telling them to practice in the middle of a field. They connect it to the boat being ripped out of reality and to the kitchen doorway that could have hit Mahali, which the DM calls a critical success.",
+                "Recent places may be easier. The doorway, opened three times a day, seems to surface recent destinations as favorites or options. Gerk does not want another try yet; Sylan says they have time."
+            ]
+        },
+        {
+            "title": "A doggy door in the tomato field",
+            "bullets": [
+                "Sylan wants a doorway toward his sister so they can get in and out quickly. Gerk points to the earlier attempt to reach Ciri without knowing where she was. Sylan suggests Dana's boost and songs, or another spell, if they can learn which ability the door uses. Gerk says it just happens. They do know a forceful opening makes a bigger door.",
+                "Gerk tries a gentle, low, dog-sized door about a hundred feet in front of a house with tomato fields, clear of the plants. Sylan gives guidance. Gerk rolls an 18.",
+                "The door is about six to eight inches by twelve inches, but it opens in the tomato field rather than the open ground, about a foot off the ground, where it could cut a plant's stem. It is fall, and this garden is currently always in tomato.",
+                "Gerk pulls a large tomato plant through. On a perception of 10, something on the far side growls, snaps, and tugs the plant. Red and green tomatoes scatter. Gerk draws a dagger to cut the stalk and shut the door; Sylan tells him to keep a hand on the door. The chunk ends there."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk aims a normal doorway about twenty-five feet away, past the lantern, and the opening falls short.",
+        "Because an earlier eighteen-foot doorway is still open, wind vortices between the two doors and sucks Sylan's lantern from one into the other.",
+        "Gerk closes both doors. The wind stops, and branches crash to the south.",
+        "Sylan finds clean, unburned cuts through the trees where they crossed the closing door, and recovers the dinged lantern.",
+        "Sylan and Gerk agree the shear is a hazard in crowds and when opening onto people, and they stop further tests for now.",
+        "Sylan raises reaching his sister, Dana boosting the attempt, and learning what ability the door uses. Gerk only knows that forcing it makes the door bigger.",
+        "With Sylan's guidance, Gerk gently opens a doggy door toward the field in front of a tomato-grower's house and rolls an 18. The door is a few inches across and lands in the tomato field.",
+        "Gerk hauls a tomato plant through. Something on the other side growls and fights him for it. He moves to cut the stalk and slam the door while keeping a hand on it."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Tree who opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "This opening is a normal one, not rage-induced. Forcing the opening makes the door bigger; opening gently and low produces a much smaller door.",
+                "Aim is still imprecise: the first doorway stops short of a point about twenty-five feet away, and the small door opens in the tomato field instead of the open ground in front of the house.",
+                "Two doorways left open at once pull a strong wind between them. He closes both after the lantern is sucked through.",
+                "He does not know what ability or magic the door uses; he describes it as something that just happens.",
+                "He recalls a failed doorway toward Ciri when he did not know where she was, and he remembers Carlkin saying to practice in an open field."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats the cutting effect as tempting and dangerous, and would rather stop than keep testing while tired."
+            ],
+            "quotesThemes": [
+                "A forceful opening makes a bigger door; a gentle, low opening is his attempt at a doggy door."
+            ],
+            "openQuestions": [
+                "What ability or magic Gerk is actually using when he opens a doorway."
+            ]
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations, opened by Gerk.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A normal opening can still miss its point, landing short or off to the side of the intended spot.",
+                "Two doorways open together create a vacuum; wind rushed from the new door into an eighteen-foot doorway that had been left open, carrying Sylan's lantern through.",
+                "Closing a doorway shears whatever is passing through that plane. Branches were cut cleanly, with no burn and no debris.",
+                "Size follows how the door is opened: force makes it larger; a gentle dog-door attempt produced a opening about six to eight inches by twelve inches, roughly a foot off the ground.",
+                "The ability is usable three times a day, and recent destinations seem to come up as favorites or ready options, which may make a place easier if Gerk has been there recently."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Investigates the cut trees, recovers his lantern, and warns Gerk not to use the shear in a crowd or when opening onto a person.",
+                "Wants a later doorway to his sister so they can retrieve her and leave quickly. Suggests Dana's boost and songs, or a better spell, once they know what ability the door uses.",
+                "Casts guidance on Gerk's small-door attempt and tells him to keep a hand on the door when the far side starts pulling the tomato plant."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan's sister": {
+            "existing": "Sylan's sister, whom he hopes to bring home.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan suggests using Gerk's doorway to reach her and get back out quickly. They do not try it in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan says she can boost other people and that her songs work well, and he hopes that could help Gerk's doorway. She is not present for the test."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether Dana's boost or songs can help Gerk open a doorway."
+            ]
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Gerk previously tried to open a doorway to Ciri without knowing where she was, and that attempt failed. She is not in this scene."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like ally, believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Gerk recalls Carlkin telling them to practice the doorway in the middle of a field."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mahali": {
+            "existing": "Elder god and the party's chef at the stronghold.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan says the earlier doorway into the kitchen could have cut Mahali, and the DM says that opening was a critical success. Mahali is not present here."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Kawaica": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Gerk names this as the person whose house he is aiming for. The house has a tomato field in front of it. Gerk tries to open about a hundred feet from the front door, outside the tomatoes, but the small doorway still lands in the field.",
+                "The name is badly heard: also comes out like Growcause or a similar grow-house name. Sylan's table canon is that this person always has tomatoes. The DM confirms it is fall.",
+                "Something at the house growls, snaps, and pulls the tomato plant from the other side of the doggy door. It is not identified."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "said B's token",
+            "likely": "",
+            "notes": "Gerk, while placing himself for the doorway. One unclear phrase, not a repeated term."
+        },
+        {
+            "heard": "pass the lander",
+            "likely": "past the lantern",
+            "notes": "DM confirming where Gerk is looking before the doorway opens over the lantern."
+        },
+        {
+            "heard": "a year old days",
+            "likely": "your old dice",
+            "notes": "DM line just before the portal opens over the lantern."
+        },
+        {
+            "heard": "standard road of the middle",
+            "likely": "",
+            "notes": "Gerk describing this as a normal doorway opening rather than a rage opening."
+        },
+        {
+            "heard": "Carl could",
+            "likely": "Carlkin",
+            "notes": "Gerk recalling who told them to practice the doorway in a field."
+        },
+        {
+            "heard": "assistment",
+            "likely": "",
+            "notes": "Sylan: teleport to 'my sister or assistment.' A second destination or person may be intended."
+        },
+        {
+            "heard": "Dark Age team",
+            "likely": "",
+            "notes": "Sylan, immediately before saying Dana might boost Gerk. May be a group name or a mishear of another phrase."
+        },
+        {
+            "heard": "Kawaica",
+            "likely": "",
+            "notes": "The house and tomato field Gerk aims the small door at."
+        },
+        {
+            "heard": "Growcause",
+            "likely": "",
+            "notes": "Gerk's next attempt at the same house name, after 'Grow I guess house.'"
+        },
+        {
+            "heard": "Shuskirk",
+            "likely": "just Gerk",
+            "notes": "Sylan asks this during the tomato pull; the DM answers that it is just Gerk."
+        },
+        {
+            "heard": "Idore",
+            "likely": "a door",
+            "notes": "Sylan, while they are settling the doggy-door size."
+        }
+    ],
+    "openQuestions": [
+        "What ability or magic Gerk uses to open a doorway.",
+        "Whether Dana's boost or songs can help that opening.",
+        "Who or what Sylan means by 'assistment' alongside his sister."
+    ],
+    "newTerms": [
+        {
+            "name": "Doorway shear",
+            "notes": [
+                "Closing one of Gerk's doorways cuts cleanly through whatever is in the plane, with no burn and no debris. Branches were severed when the doors shut. Two open doorways also pull a strong wind between them."
+            ]
+        },
+        {
+            "name": "Doorway favorites",
+            "notes": [
+                "Gerk can open the door three times a day. Recent destinations seem to surface as favorites or ready options, and a place may be easier if he has been there recently."
+            ]
+        }
+    ]
+}

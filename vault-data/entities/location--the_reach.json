@@ -65,12 +65,19 @@
       "notes": [
         "Benji asks, and Dana confirms, that Garixto was from The Reach. Carlkin places the Twin Bloody Comet legend in the late heyday of dragon riders there, and says time on that arch does not line up cleanly with his own."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Relative to the lighthouse scene, Walker is in The Reach alone. Time there runs longer than it does for the party: about eleven of his days against a little over two of theirs. The departure is also put at five days and a morning.",
+      "notes": [
+        "Walker is there alone relative to the lighthouse scene. His local time runs longer than the party's: about eleven of his days against a little over two of theirs, with the departure also put at five days and a morning."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:15:16.227Z",
-  "updatedAt": "2026-09-29T18:39:19.123Z",
+  "updatedAt": "2026-10-06T20:58:38.558Z",
   "normalizedAliases": [
     "reach"
   ]

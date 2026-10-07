@@ -27,10 +27,17 @@
         "Still afflicts Gerk despite Sylan's physical attempts to shake him out of it.",
         "Gerk fails a wisdom save with a natural 1 during the attempt."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "While Gerk opens a doorway, the confusion effect shifts the destination from the upstairs hallway he pictured to a more familiar memory, the loft of Bouncing Betty's barn, about twenty feet off.",
+      "notes": [
+        "While Gerk is opening a doorway, confusion shifts the destination from the pictured upstairs hallway to a more familiar memory, the loft of Bouncing Betty's barn, about twenty feet off."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:50:26.371Z",
-  "updatedAt": "2026-09-01T18:31:18.973Z"
+  "updatedAt": "2026-10-06T21:09:03.026Z"
 }

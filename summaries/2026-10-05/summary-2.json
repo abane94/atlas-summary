@@ -1,0 +1,369 @@
+{
+    "plotSections": [
+        {
+            "title": "Carlkin on keystones, the Doorman, and the lich",
+            "bullets": [
+                "At Carlkin's, with a second NPC also present, the party is told that Carlkin's people were once gatekeepers like them, but not doormen. Their old job was protection: take a keystone and hide it. He finds it strange that keystones are being given out to gatekeepers again after so much effort spent collecting them.",
+                "He is alarmed that a lich is pursuing the party and speaking to them telepathically, and tells them to deal with that immediately.",
+                "Gerk should practice opening doors somewhere safe: the woods or a very large field, not here and never underwater. An open door must be shut by Gerk, the only one who can. Left open, it stays a gateway until the space-time continuum collapses in on itself.",
+                "They have already nearly brought an abyssal leviathan into Carlkin's shop. He will mend the damaged floor later and thanks them for trying to fix it. He is drinking."
+            ]
+        },
+        {
+            "title": "Doors versus keystone gates",
+            "bullets": [
+                "Gerk can pass through his own door and open or close it from either side. He does not need a keystone. His door comes from nothing. He is both Doorman and gatekeeper. Carlkin jokes that he could be called a gate doorman or a portcullis man.",
+                "Only the Doorman can open that kind of portal. Other travel exists: plane shift, dimension door, teleport, teleportation circles, and Navi teleportation, including a strange rod the Navi use to teleport directionally through Atlas.",
+                "Keystone gates work only in certain situations and are one-way. The keystone cannot be carried through the gate it opens; it becomes part of that gate.",
+                "Sylan wants Gerk to practice at the castle, away from prying eyes. Carlkin would rather they use the mountains, where no one can interfere. Gerk notes dragons there; Sylan adds that they fought giants there. Carlkin has heard a rumor that the dragon is dead."
+            ]
+        },
+        {
+            "title": "Leaving the shop",
+            "bullets": [
+                "Carlkin asks them to make an appointment next time. Sylan apologizes for the floor, the door, and whatever Gerk is about to do.",
+                "Gerk tries to crawl out a window rather than use a door. Carlkin meant the doorway ability, not ordinary doors. Gerk still refuses the risk. Told to put down the thing on his arm, he takes that as being told to discard the last memory of his mother. Carlkin answers that Gerk's mother will not come through the portal, but everyone else will.",
+                "Gerk breaks down, tears streaming, visibly about to rage, and has to be dragged out, babbling. Sylan thinks he may need healing, then walks him out through the ordinary door and closes the doors behind them.",
+                "Sylan asks that when their comrade returns they book a visit to have the helm looked at. Carlkin agrees and will set the appointment by runner. He also says they are much farther than five hundred feet from the castle, so it is a walk. The party is outside at midday."
+            ]
+        },
+        {
+            "title": "Walker at the Dragon Rider ruins",
+            "bullets": [
+                "Walker is in the ruins of the Dragon Rider guild keep, comparing landmarks with notes taken from drawings in the cave below. All he has is a strangely rotated image of the landmarks, and he believes there is more down there.",
+                "He left because Vecna was in the cave and will not go back until Vecna is gone. He will not write in the book to ask whether Vecna is still down there. He wants time to pass until Vecna leaves, then he will go back downstairs. How he would know Vecna has left is unresolved."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Carlkin, former gatekeeper rather than doorman, warns the party that redistributing keystones is strange and that a lich speaking to them telepathically should be dealt with immediately.",
+        "He tells Gerk to practice doors only in the woods or a large field, never underwater and not here, and to always shut a door he opens or it remains a gateway until space-time collapses.",
+        "He recalls that they already nearly brought an abyssal leviathan into his shop, says he will mend the floor later, and drinks.",
+        "He confirms Gerk can open and close his door from either side without a keystone, while keystone gates are situational, one-way, and bind the keystone into the gate.",
+        "He distinguishes that portal from plane shift, dimension door, teleport, teleportation circles, and a Navi rod that teleports directionally across Atlas.",
+        "Sylan plans practice at the castle; Carlkin prefers the mountains. The party mentions dragons and giants there; Carlkin has heard the dragon is dead.",
+        "They agree to leave and to make an appointment next time. Gerk tries to exit by the window, is told the ban was on his doorway ability rather than physical doors, and rages when his mother's keepsake on his arm is dismissed.",
+        "Gerk is dragged out. Sylan asks for a later appointment to examine a helm when a comrade returns. Carlkin says the castle is farther than five hundred feet away. They go outside; it is midday.",
+        "Walker, at the ruined Dragon Rider guild keep, is comparing a rotated landmark image with cave drawings and refuses to return below while Vecna is there or to contact him through the book."
+    ],
+    "entities": {
+        "Carlkin": {
+            "existing": "Turtle-like person whose lighthouse in New Navel is his home and bookshop.",
+            "entityType": "NPC",
+            "notes": [
+                "Speaks as someone who, with others, once served as a gatekeeper: receive a keystone and hide it. That was a protection job, not a Doorman role.",
+                "Thinks handing the keystones out to new gatekeepers is strange after they were collected.",
+                "Finds a lich talking telepathically to the party very worrisome and tells them to sort it out immediately.",
+                "Will mend the damaged floor later. Thanks them for trying to fix it.",
+                "Drinks from a bottle through the conversation and is quite drunk by the end, while still reeling from an eldritch horror brought into his living room.",
+                "Asks them to make an appointment before coming back. Will send a runner and book a time to examine the helm when their comrade returns.",
+                "Says the party is much farther than five hundred feet from the castle.",
+                "Has heard a rumor that the dragon in the mountains is dead.",
+                "A second NPC is present with him, but this chunk does not separate that voice from his."
+            ],
+            "titles": [],
+            "personality": [
+                "Blunt, pedantic, and increasingly drunk. Prods Gerk about his dead mother, then brushes it off."
+            ],
+            "quotesThemes": [
+                "If a door is never shut, it stays a gateway until the space-time continuum crashes in on itself.",
+                "Never practice opening doors underwater.",
+                "Gerk's mother will not come through the portal; everyone else will."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman and Child of the Tree, keeper of the Midgar keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Can open a door from nothing without a keystone, pass through it, and open or close it from either side. He is the only one who can shut that door.",
+                "An unclosed door remains a gateway indefinitely, with a stated risk of the space-time continuum collapsing.",
+                "Carlkin tells him to practice in the woods or a large field, not at the shop and never underwater.",
+                "Was tapping the shop floor level with his hand and was not following the rules conversation.",
+                "After the warning, he refuses even ordinary doors and tries to crawl out a window. Carlkin clarifies he meant the doorway ability.",
+                "The object on his arm is, to him, the last memory of his mother. Carlkin's suggestion that he put it down, and the remark that his mother will not come through the portal, pushes him to the edge of rage.",
+                "Leaves inconsolable, in tears, and has to be dragged out. Sylan thinks he needs healing.",
+                "Says he may punch Carlkin one day for invoking his dead mother."
+            ],
+            "titles": [
+                "Doorman",
+                "Gatekeeper"
+            ],
+            "personality": [
+                "Grief over his mother turns quickly toward rage. He would rather climb out a window than risk another door."
+            ],
+            "quotesThemes": [
+                "Killing space and time by leaving a door open sounds scary.",
+                "The thing on his arm is the last memory of his mother."
+            ],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations, opened by Gerk as Doorman.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Gerk's door is a portal from nothing and does not require a keystone. Only he can open that kind of portal, and only he can shut it.",
+                "It can be opened and closed from either side, including after he has gone through.",
+                "If it is never shut, it remains a gateway until the space-time continuum collapses.",
+                "Practice is restricted to a safe place such as woods or a large field. Underwater is forbidden. Carlkin does not want it practiced in the shop.",
+                "This is distinct from keystone gates, plane shift, dimension door, teleport, and teleportation circles."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas's Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Carlkin's people once held them as gatekeepers whose task was to hide them.",
+                "Gatekeeper keystones work only in certain situations and are one-way.",
+                "A keystone cannot be taken through the gate it creates. It becomes part of that gate."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lich": {
+            "existing": "An unidentified lich whose phylactery may be hidden among his chess pieces.",
+            "entityType": "NPC",
+            "notes": [
+                "Carlkin says a lich is after the party and is talking to them telepathically. He calls that very worrisome and tells them to deal with it immediately."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abyssal eye-beast": {
+            "existing": "A god-tier extraplanar beast of oily tentacles and a wall of eyes that speaks from the abyss.",
+            "entityType": "OTHER",
+            "otherEntityType": "Creature",
+            "notes": [
+                "Carlkin says the party already almost brought an abyssal leviathan into his shop."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Navi": {
+            "existing": "Ancient race tied to the Eldarin Tree who created the keystones.",
+            "entityType": "GROUP",
+            "notes": [
+                "They have further ways of traveling, including teleportation magic they have imbued into their own means.",
+                "They have a strange little rod that can teleport the user directionally throughout Atlas."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is in the ruins of the Dragon Rider guild keep, comparing landmarks to notes from drawings in the cave below.",
+                "Has only a strangely rotated image of the landmarks and believes more is down there.",
+                "Left the cave because Vecna was there. He will wait until Vecna leaves, then go back down. He refuses to write in the book to ask if Vecna is still below."
+            ],
+            "titles": [],
+            "personality": [
+                "His immediate priority is not speaking to Vecna again."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How can Walker tell when Vecna has left the cave?"
+            ]
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery.",
+            "entityType": "NPC",
+            "notes": [
+                "Was down in the cave beneath the Dragon Rider guild ruins while Walker was examining the landmark drawings. Walker fled and is waiting him out.",
+                "The DM notes Walker could write in the book to ask whether Vecna is still down there. Walker refuses."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "How can Walker tell when Vecna has left the cave?"
+            ]
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "Dragon Rider guild training grounds near the Lost Isles.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Walker is standing in the ruins of the Dragon Rider guild keep, matching surface landmarks against drawings from the cave below.",
+                "Vecna was in that cave. Walker will not return until he believes Vecna is gone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Tilted landmarks": {
+            "existing": "Cardinal cave carvings set a few degrees off true bearing.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker only has a weird rotated image of the landmarks, taken from notes on the drawings downstairs in the cave, and thinks the record is incomplete."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale Stronghold": {
+            "existing": "The party's central stronghold and home base.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sylan suggests it as a private place for Gerk to practice opening doors.",
+                "Carlkin says the party is much farther than five hundred feet from the castle, so reaching it is a walk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Presses Carlkin on whether Gerk can close a door from the far side, whether only the Doorman can open that portal, and whether Gerk needs the keys.",
+                "Plans to have Gerk practice at the castle, out of sight.",
+                "Walks Gerk out, closing the doors, after Gerk has to be dragged. Thinks Gerk may need healing.",
+                "Books a return appointment, including a later look at the helm once a comrade is back."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "slich",
+            "likely": "lich",
+            "notes": "Sylan, opening the exchange about what they are dealing with."
+        },
+        {
+            "heard": "rich",
+            "likely": "lich",
+            "notes": "Carlkin: a lich after the party, talking telepathically."
+        },
+        {
+            "heard": "Gerkhore",
+            "likely": "Gerk",
+            "notes": "Carlkin comparing himself to the Doorman."
+        },
+        {
+            "heard": "not dorm and",
+            "likely": "not a doorman",
+            "notes": "Same line: they were gatekeepers but not doormen like Gerk."
+        },
+        {
+            "heard": "projection job",
+            "likely": "protection job",
+            "notes": "Hiding keystones."
+        },
+        {
+            "heard": "read the strip",
+            "likely": "redistribute",
+            "notes": "Giving collected keystones back out to gatekeepers."
+        },
+        {
+            "heard": "fix the four",
+            "likely": "fix the floor",
+            "notes": "Carlkin will use mending on it later. Gerk was leveling the floor by hand."
+        },
+        {
+            "heard": "basel leviathan",
+            "likely": "abyssal leviathan",
+            "notes": "The creature they almost brought into Carlkin's shop."
+        },
+        {
+            "heard": "not even known yet",
+            "likely": "not even noon yet",
+            "notes": "Carlkin says the day is young. The party is outside at midday soon after."
+        },
+        {
+            "heard": "this metric",
+            "likely": "this magic",
+            "notes": "Carlkin on Gerk's variation of the portal."
+        },
+        {
+            "heard": "poker collis man",
+            "likely": "portcullis man",
+            "notes": "Joking title for someone who is both a door and a gate."
+        },
+        {
+            "heard": "Nathine",
+            "likely": "nothing",
+            "notes": "A portal from nothing, matching the earlier line that the door is from nothing."
+        },
+        {
+            "heard": "mention door",
+            "likely": "dimension door",
+            "notes": "Listed with plane shift, teleport, and teleportation circles as a leveled spell."
+        },
+        {
+            "heard": "level dispell",
+            "likely": "leveled spell",
+            "notes": "Same description of dimension door."
+        },
+        {
+            "heard": "John",
+            "likely": "jaunt",
+            "notes": "Uncertain. 'There's like John that can happen' falls in the list of other teleportation."
+        },
+        {
+            "heard": "they are kids",
+            "likely": "their kit",
+            "notes": "Uncertain. Precedes the Navi rod used to teleport directionally through Atlas."
+        },
+        {
+            "heard": "durability",
+            "likely": "door ability",
+            "notes": "Carlkin clarifies he did not mean ordinary doors."
+        },
+        {
+            "heard": "dropping your arm",
+            "likely": "strapped to your arm",
+            "notes": "The item Carlkin tells Gerk to put down, which Gerk calls his mother's last memory."
+        },
+        {
+            "heard": "Carl again",
+            "likely": "Carlkin",
+            "notes": "Gerk, mid-breakdown."
+        },
+        {
+            "heard": "send five hundred feet",
+            "likely": "Sending, five hundred feet",
+            "notes": "Distance from Carlkin to the castle. He says they are farther than five hundred feet."
+        },
+        {
+            "heard": "bribed out drawings",
+            "likely": "scribed drawings",
+            "notes": "Uncertain. The cave drawings below the Dragon Rider keep that Walker is comparing to the landmarks."
+        }
+    ],
+    "openQuestions": [
+        "How can Walker tell when Vecna has left the cave under the Dragon Rider ruins?"
+    ],
+    "newTerms": [
+        {
+            "name": "Navi directional rod",
+            "notes": [
+                "A strange little rod Carlkin attributes to the Navi. It lets the user teleport directionally throughout Atlas."
+            ]
+        },
+        {
+            "name": "Helm",
+            "notes": [
+                "An unspecified helm Sylan wants Carlkin to examine on a later appointment, once a comrade returns. Carlkin agrees to schedule it."
+            ]
+        }
+    ]
+}

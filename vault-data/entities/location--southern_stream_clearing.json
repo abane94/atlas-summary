@@ -1,0 +1,27 @@
+{
+  "name": "Southern stream clearing",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "A streamside clearing south of Langdale Stronghold, chosen for Gerk's doorway practice.",
+  "aliases": [],
+  "normalizedAliases": [
+    "southern stream clearing"
+  ],
+  "filename": "entities/location/southern_stream_clearing.md",
+  "description": "A clearing south of Langdale Stronghold, beside a stream, found earlier while looking for hobgoblins. Old buildings or other signs of civilization were there, and bees are nearby.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-05",
+      "summary": "Sylan chooses this clearing for Gerk's doorway practice and explicitly avoids the nearby bees. The practice is also described as starting from the Langdale forest outskirts, out of view of the red-flag runes.",
+      "notes": [
+        "A clearing south of Langdale Stronghold, by a stream, found earlier while looking for hobgoblins. Old buildings or other signs of civilization were there. Sylan chooses it for Gerk's doorway practice and explicitly avoids the nearby bees. The practice is also described as starting from the Langdale forest outskirts, out of view of the red-flag runes."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-06T21:14:33.743Z",
+  "updatedAt": "2026-10-06T21:14:33.743Z"
+}

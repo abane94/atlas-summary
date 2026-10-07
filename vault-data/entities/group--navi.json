@@ -28,6 +28,13 @@
       "notes": [
         "Vecna says he is not of the Navi line. He claims the first peoples of Atlas as his own stock. The name was heard as Narvi."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Carlkin says the **Navi** have extra ways to move through Atlas, including teleportation magic carried in their own gear or people, and a strange little rod that teleports the user directionally across Atlas.",
+      "notes": [
+        "Carlkin says they have extra ways to move through Atlas, including teleportation magic carried in their own gear or people, and a strange little rod that teleports the user directionally across Atlas."
+      ]
     }
   ],
   "openQuestions": [
@@ -36,7 +43,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:20:01.954Z",
-  "updatedAt": "2026-09-29T18:44:26.110Z",
+  "updatedAt": "2026-10-06T21:02:32.252Z",
   "normalizedAliases": [
     "navi"
   ]

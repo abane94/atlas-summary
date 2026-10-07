@@ -1,0 +1,231 @@
+{
+    "plotSections": [
+        {
+            "title": "Choosing where to practice the doorway",
+            "bullets": [
+                "Sylan, Gerk, Ciri, and Ord plan to practice Gerk's doorway away from the stronghold living room, because Gerk worries about opening a portal to hell in the middle of it.",
+                "They rule out an island in the lake (there is none), the bees, and old buildings or civilization south of the stronghold. Sylan suggests the southern clearing and stream from the earlier hobgoblin search; the DM ties previously found runes to the red-flag marker, but the party decides only to enter the forest out of view of the stronghold.",
+                "Gerk has no preference between dirt and stone. Sylan leaves word with the guards that they have gone south into the forest and that Walker may contact them. Walker is expected on Glimmen, and the guards are asked to have Mahali prepare food for the dragon."
+            ]
+        },
+        {
+            "title": "Ciri rejoins at the stronghold",
+            "bullets": [
+                "Ciri spent the night in a room at the tavern and meets the others on the path back to Langdale Stronghold, still in the same clothes and carrying boots over one shoulder, then leaves with them.",
+                "By mid-morning the group is on the outskirts of the forest and ready to practice."
+            ]
+        },
+        {
+            "title": "Doorway rules and the first opening",
+            "bullets": [
+                "Before the attempt they restate Gerk's rules: picture something very specific, do not think of nothing, never open underwater, always close the door, and do not open it while moving.",
+                "Gerk focuses on a spot about twenty feet out from the tavern door, in the field in front of the tavern, still within Langdale. Sylan calls on the Raven Queen and grants Guidance. Gerk rolls a 16.",
+                "The door opens, but about a quarter mile southwest of the intended spot. From it they can see the tavern in the distance and, at that angle, most of the stronghold."
+            ]
+        },
+        {
+            "title": "The portal from the far side",
+            "bullets": [
+                "Sylan hops through and waits before telling Gerk to close it. He comes out about a quarter mile southwest of the tavern, near the road from the tavern to New Navel.",
+                "Three human traders with a mule-drawn cart, roughly a football field away and headed the other way, are startled when he appears out of nothing. The portal faces away from them.",
+                "Sylan can see Gerk, Ord, and Ciri through the door and can hear them. From the destination side the portal is a stationary, featureless, door-shaped opening, like a green screen projecting the people on the other side, with no other visible frame.",
+                "Sylan calls the attempt close enough and proposes a harder test: target a person instead of a place. Gerk closes the door and begins focusing on Sylan, five feet behind him, wherever Sylan is."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The group rejects practicing in the stronghold living room and confirms there is no island in the lake.",
+        "They consider the southern stream clearing from the hobgoblin search, skip the bees and old ruins, and settle on riding into the forest out of sight of the stronghold.",
+        "Sylan tells the guards to inform Walker, expected to arrive on Glimmen, that the group went south into the forest and can be contacted, and asks that Mahali prepare food for the dragon.",
+        "Ciri, who stayed in a tavern room, meets them on the stronghold path and joins Sylan, Gerk, and Ord.",
+        "Mid-morning they reach the forest outskirts. They recall the doorway rules, and Gerk targets a point about twenty feet from the tavern door while Sylan grants Guidance.",
+        "On a 16, the door opens roughly a quarter mile southwest of that spot, with the tavern and most of the stronghold visible in the distance.",
+        "Sylan steps through onto the tavern-to-New Navel road, startling three human traders with a mule cart about a football field away. The portal is audible and see-through, but otherwise an invisible, featureless door shape.",
+        "Gerk closes the door and starts a second attempt aimed at Sylan, five feet behind him."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Tree who opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Practices the doorway from the Langdale forest outskirts with Sylan, Ciri, and Ord watching.",
+                "Restated rules: think of something very specific, do not think of nothing, never open underwater, always close the door, and do not open it while moving.",
+                "First target is a spot about twenty feet outside the tavern door. With Sylan's Guidance the check is a 16. The door opens about a quarter mile southwest of that spot, near the road to New Navel, with the tavern and most of the stronghold visible.",
+                "Closes that door and begins a second attempt fixed on Sylan, five feet behind him."
+            ],
+            "titles": [
+                "Doorman"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Chooses the forest over the living room for doorway practice and leaves a message for Walker with the guards.",
+                "Calls on the Raven Queen to cast Guidance on Gerk's first attempt, then hops through the portal and studies it from the road southwest of the tavern.",
+                "Proposes the next test: open the doorway onto a person rather than a place, and stands on the far side while Gerk retargets him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Spent the night in a room at the tavern and rejoins the others on the path up to Langdale Stronghold, in the same clothes as before, carrying boots over one shoulder.",
+                "Goes south into the forest with Sylan, Gerk, and Ord for the doorway practice."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Comes along to watch the doorway practice in the forest south of the stronghold."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations, opened by Gerk.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Practice rules stated this session: picture a very specific target, do not think of nothing, never open underwater, always close it, and do not open it while moving.",
+                "A 16 with Guidance still missed the pictured point by about a quarter mile to the southwest. The opening showed the tavern and most of Langdale Stronghold from that angle.",
+                "People can pass through, and sound carries. From the destination side it is a stationary, featureless, door-shaped hole, comparable to a green screen projecting whoever is on the far side, with no other visible structure.",
+                "A follow-up test, targeting a person (Sylan) five feet behind him, is started as this chunk ends."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can the doorway lock onto a person rather than a place?"
+            ]
+        },
+        "Langdale Stronghold": {
+            "existing": "The party's central stronghold and home base.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Visible from the mis-aimed doorway, which opened about a quarter mile southwest of the tavern and showed most of the stronghold at that angle.",
+                "Guards there are told to pass Sylan's message to Walker and to have Mahali ready food for Glimmen."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "A familiar stop that sends trade caravans to the party's tavern in Langdale.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The road between the tavern and New Navel passes near the spot where the doorway opened, about a quarter mile southwest of the tavern. Three human traders with a mule cart were traveling that road."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mahali": {
+            "existing": "Elder god who serves as the party's chef at their stronghold.",
+            "entityType": "NPC",
+            "notes": [
+                "Asked, via the guards, to prepare food for Glimmen ahead of Walker's expected arrival by dragon."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider bonded to Glimmen and Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Not with the practice group. Expected to arrive at the stronghold on Glimmen and invited to contact the others once told they went south into the forest."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Expected to arrive with Walker. Mahali is asked to have food ready for the dragon."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Raven Queen": {
+            "existing": "Elder god of death, also called Nira.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan calls on the Raven Queen to grant Guidance for Gerk's doorway check."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "kudos",
+            "likely": "mounts",
+            "notes": "Sylan says they have not ridden in a while and should take their kudos out into the forest."
+        },
+        {
+            "heard": "trigas",
+            "likely": "trees",
+            "notes": "The DM narrates the group taking off down into the trigas as they leave the stronghold."
+        },
+        {
+            "heard": "Paulette runes",
+            "likely": "",
+            "notes": "The DM asks if they are heading for previously found Paulette runes, which Sylan associates with the forest and the red flag."
+        },
+        {
+            "heard": "define the Holly",
+            "likely": "find Mahali",
+            "notes": "After agreeing to feed Glimmen, the guard goes off to define the Holly."
+        },
+        {
+            "heard": "Migart",
+            "likely": "me, Gerk",
+            "notes": "Sylan says 'Don't kill Migart' as Gerk closes the door to retarget him."
+        },
+        {
+            "heard": "Buddy O'Pelle",
+            "likely": "1d4, buddy",
+            "notes": "Sylan answering what Guidance adds, in the line 'A one D for Buddy O'Pelle.'"
+        },
+        {
+            "heard": "Well fuck more",
+            "likely": "Well, four more",
+            "notes": "Gerk's reply right after confirming the total was 16, likely the Guidance die."
+        }
+    ],
+    "openQuestions": [
+        "Can Gerk's doorway target a person, specifically a point five feet behind Sylan, rather than a place?"
+    ],
+    "newTerms": [
+        {
+            "name": "Red flag",
+            "notes": [
+                "A marker in the southern Langdale forest. The DM believes it marks the previously found runes near the stream clearing from the hobgoblin search. The party did not go there for this practice."
+            ]
+        }
+    ]
+}

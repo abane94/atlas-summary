@@ -1,0 +1,273 @@
+{
+  "mapMarkers": [
+    {
+      "id": "mit-gar-map",
+      "lastAccessed": 1791249046122,
+      "markers": [
+        {
+          "id": "ID_2a69798ba978",
+          "type": "City",
+          "loc": [
+            63.8646240234375,
+            51.1400146484375
+          ],
+          "link": "Langdale Stronghold",
+          "layer": "%5B%5Bmit-gar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            12.785003662109375,
+            -19.16687426729191
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0879e8c82b98",
+          "type": "region",
+          "loc": [
+            68.5517578125,
+            55.25
+          ],
+          "layer": "%5B%5Bmit-gar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "rectangle",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 75.6778564453125,
+              "lng": 64.2225341796875,
+              "id": "ID_083819d8dafb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 75.6778564453125,
+              "lng": 76.0380859375,
+              "id": "ID_598afa683aeb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 70.0531005859375,
+              "lng": 76.0380859375,
+              "id": "ID_ea4bb838cb2b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 70.0531005859375,
+              "lng": 64.2225341796875,
+              "id": "ID_3a29ebc86898",
+              "targets": {
+                "vertexIds": [
+                  "ID_e859ab0b8828"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 70.0531005859375,
+              "lng": 64.2225341796875,
+              "id": "ID_e859ab0b8828",
+              "targets": {
+                "vertexIds": [
+                  "ID_3a29ebc86898"
+                ]
+              }
+            },
+            {
+              "lat": 70.0859375,
+              "lng": 70.7236328125,
+              "id": "ID_49485bb9282a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 69.00244140625,
+              "lng": 73.08984375,
+              "id": "ID_2b7bfa7aca19",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 71.77587890625,
+              "lng": 74.943359375,
+              "id": "ID_ea28ca09b818",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 75.2626953125,
+              "lng": 75.55712890625,
+              "id": "ID_1a2b086a1bca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 74.59814453125,
+              "lng": 71.65283203125,
+              "id": "ID_db286a391908",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 74.2119140625,
+              "lng": 71.9541015625,
+              "id": "ID_6a78290b6a3b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 72.80615234375,
+              "lng": 68.51318359375,
+              "id": "ID_39ba3969d879",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 72.1280517578125,
+              "lng": 60.57275390625,
+              "id": "ID_2a4a080b0a6b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": [
+        "locations/Mit-Gar.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "keep",
+      "iconName": "chess-rook",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Arch",
+      "iconName": "archway",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "region",
+      "iconName": "map",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

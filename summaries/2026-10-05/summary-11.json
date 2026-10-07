@@ -1,0 +1,178 @@
+{
+    "plotSections": [
+        {
+            "title": "Door to Sylan",
+            "bullets": [
+                "Gerk opens a doorway aimed about ten feet from Sylan, whom he has just seen and whose general location in the realm he knows. A natural 20 makes it work as intended: the door opens with no flash, and the only sign is forest birdsong from the place they left filtering through.",
+                "Sylan notes the ability can target a person and a place. Nearby guards were startled, then kept walking with occasional glances back; Sylan treats portal magic as unsurprising here, dusts off, and waits out the traders before hopping back through.",
+                "Gerk describes the method as wanting to be near his best friend at a respectful distance, helped by knowing where Sylan was. Sylan suggests fondness may matter. Gerk adds he did not want to head back without Sylan."
+            ]
+        },
+        {
+            "title": "Blind test on Ciri",
+            "bullets": [
+                "They test whether Gerk can open to a person whose exact spot he does not know. Ciri hides in the forest; her stealth roll is a 7, beaten by a 23, so the party still has a rough sense she is in the woods. Gerk covers his eyes. Sylan casts guidance.",
+                "Gerk aims for close-but-not-too-close to Ciri, about a ten-foot circle, while admitting he still knows she is in the forest. The roll is a 1 on the guidance die and a 3 on the d20, total 4.",
+                "The door opens onto a maelstrom of explosions, flashes, and noise, opposite the quiet forest. In a trench embankment, an orc with a metal weapon crouches beside a human. Both wear mixed medieval and French Renaissance clothing and carry metal tube-sticks. One points a tube and shouts in an unknown language; the other fumbles a small clay pot from his belt.",
+                "Gerk slams the door. The forest returns: birds, cool air, a brimstone-sulfur whiff, and a black smudge on the grass. No other trace of the battlefield remains. He did not find Ciri. Sylan’s working theory is that a person alone is not enough; the location has to be known, at least so far.",
+                "Ciri answers by throwing her voice, then stays hidden in a tree and watches instead of returning."
+            ]
+        },
+        {
+            "title": "How to train the doors",
+            "bullets": [
+                "Sylan frames the next step as training what activates the ability: emotion, rage, or a happy memory. Gerk calls making him angry a bad idea. The successful opening on Sylan is attributed to having just seen him, not only to fondness.",
+                "Sylan proposes describing places they have been, including smell and other specifics, as a memory exercise. Gerk says he is weak at active description but will try. Sylan does not want to go home yet because the mission is unfinished, and names Halo Heart as a good place to picture."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk declares a doorway ten feet from Sylan and rolls a natural 20. The door opens silently onto forest birdsong from the area they left.",
+        "Guards startle, then walk on, glancing back. Sylan hops back through and asks whether Gerk uses thought, memory, or fondness.",
+        "Ciri hides in the forest (stealth 7 against a 23). Gerk, eyes covered and guided by Sylan, tries to open close to her and rolls a total of 4.",
+        "The door opens onto an explosion-filled trench where an orc and a human in mixed medieval and Renaissance dress level metal tubes and reach for a clay pot.",
+        "Gerk shuts the door. Sulfur smell and a black smudge remain on the grass. The party concludes he did not reach Ciri and may need a known location, not only a person.",
+        "Ciri throws her voice and stays in a tree. Sylan starts training talk: emotion versus precise memory of places, and suggests Halo Heart rather than going home before the mission is done."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree who opens Arch doorways and keeps the Midgard keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "A natural 20 opened a door about ten feet from Sylan with no flash; success felt tied to having just seen him and knowing his general location, plus intending a respectful distance.",
+                "A total of 4 while thinking of Ciri, whose exact hiding spot he did not know, opened onto an unrelated battlefield instead of her.",
+                "He shut that door immediately. Closing it left a brimstone-sulfur smell and a black smudge on the grass.",
+                "He is unwilling to try the ability while raging, and says he is poor at vivid place descriptions but willing to practice."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats Sylan as his best friend and frames the good door as wanting to stay near him without crowding him."
+            ],
+            "quotesThemes": [
+                "Close but not too close to Sylan, at a respectful distance.",
+                "Making him mad to trigger the door sounds like a bad idea."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Hopped back through Gerk’s successful door after the traders moved on.",
+                "Cast guidance on Gerk’s attempt to reach Ciri.",
+                "Working theory after the failed reach: the door may need a known location, not only a named person, and fondness might play a part when the place was recently seen.",
+                "Does not want to return home yet because the mission is unfinished. Proposes Halo Heart as a memory target and sensory description of known places as training."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "It can work on a person and it can work on a place.",
+                "You might need to know the location; you cannot just name a person, at least so far."
+            ],
+            "openQuestions": [
+                "How is Gerk accessing the door: thought alone, memories, or emotion?"
+            ]
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue, keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Hid in the forest for the doorway test and rolled a 7 stealth, which did not beat a 23.",
+                "After the door missed her, she threw her voice to answer, then stayed in a tree and watched rather than returning."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations, associated with Gerk’s Doorman role.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "On a natural 20, with a recently seen person and a stated offset of about ten feet, it opened as prescribed: no flash, only ambient sound from the origin filtering through.",
+                "A poor roll while targeting a person in a known area but not a known spot still opened a door, onto a violent trench battlefield rather than the target.",
+                "Shutting the bad door restored the forest except for a sulfur smell and black residue on the grass.",
+                "Party is testing triggers: known location, fondness, emotion or rage, and detailed memory of a place including smell."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can Gerk open to a person whose location he does not know?",
+                "What reliably activates the ability?"
+            ]
+        },
+        "Halo Heart": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Sylan names it as a good place for Gerk to picture while training the doorway, in contrast to going home before the mission is finished."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Helicover series",
+            "likely": "",
+            "notes": "Sylan, while proposing a test of opening to someone whose location is unknown."
+        },
+        {
+            "heard": "Kipago",
+            "likely": "Gerk",
+            "notes": "Ciri, as she stomps into the woods to hide: stared at Kipago."
+        },
+        {
+            "heard": "this fine series",
+            "likely": "",
+            "notes": "Sylan: he does not think Gerk can think he never finds this fine series, during the hide test."
+        },
+        {
+            "heard": "shallow birds",
+            "likely": "",
+            "notes": "Sylan, just as the second door is opened."
+        },
+        {
+            "heard": "into an account",
+            "likely": "",
+            "notes": "Sylan to Ord: teleport us into an account, amid the portal description."
+        },
+        {
+            "heard": "Dick",
+            "likely": "",
+            "notes": "DM, between the orc with a metal weapon and the human beside him in the trench. May not be a name."
+        },
+        {
+            "heard": "crit the evidence",
+            "likely": "crit the guidance",
+            "notes": "Gerk correcting the dice: guidance die 1, d20 a 3, total 4."
+        },
+        {
+            "heard": "I did not listen to the Raven Queens",
+            "likely": "",
+            "notes": "Same dice correction. Unclear whether this is the Raven Queen or garbled roll talk."
+        }
+    ],
+    "openQuestions": [
+        "Does Gerk’s door require a known location, or can it open on a person alone?",
+        "What activates the ability: memory of a place, fondness, or an emotional state such as rage?",
+        "How should they train it: describing remembered places, including how they smelled?"
+    ],
+    "newTerms": [
+        {
+            "name": "Halo Heart",
+            "notes": [
+                "A place Sylan wants Gerk to use as a doorway-training memory instead of returning home before the mission is done."
+            ]
+        },
+        {
+            "name": "Trench battlefield glimpse",
+            "notes": [
+                "Unnamed place reached by the bad door: explosions and noise, a trench embankment, an orc and a human in mixed medieval and French Renaissance dress, metal tube weapons, a shouted unknown language, and a small clay pot. Closing the door left sulfur smell and a black smudge."
+            ]
+        }
+    ]
+}

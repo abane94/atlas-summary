@@ -1,0 +1,257 @@
+{
+    "plotSections": [
+        {
+            "title": "A door onto a battlefield",
+            "bullets": [
+                "Gerk’s attempt, with Sylan’s guidance, totals 4 (1 on the guidance die and 3 on the d20). The door still opens, onto a wall of explosions, flashes, and noise.",
+                "Across a trench embankment, an orc with a metal weapon crouches beside a human. Both wear mixed medieval and French Renaissance clothing and carry metal tube-sticks. One points a tube and shouts in a language the party does not know; the other fumbles a small clay pot from his belt.",
+                "Gerk slams the door. The forest returns: birds, cool air, a brimstone-sulfur smell from the shut door, and a black smudge on the grass. Nothing else of that place remains. He did not find Ciri.",
+                "Sylan’s working theory is that naming a person is not enough; the location has to be known, at least so far."
+            ]
+        },
+        {
+            "title": "Ciri stays hidden",
+            "bullets": [
+                "Sylan tells her the attempt failed and she can come back or not. Ciri throws her voice to answer, then stays in a tree and watches instead of returning."
+            ]
+        },
+        {
+            "title": "Training the doorway",
+            "bullets": [
+                "Sylan starts a training pass on what activates Gerk’s ability: rage, a happy memory, or a precise recollection of a place, including how it smelled. Gerk calls making him angry a bad idea, and says he is weak at describing places but will try.",
+                "The earlier success on Sylan is tied to Gerk having just seen him and knowing where he was, and to not wanting to head back without him. Sylan does not want to open a door home yet because the mission is unfinished, and names Halo Heart as a good thing to picture, but not to open here.",
+                "They use Volga as a memory exercise: the frozen gatehouse they climbed, tall and cold, a little spooky, and the spear-in-the-head moment. Gerk only half remembers it."
+            ]
+        },
+        {
+            "title": "Twin Peaks as the next target",
+            "bullets": [
+                "Gerk picks Twin Peaks, a place he has been often and where he has friends and fond memories. Sylan suggests a quick stop to say hello after this training; they had said they would be in the forest.",
+                "Gerk aims for the upstairs hallway of the Twin Peaks tavern, outside the rooms, rather than the front door, which he says would drop them into a busy street. The party cannot agree on the tavern’s name, whether it has two floors, or whether a stage they remember belongs to a different place. The door is not opened in this stretch."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk’s guided roll to reach Ciri totals 4. The door opens onto an explosion-filled trench where an orc and a human in mixed medieval and Renaissance dress level metal tubes and reach for a clay pot.",
+        "Gerk shuts the door. Sulfur smell and a black smudge remain on the grass. He did not find Ciri. Sylan suggests a known location may be required, not only a person.",
+        "Ciri throws her voice, then stays in a tree and watches.",
+        "Sylan starts training: emotion or rage versus detailed memory. Gerk rejects being made angry. They recall that the door to Sylan worked because Gerk had just seen him.",
+        "Sylan withholds a door home until the mission is done, names Halo Heart as a picture to hold, and walks Gerk through the frozen gatehouse at Volga. Gerk’s memory of it is thin.",
+        "Gerk chooses Twin Peaks and the upstairs hallway of its tavern. They argue the tavern’s name and layout, and whether the front door would open onto a busy street. No door is opened yet."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree who opens Arch doorways and keeps the Midgard keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "A total of 4 while trying to reach Ciri opened a door onto an unrelated battlefield. He shut it at once.",
+                "Closing that door left a brimstone-sulfur smell and a black smudge on the grass.",
+                "He attributes the earlier successful door to Sylan to having just seen him, and to not wanting to walk back without him.",
+                "He will not try the ability by being made angry. He says he is poor at vivid description but will practice.",
+                "He remembers Twin Peaks well, including friends there, and intends to open into the upstairs hallway of its tavern rather than the street."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats forcing rage as a bad way to trigger the door."
+            ],
+            "quotesThemes": [
+                "I don't think I found Ciri.",
+                "That sounds like a bad idea.",
+                "Safer to open into a hallway than the middle of a busy street."
+            ],
+            "openQuestions": [
+                "What is the correct name of the Twin Peaks tavern, and does it have an upstairs hallway of rooms?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Cast guidance on the attempt to reach Ciri.",
+                "After the miss, his working theory is that the door needs a known location, not only a named person.",
+                "He coaches training through emotion, happy memory, and sensory detail, and does not want a door home until the mission is finished.",
+                "He offers Halo Heart as a place to picture, and walks Gerk through the frozen gatehouse at Volga."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "You might need to know the location. You can't just say a person, at least so far."
+            ],
+            "openQuestions": [
+                "How would they train what activates Gerk’s ability?"
+            ]
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue, keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "After the door missed her, she threw her voice to answer, then stayed in a tree and watched rather than coming back."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations, associated with Gerk’s Doorman role.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A poor roll while targeting Ciri still opened a passage, onto a violent trench rather than her.",
+                "Shutting it restored the forest except for a sulfur smell and black residue on the grass.",
+                "The party is testing whether success needs a known place, a recent sighting, fondness, emotion, or a detailed memory including smell."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can the door open on a person whose location is not known?",
+                "What activates it: rage, a happy memory, or a precise recollection of a place?"
+            ]
+        },
+        "Halo Heart": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Sylan names it as a good place for Gerk to picture while training, and tells him not to open a door to it here, in contrast to going home before the mission is finished."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Volga": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "A place the party had just been. Sylan uses it as a memory drill: a frozen gatehouse they climbed, tall and cold, a little spooky, and a spear-in-the-head moment.",
+                "Gerk only partly remembers it and would not call the memory strong."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Twin Peaks": {
+            "existing": "Mountain range on the route between the wider world and Langdale.",
+            "entityType": "Location",
+            "notes": [
+                "Gerk says he has been there often and has friends and fond memories there.",
+                "Sylan suggests a short visit to say hello once this training is done. They had told people they would be in the forest.",
+                "The tavern they mean sits on a busy street if entered by the front door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Bouncing Benny's": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Tavern in Twin Peaks that Gerk wants as the doorway target. He aims for the upstairs hallway in front of the rooms.",
+                "The party disagrees on the name and on whether this building has two floors. A stage they remember is attributed to a different place.",
+                "The front door is expected to open onto a busy street, which is why Gerk prefers the hallway."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the tavern’s name?",
+                "Does it have a second floor with a hallway of rooms, or is that a different tavern?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "shallow birds",
+            "likely": "",
+            "notes": "Sylan, as the bad door is opening."
+        },
+        {
+            "heard": "into an account",
+            "likely": "",
+            "notes": "Sylan to Ord: teleport us into an account, during the portal."
+        },
+        {
+            "heard": "crit the evidence",
+            "likely": "",
+            "notes": "Gerk correcting the roll: guidance 1, d20 a 3, total 4."
+        },
+        {
+            "heard": "I did not listen to the Raven Queens",
+            "likely": "",
+            "notes": "Same dice correction. Unclear if this is the Raven Queen or garbled roll talk."
+        },
+        {
+            "heard": "Halo Heart",
+            "likely": "",
+            "notes": "Sylan’s named place to picture instead of opening a door home."
+        },
+        {
+            "heard": "Volga",
+            "likely": "",
+            "notes": "Place with the frozen gatehouse they climbed."
+        },
+        {
+            "heard": "Twid Peaks",
+            "likely": "Twin Peaks",
+            "notes": "Gerk’s first hearing; the DM says Twin Peaks."
+        },
+        {
+            "heard": "Nawaka",
+            "likely": "",
+            "notes": "Sylan, after Gerk asks who they told they would be in the forest: someone who returned and can message them, and did not."
+        },
+        {
+            "heard": "bouncing beddy",
+            "likely": "",
+            "notes": "Gerk’s name for the Twin Peaks tavern, upstairs hallway."
+        },
+        {
+            "heard": "Bouncy and Betty's",
+            "likely": "",
+            "notes": "DM’s hearing of the same tavern."
+        },
+        {
+            "heard": "bouncing beddies",
+            "likely": "",
+            "notes": "Gerk, distinguishing it from a different place that had a stage."
+        },
+        {
+            "heard": "Bouncing Benny",
+            "likely": "",
+            "notes": "Gerk, referring to that tavern’s map."
+        }
+    ],
+    "openQuestions": [
+        "Does Gerk’s door require a known location, or can it open on a person alone?",
+        "What activates the ability, and how should they train it?",
+        "What is the Twin Peaks tavern called, and does the upstairs hallway of rooms belong to it?"
+    ],
+    "newTerms": [
+        {
+            "name": "Halo Heart",
+            "notes": [
+                "A place Sylan wants Gerk to picture while training the doorway, and not to open onto yet."
+            ]
+        },
+        {
+            "name": "Volga",
+            "notes": [
+                "Recent stop with a tall frozen gatehouse the party climbed. Cold, a little spooky, and tied to a spear-in-the-head memory. Gerk’s recollection is weak."
+            ]
+        },
+        {
+            "name": "Trench battlefield glimpse",
+            "notes": [
+                "Unnamed place behind the bad door: explosions, a trench, an orc and a human in mixed medieval and French Renaissance dress, metal tube weapons, an unknown shouted language, and a small clay pot. Closing the door left sulfur and a black smudge."
+            ]
+        },
+        {
+            "name": "Bouncing Benny's",
+            "notes": [
+                "Unsettled name for a Twin Peaks tavern. Gerk wants the upstairs room hallway. Heard as bouncing beddy, Bouncy and Betty's, bouncing beddies, and Bouncing Benny. A stage may belong to a different tavern. The front door faces a busy street."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "plotSections": [
+        {
+            "title": "Vecna leaves the roost",
+            "bullets": [
+                "Walker waits a couple of hours at the tower ruins while Plymouth Gawater does scribe work and takes etchings.",
+                "A ping tells Walker a deity has left the realm. He and Glimmen go back down.",
+                "The smell has faded to a faint linger. The room is empty, the chair is pushed back, and the troop marker Vecna had been tapping is still on the table. The rest of the room is as they left it."
+            ]
+        },
+        {
+            "title": "The cave room",
+            "bullets": [
+                "The wall carvings are cave etchings cut into the stone, running in order around the room rather than set to the cardinal directions. Walker thinks the shared offset is a clue; the DM confirms he is onto something.",
+                "The map table is a flat stone slab about four feet by four feet, not a map carved into the surface. There is no compass in the floor and no manifesto.",
+                "What is in the room: an empty roost, troop markers scattered on the floor, the cave etchings (they correspond to a location above), the stone map table, and three additional stone chairs like the table.",
+                "The markers are black stone and ivory, though the material might instead be a dark metal or bronze. They include knight-like cavalry pieces, small etched dragons, pawn-like pieces with marks for rank or unit size, and flat poker-chip-sized tokens in two matched sets. The piece Vecna left on the table is a high-ranking hunched eagle with a decorative base, not one of the chips.",
+                "A troop marker that was taken off this table in the earlier vision is not here. That vision is how the party connected the scene to the Raskina."
+            ]
+        },
+        {
+            "title": "Elrus names the landmarks",
+            "bullets": [
+                "Walker assumes Elrus has been shadowing him the whole time. That is confirmed.",
+                "Elrus names the etched landmarks: a flat island of rolling green plains, about the size of the island they are on, sometimes written on maps as the grassy atoll but otherwise unnamed; a mountain, Mount Elcastar; and a waterfall, Monkey Falls, marked by an old obsidian ley line marker.",
+                "Walker has not been taught what ley lines are. Elrus calls a ley line a magical boundary that crisscrosses, asks if he knows the Weave, and says Walker does not. Elrus says his training has to catch up or he will never beat Grixto."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker waits a couple of hours at the tower ruins. Plymouth is busy with scribe work and etchings.",
+        "A notification pings: a deity has left the realm. Walker heads back down.",
+        "The room smells only faintly. It is empty, the chair is pushed back, and Vecna's tapped troop marker is still on the table.",
+        "The cave etchings run in order around the walls and do not line up with the cardinal directions. Walker treats that offset as a clue, and it is confirmed he is onto something.",
+        "There is no carved map, no floor compass, and no manifesto. The table is a flat stone slab about four feet square. The room holds an empty roost, scattered troop markers, the etchings of a place above, the table, and three extra stone chairs.",
+        "The markers depict cavalry knights, dragons, ranked pawns, and two sets of poker-chip tokens. Vecna's piece is a high-ranking hunched eagle with a decorative base. The marker removed in the earlier vision is absent.",
+        "Elrus, shadowing Walker, names the etchings: the grassy atoll, Mount Elcastar, and Monkey Falls with an old obsidian ley line marker.",
+        "Elrus begins explaining ley lines as a crisscrossing magical boundary and finds that Walker does not know them or the Weave. He says that gap has to close if Walker is going to beat Grixto."
+    ],
+    "entities": {
+        "Vecna": {
+            "existing": "Elder god of liches who had been in this room.",
+            "entityType": "NPC",
+            "notes": [
+                "A deity-left-the-realm notification fires while Walker is waiting above, and the room below is empty when he returns.",
+                "His chair is pushed back. The high-ranking hunched-eagle troop marker he had been tapping is still on the table."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally.",
+            "entityType": "NPC",
+            "notes": [
+                "While Walker waits at the tower ruins, Plymouth is doing scribe work and taking etchings."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally.",
+            "entityType": "NPC",
+            "notes": [
+                "He is shadowing Walker in the cave room.",
+                "He identifies the etched landmarks: the grassy atoll, Mount Elcastar, and Monkey Falls with its old obsidian ley line marker.",
+                "He tells Walker that ley lines are a crisscrossing magical boundary, that Walker has not been taught them or the Weave, and that this training has to accelerate or Walker will never beat Grixto."
+            ],
+            "titles": [],
+            "personality": [
+                "Blunt about the gaps in Walker's training."
+            ],
+            "quotesThemes": [
+                "Your training is lacking. You must accelerate this or you'll never be able to beat Grixto."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He waits at the tower ruins, gets the deity-left notification, and searches the empty room.",
+                "He correctly treats the etchings' failure to match the cardinal directions as a clue, but does not yet know what the offset means.",
+                "He has not been taught ley lines or the Weave."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the offset of the cave etchings is meant to tell him."
+            ]
+        },
+        "Tilted landmarks": {
+            "existing": "Cardinal cave carvings set a few degrees off true bearing.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The etchings are carved into the cave walls, panoramic and in sequence, and are not set to the cardinal directions.",
+                "Walker reads them as all rotated the same way. That reading is confirmed as a real clue, but the meaning is not explained.",
+                "They correspond to a location above: the grassy atoll, Mount Elcastar, and Monkey Falls."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the shared offset from the cardinal directions indicates."
+            ]
+        },
+        "Ley line": {
+            "existing": "Lines of magic that gatehouses sit on.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "An old obsidian ley line marker stands at Monkey Falls.",
+                "Elrus describes a ley line to Walker as a magical boundary that crisscrosses. Walker had not been taught this."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Weave": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Elrus treats the Weave as basic magical knowledge and finds that Walker does not know it. The explanation is cut off in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the Weave is, beyond Elrus treating it as something Walker should already know."
+            ]
+        },
+        "Grassy atoll": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "A flat island of rolling green plains, about the same size as the island the party is on. Some maps label it the grassy atoll; it has no real name. It is one of the cave etchings."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mount Elcastar": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The mountain shown in the cave etchings."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Monkey Falls": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The waterfall in the cave etchings. An old obsidian ley line marker stands there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Troop markers": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Scattered on the floor of the cave room. Described as black stone and ivory, with the material possibly a dark metal or bronze instead.",
+                "Shapes include knight-like cavalry pieces, small dragons, pawn-like pieces marked for rank or unit size, and flat poker-chip-sized tokens in two varieties with roughly equal counts, like two sides of a board.",
+                "One marker was removed from the table in the vision tied to the Raskina and is not in the room."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Hunched eagle marker": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "The high-ranking troop marker Vecna was tapping. It looks like a hunched eagle on a decorative base and is still on the table after he leaves. It is not one of the poker-chip pieces."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist tied to the Raskina and the earlier vision in this room.",
+            "entityType": "NPC",
+            "notes": [
+                "Elrus tells Walker he will never beat Grixto unless his training on ley lines and the Weave catches up.",
+                "In the vision set at this table, the figure who took a troop marker is the one the party linked to the Raskina."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Yotin",
+            "likely": "Grixto",
+            "notes": "Walker is talking about the vision where they connected the table and the sister-skin book."
+        },
+        {
+            "heard": "Fecna",
+            "likely": "Vecna",
+            "notes": "Said while joking that the manifesto had been sat on."
+        },
+        {
+            "heard": "Elruss",
+            "likely": "Elrus",
+            "notes": "Walker assuming who is shadowing him."
+        },
+        {
+            "heard": "GGrixto",
+            "likely": "Grixto",
+            "notes": "Elrus warning that Walker must accelerate his training."
+        },
+        {
+            "heard": "rat skin book",
+            "likely": "Raskina",
+            "notes": "Walker immediately corrects himself to sister-skin book."
+        },
+        {
+            "heard": "Her leyline",
+            "likely": "A ley line",
+            "notes": "Elrus defining the term as a magical boundary."
+        }
+    ],
+    "openQuestions": [
+        "What the cave etchings' offset from the cardinal directions is supposed to indicate.",
+        "What the Weave is. Elrus asks, and Walker does not know."
+    ],
+    "newTerms": [
+        {
+            "name": "The Weave",
+            "notes": [
+                "Magical framework Elrus expects Walker to know. Walker does not, and the explanation stops as this chunk ends."
+            ]
+        },
+        {
+            "name": "Grassy atoll",
+            "notes": [
+                "Map label for an otherwise unnamed flat green island, about the size of the island they are on, shown in the cave etchings."
+            ]
+        },
+        {
+            "name": "Mount Elcastar",
+            "notes": [
+                "Mountain depicted in the cave etchings."
+            ]
+        },
+        {
+            "name": "Monkey Falls",
+            "notes": [
+                "Waterfall in the cave etchings, site of an old obsidian ley line marker."
+            ]
+        },
+        {
+            "name": "Obsidian ley line marker",
+            "notes": [
+                "Old marker at Monkey Falls. Walker does not yet know what a ley line is."
+            ]
+        },
+        {
+            "name": "Hunched eagle marker",
+            "notes": [
+                "High-ranking troop marker Vecna tapped and left on the stone table."
+            ]
+        }
+    ]
+}

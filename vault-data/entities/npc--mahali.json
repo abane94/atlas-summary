@@ -34,12 +34,19 @@
         "Provides the party with leftover breakfast rolls, preserves, and freshly churned butter before the dangerous door closure.",
         "Helps evacuate the stronghold's residents to the tavern after Sylan raises concerns about the reality distortion."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Mahali was asked, through the guards, to prepare food for Glimmen ahead of Walker’s expected arrival by dragon. Sylan noted that an earlier doorway into the kitchen could have cut Mahali; the DM said that opening was a critical success. Mahali was not present for the forest practice.",
+      "notes": [
+        "Asked, via the guards, to prepare food for Glimmen ahead of Walker's expected arrival by dragon. Sylan says an earlier doorway into the kitchen could have cut Mahali. The DM says that opening was a critical success. Mahali is not present for the forest practice."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:54:38.743Z",
-  "updatedAt": "2026-08-21T19:23:48.062Z",
+  "updatedAt": "2026-10-06T21:08:35.742Z",
   "normalizedAliases": [
     "mahali"
   ]

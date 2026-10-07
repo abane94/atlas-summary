@@ -45,12 +45,22 @@
         "Remains on the invisible party boat watching the chaos without being able to see the invisible struggle.",
         "Hides behind the mast or a barrel during the head count and is eventually accounted for."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Ciri is already at the New Navel pub when the others arrive, too drunk to stealth, crouched in the corner behind a pile of mugs and convinced she is hidden. At breakfast her face is in the buns. She has a room in the tavern, spends the night there, and rejoins the others on the path up to the stronghold in the same clothes, carrying her boots. She goes south into the forest with Sylan, Gerk, and Ord, lies down trying to nap, then hides so Gerk can open a door to her without seeing where she goes. Her stealth roll is 7 on the die; one report gives 23 as the total and another says the 7 did not beat a 23. After the door misses her, she throws her voice to answer, stays in a tree and watches, then goes with Sylan to inspect the far end and returns through the portal, noticed as a shadow passing behind him.",
+      "notes": [
+        "Already at the New Navel pub when the others arrive, drunk enough that she can no longer stealth: crouched in the corner behind a pile of mugs, convinced she is hidden. At breakfast her face is in the buns.",
+        "She has a room in the tavern, spends the night there, and rejoins the others on the path up to the stronghold in the same clothes, carrying her boots. She goes south into the forest with Sylan, Gerk, and Ord.",
+        "She lies down trying to nap, then hides in the forest so Gerk can open a door to her without seeing where she goes. Her stealth roll is 7 on the die. One report gives 23 as the total and another says the 7 did not beat a 23.",
+        "After the door misses her, she throws her voice to answer, then stays in a tree and watches. She later goes with Sylan to inspect the far end and returns through the portal, noticed as a shadow passing behind him."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:50:08.559Z",
-  "updatedAt": "2026-09-01T18:29:19.599Z",
+  "updatedAt": "2026-10-06T21:07:46.781Z",
   "normalizedAliases": [
     "ciri"
   ]

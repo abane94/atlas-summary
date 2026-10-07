@@ -47,12 +47,21 @@
         "Once all of them are placed in one gatehouse, the gatekeepers are more or less obligated to remain there, dormant, and protect that hub. A Doorman changed by a keystone will likely be asked to open portals tied to that stone.",
         "Using one away from a gatehouse would require a powerful ley-line crossing. The party has tried and, except for Gerk's doors, has not succeeded. Grixto wants the keystones, which is why the party is hunting him. Carlkin warns that a keystone could have been lost with Gerk if the nowhere-door had taken him, and he does not know the result."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Former gatekeepers treated the keystones as something to receive and hide: a protection duty, not a doorman's work. Carlkin finds it strange that they are being distributed again after they were collected. Gatekeeper use works only in certain situations and is one-way; the keystone becomes part of the gate it opens and cannot be taken through that gate. Plymouth said that with time and practice the keepers could use the keystones themselves. Sylan remembers Carlkin saying the party would not be able to open doors, and he is putting off that practice, including in his own realm.",
+      "notes": [
+        "Former gatekeepers treated them as something to receive and hide. That was a protection job, not a doorman's work. Carlkin finds it strange that they are being distributed again after they were collected.",
+        "Gatekeeper use works only in certain situations and is one-way. The keystone becomes part of the gate it opens and cannot be taken through that gate.",
+        "Plymouth said that with time and practice the keepers could use the keystones themselves. Sylan remembers Carlkin saying the party would not be able to open doors, and he is putting off that practice, including in his own realm."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:07:27.725Z",
-  "updatedAt": "2026-09-29T18:40:55.499Z",
+  "updatedAt": "2026-10-06T21:01:47.391Z",
   "normalizedAliases": [
     "keystones",
     "eight keystones"

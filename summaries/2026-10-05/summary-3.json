@@ -1,0 +1,249 @@
+{
+    "plotSections": [
+        {
+            "title": "Carlkin, the door, and Gerk's mother",
+            "bullets": [
+                "Gerk had opened doors to get the party in before he understood he should not be opening doors, and he is refusing to take further risks with them.",
+                "Carlkin tells him that if the danger is that severe he should stay away from actual doors, and that he should immediately put down the one that is dropping his arm.",
+                "Gerk treats that demand as being told to discard the last memory of his mother. He starts to rage, cries, becomes inconsolable, and has to be dragged out of the room.",
+                "Carlkin says Gerk's mother is not going to come to the portal, though everyone else will. He was drunk and still reeling from an eldritch horror brought into his living room. Gerk says Carlkin called out him and his dead mother at least three times and that he might punch Carlkin one day."
+            ]
+        },
+        {
+            "title": "Leaving Carlkin",
+            "bullets": [
+                "Sylan wants Gerk taken back down through the floor, using just the door this time, and thinks Gerk may need healing.",
+                "Sylan asks that when their comrade returns, Carlkin's people look at a helm. Carlkin agrees, says they can send a runner, and will make an appointment.",
+                "They are farther than five hundred feet from the castle, so it will be a short walk rather than a five-hundred-foot sending. Sylan closes the doors and the group leaves. It is midday and they are outside."
+            ]
+        },
+        {
+            "title": "Walker returns to the Dragon Rider cave",
+            "bullets": [
+                "Walker was last in the ruins of the Dragon Rider Guild keep, comparing landmarks to notes taken from the drawings in the cave below. He left because Vecna was down there and does not want to speak to Vecna again. He refuses to write in the book to ask whether Vecna is still below.",
+                "He waits at the tower ruins. Plymouth is still on site doing scribe work and taking etchings. Walker asks Glimmen whether Vecna is still down there. A notice arrives that a deity has left the realm, and Walker goes back down.",
+                "The smell has faded to a faint linger. The room is empty: no one at the table, the chair pushed back, and the troop marker Vecna had been tapping still on the table. The rest of the room is as Walker left it.",
+                "The landmark drawings are cave etchings carved into the walls, running in order around the room in a panorama, but they do not line up with the cardinal directions. Walker only has a rotated image of the landmarks and thinks the offset is a clue, but he does not know what it means.",
+                "There is no map, no compass, and no manifesto. The table is a flat stone slab about four feet by four feet. Other troop markers are scattered around; Walker distinguishes those ordinary markers from Vecna's special rocks and does not know what the scattered markers are for."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk admits he opened the doors to enter before he knew he should not, and refuses to risk opening more.",
+        "Carlkin tells Gerk to stay away from real doors and to put down the door that is dropping his arm.",
+        "Gerk breaks down over losing the last memory of his mother, shows rage, and has to be dragged from the room.",
+        "Carlkin says Gerk's mother will not come to the portal, though everyone else will.",
+        "Sylan moves Gerk back down through the floor with only the door, and suggests he may need healing.",
+        "Carlkin agrees to examine a helm by appointment once the party's comrade returns, via a runner.",
+        "The castle is farther than five hundred feet away. Sylan thanks Carlkin, closes the doors, and the group is outside at midday.",
+        "Walker is at the Dragon Rider Guild keep ruins with notes comparing landmarks to the cave drawings below, and he waits rather than return while Vecna is down there.",
+        "Plymouth remains at the site doing scribe work and etchings. After word that a deity has left the realm, Walker and Glimmen go back down.",
+        "The cave room is empty, the smell faded, the chair pushed back, and Vecna's tapped troop marker still on the table.",
+        "Walker finds the wall etchings in sequence around the cave but not aligned to cardinal directions, and finds no map, compass, or manifesto on the four-by-four stone slab. Other troop markers lie scattered."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He opened doors to get the party inside before learning he should not open doors, and he will not take that risk again.",
+                "Carlkin told him to put down the door that is dropping his arm. Gerk understands that as giving up the last memory of his mother.",
+                "He showed visible rage, cried, babbled inconsolably, and had to be dragged out.",
+                "He is angry enough at Carlkin, who invoked his dead mother repeatedly, that he might punch him one day."
+            ],
+            "titles": [],
+            "personality": [
+                "Protective of his mother's memory and quick to rage when it is mocked."
+            ],
+            "quotesThemes": [
+                "The door is the last memory of his mother."
+            ],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like ally whose home and bookshop is the lighthouse in New Navel.",
+            "entityType": "NPC",
+            "notes": [
+                "An eldritch horror was brought into his living room. He was quite drunk by the end of the visit and is still reeling from it.",
+                "He told Gerk to put down the door that is dropping Gerk's arm and said Gerk's mother will not come to the portal, though everyone else will. He called out Gerk and Gerk's dead mother at least three times.",
+                "He agreed to look at a helm: the party can send a runner and he will make an appointment.",
+                "His location is farther than five hundred feet from the castle."
+            ],
+            "titles": [],
+            "personality": [
+                "Blunt and cutting while drunk and shaken, including about Gerk's dead mother."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He got Gerk back down through the floor using only the door, thought Gerk might need healing, and then closed the doors and left.",
+                "He arranged for Carlkin to examine a helm when their comrade returns."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He has been in the ruins of the Dragon Rider Guild keep, comparing landmarks to notes from the cave drawings below.",
+                "He left the cave because Vecna was there and will not write in the book to check whether Vecna is still below.",
+                "After a deity-left-the-realm notice, he returned with Glimmen and found the room empty.",
+                "He believes the etchings' failure to match cardinal directions is a clue, but he does not know what it indicates. He found no map, compass, or written plan."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the offset cave landmarks are meant to indicate."
+            ]
+        },
+        "Vecna": {
+            "existing": "Elder god of liches.",
+            "entityType": "NPC",
+            "notes": [
+                "He had been in the cave room under the Dragon Rider Guild ruins and has left the realm.",
+                "His presence carried a strong smell that has since faded to a faint linger.",
+                "He left the chair pushed back. The troop marker he had been repeatedly tapping is still on the table. He is associated with special rocks, distinct from the ordinary troop markers scattered in the room.",
+                "No manifesto or other written plan was left in the room."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally.",
+            "entityType": "NPC",
+            "notes": [
+                "While Walker waited in the Dragon Rider ruins, Plymouth was doing scribe work and taking etchings."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker asked Glimmen whether Vecna was still in the cave before they went back down."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Door": {
+            "existing": "A door that stretches reality between places.",
+            "entityType": "ITEM",
+            "notes": [
+                "Gerk used it to enter Carlkin's place and is now unwilling to open further doors.",
+                "Carlkin says the one dropping Gerk's arm should be put down immediately. Gerk calls it the last memory of his mother.",
+                "Sylan brought Gerk back down through the floor with only that door, then closed the doors on the way out."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Tilted landmarks": {
+            "existing": "Cardinal cave carvings set a few degrees off true bearing.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "In the Dragon Rider cave they are etchings carved into the walls, in order, panoramic around the room, and not aligned to the cardinal directions.",
+                "Walker has a rotated image of them from his notes and reads the offset as a clue he cannot yet interpret.",
+                "They are not a map, not a compass rose, and not carved into the table."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the directional offset of the etchings is meant to show."
+            ]
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "Dragon Rider guild training grounds near the Lost Isles.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Walker is in the ruins of the guild keep. Below is the cave room where Vecna had been sitting, with wall etchings and a flat stone table about four feet by four feet.",
+                "Plymouth is on site taking etchings and doing scribe work."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helm": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan asked Carlkin to examine a helm once the party's comrade returns. Carlkin agreed to schedule that by appointment."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Carl",
+            "likely": "Carlkin",
+            "notes": "The NPC in the living room who is drunk after the eldritch horror and who insults Gerk's mother."
+        },
+        {
+            "heard": "bribed out drawings",
+            "likely": "scribed-out drawings",
+            "notes": "Walker's notes from the cave drawings below the Dragon Rider keep; Plymouth is described as doing scribe work nearby."
+        },
+        {
+            "heard": "off the ward",
+            "likely": "",
+            "notes": "Sylan, while getting Gerk out: \"I would have had him off the ward.\""
+        },
+        {
+            "heard": "send a run out",
+            "likely": "send a runner",
+            "notes": "Carlkin arranging the helm appointment."
+        },
+        {
+            "heard": "we've send five hundred feet to the castle",
+            "likely": "we've said five hundred feet to the castle",
+            "notes": "Distance check before they decide to walk."
+        },
+        {
+            "heard": "It blasted",
+            "likely": "It's blatant",
+            "notes": "Sylan on Carlkin repeatedly bringing up Gerk's dead mother."
+        },
+        {
+            "heard": "Fecna",
+            "likely": "Vecna",
+            "notes": "DM joking that Vecna had been sitting on a manifesto."
+        }
+    ],
+    "openQuestions": [
+        "What the cave etchings' offset from the cardinal directions is supposed to indicate."
+    ],
+    "newTerms": [
+        {
+            "name": "Helm",
+            "notes": [
+                "An item Sylan wants Carlkin to examine by appointment when the party's comrade returns."
+            ]
+        },
+        {
+            "name": "Troop markers",
+            "notes": [
+                "Markers in the Dragon Rider cave. Vecna left one on the table where he had been tapping it. Others are scattered and Walker treats them as ordinary, unlike Vecna's special rocks."
+            ]
+        }
+    ]
+}

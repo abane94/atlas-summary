@@ -93,6 +93,13 @@
         "Names his original name as Garixto, a dragon rider from The Reach, and names the Book of Vecna. She says finding that book began his turn from dragon rider to hunter of dragon riders. She recounts the capture of the Council of Nyx, the second fight in Gilbrick, and his necrotic summoning of Galixtar.",
         "From visions she has seen, he killed at least some of the young ones among his kin. She rejects Walker's proposed trade of the book and the phylactery with Vecna."
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Sylan says Dana can boost other people and that her songs work well, and he hopes that support could help with Gerk's doorway. She is not present for the test.",
+      "notes": [
+        "Sylan says she can boost other people and that her songs work well, and he hopes that could help Gerk's doorway. She is not present for the test."
+      ]
     }
   ],
   "openQuestions": [
@@ -100,7 +107,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:54:14.175Z",
-  "updatedAt": "2026-09-29T18:25:37.815Z",
+  "updatedAt": "2026-10-06T21:10:17.765Z",
   "normalizedAliases": [
     "dana"
   ]

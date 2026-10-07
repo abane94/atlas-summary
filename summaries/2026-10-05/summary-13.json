@@ -1,0 +1,269 @@
+{
+    "plotSections": [
+        {
+            "title": "Practicing a remembered doorway",
+            "bullets": [
+                "Sylan coaches Gerk through opening a doorway by memory, starting from a frozen gatehouse at Volga that the party once climbed: cold, very tall, and a little spooky, though Gerk only half remembers it.",
+                "Gerk chooses Twin Peaks instead, a place he knows well and associates with friends. They aim for the upstairs of Bouncing Betty rather than the front door, which would drop them into a busy street.",
+                "Gerk pictures leaving an inn bedroom into the hall outside the rooms. Sylan casts Guidance. Gerk rolls a 19 (16 plus 3). The DM had expected a miss and was not sure the tavern even had a second floor; taverns are usually described with sleeping rooms upstairs."
+            ]
+        },
+        {
+            "title": "The door opens on the barn",
+            "bullets": [
+                "The doorway does open on Bouncing Betty, but confusion shifts it onto a stronger memory. Gerk comes out on the second story of the barn, about twenty feet from the upstairs hallway he wanted, looking down on stables and a wagon in the center.",
+                "The barn was rebuilt after an old sideline show there: a wayward bard and a drunk wizard levitated and killed a mule or donkey, left the body in this barn, and the party made some gold from it. Gerk has also slept in the barn.",
+                "In game it has been a long time since they were here. They did stop once, before the voyage toward Lake Nyx. A boat trip into Nyx's area takes on the order of one to two months. Sylan remembers that stop as picking up Plymouth to take him to the Yowan, and hiding that they had the keystone until they arrived; the stop is also tied to a dragon and the last keystone.",
+                "Gerk shuts the door before anyone can fall. It clicks and disappears. Sylan calls it a strong result for somewhere so far away, and a sign that places Gerk likes are easier to hit. He also landed a recent doorway on Sylan cleanly."
+            ]
+        },
+        {
+            "title": "Getting better at doors",
+            "bullets": [
+                "Sylan thinks Gerk may simply improve with use, or that something in him still has to be unlocked.",
+                "Gerk refuses to let a key be put anywhere near him and says he will not fall for that trick again. The DM asks, \"Again?\""
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan has Gerk recall the frozen gatehouse at Volga, which they climbed: cold, tall, and mildly spooky. Gerk does not remember it clearly.",
+        "Gerk picks Twin Peaks as a place he knows well, with fond memories of friends. They agree to try a short stop there after the current training; they had said they would be in the forest, and Sylan notes Nawaka can message them.",
+        "Gerk tries to open a door into the upstairs hallway of Bouncing Betty, outside the inn rooms, avoiding the street-facing front door. He and Sylan are fuzzy on the layout and whether another tavern was the one with the stage.",
+        "Sylan casts Guidance. Gerk rolls 19. The door opens on the rebuilt barn's second story, about twenty feet off the intended hallway, because confusion pulled the doorway toward a more familiar memory: stables, a central wagon, the levitated donkey show, and nights Gerk slept there.",
+        "Gerk closes the door. It clicks and vanishes. Sylan praises the distance and accuracy for a liked place, then suggests practice or an unlock. Gerk rejects having a key put near him, citing a trick he will not fall for again."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree who opens Arch doorways and keeps the Midgard keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Practiced a memory doorway to Twin Peaks under Sylan's Guidance and rolled a 19.",
+                "Landed on the second story of Bouncing Betty's barn, about twenty feet from the upstairs inn hallway he pictured. Confusion shifted the opening onto a memory he knew better, including having slept in that barn.",
+                "Closed the door immediately so no one would fall through; it clicked and disappeared.",
+                "Refuses to have a key put near him and says he will not fall for that trick again."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats a busy street as a bad doorway exit and would rather open into a quieter hallway.",
+                "Wary of anyone bringing a key close to him."
+            ],
+            "quotesThemes": [
+                "\"You're not putting a key anywhere near me. I am not falling for that trick again.\"",
+                "Places he likes and remembers fondly are easier for him to open onto, even when the exact room is wrong."
+            ],
+            "openQuestions": [
+                "What earlier trick involved putting a key near Gerk?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Coached Gerk's doorway by having him recall how a place felt, then switched the target to Twin Peaks when Volga was too faint.",
+                "Cast Guidance on the doorway attempt.",
+                "Believes Gerk will get better with use, or that something in him still needs to be unlocked. A recent doorway to Sylan himself was very accurate because Gerk likes that place."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations, opened by Gerk.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Aiming at a remembered room can still resolve to a nearby, more familiar part of the same site. This attempt was about twenty feet off, from an inn bedroom hall to the barn loft.",
+                "Confusion was cited as the cause of the doorway snapping to the stronger memory.",
+                "The door can be shut; it then clicks and disappears.",
+                "Familiar, well-liked places are landing more cleanly. Sylan's own recent doorway from Gerk was very accurate."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Confusion Effect": {
+            "existing": "A spell effect that leaves its victim confused and unable to act meaningfully.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "On this doorway, confusion caused the destination to ping from the pictured upstairs hallway to a more familiar memory: Bouncing Betty's barn loft."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Twin Peaks": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "A place Gerk has been many times and remembers better than the frozen gatehouse at Volga. He has friends there and fond memories.",
+                "The party considers a short visit, possibly lunch, after their current training. They had told people they would be in the forest."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Bouncing Betty": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Inn and tavern in Twin Peaks. The party has slept there in game, but not recently; the last stop was before the long trip toward Lake Nyx.",
+                "The upstairs is the sleeping area in the DM's usual tavern layout. The group argued over whether this building or another local tavern was the one with a large stage.",
+                "Its barn was rebuilt. From the barn's second story you look down on stables and a wagon set in the center.",
+                "An old sideline show ended here: a wayward bard and a drunk wizard killed a mule or donkey with a levitation spell and left the body in the barn. The party made some gold from it. Gerk has slept in the barn more than once."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Volga": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "A place the party has been, remembered alongside a frozen gatehouse they had to climb: cold, very tall, and a little spooky. Gerk does not remember it well."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the new keystone keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "On an earlier Twin Peaks stop, the party picked him up to take him to the Yowan and hid that they had the keystone until they arrived. Sylan remembers deliberately concealing it. The same stop is tied to a dragon and the last keystone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nyx": {
+            "existing": "Nyx may hold hobgoblins who know where the lich is hiding.",
+            "entityType": "Location",
+            "notes": [
+                "Reached via Lake Nyx by boat. The DM describes that voyage as a trip of about one to two months. The Bouncing Betty visit was before the party went over to Lake Nyx, and they were still in Nyx's area afterward."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nawaka": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan says that when Nawaka returned he could always send them, and that he has the ability to message them and did not forget or choose not to. The party had said they would be in the forest."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Twid Peaks",
+            "likely": "Twin Peaks",
+            "notes": "Gerk's first wording; the DM then says Twin Peaks."
+        },
+        {
+            "heard": "bouncing beddy",
+            "likely": "Bouncing Betty",
+            "notes": "Gerk asking the inn's name. The DM later says bouncing Betty and bouncy and Betty's."
+        },
+        {
+            "heard": "Bouncing Benny",
+            "likely": "Bouncing Betty",
+            "notes": "Gerk, out of character, on the tavern map."
+        },
+        {
+            "heard": "bouncing bedding",
+            "likely": "Bouncing Betty",
+            "notes": "DM describing how long it has been since they were there."
+        },
+        {
+            "heard": "bouncy and Betty's",
+            "likely": "Bouncing Betty",
+            "notes": "DM naming the establishment and its barn. May be the spoken form of the same inn."
+        },
+        {
+            "heard": "Volga",
+            "likely": "",
+            "notes": "Place Sylan says they just were, with the frozen gatehouse. Not in the existing location list."
+        },
+        {
+            "heard": "Nawaka",
+            "likely": "",
+            "notes": "Someone Sylan says can message the party when he returns. Not in the NPC list."
+        },
+        {
+            "heard": "the Yowan",
+            "likely": "",
+            "notes": "Where they took Plymouth, and where they waited to tell him they had the keystone."
+        },
+        {
+            "heard": "Lord Dragon",
+            "likely": "",
+            "notes": "Gerk, right after Sylan's 'the dragon with the last keystone.' Unclear if a title, a name, or a place."
+        },
+        {
+            "heard": "Nick's",
+            "likely": "Nyx",
+            "notes": "DM had just said Lake Nyx, then 'Nick's area' and 'going to Nick's via boat.'"
+        },
+        {
+            "heard": "Cinemy",
+            "likely": "Guidance",
+            "notes": "Gerk asks if Theron was also guided in Cinemy; Sylan answers that he is casting Guidance."
+        },
+        {
+            "heard": "Gary",
+            "likely": "Gerk",
+            "notes": "Sylan encouraging the roll."
+        },
+        {
+            "heard": "Skerk",
+            "likely": "Gerk",
+            "notes": "Sylan while the layout is being disputed."
+        }
+    ],
+    "openQuestions": [
+        "What earlier incident was Gerk referring to when he said he would not fall for having a key put near him again? The DM asked \"Again?\""
+    ],
+    "newTerms": [
+        {
+            "name": "Twin Peaks",
+            "notes": [
+                "Settlement Gerk knows well, with friends and fond memories. Bouncing Betty is there. The party may stop in after training."
+            ]
+        },
+        {
+            "name": "Bouncing Betty",
+            "notes": [
+                "Twin Peaks inn whose upstairs is guest rooms and whose rebuilt barn has a second-story loft over stables and a wagon. Site of an old levitation-spell donkey show the party was paid for."
+            ]
+        },
+        {
+            "name": "Volga",
+            "notes": [
+                "Prior stop with a frozen gatehouse the party climbed. Cold, tall, and slightly spooky. Gerk's memory of it is weak."
+            ]
+        },
+        {
+            "name": "Nawaka",
+            "notes": [
+                "Person Sylan says can message the party. They expected word from him after saying they would be in the forest."
+            ]
+        },
+        {
+            "name": "Yowan",
+            "notes": [
+                "Destination where the party brought Plymouth and only then revealed they had the keystone. Heard as 'the Yowan.'"
+            ]
+        }
+    ]
+}

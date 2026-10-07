@@ -1,0 +1,189 @@
+{
+    "plotSections": [
+        {
+            "title": "An oversized door in the woods",
+            "bullets": [
+                "Gerk opens a door about eighteen feet by seven feet. A disturbance of birds marks the far end roughly a quarter mile south in the same forest.",
+                "Branches that intersect the doorway hang in a semi-translucent limbo. Gerk can feel the far end of the door he opened.",
+                "The door is much taller than his usual doors. Sylan suspects a stronger opening makes a larger door, and that this one is big enough for Glimmen.",
+                "Sylan and Ciri walk the quarter mile south instead of stepping through, in case the opening did damage. The far side is an eighteen-foot door reaching into the canopy, with intersecting branches translucent and no crater or other destruction.",
+                "They return through the portal. Sylan still does not know what made the racket, and he suggests Gerk may need to remember a place fondly to open closer to it. Gerk does not know how near to himself he can place a door."
+            ]
+        },
+        {
+            "title": "Two doors and a vacuum",
+            "bullets": [
+                "Gerk tries a normal, non-rage opening aimed at a point about twenty-five feet away, across a crossing and past the lantern, after Sylan calls for Guidance. He rolls a 9.",
+                "The door opens short of the chosen spot, over the lantern, and is again about eighteen feet tall. The first door is still open.",
+                "Wind rushes between the two doors. The lantern is pulled through the new door and into the far eighteen-foot door as a vortex forms. Gerk shuts both doors and the wind dies.",
+                "To the south, branches and limbs crash to the ground."
+            ]
+        },
+        {
+            "title": "Closing the door cuts",
+            "bullets": [
+                "Where branches had passed through the doorway, they are cleanly severed, with no burn marks and no leftover debris, as if sliced by a blade. The fallen limbs lie in a pile. Sylan's lantern is dinged and disheveled from being sucked through, but not shattered.",
+                "Sylan and Gerk treat the effect as extremely dangerous: a closing door could cut a creature, a rope bridge, or anyone at a destination. They agree not to use it in a crowded place. Gerk recalls Carlkin telling them to practice in the middle of a field.",
+                "They note they were lucky the earlier opening into the kitchen did not cut Mahali, and that opening onto people is a serious risk. Sylan's next idea is to try a place Gerk has already been, on the theory that a recent visit may make it easier."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk opens an eighteen-by-seven-foot door; birds disturb the forest about a quarter mile south, and branches intersecting the doorway turn semi-translucent.",
+        "Gerk feels the far end of the open door. Sylan and a hidden Ciri walk south to inspect it rather than pass through.",
+        "They find the far door reaching into the canopy, with translucent branches and no crater, then return through the portal.",
+        "Gerk attempts a normal line-of-sight opening about twenty-five feet away, past the lantern, and rolls a 9. The door opens short, over the lantern.",
+        "With the first door still open, wind and a vacuum pull the lantern from one door into the other. Gerk closes both, and branches crash to the south.",
+        "Sylan finds the intersecting limbs cleanly cut, gathers the dinged lantern, and warns Gerk that closing a door can slice whatever it intersects."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Tree who opens doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He can feel the presence of the far end of a door he has opened.",
+                "He does not know the exact range at which he can open a door relative to himself.",
+                "A normal, non-rage opening aimed at a visible point about twenty-five feet away, on a roll of 9, still produced an eighteen-foot door and landed short, over the lantern.",
+                "He can shut doors he has opened. Closing them while matter intersected the frame severed those branches.",
+                "He recalls Carlkin's instruction to practice the doors in the middle of a field, and agrees they should not be used in a crowded area or opened onto people."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats the wind between two open doors as frightening and moves immediately to shut both."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He refused to step through the new door until he had walked to the far end and checked for damage.",
+                "He theorizes that a stronger opening makes a larger door, that Gerk may need to remember a place fondly to arrive nearer to it, and that a recent visit may make a destination easier.",
+                "He called for Guidance on the line-of-sight attempt.",
+                "His lantern was pulled through the doors, rolled, and left dinged but intact. He recovered it.",
+                "He judges the cutting effect wildly dangerous and says they should not use it in a crowded area or carelessly teleport to people."
+            ],
+            "titles": [],
+            "personality": [
+                "Cautious about untested doorway effects and wants to evaluate a destination before using it."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "A supernatural passage Gerk opens between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "This opening was about eighteen feet tall and seven feet wide, notably larger than Gerk's usual doors. Whether size scales with how strongly he opens it is Sylan's theory, not a confirmed rule.",
+                "The same forest continued on the far side, about a quarter mile south. Gerk could feel that far end while the door remained open.",
+                "Branches occupying the doorway's space became semi-translucent while it was open. Closing it cleanly severed them, with no burn marks or residual debris, and the limbs fell.",
+                "Two doors left open at once pulled wind between them in a vacuum or vortex strong enough to suck a lantern from one door into the other. Shutting the doors stopped the wind.",
+                "A line-of-sight opening can miss: a normal opening aimed twenty-five feet away landed short, on the lantern.",
+                "Carlkin had told them to practice this in an open field. An earlier opening into the kitchen could have cut Mahali; a prior use involving the boat was described as ripping something out of reality."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What caused the initial disturbance of birds at the far door, which Sylan still could not explain after finding no crater?"
+            ]
+        },
+        "Sylan's lantern": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "It was sitting near the point Gerk tried to open onto, past a crossing.",
+                "The vacuum between the two open doors sucked it through. It rolled and was left disheveled with a ding or two, but it was not shattered. Sylan gathered it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like ally believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Gerk recalls that Carlkin told them to practice opening these doors in the middle of a field."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "FI series back",
+            "likely": "",
+            "notes": "Ciri's line immediately after Gerk senses the far door. Unclear short utterance."
+        },
+        {
+            "heard": "store",
+            "likely": "door",
+            "notes": "Sylan says a Glimmen could go through this store."
+        },
+        {
+            "heard": "Syria",
+            "likely": "Ciri",
+            "notes": "DM asks whether Syria will follow Sylan back through the portal."
+        },
+        {
+            "heard": "Peace",
+            "likely": "Yes",
+            "notes": "Sylan's reply when asked if he went back through the portal."
+        },
+        {
+            "heard": "taught it",
+            "likely": "taut",
+            "notes": "Sylan describing the branches: it didn't like taught it, it just went translucent."
+        },
+        {
+            "heard": "Lang",
+            "likely": "Nein",
+            "notes": "Sylan's reaction to the roll; Gerk says he was about to say no in German."
+        },
+        {
+            "heard": "said B's token",
+            "likely": "",
+            "notes": "Gerk placing himself on a map relative to a point twenty-five feet away."
+        },
+        {
+            "heard": "Isolated would be high",
+            "likely": "the lantern would be high",
+            "notes": "Gerk describing where the lantern sits in the area he is indicating."
+        },
+        {
+            "heard": "pass the lander",
+            "likely": "past the lantern",
+            "notes": "DM confirming the aim point is beyond the lantern."
+        },
+        {
+            "heard": "A year old days",
+            "likely": "your old dice",
+            "notes": "DM line just as Gerk says he rolled a die, before the portal result."
+        },
+        {
+            "heard": "standard road of the middle",
+            "likely": "standard mode",
+            "notes": "Gerk contrasting this opening with a rage-induced one."
+        },
+        {
+            "heard": "Carl could",
+            "likely": "Carlkin",
+            "notes": "Gerk crediting the warning to practice in the middle of a field."
+        }
+    ],
+    "openQuestions": [
+        "What caused the initial disturbance of birds and the racket near the far door, since Sylan found no crater or other obvious destruction before the doors were closed?"
+    ],
+    "newTerms": [
+        {
+            "name": "Sylan's lantern",
+            "notes": [
+                "A lantern of Sylan's that was near Gerk's aim point. Two open doors sucked it through; it was dinged but not broken."
+            ]
+        }
+    ]
+}

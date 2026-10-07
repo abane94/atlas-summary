@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-29T18:48:14.407Z",
+  "updatedAt": "2026-10-06T21:17:43.100Z",
   "suggestions": [
+    {
+      "tag": "ability",
+      "reason": "A personal supernatural power that is explicitly not a spell, artifact, or other closed-catalog facet.",
+      "exampleEntities": [
+        "Doorway"
+      ]
+    },
     {
       "tag": "alchemy",
       "reason": "Session activity centers on sourcing alchemical goods and spell components rather than keystone or prophecy lore.; Quaylin's identity and inventory center on potion brewing, alchemical components, and transmutation lore.; The shop's identity and inventory center on alchemical components and brewed potions.",
@@ -86,6 +93,13 @@
         "Hanzuni",
         "The Reach",
         "Quaylin"
+      ]
+    },
+    {
+      "tag": "gatekeeper",
+      "reason": "A recurring role—former protectors who received and hid keystones—distinct from a doorman and not covered by order, title, or people.",
+      "exampleEntities": [
+        "Carlkin"
       ]
     },
     {

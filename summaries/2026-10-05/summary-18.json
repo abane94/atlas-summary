@@ -1,0 +1,230 @@
+{
+    "plotSections": [
+        {
+            "title": "A small door toward the tomato house",
+            "bullets": [
+                "Sylan wants another try at a doorway to his sister so they can get in and out quickly. Gerk refuses to risk it, citing the earlier doorway toward Ciri when he did not know where she was. Sylan suggests Dana might boost him, says her songs work well, and wants to know what ability the door uses. Gerk says it just happens. They already know a forceful opening makes a bigger door.",
+                "Gerk instead tries a gentle, low, dog-sized door about a hundred feet in front of the house, clear of the tomato field. Sylan gives guidance. Gerk rolls an 18. The opening is about six to eight inches by twelve inches and lands in the tomato field, about a foot off the ground, where it can cut a stem. It is fall, and this garden is currently always in tomato.",
+                "Gerk pulls a large tomato plant through. On a perception of 10, something on the far side growls, snaps, and tugs the plant. Red and green tomatoes scatter. Gerk cuts the stalk with a dagger. The rest of the plant snaps back, and whatever had it scrabbles and growls."
+            ]
+        },
+        {
+            "title": "Holding the door shut",
+            "bullets": [
+                "Sylan has Gerk keep a hand on the shut door to see whether it stays. While Gerk is touching it, it behaves like an ordinary door: something on the far side rams it, and he feels the impact. A hard enough hit would push him; if his hand leaves the door, it would swing open to however far it was when he let go. With the door shut, they cannot see the other side.",
+                "Gerk lets go during a lull. The outline dissipates, the growling stops, and the space returns to normal. Sylan reads that as: he can work the door again while he is operating it, including after closing it. They do not reopen it. Sylan guesses the growling thing is the householder's pet and calls keeping it out the work of door guardians, a name they have not settled.",
+                "Gerk hands out tomatoes as snacks. They ride their mounts home instead of opening a portal to the stronghold, arriving around midday. The morning was training: Gerk can open these portals seemingly at will, with caveats."
+            ]
+        },
+        {
+            "title": "The eagle on the table",
+            "bullets": [
+                "Walker has been meditating the whole time and still does not understand what he was told or what he is looking for. The aim is the puzzle Grixto put forward.",
+                "He is asked for the eagle marker in his pocket. It is set on the square table. He is told the repeated action now makes sense, and that the eagle has nothing to do with a mountain or a waterfall. Walker guesses it is a tuning fork. The explanation is cut off as he is asked for the cavalry markers, not the rams."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan and Gerk decide not to doorway to Sylan's sister. They talk through Dana boosting the door and the fact that forcing it makes it bigger, and Gerk still does not know what ability he is using.",
+        "Gerk gently opens a doggy door toward the field in front of the tomato house, with Sylan's guidance, and rolls an 18. The door is a few inches across and opens in the tomato plants.",
+        "Gerk pulls a tomato plant through. Something on the other side growls and fights him for it. He cuts the stalk and shuts the door with his hand still on it.",
+        "The closed door stays while he touches it and takes a ram from the far side. When he lets go, the doorway vanishes.",
+        "They snack on tomatoes and ride home, arriving around midday, rather than portal to the stronghold.",
+        "Walker, still meditating, is told he is working on Grixto's puzzle. The eagle marker is set on the table, disconnected from the mountain and the waterfall, and he is asked for the cavalry markers as the chunk ends."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Tree who opens Arch doorways.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He will not doorway to Sylan's sister after the failed attempt to reach Ciri without knowing where she was.",
+                "He does not know what ability the door uses. Forcing an opening makes it bigger; a gentle, low opening is his attempt at a doggy door.",
+                "With guidance he rolls an 18. The small door still misses, opening in the tomato field instead of the open ground about a hundred feet from the house.",
+                "He cuts the plant free with a dagger, holds the shut door while something rams it, then lets go so the doorway disappears.",
+                "He would rather stop than reopen that door onto whatever was growling."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats another imprecise doorway as too dangerous to keep testing once something hostile is on the other side."
+            ],
+            "quotesThemes": [
+                "The door just happens; a forceful opening is bigger."
+            ],
+            "openQuestions": [
+                "What ability or magic Gerk is using when he opens a doorway."
+            ]
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations, opened by Gerk.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A gentle, low opening can be about six to eight inches by twelve inches, roughly a foot off the ground. Force still makes a larger door.",
+                "Aim remains imprecise: this one was meant for open ground in front of the house and opened in the adjacent tomato field.",
+                "While Gerk keeps a hand on a shut door, it stays and acts like a normal door. Impacts from the far side are felt through it, and a strong enough hit could push him or fling the door open.",
+                "If his hand is knocked off the door, it opens to however far it was when he stopped touching it. When he deliberately lets go, the outline dissipates and the passage is gone.",
+                "A shut door does not show the other side. The DM later says Gerk can open these portals seemingly at will, with caveats."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Wants a doorway to his sister for a quick retrieval and suggests Dana's boost and songs, or another spell, if they can learn what ability Gerk's door uses.",
+                "Casts guidance on the small-door attempt and has Gerk keep a hand on the shut door to test whether a closed door can be kept and reused.",
+                "After the doorway vanishes when Gerk lets go, he concludes Gerk can open it again as long as Gerk is the one operating it.",
+                "He calls keeping hostile things from coming through the work of door guardians, and says they have not chosen that name yet. He stops the tests and rides home."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Their job, whatever they name themselves, is not to let evil things through the doors."
+            ],
+            "openQuestions": []
+        },
+        "Kawaica": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Gerk aims the small door at this person's house, about a hundred feet from the front, in the field rather than the tomato rows. The door still opens in the tomato field.",
+                "Sylan's table canon is that the garden always has tomatoes. The DM confirms it is fall.",
+                "Sylan recalls previously going sideways through the entire house.",
+                "Something at the house growls, snaps, and pulls the tomato plant, then rams the shut door. It is not seen. Sylan guesses it is this person's pet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He has been meditating through the doorway practice and still does not understand what he was told to look for.",
+                "He hands over the eagle marker from his pocket. He asks what an eagle has to do with a mountain or a waterfall and is told nothing. He guesses the piece is a tuning fork as the scene cuts away."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "He is the one Walker has been trying to listen to while meditating. He sets the eagle marker on the square table and says the repeated action now makes sense.",
+                "He says the eagle has absolutely nothing to do with a mountain or a waterfall, then asks Walker for the cavalry markers rather than the rams. The explanation is cut off."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist proxy seeking Al Kurin, hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker's meditation is aimed at unraveling the puzzle Grixto put forward. This chunk does not solve it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Eagle marker": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Walker had it in his pocket. It is set on the square table.",
+                "It has nothing to do with a mountain or a waterfall. Walker guesses it might be a tuning fork. Elrus then turns to the cavalry markers, not the rams."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "assistment",
+            "likely": "",
+            "notes": "Sylan: teleport to 'my sister or assistment.' A second person or destination may be intended."
+        },
+        {
+            "heard": "Dark Age team",
+            "likely": "",
+            "notes": "Sylan, immediately before saying Dana might boost Gerk."
+        },
+        {
+            "heard": "Kawaica",
+            "likely": "",
+            "notes": "Gerk naming the house with the tomato field."
+        },
+        {
+            "heard": "Growcause",
+            "likely": "",
+            "notes": "Gerk's next attempt at the same house name, after 'Grow I guess house.'"
+        },
+        {
+            "heard": "Kroka",
+            "likely": "",
+            "notes": "Sylan: 'Kroka got a pet,' about whoever is on the far side of the doggy door. Same house as the other hearings."
+        },
+        {
+            "heard": "Shuskirk",
+            "likely": "just Gerk",
+            "notes": "Sylan asks this during the tomato pull; the DM answers that it is just Gerk."
+        },
+        {
+            "heard": "Idore",
+            "likely": "a door",
+            "notes": "Sylan, while they are settling the doggy-door size."
+        },
+        {
+            "heard": "Yellow, yellow, kill him",
+            "likely": "",
+            "notes": "Sylan, just before saying he went sideways through the tomato house."
+        },
+        {
+            "heard": "Bellers",
+            "likely": "Elrus",
+            "notes": "Walker: he tried to listen to what 'Bellers talk' was telling him during the meditation."
+        },
+        {
+            "heard": "Gal Gorixto",
+            "likely": "Grixto",
+            "notes": "The DM naming the puzzle Walker is trying to unravel."
+        },
+        {
+            "heard": "Calvary markers",
+            "likely": "cavalry markers",
+            "notes": "Asked for next, after the eagle is set down, and distinguished from the rams."
+        },
+        {
+            "heard": "Tuning for you",
+            "likely": "tuning fork",
+            "notes": "Reply to Walker's guess that the eagle marker is a tuning fork. The line is cut off."
+        }
+    ],
+    "openQuestions": [
+        "What ability or magic Gerk uses to open a doorway.",
+        "What the eagle marker and the cavalry markers mean in the puzzle Grixto put forward."
+    ],
+    "newTerms": [
+        {
+            "name": "Kawaica",
+            "notes": [
+                "Unsettled name for the person whose house and tomato field Gerk aimed at. Also heard as Growcause and Kroka. Sylan thinks the growling on the far side of the doggy door is that person's pet."
+            ]
+        },
+        {
+            "name": "Eagle marker",
+            "notes": [
+                "Marker Walker had pocketed. Set on the square table during his meditation. Explicitly unrelated to a mountain or a waterfall. Walker guesses it is a tuning fork before the scene cuts to the cavalry markers."
+            ]
+        }
+    ]
+}

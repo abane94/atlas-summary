@@ -1,0 +1,289 @@
+{
+    "plotSections": [
+        {
+            "title": "Walker on the Reach and the split clock",
+            "bullets": [
+                "Walker is separated on the Reach while Ord, Gerk, and Sylan are with Carlkin in the lighthouse; this is still the same day for the lighthouse group.",
+                "The DM’s clock: about five days and a morning since the party left Walker on the Reach. Walker has lived about eleven days, which the DM equates to a little over two days for the other group. The other group is the controlling timeline because it is moving faster.",
+                "Walker told that group he would be back within about a week. When their week runs out, his leftover Reach time will be montaged and he rejoins, unless he chooses to end the side scene early."
+            ]
+        },
+        {
+            "title": "Shifted landmarks from the dragon rider tower",
+            "bullets": [
+                "Walker has been deciphering a drawn page after contact with Vecna. The DM says Walker may now be in a book club with Vecna.",
+                "The page marks an obelisk, an island, a waterfall, and a mountain peak (a mountain abbreviation also works). Relative to someone standing in the old tower of the dragon rider guild, those landmarks are shifted radially off their true positions.",
+                "The previous session ended with Walker finding an earth, wind, sea, and fire sigil; this chunk starts from that discovery and moves to the lighthouse group."
+            ]
+        },
+        {
+            "title": "Carlkin on doormen, keystones, and the lich",
+            "bullets": [
+                "Carlkin speaks for people who were once gatekeepers. They were given keystones and told to hide them. They were not doormen. He finds it strange that keystones are being handed out again after they were collected.",
+                "What the party already laid out for him: they hold keystones, Gerk is a doorman and opened a door in the lighthouse onto the abyss, and they are hunting a lich whose phylactery is a mundane item the lich kept on his person. A lich speaking to them telepathically worries Carlkin; he tells them to deal with that immediately.",
+                "Gerk’s doors come from nothing and do not need a keystone. He can open and close one from either side, and only he can close it. An unclosed door stays a gateway until the space-time continuum collapses. Keystone gates work only in certain situations, are one-way, and the keystone becomes part of the gate, so it cannot be carried through.",
+                "Carlkin tells Gerk to practice somewhere empty, such as the woods or a large field, never underwater, and not in the lighthouse. He will mend the floor himself. Other travel exists — planar shift, dimension door, teleport, teleportation circles — and the Navi have their own methods, including a small rod that directionally teleports across Atlas.",
+                "Sylan plans to practice at the castle, away from onlookers. Carlkin prefers the mountains. Gerk mentions dragons there; Sylan mentions a previous giant fight. Carlkin has heard a rumor that the dragon is dead."
+            ]
+        },
+        {
+            "title": "Leaving the lighthouse",
+            "bullets": [
+                "Gerk keeps trying to level the hole he made, tapping the floor by hand, even after Carlkin told him to stop. He is sour that Carlkin did not listen and the damage is now treated as Gerk’s fault. Carlkin compares him to a toddler in a sandbox and says the floor is nearly level.",
+                "Sylan apologizes for the floor and the door and says they have caused enough trouble. Carlkin would rather they make an appointment than drop in.",
+                "Sylan walks Gerk toward the door. Gerk opens a window and climbs out. Carlkin’s “don’t use the door” warning was about Gerk’s supernatural doors and his durability, not the lighthouse door."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The DM sets the split: Walker is on the Reach on a slower controlling arrangement relative to the lighthouse group, with a montage back to the party when their one-week return window ends.",
+        "Walker’s deciphered page shows an obelisk, an island, a waterfall, and a mountain radially misplaced from the old dragon rider guild tower, following the earth, wind, sea, and fire sigil.",
+        "Play resumes the same day in Carlkin’s lighthouse with Ord, Gerk, and Sylan. Gerk fusses over the hole in the floor despite being told to stop.",
+        "Sylan asks why they came: they hoped Carlkin’s long knowledge would cover what they are facing, including the lich.",
+        "Carlkin explains former gatekeepers hid keystones and were not doormen, urges them to deal with the telepathic lich, and gives the rules for Gerk’s doors versus one-way keystone gates.",
+        "He also warns against underwater practice, says an unclosed door threatens the space-time continuum, and mentions Navi directional teleportation via a rod.",
+        "They tentatively plan door practice at the castle or in the mountains, where Carlkin has heard the dragon is dead.",
+        "They leave. Gerk climbs out a window because he took the warning not to use doors literally."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of the Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Separated on the Reach while Ord, Gerk, and Sylan talk to Carlkin.",
+                "About five days and a morning have passed since the party left him there. He has experienced about eleven days, counted as a little over two days for the other group.",
+                "The other group’s faster clock controls the split. When their one-week return time is up, his remaining time is montaged and he rejoins, unless he ends early.",
+                "Had a substantial talk with Vecna and may be in a book club with him. He has been deciphering a drawn page of radially shifted landmarks: obelisk, island, waterfall, and mountain, judged from the old dragon rider guild tower.",
+                "Last session he had just found an earth, wind, sea, and fire sigil."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who pursues hidden knowledge.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker had a good conversation with him and may now be in a book club with him. The contact is tied to the landmark diagram Walker is deciphering."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like ally, associated with the New Navel lighthouse and bookshop.",
+            "entityType": "NPC",
+            "notes": [
+                "He and the people he speaks for were once gatekeepers. Their work was protection: receive a keystone and hide it. They were not doormen.",
+                "He is unsettled that keystones are being distributed again, and that a lich is speaking to the party telepathically. He tells them to handle the lich immediately.",
+                "He tells Gerk to practice doors in the woods or a large field, never underwater and not in the lighthouse, and that only Gerk can shut those doors.",
+                "He will mend the damaged floor later. He would rather the party book an appointment than arrive unannounced.",
+                "He has heard a rumor that the dragon in the mountains is dead. He drinks from a bottle during the talk.",
+                "A second NPC is present with him; the DM invites questions to either of them."
+            ],
+            "titles": [
+                "Former gatekeeper"
+            ],
+            "personality": [
+                "Dry, slightly drunk, and fussy about his floor and about doors left open. He treats Gerk’s repair attempt as a toddler in a sandbox while still thanking him."
+            ],
+            "quotesThemes": [
+                "An unshut door stays a gateway until the space-time continuum collapses, and that is only scary if Gerk does not close it.",
+                "Never practice opening doors underwater.",
+                "Keystone gates are one-way, and the keystone becomes part of the gate.",
+                "Next time, make an appointment."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman and Child of the Tree, keeps the Midgard keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "His doors are from nothing. He does not need a keystone to open them, though he is also a gatekeeper. He can open and close a door from either side, and he is the only one who can close it.",
+                "Still trying to repair the lighthouse floor Carlkin told him to leave alone, tapping it level by hand. He is upset that Carlkin ignored him and the hole is blamed on Gerk.",
+                "Leaves by climbing out a window, having taken “don’t use the door” as a ban on the ordinary door.",
+                "Carlkin floats joke titles for the combined role: gate doorman, door-gate man, and portcullis man."
+            ],
+            "titles": [
+                "Doorman",
+                "Gatekeeper"
+            ],
+            "personality": [
+                "Stubborn about fixing what he broke, and literal enough to exit through the window rather than the door he was warned about."
+            ],
+            "quotesThemes": [
+                "Killing space and time would be scary."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "No agenda for Carlkin; he interviews him on door rules instead.",
+                "Wants Gerk to practice at the castle, out of sight. He notes they previously fought giants in the mountains Carlkin suggests.",
+                "Apologizes for the floor and the door and walks Gerk out. Gerk does not use that door."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas’s Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Former gatekeepers treated them as something to hide, a protection job.",
+                "Gatekeeper use works only in certain situations and is one-way. The keystone becomes part of the gate it opens and cannot be taken through that gate."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorman": {
+            "existing": "Gerk's role and doorway ability.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Distinct from a gatekeeper. The door is made from nothing and does not need a key.",
+                "Only the doorman can close it. Leaving it open makes a permanent gateway until the space-time continuum collapses.",
+                "It can be opened and closed from either side. Carlkin wants practice in an empty field or woods, never underwater."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lich": {
+            "existing": "An unidentified lich whose phylactery may be hidden among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Carlkin is told the phylactery is a mundane item the lich kept on his person, and that the lich speaks to the party telepathically. Carlkin calls that very worrisome and says to deal with it immediately."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Navi": {
+            "existing": "Ancient people tied to the Eldarin Tree, the keystones, and the Mother's Prayer.",
+            "entityType": "GROUP",
+            "notes": [
+                "Carlkin says they have extra ways to move through Atlas, including teleportation magic carried in their own gear or people, and a strange little rod that directionally teleports across Atlas."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Reach": {
+            "existing": "Largest Arch realm of Atlas; Walker is its Gatekeeper.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Walker is there alone relative to the lighthouse scene. His local time has run longer than the other group’s: about eleven days for him against a little over two days for them, with the departure also described as five days and a morning."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "Dragon rider guild training grounds near the Lost Isles.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The old tower of the dragon rider guild is the standing point Walker’s diagram uses. From there, an obelisk, an island, a waterfall, and a mountain are radially off their true bearings."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Abyssal eye-beast": {
+            "existing": "A god-tier extraplanar beast of oily tentacles and a wall of eyes.",
+            "entityType": "OTHER",
+            "otherEntityType": "Creature",
+            "notes": [
+                "Carlkin describes the lighthouse incident as nearly bringing an abyssal leviathan into his shop."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Renji",
+            "likely": "",
+            "notes": "Sylan seems to address a second person who has been around a long time, alongside Carlkin. The DM later offers questions to either of two NPCs. Not clearly Renard."
+        },
+        {
+            "heard": "been a laund",
+            "likely": "been around",
+            "notes": "Same sentence as Renji: “you’ve been a laund for a long time.”"
+        },
+        {
+            "heard": "read the strip",
+            "likely": "redistribute",
+            "notes": "Carlkin on giving keystones out again to gatekeepers."
+        },
+        {
+            "heard": "Nathine",
+            "likely": "nothing",
+            "notes": "“A portal from Nathine” while explaining Gerk’s door is not a keystone gate."
+        },
+        {
+            "heard": "mention door",
+            "likely": "dimension door",
+            "notes": "Listed with planar shift and teleport as other travel magic."
+        },
+        {
+            "heard": "poker collis man",
+            "likely": "portcullis man",
+            "notes": "Joke title Carlkin offers for someone who is both doorman and gatekeeper."
+        },
+        {
+            "heard": "John",
+            "likely": "",
+            "notes": "“There’s like John that can happen,” in a list of teleportation effects. Could be jaunt, or another spell name."
+        },
+        {
+            "heard": "they are kids",
+            "likely": "",
+            "notes": "Navi travel magic “imbued into their kids,” then a rod. Might be kit, kids, or kin."
+        },
+        {
+            "heard": "basel leviathan",
+            "likely": "abyssal leviathan",
+            "notes": "Carlkin on what Gerk’s door nearly pulled into the shop."
+        },
+        {
+            "heard": "Bosh",
+            "likely": "",
+            "notes": "Sylan: “I’m not in it today, Bosh.” Unclear if a name, a nickname, or a false start."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Earth, wind, sea, and fire sigil",
+            "notes": [
+                "A sigil Walker had just uncovered at the end of the previous session, immediately tied to his deciphering of shifted landmarks."
+            ]
+        },
+        {
+            "name": "Navi directional rod",
+            "notes": [
+                "A small Navi rod Carlkin says can directionally teleport across Atlas, separate from keystones and from Gerk’s doors."
+            ]
+        },
+        {
+            "name": "Radially shifted landmarks",
+            "notes": [
+                "Obelisk, island, waterfall, and mountain peak, each offset from its true place when judged from the old dragon rider guild tower."
+            ]
+        }
+    ]
+}
