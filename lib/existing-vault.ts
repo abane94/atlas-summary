@@ -4,6 +4,7 @@ import { parse as parseYaml, stringify as stringifyYaml } from 'yaml';
 import {
     normalizeEntityName,
     type EntityData,
+    type MapMarker,
 } from './vault-data.ts';
 
 export type Frontmatter = Record<string, unknown>;
@@ -73,12 +74,43 @@ export function oneLineDescription(description: string): string {
     return description.replaceAll('\n', ' ').trim();
 }
 
+function asMarkerList(value: unknown): MapMarker[] {
+    if (!Array.isArray(value)) return [];
+    const out: MapMarker[] = [];
+    for (const item of value) {
+        if (!item || typeof item !== 'object') continue;
+        const marker = item as Record<string, unknown>;
+        if (typeof marker.mapName !== 'string' || typeof marker.coordinates !== 'string') continue;
+        out.push({
+            mapName: marker.mapName,
+            coordinates: marker.coordinates,
+            icon: typeof marker.icon === 'string' ? marker.icon : 'lucide-map-pin',
+            colour: typeof marker.colour === 'string' ? marker.colour : '#dddddd',
+        });
+    }
+    return out;
+}
+
+/** Keep hand-written pins, then append entity pins that are not already present. */
+export function unionMarkers(existing: unknown, incoming: MapMarker[] | undefined): MapMarker[] {
+    const out: MapMarker[] = [];
+    const seen = new Set<string>();
+    for (const marker of [...asMarkerList(existing), ...(incoming ?? [])]) {
+        const key = `${marker.mapName}\0${marker.coordinates}`;
+        if (seen.has(key)) continue;
+        seen.add(key);
+        out.push(marker);
+    }
+    return out;
+}
+
 /** Merge entity-derived fields over existing frontmatter. Entity scalars win. */
 export function mergeEntityFrontmatter(
     existing: Frontmatter,
     entity: EntityData,
 ): Frontmatter {
     const typeTag = String(entity.type).toLowerCase();
+    const markers = unionMarkers(existing.marker, entity.marker);
     return {
         ...existing,
         name: entity.name,
@@ -90,6 +122,7 @@ export function mergeEntityFrontmatter(
         createdAt: entity.createdAt,
         updatedAt: entity.updatedAt,
         slug: entity.slug,
+        ...(markers.length ? { marker: markers } : {}),
     };
 }
 

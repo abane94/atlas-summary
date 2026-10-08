@@ -44,6 +44,14 @@ export interface SessionData {
     openQuestions: string[];
 }
 
+/** Pin on a leaflet map. `coordinates` are `"y from bottom, x from left"` in image pixels. */
+export interface MapMarker {
+    mapName: string;
+    coordinates: string;
+    icon: string;
+    colour: string;
+}
+
 export interface EntityData {
     slug: string;
     name: string;
@@ -55,6 +63,11 @@ export interface EntityData {
      */
     normalizedAliases: string[];
     filename: string;
+    /**
+     * Map pins for this entity. Merged into generated frontmatter alongside any
+     * pins already written on the hand-authored note.
+     */
+    marker?: MapMarker[];
     /**
      * Optional path under `vault-data/existing/` for a hand-written note when it
      * does not already live at `filename`. Generation reads this path only; it

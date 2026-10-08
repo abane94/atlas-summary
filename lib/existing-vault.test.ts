@@ -79,6 +79,26 @@ describe('mergeEntityFrontmatter', () => {
         assert.deepEqual(merged.tags, ['location']);
         assert.deepEqual(merged.aliases, []);
     });
+
+    it('appends entity map pins without dropping or duplicating hand-written ones', () => {
+        const handWritten = {
+            mapName: 'mit-gar-map',
+            coordinates: '1016, 1163',
+            icon: 'lucide-map-pin',
+            colour: '#dddddd',
+        };
+        const added = {
+            mapName: 'new-atlas-world-map',
+            coordinates: '673, 1750',
+            icon: 'lucide-map-pin',
+            colour: '#dddddd',
+        };
+        const merged = mergeEntityFrontmatter(
+            { marker: [handWritten] },
+            makeEntity({ marker: [handWritten, added] }),
+        );
+        assert.deepEqual(merged.marker, [handWritten, added]);
+    });
 });
 
 describe('mergeIndexFrontmatter', () => {
@@ -134,7 +154,7 @@ describe('rewriteWikilinks', () => {
     });
 
     it('leaves images and unmatched notes alone', () => {
-        const text = '[[atlas.png]] [[Mit-Gar]] [[Rita]] [[dalhurst.png]]';
+        const text = '[[atlas.png]] [[Mit-Gar]] [[Rita]] [[dullhurst.png]]';
         assert.equal(rewriteWikilinks(text, entities), text);
     });
 

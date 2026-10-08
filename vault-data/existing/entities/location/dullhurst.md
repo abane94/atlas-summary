@@ -12,7 +12,7 @@ views:
   - type: leaflet-map
     name: Map
     mapName: dullhurst-map
-    image: images/dalhurst.png
+    image: images/dullhurst.png
     height: 500
     minZoom: -2
     maxZoom: 2

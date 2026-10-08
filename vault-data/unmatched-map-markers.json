@@ -1,0 +1,753 @@
+{
+  "note": "Map labels that do not have an entity JSON file yet. Each object is a leaflet marker in the same shape as entity frontmatter: coordinates are image pixels as \"y from the bottom, x from the left\". Copy marker fields onto an entity once the note exists. Stylized lettering means a few spellings may be slightly off; labelNote calls those out. Pins already present on a markdown note were left alone, including Mit-Gar, Lith, Gilbrick, Feldspar, Pitel, La-rel, The Reach (arch diagram), Dullhurst, Langdale Stronghold, and New Navel.",
+  "maps": {
+    "new-atlas-world-map": "images/atlas.png",
+    "mit-gar-map": "images/mit-gar.png",
+    "dullhurst-map": "images/dullhurst.png",
+    "langdale-region-map": "images/langdale-region.png",
+    "langdale-stronghold-area-map": "images/langdale-stronghold-area.png",
+    "new-navel-map": "images/navel.png",
+    "rita-map": "images/rita.png"
+  },
+  "markers": [
+    {
+      "label": "Astral Sea",
+      "mapName": "new-atlas-world-map",
+      "coordinates": "813, 800",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Cross-section on the left of the atlas. Same name also appears on the arch diagram."
+    },
+    {
+      "label": "Astral Sea",
+      "mapName": "new-atlas-world-map",
+      "coordinates": "713, 1150",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Arch diagram on the right of the atlas. Empty note exists at locations/Astral Sea.md; no entity JSON."
+    },
+    {
+      "label": "The Veal Depths",
+      "mapName": "mit-gar-map",
+      "coordinates": "1426, 300",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Curved sea label northwest of Nix. The lettering may read Veil."
+    },
+    {
+      "label": "Flaun",
+      "mapName": "mit-gar-map",
+      "coordinates": "1556, 860",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Nix's Expanse",
+      "mapName": "mit-gar-map",
+      "coordinates": "1396, 620",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Regional label beside the large Nix name, which is pinned on the Nyx entity."
+    },
+    {
+      "label": "Northern Highlands",
+      "mapName": "mit-gar-map",
+      "coordinates": "1456, 750",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Cleohunt",
+      "mapName": "mit-gar-map",
+      "coordinates": "1386, 860",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Weavers Mountains",
+      "mapName": "mit-gar-map",
+      "coordinates": "1326, 960",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Alaubu",
+      "mapName": "mit-gar-map",
+      "coordinates": "1306, 700",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Grock",
+      "mapName": "mit-gar-map",
+      "coordinates": "1176, 560",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Cinas",
+      "mapName": "mit-gar-map",
+      "coordinates": "1196, 760",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Northbury",
+      "mapName": "mit-gar-map",
+      "coordinates": "1206, 1000",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Merigan Tides",
+      "mapName": "mit-gar-map",
+      "coordinates": "1256, 1000",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Hallow Forest",
+      "mapName": "mit-gar-map",
+      "coordinates": "1126, 480",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Wadena",
+      "mapName": "mit-gar-map",
+      "coordinates": "1086, 720",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Dread Forest",
+      "mapName": "mit-gar-map",
+      "coordinates": "946, 980",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Wash Away",
+      "mapName": "mit-gar-map",
+      "coordinates": "886, 900",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Yogel Heim",
+      "mapName": "mit-gar-map",
+      "coordinates": "1606, 1560",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Churning Waste",
+      "mapName": "mit-gar-map",
+      "coordinates": "1566, 1780",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Ice Meet",
+      "mapName": "mit-gar-map",
+      "coordinates": "1496, 1180",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Timeless Tundra",
+      "mapName": "mit-gar-map",
+      "coordinates": "1506, 1550",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Hailheim",
+      "mapName": "mit-gar-map",
+      "coordinates": "1426, 1600",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Echenheim",
+      "mapName": "mit-gar-map",
+      "coordinates": "1346, 1480",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Juten",
+      "mapName": "mit-gar-map",
+      "coordinates": "1326, 1750",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Large regional name on the northeast island. Not the NPC Juten Prime."
+    },
+    {
+      "label": "Forel Sea",
+      "mapName": "mit-gar-map",
+      "coordinates": "1256, 1450",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Vendahar Wetlands",
+      "mapName": "mit-gar-map",
+      "coordinates": "1306, 1200",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Torlin",
+      "mapName": "mit-gar-map",
+      "coordinates": "1206, 1100",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Kurpwood",
+      "mapName": "mit-gar-map",
+      "coordinates": "1016, 1400",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Far Water",
+      "mapName": "mit-gar-map",
+      "coordinates": "966, 1200",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Glaive",
+      "mapName": "mit-gar-map",
+      "coordinates": "856, 1150",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Vamir's Keep",
+      "mapName": "mit-gar-map",
+      "coordinates": "776, 620",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Gelwin's Latch",
+      "mapName": "mit-gar-map",
+      "coordinates": "666, 520",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Gulls Point",
+      "mapName": "mit-gar-map",
+      "coordinates": "646, 700",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "The Far Wilds",
+      "mapName": "mit-gar-map",
+      "coordinates": "526, 450",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Rakki Temple",
+      "mapName": "mit-gar-map",
+      "coordinates": "526, 800",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "The Sea of Bromheller",
+      "mapName": "mit-gar-map",
+      "coordinates": "426, 550",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Vicra",
+      "mapName": "mit-gar-map",
+      "coordinates": "346, 920",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Miles End Tavern",
+      "mapName": "mit-gar-map",
+      "coordinates": "716, 1150",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Hodale",
+      "mapName": "mit-gar-map",
+      "coordinates": "686, 1480",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "A wider view of this label also read as Modale."
+    },
+    {
+      "label": "Ranford Keep",
+      "mapName": "mit-gar-map",
+      "coordinates": "606, 1080",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "BaCa",
+      "mapName": "mit-gar-map",
+      "coordinates": "586, 1280",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Ethereal Grasslands",
+      "mapName": "mit-gar-map",
+      "coordinates": "546, 1300",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Clesa",
+      "mapName": "mit-gar-map",
+      "coordinates": "416, 1150",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "The Ever Reaching Deep",
+      "mapName": "mit-gar-map",
+      "coordinates": "206, 1650",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Vorgar",
+      "mapName": "langdale-region-map",
+      "coordinates": "1450, 180",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Castle icon in the Twin Peaks Mountains. Not the same spelling as the Volga entity."
+    },
+    {
+      "label": "Bardur Mine",
+      "mapName": "langdale-region-map",
+      "coordinates": "1420, 880",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Berdurs Farm",
+      "mapName": "langdale-region-map",
+      "coordinates": "1160, 1300",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Rita",
+      "mapName": "langdale-region-map",
+      "coordinates": "1090, 1020",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Town on the Langdale region map. The town map is locations/Rita.md; there is no Rita entity."
+    },
+    {
+      "label": "Outgrave Charms",
+      "mapName": "langdale-region-map",
+      "coordinates": "740, 280",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Glassy Lake",
+      "mapName": "langdale-region-map",
+      "coordinates": "620, 550",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Traygus Point",
+      "mapName": "langdale-region-map",
+      "coordinates": "450, 900",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Forested point south of the lake. The curved lettering is partly hidden by trees."
+    },
+    {
+      "label": "Berdur Outpost",
+      "mapName": "langdale-region-map",
+      "coordinates": "620, 1400",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Glassy Lake",
+      "mapName": "langdale-stronghold-area-map",
+      "coordinates": "1388, 550",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Same lake, on the Langdale Stronghold area map."
+    },
+    {
+      "label": "Haldor's House",
+      "mapName": "langdale-stronghold-area-map",
+      "coordinates": "418, 400",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Haldor's House",
+      "mapName": "new-navel-map",
+      "coordinates": "500, 530",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Shades & Trades",
+      "mapName": "langdale-stronghold-area-map",
+      "coordinates": "688, 880",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Shades & Trades",
+      "mapName": "new-navel-map",
+      "coordinates": "840, 900",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Tide's End",
+      "mapName": "langdale-stronghold-area-map",
+      "coordinates": "598, 680",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Tide's End",
+      "mapName": "new-navel-map",
+      "coordinates": "740, 790",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Brynhilda's Hut",
+      "mapName": "langdale-stronghold-area-map",
+      "coordinates": "728, 820",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Brynhilda's Hut",
+      "mapName": "new-navel-map",
+      "coordinates": "920, 860",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Oskar's Warehouse",
+      "mapName": "langdale-stronghold-area-map",
+      "coordinates": "888, 780",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Oskar's Warehouse",
+      "mapName": "new-navel-map",
+      "coordinates": "1070, 1000",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Berdur Longhouse",
+      "mapName": "rita-map",
+      "coordinates": "1100, 1480",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Lilly's Corner",
+      "mapName": "rita-map",
+      "coordinates": "1320, 920",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Laboror's Guilde",
+      "mapName": "rita-map",
+      "coordinates": "1680, 1280",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Smelting House",
+      "mapName": "rita-map",
+      "coordinates": "1600, 1520",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Withering Mare",
+      "mapName": "rita-map",
+      "coordinates": "1080, 180",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Miner's Market",
+      "mapName": "rita-map",
+      "coordinates": "1080, 320",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Costers Irons",
+      "mapName": "rita-map",
+      "coordinates": "1050, 980",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Silver Thread",
+      "mapName": "rita-map",
+      "coordinates": "1220, 1020",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Red Buck",
+      "mapName": "rita-map",
+      "coordinates": "1200, 520",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Guard House",
+      "mapName": "rita-map",
+      "coordinates": "1400, 1280",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Sky Docks",
+      "mapName": "dullhurst-map",
+      "coordinates": "700, 820",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Mid-City Market",
+      "mapName": "dullhurst-map",
+      "coordinates": "920, 750",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Pelor Temple",
+      "mapName": "dullhurst-map",
+      "coordinates": "1040, 850",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Legend is cropped at the left; the visible ending is \"elor Temple\"."
+    },
+    {
+      "label": "Artisan Fair",
+      "mapName": "dullhurst-map",
+      "coordinates": "720, 1120",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Ardenfall Keep",
+      "mapName": "dullhurst-map",
+      "coordinates": "440, 560",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "The Tipsy Hound",
+      "mapName": "dullhurst-map",
+      "coordinates": "880, 720",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Whitehorn Inn",
+      "mapName": "dullhurst-map",
+      "coordinates": "820, 760",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Brinks Links",
+      "mapName": "dullhurst-map",
+      "coordinates": "1180, 640",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Number 8 on the legend. The badge was not found on a close pass; this pin is only a guess in the upper city."
+    },
+    {
+      "label": "Razor's Edge",
+      "mapName": "dullhurst-map",
+      "coordinates": "900, 1100",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Odds To An End",
+      "mapName": "dullhurst-map",
+      "coordinates": "940, 680",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Garden Square",
+      "mapName": "dullhurst-map",
+      "coordinates": "600, 320",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Avian Wares",
+      "mapName": "dullhurst-map",
+      "coordinates": "880, 780",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Spotted Brew",
+      "mapName": "dullhurst-map",
+      "coordinates": "950, 580",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Stendar Temple",
+      "mapName": "dullhurst-map",
+      "coordinates": "920, 980",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Tilted Griffin Cavern",
+      "mapName": "dullhurst-map",
+      "coordinates": "900, 280",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Barracks Housing",
+      "mapName": "dullhurst-map",
+      "coordinates": "620, 620",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Swift Sparrow Inn",
+      "mapName": "dullhurst-map",
+      "coordinates": "640, 1020",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Coalpost Fence",
+      "mapName": "dullhurst-map",
+      "coordinates": "1070, 450",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Berdur Outpost",
+      "mapName": "dullhurst-map",
+      "coordinates": "850, 420",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "Number 19 inside Dalharst. A separate Berdur Outpost is also marked on the Langdale region map."
+    },
+    {
+      "label": "Stockyards",
+      "mapName": "dullhurst-map",
+      "coordinates": "1120, 980",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Clear River",
+      "mapName": "dullhurst-map",
+      "coordinates": "1420, 500",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Jade River",
+      "mapName": "dullhurst-map",
+      "coordinates": "1220, 1450",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Decabell Road",
+      "mapName": "dullhurst-map",
+      "coordinates": "1240, 1280",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Cherryberg Road",
+      "mapName": "dullhurst-map",
+      "coordinates": "740, 180",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Lavenderden Road",
+      "mapName": "dullhurst-map",
+      "coordinates": "450, 1320",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "label": "Upper District",
+      "mapName": "dullhurst-map",
+      "coordinates": "1050, 650",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "District fill, not a building. Pin is a rough center of the zone."
+    },
+    {
+      "label": "Artist's Fair",
+      "mapName": "dullhurst-map",
+      "coordinates": "600, 1150",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "District fill, not a building. Pin is a rough center of the purple zone."
+    },
+    {
+      "label": "Rain Garden",
+      "mapName": "dullhurst-map",
+      "coordinates": "950, 200",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "District fill, not a building. Pin is a rough center of the teal zone."
+    },
+    {
+      "label": "Old Town",
+      "mapName": "dullhurst-map",
+      "coordinates": "1400, 1100",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "District fill, not a building. Pin is a rough center of the orange zone."
+    },
+    {
+      "label": "Forest Gate",
+      "mapName": "dullhurst-map",
+      "coordinates": "850, 150",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd",
+      "labelNote": "District fill, not a building. Pin is a rough center of the red zone."
+    }
+  ]
+}

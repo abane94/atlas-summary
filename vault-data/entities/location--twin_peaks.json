@@ -24,5 +24,19 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-10-06T21:16:06.253Z",
-  "updatedAt": "2026-10-06T21:16:06.253Z"
+  "updatedAt": "2026-10-06T21:16:06.253Z",
+  "marker": [
+    {
+      "mapName": "mit-gar-map",
+      "coordinates": "936, 1100",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    },
+    {
+      "mapName": "langdale-region-map",
+      "coordinates": "1150, 350",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    }
+  ]
 }

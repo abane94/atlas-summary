@@ -499,6 +499,14 @@ function stampMergedEntity(
         createdAt: earliestIso(...members.map((m) => m.createdAt)),
         updatedAt: new Date().toISOString(),
     };
+    const markerSeen = new Set<string>();
+    const marker = members.flatMap((member) => member.marker ?? []).filter((pin) => {
+        const key = `${pin.mapName}\0${pin.coordinates}`;
+        if (markerSeen.has(key)) return false;
+        markerSeen.add(key);
+        return true;
+    });
+    if (marker.length) stamped.marker = marker;
     return withNormalizedAliases(stamped);
 }
 

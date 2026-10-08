@@ -5,7 +5,7 @@ filters: file.hasProperty("marker")
 views:
   - type: leaflet-map
     name: Map
-    mapName: new-altas-world-map
+    mapName: new-atlas-world-map
     image: images/atlas.png
     height: 500
     minZoom: -2

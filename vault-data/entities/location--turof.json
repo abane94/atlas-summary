@@ -26,5 +26,13 @@
   "updatedAt": "2026-08-21T19:23:48.060Z",
   "normalizedAliases": [
     "turof"
+  ],
+  "marker": [
+    {
+      "mapName": "new-atlas-world-map",
+      "coordinates": "673, 1750",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    }
   ]
 }

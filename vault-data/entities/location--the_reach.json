@@ -80,5 +80,13 @@
   "updatedAt": "2026-10-06T20:58:38.558Z",
   "normalizedAliases": [
     "reach"
+  ],
+  "marker": [
+    {
+      "mapName": "new-atlas-world-map",
+      "coordinates": "393, 820",
+      "icon": "lucide-map-pin",
+      "colour": "#dddddd"
+    }
   ]
 }
