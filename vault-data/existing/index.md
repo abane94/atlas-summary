@@ -12,4 +12,5 @@ views:
     maxZoom: 2
     defaultZoom: -0.53
     zoomDelta: 0.25
+    unit: px
 ```
