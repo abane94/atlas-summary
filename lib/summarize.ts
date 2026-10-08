@@ -7,6 +7,7 @@ import {
   generateTranscriptChunks,
   loadTranscript,
 } from "./transcript.js";
+import { ENTITY_TYPE_FOLDER_NAMES } from "./vault-data.ts";
 
 export const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 export const PROCESS_STEPS = ["chunks", "merge"] as const;
@@ -131,19 +132,20 @@ export function formatSessionStatus(status: SessionStatus): string {
 }
 
 function buildExistingEntitiesTable(): string {
-  const entitiesDir = path.join("vault-data", "entities");
-  const rows =
-    fs.existsSync(entitiesDir)
-      ? fs
-          .readdirSync(entitiesDir)
-          .filter((name) => name.endsWith(".json"))
-          .map((filename) => {
-            const entity = JSON.parse(
-              fs.readFileSync(path.join(entitiesDir, filename), "utf8"),
-            ) as { name?: string; type?: string; slug?: string };
-            return `| ${entity.name ?? filename} | ${entity.type ?? ""} | ${entity.slug ?? ""} |`;
-          })
-      : [];
+  const rows: string[] = [];
+  for (const folder of ENTITY_TYPE_FOLDER_NAMES) {
+    const typeDir = path.join("vault-data", folder);
+    if (!fs.existsSync(typeDir)) continue;
+    for (const filename of fs.readdirSync(typeDir)) {
+      if (!filename.endsWith(".json")) continue;
+      const entity = JSON.parse(
+        fs.readFileSync(path.join(typeDir, filename), "utf8"),
+      ) as { name?: string; type?: string; slug?: string };
+      rows.push(
+        `| ${entity.name ?? filename} | ${entity.type ?? ""} | ${entity.slug ?? ""} |`,
+      );
+    }
+  }
   return ["| Name | Type | Slug |", "|------|------|------|", ...rows].join("\n");
 }
 

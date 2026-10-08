@@ -1,0 +1,25 @@
+{
+  "name": "Nawaka",
+  "tags": [],
+  "slug": "Someone who can message the party and did not fail to.",
+  "aliases": [],
+  "normalizedAliases": [
+    "nawaka"
+  ],
+  "filename": "npcs/nawaka.md",
+  "description": "Nawaka is someone the party expects to hear from. Sylan says that once Nawaka returned, he could always send them, and that he has the ability to message them.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-05",
+      "summary": "While the party talks about a short stop after doorway training, Sylan says they had told Nawaka they would be in the forest. He says Nawaka can message them and did not forget or choose not to.",
+      "notes": [
+        "Sylan says that when Nawaka returned he could always send them, and that Nawaka has the ability to message them and did not forget or choose not to. The party had said they would be in the forest."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-06T21:17:07.154Z",
+  "updatedAt": "2026-10-06T21:17:07.154Z"
+}

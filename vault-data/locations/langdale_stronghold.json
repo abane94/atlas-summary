@@ -1,0 +1,58 @@
+{
+  "name": "Langdale Stronghold",
+  "type": "LOCATION",
+  "aliases": [
+    "Stronghold",
+    "Ringdale Stronghold"
+  ],
+  "tags": [
+    "landmark"
+  ],
+  "slug": "Party's central stronghold and home base",
+  "description": "Langdale Stronghold is the party’s stronghold and home base, containing the Great Hall, which serves as a familiar mental reference point for controlling portal destinations. It is associated with Gerk’s attempts to use familiar places as portal targets. The stronghold was later evacuated while the party dealt with a distorted door, with Mahali and its residents relocating to the tavern for safety.",
+  "filename": "locations/langdale_stronghold.md",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "The Great Hall of the stronghold was used as a familiar mental target during attempts to control portal destinations.",
+      "notes": [
+        "Dana suggested Gerk use the Great Hall as a mental target when attempting to control portal destinations.",
+        "Gerk attempted to open a portal to the Great Hall but instead reached a forest near Langdale."
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "The stronghold is evacuated because the consequences of closing the distorted door are uncertain. Mahali and the residents relocate to the tavern for safety while the party handles the door.",
+      "notes": [
+        "The stronghold is evacuated because the consequences of closing the distorted door are uncertain.",
+        "Mahali and the residents relocate to the tavern while the party handles the door."
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "The party lands at Langdale Stronghold with about two days before Walker is expected back. Sylan wants door practice kept inside, out of sight of people they do not trust.",
+      "notes": [
+        "The party lands here with about two days before Walker is expected back. Sylan wants door practice kept inside, out of sight of people they do not trust."
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "On the morning after the pub, Langdale Stronghold is shaking and smells of freshly baked buns, with breakfast in the great hall; the lake has no island in the middle. Sylan suggests it as a private place for Gerk to practice. Carlkin says the party is much farther than five hundred feet from the castle, so reaching it is a walk. Guards are told that Sylan, Gerk, Ord, and Ciri went south into the forest, that Walker may arrive by dragon and may contact them, and that Mahali should have food ready for Glimmen. Most of the stronghold is visible from a doorway that opened about a quarter mile southwest of the tavern. Gerk and Sylan return on mounts around midday rather than opening a door home.",
+      "notes": [
+        "Sylan suggests it as a private place for Gerk to practice. Carlkin says the party is much farther than five hundred feet from the castle, so reaching it is a walk.",
+        "The morning after the pub, the stronghold is shaking and smells of freshly baked buns. Breakfast is in the great hall. The lake has no island in the middle.",
+        "Guards are told that Sylan, Gerk, Ord, and Ciri went south into the forest, that Walker may arrive by dragon and may contact them, and that Mahali should have food ready for Glimmen.",
+        "Most of the stronghold is visible from the doorway that opened about a quarter mile southwest of the tavern. Gerk and Sylan return on mounts around midday rather than opening a door home."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T17:23:29.829Z",
+  "updatedAt": "2026-10-06T21:04:36.931Z",
+  "normalizedAliases": [
+    "langdale stronghold",
+    "stronghold",
+    "ringdale stronghold"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Emhet",
+  "slug": "Emhet is a deity at the gods' council who knows the party's role safeguarding the keys and offers cryptic guidance about the path.",
+  "tags": [
+    "deity"
+  ],
+  "aliases": [],
+  "filename": "npcs/emhet.md",
+  "description": "Emhet is a deity who was present at the gods’ council and appears to have knowledge of the party’s role in safeguarding the keys. Emhet provides cryptic guidance, urging the party to trust the path and the Gatekeeper, and warns them that if the mind walks, they should hold their breath and not yell.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "At the gods’ council, Emhet tells the party that they now hold the keys before departing. Emhet offers cryptic guidance, warning that if the mind walks, they should hold their breath and not yell. Emhet also urges the party to trust the path and the Gatekeeper.",
+      "notes": [
+        "Tells the party that they now hold the keys before departing.",
+        "Gives cryptic guidance that if the mind walks, they should hold their breath and not yell.",
+        "Tells the party to trust the path and the Gatekeeper."
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "A vision received by basically everyone, triggered by Dana's legend-lore-like interaction with Emhet, showed Grixto at the training-ground hideaway with Al Kurin. The figures left a humble abode looking for guests. The roost Walker enters is that same room, slightly changed: a smaller planning area plus a larger dragon roost. Elrus says he only learned the place existed from that vision.",
+      "notes": [
+        "A vision received by basically everyone, triggered by Dana's legend-lore-like interaction with Emhet, showed Grixto at the training-ground hideaway with Al Kurin. The figures left a humble abode looking for guests.",
+        "The roost Walker enters is that same room, slightly changed: a smaller planning area plus a larger dragon roost. Elrus says he only learned the place existed from that vision."
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Emhet gave a vision, recalled by Walker and described by Vecna, of a very young lich fresh from his change. Vecna's book was clearly visible, including its look and name.",
+      "notes": [
+        "Gave a vision, recalled by Walker and described by Vecna, of a very young lich fresh from his change, with Vecna's book clearly visible, including its look and name."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What does Emhet mean by 'if the mind walks'?",
+    "What path is Emhet referring to?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T17:12:09.712Z",
+  "updatedAt": "2026-09-29T18:37:12.586Z",
+  "normalizedAliases": [
+    "emhet"
+  ]
+}

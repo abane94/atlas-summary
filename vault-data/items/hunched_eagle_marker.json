@@ -1,0 +1,26 @@
+{
+  "name": "Hunched eagle marker",
+  "tags": [],
+  "slug": "High-ranking hunched eagle Elrus calls a hobgoblin legion standard.",
+  "aliases": [],
+  "normalizedAliases": [
+    "hunched eagle marker"
+  ],
+  "filename": "items/hunched_eagle_marker.md",
+  "description": "A high-ranking hunched eagle on a decorative base, separate from the poker-chip troop tokens. Elrus calls it a hobgoblin legion standard.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-05",
+      "summary": "Vecna was tapping this piece and left it on the table. Walker, still holding it, pocketed it and later set it on Elrus's square table. Elrus says it has nothing to do with a mountain or a waterfall. Walker guesses it might be a tuning fork. In a recalled scene, Grixto pulls a different hunched eagle from a table and leaves once the plan is sorted.",
+      "notes": [
+        "The high-ranking piece Vecna was tapping: a hunched eagle on a decorative base, not one of the poker-chip tokens. He left it on the table. Walker was still holding it, pocketed it, and later set it on Elrus's square table.",
+        "Elrus calls it a hobgoblin legion standard and says it has nothing to do with a mountain or a waterfall. Walker guesses it might be a tuning fork. In a recalled scene, Grixto pulls a different hunched eagle from a table and leaves once the plan is sorted."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-06T21:13:01.953Z",
+  "updatedAt": "2026-10-06T21:13:01.953Z"
+}

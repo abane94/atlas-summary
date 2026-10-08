@@ -33,7 +33,7 @@ Local pipeline (AI via Cursor by default, or ChatGPT via Chrome):
   transcripts/YYYY-MM-DD/{recap.md,transcript.md}
     → chunks    summaries/YYYY-MM-DD/summary-N.json
     → merge     summaries/YYYY-MM-DD/merged.json
-    → vault     vault-data/log/*.json + vault-data/entities/*.json
+    → vault     vault-data/log/*.json + vault-data/{locations,npcs,...}/*.json
 
 Website markdown is generated on CI (lib/generate-markdown.ts), not here.
 

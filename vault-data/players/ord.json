@@ -1,0 +1,96 @@
+{
+  "name": "Ord",
+  "slug": "Ord is a dragonborn paladin connected to the Great Eldarin Tree who serves as Gatekeeper of Feldspar.",
+  "tags": [
+    "title"
+  ],
+  "aliases": [],
+  "filename": "players/ord.md",
+  "description": "Ord is a dragonborn paladin who joined Gerk’s group and became connected to the Great Eldarin Tree. He serves as the Gatekeeper of Feldspar, a realm he chose for its association with magic, science, alchemy, and experimentation, receiving its keystone after learning that Gilbrick had already been claimed.",
+  "type": "PLAYER",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Ord joined Gerk’s group and accepted the new connection to the Great Eldarin Tree. After learning that Gilbrick had already been claimed, he chose **Feldspar** for its blend of magic, science, alchemy, and experimentation, receiving the Feldspar keystone and becoming its Gatekeeper. The Raven Queen evaluated Ord and Walker as less impressive than some of the other party members, though she still acknowledged that they had demonstrated something unusual to her.",
+      "notes": [
+        "Joins Gerk's group and accepts the new connection to the Great Eldarin Tree.",
+        "Chooses Feldspar after learning that Gilbrick is already claimed.",
+        "Selects Feldspar because of its combination of magic, science, alchemy, and experimentation.",
+        "Receives the Feldspar keystone and becomes its Gatekeeper.",
+        "The Raven Queen evaluates Ord and Walker as less impressive than some of the other party members while still acknowledging that they have shown her something unusual."
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Ord remained near the central magical situation while deliberately staying as far from the immediate event as practical. While invisible, he investigated ways to reveal the position of someone affected by the disappearance effect, first considering powders or dust before realizing he could use his dragon vessel and olive oil. Spraying the oil produced a faint, visible silhouette of Ord, demonstrating that physical substances can outline an otherwise invisible person. The oil left a silent but physically present trail on the deck as it splashed and dripped. Ord also attempted to communicate in Draconic while investigating whether anyone was present, though no response was established.",
+      "notes": [
+        "Ord was within roughly thirty feet of the main magical situation but deliberately positioned as far from the immediate event as practical.",
+        "Ord is established as being within roughly thirty feet of the central situation but positioned away from the immediate action.",
+        "Ord attempts to find a powder-like substance that could reveal invisible people.",
+        "Ord considers flour, black powder, or other dust but specifically wants to avoid an explosive substance.",
+        "Ord investigates whether a physical substance can reveal someone affected by the disappearance/invisibility effect.",
+        "Ord initially considers powder or dust but realizes he has a dragon vessel and instead uses olive oil.",
+        "The olive oil experiment produces a faint visible silhouette of Ord, showing that the phenomenon does not prevent physical substances from outlining an affected person.",
+        "Ord is currently invisible except where substances or creatures provide a visible indication of his position.",
+        "Ord discovered that applying olive oil through his dragon vessel creates a visible, faint outline of his otherwise invisible body.",
+        "The visible oil silhouette is silent but has a physical presence on the deck as the oil splashes and drips.",
+        "Ord attempted to communicate in Draconic while investigating whether anyone was present, but no response is established in this chunk."
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Ord stays with the main party on the invisible, silent boat rather than joining Walker's Reach excursion, his paladin magic noted as another potential source of exhaustion relief. Covered in oil from his dragon vessel and lacking detect magic, he instead casts See Invisibility after adding more oil, revealing Gerk, Sylan, Dana, the crew, the spectral door, and fading portal residue aboard the boat. He investigates the portal lines and steadies Sylan and Gerk with a persuasion check of fifteen, communicating with Sylan through blind eye speech when normal speech fails. Unable to physically interact with the spectral door, he proposes zone of truth before casting dispel magic on the effect suppressing sight and hearing rather than on the ship itself, successfully restoring visibility and sound. He asks Gerk to create a replacement door as Doorman, but Gerk refuses and asks Ord to stand nearby instead of Sylan while tempers settle.",
+      "notes": [
+        "Not present with Walker's group; paladin magic could otherwise help reduce exhaustion.",
+        "Remains on the invisible party boat while covered in oil from his dragon vessel.",
+        "Does not have detect magic prepared but does have dispel magic prepared.",
+        "Casts See Invisibility after adding more oil and sees Gerk, Sylan, Dana, crew, the spectral door, and fading portal residue on the silent boat.",
+        "Investigates the fading portal lines and steadies Sylan and Gerk with a persuasion check of 15.",
+        "Communicates with Sylan through blind eye speech after normal voice fails.",
+        "Fails to physically interact with the spectral door.",
+        "Proposes zone of truth as a workaround, then casts dispel magic on the magical effect blocking sight and hearing, not on the boat.",
+        "Successfully ends the party's invisibility and silence.",
+        "Asks Gerk to create a replacement door as Doorman; Gerk refuses.",
+        "Gerk asks him to stand nearby instead of Sylan while tempers settle."
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Ord dispelled the party's invisibility and silence; Dana says the spectral door appeared because he tried to open a door or thought about one. He went with Sylan, Gerk, and Dana to Carlkin, calling him a useful resource they have no reason to distrust. Allies he can see, including Carlkin and even a mouse, add his proficiency bonus to initiative (stated as +6, and once as +7); enemies do not. His initiative was 21, and Sylan's 26 and Dana's 22 include that bonus. Hold Monster failed: spell save DC 18, the creature saved, and it is immune to paralyzed. He spent his last 5th-level slot to concentrate on Holy Weapon on the Watcher's Mantle, which buzzed because the foe is extraplanar. A 24 hit for 16, plus 15 against an off-plane target and 21 from a 4th-level smite, severed the tentacle grasping Gerk in a mostly radiant arc. With Dana's inspiration and another 4th-level smite, a dimmer blow removed most of the tentacle on Sylan but left it intact. He dealt over a hundred damage that turn and had already used his bonus action. A grapple tied his Athletics of 25 and lost the tie, then struck for 19 and 12 bludgeoning; he had no reaction left to stomp. Play confirmed him as an Oath of the Watchers paladin, previously Oath of Vengeance. Disease immunity, Cleansing Touch, and his holy sword do not cover this mental effect. Beside the wall of eyes he failed a Wisdom save of 17, including +5, and expected to succumb. Vigilant Rebuke damages the source when an ally succeeds, even far away; he used his reaction once for 14 radiant damage, popping eyes on the door's edge. Pulled through a gap as pupils tracked him, he babbled about sea breezes and \"my strength.\" After Gerk broke the floor he was left shoulder-deep in a roughly four-to-five-foot hole, looking up at the doorway of eyes. On a Wisdom save of 23, blinks showed a dock's edge and a younger dragonborn, and a melancholy voice offered to show his past if he gave them his future.",
+      "notes": [
+        "He cast the dispel magic that removed the party's invisibility and silence. Dana says the spectral door appeared because he tried to open a door or thought about one.",
+        "He goes with Sylan, Gerk, and Dana to Carlkin. He says Carlkin has been a useful resource and that the party has no reason to distrust him.",
+        "Allies he can see, including Carlkin, add his proficiency bonus to initiative. The bonus is stated as +6, and one report also treats it as +7. It covers other living creatures he can see, which he describes as even a mouse that would have to survive, and it does not apply to the enemy. His own initiative is 21, bonus already included. Sylan's 26 and Dana's 22 include this bonus.",
+        "Hold Monster against the tentacles fails. His spell save DC is 18, the creature saves, and it is immune to the paralyzed condition.",
+        "He spends his last 5th-level spell slot to cast Holy Weapon, concentrating, on the Watcher's Mantle, expecting no further fights that day. The mantle buzzes because the foe is extraplanar. An attack of 24 deals 16, plus 15 because the target is not from this plane, plus 21 from a 4th-level smite (5d8), severing the tentacle grasping Gerk in a mostly radiant arc. He then spends Dana's inspiration and another 4th-level smite on the tentacle attacking Sylan. That second blow is dimmer, removes most of the tentacle, and leaves it intact. He deals over a hundred damage that turn and has already used his bonus action.",
+        "A tentacle tries to grapple him beside Sylan. His Athletics of 25 ties, and the tie goes to him, so it cannot hold him. The follow-up strikes deal 19 and then 12 bludgeoning. He has no reaction left to stomp.",
+        "He is confirmed in play as an Oath of the Watchers paladin; he previously had an Oath of Vengeance. Disease immunity, Cleansing Touch, and his holy sword do not cover this mental effect. Adjacent to the wall of eyes, he fails a Wisdom save of 17, including a +5 bonus, and expects to succumb.",
+        "Vigilant Rebuke lets him damage the source when an ally succeeds on the save, even if that source is far from him. He asks to trigger it for both successes. It costs his reaction, so he uses it once and deals 14 radiant damage, popping eyes on the edge of the door.",
+        "He steps into a gap between the eyes and is pulled bodily through. Pupils track him. He babbles incoherently about sea breezes and \"my strength.\" After Gerk breaks the floor, the arm already inside the mass holds him up somewhat, and he is left shoulder-deep in a roughly four-to-five-foot hole, head and shoulders above ground, looking up at the doorway of eyes.",
+        "On a Wisdom save of 23, each blink shows him the edge of a dock and a younger dragonborn. A reverberating melancholy voice says they will show him his past if he gives them his future."
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Sylan is briefly unsure Ord is even present, then says he looks peaked after the attack and may need to sit down. When Carlkin asks where the girl is, Gerk answers with Ord's name, and who is actually in the room stays muddled. Carlkin sets a cup for him and calls his presence technical, which fits him being there without being plainly visible. The jug Carlkin pours from resembles one Ord produces from time to time.",
+      "notes": [
+        "Sylan is briefly unsure Ord is even present, then says he looks peaked after the attack and may need to sit down. When Carlkin asks where the girl is, Gerk answers with Ord's name, and who is actually in the room stays muddled.",
+        "Carlkin sets a cup for him and calls his presence technical, which fits him being there without being plainly visible. The jug Carlkin pours from resembles one Ord produces from time to time."
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Ord is with Gerk and Sylan at Carlkin’s, then at the pub. At breakfast in the great hall he is eating a hot bun. Gerk looks to him before accepting Sylan as trainer and asks whether he will come along. He goes south into the forest to watch the doorway practice.",
+      "notes": [
+        "With Gerk and Sylan at Carlkin's, then at the pub. At breakfast in the great hall he is eating a hot bun. Gerk looks to him before accepting Sylan as trainer and asks if he will come along. He comes south into the forest to watch the doorway practice."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T15:51:38.382Z",
+  "updatedAt": "2026-10-06T21:08:25.573Z",
+  "normalizedAliases": [
+    "ord"
+  ]
+}

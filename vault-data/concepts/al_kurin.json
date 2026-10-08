@@ -1,0 +1,56 @@
+{
+  "name": "Al Kurin",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Vessels containing the souls of dragons",
+  "aliases": [],
+  "normalizedAliases": [
+    "al kurin"
+  ],
+  "filename": "concepts/al_kurin.md",
+  "description": "Al Kurin are vessels capable of containing the soul of a dragon.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "During this session, it was noted that Grixto had been collecting Al Kurin from other trainees at the training grounds, including juvenile dragons. Al Kurin can be transported away from the location where they were collected.",
+      "notes": [
+        "A vessel or object containing the soul of a dragon.",
+        "Can be transported and carried to another location.",
+        "Grixto was collecting Al Kurin from other trainees, including juvenile dragons.",
+        "Al Kurin are vessels capable of containing the soul of a dragon.",
+        "Grixto had been collecting them from other trainees at the training grounds, including juvenile dragons.",
+        "They can be transported away from the location where they were collected."
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Al Kurin are described as a dragon’s heart of hearts. Grixto took them from guild companions he killed at the training grounds and used them to amplify his power. In Emhet’s vision he sat with a couple of Al Kurin while plotting his next steps.",
+      "notes": [
+        "Described as a dragon's heart of hearts. Grixto took them from guild companions he killed at the training grounds and used them to amplify his power.",
+        "In Emhet's vision he sat with a couple of Al Kurin while plotting his next steps."
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Carlkin treats Grixto's dragon-killing as theft of Al Kurin and immediately asks where Walker and his dragon are. Elrus says Walker's theory, that Grixto became a lich after Galixtar's death, would explain his eagerness to obtain the Al Kurin.",
+      "notes": [
+        "Carlkin treats Grixto's dragon-killing as theft of Al Kurin and immediately asks where Walker and his dragon are. Elrus says Walker's theory, that Grixto became a lich after Galixtar's death, would explain his eagerness to obtain the Al Kurin."
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Elrus says they already deduced that Grixto had the Al Kurin to aid his lichdom, and that it is deadly when combined with a ley-line convergence and the Raskina.",
+      "notes": [
+        "Elrus says they already deduced Grixto had the Al Kurin to aid his lichdom, and that it is deadly combined with a ley-line convergence and the Raskina."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Why was Grixto collecting the Al Kurin?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:12:46.881Z",
+  "updatedAt": "2026-10-06T21:06:46.027Z"
+}

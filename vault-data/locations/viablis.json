@@ -1,0 +1,27 @@
+{
+  "name": "Viablis",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "An old landmark only rumored to be a ley line, which Grixto carved into the wall.",
+  "aliases": [],
+  "normalizedAliases": [
+    "viablis"
+  ],
+  "filename": "locations/viablis.md",
+  "description": "A landmark that has stood since Elrus was a boy. It is only rumored to be a ley line.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-05",
+      "summary": "Elrus names Viablis among the carvings and finds it concerning that Grixto carved it into the wall, given that it is only rumored to be a ley line.",
+      "notes": [
+        "A landmark that has stood since Elrus was a boy. It is only rumored to be a ley line, and Elrus is concerned that Grixto carved it into the wall."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-06T21:13:20.736Z",
+  "updatedAt": "2026-10-06T21:13:20.736Z"
+}

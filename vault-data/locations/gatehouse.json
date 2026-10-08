@@ -1,0 +1,43 @@
+{
+  "name": "Gatehouse",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "Gatehouse governing keystone-operated gates and their passage.",
+  "aliases": [],
+  "normalizedAliases": [
+    "gatehouse"
+  ],
+  "filename": "locations/gatehouse.md",
+  "description": "A gatehouse containing the keystone-operated gates.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "The gatehouse requires a doorman to orient and calibrate keystones and ensure they are properly seated. Opening a gate requires leaving its keystone at the originating gatehouse; the gate remains open there until deliberately shut, and the keystone cannot be taken through to close it from the other side. The surrounding mountain contains ruined libraries and archives, with only roughly the upper third explored so far. Records were damaged or destroyed through both deliberate raiding and natural degradation. The party expects to guard the gatehouse for an extended period after resolving the lich situation.",
+      "notes": [
+        "The gatehouse requires a doorman to orient and calibrate keystones and ensure they are properly seated.",
+        "Opening a gate requires leaving its keystone at the originating gatehouse.",
+        "A gate remains open at its originating location until it is deliberately shut, and the keystone cannot simply be taken through to close it from the other side.",
+        "The party expects that, after dealing with the lich situation, they may spend a long period guarding the gatehouse.",
+        "The surrounding mountain contains ruined libraries and archives, but only roughly the upper third of the mountain has been explored.",
+        "The area's former libraries and archives are not intact.",
+        "Evidence indicates both deliberate raiding and natural degradation destroyed or damaged records.",
+        "Only roughly the top third of the mountain has been explored so far.",
+        "The party expects to guard the gatehouse for an extended period after the lich situation is resolved."
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Gatehouses sit on ley lines. Opening one functional gatehouse opens every other functional arch gatehouse at the same time, whether or not anyone is present; Carlkin's example is a gatehouse for Midgar, with seven other arches responding. Gathering every keystone into one gatehouse would bind the gatekeepers to remain there, largely dormant, and protect that hub. Dana believes the Gilbrick site where they fought Grixto used to be a gatehouse.",
+      "notes": [
+        "Gatehouses sit on ley lines. Opening one functional gatehouse opens every other functional arch gatehouse at the same time, regardless of who is present. Carlkin's example is a gatehouse for Midgar, with seven other arches responding.",
+        "Gathering every keystone into one gatehouse would bind the gatekeepers to remain there, largely dormant, and protect that hub. Dana believes the Gilbrick site where they fought Grixto used to be a gatehouse."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:29:11.916Z",
+  "updatedAt": "2026-09-29T18:40:27.346Z"
+}

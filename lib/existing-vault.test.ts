@@ -17,7 +17,7 @@ function makeEntity(overrides: Partial<EntityData> = {}): EntityData {
         tags: ['settlement'],
         aliases: ['Navel'],
         normalizedAliases: ['new navel', 'navel'],
-        filename: 'entities/location/new_navel.md',
+        filename: 'locations/new_navel.md',
         description: 'A familiar stop: traders come here.',
         type: 'LOCATION',
         log: [],
@@ -122,14 +122,14 @@ describe('rewriteWikilinks', () => {
         makeEntity({
             name: 'La-rel',
             aliases: [],
-            filename: 'entities/location/la-rel.md',
+            filename: 'locations/la-rel.md',
             tags: [],
             normalizedAliases: ['la rel'],
         }),
         makeEntity({
             name: 'Langdale Stronghold',
             aliases: ['Stronghold'],
-            filename: 'entities/location/langdale_stronghold.md',
+            filename: 'locations/langdale_stronghold.md',
             tags: [],
             normalizedAliases: ['langdale stronghold', 'stronghold'],
         }),
@@ -139,18 +139,18 @@ describe('rewriteWikilinks', () => {
         const out = rewriteWikilinks('See [[New Navel]] and [[La-Rel]]', entities);
         assert.equal(
             out,
-            'See [[entities/location/new_navel|New Navel]] and [[entities/location/la-rel|La-Rel]]',
+            'See [[locations/new_navel|New Navel]] and [[locations/la-rel|La-Rel]]',
         );
     });
 
     it('rewrites old folder paths using the original basename as the label', () => {
-        const out = rewriteWikilinks('[[locations/New Navel]]', entities);
-        assert.equal(out, '[[entities/location/new_navel|New Navel]]');
+        const out = rewriteWikilinks('[[entities/location/New Navel]]', entities);
+        assert.equal(out, '[[locations/new_navel|New Navel]]');
     });
 
     it('preserves heading suffixes', () => {
         const out = rewriteWikilinks('[[New Navel#History]]', entities);
-        assert.equal(out, '[[entities/location/new_navel#History|New Navel]]');
+        assert.equal(out, '[[locations/new_navel#History|New Navel]]');
     });
 
     it('leaves images and unmatched notes alone', () => {
@@ -159,7 +159,7 @@ describe('rewriteWikilinks', () => {
     });
 
     it('leaves already-canonical links unchanged', () => {
-        const text = '[[entities/location/new_navel|New Navel]]';
+        const text = '[[locations/new_navel|New Navel]]';
         assert.equal(rewriteWikilinks(text, entities), text);
     });
 });

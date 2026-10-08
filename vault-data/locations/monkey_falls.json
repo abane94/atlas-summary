@@ -1,0 +1,27 @@
+{
+  "name": "Monkey Falls",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "A waterfall marked by an old obsidian ley-line marker at a former magical intersection.",
+  "aliases": [],
+  "normalizedAliases": [
+    "monkey falls"
+  ],
+  "filename": "locations/monkey_falls.md",
+  "description": "A waterfall where an old obsidian ley-line marker stands at what would have been an intersection and a highly magical site.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-05",
+      "summary": "The waterfall in the cave etchings. An old obsidian ley-line marker stands there, at what would have been an intersection and a highly magical site.",
+      "notes": [
+        "The waterfall in the cave etchings. An old obsidian ley-line marker stands there, at what would have been an intersection and a highly magical site."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-06T21:12:09.261Z",
+  "updatedAt": "2026-10-06T21:12:09.261Z"
+}

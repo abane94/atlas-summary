@@ -1,0 +1,27 @@
+{
+  "name": "Grassy atoll",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "An unnamed flat island of rolling green plains, labeled the grassy atoll on some maps.",
+  "aliases": [],
+  "normalizedAliases": [
+    "grassy atoll"
+  ],
+  "filename": "locations/grassy_atoll.md",
+  "description": "A flat island of rolling green plains, about the same size as the island used for comparison. Some maps label it the grassy atoll. Elrus says it has no real name.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-05",
+      "summary": "One of the cave etchings shows this island. Elrus identifies it by the map label grassy atoll and says the place itself has no real name.",
+      "notes": [
+        "One of the cave etchings: a flat island of rolling green plains, about the same size as the island used for comparison. Some maps label it the grassy atoll. Elrus says it has no real name."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-06T21:11:29.344Z",
+  "updatedAt": "2026-10-06T21:11:29.344Z"
+}

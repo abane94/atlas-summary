@@ -1,0 +1,62 @@
+{
+  "name": "Dragon Rider Training Grounds",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "Dragon Rider guild training grounds near the Lost Isles",
+  "aliases": [],
+  "normalizedAliases": [
+    "dragon rider training grounds"
+  ],
+  "filename": "locations/dragon_rider_training_grounds.md",
+  "description": "The Dragon Rider training grounds are located near the Lost Isles, among a group of mountains between three islands across a large expanse. They were associated with the Dragon Rider guild that Elrus and Araden belonged to.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "During the session, Walker, Elrus, Araden, and eventually Plymouth traveled toward the Dragon Rider training grounds through the gate to the Reach. The expedition was intended to investigate the grounds and search for clues connected to Grixto and Galixtar.",
+      "notes": [
+        "The Dragon Rider training grounds are located near the Lost Isles, among a group of mountains between three islands across a large expanse.",
+        "They can be reached through the gate to the Reach.",
+        "Walker, Elrus, Araden, and eventually Plymouth are traveling there to investigate and search for clues about Grixto and Galixtar.",
+        "The expedition is traveling there to investigate clues connected to Grixto and Galixtar.",
+        "The grounds were associated with the Dragon Rider guild that Elrus and Araden belonged to."
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Session travel planning refines the Dragon Rider Training Grounds' placement within The Reach: they sit on the largest unnamed island in the relevant hex, positioned between the Lost Islands, Camp Two, and the Howling tunnels. Walker, Elrus, and Plymouth aim for the site after entering The Reach near the Whispering Abyss, with Sunder as a planned detour first. Under the session's agreed travel time, the grounds lie about five days of dragon flight from the Whispering Abyss.",
+      "notes": [
+        "Located on the largest unnamed island in the relevant Reach hex, between the Lost Islands, Camp Two, and the Howling tunnels.",
+        "About five days of dragon flight from the Whispering Abyss under the travel time agreed in session.",
+        "Remains Walker's destination after a planned stop in Sunder."
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "The grounds are a small, otherwise ordinary floating island of thick grass between the Lost Isles, Camp Two, and the Howling Tunnels, with a western plateau and cliffs. Travel from Sunder takes seven days for the travelers and one day for those who remain behind. A crumbling foundation—the old guild stronghold, identified by Elrus as the guild hall—overlooks the field, marked with expansive runes; Plymouth wonders whether any artifacts remain. Cliff caves are open roosts used to shelter dragons and trainees, from small-stable size up to the entrance of Araden's roost. A thin crevice between the rocky underside and the field, reached by a concealed footpath, can admit a medium dragon and possibly a large one. Elrus believes this backside is the way into Grixto's cavern, the hideaway where young Grixto gathered and killed guild dragons for their Al Kurin. Walker, Elrus, Araden, Plymouth, and Glimmen investigate, with orders to retreat if Grixto is present. The crevice leads to the roost from Emhet's vision, slightly changed into a smaller planning area and a larger dragon roost, where Vecna is waiting.",
+      "notes": [
+        "A small, otherwise ordinary floating island between the Lost Isles, Camp Two, and the Howling Tunnels, in a mountainous region between three islands. Travel from Sunder takes seven days for the travelers and one day for people remaining behind.",
+        "Most of the island is a flat field of thick grass. The western side is a plateau and cliffs. A crumbling foundation, the old guild stronghold, overlooks the field. Elrus identifies the ruin as the guild hall, crumbled from time and disuse. Expansive runes mark the ruins. Plymouth wonders whether any artifacts remain.",
+        "Cliff caves are open roosts, not through-tunnels, from small-stable size up to the entrance of Araden's roost, used to shelter dragons and trainees.",
+        "A thin crevice between the rocky underside and the field, reached by a concealed footpath, can admit a medium dragon and possibly a large one, with a short bound from the crack onto the field. Elrus believes this backside or underside is the way into Grixto's cavern. It is the secret hideaway where young Grixto gathered and killed guild dragons for their Al Kurin.",
+        "Walker, Elrus, Araden, Plymouth, and Glimmen investigate it. If Grixto is present they are to retreat. The crevice leads to the roost from Emhet's vision, slightly changed into a smaller planning area plus a larger dragon roost, where Vecna is waiting."
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Walker is in the ruins of the guild keep. The old tower is the standing point for the radially shifted landmark diagram. Below is the cave room where Vecna had been sitting, with wall etchings and a flat stone table about four feet by four feet. Walker will not go back down until he believes Vecna is gone. Plymouth is on site taking etchings and doing scribe work.",
+      "notes": [
+        "Walker is in the ruins of the guild keep. The old tower is the standing point for the radially shifted landmark diagram.",
+        "Below is the cave room where Vecna had been sitting: wall etchings and a flat stone table about four feet by four feet. Walker will not go back down until he believes Vecna is gone.",
+        "Plymouth is on site taking etchings and doing scribe work."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What will the party find at the Dragon Rider training grounds?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:28:00.057Z",
+  "updatedAt": "2026-10-06T20:58:14.281Z"
+}

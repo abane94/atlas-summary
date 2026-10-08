@@ -1,0 +1,43 @@
+{
+  "name": "Confusion Effect",
+  "tags": [
+    "spell"
+  ],
+  "slug": "A spell effect that leaves its victim confused and unable to act meaningfully.",
+  "aliases": [],
+  "normalizedAliases": [
+    "confusion effect"
+  ],
+  "filename": "concepts/confusion_effect.md",
+  "description": "A confusion effect caused by a spell that disrupts a creature's ability to think and act coherently.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Gerk was affected by a confusion spell after failing a Wisdom saving throw. The effect left him incoherent and unable to move or take meaningful actions.",
+      "notes": [
+        "Gerk is affected by a confusion spell following his failed Wisdom saving throw.",
+        "The effect leaves Gerk incoherent and unable to move or take meaningful actions."
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "The confusion effect continues to afflict Gerk aboard the invisible boat even after Sylan physically wrangles him in an attempt to break it. Gerk fails a wisdom save with a natural one during the struggle, remaining disoriented enough to grab back at unseen hands and later try to swing Sylan.",
+      "notes": [
+        "Still afflicts Gerk despite Sylan's physical attempts to shake him out of it.",
+        "Gerk fails a wisdom save with a natural 1 during the attempt."
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "While Gerk opens a doorway, the confusion effect shifts the destination from the upstairs hallway he pictured to a more familiar memory, the loft of Bouncing Betty's barn, about twenty feet off.",
+      "notes": [
+        "While Gerk is opening a doorway, confusion shifts the destination from the pictured upstairs hallway to a more familiar memory, the loft of Bouncing Betty's barn, about twenty feet off."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:50:26.371Z",
+  "updatedAt": "2026-10-06T21:09:03.026Z"
+}

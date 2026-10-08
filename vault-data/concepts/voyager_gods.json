@@ -1,0 +1,27 @@
+{
+  "name": "Voyager Gods",
+  "tags": [
+    "deity"
+  ],
+  "slug": "Gods from other pantheons who did not originate in Atlas.",
+  "aliases": [],
+  "normalizedAliases": [
+    "voyager gods"
+  ],
+  "filename": "concepts/voyager_gods.md",
+  "description": "Vecna's term for gods who did not originate in Atlas. He says they came from other pantheons, brought by other creatures, and he sets himself apart from them as Atlas-born.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-09-28",
+      "summary": "Vecna uses Voyager gods for gods who did not originate in Atlas. He says they came from other pantheons, brought by other creatures, and he sets himself apart from them as Atlas-born, calling himself a demigod rather than an elder.",
+      "notes": [
+        "Vecna's term for gods who did not originate in Atlas. He says they came from other pantheons, brought by other creatures. He sets himself apart from them as Atlas-born, and says he is a demigod rather than an elder."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-09-29T18:47:38.676Z",
+  "updatedAt": "2026-09-29T18:47:38.676Z"
+}

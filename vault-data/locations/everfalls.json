@@ -1,0 +1,28 @@
+{
+  "name": "Everfalls",
+  "slug": "Everfalls is a location from the party's past where the Raven Queen has seen both Sylan and Dana.",
+  "tags": [],
+  "aliases": [],
+  "filename": "locations/everfalls.md",
+  "description": "Everfalls is a location associated with the party’s past. The Raven Queen has stated that she has seen Sylan and Dana at Everfalls, indicating that both have previously been there. No further details about the location or its significance are established.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "The Raven Queen revealed that she has seen members of the party, specifically Sylan and Dana, at the Everfalls. This establishes a connection between the party’s past and the Everfalls, though no further details about what occurred there or why they were present were provided in this session.",
+      "notes": [
+        "The Raven Queen says she has seen members of the party at the Everfalls, specifically Sylan and Dana.",
+        "The location is referenced as part of the party's past, but no further details are established here."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What exactly did the Raven Queen witness at the Everfalls?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T17:15:56.134Z",
+  "updatedAt": "2026-08-11T17:15:56.134Z",
+  "normalizedAliases": [
+    "everfalls"
+  ]
+}

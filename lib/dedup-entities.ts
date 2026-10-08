@@ -600,7 +600,6 @@ export async function applyApprovedMerges(
         if (options.dryRun) {
             const keepPath = path.join(
                 vaultDataFolder,
-                "entities",
                 entityJsonFilename({ name: merge.canonicalName, type: merge.canonicalType }),
             );
             console.log(`[dedup] dry-run would write ${keepPath}`);

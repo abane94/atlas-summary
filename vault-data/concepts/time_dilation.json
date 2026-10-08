@@ -1,0 +1,25 @@
+{
+  "name": "Time dilation",
+  "tags": [],
+  "slug": "Cave hours feel like weeks, and the Reach runs seven days to one.",
+  "aliases": [],
+  "normalizedAliases": [
+    "time dilation"
+  ],
+  "filename": "concepts/time_dilation.md",
+  "description": "Elrus's name for why a few hours in the cave feel like weeks to Walker. Separately, Walker's time on the Reach runs about seven of his days for each day the party experiences.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-10-05",
+      "summary": "Elrus explains that a few hours in the cave feel like weeks to Walker because of time dilation. Separately, Walker's time on the Reach runs about seven of his days for each day the party experiences.",
+      "notes": [
+        "Elrus's explanation for why a few hours in the cave feel like weeks to Walker. Separately, Walker's time on the Reach runs about seven of his days for each day the party experiences."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-06T21:13:49.541Z",
+  "updatedAt": "2026-10-06T21:13:49.541Z"
+}

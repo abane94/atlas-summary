@@ -1,0 +1,140 @@
+{
+  "name": "Walker",
+  "slug": "Walker is a half-elf dragon rider and fighter bonded to Glimmen, originally from La-rel and now Gatekeeper of The Reach.",
+  "tags": [
+    "title"
+  ],
+  "aliases": [],
+  "filename": "players/walker.md",
+  "description": "Half-elf dragon rider and fighter, bonded to the mind-linked dragon Glimmen. Walker is originally from La-rel and is the only party member known to have come from outside Midgard. He is now the Gatekeeper of The Reach, responsible for protecting and exploring the largest Arch, a role well suited to him and Glimmen because of their ability to fly.",
+  "type": "PLAYER",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "Edit\n\nWalker joins Gerk in taking on his new responsibility out of loyalty and friendship, despite initially not understanding the significance of the Great Tree. He considers Glimmen part of the group and jokingly argues that she deserves a crown. As the only party member originally from outside Midgard, Walker is offered the La-rel keystone but declines it, choosing The Reach instead because La-rel represents his past while The Reach better reflects who he has become. He receives The Reach keystone and becomes its Gatekeeper, taking responsibility for protecting and exploring the largest Arch. Walker and Glimmen are particularly well suited to traveling the Reach due to their ability to fly. He is also able to see the mysterious white-flower girl and her trail, and recognizes a distinctive tree after Gerk opens a portal to a forest, helping identify the location as being near Langdale. Walker is eager to use the portal to travel back toward home. The Raven Queen notes that Walker and Ord have impressed her less than some of the others, though they have still demonstrated qualities beyond what she normally sees in mortals.",
+      "notes": [
+        "Joins Gerk's new responsibility out of loyalty and friendship despite not initially understanding the significance of the Great Tree.",
+        "Considers Glimmen part of the group and jokingly argues that she deserves a crown.",
+        "Is identified as the only party member originally from outside Midgard.",
+        "Is offered the La-rel keystone because of his origin there but declines it.",
+        "Chooses The Reach because La-rel represents his past while The Reach better represents who he is now.",
+        "Receives The Reach keystone and becomes its Gatekeeper, responsible for protecting and exploring the largest Arch.",
+        "Walker and Glimmen are well suited to traveling the Reach because they can fly.",
+        "Can see the mysterious white-flower girl and her trail.",
+        "Recognizes a distinctive tree in the forest reached through Gerk's portal, helping establish that the destination is near Langdale.",
+        "Is eager to use the portal to return toward home.",
+        "The Raven Queen says Walker and Ord have not impressed her as much as some others, although they have still shown her something beyond what she normally sees from mortals."
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "summary": "Walker plans to return to The Reach with Glimmen, Plymouth Gawater, Elrus, and Araden to scout the Dragon Rider training grounds for clues related to his vision of Grixto and Galixtar near the caves. He intends to keep Elrus and Araden as secret weapons, carry the party's sending stone for updates, recharge his gems, and retreat if necessary rather than seek a fight. Walker uses his keystone to activate the gate to The Reach, despite its portal's size being insufficient to bring the party's boat through. He notes that his former roost appears empty and that he previously explored the area without encountering Grixto. He also recognizes that The Reach's time difference may allow him to spend much longer there than the party experiences in Midgard. Walker describes The Reach as an autumnal setting with crisp weather, early fall colors, and the National Flying League beginning its season, alongside floating jack-o'-lanterns and other flying elements.",
+      "notes": [
+        "Walker has a portal-related ability involving a Gate or similar effect and asked whether it could create an opening large enough for the party's boat.",
+        "Walker needs to take Elrus somewhere before or during the party's travel plans.",
+        "Wants to investigate the lich's former hideout in The Reach for clues.",
+        "Has a portal-opening ability, but the Gate spell's maximum 20-foot diameter is insufficient for bringing the party's boat through.",
+        "Has a former roost in The Reach that he believes is empty.",
+        "Previously saw a vision involving Grixto and Galixtar near caves by the training grounds.",
+        "Has promised Elrus a place to stay and considers bringing him along to The Reach.",
+        "Wants to investigate The Reach because of the vision showing Grixto and Galixtar near the training grounds.",
+        "Has previously visited his old area in The Reach without being attacked or finding Grixto.",
+        "Plans to treat the return to The Reach as a scouting mission rather than actively seeking a fight.",
+        "Wants to keep Araden and Elrus as secret weapons whose capabilities Grixto does not know about.",
+        "Wants to recharge his gems while in The Reach.",
+        "Plans to travel to The Reach to recharge his gems.",
+        "Plans to bring Elrus and Araden while keeping the group small and mobile.",
+        "Wants Elrus and Araden to remain secret weapons because the lich has not yet learned about them.",
+        "Agrees to treat the trip as a scouting mission and retreat if necessary.",
+        "Takes the party's sending stone to report his findings during the mission.",
+        "Walker leaves with Elrus and Araden to investigate the Dragon Rider training grounds in the Reach.",
+        "He takes the party's sending stone so he can keep the group updated during the investigation.",
+        "Walker activates the gate to the Reach using his keystone after Plymouth explains that Gerk normally needs to assist with calibration and operation.",
+        "Uses his keystone to open the gate to The Reach and departs with Elrus and Araden.",
+        "His immediate goal is to investigate the Dragon Rider training grounds for clues related to Grixto and Galixtar.",
+        "Retrieves his sending stone before leaving the gatehouse.",
+        "Plymouth joins Walker's expedition.",
+        "Leaves with Glimmen, Plymouth Gawater, Elrus, and Araden to investigate the dragon-rider training grounds and the origins of Grixto and Galixtar.",
+        "Plans to take advantage of Midgar's time differential after realizing he can potentially spend much longer away from the party than they will experience.",
+        "Walker has left with the other rider and is taking advantage of the time difference involving Midgard.",
+        "Walker describes The Reach as being in fall, with crisp weather around sixty degrees and autumn colors beginning to appear.",
+        "Walker describes the National Flying League as beginning its season in The Reach.",
+        "Walker describes floating jack-o'-lanterns and other flying elements as part of the setting in The Reach."
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Walker travels with Plymouth Gawater and Elrus on a side excursion into The Reach via portal cube near the Whispering Abyss, planning a multi-day flight north to the Dragon Rider training grounds during a broader forty-nine-day Reach stay that costs dragon energy and inflicts daily exhaustion unless he changes course. He has quit alcohol and uses nicotine as a temporary substitute, learns basic SOS fire signals without gaining proficiency, and opens mind-link contact with Ciri while separated. A detour over Sunder leads him to Qualin's Quax, where failed perception leaves him fixated on Quaylin's heirloom gem and unable to afford potions of vitality. He seeks Hanzuni at Haven Hold for a quest-based gold loan rather than trigger a Sunder Chase, citing Quaylin's referral. Walker reveals his golden hand is plated flesh—not metal—a removable thirty-pound replica he believes turned gold after touching cold molten-looking water, possibly near the Temple of I; Quaylin confirms it with a pestle. He carries about eight hundred twenty-six gold and sixty-one platinum locally with roughly ten thousand gold left in Langdale, wears mismatched star gem earrings from a past hoard fight, and declines trading them for matching pairs from Hanzuni.",
+      "notes": [
+        "Is traveling with Plymouth Gawater on a short side excursion, using a portal cube to exit into The Reach near the Whispering Abyss.",
+        "Plans a multi-day dragon flight north to the Dragon Rider training grounds, with a broader 49-day Reach stay at five dragon energy per day for 245 total energy and one exhaustion level per day.",
+        "Will operate at disadvantage on ability checks for the trip unless he changes course.",
+        "Has given up alcohol and considers nicotine as a short-term replacement vice after learning it can help with exhaustion.",
+        "Is flying with Elrus and Plymouth toward the training grounds via a detour over Sunder to shop for exhaustion relief.",
+        "Learns basic SOS fire signals and simple flag-communique recognition, but not as a proficiency; usually relies on mind messages from Dana instead.",
+        "Opens mind-link communication with Ciri while separated.",
+        "Fails a perception check with disadvantage in Qualin's Quax and becomes fixated on Quaylin's heirloom gem.",
+        "Cannot afford twelve hundred gold per potion of vitality and is too exhausted to haggle.",
+        "Decides to seek a loan from the Haven Hold dragon rather than run another Sunder Chase.",
+        "Has a gold-colored hand that is real flesh, not metal; Quaylin tested it with a pestle.",
+        "Believes the hand turned gold when he put it into cold molten-looking water while swimming underwater, possibly near the Temple of I in the north.",
+        "Has about 826 gold and 61 platinum on hand while roughly ten thousand gold remains in Langdale.",
+        "Seeks Hanzuni at Haven Hold for a loan, gift, or affordable magical item to treat worsening daily exhaustion.",
+        "Tells Hanzuni that Quaylin sent him.",
+        "Wears mismatched star sapphire and star ruby earrings from a past dragon hoard fight and declines Hanzuni's offer to trade for matching gems.",
+        "His golden hand is plated gold, not a gauntlet, and can be removed as a solid replica weighing about thirty pounds.",
+        "Cannot throw the gold hand into the hoard to trigger a Sunder Chase.",
+        "Declines a Sunder Chase due to time pressure and accepts Hanzuni's quest-based gold loan terms."
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Walker leaves Hanzuni's hoard room at Haven Hold on his own training schedule, with no meeting set with Elrus or Araden. The regimen has left him with one level of exhaustion and disadvantage on ability checks. Under a sevenfold time difference, about a week of party travel is roughly a month for him; the others fly home to meet him, and from the stronghold he is expected back in about two days, with Sylan taking an earlier check-in as a sign he is fine. He does not go to Carlkin. He meets Elrus and Araden and, after Plymouth finishes an errand, travels with them from Sunder to the training island, not remembering why until the Grixto hideaway lead is restored. Sylan has told him to retreat rather than fight if Grixto is there. He rolls a 21 on Perception, finds the hidden ledge and crevice, leaves Araden outside with Elrus as a mental relay and Plymouth searching the guild stronghold, and signals Elrus by tapping his head. Bow drawn, he climbs the narrow path toward the smell of death (passive Perception 18), hears faint humming and two stones tapping, and has Elrus bring Plymouth down. Approaching the roost with Glimmen, he fails a disadvantaged Stealth check with a 10. He recognizes the cavern from Emhet's vision, notes the smaller side has changed slightly, refuses Vecna's request to help retrieve a book, and walks in. His replacement arm and hand are compared to Vecna's; both losses are tied to a battle over an item the party reached first.",
+      "notes": [
+        "He leaves Hanzuni's hoard room at Haven Hold on his own training schedule, with no meeting time set with Elrus or Araden. The regimen has given him one level of exhaustion and disadvantage on ability checks.",
+        "About a week of travel for the party is roughly a month for him under a sevenfold time difference. The others are flying home to meet him. From the party's side at the stronghold, he is expected back in about two days, and Sylan treats an earlier check-in as evidence he is fine.",
+        "He does not go to Carlkin. He meets Elrus and Araden and, after Plymouth finishes an errand, travels with them from Sunder to the training island. He does not remember why they are going until the DM restores the Grixto hideaway lead. Sylan has told him to retreat rather than fight if Grixto is there.",
+        "He rolls a 21 on Perception, finds the hidden ledge and crevice, and investigates. He leaves Araden outside, Elrus as a mental relay, and Plymouth searching the guild stronghold with orders not to wander too far. He signals Elrus by tapping his head.",
+        "He climbs the narrow cliff path into the crevice with his bow drawn, stalking the smell of death. His passive Perception is 18. He hears faint humming and two different stones tapping. He confirms with Elrus that the place should have been unused for centuries, then has Elrus bring Plymouth down while he continues.",
+        "He approaches the roost with Glimmen and fails a disadvantaged Stealth check with a 10; his footsteps echo. He recognizes the cavern as the room from Emhet's vision. The smaller side has changed slightly since that vision. He refuses Vecna's request to help retrieve a book and walks in.",
+        "His own arm and hand are a replacement, compared directly to Vecna's alchemical or mechanical replacement. Both losses are tied to a battle over an item the party reached first."
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Walker is away from the lighthouse on a mission with his dragon, according to Sylan. He confirms they killed Grixto once and still wears Grixto's helmet by choice; Dana says it is the only relic kept from the body and a leading phylactery suspect. In the roost cave he meets Vecna, who is seeking his book. Walker had sent Elrus in behind him. He tells Vecna he is no closer to Galixtar or the book, and that Walker is hunting Grixto, who is with Galixtar. He floats then retracts a book-for-phylactery trade. Unsure of the phylactery and sure the book is not it, he will destroy the Raskina if needed and will not owe Vecna. Recalling Emhet's vision of a young lich and the book, he guesses Valkyrie's skin, rejects killing a sister for power, and stops Vecna when restoration is offered. He knows Valkyries only as warrior-angels and says his family is dead. He takes a miniature Raskina and red quill without a deal. Investigation 11 yields tilted carvings. He thinks Galixtar died before Grixto's lichdom, so Grixto wants the Al Kurin to restore her, and Elrus takes him to the ruined tower; that search is unresolved.",
+      "notes": [
+        "Not at the lighthouse. Sylan says the dragon is away on a mission. Walker briefly confirms that they did kill Grixto once. He took Grixto's helmet and still wears it as a style choice. Dana says it is the only thing he kept from the body, and it is a leading phylactery suspect.",
+        "Finds Vecna waiting in the roost cave, looking for his book. Walker had sent Elrus in behind him. He tells Vecna that Vecna is no nearer to Galixtar or the book, and that he himself is after Grixto, who is with Galixtar.",
+        "Proposes that if he comes to hold the book and Vecna comes to hold the phylactery, they could trade, then walks that back from an agreed exchange. He does not know what the phylactery is, is sure Vecna's book is not it, and says he will destroy the Raskina if it turns out to be the phylactery. Out of character he does not want to be indebted to Vecna.",
+        "Does not remember Emhet's vision at first, then recalls a young lich with the book visible. He guesses the book was made from Valkyrie's skin, refuses any interest in killing a sister for power, and stops Vecna when told the book can restore lost people, things, or beings. He knows Valkyries only in a general warrior-angel sense. He says all his family is dead.",
+        "Agrees it is fair to worry that the darkness in the book may not be worth recovering. He thinks Vecna responds better to a little insolence than to open fear. He is polite and a little sharp in the room, wishes Vecna luck, and admits he was scared once he is out of sight.",
+        "Accepts a miniature Raskina and a red quill despite dreading the bargain, because writing in it is how he can contact Vecna later. He does not close a deal. His Investigation of 11 maps the cave and turns up tilted carvings rather than a phylactery.",
+        "Theorizes that Galixtar died before Grixto became a lich, and that restoring her is why Grixto wants the Al Kurin. He has Elrus take him to the ruined tower because he has an idea about the tilted carvings. From that vantage he starts another investigation, which is not resolved."
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Walker stays alone on the Reach while Ord, Gerk, and Sylan are with Carlkin. He spoke with Vecna, which the DM treats as communication begun and possibly a book club, but he does not want to speak again immediately and will not write in the book to ask if Vecna is still below. His time runs about seven days to each party day: since they left he has lived about eleven days (a little over two for them), and by the practice morning about forty-two of his days have passed after five days and a morning of party time. He promised to check in after one Midgar week, so they are not yet due to hear from him. The party's clock controls the split; when the week ends his remaining time is montaged and he rejoins unless he stops early. In the Dragon Rider guild keep ruins he matches cave drawings to the surface. His sketch of an obelisk, an island, a waterfall, and a mountain is rotated from the old guild tower, and he thinks the record is incomplete; the thread last ended on an earth, wind, sea, and fire sigil, and he found no map, compass, or written plan. A deity-left-the-realm notice brings him and Glimmen back to an empty room. He had not been taught the Weave or ley lines, reads the etchings' shared offset as a clue, and wants the ley-line landmark. He sets the troop markers, pockets the hunched eagle Vecna had been tapping, later hands it over, and guesses it is a tuning fork. He agrees the convergence is the best lead and meditates in the cave with Elrus on Grixto's puzzle until Elrus uses the table; the cutaway leaves him there. He spends energy and takes exhaustion to charge gems that now glow, hoping to learn primal stones. Near a conveyance his wards and shields would be amplified, then fade after he leaves, and untrained channeling could channel him out of existence. He is expected back at the stronghold on Glimmen rather than by carriage, invited to contact the others once told they went south into the forest, with the stronghold ready to feed the dragon.",
+      "notes": [
+        "Spoke with Vecna, which the DM treats as Walker having started communicating with him, and he may now be in a book club with Vecna. He does not want to speak to Vecna again immediately.",
+        "On the Reach alone while Ord, Gerk, and Sylan are with Carlkin. About five days and a morning of party time have passed since they left him; he has lived about eleven days, counted as a little over two days for them. His time runs about seven days to each party day. By the practice morning about forty-two of his days have passed. He promised to check in after one Midgar week of their time, so they are not yet due to hear from him.",
+        "The party's clock controls the split. When their one-week window ends, his remaining time is montaged and he rejoins, unless he stops early.",
+        "He is in the Dragon Rider guild keep ruins, matching cave drawings to the surface. His sketch of an obelisk, an island, a waterfall, and a mountain is rotated from the view at the old guild tower, and he thinks the record is incomplete. His separate thread last ended on an earth, wind, sea, and fire sigil. He found no map, compass, or written plan.",
+        "He left the cave because Vecna was there and will not write in the book to ask if Vecna is still below. A deity-left-the-realm notice brings him and Glimmen back to an empty room.",
+        "He had not been taught the Weave or ley lines. He reads the shared offset of the etchings as a clue and wants to reach the ley-line landmark.",
+        "He set the troop markers on the table, pocketed the hunched eagle Vecna had been tapping, and later hands it over. He asks what an eagle has to do with a mountain or a waterfall, is told nothing, and guesses it is a tuning fork as the scene cuts away.",
+        "He agrees the convergence is the best lead and meditates in the cave with Elrus on Grixto's puzzle. He still does not understand what he was told to look for until Elrus uses the table. The cutaway leaves him in that meditation.",
+        "He has been spending energy and taking exhaustion to charge gems that now glow, and he hopes to learn primal stones. Near a conveyance his wards and shields would be amplified, then fade after he leaves. Untrained channeling could channel him out of existence.",
+        "Expected back at the stronghold on Glimmen rather than by carriage, and invited to contact the others once told they went south into the forest. The stronghold is to be ready to feed the dragon."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T15:15:38.663Z",
+  "updatedAt": "2026-10-06T20:57:05.467Z",
+  "normalizedAliases": [
+    "walker"
+  ]
+}

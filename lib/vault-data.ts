@@ -228,12 +228,38 @@ export function nameToEntitySlug(name: string): string {
     return name.toLowerCase().replaceAll(' ', '_').replace(/[/\\?%*:|"<>']/g, '__');
 }
 
-export function entityJsonFilename(entity: Pick<EntityData, 'name' | 'type'>): string {
-    return `${entity.type.toLowerCase()}--${nameToEntitySlug(entity.name)}.json`;
+/** Plural type folders under vault-data / vault (OTHER stays singular). */
+export const ENTITY_TYPE_FOLDERS: Record<EntityType, string> = {
+    PLAYER: 'players',
+    NPC: 'npcs',
+    ITEM: 'items',
+    LOCATION: 'locations',
+    EVENT: 'events',
+    CONCEPT: 'concepts',
+    GROUP: 'groups',
+    OTHER: 'other',
+};
+
+export const ENTITY_TYPE_FOLDER_NAMES = Object.values(ENTITY_TYPE_FOLDERS);
+
+export function entityTypeFolder(type: EntityType): string {
+    return ENTITY_TYPE_FOLDERS[type];
 }
 
+/** Relative path of the JSON file under vault-data (posix). */
+export function entityJsonFilename(entity: Pick<EntityData, 'name' | 'type'>): string {
+    return path.posix.join(
+        entityTypeFolder(entity.type),
+        `${nameToEntitySlug(entity.name)}.json`,
+    );
+}
+
+/** Relative path of the markdown note under vault (posix). */
 export function entityMarkdownFilename(entity: Pick<EntityData, 'name' | 'type'>): string {
-    return path.join('entities', entity.type.toLowerCase(), `${nameToEntitySlug(entity.name)}.md`);
+    return path.posix.join(
+        entityTypeFolder(entity.type),
+        `${nameToEntitySlug(entity.name)}.md`,
+    );
 }
 
 export function normalizeEntityType(raw: string): EntityType {
@@ -377,7 +403,8 @@ export async function revertSessionFromVault(
 export async function saveEntity(vaultDataFolder: string, entity: EntityData): Promise<string> {
     withNormalizedAliases(entity);
     const filename = entityJsonFilename(entity);
-    const filepath = path.join(vaultDataFolder, 'entities', filename);
+    const filepath = path.join(vaultDataFolder, filename);
+    await fs.mkdir(path.dirname(filepath), { recursive: true });
     console.log(`Saved entity ${entity.name} to ${filepath}`);
     await fs.writeFile(filepath, JSON.stringify(entity, null, 2));
     return filepath;
@@ -457,15 +484,27 @@ export interface LoadedEntity {
 }
 
 export async function loadEntityFiles(vaultDataFolder: string): Promise<LoadedEntity[]> {
-    const entitiesDir = path.join(vaultDataFolder, 'entities');
-    await fs.mkdir(entitiesDir, { recursive: true });
-    const existingEntities = await fs.readdir(entitiesDir, { withFileTypes: true });
     const loaded: LoadedEntity[] = [];
-    for (const file of existingEntities) {
-        if (!file.isFile() || !file.name.endsWith('.json')) continue;
-        const filepath = path.join(entitiesDir, file.name);
-        const entityData = JSON.parse(await fs.readFile(filepath, 'utf8')) as EntityData;
-        loaded.push({ filepath, filename: file.name, entity: entityData });
+    for (const folder of ENTITY_TYPE_FOLDER_NAMES) {
+        const typeDir = path.join(vaultDataFolder, folder);
+        let entries;
+        try {
+            entries = await fs.readdir(typeDir, { withFileTypes: true });
+        } catch (err) {
+            const code = (err as NodeJS.ErrnoException).code;
+            if (code === 'ENOENT') continue;
+            throw err;
+        }
+        for (const file of entries) {
+            if (!file.isFile() || !file.name.endsWith('.json')) continue;
+            const filepath = path.join(typeDir, file.name);
+            const entityData = JSON.parse(await fs.readFile(filepath, 'utf8')) as EntityData;
+            loaded.push({
+                filepath,
+                filename: path.posix.join(folder, file.name),
+                entity: entityData,
+            });
+        }
     }
     return loaded;
 }
@@ -538,7 +577,9 @@ export async function generateVaultData(
     }
 
     await fs.mkdir(path.join(vaultDataFolder, 'log'), { recursive: true });
-    await fs.mkdir(path.join(vaultDataFolder, 'entities'), { recursive: true });
+    for (const folder of ENTITY_TYPE_FOLDER_NAMES) {
+        await fs.mkdir(path.join(vaultDataFolder, folder), { recursive: true });
+    }
 
     let sessionFolders;
     try {

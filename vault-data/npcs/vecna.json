@@ -1,0 +1,60 @@
+{
+  "name": "Vecna",
+  "slug": "Vecna is an elder god of liches who watches from the periphery, pursuing hidden knowledge while reminding others they remain mortal.",
+  "tags": [
+    "deity"
+  ],
+  "aliases": [],
+  "filename": "npcs/vecna.md",
+  "description": "Vecna is an elder god and the god of liches. He is associated with the gathering of powerful divine and supernatural beings, but maintains a somewhat detached presence, observing events from the periphery. He possesses significant knowledge and power, including an apparent interest in books and hidden knowledge. Vecna also recognizes the limits of mortal power, reminding others that even those granted extraordinary abilities and responsibilities remain mortal.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-08-03",
+      "summary": "During the ceremony, Vecna remains positioned around the outside of the dais before leaving the gathering to find a book. He later reminds the party that, despite the new powers and responsibilities they have gained, they are still mortal.",
+      "notes": [
+        "Is positioned around the outside of the dais during the ceremony.",
+        "Leaves the gathering to find a book.",
+        "Reminds the party that despite their new powers and responsibilities, they remain mortal."
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "summary": "Vecna is already waiting in the dragon roost from Emhet's vision, seated at a square slab table of crumbling maps and military-planning figurines, one of which hovers in his hand. The tapping stops as Walker reaches the door, and a faint humming stops seconds later. His face is sullen and white, with amusement under a vague smile, and he sits in a stone chair he dragged through the dust; of the three chairs, one is overturned and one is against the back wall. His hand and arm are an alchemical or mechanical replacement for a limb lost in a battle over an item the party reached first, which the DM compares to Walker's own. He expected Walker sooner and asks Walker to help retrieve his book. Walker refuses. The book is not identified.",
+      "notes": [
+        "He is already waiting in the dragon roost from Emhet's vision, seated at a square slab table of crumbling maps and military-planning figurines. One figurine hovers in his hand. The tapping stops as Walker reaches the door, and a faint humming stops seconds later.",
+        "His face is sullen and white, with amusement under a vague smile. He sits in a stone chair he dragged through the dust. Of the three chairs, one is overturned and one is against the back wall.",
+        "His hand and arm are an alchemical or mechanical replacement for a limb lost in a battle over an item the party reached first. The DM compares that replacement to Walker's own.",
+        "He expected Walker sooner and asks Walker to help retrieve his book. Walker refuses. The book is not identified."
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Walker finds Vecna waiting in the roost, tapping old game pieces, looking for his red-skinned book and for Galixtar after an elder showed the party a vision of the belongings' last known location. He offers the finder boons, says he does not patronize often, and will deal with those who do him a favor. He takes Grixto as the lich and guesses Galixtar is a possessed spirit tied to a piece. He offers to help get the phylactery for the book, then calls the deal one-sided once Walker admits he does not know what the phylactery is, and wants more than the book. He hypothesizes, without asserting it, that the Raskina could be passed off as the phylactery; he agrees the book is not the phylactery, but says it could seek the phylactery or restore what was lost. He says he was not originally a god, treats demigod as semantics tied to followers, and is not an elder. Born in Atlas of the first peoples, not the Navi, he claims a stake in Atlas and sets Voyager gods apart as outsiders. His domains are the undead and secrets, not death; Orcus overlaps on the undead. A farmer's bastard, plotter, thief, and reader, he killed his sister Valkyrie, used her blood as ink, and says the book wrote itself after a void tore in the family and demons followed. He wants the book back as a family reunion, began as a lich, and has transcended lichdom. Godhood, he says, is a checklist of necessity, followers, a domain often stolen, and access to souls; the Raven Queen's grab at undeath was stopped, and she holds death. An unnamed listener suggests Vecna or the book may be why that person's order fell. He gives Walker a miniature of the Raskina with a bright red quill; writing in it is enough for him to answer. No deal is closed. He returns Walker's luck and says to write when Walker is ready.",
+      "notes": [
+        "Walker finds him seated in the roost, semi-relaxed, tapping old game pieces and waiting. He is looking for his red-skinned book and also for Galixtar. He came because an elder of his showed the party a vision of the belongings' last known location. He offers the finder boons, says he does not patronize often, and will deal with those who do him a favor.",
+        "Takes Grixto as the lich and guesses Galixtar is a possessed spirit tied to a piece. He is willing to help Walker get the phylactery in exchange for the book. Once Walker admits he does not know what the phylactery is, Vecna calls the deal one-sided: he would be supplying both identity and location against a book Walker already recognizes. He wants more than the book. He hypothesizes, without asserting it, that the Raskina could be passed off as the phylactery. He agrees the book itself is not the phylactery, and says it could be used to seek the phylactery or to restore what was lost.",
+        "Says he was not originally a god. He is denoted a demigod, which he treats as semantics tied to followers, and he says he is not an elder. He was born in Atlas, of the first peoples, not the Navi, and he claims a stake in keeping Atlas as it should be. He sets Voyager gods apart as outsiders from other pantheons. His claimed domains are the undead and secrets, not death. Orcus has an overlapping claim on the undead.",
+        "Tells his origin as a farmer's bastard whose father died before he could claim land: a plotter, thief, and reader rather than a warrior. He likens that path to Grixto, except that Grixto seems to have had no sister. He killed his sister Valkyrie, skinned her half alive, and used her blood as ink. He cast the runes; the book wrote itself after the act tore a void in the family, and he says he gained knowledge from the demons that followed. He still wants the physical book back and calls its recovery a family reunion. He says he began as a lich and has transcended lichdom, and that the faith of a few followers can outweigh years of magical study.",
+        "Describes godhood as a checklist: doing what is necessary, followers, a domain often stolen from the previous holder, and access to souls. Other gods can block an aspirant. He says the Raven Queen's grab at undeath was stopped, and that she holds death rather than undeath. An unnamed listener suggests Vecna or his book may be why that person's order fell.",
+        "Gives Walker a miniature of the Raskina from the vision, with a bright red quill and no inkwell. Writing in it is enough for Vecna to answer, and he names no further catch. He stays seated on the cave's slab table. When Walker leaves, he asks whether there is a deal, returns Walker's luck, and says to write when Walker is ready. No deal is closed."
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Vecna spoke with Walker in the cave under the Dragon Rider guild ruins, in a conversation tied to the landmark diagram. The DM suggests Walker may now be in a book club with him; Walker refuses to write in the book to ask whether Vecna is still below. Vecna has left the realm: a deity-left notification fires while Walker waits above, and the room is empty when Walker returns. His strong smell has faded to a faint linger, and no manifesto or written plan was left. He left his chair pushed back. In the vision and in Walker's memory he sat tapping a high-ranking hunched-eagle troop marker on and off; that piece stayed on the table, and Walker later pocketed it. He is associated with special rocks, distinct from the ordinary markers scattered in the room.",
+      "notes": [
+        "He talked with Walker in the cave under the Dragon Rider guild ruins, in a conversation tied to the landmark diagram. The DM suggests Walker may now be in a book club with him. Walker refuses to write in the book to ask whether he is still below.",
+        "He has left the realm. A deity-left notification fires while Walker waits above, and the room is empty when Walker returns. His strong smell has faded to a faint linger. No manifesto or written plan was left.",
+        "He left his chair pushed back. In the vision and in Walker's memory he sat tapping a high-ranking hunched-eagle troop marker on and off. That piece stayed on the table; Walker later pocketed it. He is associated with special rocks, distinct from the ordinary markers scattered in the room."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-11T15:58:30.225Z",
+  "updatedAt": "2026-10-06T20:57:18.640Z",
+  "normalizedAliases": [
+    "vecna"
+  ]
+}

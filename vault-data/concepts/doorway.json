@@ -1,0 +1,63 @@
+{
+  "name": "Doorway",
+  "tags": [],
+  "slug": "A fixed supernatural passage between locations",
+  "aliases": [],
+  "normalizedAliases": [
+    "doorway"
+  ],
+  "filename": "concepts/doorway.md",
+  "description": "A supernatural doorway that creates a physical passage between locations.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-08-17",
+      "summary": "Gerk's supernatural doorway can remain fixed in space while the ship moves away from it. Instead of the surrounding ship material breaking, it stretches toward the doorway in a rubber-band-like fashion. The doorway provides a physical passage between the ship and Mahali's location, and moving through the passage feels similar to traveling through thick smoke or water.",
+      "notes": [
+        "Gerk's supernatural doorway can remain fixed in space while the ship moves away from it.",
+        "The surrounding ship material stretches toward the doorway in a rubber-band-like fashion rather than simply breaking.",
+        "The doorway provides a physical passage between the ship and Mahali's location.",
+        "The passage produces a sensation similar to moving through thick smoke or water."
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "Gerk's doorway opening aboard the moving boat triggers the session's central magical mishap: the passage leaves fading glowing edge-lines and ghostly city visions distinct from the later floating spectral door, with that residue nearly gone by the time Ord inspects it. The party concludes that opening a doorway on the ship caused their invisibility and silence and agrees Gerk must not open another door until they reach land.",
+      "notes": [
+        "Gerk's opened portal left fading glowing edge-lines and ghostly city visions separate from the floating spectral door.",
+        "That residue is nearly gone by the time Ord inspects it.",
+        "Opening a doorway on the moving boat caused the invisibility and silence effect.",
+        "The party agrees Gerk must not open another door until they reach land."
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "summary": "Shutting the lighthouse doorway ended it completely, leaving no visible door; the only remaining effect is the smashed cobbles and the hole in the floor. A door opened on something moving stays where it was opened and bends time and space as the opener moves. On a ship it can stay fixed, tear reality, or become a three-way connection; Gerk already opened one on the moving sky ship. Opening with no destination in mind opens into the nothing, the astral, or the gap between arches, and can be mistaken for a chosen place. That is what happened in the lighthouse. Carlkin's rule is not to open doors to unknown places.",
+      "notes": [
+        "Shutting the lighthouse doorway ended it completely. It left no visible door. The only remaining effect is the smashed cobbles and the hole in the floor.",
+        "A door opened on something moving stays where it was opened and bends time and space as the opener moves. On a ship it can stay fixed, tear reality, or become a three-way connection. Gerk already opened one on the moving sky ship.",
+        "Opening with no destination in mind opens into the nothing, the astral, or the gap between arches, and can be mistaken for a chosen place. That is what happened in the lighthouse. Carlkin's rule is not to open doors to unknown places."
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "summary": "Only Gerk can open or shut this doorway, from either side, with no keystone. It is distinct from a keystone gate and from plane shift, dimension door, teleport, and teleportation circles. If never shut, it remains until the space-time continuum collapses. Carlkin forbids practice underwater, in the lighthouse, or in his house; the party prefers woods or a field and avoids crowds and people. He must picture a specific target, never open underwater or while moving, and always close it. From the destination it is a stationary, featureless, door-shaped hole, and sound carries. Guidance 16 outside the tavern opens a quarter mile southwest toward New Navel; a natural 20 on Sylan opens ten feet behind him; thinking of hidden Ciri opens a violent trench; a remembered hallway lands in the barn loft. Force and rage enlarge it to eighteen by seven feet; a gentle attempt is inches wide and still misses. Two doors left open pull a vacuum between them. Matter in the frame becomes semi-translucent and is severed cleanly when the door closes. It is usable three times a day, with recent places as favorites. A hand on a shut door keeps it like a normal door until he lets go.",
+      "notes": [
+        "Distinct from a gatekeeper's keystone gate, and from plane shift, dimension door, teleport, and teleportation circles. It needs no keystone. Only Gerk can open this kind of portal, and only he can shut it. It can be opened and closed from either side, including after he has gone through.",
+        "If it is never shut, it remains a gateway until the space-time continuum collapses. Carlkin forbids practice underwater, in the lighthouse, or in his house, and wants it done in the woods or a large field. The party also avoids crowds and opening onto people. An earlier opening into the kitchen could have cut Mahali; that one was a critical success. A prior use involving the boat was described as ripping something out of reality.",
+        "Practice rules: picture a very specific target, do not think of nothing, never open underwater, always close it, and do not open it while moving. From the destination it is a stationary, featureless, door-shaped hole, compared to a green screen. Sound carries. A perfect opening has no flash, only ambient sound from the origin. While it is open, Gerk can feel the near door and the presence of the far end.",
+        "A Guidance 16 aimed about twenty feet outside the tavern door opens about a quarter mile southwest, near the road to New Navel, with the tavern and most of the stronghold visible. A natural 20 on Sylan, known to be in this realm at a known general location, with an intended offset of about ten feet, opens exactly ten feet behind him.",
+        "A total of 4 while thinking of Ciri, hidden in the forest but not at a known spot, opens onto an unrelated violent trench battlefield. Shutting it restores the forest except for a brimstone-sulfur smell and a black smudge on the grass.",
+        "A Guidance 19 toward a remembered Bouncing Betty upstairs hallway lands about twenty feet off, in the barn loft. Confusion is cited as snapping the exit to the stronger memory. The door then clicks and disappears when shut.",
+        "Opening furiously while raging, Guidance 17, focused on a lantern he is not looking at, produces a door about eighteen feet tall by seven feet wide and exits about a quarter mile south in the same forest. A bird disturbance marks that far end. Matter in the frame, such as canopy branches, becomes semi-translucent and is not destroyed while the door is open. Closing it severs those branches cleanly, with no burn and no debris. Sylan and Ciri can walk to that far end and return through it.",
+        "A normal, non-rage opening on a 9, aimed at a visible point about twenty-five feet away, still produces an eighteen-foot door and lands short, over the lantern. Two doors left open at once pull a vacuum strong enough to suck the lantern from one into the other. Shutting them stops the wind.",
+        "Size follows how it is opened. Force makes it larger. A gentle, low attempt produces an opening about six to eight inches by twelve inches, roughly a foot off the ground, and still misses: meant for open ground about a hundred feet from the house, it opens in the tomato field. The ability is usable three times a day, and recent destinations come up as favorites, which may make a recent place easier.",
+        "While Gerk keeps a hand on a shut door, it stays and acts like a normal door. It does not show the other side. Impacts from the far side are felt through it, and a strong enough hit could push him or fling it open. If his hand is knocked off, it opens to however far it was when he stopped touching it. When he deliberately lets go, the outline dissipates and the passage is gone. He can open these portals seemingly at will, with those caveats, as long as he is the one operating them."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-08-21T18:33:14.728Z",
+  "updatedAt": "2026-10-06T21:04:24.069Z"
+}

@@ -1,4 +1,5 @@
 import type { EntityData, SessionData } from "./vault-data.ts";
+import { loadEntities } from "./vault-data.ts";
 import fs from 'fs/promises';
 import path from 'path';
 import { isDirectRun } from "./is-main.ts";
@@ -21,14 +22,7 @@ export async function generateMarkdown(vaultDataFolder: string, vaultOutputFolde
     await fs.mkdir(vaultOutputFolder, { recursive: true });
     await fs.mkdir(path.join(vaultOutputFolder, 'log'), { recursive: true });
 
-    // load all entity data into list
-    const entityDataList: EntityData[] = [];
-    const entitiesPaths = await fs.readdir(path.join(vaultDataFolder, 'entities'), { withFileTypes: true });
-    for (const entityPath of entitiesPaths) {
-        if (!entityPath.isFile() || !entityPath.name.endsWith('.json')) continue;
-        const entityData = JSON.parse(await fs.readFile(path.join(vaultDataFolder, 'entities', entityPath.name), 'utf8')) as EntityData;
-        entityDataList.push(entityData);
-    }
+    const entityDataList: EntityData[] = await loadEntities(vaultDataFolder);
 
     const linkIndex = buildEntityLinkIndex(entityDataList);
 
