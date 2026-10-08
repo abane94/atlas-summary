@@ -1,15 +1,13 @@
-Welcome to the world of Atlas
-
 ```base
 filters: file.hasProperty("marker")
 views:
   - type: leaflet-map
     name: Map
-    mapName: new-altas-world-map
-    image: images/atlas.png
+    mapName: langdale-region-map
+    image: images/langdale-region.png
     height: 500
     minZoom: -2
     maxZoom: 2
-    defaultZoom: -0.53
+    defaultZoom: -1
     zoomDelta: 0.25
 ```

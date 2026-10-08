@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "mit-gar-map",
-      "lastAccessed": 1791249046122,
+      "lastAccessed": 1791391477574,
       "markers": [
         {
           "id": "ID_2a69798ba978",
@@ -11,7 +11,7 @@
             63.8646240234375,
             51.1400146484375
           ],
-          "link": "Langdale Stronghold",
+          "link": "entities/location/langdale_stronghold",
           "layer": "%5B%5Bmit-gar.png%5D%5D",
           "mutable": true,
           "command": false,

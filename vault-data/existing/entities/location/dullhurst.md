@@ -1,7 +1,7 @@
 ---
 marker:
-  - mapName: new-altas-world-map
-    coordinates: "295, 1475"
+  - mapName: mit-gar-map
+    coordinates: "1016, 1163"
     icon: lucide-map-pin
     colour: "#dddddd"
 ---
@@ -11,11 +11,11 @@ filters: file.hasProperty("marker")
 views:
   - type: leaflet-map
     name: Map
-    mapName: mit-gar-map
-    image: images/mit-gar.png
+    mapName: dullhurst-map
+    image: images/dalhurst.png
     height: 500
     minZoom: -2
     maxZoom: 2
-    defaultZoom: -1.51
+    defaultZoom: -1
     zoomDelta: 0.25
 ```

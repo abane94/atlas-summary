@@ -55,6 +55,12 @@ export interface EntityData {
      */
     normalizedAliases: string[];
     filename: string;
+    /**
+     * Optional path under `vault-data/existing/` for a hand-written note when it
+     * does not already live at `filename`. Generation reads this path only; it
+     * never moves the file onto `filename`.
+     */
+    existingFile?: string;
     description: string;
     type: 'PLAYER' | 'NPC' | 'ITEM' | 'LOCATION' | 'EVENT' | 'CONCEPT' | 'GROUP' | 'OTHER';
     log: {
