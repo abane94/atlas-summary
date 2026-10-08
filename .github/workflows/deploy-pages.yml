@@ -32,6 +32,9 @@ jobs:
         with:
           node-version: "22"
 
+      - name: Install dependencies
+        run: npm i
+
       - name: Generate vault markdown
         run: node lib/generate-markdown.ts
 
