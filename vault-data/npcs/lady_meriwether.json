@@ -1,0 +1,27 @@
+{
+  "name": "Lady Meriwether",
+  "tags": [
+    "undead"
+  ],
+  "slug": "Undead woman of the white dragon hoard, named Lady Meriwether.",
+  "aliases": [],
+  "normalizedAliases": [
+    "lady meriwether"
+  ],
+  "filename": "npcs/lady_meriwether.md",
+  "description": "Undead woman associated with the white dragon hoard. Dana names her Lady Meriwether from her notes on that hoard, and the table traces the name to Merryweather.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "While reading her notes from the white dragon hoard, Dana names the undead woman tied to it Lady Meriwether. The table traces the name to Merryweather.",
+      "notes": [
+        "Undead woman associated with the white dragon hoard. Dana names her Lady Meriwether while reading the hoard notes. The table traces the name to Merryweather."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:31:27.835Z",
+  "updatedAt": "2026-10-19T20:51:02.637Z"
+}

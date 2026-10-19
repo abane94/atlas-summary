@@ -1,0 +1,262 @@
+{
+    "plotSections": [
+        {
+            "title": "Overcharging a heat stone",
+            "bullets": [
+                "Walker asks whether a stone that already has a magical property can take more magic. Plymouth says that in a free state it would be highly unstable, would take a great deal of energy to contain, and could damage the caster or the item; too much energy in an item that cannot hold it will simply fail.",
+                "Walker produces his heat stone and a keystone. Plymouth refuses any attempt to add magic to the keystone.",
+                "The heat stone only keeps its bearer warm. Plymouth says more fire magic might be poured into it, then examines it: he rolls it over and pinches it lengthwise before handing it back. It works as advertised, but without proper containment any added energy would make it implode immediately. Walker drops the idea."
+            ]
+        },
+        {
+            "title": "Where the heat stones came from",
+            "bullets": [
+                "The party remembers buying the heat stones because it was cold, in one of the -heim lands, on the way up toward Jotunheim and the seeing stones. Plymouth confirms they were bought in Agenheim.",
+                "The seller was Nyx Cage the Ice Mage. He would have discounted the stones if the party went to Helheim and stole a peace treaty between the people of Helheim (the goliaths) and the giants. They remember the offer and did not take it.",
+                "No one had kept his name. Walker allows that Nyx Cage could be an alias; Plymouth finds the name shady and does not know him."
+            ]
+        },
+        {
+            "title": "The shifted obelisk",
+            "bullets": [
+                "The party is already at the obelisk. Walker had said it was shifted off the ley line. His notes put the mountain to the west and the obelisk to the north, about twenty degrees off the center; the drawings themselves are gone.",
+                "Plymouth says they have traveled roughly 5.6 miles. Facing back toward the guild, the ley line sits to the right of the obelisk, about a hundred yards. Walker treats the twenty-degree figure as far too large."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker asks if more magic can be added to a stone that is already magical. Plymouth warns that forcing more magic in, especially in a free state, is unstable and can destroy the caster or the item.",
+        "Walker shows a heat stone and a keystone. Plymouth forbids adding anything to the keystone and says the heat stone might accept more fire magic.",
+        "The party cannot remember which -heim they bought the heat stones in. Plymouth says Agenheim, from Nyx Cage the Ice Mage, who wanted them to steal a Helheim–giant peace treaty for a discount. They never did the job.",
+        "Plymouth examines the heat stone and tells Walker not to add magic: without containment it would implode. Walker abandons the plan.",
+        "At the obelisk, Walker reconstructs the shift from notes: mountain west, obelisk north, about twenty degrees off center. Plymouth places the ley line about a hundred yards to the right of the obelisk when facing the guild, after roughly 5.6 miles of travel."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen; Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Carries a heat stone bought in Agenheim from Nyx Cage the Ice Mage, and a keystone.",
+                "Proposed adding more magic to the heat stone, then dropped it after Plymouth said the stone would implode.",
+                "Is working the obelisk’s offset from the ley line beside the dragon-rider guild. He recalled about twenty degrees from notes (mountain west, obelisk north); the position Plymouth gives is about a hundred yards to the right when facing the guild."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who explains the keystones and guides the keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Present at the obelisk. Refuses any experiment that would add magic to a keystone.",
+                "Examines Walker’s heat stone and rules that extra magical energy, without proper containment, would make it implode immediately.",
+                "Names the seller as Nyx Cage the Ice Mage in Agenheim and places the true ley line about a hundred yards to the right of the obelisk when facing the guild."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats overloading magical items as dangerous and not worth attempting on a keystone or this heat stone."
+            ],
+            "quotesThemes": [
+                "Without proper containment, putting more magical energy into the heat stone would make it implode immediately."
+            ],
+            "openQuestions": []
+        },
+        "Heat stone": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Also called a warming stone or fire stone. Keeps the bearer warm. Walker still has his.",
+                "Bought in Agenheim from Nyx Cage the Ice Mage, because the party was cold. A discount was offered for stealing a peace treaty in Helheim; they paid without doing the job.",
+                "Plymouth confirms it does what it is supposed to. Adding more fire magic is theoretically possible, but without proper containment this stone would implode immediately. He told Walker not to try."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nyx Cage": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Ice mage in Agenheim who sold the party their heat stones.",
+                "Offered a discount if they went to Helheim and stole the peace treaty between the people of Helheim (goliaths) and the giants. The party did not do it.",
+                "The party had forgotten his name. Walker suggests it may be an alias; Plymouth finds the name shady and does not know him."
+            ],
+            "titles": [
+                "the Ice Mage"
+            ],
+            "personality": [
+                "Willing to trade warming stones for espionage or theft against Helheim’s peace settlement."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is Nyx Cage the Ice Mage his real name, or an alias?"
+            ]
+        },
+        "Agenheim": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Where the party bought their heat stones from Nyx Cage the Ice Mage.",
+                "Remembered as one of the -heim stops on the cold journey up toward Jotunheim."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helheim": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "Nyx Cage wanted the party to go there and steal a peace treaty between its people (the goliaths) and the giants. They did not."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Jotunheim": {
+            "existing": "Homeland of the Juten, associated with Sylan’s meditation that revealed Gerk as a destined keeper.",
+            "entityType": "Location",
+            "notes": [
+                "Sylan remembers the party traveling up to Jotunheim after a -heim landing because that is where the seeing stones were."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sitting Stones": {
+            "existing": "A place Sylan has passed through, tied to the Navi and another person’s role.",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan recalls the seeing stones as the reason they drove up to Jotunheim after landing in a -heim."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas’s Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Plymouth refuses to consider cramming additional magic into Walker’s keystone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "Dragon Rider guild training grounds near the Lost Isles.",
+            "entityType": "Location",
+            "notes": [
+                "The party is at a shifted obelisk near the guild. Facing back toward the guild, the ley line is about a hundred yards to the right of the obelisk. Walker’s notes put a mountain to the west and the obelisk to the north."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "cramming it in the can",
+            "likely": "cramming it in",
+            "notes": "Plymouth describing forcing more magic into an item; “can” may be capacity or a stray syllable."
+        },
+        {
+            "heard": "free state",
+            "likely": "",
+            "notes": "Plymouth: adding magic “in a called free state like this” would be most unstable. Unclear if this is a real magical condition."
+        },
+        {
+            "heard": "Eckenheim",
+            "likely": "Agenheim",
+            "notes": "Walker and Sylan’s name for the -heim where they landed and think they bought the heat stones. Plymouth later says Agenheim."
+        },
+        {
+            "heard": "economine",
+            "likely": "Agenheim",
+            "notes": "Sylan’s other try at the heat-stone purchase place, just before Plymouth confirms Agenheim."
+        },
+        {
+            "heard": "Hymes",
+            "likely": "Agenheim",
+            "notes": "Plymouth echoing Walker’s “one of the Heims,” then rejecting it before naming Agenheim."
+        },
+        {
+            "heard": "beam",
+            "likely": "heim",
+            "notes": "Sylan: “What was that beam?” while the table is naming the -heim lands."
+        },
+        {
+            "heard": "hidden sound",
+            "likely": "",
+            "notes": "Sylan: there might be a “hidden sound” they don’t know about while recalling the -heim route. Possibly a hidden town or realm."
+        },
+        {
+            "heard": "seeing stones",
+            "likely": "Sitting Stones",
+            "notes": "Sylan: they drove up to Jotunheim because that is where the seeing stones were."
+        },
+        {
+            "heard": "shades and trades",
+            "likely": "",
+            "notes": "Ord asks if the heat-stone seller will be “shades and trades.” Sylan and Plymouth both say no. May be a shop or prior vendor name."
+        },
+        {
+            "heard": "field trade",
+            "likely": "",
+            "notes": "Sylan: “That’s where I got the field trade,” while remembering Nyx Cage wanting a document stolen. Context is the declined peace-treaty job."
+        },
+        {
+            "heard": "ice maid",
+            "likely": "Ice Mage",
+            "notes": "Gerk: “an ice maid wanted to give us a hot rock,” about Nyx Cage the Ice Mage."
+        },
+        {
+            "heard": "intriguy",
+            "likely": "intriguing",
+            "notes": "Plymouth’s reaction while examining the heat stone."
+        }
+    ],
+    "openQuestions": [
+        "Is Nyx Cage the Ice Mage his real name, or an alias?"
+    ],
+    "newTerms": [
+        {
+            "name": "Heat stone",
+            "notes": [
+                "Warming stone, also called a fire stone. Keeps the bearer warm. The party’s were bought from Nyx Cage the Ice Mage in Agenheim. This one must not be overloaded; without containment it would implode."
+            ]
+        },
+        {
+            "name": "Nyx Cage the Ice Mage",
+            "notes": [
+                "Agenheim seller of the heat stones. Offered a discount for stealing the Helheim–giant peace treaty. Name may be an alias."
+            ]
+        },
+        {
+            "name": "Agenheim",
+            "notes": [
+                "-heim where the heat stones were purchased. Party memory also uses Eckenheim for the landing before Jotunheim."
+            ]
+        },
+        {
+            "name": "Helheim",
+            "notes": [
+                "Realm whose peace treaty with the giants Nyx Cage wanted stolen. Its people were described as goliaths. The party declined."
+            ]
+        },
+        {
+            "name": "Helheim–giant peace treaty",
+            "notes": [
+                "Treaty between the people of Helheim (goliaths) and the giants. Nyx Cage asked the party to steal it in exchange for a discount on the heat stones. They did not."
+            ]
+        }
+    ]
+}

@@ -2,8 +2,7 @@
   "name": "Gerk",
   "slug": "Gerk is a half-orc barbarian Doorman and Child of the Great Eldarin Tree who opens Arch doorways and keeps the Midgard keystone.",
   "tags": [
-    "title",
-    "artifact"
+    "title"
   ],
   "aliases": [],
   "filename": "players/gerk.md",
@@ -157,6 +156,19 @@
         "He refuses to have a key put on or near him and says he will not fall for that trick again. He will not try a doorway to Sylan's sister after the failed reach toward Ciri.",
         "He can feel a door he has opened and the presence of its far end. He does not know what magic the door uses or how close he can place one. He shuts the battlefield door at once, cuts the tomato plant free, holds the shut door while something rams it, then lets go rather than reopen it onto the growling thing. He rides home instead of portaling to the stronghold."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Gerk practices doorways from different directions while Ciri throws rocks and says the Doorman ability seems fine after Sylan pushed him to rein it in. Someone adept has helped, but he will not say if he has always had the ability. His heat stone is a hot rock he puts in his pants; a loose primal stone cannot make fire until set in an object that releases energy. Ord's strength lost to the Grunkle is hidden inside him, and restoration or greater restoration cannot return it, because you cannot restore what is not missing. Sylan remembered the uncle punching it out of him. Within 30 feet of the lantern he fails a Wisdom save totaling 8. Blinded, he hears spirits sucked in, considers a door to light, and stays blind through the beacon and aftermath, whirling his hammer without attacking, terrified his eyes are all he has. Tremorsense feels an approach; he suspects a mimic, and his only note is that he does not trust the cat man. He touches Sylan's face. Lesser restoration restores his sight. He hugs and lifts Sylan, asks what they did to his eyes, and, having heard voices before, is furious Sylan haunted him. He tells Sylan to do the New Navel ghost work at Carlkin's house.",
+      "notes": [
+        "Practices doorways by opening them from different directions while Ciri throws rocks at him. He says the day of training is going well and the Doorman ability seems fine. Sylan had pushed him to rein the ability in. He says someone has been adept at helping with his doorway problems, and that the recent help has been useful. He does not answer whether he has had the ability the entire time.",
+        "Returns to the tavern with the others and has nothing special planned there. He treats his heat stone as a hot rock he puts in his pants. A loose primal stone would not let him create fire; it has to be set into an object that releases the energy.",
+        "The strength Ord lost to the Grunkle is hidden inside Gerk. Restoration and greater restoration cannot return it. The clue is that you cannot restore what is not missing. Sylan first remembered the uncle punching the strength out of Gerk.",
+        "Stays at the door-testing spot in the shade and watches the lantern trial. Within 30 feet he looks toward the light and fails a Wisdom save: 3 plus about +5 from Ord's nearby ward, total 8, against a DC that must break 10. He is blinded, on the ground, and can hear the spirits being sucked in. He considers opening a door to light.",
+        "He remains blind through the beacon and the aftermath, screaming and whirling his hammer overhead to keep things away. He is not moving to attack. He says he is terrified and that his eyes are all he has. He will not stop.",
+        "Tremorsense lets him feel someone approaching. He suspects a mimic and demands proof. The one note he has written down is 'I don't trust the cat man.' He holds the hammer ready in one hand and reaches with the other to touch Sylan's face.",
+        "Lesser restoration restores his sight. He recognizes Sylan, hugs him, and lifts him up, then asks what they did to his eyes. He has had voices in his head before and is furious at the idea Sylan haunted him. He says he cannot afford to be haunted. He tells Sylan to do the New Navel ghost work at Carlkin's house."
+      ]
     }
   ],
   "openQuestions": [
@@ -169,7 +181,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:01:01.004Z",
-  "updatedAt": "2026-10-06T21:00:02.046Z",
+  "updatedAt": "2026-10-19T20:51:02.639Z",
   "normalizedAliases": [
     "gerk"
   ]

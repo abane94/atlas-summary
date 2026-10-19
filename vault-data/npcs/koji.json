@@ -1,6 +1,8 @@
 {
   "name": "Koji",
-  "tags": [],
+  "tags": [
+    "companion"
+  ],
   "slug": "A stronghold guard who will relocate to the tavern during the evacuation.",
   "aliases": [],
   "normalizedAliases": [
@@ -16,10 +18,18 @@
       "notes": [
         "Is named as one of the guards who will evacuate the stronghold and relocate to the tavern."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Koji's name is the one written on the keep's people map. While the party tries to identify the little white monkey, the DM gives that name as the monkey's father. Ord keeps confusing him with Benji. Sylan does not remember him well and has not spent much time with him.",
+      "notes": [
+        "His name is the one written on the keep's people map. The DM gives it as the father of the little white monkey while the party tries to identify that figure.",
+        "Ord keeps confusing him with Benji. Sylan does not remember him well and has not spent much time with him."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:38:59.731Z",
-  "updatedAt": "2026-08-21T18:38:59.731Z"
+  "updatedAt": "2026-10-19T20:51:02.636Z"
 }

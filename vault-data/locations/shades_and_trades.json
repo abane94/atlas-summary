@@ -1,0 +1,27 @@
+{
+  "name": "Shades and Trades",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "Where Sylan found the staff later fused to Ord's lantern.",
+  "aliases": [],
+  "normalizedAliases": [
+    "shades and trades"
+  ],
+  "filename": "locations/shades_and_trades.md",
+  "description": "Shades and Trades is where Sylan found the staff later fused to Ord's lantern, and where the DM believes that lantern was identified.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Sylan recalls finding the staff here that was later fused to Ord's lantern, and the DM believes the lantern was identified at Shades and Trades. Sylan wonders aloud whether the place's records have been updated.",
+      "notes": [
+        "Where Sylan found the staff later fused to Ord's lantern. The DM believes the lantern was identified here. Sylan wonders aloud whether the place's records have been updated."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:34:40.685Z",
+  "updatedAt": "2026-10-19T20:51:02.633Z"
+}

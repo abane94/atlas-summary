@@ -1,7 +1,8 @@
 {
   "name": "Araden",
   "tags": [
-    "companion"
+    "companion",
+    "dragon-rider"
   ],
   "slug": "A magically capable companion brought secretly to The Reach.",
   "aliases": [],
@@ -41,10 +42,18 @@
         "She cannot fit into the crevice and stays outside. She can raise a giant ruckus if Walker needs help. Digging the crevice open would take her a long time, so Elrus is the faster backup.",
         "The largest cliff roosts are about the size of the entrance to her roost."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Araden arrives with Glimmen near Langdale Stronghold as a dragon several sizes larger than Glimmen. The village, used to Glimmen alone, buzzes at the second dragon. Araden is cited as agreeing to leave the Grazog trip and go toward the forest disturbance, then flies with Walker and Glimmen after Dana and matches pace over the beacon.",
+      "notes": [
+        "A dragon several sizes larger than Glimmen. Arrives with Glimmen near Langdale Stronghold. The village, used to Glimmen alone, buzzes at the second dragon.",
+        "Cited as agreeing to leave the Grazog trip and go toward the forest disturbance. Flies with Walker and Glimmen after Dana and matches pace over the beacon."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:15:19.932Z",
-  "updatedAt": "2026-09-22T19:57:12.775Z"
+  "updatedAt": "2026-10-19T20:51:02.634Z"
 }

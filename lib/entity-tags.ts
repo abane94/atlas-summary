@@ -4,16 +4,22 @@
  */
 
 export const CLOSED_ENTITY_TAGS = [
-    // People
+    // People / roles
     "deity",
     "companion",
     "antagonist",
-    // Lore / roles
+    "vendor",
+    "dragon-rider",
+    // Creatures
+    "dragon",
+    // Lore
     "title",
     "prophecy",
     "spell",
+    "alchemy",
     // Places
     "realm",
+    "region",
     "settlement",
     "landmark",
     // Objects / groups

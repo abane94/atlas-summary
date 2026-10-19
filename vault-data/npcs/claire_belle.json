@@ -1,0 +1,27 @@
+{
+  "name": "Claire Belle",
+  "tags": [],
+  "slug": "The neighbor Ledzbika accuses of stealing his family's silver.",
+  "aliases": [],
+  "normalizedAliases": [
+    "claire belle"
+  ],
+  "filename": "npcs/claire_belle.md",
+  "description": "Claire Belle is the woman Ledzbika names as living next door. He calls her a conniving liar who stole from him and his family, including silver kept under the floorboards, and blames her for his children starving. Whether she is the thief he describes is unknown.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Ledzbika names Claire Belle as the woman next door and calls her a conniving liar who stole from him and his family, including silver kept under the floorboards, and blames her for his children starving. She does not appear.",
+      "notes": [
+        "Named by Ledzbika as the woman next door. He calls her a conniving liar who stole from him and his family, including silver kept under the floorboards, and blames her for his children starving."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Whether Claire Belle is the thief Ledzbika describes."
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:32:50.705Z",
+  "updatedAt": "2026-10-19T20:32:50.706Z"
+}

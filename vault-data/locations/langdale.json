@@ -1,7 +1,9 @@
 {
   "name": "Langdale",
   "slug": "Langdale is the forested region the party calls home, identified by its distinctive flora, fauna, and landmarks like an oddly angled old tree.",
-  "tags": [],
+  "tags": [
+    "region"
+  ],
   "aliases": [],
   "filename": "locations/langdale.md",
   "description": "Langdale is the region the party calls home. It is characterized by forests whose flora and fauna are recognizable as belonging to the area, including distinctive landmarks such as an old, oddly angled tree known from previous travels.",
@@ -36,7 +38,7 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T17:41:02.926Z",
-  "updatedAt": "2026-09-22T19:53:58.436Z",
+  "updatedAt": "2026-10-19T20:51:02.632Z",
   "normalizedAliases": [
     "langdale"
   ]

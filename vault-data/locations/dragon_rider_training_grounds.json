@@ -51,6 +51,13 @@
         "Below is the cave room where Vecna had been sitting: wall etchings and a flat stone table about four feet by four feet. Walker will not go back down until he believes Vecna is gone.",
         "Plymouth is on site taking etchings and doing scribe work."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "The convergence obelisk stands north of the guild hall. Facing back toward the guild, the true ley line lies about a hundred yards to the right of the obelisk. Walker's notes place a mountain to the west.",
+      "notes": [
+        "The convergence obelisk is north of the guild hall. Facing back toward the guild, the true ley line is about a hundred yards to the right of the obelisk. Walker's notes put a mountain to the west."
+      ]
     }
   ],
   "openQuestions": [
@@ -58,5 +65,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:28:00.057Z",
-  "updatedAt": "2026-10-06T20:58:14.281Z"
+  "updatedAt": "2026-10-19T20:26:09.956Z"
 }

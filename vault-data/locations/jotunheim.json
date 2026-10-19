@@ -15,6 +15,13 @@
       "notes": [
         "Sylan performed a meditation in Jotunheim that revealed Gerk as the child described in his journal and as a keeper who would open doors."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Sylan remembers that after the landing at Agenheim, the party traveled up to Jotunheim because that is where the seeing stones were.",
+      "notes": [
+        "Sylan remembers the party traveling up to Jotunheim after the Agenheim landing because that is where the seeing stones were."
+      ]
     }
   ],
   "openQuestions": [
@@ -22,7 +29,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:22:34.403Z",
-  "updatedAt": "2026-08-21T19:23:48.058Z",
+  "updatedAt": "2026-10-19T20:26:30.636Z",
   "normalizedAliases": [
     "jotunheim"
   ]

@@ -1,0 +1,202 @@
+{
+    "plotSections": [
+        {
+            "title": "Where the last session left off",
+            "bullets": [
+                "In the cave, Walker talked with Vecna, waited until Vecna left, and kept investigating. He learned what a convergence on ley lines is, along with other pieces of his current situation.",
+                "The rest of the party finished with Carlkin, drank at the pub, and the next morning went out to explore.",
+                "Last session's openings were not fixed: size and location could vary with motivation, abilities, and durability, and the openings interact with the surroundings and with each other.",
+                "Play resumes at midday on the seventh day. There are two short activity windows before Walker's training montage in the power-chamber situation he has found himself in."
+            ]
+        },
+        {
+            "title": "Convergence, Nyx, and the gold eagle",
+            "bullets": [
+                "Walker plans to go to the convergence. He lands on calling the site an obelisk after trying pyramid and monolith.",
+                "Elrus advised the convergence because it lights up the map. The other lead is Elrus's table in Nyx, to see whether it adds information or holds another gold eagle marker.",
+                "The markers where Elrus was living, in the cave, were generic and not the fancy gold eagle.",
+                "Walker is flying toward the convergence and has picked up Plymouth, who missed the earlier discoveries. Walker is unsure Plymouth has anything further to add."
+            ]
+        },
+        {
+            "title": "Primal stones",
+            "bullets": [
+                "Walker describes pouring his fire energy into a special stone, now named a primal stone, and setting it in a sword hilt so the sword deals fire damage and magic damage. The DM confirms that as the broad strokes of what he was told.",
+                "With a good enough roll, and with Elrus's help, Walker may now be able to make one himself. Ley-line convergences make the work easier and take much less effort, which is why convergences are sought after.",
+                "Walker turns to Elrus and asks what the perk of a primal stone is, beginning to describe using his energy to imbue one. This chunk ends before Elrus answers."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The DM recaps the cave: Walker spoke with Vecna, waited for him to leave, investigated further, and learned what a ley-line convergence is.",
+        "The other party members finished with Carlkin, spent a night drinking at the pub, and set out to explore the next morning.",
+        "The DM recaps that openings could be made at different sizes and locations depending on motivation, abilities, and durability, and that they interact with the surroundings and each other.",
+        "It is midday on the seventh day, with two activity windows left before Walker's training montage.",
+        "Walker chooses the convergence obelisk. Elrus recommended it because it lights up the map, and Walker also wants to check Elrus's table in Nyx for more information or another gold eagle.",
+        "The cave where Elrus was living had only generic markers, not a gold eagle.",
+        "Walker confirms primal stones: fire energy imbued into a stone, then set in a sword, yields fire and magic damage. The DM agrees in broad strokes and says convergences make the crafting much easier, possibly doable by Walker himself with Elrus's help.",
+        "Flying toward the convergence with Plymouth aboard, Walker asks Elrus what the perk of a primal stone is. The chunk cuts off as he starts to describe imbuing the stone."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Last session he spoke with Vecna in the cave, waited for Vecna to leave, and learned what a ley-line convergence is.",
+                "He is heading for the convergence obelisk on Elrus's advice, and also wants Elrus's table in Nyx checked for another gold eagle or more information.",
+                "He is flying toward the convergence and has picked up Plymouth.",
+                "His training montage in the power-chamber situation is still ahead, after two short activity windows. It is midday on the seventh day.",
+                "He understands a primal stone as fire energy poured into a stone and set in a sword hilt for fire and magic damage, and he may be able to make one himself at a convergence with Elrus's help."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "He asks Elrus what the perk of a primal stone is; this chunk ends before the answer."
+            ]
+        },
+        "Vecna": {
+            "existing": "Elder god of liches who watches from the periphery and pursues hidden knowledge.",
+            "entityType": "NPC",
+            "notes": [
+                "Spoke with Walker in the cave last session, then left. Walker investigated further after he was gone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "He thought the party should go to the convergence because it lights up the map.",
+                "His table in Nyx is a lead for more information or another gold eagle marker.",
+                "Where he was living, in the cave, the markers were generic rather than a fancy gold eagle.",
+                "He can help Walker make primal stones. With a good enough roll, Walker may be able to do it himself now that he knows what they are."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who explains the Great Eldarin Tree, keystones, and Mother's Prayer.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker has picked him up on the flight toward the convergence. He missed the earlier discoveries, and Walker is unsure he has anything further to add."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nyx": {
+            "existing": "Nyx may hold hobgoblins who know where the lich is hiding.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Elrus has a table in Nyx. The plan is to check it on return for more information or another gold eagle marker."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ley line": {
+            "existing": "Lines of magic that gatehouses sit on.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A convergence on ley lines was identified last session.",
+                "Ley-line convergences make creating primal stones easier and with much less effort, which is why convergences are sought after.",
+                "The convergence the party is flying toward lights up the map. Walker calls the site an obelisk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Primal stone": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A special stone Walker can pour his fire energy into. Set in a sword hilt, it is understood to grant that sword fire damage and magic damage.",
+                "Easier to make on a ley-line convergence, with much less effort. Walker may be able to make one himself with Elrus's help if he rolls well enough.",
+                "Walker asks Elrus what the perk is. The explanation is not in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the perk of imbuing a primal stone, beyond the broad fire-and-magic weapon effect already confirmed?"
+            ]
+        },
+        "Doorway": {
+            "existing": "A fixed supernatural passage between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Last session, openings could be made at different sizes and locations. The result depended on motivation, abilities, and durability, and was not cut and dry.",
+                "They interact with the surroundings and with each other."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Beckna Vecna",
+            "likely": "Vecna",
+            "notes": "DM recap of the cave conversation with Walker."
+        },
+        {
+            "heard": "Vecnant",
+            "likely": "Vecna",
+            "notes": "Same recap: they waited for him to leave the cave."
+        },
+        {
+            "heard": "Karlkin",
+            "likely": "Carlkin",
+            "notes": "The other party members finished their conversation with him."
+        },
+        {
+            "heard": "D Man",
+            "likely": "",
+            "notes": "DM: the previous session ended with this person, then play starts on Walker. Unclear hearing."
+        },
+        {
+            "heard": "Alarist",
+            "likely": "Elrus",
+            "notes": "Walker says Alarist thought the convergence was a good idea."
+        },
+        {
+            "heard": "Alarissa",
+            "likely": "Elrus",
+            "notes": "DM: primal stones are easier with Alarissa's help, in the same breath as Elrus advising the convergence."
+        },
+        {
+            "heard": "gold eagle",
+            "likely": "hunched eagle marker",
+            "notes": "Walker wants another gold eagle at Elrus's table in Nyx. The cave markers were generic, not this."
+        }
+    ],
+    "openQuestions": [
+        "What is the perk of a primal stone? Walker asks Elrus and starts to describe imbuing one with his energy; the chunk ends before the answer."
+    ],
+    "newTerms": [
+        {
+            "name": "Primal stone",
+            "notes": [
+                "A stone imbued with a caster's energy, such as Walker's fire, that can be set into a weapon. In broad strokes a sword set with one deals that energy's damage and magic damage.",
+                "Much easier to create at a ley-line convergence. Walker may be able to make one with Elrus's help."
+            ]
+        },
+        {
+            "name": "Ley line convergence",
+            "notes": [
+                "A convergence on ley lines. Walker learned what one is last session. The site they are flying to lights up the map, and Walker calls it an obelisk.",
+                "Convergences are sought after because primal stones take much less effort there."
+            ]
+        }
+    ]
+}

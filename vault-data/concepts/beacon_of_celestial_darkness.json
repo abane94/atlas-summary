@@ -1,0 +1,27 @@
+{
+  "name": "Beacon of celestial darkness",
+  "tags": [],
+  "slug": "A column of felt darkness that rises while the active staff is held.",
+  "aliases": [],
+  "normalizedAliases": [
+    "beacon of celestial darkness"
+  ],
+  "filename": "concepts/beacon_of_celestial_darkness.md",
+  "description": "Also called a beacon of eternal blackness, a beacon of blackness, and a pillar of darkness. It is a swirling column of ink, almost light, with a shadowy wave that can be felt passing through everything.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "It erupts from the treeline at the door-testing grounds when Sylan grabs the active staff, and it keeps rising while Ord and Sylan have their hands together on it. Walker and Dana both witness it from the stronghold. Dana flies toward it, and Walker, Elrus, Araden, and Glimmen divert from the Grazog trip to follow. When Sylan lets go, the beacon disappears. A faint outline lingers for a few blinks, and the clearing dies in light.",
+      "notes": [
+        "Also called a beacon of eternal blackness, a beacon of blackness, and a pillar of darkness. It erupts from the treeline at the door-testing grounds when Sylan grabs the active staff, and it keeps rising while Ord and Sylan have their hands together on it.",
+        "It looks like a swirling column of ink, almost light, with a shadowy wave that can be felt passing through everything. Walker and Dana both witness it from the stronghold. Dana flies toward it, and Walker, Elrus, Araden, and Glimmen divert from the Grazog trip to follow.",
+        "When Sylan lets go, the beacon disappears. A faint outline lingers for a few blinks, and the clearing dies in light."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:40:30.507Z",
+  "updatedAt": "2026-10-19T20:40:30.507Z"
+}

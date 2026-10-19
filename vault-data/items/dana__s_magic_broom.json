@@ -1,0 +1,28 @@
+{
+  "name": "Dana's magic broom",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Dana's magic broom from the white dragon hoard, flying 50 feet.",
+  "aliases": [],
+  "normalizedAliases": [
+    "danas magic broom"
+  ],
+  "filename": "items/dana__s_magic_broom.md",
+  "description": "Dana's magic broom, taken from the white dragon hoard. It is the magic item she wrote down for herself from that treasure. Its flight is 50 feet.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Dana leaves the tower on the broom toward the beacon. Glimmen overtakes her. Afterward she stomps through the group smacking people with it.",
+      "notes": [
+        "Dana received it from the white dragon hoard. It is the magic item she wrote down for herself from that treasure.",
+        "Its flight is 50 feet. She leaves the tower on it toward the beacon and is overtaken by Glimmen. Afterward she stomps through the group smacking people with it."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:39:35.409Z",
+  "updatedAt": "2026-10-19T20:51:02.629Z"
+}

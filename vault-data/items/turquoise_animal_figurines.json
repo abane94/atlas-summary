@@ -1,0 +1,27 @@
+{
+  "name": "Turquoise animal figurines",
+  "tags": [],
+  "slug": "Turquoise animal figurines from the white dragon's hoard.",
+  "aliases": [],
+  "normalizedAliases": [
+    "turquoise animal figurines"
+  ],
+  "filename": "items/turquoise_animal_figurines.md",
+  "description": "Turquoise animal figurines kept in a box in the white dragon's hoard.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "A box of turquoise animal figurines was in the white dragon hoard. Ord inspected them and left them behind. Sylan thinks they might turn into creatures.",
+      "notes": [
+        "A box of them was in the white dragon hoard. Ord inspected them and left them behind. Sylan thinks they might turn into creatures."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Do the turquoise animal figurines animate or transform?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:39:15.692Z",
+  "updatedAt": "2026-10-19T20:39:15.692Z"
+}

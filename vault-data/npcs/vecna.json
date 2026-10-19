@@ -48,12 +48,19 @@
         "He has left the realm. A deity-left notification fires while Walker waits above, and the room is empty when Walker returns. His strong smell has faded to a faint linger. No manifesto or written plan was left.",
         "He left his chair pushed back. In the vision and in Walker's memory he sat tapping a high-ranking hunched-eagle troop marker on and off. That piece stayed on the table; Walker later pocketed it. He is associated with special rocks, distinct from the ordinary markers scattered in the room."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Vecna spoke with Walker in the cave last session, then left. After he was gone, Walker investigated the cave further.",
+      "notes": [
+        "Spoke with Walker in the cave last session, then left. Walker investigated further after he was gone."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:58:30.225Z",
-  "updatedAt": "2026-10-06T20:57:18.640Z",
+  "updatedAt": "2026-10-19T20:10:35.726Z",
   "normalizedAliases": [
     "vecna"
   ]

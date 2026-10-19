@@ -1,0 +1,337 @@
+{
+    "plotSections": [
+        {
+            "title": "Gerk's hidden strength",
+            "bullets": [
+                "The fight with Gerk's uncle, the Grunkle, ended with the uncle dying after he had taken some of Gerk's strength. Sylan remembered it as the uncle punching the strength out of Gerk.",
+                "A floating orb then appeared. Dana was involved as it solidified into a runic bead, or a sphere with a rune written on it.",
+                "Dana has already tried the restoration magic available to her, including greater restoration. It did not bring the strength back.",
+                "The clue they recovered still holds: you can't restore what isn't missing. The strength is hidden inside Gerk, not gone.",
+                "Sylan suggested finding a monk who might explain what that fight did to Gerk. The party set that aside to deal with the staff first."
+            ]
+        },
+        {
+            "title": "Who lives in the keep",
+            "bullets": [
+                "Sylan asked for a list of people living in the keep and guessed there were about twenty. The party could not name them. The DM checked maps and found the roster on a different map than the one in front of him.",
+                "Mahali is still the cook.",
+                "Their secrets man, remembered only as the rat or the rack guy, is not around. Sylan thought he had taken leave without asking. The DM said the party needs to remember where they left him. They had chosen him for his resourcefulness.",
+                "A small white monkey may be a monk or a special fighter. Ord treated that figure as the little one and asked for the father's name. They almost called him Benji. The DM identified the name on the notes as Koji. Sylan does not remember spending time with Koji.",
+                "A little gold person who makes something gold is Ord's roommate. The name came through as Banshee, then Archie, and the table settled on Ponchi."
+            ]
+        },
+        {
+            "title": "White dragon hoard and the fused lantern-staff",
+            "bullets": [
+                "Ord went out to the woods to speak an inscription he knows but does not have written down, on the lantern fused to the staff.",
+                "Sylan asked whether the two pieces could be tried separately. Ord thought they had fused and could not be separated. The DM confirmed they fused.",
+                "The names they could produce were garbled: staff of the lantern keeper, and lantern of the staff keeper. Sylan does not have the lantern on his sheet. Ord has seen a shadowy ethereal vision from it.",
+                "The pieces came from the white dragon's hoard. The DM's notes date that haul to November 3 of last year.",
+                "Dana's treasure notes list coin, about two dozen gemstones of various values, art objects of various values, and mundane goods, plus four or five magic items. She personally received a magic broom and a set of bone dice, and did not have the other magic items written down.",
+                "Also in that hoard: a small shrine with a statuette, a brazier, and an altar dedicated to a god of dragon minions; a scroll with a poem; the skull of a fiend or celestial; seven candlesticks marked with a holy symbol; and a gold birdcage, which Sylan gave to the crew."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party revisited Gerk's lost strength. His uncle, the Grunkle, died at the end of that fight after taking some of the strength, and a floating orb solidified into a rune-marked bead or sphere.",
+        "They confirmed restoration, including greater restoration, has failed because the strength is hidden in Gerk rather than missing.",
+        "Sylan proposed consulting a monk about the fight. The party turned instead to the staff.",
+        "They tried to name who lives in the keep: Mahali the cook, a missing secrets operative, Koji as father of the little white monkey, and Ponchi as the small gold roommate.",
+        "Ord went to the woods to recite the inscription on the lantern fused to the staff. The DM confirmed the two items are fused.",
+        "Dana read back the white dragon hoard from November 3 of last year, including her broom and bone dice, the shrine to a god of dragon minions, and the gold birdcage Sylan gave the crew."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Some of his strength was taken by his uncle in the fight that ended with the uncle's death.",
+                "The strength is hidden inside him. Restoration and greater restoration cannot return it, matching the clue that you cannot restore what is not missing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk's uncle": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Called the Grunkle. The battle with him ended in his death.",
+                "He took some of Gerk's strength. Sylan remembers it as him punching the strength out of Gerk.",
+                "After that, a floating orb appeared and solidified into a runic bead or rune-marked sphere, with Dana involved in that moment."
+            ],
+            "titles": [
+                "Grunkle"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Runic bead": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Formed when a floating orb solidified after the Grunkle took some of Gerk's strength. Described as a runic bead or a sphere with a rune written on it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric, Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Her restoration spells, including greater restoration, have not recovered Gerk's hidden strength. She is the one who had the clue that you cannot restore what is not missing.",
+                "From the white dragon's hoard she received a magic broom and a set of bone dice. She had catalogued the coins, gems, art, and mundane goods, but not the other magic items."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "You can't restore what's not missing."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He suggested a monk might be able to explain what the Grunkle's fight did to Gerk.",
+                "He gave the gold birdcage from the white dragon's hoard to the crew.",
+                "The fused lantern is not on his sheet. He remembered one of the fused pieces by a garbled name, staff of the lantern keeper."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He went to the woods to speak the inscription on the fused lantern-staff from memory.",
+                "He has seen a shadowy ethereal vision from that fused item.",
+                "Ponchi is his roommate."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Koji": {
+            "existing": "Stronghold guard who was going to relocate to the tavern during the evacuation.",
+            "entityType": "NPC",
+            "notes": [
+                "Named from the DM's notes while the party tried to identify the father of the little one, a small white monkey who might be a monk or a special fighter.",
+                "Sylan does not remember him well and has not spent much time with him. The party briefly confused him with Benji."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "White monkey": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Small figure at the keep. Sylan could not remember whether he is a monk or a special fighter. Ord called him the little one and asked for his father's name, which the DM gave as Koji."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the white monkey a monk or a special fighter?"
+            ]
+        },
+        "Ponchi": {
+            "existing": "Stronghold guard who was going to relocate to the tavern.",
+            "entityType": "NPC",
+            "notes": [
+                "Ord's roommate. Remembered as a little gold person who makes something involving gold. The name was misheard as Banshee and Archie before the table landed on Ponchi."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mikkel": {
+            "existing": "Spymaster crew member, often left behind when the party departs.",
+            "entityType": "NPC",
+            "notes": [
+                "The party discussed their secrets man without landing on a name, calling him the rat and the rack guy. Sylan thought he had gone on vacation without requesting it. The DM said they have to remember where they left him. They chose him for his resourcefulness."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Where did the party leave their secrets man?"
+            ]
+        },
+        "Fused lantern-staff": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A lantern and a staff from the white dragon's hoard, now fused so they cannot be separated. Taken November 3 of last year, by the DM's notes.",
+                "The party could not recover the real name. Attempts included staff of the lantern keeper and lantern of the staff keeper.",
+                "Ord is trying to recite an inscription he remembers but has not written down. He has seen a shadowy ethereal vision associated with it. Sylan does not have the lantern on his sheet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the actual name of the fused staff and lantern?"
+            ]
+        },
+        "White dragon's hoard": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Looted hoard dated in the DM's notes to November 3 of last year.",
+                "Contained coin, about two dozen gemstones of various values, art objects of various values, mundane goods, and four or five magic items.",
+                "Specific pieces called out: Dana's magic broom, a set of bone dice, a shrine with a statuette, a brazier, and an altar to a god of dragon minions, a scroll with a poem, the skull of a fiend or celestial, seven candlesticks with a holy symbol, a gold birdcage later given to the crew, and the lantern now fused to the staff."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "God of dragon minions": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Unnamed god. The white dragon's hoard included a small shrine with a statuette, a brazier, and an altar dedicated to a god of dragon minions."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Ord",
+            "likely": "orb",
+            "notes": "The floating thing after the Grunkle fight that solidified into a runic bead or rune-marked sphere."
+        },
+        {
+            "heard": "the rack guy",
+            "likely": "Mikkel",
+            "notes": "Secrets operative the party could not name. Same beat as the rat."
+        },
+        {
+            "heard": "the rat",
+            "likely": "Mikkel",
+            "notes": "Our man, our secrets. DM told them to remember where they left him."
+        },
+        {
+            "heard": "Banshee",
+            "likely": "Ponchi",
+            "notes": "DM naming the little gold roommate. Ord then said Ponchi is his roommate."
+        },
+        {
+            "heard": "Archie",
+            "likely": "Ponchi",
+            "notes": "Ord's first correction of the roommate's name, immediately followed by Ponchy."
+        },
+        {
+            "heard": "brazor",
+            "likely": "brazier",
+            "notes": "Shrine piece in the white dragon hoard, with a statuette and an altar."
+        },
+        {
+            "heard": "horde",
+            "likely": "hoard",
+            "notes": "Dana confirming the loot was the white dragon's hoard."
+        },
+        {
+            "heard": "staff the lantern keeper",
+            "likely": "",
+            "notes": "Sylan's attempt at the fused item's name. DM agreed it was in the right direction, then the table slid into the reversed joke name."
+        },
+        {
+            "heard": "lantern of the staff keeper",
+            "likely": "",
+            "notes": "Ord's reversed joke name. DM echoed lantern of the staff keep. Real name still unknown."
+        }
+    ],
+    "openQuestions": [
+        "What is the actual name of the lantern fused to the staff?",
+        "Is the small white monkey a monk or a special fighter?",
+        "Where did the party leave their secrets man?"
+    ],
+    "newTerms": [
+        {
+            "name": "Grunkle",
+            "notes": [
+                "Gerk's uncle. Died at the end of the fight in which he took some of Gerk's strength."
+            ]
+        },
+        {
+            "name": "Runic bead",
+            "notes": [
+                "Rune-marked bead or sphere that a floating orb solidified into after that fight."
+            ]
+        },
+        {
+            "name": "White monkey",
+            "notes": [
+                "Small keep resident, possibly a monk or special fighter, treated as the child of Koji."
+            ]
+        },
+        {
+            "name": "Fused lantern-staff",
+            "notes": [
+                "Lantern and staff from the white dragon hoard, fused and inseparable. Inscription known to Ord but not written down. Associated with a shadowy ethereal vision."
+            ]
+        },
+        {
+            "name": "God of dragon minions",
+            "notes": [
+                "Unnamed god with a shrine in the white dragon hoard: statuette, brazier, and altar."
+            ]
+        },
+        {
+            "name": "Dana's magic broom",
+            "notes": [
+                "Magic item Dana received from the white dragon hoard."
+            ]
+        },
+        {
+            "name": "Bone dice",
+            "notes": [
+                "Set of bone dice Dana received from the white dragon hoard."
+            ]
+        },
+        {
+            "name": "Gold birdcage",
+            "notes": [
+                "From the white dragon hoard. Sylan gave it to the crew."
+            ]
+        },
+        {
+            "name": "Hoard shrine",
+            "notes": [
+                "Small shrine from the white dragon hoard with a statuette, a brazier, and an altar to a god of dragon minions."
+            ]
+        },
+        {
+            "name": "Hoard poem scroll",
+            "notes": [
+                "Scroll with a poem from the white dragon hoard. Contents not read in this chunk."
+            ]
+        },
+        {
+            "name": "Fiend or celestial skull",
+            "notes": [
+                "Skull of a fiend or celestial from the white dragon hoard."
+            ]
+        },
+        {
+            "name": "Seven candlesticks",
+            "notes": [
+                "Set of seven candlesticks with a holy symbol, from the white dragon hoard."
+            ]
+        }
+    ]
+}

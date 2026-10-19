@@ -1,0 +1,27 @@
+{
+  "name": "Trigash Forest",
+  "tags": [
+    "region"
+  ],
+  "slug": "Forest outskirts where the session ends, with a beacon and spirits that stay back.",
+  "aliases": [],
+  "normalizedAliases": [
+    "trigash forest"
+  ],
+  "filename": "locations/trigash_forest.md",
+  "description": "A forest. The session ends with the party on its outskirts, which the DM identifies with the southern stream clearing.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "The session ends on the outskirts of Trigash Forest, which the DM names for clarity. The black beacon, Ord's wireframe sight, and the lurking spirits are all placed here. Silhouettes stayed about sixty feet out and did not close in, and what the spirits want is left unresolved.",
+      "notes": [
+        "The session ends on the outskirts of Trigash Forest, which the DM names for clarity. The black beacon, Ord's wireframe sight, and the lurking spirits are all placed here. Silhouettes stayed about sixty feet out and did not close in. What the spirits want is left unresolved."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:35:54.550Z",
+  "updatedAt": "2026-10-19T20:51:02.634Z"
+}

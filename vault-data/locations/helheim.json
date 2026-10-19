@@ -1,0 +1,27 @@
+{
+  "name": "Helheim",
+  "tags": [
+    "settlement"
+  ],
+  "slug": "Home of goliaths who hold a peace treaty with the giants, which the party was asked to steal and never visited.",
+  "aliases": [],
+  "normalizedAliases": [
+    "helheim"
+  ],
+  "filename": "locations/helheim.md",
+  "description": "Helheim is home to people described as goliaths who have a peace treaty with the giants.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Nyx Cage offered the party a discount on heat stones if they went to Helheim and stole a peace treaty between its people, described as goliaths, and the giants. The party did not take the job and did not go.",
+      "notes": [
+        "Destination of the untaken job for Nyx Cage: steal a peace treaty between the people of Helheim, described as goliaths, and the giants. The party did not go."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:34:17.231Z",
+  "updatedAt": "2026-10-19T20:51:02.632Z"
+}

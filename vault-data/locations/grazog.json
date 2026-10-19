@@ -1,0 +1,25 @@
+{
+  "name": "Grazog",
+  "tags": [],
+  "slug": "A destination Walker names, then abandons for the forest beacon.",
+  "aliases": [],
+  "normalizedAliases": [
+    "grazog"
+  ],
+  "filename": "locations/grazog.md",
+  "description": "Grazog is a name Walker gives as his next destination after dropping Plymouth Gawater at New Navel. The session never says what Grazog is.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Walker says he will drop Plymouth Gawater at New Navel and then go to Grazog, and the DM confirms that plan. When the forest beacon appears, Walker tells Elrus the plan has changed. They leave the Grazog trip and fly after Dana. Nothing further is said about Grazog.",
+      "notes": [
+        "Walker's intended next stop after dropping Plymouth Gawater at New Navel. He abandons that trip when the forest beacon appears. Nothing further is said about Grazog."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:35:00.844Z",
+  "updatedAt": "2026-10-19T20:35:00.844Z"
+}

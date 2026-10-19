@@ -1,0 +1,301 @@
+{
+    "plotSections": [
+        {
+            "title": "Back at the tavern",
+            "bullets": [
+                "Sylan greets Ciri as if she has just returned from a trip. Ciri insists she has been here the whole time and has not gone anywhere.",
+                "Asked whether her royalty situation is sorted, Ciri says she does not know, then that she is still royal, and that she is apparently a hell of a bar owner. Sylan has not been to the bar often but thinks it is doing well. Ciri tells him not to worry about the bar.",
+                "Dana, catching up after time away, notices a map mark labeled bees. Sylan and the DM tie that mark to a short, successful hive adventure that supplied the tavern brewery’s mead. Sylan remembers a crew of about three and guesses Walker, Ord, or a younger Gerk; the DM says it was Sylan, Patty, and at least one other person.",
+                "Dana is unsure whether she is at the brewery or elsewhere. The table tells her she can be at the bar with Ben, in the forest with the others, or at the convergence. She chooses the bar.",
+                "With their training session finished, Sylan, Gerk, and the others head for the pub or the keep to find Dana. Gerk says the recent help has been useful for figuring out his issues. Sylan hopes Dana has recovered from the visit to Carlkin; she was there for the first part, and Sylan thinks the party sometimes embarrasses her.",
+                "They arrive at the bar while Dana is quietly playing. She waves and keeps playing. Sylan plans a night at the tavern, morning prep, and a meeting with Walker tomorrow in hopes Walker has more information. Gerk has nothing special planned. Sylan intends to talk with Ord about a lantern and staff Sylan got for him, hoping Ord works out how to use them."
+            ]
+        },
+        {
+            "title": "Primal stones and the cosmic loom",
+            "bullets": [
+                "Walker’s flight is short. He and Plymouth reach an island where an obelisk stands north of the guild hall. Plymouth had asked about a cosmic loom; Walker knows nothing about it.",
+                "Plymouth describes the loom as a magical item they cannot make, at least not quickly. Primal stones can be worked into items as fire protection, offensive fire, or both, depending on how many stones they have, how valuable the set is, and how the stones are set. A blanket or, better, a ring could instead be a utility item that gives warmth in extreme cold.",
+                "Walker already has a warmth item, can breathe underwater, and has darkvision. He wants a stone set in his helmet for night vision or heat sight, and ultimately vision through magical darkness. He does not want to spend the jewelry he worked hard to make.",
+                "Plymouth says yes, with time and a very powerful primal stone. Separating light from fire and also detecting heat is complex. Multiple stones would be easier: one for light, one for heat detection, and possibly a third whose illusion magic is reversed to help pierce magical darkness, which he describes as coming from an inverse illusion or an absence of light. Creating the stones is not enough; the cosmic loom is required to set them into an item. He bases that on Elrus’s explanation and on how ley lines work.",
+                "Walker wants the helmet badly, but Plymouth says Walker’s training matters more. Asked why they are still going to the convergence, Plymouth calls it a rare, highly magical landmark that would be hard to see again for a very long time and that experiencing it would greatly help Walker’s training.",
+                "Walker is still unsure about primal stones. Plymouth has no gems or diamonds. He forgot most of his equipment, bought only bits and bobs in Sunder, and is carrying powdered dragon liver."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan assumes Ciri has returned from a journey; Ciri says she has been here the entire time.",
+        "Ciri says her royalty situation is complicated, that she is still royal, and that she is a successful bar owner. The bar seems to be doing well.",
+        "Dana notices a map mark for bees. The group ties it to a one-session hive adventure that supplied the tavern’s mead hives. The DM identifies Sylan and Patty among that short crew.",
+        "Dana does not know where her character is and chooses the bar. The others finish training and travel back to meet her at the pub or the keep.",
+        "The party reaches the bar while Dana is playing. They plan to spend the rest of the day there, prepare in the morning, and see Walker tomorrow. Sylan plans to ask Ord about the lantern and staff Sylan gave him.",
+        "Walker and Plymouth finish a short flight to an island with an obelisk north of the guild hall. Walker knows nothing about the cosmic loom Plymouth asked about.",
+        "Plymouth explains primal stones: they can be set for fire protection, offensive fire, or utility such as warmth, according to the number, value, and setting of the stones.",
+        "Walker proposes imbuing his helmet for night vision, heat vision, and sight through magical darkness without using his personal jewelry. Plymouth says it is possible but complex, easier with multiple powerful stones, and that a cosmic loom is required to set the stones.",
+        "Plymouth says the convergence is a rare, highly magical landmark worth the trip because it will help Walker’s training. Walker remains undecided about primal stones. Plymouth has no gems, only Sunder odds and ends and powdered dragon liver."
+    ],
+    "entities": {
+        "Ciri": {
+            "existing": "Half-elf rogue and Lith keystone keeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Insists she has been with the group the whole time and has not traveled away.",
+                "Says she is still royal, while also saying she does not know whether the royalty matter is sorted.",
+                "Calls herself a hell of a bar owner. Sylan thinks the bar is doing well despite his rare visits."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "I've been here this entire time.",
+                "Don't worry, I'm still royal.",
+                "And apparently a hell of a bar owner."
+            ],
+            "openQuestions": [
+                "Has Ciri’s royalty situation actually been sorted out?"
+            ]
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is placed at the party bar after time away from the group’s recent scenes.",
+                "Was present for the first part of the visit to Carlkin.",
+                "Quietly plays music at the bar and waves to the others as they enter, then keeps playing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Training session is finished; he leads the group back toward Dana at the pub or the keep.",
+                "Was on the short hive adventure with Patty that supplied the tavern mead.",
+                "Plans a tavern night, morning preparation, and a meeting with Walker tomorrow.",
+                "Intends to talk to Ord about a lantern and staff Sylan got for him, hoping they work."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Returns to the tavern with the others after training and has nothing special planned there.",
+                "Says the recent help has been useful for figuring out his issues."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "On a short flight with Plymouth to an island where an obelisk is north of the guild hall, en route to a convergence.",
+                "Knows nothing about a cosmic loom.",
+                "Already has a warmth item, can breathe underwater, and has darkvision. He wants his helmet imbued for night vision, heat vision, and sight through magical darkness.",
+                "Will not use his personal jewelry for the work; he considers it special.",
+                "Is undecided about pursuing primal stones. The party at the tavern expects to see him tomorrow."
+            ],
+            "titles": [],
+            "personality": [
+                "Wants to see anything he wants to see, including through magical darkness, and is impatient with limits on that idea."
+            ],
+            "quotesThemes": [
+                "I want to be the darkness.",
+                "I just want to be able to see anything I want to see."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan got him a lantern and a staff and plans to talk with him about them, hoping Ord figures them out."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and ally who guides the keystone keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Flying with Walker. He asked whether Walker knew of a cosmic loom.",
+                "Explains primal stones and says a cosmic loom is required to set them into an item. He cannot make a loom, and it would take time.",
+                "Draws on Elrus’s explanation and his own knowledge of ley lines.",
+                "Has no gems or diamonds. He forgot most of his equipment, bought bits and bobs in Sunder, and has powdered dragon liver.",
+                "Tells Walker the convergence is a rare, highly magical landmark that will help his training more than the helmet project."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker’s hidden ally.",
+            "entityType": "NPC",
+            "notes": [
+                "Has been explaining ley lines to Plymouth in connection with creating primal stones and needing a cosmic loom to set them into items."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Patty": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Named by the DM as a member of the short crew, with Sylan, on the hive adventure that supplied the tavern’s mead. The rest of the crew is not named."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "cosmic loom": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A magical item Plymouth says is required to set primal stones into equipment.",
+                "The group cannot make one, and doing so would take time. Walker had never heard of it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "primal stones": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Stones used to imbue items. Effect depends on how many there are, the value of the set, and how they are set.",
+                "Options described include fire protection, a blade that lights on fire, a blade that burns red hot, both at once, or a utility effect such as warmth from a ring or blanket.",
+                "A helmet effect for light, heat detection, and sight through magical darkness would take a very powerful stone or, more easily, multiple stones: one for light, one for heat detection, and possibly a third using reversed illusion magic.",
+                "Plymouth says they can be created, but a cosmic loom is needed to set them into an item. He is carrying none."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "convergence": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "A rare, highly magical landmark Plymouth says Walker will not readily see again for a very long time.",
+                "Experiencing it is meant to help Walker’s training. Walker hopes it is primal enough to support making stones. Dana is also told she could be there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "powdered dragon liver": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Plymouth is carrying powdered dragon liver, along with small purchases from Sunder, after forgetting most of his equipment."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "meatline",
+            "likely": "mead line",
+            "notes": "Ciri is describing the tavern brewery’s mead, just after the bee-hive story."
+        },
+        {
+            "heard": "B adventure",
+            "likely": "bee adventure",
+            "notes": "Sylan is describing the trip where they found bees and hives."
+        },
+        {
+            "heard": "a shovel",
+            "likely": "the stronghold",
+            "notes": "Dana asks whether she is at the brewery or at this other place. Uncertain hearing."
+        },
+        {
+            "heard": "Krug you",
+            "likely": "crowd",
+            "notes": "Piano Man lyric while Dana plays: the regular crowd shuffles in."
+        },
+        {
+            "heard": "wave the data",
+            "likely": "wave to Dana",
+            "notes": "Sylan waves as the party enters the bar where Dana is playing."
+        },
+        {
+            "heard": "Orn",
+            "likely": "Ord",
+            "notes": "Sylan wants to talk to him about a lantern and staff."
+        },
+        {
+            "heard": "email stone",
+            "likely": "primal stone",
+            "notes": "Plymouth says the helmet effect needs a very powerful one."
+        },
+        {
+            "heard": "elf offensive magics",
+            "likely": "else offensive magics",
+            "notes": "The alternative to fire protection from an item made with the stones."
+        },
+        {
+            "heard": "defeats",
+            "likely": "feats",
+            "notes": "Plymouth calls Walker’s proposed helmet effects quite the feats."
+        },
+        {
+            "heard": "absinthe",
+            "likely": "absence",
+            "notes": "Plymouth says magical darkness comes from an inverse illusion or an absence of light."
+        }
+    ],
+    "openQuestions": [
+        "Has Ciri’s royalty situation been sorted out? She says both that she does not know and that she is still royal."
+    ],
+    "newTerms": [
+        {
+            "name": "Patty",
+            "notes": [
+                "Companion named by the DM on the short hive adventure with Sylan. The rest of that crew is cut off."
+            ]
+        },
+        {
+            "name": "cosmic loom",
+            "notes": [
+                "Magical item required to set primal stones into gear. Plymouth says they cannot make one, and it would take time."
+            ]
+        },
+        {
+            "name": "primal stones",
+            "notes": [
+                "Imbuing stones for fire protection, offensive fire, warmth, light, heat detection, or piercing magical darkness. Number, value, and setting determine the result. A cosmic loom is needed to set them."
+            ]
+        },
+        {
+            "name": "convergence",
+            "notes": [
+                "Rare, highly magical landmark Walker and Plymouth are traveling to. Plymouth says experiencing it will aid Walker’s training."
+            ]
+        },
+        {
+            "name": "powdered dragon liver",
+            "notes": [
+                "A reagent Plymouth still has after leaving most of his equipment behind."
+            ]
+        }
+    ]
+}

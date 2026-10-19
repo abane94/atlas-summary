@@ -1,0 +1,25 @@
+{
+  "name": "Gold birdcage",
+  "tags": [],
+  "slug": "A gold birdcage from the white dragon hoard that Sylan gave to the crew.",
+  "aliases": [],
+  "normalizedAliases": [
+    "gold birdcage"
+  ],
+  "filename": "items/gold_birdcage.md",
+  "description": "A gold birdcage from the white dragon's hoard. Sylan gave it to the crew.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "While Dana reads her notes on the white dragon's hoard, she lists a gold birdcage among the pieces. Sylan recalls that he gave it to the crew.",
+      "notes": [
+        "From the white dragon hoard. Sylan gave it to the crew."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:39:52.565Z",
+  "updatedAt": "2026-10-19T20:39:52.565Z"
+}

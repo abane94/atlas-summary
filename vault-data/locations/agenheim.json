@@ -1,0 +1,27 @@
+{
+  "name": "Agenheim",
+  "tags": [
+    "settlement"
+  ],
+  "slug": "A cold -heim stop where the party landed and bought heat stones from Nyx Cage on the way to Jotunheim.",
+  "aliases": [],
+  "normalizedAliases": [
+    "agenheim"
+  ],
+  "filename": "locations/agenheim.md",
+  "description": "Agenheim is one of the -heim stops on the way toward Jotunheim. It was cold when the party landed there, and Nyx Cage the Ice Mage sold them heat stones.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "The party remembers Agenheim as the -heim where they landed and bought heat stones from Nyx Cage the Ice Mage because it was cold, before continuing toward Jotunheim.",
+      "notes": [
+        "Where the party landed and bought heat stones from Nyx Cage the Ice Mage, because it was cold, before continuing toward Jotunheim. Remembered as one of the -heim stops on that journey."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:33:56.325Z",
+  "updatedAt": "2026-10-19T20:33:56.325Z"
+}

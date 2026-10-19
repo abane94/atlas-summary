@@ -1,0 +1,246 @@
+{
+    "plotSections": [
+        {
+            "title": "Phylactery timing",
+            "bullets": [
+                "The party weighs destroying a phylactery in the open versus keeping it secret. Sylan worries the lich can simply make another and shrug the loss off.",
+                "Dana states the phylactery must be destroyed to destroy the lich, and that they then have to kill the lich before he forms a new one.",
+                "Sylan expects that holding the soul would make the lich easier to find. Dana agrees that is a fair assumption.",
+                "Sylan questions whether the thing Walker has been wearing is actually a phylactery, and whether wearing it has corrupted Walker. Walker brushes it off. Sylan remembers the first time Walker put it on as questionable."
+            ]
+        },
+        {
+            "title": "The fused lantern, recalled",
+            "bullets": [
+                "The DM pulls them back to an item he believes was identified at Shades and Trades. Neither he nor Ord can produce the original inscription. The DM has the two component items and the date they were combined, and calls the missing inscription deep lore.",
+                "On November 3 (campaign year 25), Ord experimented with the item and looked into the Ethereal Plane. That result was rushed aside because the previous session ended with someone arriving carrying a finger in a box.",
+                "Asked for the phrase that ignites it, Ord offers an improvised lantern oath beginning “Brightest day in darkness.” The DM says they will workshop the real incantation.",
+                "The components are a Staff of the Lantern Bearer and a Lantern of Revealing. They fused in an impromptu working after the inscription on the lantern was read, as if the two items were already drawn together."
+            ]
+        },
+        {
+            "title": "Ethereal sight in the woods",
+            "bullets": [
+                "Ord and Sylan are in a wooded strip, away from everyone else. Sylan had said he would look away. The DM recalls that the last activation blinded Ord. Ord closes his eyes this time.",
+                "The forest flashes. For Ord the effect is also an audible tone. He then sees the world in grayscale, semi-opaque and ghostly: the Ethereal Plane, with shadows moving through the woods that were not visible before.",
+                "The lantern burns a desaturated blue. Ord’s eyes match it: flat color, no pupils, with a little smoke when he blinks.",
+                "Sylan appears several shades darker than the surroundings. About half a dozen cloudy figures mill around him, half above him and half passing through him.",
+                "Ord tells Sylan what he sees, wonders whether the sight pierces magical darkness, and slowly brings the staff toward the nearest figure without quite touching it."
+            ]
+        },
+        {
+            "title": "The figures take the lantern",
+            "bullets": [
+                "The nearest being startles, looks from the lantern to Ord, and reaches for it. Its face is gaunt, its eyes crazed, and its body only half solid and semi-translucent, but it can grip the crook of the staff and tries to wrench it away.",
+                "Ord holds on and asks whether it can hear him and who it is.",
+                "A wail answers inside his head rather than through the air. As the being screams, its edges fray and dematerialize like burning paper. The other five turn, howl, and move toward the lantern.",
+                "Sylan asks if Ord is all right. Ord indicates that he is."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party plans to destroy the phylactery and kill the lich before he can make another, and considers that possessing the soul would make him easier to find.",
+        "Sylan questions whether what Walker has been wearing is a phylactery and whether it has corrupted him. Walker does not answer directly.",
+        "The DM cannot recover the inscription from the item identified at Shades and Trades. His notes place Ord’s ethereal experiment on November 3, immediately after a session in which someone arrived with a finger in a box.",
+        "Ord improvises an ignition phrase. The DM sets the real incantation aside to workshop later.",
+        "In the woods, away from the others, Ord activates the fused Staff of the Lantern Bearer and Lantern of Revealing. Sylan looks away. Ord closes his eyes, having gone blind the last time.",
+        "Ord perceives the Ethereal Plane in grayscale. Shadows move in the woods. His eyes and the lantern glow desaturated blue.",
+        "Sylan shows darker than the ghostly surroundings, with about six cloudy figures drifting around and through him.",
+        "Ord extends the staff toward the nearest figure. It grabs the crook and tries to pull the lantern free. Its face is gaunt and its form only half solid.",
+        "Ord asks who it is. A wail sounds inside his head. The figure’s edges burn away, and the other five howl and advance on the lantern."
+    ],
+    "entities": {
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Argues for destroying the phylactery carefully, in case the lich can replace it, and thinks holding the soul would make the lich easier to locate.",
+                "Suspects the item Walker has been wearing may be a phylactery and remembers Walker’s first time putting it on as questionable.",
+                "Stands with Ord in a forest strip and looks away for the activation.",
+                "On the Ethereal Plane he appears several shades darker than the woods, with about half a dozen cloudy figures milling half above and half through him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether the lantern’s sight can see through magical darkness."
+            ]
+        },
+        "Dana": {
+            "existing": "Half-elf cleric.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Says a lich is destroyed by destroying the phylactery, provided they kill him before he makes a new one.",
+                "Agrees that having the soul should make the lich easier to find."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has been wearing an item Sylan suspects may be a phylactery. Sylan says the first time Walker put it on was questionable. Walker deflects when asked if he has been corrupted by it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "“Wouldn’t you like to know?” when asked about corruption from the item he has been wearing."
+            ],
+            "openQuestions": [
+                "Whether the item Walker has been wearing is a phylactery, and whether wearing it has corrupted him."
+            ]
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "On November 3 (campaign year 25) he experimented with the lantern item and saw into the Ethereal Plane. He knew there was an inscription and does not remember it.",
+                "The last activation blinded him. This time he closes his eyes. Activation registers for him as an audible tone plus a flash, and he does not go blind in this use.",
+                "While the lantern is lit, the world is grayscale, semi-opaque, and ghostly, and he can see shadows in the woods that were hidden before. His eyes lose their pupils, glow the same desaturated blue as the lantern, and trail a little smoke when he blinks.",
+                "He tells Sylan about the figures, extends the staff toward the nearest one, holds on when it grabs the crook, and asks if it can hear him and who it is. A wail answers inside his head."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the original inscription and true ignition phrase are.",
+                "Whether this sight works through magical darkness."
+            ]
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Dana: destroying the phylactery is required to destroy the lich, and the lich must then be killed before he can make a replacement.",
+                "Sylan: possessing the soul should make the lich easier to find, and doing the destruction in broad daylight versus in secret is still undecided.",
+                "Sylan separately suspects an item Walker has been wearing may itself be a phylactery."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether to destroy the phylactery openly or in secret.",
+                "Whether the item Walker wears is a phylactery."
+            ]
+        },
+        "Staff of the Lantern Bearer": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "One of two items the party combined. Fused with a Lantern of Revealing after the inscription on the lantern was read, in a short impromptu working. The DM describes them as already polarized or magnetized toward each other.",
+                "Identified, by the DM’s recollection, at Shades and Trades. The inscription is not in his current notes.",
+                "When lit, the lantern portion glows a desaturated blue. Ethereal beings can take hold of the crook and pull on it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What inscription was read to fuse the staff and the lantern, and what phrase actually ignites it."
+            ]
+        },
+        "Lantern of Revealing": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "The identified item mashed together with the Staff of the Lantern Bearer. The fusion was triggered by reading the inscription on the lantern.",
+                "Active sight shows the Ethereal Plane as grayscale, semi-opaque material, including otherwise unnoticed shadows. It is unconfirmed whether that sight penetrates magical darkness.",
+                "Contact agitates the cloudy figures around Sylan. The one that grabs it starts to dematerialize at the edges, like paper burning, while it screams."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether the lantern sees through magical darkness."
+            ]
+        },
+        "Shades and Trades": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "Where the DM believes the lantern items were identified. Sylan wonders aloud whether the place’s records have been updated."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ethereal figures around Sylan": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Ethereal beings",
+            "notes": [
+                "About six cloudy, semi-translucent figures float around Sylan in the woods, half above him and half passing through him, unnoticed until Ord uses the lantern.",
+                "The nearest has a gaunt face and crazed eyes, is only half solidified, startles at the lantern, and can physically grab and pull the staff.",
+                "It answers Ord with a wail heard inside the head. Its edges then fray away like burnt paper. The remaining five howl and move toward the lantern."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who these figures are, and why they cluster on Sylan."
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "locker act",
+            "likely": "",
+            "notes": "Sylan, just before “is actually a swackery,” while doubting whether the thing Walker wears is a phylactery. Possibly “the artifact” or “locket.”"
+        },
+        {
+            "heard": "swackery",
+            "likely": "phylactery",
+            "notes": "Same sentence as “locker act,” in a discussion of destroying a lich’s phylactery."
+        },
+        {
+            "heard": "Shaves and Trades",
+            "likely": "Shades and Trades",
+            "notes": "Sylan’s wording. The DM says Shades and Trades as the place the item was identified."
+        },
+        {
+            "heard": "annihilary",
+            "likely": "",
+            "notes": "DM: the session before the November 3 experiment, this person “showed up with a finger in a box,” which is why the lantern result was dropped."
+        },
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "DM asks if Ord inspects “silent,” then describes figures milling about Sylan."
+        },
+        {
+            "heard": "Profound whale",
+            "likely": "profound wail",
+            "notes": "The sound the ethereal figure makes inside Ord’s head as it screams."
+        }
+    ],
+    "openQuestions": [
+        "Should the phylactery be destroyed in the open or kept secret?",
+        "Is the item Walker has been wearing a phylactery, and has wearing it corrupted him?",
+        "What was the inscription on the lantern, and what phrase actually ignites the fused staff?",
+        "Can the lit lantern see through magical darkness?",
+        "Who are the figures around Sylan, and can they understand Ord?"
+    ],
+    "newTerms": [
+        {
+            "name": "Staff of the Lantern Bearer",
+            "notes": [
+                "Staff component fused with a Lantern of Revealing by reading the lantern’s inscription. Ord carries the combination."
+            ]
+        },
+        {
+            "name": "Lantern of Revealing",
+            "notes": [
+                "Lantern component of the fused item. When lit, Ord sees the Ethereal Plane in grayscale and his eyes glow desaturated blue with no pupils."
+            ]
+        },
+        {
+            "name": "Shades and Trades",
+            "notes": [
+                "Place where the DM believes the lantern items were identified. The inscription from that identification is missing from his notes."
+            ]
+        }
+    ]
+}

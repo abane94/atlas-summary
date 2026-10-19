@@ -1,7 +1,8 @@
 {
   "name": "Lich",
   "tags": [
-    "antagonist"
+    "antagonist",
+    "undead"
   ],
   "slug": "An unidentified lich whose phylactery may be hidden among his chess pieces.",
   "aliases": [],
@@ -39,6 +40,15 @@
       "notes": [
         "The party tells Carlkin that the phylactery is a mundane item the lich kept on his person and that the lich speaks to them telepathically. Carlkin calls that very worrisome and says to deal with it immediately."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "The party now wants to test Walker's hat, also discussed as his helmet, as this lich's phylactery. They treat him as able to create a replacement phylactery if the current one is destroyed and he is not killed quickly afterward. Sylan believes holding the soul from the phylactery would make the lich easier to locate, and Dana agrees.",
+      "notes": [
+        "Walker's hat, also discussed as his helmet, is now the item the party wants to test as this lich's phylactery.",
+        "The party treats him as able to create a replacement phylactery if the current one is destroyed and he is not killed quickly afterward.",
+        "Sylan believes holding the soul from the phylactery would make the lich easier to locate. Dana agrees."
+      ]
     }
   ],
   "openQuestions": [
@@ -50,5 +60,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T17:57:46.472Z",
-  "updatedAt": "2026-10-06T21:02:08.385Z"
+  "updatedAt": "2026-10-19T20:51:02.637Z"
 }

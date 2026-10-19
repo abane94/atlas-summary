@@ -1,0 +1,294 @@
+{
+    "plotSections": [
+        {
+            "title": "Staff of the Lantern Keeper",
+            "bullets": [
+                "Ord plans to take the lantern-staff into the woods and speak its inscription again. He remembers the words but does not have them written down.",
+                "Sylan remembers one of the paired items as the Staff of the Lantern Keeper, which the DM confirms. The lantern's name is still wrong in memory: Ord offers 'lantern of the staff keeper,' and Sylan says the real name was weirder.",
+                "Ord remembers the lantern and staff as fused and no longer separable. Sylan asks whether they should be tried separately and whether they are actually fused; that is not settled in this chunk. Sylan treats the fusion, if true, as having been part of the plan.",
+                "The lantern is hooded and finely made. Detect Magic showed an aura of evocation. It has two settings, and one of them blinded an entire room. Saying the words made something happen; trying to undo it made something else happen, and the effect was hard to dismiss. Ord is using a shield, so a sword plus this lantern is the working picture."
+            ]
+        },
+        {
+            "title": "White dragon's hoard",
+            "bullets": [
+                "The items come from the white dragon's hoard. The DM's notes date that treasure to November 3 of the previous year. Dana still has the inventory; she did not write down most of the magic items because the broom she received is the one she tracked.",
+                "Counted wealth: about two dozen gemstones, art objects, mundane goods, 500 platinum, 60,000 gold, 11,000 silver, and 4,100 copper. Sylan remembers four or five magic items.",
+                "Other hoard pieces Dana lists: a small shrine with a statuette, a brazier, and an altar to a god of dragon minions; a scroll with a poem; the skull of a fiend or celestial; seven candlesticks marked with a holy symbol; a gold bracelet; a gold locket with a painted portrait; a copper chalice; carved bone statuettes (she thinks two); Dana's magic broom and a set of bone dice.",
+                "Sylan gave the gold birdcage from that hoard to the crew. A box of turquoise animal figurines was also in the hoard; Ord inspected them and left them behind, and Sylan suspects they might turn into creatures.",
+                "Dana identifies the undead lady tied to this hoard as Lady Meriwether, named in the manner of Merryweather from Sleeping Beauty. The white dragon's own name does not get recovered; Sylan's line that his name is 'Lost of Time' reads as the name being lost to time."
+            ]
+        },
+        {
+            "title": "Ciri's starburst item and Walker's hat",
+            "bullets": [
+                "A separate hoard item, a ring or bracelet, went to Ciri. It shoots starbursts that turn into fireballs. Sylan's guesses were nightfall, night-something, or starfall. Nobody present remembers the item's name, and Ciri is away.",
+                "Sylan starts to say the group needs Walker back in order to figure out whether Walker's hat is something. The sentence is cut off."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "While placing stronghold people, Sylan does not remember Koji being among them. Ord describes a small gold person who makes something gold; the DM identifies that person as Ord's roommate, and Ord names the roommate Ponchi.",
+        "Ord heads for the woods to recite the inscription on the fused lantern-staff.",
+        "Sylan and the DM confirm one item as the Staff of the Lantern Keeper. The paired lantern's name stays unresolved, as does whether the two can still be separated.",
+        "Dana reads her notes from the white dragon's hoard, dated in the DM's notes to November 3 of the previous year, including the coin totals, shrine to a god of dragon minions, and the other art and magic pieces.",
+        "Sylan recalls giving the hoard's gold birdcage to the crew. The DM adds a box of turquoise animal figurines, which Ord had inspected and left behind.",
+        "Ord recalls the hooded lantern's evocation aura and the blinding setting. Sylan remembers not to look at it when it goes off.",
+        "Dana says Ciri holds the ring or bracelet that fires starbursts which become fireballs. Ciri is not there to name it.",
+        "Sylan begins a question about Walker's hat and the chunk ends."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has the hooded, finely made lantern fused in his memory to the Staff of the Lantern Keeper, and is taking it into the woods to speak the inscription from memory.",
+                "Detect Magic on the lantern showed an aura of evocation. Two settings; one blinded the whole room. The command words triggered an effect, undoing it triggered another, and the effect was hard to remove.",
+                "Currently uses a shield. Inspected the turquoise animal figurines from the white dragon hoard and left them behind.",
+                "Ponchi is his roommate."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remembers the staff as the Staff of the Lantern Keeper and wants the lantern inscription tried on its own if the pieces can be separated.",
+                "Gave the gold birdcage from the white dragon hoard to the crew.",
+                "Remembers the lantern's blinding setting and does not want to be looking at it when Ord sets it off."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Treats the lantern-staff fusion, if real, as having been part of the plan."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric, most knowledgeable of the group, Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Her old notes still hold the white dragon hoard inventory, including the coin counts and the shrine to a god of dragon minions. She recorded the magic broom she received and a set of bone dice, not the other magic items.",
+                "Identifies the undead lady from that hoard as Lady Meriwether."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue, Gatekeeper connected to Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Holds a ring or bracelet from the white dragon hoard that shoots starbursts which turn into fireballs. The item name is not remembered here.",
+                "Not present for this conversation."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the name of the ring or bracelet that shoots starbursts which become fireballs?"
+            ]
+        },
+        "Ponchi": {
+            "existing": "A stronghold guard who will relocate to the tavern.",
+            "entityType": "NPC",
+            "notes": [
+                "Ord's roommate. The DM points to him as the small gold person who makes something gold, after the table fails to place that person."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lady Meriwether": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Undead lady associated with the white dragon hoard the party is reconstructing from notes.",
+                "The table explains the name as Merryweather, one of the three fairies in Sleeping Beauty."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Staff of the Lantern Keeper": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "One of the magic items from the white dragon hoard. The DM confirms this name for the staff.",
+                "Ord remembers it fused to a hooded lantern with an evocation aura, two settings, and a room-blinding burst. The lantern's own name is still misremembered.",
+                "Command words produced an effect the party then failed to cleanly undo. Ord is taking it to the woods to speak the inscription again."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can the staff and lantern still be separated?",
+                "What is the lantern's actual name?"
+            ]
+        },
+        "Ciri's starburst ring": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Ring or bracelet from the white dragon hoard, held by Ciri. It shoots starbursts that turn into fireballs. Heard guesses include nightfall, a night-name, and starfall. The name is not confirmed."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is it a ring or a bracelet, and what is it called?"
+            ]
+        },
+        "Turquoise animal figurines": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A box of them was in the white dragon hoard. Ord inspected them and left them behind. Sylan thinks they might turn into creatures."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana's magic broom": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Dana received it from the white dragon hoard. It is the magic item she wrote down for herself from that treasure."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gold birdcage": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "From the white dragon hoard. Sylan gave it to the crew."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "White dragon": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "His hoard, looted around November 3 of the previous year, is the source of the staff, lantern, Ciri's starburst item, Dana's broom, the shrine to a god of dragon minions, and the rest of the inventory Dana reads.",
+                "The party does not recover his name in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "God of dragon minions": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "A small shrine in the white dragon hoard — statuette, brazier, and altar — is dedicated to this god."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Banshee",
+            "likely": "Ponchi",
+            "notes": "DM's name for the small gold roommate, immediately followed by Ord saying Ponchi is his roommate."
+        },
+        {
+            "heard": "Archie",
+            "likely": "",
+            "notes": "Ord says this once while the roommate is being identified."
+        },
+        {
+            "heard": "lantern of the staff keeper",
+            "likely": "",
+            "notes": "Ord's name for the lantern paired with the Staff of the Lantern Keeper. Sylan rejects it as not the weird real name. DM only echoes the start of the phrase."
+        },
+        {
+            "heard": "staff the lantern keeper",
+            "likely": "Staff of the Lantern Keeper",
+            "notes": "Sylan's wording; the DM agrees."
+        },
+        {
+            "heard": "brazor",
+            "likely": "brazier",
+            "notes": "Part of the shrine in the white dragon hoard."
+        },
+        {
+            "heard": "aura of invocation",
+            "likely": "aura of evocation",
+            "notes": "Ord corrects himself a moment later while describing the lantern."
+        },
+        {
+            "heard": "smells from magic",
+            "likely": "Detect Magic",
+            "notes": "Ord describing the check that found the lantern's aura."
+        },
+        {
+            "heard": "match claim",
+            "likely": "magic item",
+            "notes": "Sylan asking Aris if the journal entry was shared."
+        },
+        {
+            "heard": "Lost of Time",
+            "likely": "lost to time",
+            "notes": "Said right after the hoard totals, about the dragon whose name they cannot remember."
+        },
+        {
+            "heard": "three coffers for a war",
+            "likely": "three copper for a word",
+            "notes": "Sylan offering the DM payment for a hint. The DM answers 'Three copper.'"
+        },
+        {
+            "heard": "roll twenty",
+            "likely": "Roll20",
+            "notes": "Where they thought the treasure list was written down."
+        }
+    ],
+    "openQuestions": [
+        "Are the Staff of the Lantern Keeper and the lantern fused so they cannot be separated, or can the inscriptions be tried separately?",
+        "What is the lantern's actual name?",
+        "What is the name of Ciri's ring or bracelet that shoots starbursts which become fireballs?",
+        "What is Walker's hat? Sylan starts the question and the chunk cuts off."
+    ],
+    "newTerms": [
+        {
+            "name": "Lady Meriwether",
+            "notes": [
+                "Undead lady associated with the white dragon hoard. Table names her after Merryweather from Sleeping Beauty."
+            ]
+        },
+        {
+            "name": "Staff of the Lantern Keeper",
+            "notes": [
+                "Staff from the white dragon hoard, confirmed by the DM. Remembered as fused to a hooded evocation lantern with a blinding setting."
+            ]
+        },
+        {
+            "name": "God of dragon minions",
+            "notes": [
+                "God honored by the statuette, brazier, and altar shrine in the white dragon hoard."
+            ]
+        },
+        {
+            "name": "Turquoise animal figurines",
+            "notes": [
+                "Boxed hoard curios Ord inspected and left. Sylan thinks they may turn into creatures."
+            ]
+        }
+    ]
+}

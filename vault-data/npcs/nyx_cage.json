@@ -1,0 +1,31 @@
+{
+  "name": "Nyx Cage",
+  "tags": [
+    "vendor"
+  ],
+  "slug": "An ice mage in Agenheim who sold the party heat stones and offered a discount to steal a Helheim peace treaty.",
+  "aliases": [],
+  "normalizedAliases": [
+    "nyx cage"
+  ],
+  "filename": "npcs/nyx_cage.md",
+  "description": "Nyx Cage is an ice mage in Agenheim who sold the party heat stones because it was cold. No one had kept his name until it was supplied. Walker says it could be an alias, and Plymouth finds the name shady and does not know him.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "He sold the party their heat stones in the cold and gave Walker the hot rock they later examine. He offered a discount if they went to Helheim and stole a peace treaty between the people of Helheim, described as goliaths, and the giants. The party did not do it.",
+      "notes": [
+        "Ice mage in Agenheim who sold the party their heat stones because it was cold. He gave Walker the hot rock they later examine.",
+        "He offered a discount if they went to Helheim and stole a peace treaty between the people of Helheim, described as goliaths, and the giants. The party did not do it.",
+        "No one had kept his name until it was supplied. Walker says it could be an alias. Plymouth finds the name shady and does not know him."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Is Nyx Cage his real name, or an alias?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:30:22.330Z",
+  "updatedAt": "2026-10-19T20:51:02.638Z"
+}

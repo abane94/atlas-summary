@@ -38,6 +38,15 @@
         "Elrus says phylacteries are usually gems of some kind. Becoming a lich is an ancient ritual whose exact method he does not know, not simply declaring an ordinary object the vessel. Any magical requirement would be strengthened at a ley-line convergence.",
         "What the party told Carlkin is different: that this lich's phylactery is a mundane item he kept on his person."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Dana says the phylactery must be destroyed and the lich killed before he has time to make another. Sylan says that if the party holds the soul, finding the lich should be easier, and whether to test and destroy it in the open or in secret is still undecided. Walker's hat, also called his helmet, is the candidate under discussion, and wearing a phylactery is treated as a possible source of corruption.",
+      "notes": [
+        "Dana: the phylactery must be destroyed and the lich killed before he has time to make another.",
+        "Sylan: if the party holds the soul, finding the lich should be easier. Doing the test and the destruction in the open or in secret is still undecided.",
+        "Walker's hat, also called his helmet, is the candidate under discussion. Wearing a phylactery is treated as a possible source of corruption."
+      ]
     }
   ],
   "openQuestions": [
@@ -45,5 +54,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:18:44.879Z",
-  "updatedAt": "2026-10-06T21:07:18.975Z"
+  "updatedAt": "2026-10-19T20:29:52.310Z"
 }

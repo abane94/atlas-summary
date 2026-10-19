@@ -1,0 +1,28 @@
+{
+  "name": "Ley-line convergence",
+  "tags": [
+    "landmark"
+  ],
+  "slug": "A rare, highly magical ley-line site where primal stones take much less effort.",
+  "aliases": [],
+  "normalizedAliases": [
+    "ley line convergence"
+  ],
+  "filename": "concepts/ley-line_convergence.md",
+  "description": "A ley-line convergence is a site where creating primal stones is easier and takes much less effort, which is why convergences are sought after. Plymouth calls one rare and highly magical.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Walker learned last session what a convergence on ley lines is. The one they fly toward lights up the map. Walker calls that site an obelisk, and experiencing it is meant to help his training. Plymouth calls it rare and highly magical.",
+      "notes": [
+        "Walker learned last session what a convergence on ley lines is. Creating primal stones is easier there and takes much less effort, which is why convergences are sought after.",
+        "The one they fly toward lights up the map. Walker calls that site an obelisk. Experiencing it is meant to help his training. Plymouth calls it rare and highly magical."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:40:12.579Z",
+  "updatedAt": "2026-10-19T20:40:12.579Z"
+}

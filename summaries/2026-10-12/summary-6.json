@@ -1,0 +1,256 @@
+{
+    "plotSections": [
+        {
+            "title": "Nyx Cage's gift",
+            "bullets": [
+                "The item Walker has was given by Nyx Cage the Ice Mage, who also wanted the party to steal a peace treaty between the goliaths and the giants. The party did not steal it.",
+                "The name may be an alias. Tongatank, in character, calls it shady.",
+                "An ally examines the item, finds it intriguing, and confirms it works as advertised. Adding more magical energy without proper containment would make it implode immediately. Walker drops the idea of putting more magic into it."
+            ]
+        },
+        {
+            "title": "The shifted obelisk",
+            "bullets": [
+                "The party is already at the obelisk on a small grassy island: bare ground, grass growing around it, no base, slightly angled and slightly embedded. The surroundings are rolling grassy field.",
+                "Walker’s notes and drawings of the shift are gone. He remembers the mountain to the west, the obelisk to the north, and a shift of about twenty degrees from the center.",
+                "They have traveled about 5.6 miles. Facing back toward the guild, the true ley-line point is to the right, about a hundred yards, not the twenty-degree offset Walker remembered. The corrected spot feels no different from the rest of the field."
+            ]
+        },
+        {
+            "title": "Elrus postpones the working",
+            "bullets": [
+                "Walker asks Elrus whether they must meditate for the working to function. Elrus says no, but they should meditate anyway.",
+                "Elrus casts a simple cantrip from pocket scraps: a small pebble, scorched moss, and an insect. Light reaches about sixty feet, with another sixty feet beyond that. He is not properly equipped and wants everyone to leave and return later.",
+                "Walker agrees and plans to gather more stones and more energy. Elrus wants meditation, training, and more magic training on site before they try again. They agree to return to Midgard."
+            ]
+        },
+        {
+            "title": "Forty-two days and the return rod",
+            "bullets": [
+                "Walker thinks only about two weeks have passed for him. Elrus checks a watch and says it has been exactly forty-two days, and that Walker has been training the entire time.",
+                "Walker pins the site for later: from the tower, 0.01 radians to the west (his right when facing the guild), then 5.6 miles. Tongatank restates the pin as two miles northwest at 0.01 radians.",
+                "Walker will not imbue primal stones yet. He wants the party’s input first. His own idea is night vision. He also floats a guitar that would strengthen Dana’s magic, and says the cosmic loom still has to be figured out before he knows how useful a stone would be.",
+                "The ally produces a belt-stored, telescope-like rod about a foot long, with adjustment knobs and a rounded three-pronged head. He factors in convergence and the 5.6-mile distance, plants it, and tells everyone to stand close. Electrical energy starts arcing around the rod as he says they will be back in Midgard shortly."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party recalls that Nyx Cage the Ice Mage gave Walker the item and wanted them to steal the goliath–giant peace treaty, which they did not do.",
+        "An ally examines the item, confirms it works as advertised, and warns that extra magical energy without containment would make it implode. Walker abandons that plan.",
+        "At the obelisk, Walker reconstructs the ley-line offset from memory: mountain west, obelisk north, about twenty degrees, drawings gone. Distance traveled is about 5.6 miles.",
+        "The corrected point is about a hundred yards to the right when facing the guild. The spot feels like ordinary rolling grass. The obelisk sits angled on bare ground with no base.",
+        "Elrus says meditation is not required for the working but should be done anyway, then casts an under-equipped cantrip (pebble, scorched moss, insect) lighting roughly sixty feet plus another sixty.",
+        "Elrus calls off the attempt until he has proper equipment. Walker agrees to gather more stones and energy. They agree to return to Midgard after more meditation and magic training.",
+        "Elrus’s watch reads forty-two days. Walker had felt about two weeks and had not registered the training.",
+        "Walker pins a return route from the tower: 0.01 radians west, then 5.6 miles. He declines to imbue primal stones until he talks with the party, citing night vision, Dana, and the cosmic loom.",
+        "A foot-long adjustable rod is planted after accounting for convergence and distance. The group is told to stand close. Energy arcs around the rod as the return to Midgard begins."
+    ],
+    "entities": {
+        "Nyx Cage": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Called Nyx Cage the Ice Mage. Gave Walker the item the party is now examining, described at the table as a hot rock.",
+                "Wanted the party to steal the peace treaty between the goliaths and the giants. They did not.",
+                "Tongatank questions whether that is his real name and treats it as shady. Walker says it could be an alias."
+            ],
+            "titles": [
+                "the Ice Mage"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is Nyx Cage the Ice Mage his real name or an alias?"
+            ]
+        },
+        "Hot rock": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Walker received it from Nyx Cage the Ice Mage.",
+                "It does what it is advertised to do.",
+                "It must not take more magical energy. Without proper containment it would implode immediately.",
+                "Walker had considered putting more magical items or energy into it and then decided not to."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Elrus is Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Present at the obelisk. Tells Walker the working does not require meditation, but that he should meditate regardless.",
+                "Casts a simple cantrip from a pebble, scorched moss, and an insect. The light reaches about sixty feet, then another sixty feet beyond. He lacks the right equipment and postpones the real working.",
+                "Wants the group to meditate, train, and do more magic training at the site, then return another day. Proposes going back to Midgard.",
+                "Wears a watch. Says exactly forty-two days have passed and that Walker has been training the whole time, even though Walker experienced it as about two weeks.",
+                "Offers Walker the chance to imbue stones as primal stones now. Walker declines until he talks with the party."
+            ],
+            "titles": [],
+            "personality": [
+                "Pushes training and meditation even when the immediate working does not require them.",
+                "Will not attempt the ley-line working without proper equipment."
+            ],
+            "quotesThemes": [
+                "No, but you should meditate regardless.",
+                "You need to train more. You've trained the entire time.",
+                "Without proper containment it would implode immediately."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Walker is a half-elf dragon rider and fighter bonded to Glimmen, originally from La-rel and now Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Holds the item from Nyx Cage. After the implosion warning, he will not feed it more magic.",
+                "Remembers the ley-line shift from lost notes: mountain west, obelisk north, about twenty degrees. The on-site correction is about a hundred yards to the right when facing the guild, which he restates as about half a degree or 0.01 radians.",
+                "Agrees to leave, gather more stones and energy, and return. He pins the site from the tower: 0.01 radians west, then 5.6 miles.",
+                "Subjectively about two weeks have passed. Elrus’s watch says forty-two days of training.",
+                "Will not imbue a primal stone yet. He wants the party’s advice. His own idea is night vision. He also suggests something for Dana and says the cosmic loom has to be sorted out before he knows how the stone helps."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Mathematics is critical to flying."
+            ],
+            "openQuestions": []
+        },
+        "Obelisk": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sits on a small grassy island in rolling fields near the dragon-rider guild. No base. Slightly angled, slightly embedded, with grass growing around it. Mountain was to the west. The obelisk itself was to the north.",
+                "It is shifted off the actual ley line. Walker’s old figure was about twenty degrees from the center. The corrected point, facing back at the guild, is about a hundred yards to the right and feels like ordinary ground.",
+                "The party has traveled about 5.6 miles to the area. Elrus wants to return later with proper equipment, after meditation and magic training.",
+                "Walker’s return pin: from the tower, 0.01 radians west, then 5.6 miles. Tongatank also restates it as two miles northwest at 0.01 radians."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Midgar": {
+            "existing": "Midgar realm and Arch of Atlas",
+            "entityType": "LOCATION",
+            "notes": [
+                "The group agrees to go back to Midgard rather than finish the ley-line working now.",
+                "Departure is underway by a planted rod. Electrical energy is arcing around it, and everyone is told to stand close."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Return rod": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Carried like a collapsible telescope on a belt. About a foot long, with several adjustment knobs. One end is a rounded, oversized three-pronged head.",
+                "The user accounts for convergence and the 5.6-mile distance, then plants it. Standing close to it is the way back to Midgard. Electrical energy begins to arc around it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Primal stones": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Stones that can be imbued. Elrus asks if Walker wants to imbue any now.",
+                "Walker can gather more stones and more energy, but he waits so the party can choose what the imbued stone should do. Night vision is his personal idea. He is unsure it helps with the cosmic loom."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Cosmic loom": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker says the party still needs to figure out the cosmic loom, and that he does not yet see how an imbued stone would help with it in play."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "ice maid",
+            "likely": "ice mage",
+            "notes": "Gerk: an ice maid wanted to give them a hot rock. Tongatank immediately says Nyx Cage the Ice Mage."
+        },
+        {
+            "heard": "field trade",
+            "likely": "",
+            "notes": "Sylan: that's where he got the field trade, in the same breath as the document Nyx Cage wanted stolen. May be the item or the job, not a clear known term."
+        },
+        {
+            "heard": "orc dependence",
+            "likely": "orc independence",
+            "notes": "Gerk's joke about a declaration he would have stolen."
+        },
+        {
+            "heard": "this match",
+            "likely": "this magic",
+            "notes": "The examining NPC is unfamiliar with the item just handed over."
+        },
+        {
+            "heard": "intriguy",
+            "likely": "intriguing",
+            "notes": "Same examination."
+        },
+        {
+            "heard": "call island",
+            "likely": "small island",
+            "notes": "The ground the obelisk sits on."
+        },
+        {
+            "heard": "ken trip",
+            "likely": "cantrip",
+            "notes": "Elrus names the bright light spell."
+        },
+        {
+            "heard": "geopin",
+            "likely": "geopin",
+            "notes": "Walker marking the return coordinates. Tongatank echoes it as opening the location."
+        },
+        {
+            "heard": "bar magic",
+            "likely": "bard magic",
+            "notes": "Walker imagining a guitar for Dana. Dana is otherwise a cleric, so this may be Walker misspeaking rather than only ASR."
+        },
+        {
+            "heard": "Glimund",
+            "likely": "",
+            "notes": "Narration name for whoever pulls the return rod from a belt. Close to Glimmen, but the surrounding lines are Elrus planning the Midgard return. Unclear which name was spoken."
+        }
+    ],
+    "openQuestions": [
+        "Is Nyx Cage the Ice Mage his real name or an alias?"
+    ],
+    "newTerms": [
+        {
+            "name": "Nyx Cage the Ice Mage",
+            "notes": [
+                "Giver of Walker's hot rock. Asked the party to steal the goliath–giant peace treaty. Name may be an alias."
+            ]
+        },
+        {
+            "name": "Primal stones",
+            "notes": [
+                "Stones Walker can imbue. He is waiting to choose an effect with the party. Night vision is the idea he already has."
+            ]
+        },
+        {
+            "name": "Cosmic loom",
+            "notes": [
+                "Unresolved party problem Walker names while deciding not to imbue a stone yet."
+            ]
+        }
+    ]
+}

@@ -41,12 +41,19 @@
       "notes": [
         "Reached via Lake Nyx by boat. The DM describes that voyage as about one to two months. The Bouncing Betty visit was before the party went over to Lake Nyx, and they were still in Nyx's area afterward."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Elrus has a table in Nyx. The plan is to check it on return for more information or another gold eagle marker.",
+      "notes": [
+        "Elrus has a table in Nyx. The plan is to check it on return for more information or another gold eagle marker."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T17:59:08.827Z",
-  "updatedAt": "2026-10-06T21:09:25.713Z",
+  "updatedAt": "2026-10-19T20:25:44.934Z",
   "marker": [
     {
       "mapName": "mit-gar-map",

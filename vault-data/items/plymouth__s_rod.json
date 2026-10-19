@@ -1,0 +1,29 @@
+{
+  "name": "Plymouth's rod",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Plymouth's collapsible belt rod that lightning-transports people a set distance.",
+  "aliases": [],
+  "normalizedAliases": [
+    "plymouths rod"
+  ],
+  "filename": "items/plymouth__s_rod.md",
+  "description": "A collapsible rod about a foot long, carried in a telescope-style pocket case on Plymouth's belt. It has several turnable sections and a broad, rounded, three-pronged head at one end. Set for a convergence and a distance, it can be planted so that lightning transports people standing close to it.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Plymouth sets the rod for the convergence and a 5.6-mile distance, plants it, and has everyone stand close. Electrical energy arcs around it, and lightning carries the group from the grassy knoll to the mountain above Langdale Stronghold; he had aimed for the front door. The rod comes out smoldering and sooty. He brushes it clean, slides it back into his belt, and says that a little farther off the result would have been quite bad.",
+      "notes": [
+        "Collapsible rod about a foot long, carried in a telescope-style pocket case on Plymouth's belt. Several turnable sections. One end is a broad, rounded, three-pronged head.",
+        "He sets it for the convergence and the 5.6-mile distance, plants it, and tells everyone to stand close. Electrical energy arcs around it, then lightning transports the group from the grassy knoll to the mountain above Langdale Stronghold. He had aimed for the front door.",
+        "It comes out smoldering and sooty. He brushes it clean and slides it back into his belt. He says a little farther off and the result would have been quite bad."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:37:26.238Z",
+  "updatedAt": "2026-10-19T20:37:26.238Z"
+}

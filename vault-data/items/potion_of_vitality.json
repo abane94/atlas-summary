@@ -1,7 +1,7 @@
 {
   "name": "Potion of vitality",
   "tags": [
-    "artifact"
+    "alchemy"
   ],
   "slug": "Fuchsia potion that removes exhaustion and cures poison",
   "aliases": [],
@@ -27,5 +27,5 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-09-01T18:33:13.752Z",
-  "updatedAt": "2026-09-01T18:33:13.752Z"
+  "updatedAt": "2026-10-19T20:51:02.629Z"
 }

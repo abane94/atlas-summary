@@ -1,6 +1,8 @@
 {
   "name": "Mikkel",
-  "tags": [],
+  "tags": [
+    "companion"
+  ],
   "slug": "Spymaster crew member often left behind when the party departs",
   "aliases": [],
   "normalizedAliases": [
@@ -18,6 +20,14 @@
         "The party has a recurring problem of departing without verifying he is onboard.",
         "Party considers a sending stone or teleportation tunnel so he can rejoin."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Mikkel was discussed as the keep's secrets man. The party also calls him the rat and the rack guy, and they chose him for his resourcefulness. Sylan believes he is missing and took a vacation without asking. The correction is that the party has to remember where they left him.",
+      "notes": [
+        "Discussed as the keep's secrets man. The party also calls him the rat and the rack guy, and they chose him for his resourcefulness.",
+        "Sylan believes he is missing and took a vacation without asking. The correction is that the party has to remember where they left him."
+      ]
     }
   ],
   "openQuestions": [
@@ -25,5 +35,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-09-01T18:33:55.962Z",
-  "updatedAt": "2026-09-01T18:33:55.962Z"
+  "updatedAt": "2026-10-19T20:51:02.637Z"
 }

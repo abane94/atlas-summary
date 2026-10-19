@@ -1,0 +1,326 @@
+{
+    "plotSections": [
+        {
+            "title": "Evening at the tavern",
+            "bullets": [
+                "The group returns to the bar while Dana is quietly playing for the room. Sylan waves to her, and she waves back and keeps playing.",
+                "Sylan plans a quiet night, morning prep, and a meeting with Walker the next day, hoping Walker has more information than they do.",
+                "Gerk has nothing particular planned. Sylan intends to talk with Ord about the lantern and staff Sylan gave him, hoping Ord figures them out before the campaign ends."
+            ]
+        },
+        {
+            "title": "The convergence and primal stones",
+            "bullets": [
+                "The scene shifts to Walker on a short flight to an island. The obelisk is north of the guild hall.",
+                "Plymouth asks whether Walker knows of a cosmic loom. Walker does not.",
+                "Plymouth explains primal stones: with the right work, stones can be set as offensive, defensive, or utility magic. Examples include a blade that flames, burns hot, or both, and a ring or blanket that gives warmth. Effect depends on how many stones are used, their value, and how they are set. An item made with Walker's stones could give Gerk fire protection or offensive fire magic.",
+                "Primal stones can be created at the convergence, but a cosmic loom is required to set them into an item. Plymouth ties this to Elrus's explanation of ley lines. The convergence is a rare, highly magical landmark, and experiencing it is meant to aid Walker's training more than any item he might make there."
+            ]
+        },
+        {
+            "title": "Walker's helmet",
+            "bullets": [
+                "Walker already has a heat stone and can breathe underwater. He wants the stones worked into his helmet: light separated from fire for night vision, heat detection, and a way to see through magical darkness, despite already having darkvision.",
+                "Plymouth says this is possible but complex and would need a very powerful primal stone, or more easily several stones used for separate purposes: light, heat detection, and possibly a third. A gem of illusion magic, reversed, could help penetrate magical darkness, which he describes as usually stemming from an inverse illusion or an absence.",
+                "Walker is still undecided and says that if the helmet cannot do this, the project is not worth doing."
+            ]
+        },
+        {
+            "title": "Stones on hand, and where the heat stones came from",
+            "bullets": [
+                "Plymouth has no gems or diamonds. He forgot most of his equipment, bought odds and ends in Sunder, and is carrying powdered dragon liver.",
+                "Walker will not sacrifice his personal jewelry. He shows his heat stone and keystone. Plymouth refuses any experiment on the keystone. Adding more magic to an existing item in this unbound state would be unstable, costly to contain, and could damage the caster or the item if it cannot hold the energy. The heat stone might accept more fire magic.",
+                "The warming stones were bought in Agenheim because it was cold, before the party went on to Jotunheim. The seller was Nyx Cage the Ice Mage. He had offered a discount if they went to Helheim and stole a peace treaty between the people of Helheim, described as goliaths, and the giants. The party did not take the job, and no one could remember his name until the DM supplied it."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party arrives back at the tavern, where Dana is playing, and plans to stay the night and meet Walker in the morning.",
+        "Sylan means to talk to Ord about the lantern and staff Sylan gave him.",
+        "Walker and Plymouth land on the island after a short flight, with the obelisk north of the guild hall.",
+        "Plymouth explains that Walker does not know the cosmic loom, and describes how primal stones can make offensive, defensive, or utility items once set with a loom.",
+        "Walker proposes a helmet of night vision, heat sense, and sight through magical darkness. Plymouth says it would take multiple powerful primal stones and that the convergence is mainly for his training.",
+        "Plymouth has no spare gems, only Sunder purchases and powdered dragon liver. He forbids altering the keystone and says the heat stone might take more fire magic.",
+        "The heat stones are remembered as purchases from Nyx Cage the Ice Mage in Agenheim, tied to an untaken Helheim job to steal a peace treaty with the giants."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Flying with Plymouth to a rare, highly magical convergence that is supposed to advance his training.",
+                "Wants primal stones set into his helmet for night vision, thermal sight, and vision through magical darkness. He already has darkvision and can breathe underwater.",
+                "Carries a heat stone and his keystone. He will not use his personal jewelry, which he says he worked hard on.",
+                "He joked about modifying the keystone. He remains undecided on whether the primal-stone project is worth doing unless the helmet can see what he wants."
+            ],
+            "titles": [],
+            "personality": [
+                "Fixated on a helmet that lets him see through anything, including magical darkness."
+            ],
+            "quotesThemes": [
+                "Wants to pierce magical darkness with heat-and-light vision and 'be the darkness.'"
+            ],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the keystone keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Does not know Walker to have any prior knowledge of a cosmic loom. Says they cannot readily make one.",
+                "Explains primal stones and that a cosmic loom is required to set them into items. Draws on Elrus's account of ley lines.",
+                "Has no gems. He forgot most of his equipment, bought miscellaneous supplies in Sunder, and has powdered dragon liver.",
+                "Refuses to consider pouring more magic into a keystone. Says a heat stone might take additional fire magic, but overfilling an item can harm the item or the caster.",
+                "Treats the convergence as training at a rare magical landmark, more important than the item Walker wants to build."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally.",
+            "entityType": "NPC",
+            "notes": [
+                "Plymouth cites Elrus's explanation of ley lines when describing how primal stones could be made at the convergence and then set with a cosmic loom."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Was present for the first part of the evening and is quietly playing music at the tavern when the others return. She waves and keeps playing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Plans to spend the night at the tavern and prepare in the morning before seeing Walker, hoping Walker knows more than they do.",
+                "Gave Ord a lantern and a staff and wants to discuss them with him, hoping Ord learns to use them.",
+                "Recalls landing where the heat stones were bought, then going on to Jotunheim."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Still has not worked out the lantern and staff Sylan gave him. Sylan wants to talk with him about both."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nyx Cage": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Ice mage in Agenheim who sold the party their warming stones.",
+                "Offered a discount if they went to Helheim and stole a peace treaty between the people of Helheim and the giants. The party did not do it.",
+                "No one at the table could remember his name until it was given."
+            ],
+            "titles": [
+                "Ice Mage"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Cosmic Loom": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Magical device required to set primal stones into an item. Plymouth says the party cannot make one.",
+                "Creating stones at the convergence is separate from setting them; the loom is the missing step for Walker's helmet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Primal Stone": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Stones that can be created at the convergence and, with a cosmic loom, set into items as offense, defense, or utility.",
+                "Fire uses include a flaming blade, a red-hot blade, both at once, or warmth in a ring or blanket. Strength depends on the number and value of the stones and how they are set.",
+                "Walker's helmet idea would split functions across stones: light pulled out of fire, heat detection, and possibly a reversed illusion stone to pierce magical darkness.",
+                "An item made from Walker's stones could grant Gerk fire protection or offensive fire magic."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Heat Stone": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Warming stones the party bought in Agenheim from Nyx Cage because it was cold. Walker still has his.",
+                "Plymouth says more fire magic might be poured into it. It is not the same as a primal stone, and it is distinct from Walker's keystone, which must not be altered this way.",
+                "Gerk treats his as a hot rock he puts in his pants."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Keystones": {
+            "existing": "Magical stones used to open and connect Atlas's Arch realms.",
+            "entityType": "ITEM",
+            "notes": [
+                "Plymouth refuses to consider cramming additional magic into Walker's keystone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Powdered Dragon Liver": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Plymouth is carrying powdered dragon liver, along with small purchases from Sunder, after leaving most of his equipment behind."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Agenheim": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "Where the party landed and bought the warming stones from Nyx Cage before continuing to Jotunheim."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helheim": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "Destination of the untaken job for Nyx Cage: steal a peace treaty between the people of Helheim and the giants. The people of Helheim were described as goliaths."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Convergence": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "Rare, highly magical landmark Walker and Plymouth are flying to. Experiencing it is supposed to help Walker's training.",
+                "A place where primal stones could be created. Plymouth calls the local condition an unstable free state, where forcing more magic into an existing item is dangerous.",
+                "The island approach puts an obelisk north of the guild hall."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Eckenheim",
+            "likely": "Agenheim",
+            "notes": "Sylan's name for the landing place where the heat stones were bought. The DM later says Agenheim."
+        },
+        {
+            "heard": "economine",
+            "likely": "Agenheim",
+            "notes": "Sylan's other attempt at the same place name."
+        },
+        {
+            "heard": "Hymes",
+            "likely": "Agenheim",
+            "notes": "DM echo of Walker saying the stones came from one of the Heim places."
+        },
+        {
+            "heard": "seeing stones",
+            "likely": "Sitting Stones",
+            "notes": "Sylan says they went up to Jotunheim because that is where the seeing stones were."
+        },
+        {
+            "heard": "email stone",
+            "likely": "primal stone",
+            "notes": "Plymouth saying the helmet would need a very powerful primal stone."
+        },
+        {
+            "heard": "free state",
+            "likely": "",
+            "notes": "Plymouth's name for the unstable magical condition at the convergence, where extra magic is hard to contain."
+        },
+        {
+            "heard": "Orn",
+            "likely": "Ord",
+            "notes": "Sylan wants to talk to him about the lantern and staff."
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Cosmic Loom",
+            "notes": [
+                "Device required to set primal stones into a magic item. Plymouth says the party cannot make one. Walker had not heard of it."
+            ]
+        },
+        {
+            "name": "Primal Stone",
+            "notes": [
+                "Stone that can be formed at the convergence and loomed into offensive, defensive, or utility enchantments, including split fire effects such as light, heat, and warmth."
+            ]
+        },
+        {
+            "name": "Nyx Cage",
+            "notes": [
+                "Ice mage of Agenheim who sold the warming stones and offered a discount for stealing a Helheim-giants peace treaty. The job was declined."
+            ]
+        },
+        {
+            "name": "Agenheim",
+            "notes": [
+                "Landing place where the party bought the heat stones before traveling on to Jotunheim."
+            ]
+        },
+        {
+            "name": "Helheim",
+            "notes": [
+                "Realm of the declined theft. Its people were described as goliaths, party to a peace treaty with the giants."
+            ]
+        },
+        {
+            "name": "Convergence",
+            "notes": [
+                "Rare, highly magical landmark used for Walker's training and, in theory, for creating primal stones."
+            ]
+        },
+        {
+            "name": "Heat Stone",
+            "notes": [
+                "Warming stone bought from Nyx Cage in Agenheim. Walker's might be able to hold more fire magic."
+            ]
+        },
+        {
+            "name": "Powdered Dragon Liver",
+            "notes": [
+                "Component Plymouth still has after leaving most of his equipment behind."
+            ]
+        }
+    ]
+}

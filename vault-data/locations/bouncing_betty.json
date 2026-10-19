@@ -1,6 +1,8 @@
 {
   "name": "Bouncing Betty",
-  "tags": [],
+  "tags": [
+    "landmark"
+  ],
   "slug": "The Twin Peaks inn and tavern Gerk aims at for a doorway, also called Bouncing Benny's.",
   "aliases": [],
   "normalizedAliases": [
@@ -25,5 +27,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-10-06T21:16:33.169Z",
-  "updatedAt": "2026-10-06T21:16:33.169Z"
+  "updatedAt": "2026-10-19T20:51:02.631Z"
 }

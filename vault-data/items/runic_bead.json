@@ -1,0 +1,28 @@
+{
+  "name": "Runic bead",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "A rune-marked bead holding the strength the Grunkle took from Ord.",
+  "aliases": [],
+  "normalizedAliases": [
+    "runic bead"
+  ],
+  "filename": "items/runic_bead.md",
+  "description": "A sphere or bead with a rune written on it, formed when a floating Ord solidified after the Grunkle took some of Ord's strength. Dana was involved as it solidified. It is tied to the clue that the strength is hidden in Gerk and therefore cannot be restored by Dana's magic.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Ord traced his unrestored strength to the fight with Gerk's uncle, the Grunkle, who took some of it before dying. A floating Ord then solidified into this rune-marked bead or sphere, with Dana involved as it formed. Restoration, greater restoration, and Dana's other magic had already failed, because the strength is hidden in Gerk rather than missing.",
+      "notes": [
+        "After the Grunkle took some of Ord's strength, a floating Ord solidified into a sphere or bead with a rune written on it. Dana was involved as it solidified.",
+        "Tied to the clue that the strength is hidden in Gerk and therefore cannot be restored by Dana's magic."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:38:18.429Z",
+  "updatedAt": "2026-10-19T20:51:02.631Z"
+}

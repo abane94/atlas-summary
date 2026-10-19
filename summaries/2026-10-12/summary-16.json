@@ -1,0 +1,194 @@
+{
+    "plotSections": [
+        {
+            "title": "The staff pulls the glade spirits in",
+            "bullets": [
+                "In the glade, spirits inch toward Sylan while he keeps a hand on the active staff. The air crackles, and the glade is both the darkest and brightest it has been.",
+                "When a spirit comes within about four feet, a vortex sucks it in. Sylan feels no change. The DM describes the pull as a byproduct of touching the staff while it is active, and as the spirits being vacuumed into Silent and into Sylan.",
+                "From a distance, Dana sees a giant pillar of darkness rise out of the woods and starts toward it on the broom.",
+                "Gerk is blind on the ground and only hears the sucking. He yells that he cannot see and sits spinning his hammer overhead.",
+                "Sylan does not recognize the figures. They look semi-opaque. One stands out as a fitter spirit with a large wound down the center of his face, described as a killing blow.",
+                "After being drawn in, the spirits crawl away and cannot break the pull. Sylan refuses to let go. He says he has dealt with spirits before, does not know why they followed him, and believes they followed for a reason."
+            ]
+        },
+        {
+            "title": "Prior use and a failed shutdown",
+            "bullets": [
+                "Ord suggests saying the incantation backwards to turn the effect off. That attempt is not carried through.",
+                "The DM notes this use has not been shut off yet. Last time Ord used the staff he could see into the Ethereal, blinded himself until Sylan cured him with lesser restoration, and there were no spirits present. Toasting the spirits while that sight was active is what led to them being pulled into Silent.",
+                "Absorbed spirits look less blue-ethereal and more shaded black, and they read as light-producing. Four have been sucked in, leaving two."
+            ]
+        },
+        {
+            "title": "Ledzbika is held on the material",
+            "bullets": [
+                "Ord keeps a hand on the staff and grabs one of the last two. The spirit is half-formed but solid enough to hold, like a Scooby-Doo ghost given physical form, and functions in that half-life state. It has been brought from ethereal to material.",
+                "A magical pull drags it toward Sylan. Ord's grip is the only thing keeping it from being taken.",
+                "The held spirit is an elderly half-elf. He says they have disturbed his peace, demands release, and gives his name as Ledzbika. Sylan hears him.",
+                "A third, raspy voice also demands to be let go and calls them fiends. It is not named.",
+                "Sylan asks who the held spirit is. Ord moves to cast detect good and evil while still holding the staff and the spirit. The DM tells him he must swirl them as part of the cast. The reading is not resolved in this chunk."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Spirits close on Sylan as he holds the active staff. The glade crackles and a vortex sucks the first spirit in. Sylan feels nothing.",
+        "Dana sees a pillar of darkness from the woods and heads toward it by broom. Gerk, blind on the ground, hears the vacuum and cannot see it.",
+        "A second spirit is vacuumed in while Sylan keeps hold. He chooses not to release the staff.",
+        "Sylan cannot identify the spirits. One has a killing wound down the center of his face. They crawl against the pull and fail to escape.",
+        "Another spirit is sucked in. Ord floats reversing the incantation. The DM says they have not turned this use off, and recalls that Ord's earlier use showed him the Ethereal and blinded him until lesser restoration.",
+        "The remaining spirits look shaded black rather than blue ethereal. Four are gone and two remain.",
+        "Ord holds the staff and grapples one remaining spirit, pinning a now-physical elderly half-elf against the pull toward Sylan.",
+        "The spirit names himself Ledzbika and demands to be released. A separate raspy voice also demands freedom. Ord starts toward detect good and evil."
+    ],
+    "entities": {
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Holds the active staff while nearby spirits are vacuumed in and feels no change in himself.",
+                "Does not recognize the spirits. He has dealt with spirits before and does not believe he did anything to bind these ones, but he will not let go.",
+                "Previously cured Ord's staff-caused blindness with lesser restoration."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats the pull as something to see through rather than interrupt, and assumes the spirits followed him for a reason."
+            ],
+            "quotesThemes": [
+                "They were following me. It must have been for a good reason. It doesn't seem like they want to go back."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Also keeps a hand on the staff and physically holds one spirit back from Sylan.",
+                "Last time he used the staff he saw into the Ethereal and blinded himself until Sylan used lesser restoration. Toasting these spirits during that sight is what set up the current vacuum.",
+                "Identifies the grabbed spirit, aloud, as an elderly half-elf, and begins to cast detect good and evil without a result yet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is blind and on the ground through the vacuum. He can hear it, yells that he cannot see, and sits spinning his hammer overhead."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "From outside the glade she sees a giant pillar of darkness rise from the woods, confirmed by the DM, and heads straight for it on the broom."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ledzbika": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Elderly half-elf spirit among those drawn to the active staff. Ord grabs him as one of the last two, after four others were already sucked in.",
+                "Half-formed but physically grabbable, pulled toward Sylan, and angry that his peace was disturbed."
+            ],
+            "titles": [],
+            "personality": [
+                "Demands immediate release and calls the party fiends. The raspy second voice may be his or another spirit's."
+            ],
+            "quotesThemes": [
+                "Release me right now, you've disturbed my peace. I am Ledzbika."
+            ],
+            "openQuestions": [
+                "Whether the raspy voice crying 'let me go' and 'you fiends' is Ledzbika or the other remaining spirit."
+            ]
+        },
+        "Silent": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Active staff in Sylan's hand, with Ord also holding it. Spirits within about four feet are vortexed into it. The holder feels no personal change.",
+                "Shifts affected spirits from blue ethereal shades toward black, shaded, partly material forms that can be grappled. A grabbed spirit is magnetically pulled to whoever is linked to the staff.",
+                "An earlier use let Ord see the Ethereal and blinded him until lesser restoration. No spirits were present then. Toasting these spirits during that sight led to this absorption. Saying the incantation backwards was proposed and not resolved."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether speaking the incantation backwards turns the staff off."
+            ]
+        },
+        "Glade spirits": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "spirits",
+            "notes": [
+                "A group of spirits in the glade, about six: four vacuumed into the staff, two still outside when Ord grabs one.",
+                "Sylan recognizes none of them. Most look semi-opaque. One is a fitter figure with a wound down the center of his face that reads as a killing blow. Another is Ledzbika, an elderly half-elf. A third raspy voice is heard and not named.",
+                "They were following Sylan, resist being taken, and crawl against the pull without breaking it. They had been ethereal and become more material and black-shaded as the staff acts."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who the face-wound spirit is.",
+                "Who the unnamed raspy voice is."
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Zed staff",
+            "likely": "said staff",
+            "notes": "Sylan has a hand on the active staff. Zed is not established as a name."
+        },
+        {
+            "heard": "silent",
+            "likely": "Silent",
+            "notes": "Repeated as where the spirits are vacuumed. Also once phrased as vacuumed into Sylan. Treated as the staff's name."
+        },
+        {
+            "heard": "lust or restoration",
+            "likely": "lesser restoration",
+            "notes": "The spell Sylan used to cure Ord's blindness after the earlier staff use."
+        },
+        {
+            "heard": "semi like openly",
+            "likely": "semi-opaque",
+            "notes": "How the spirit figures look."
+        },
+        {
+            "heard": "Silas",
+            "likely": "Sylan",
+            "notes": "Gerk's line about the sucking noises. Off-color, but the name is Sylan."
+        }
+    ],
+    "openQuestions": [
+        "Who is the spirit with the killing wound down the center of his face?",
+        "Who is the raspy third voice demanding to be released?",
+        "Does speaking the staff's incantation backwards turn it off?",
+        "What does detect good and evil show for the spirit Ord is holding?"
+    ],
+    "newTerms": [
+        {
+            "name": "Silent",
+            "notes": [
+                "Apparent name of the staff Sylan is holding. While active, it vacuums nearby spirits in and can drag them from ethereal toward a physical form."
+            ]
+        },
+        {
+            "name": "Ledzbika",
+            "notes": [
+                "Elderly half-elf spirit grabbed by Ord. Says the party disturbed his peace and demands to be released."
+            ]
+        }
+    ]
+}

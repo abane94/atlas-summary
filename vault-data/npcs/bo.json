@@ -1,6 +1,8 @@
 {
   "name": "Bo",
-  "tags": [],
+  "tags": [
+    "companion"
+  ],
   "slug": "A stronghold guard preparing for evacuation",
   "aliases": [],
   "normalizedAliases": [
@@ -21,5 +23,5 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:41:51.603Z",
-  "updatedAt": "2026-08-21T18:41:51.603Z"
+  "updatedAt": "2026-10-19T20:51:02.634Z"
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Primal stone",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Elemental energy stabilized in a gem so others can release it through a conduit.",
+  "aliases": [],
+  "normalizedAliases": [
+    "primal stone"
+  ],
+  "filename": "items/primal_stone.md",
+  "description": "A primal stone is elemental energy poured into a gem and stabilized so someone other than a dragonrider can use it. Its strength scales with the energy used to make it and with how pure and unflawed the gem is, and making one costs more energy than the stone stores. Before anyone else can release it, it must be set into a conduit such as a wand or weapon with a cosmic loom. A loose stone would not let Gerk create fire, and a worn earring would not enchant a separate weapon; it could only focus Walker's own fire. Effects depend on how many stones there are, how valuable they are, and how they are set.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "A ley-line convergence makes primal stones much easier to make, and Walker may be able to make one himself with Elrus's help if he rolls well enough. Set in a weapon, his fire stone would deal fire and magic damage. Possible results include fire protection, a flaming blade, a red-hot blade, both at once, or utility warmth from a ring or blanket, and an item made from his stones could grant Gerk fire protection or offensive fire. Elrus begins a defensive fire example, and that example is cut off. Walker's helmet idea would take a very powerful stone or, more easily, several: one for light drawn out of fire, one for heat detection, and possibly a reversed illusion stone to pierce magical darkness. He can gather stones and energy, and he declines to imbue any until the party chooses what they should do.",
+      "notes": [
+        "Elemental energy poured into a gem and stabilized so someone other than a dragonrider can use it. Set in a weapon, Walker's fire stone would deal fire and magic damage. A worn earring would not enchant a separate weapon; it could only focus his own fire.",
+        "Strength scales with the energy used to make the stone and with how pure and unflawed the gem is. Making one costs more energy than the stone stores. A ley-line convergence makes the work much easier. Walker may be able to make one himself with Elrus's help if he rolls well enough.",
+        "It must be set into a conduit such as a wand or weapon, using a cosmic loom, before someone else can release it. A loose stone would not let Gerk create fire.",
+        "Effects depend on how many stones there are, how valuable they are, and how they are set. Options include fire protection, a flaming blade, a red-hot blade, both at once, or utility warmth from a ring or blanket. An item made from Walker's stones could grant Gerk fire protection or offensive fire. Elrus begins a defensive fire example, and that example is cut off.",
+        "Walker's helmet idea would take a very powerful stone or, more easily, several: one for light drawn out of fire, one for heat detection, and possibly a reversed illusion stone to pierce magical darkness. He can gather stones and energy, and he declines to imbue any until the party chooses what they should do."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:36:15.949Z",
+  "updatedAt": "2026-10-19T20:36:15.949Z"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "God of dragon minions",
+  "tags": [
+    "deity"
+  ],
+  "slug": "Unnamed god worshipped at a shrine in the white dragon's hoard.",
+  "aliases": [],
+  "normalizedAliases": [
+    "god of dragon minions"
+  ],
+  "filename": "npcs/god_of_dragon_minions.md",
+  "description": "An unnamed god of dragon minions. A small shrine in the white dragon's hoard—a statuette, a brazier, and an altar—was dedicated to this god.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Dana's notes from the white dragon hoard, dated November 3 of the previous year, record a small shrine with a statuette, a brazier, and an altar dedicated to this unnamed god of dragon minions. No name or further identity is recovered.",
+      "notes": [
+        "Unnamed god. The white dragon hoard included a small shrine with a statuette, a brazier, and an altar dedicated to a god of dragon minions."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:32:03.695Z",
+  "updatedAt": "2026-10-19T20:32:03.695Z"
+}

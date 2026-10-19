@@ -1,7 +1,9 @@
 {
   "name": "Sitting Stones",
   "slug": "Sitting Stones are a location or feature Sylan has passed through, connected to information involving the Navi and another person's role.",
-  "tags": [],
+  "tags": [
+    "landmark"
+  ],
   "aliases": [],
   "filename": "items/sitting_stones.md",
   "description": "Sitting Stones are a location or feature that Sylan has previously passed through, and they are connected to information involving the Navi and another person's role.",
@@ -13,12 +15,19 @@
       "notes": [
         "Sylan references having gone through the sitting stones when discussing information connected to the Navi and another person's role."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Sylan recalls the seeing stones, under this name, as the reason the party drove up to Jotunheim after landing in a -heim.",
+      "notes": [
+        "Sylan recalls the seeing stones, under this name, as the reason they drove up to Jotunheim after landing in a -heim."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:48:23.802Z",
-  "updatedAt": "2026-08-11T15:48:23.802Z",
+  "updatedAt": "2026-10-19T20:26:50.317Z",
   "normalizedAliases": [
     "sitting stones"
   ]

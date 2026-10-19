@@ -1,0 +1,235 @@
+{
+    "plotSections": [
+        {
+            "title": "Fusing the lantern staff",
+            "bullets": [
+                "Ord and Sylan go into the woods at their usual door-testing spot, away from the stronghold, to repeat the lantern ritual that previously blinded onlookers. Sylan looks away and closes his eyes.",
+                "Ord speaks a working oath: no evil shall escape his sight, and those who worship evil should beware his power, then calls the staff lantern's light. The DM treats the wording as still being workshopped.",
+                "The staff of the lantern bearer and the identified lantern of revealing were already polarized toward each other and fused in an earlier impromptu session by reading the inscription on the lantern. The result is one staff-and-lantern."
+            ]
+        },
+        {
+            "title": "Ethereal sight and the spirits",
+            "bullets": [
+                "For Ord the activation is an audible tone. For Sylan the forest flashes, then Ord stands holding the fused staff. The world reads as grayscale, semi-opaque, and ghostly: the ethereal plane, with shadows moving through the woods that were not visible before.",
+                "Sylan is visible but several shades darker than the surroundings. About half a dozen cloudy, semi-translucent figures mill around him, half above and half through him.",
+                "The lantern and Ord's eyes glow a desaturated blue. Ord's pupils are gone; the eyes are one flat glowing color and trail a little smoke when he blinks.",
+                "Ord waves, steps closer, tells Sylan what he sees, and slowly brings the staff toward the nearest figure without quite touching it. The being startles, stares at the lantern and at Ord, then grabs the crook and tries to wrench the staff away. Its face is gaunt, its eyes crazed, and it is only half solidified, but it can physically hold the lantern.",
+                "A profound wail hits inside the head rather than from outside. Where the being grips the lantern, its edges burn away like paper and it starts to dematerialize. The other five turn, howl, and move on the lantern. Three or four spirits are soon pulling on it, and the first is about half burnt away. Sylan only sees the staff jerk.",
+                "Ord holds on and asks who they are and whether they can hear him. Sylan grabs the staff to wrench it back toward Ord, both of them curious whether the sight effect transfers. Sylan says they should never touch the thing again because it always brings those terrible things. Whether the effect transfers is not resolved in this chunk."
+            ]
+        },
+        {
+            "title": "Who is watching",
+            "bullets": [
+                "Dana is in her tower, knows which way they went, and watches from afar with her broom ready after the flash.",
+                "Gerk is at the same spot, in a shady place within thirty feet, watching rather than taking part. He looked at the light and must make a wisdom save. With Ord's nearby bonus the total is 7 against a DC that needs to break 10, so the save fails. The consequence is not narrated before the chunk ends."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord recites a paladin-style charge over the staff lantern while Sylan looks away; they are in the forest at the door-testing grounds.",
+        "The DM confirms the lantern of revealing and the staff of the lantern bearer fused after their inscription was read.",
+        "The forest flashes. Ord perceives the ethereal plane in ghostly grayscale and sees about six cloudy figures clustered on Sylan. His eyes and the lantern glow flat desaturated blue.",
+        "Ord extends the staff toward the nearest spirit. It grabs the crook, wails inside his head, and burns away at the edges while the rest rush the lantern and pull.",
+        "Sylan grabs the staff to pull it back to Ord. Three or four spirits are on it and the first is about half gone.",
+        "Dana watches from her tower. Gerk, within thirty feet and having looked at the light, fails a wisdom save with a 7."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin connected to the Great Eldarin Tree who serves as Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Leads the repeat of the lantern ritual in the woods and holds the fused staff of the lantern bearer and lantern of revealing.",
+                "While the effect is up he sees the ethereal plane as grayscale, semi-opaque, and ghostly, including shadows in the woods and the spirits on Sylan.",
+                "His eyes lose their pupils and glow the same desaturated blue as the lantern, with a small smoky plume when he blinks.",
+                "He can be heard by the spirits at least as a presence: the first one responds by grabbing the staff. He asks who it is and whether it can hear him; no answer is given.",
+                "His nearby bonus is applied to Gerk's wisdom save against the light."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "No evil shall escape my sight. But those who worship evil, smite — beware of my power."
+            ],
+            "openQuestions": [
+                "Does the fused lantern let him see through magical darkness?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Looks away and closes his eyes for the ritual because the last use blinded someone.",
+                "On the ethereal view he is darker than the forest, with about half a dozen cloudy figures floating through and around him.",
+                "He cannot see the spirits; he only sees the staff jerk when they pull.",
+                "He grabs the staff to wrench it back to Ord and wants to know if the sight effect transfers to him.",
+                "He says they should never touch the thing again because it always brings those terrible things."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "We should never touch this thing ever again. It always brings those terrible things."
+            ],
+            "openQuestions": [
+                "Does gripping the fused staff transfer Ord's ethereal sight to Sylan?"
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Stays at the door-testing spot in a shady place, watching the ritual rather than taking part.",
+                "He looked toward the light and, within thirty feet, fails a wisdom save: total 7 against a DC that has to break 10."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Stays in her tower, knows which direction Ord and Sylan went, and watches the flash from afar with her broom ready."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lantern of Revealing": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Previously identified by the party, then fused with the staff of the lantern bearer. The two items behaved as if polarized or magnetized, and reading the inscription on the lantern finished the fusion.",
+                "When lit it sheds a desaturated blue light and shows Ord the ethereal plane in ghostly grayscale.",
+                "Ethereal spirits can grab it. Contact makes them burn away from the edges like paper while they howl inside the hearer's head.",
+                "A previous use blasted bright light and blinded people. This use is the same steps, done in the woods so bystanders would not be blinded. Sylan looked away."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can it see through magical darkness?",
+                "Does the sight pass to someone else who grips the staff?"
+            ]
+        },
+        "Staff of the Lantern Bearer": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "The staff half of the fused lantern item. Ord carries it, and the spirits seize the crook of the staff rather than only the lantern housing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ethereal spirits": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Ethereal beings",
+            "notes": [
+                "About half a dozen cloudy, semi-translucent figures were already milling around Sylan, half above and half through him, unseen until the lantern showed the ethereal plane.",
+                "The nearest has a gaunt face and crazed eyes and is only half solidified, but it can grab the lantern.",
+                "They howl inside the mind, are drawn to the lantern, and dematerialize from the edges like burning paper while holding it. The first is about half gone while three or four others pull on the staff."
+            ],
+            "titles": [],
+            "personality": [
+                "Startled by the lantern, then aggressive about seizing it."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who they are, and whether they can answer Ord."
+            ]
+        },
+        "Southern stream clearing": {
+            "existing": "A streamside clearing south of Langdale Stronghold, chosen for Gerk's doorway practice.",
+            "entityType": "Location",
+            "notes": [
+                "Called their normal spot, secret spot, and door-testing grounds. Ord and Sylan use it again so the lantern flash stays away from everyone else. Gerk watches from shade there; Dana only observes from the stronghold tower."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "wisdom saving grow",
+            "likely": "wisdom saving throw",
+            "notes": "DM asking Sylan, then later Gerk, to save against the lantern flash."
+        },
+        {
+            "heard": "wiz d'h",
+            "likely": "wisdom save",
+            "notes": "DM: then Ord, give me a wisdom save, because last time this blinded him."
+        },
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "Repeated: inspect silent, milling about around silent, silent you just see it jerk."
+        },
+        {
+            "heard": "Profound whale",
+            "likely": "profound wail",
+            "notes": "The spirit's cry heard inside the head."
+        },
+        {
+            "heard": "in Pro L",
+            "likely": "in profile",
+            "notes": "Sylan: I see you in profile, so I'll grab the staff."
+        },
+        {
+            "heard": "transcures",
+            "likely": "transfers",
+            "notes": "Whether the ethereal sight transfers when Sylan grips the staff."
+        },
+        {
+            "heard": "spad",
+            "likely": "spot",
+            "notes": "DM echoing their super secret spot."
+        },
+        {
+            "heard": "Orden's Island",
+            "likely": "Ord and Sylan",
+            "notes": "DM asking if Gerk is with Ord and Sylan."
+        },
+        {
+            "heard": "Word of Ship",
+            "likely": "Ord",
+            "notes": "Sylan asking if Gerk is within thirty feet of Ord for the save bonus. Gerk then says within thirty feet of ward, meaning the same aura."
+        },
+        {
+            "heard": "whiz",
+            "likely": "wisdom",
+            "notes": "DM confirming the wisdom save."
+        }
+    ],
+    "openQuestions": [
+        "Does the fused lantern see through magical darkness?",
+        "Does the ethereal sight transfer to Sylan when he holds the staff?",
+        "Who are the spirits around Sylan, and can they answer?"
+    ],
+    "newTerms": [
+        {
+            "name": "Lantern of Revealing",
+            "notes": [
+                "Identified lantern the party fused to the staff of the lantern bearer by reading its inscription. Lit, it shows the ethereal plane and draws spirits that burn away on contact."
+            ]
+        },
+        {
+            "name": "Staff of the Lantern Bearer",
+            "notes": [
+                "Staff fused with the lantern of revealing into one staff-and-lantern Ord carries."
+            ]
+        },
+        {
+            "name": "Ethereal spirits",
+            "notes": [
+                "Half-dozen cloudy figures already clinging around Sylan on the ethereal plane. They seize the lit lantern, howl inwardly, and burn away from the point of contact."
+            ]
+        }
+    ]
+}

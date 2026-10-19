@@ -1,0 +1,29 @@
+{
+  "name": "Heat stone",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "A warming stone that keeps its bearer warm, bought from Nyx Cage in Agenheim.",
+  "aliases": [],
+  "normalizedAliases": [
+    "heat stone"
+  ],
+  "filename": "items/heat_stone.md",
+  "description": "A heat stone, also called a warming stone, a fire stone, or a hot rock, keeps its bearer warm. It is not a primal stone. Further fire magic is theoretically possible, but without proper containment the stone would implode immediately.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "The party bought heat stones in Agenheim from Nyx Cage the Ice Mage because it was cold. A discount was offered for stealing a peace treaty in Helheim; they paid without doing the job. Walker still has his, and Plymouth confirms it does what it is supposed to. Walker will not attempt further fire magic. Gerk treats his as a hot rock he puts in his pants.",
+      "notes": [
+        "Also called a warming stone, a fire stone, and a hot rock. It keeps the bearer warm and is not a primal stone.",
+        "The party bought them in Agenheim from Nyx Cage the Ice Mage because it was cold. A discount was offered for stealing a peace treaty in Helheim. They paid without doing the job. Walker still has his. Gerk treats his as a hot rock he puts in his pants.",
+        "Plymouth confirms Walker's stone does what it is supposed to. More fire magic is theoretically possible, but without proper containment this stone would implode immediately. Walker will not try."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:36:46.599Z",
+  "updatedAt": "2026-10-19T20:51:02.629Z"
+}

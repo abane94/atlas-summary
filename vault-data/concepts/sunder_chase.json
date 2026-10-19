@@ -1,6 +1,8 @@
 {
   "name": "Sunder Chase",
-  "tags": [],
+  "tags": [
+    "event"
+  ],
   "slug": "A summer seasonal event.",
   "aliases": [],
   "normalizedAliases": [
@@ -35,5 +37,5 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:44:42.012Z",
-  "updatedAt": "2026-09-01T18:30:04.724Z"
+  "updatedAt": "2026-10-19T20:51:02.626Z"
 }

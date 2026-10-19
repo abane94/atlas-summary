@@ -1,0 +1,27 @@
+{
+  "name": "White monkey",
+  "tags": [],
+  "slug": "Koji's small child at the keep, called the little one.",
+  "aliases": [],
+  "normalizedAliases": [
+    "white monkey"
+  ],
+  "filename": "npcs/white_monkey.md",
+  "description": "A small figure at the keep, called the little one. The DM identifies him as Koji's child. Whether he is a monk or a special fighter is unresolved.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "While the party tries to name who lives at the keep, Sylan tries to place the white monkey and cannot remember whether he is a monk or only a special fighter. Ord calls him the little one and asks for his father's name, which the DM gives as Koji.",
+      "notes": [
+        "Small figure at the keep, called the little one. Sylan could not remember whether he is a monk or a special fighter. The DM names his father as Koji."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Is the white monkey a monk or a special fighter?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:31:05.302Z",
+  "updatedAt": "2026-10-19T20:31:05.302Z"
+}

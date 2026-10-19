@@ -1,0 +1,287 @@
+{
+    "plotSections": [
+        {
+            "title": "Lightning arrival above the stronghold",
+            "bullets": [
+                "After Walker agrees to go ahead, a lightning crack and flash moves the group from a grassy knoll to a brisk mountaintop overlooking a valley.",
+                "Plymouth pulls a smoldering rod from the ground, brushes off the soot, and returns it to his belt. He says he was a little off: a bit further and it would have been quite bad.",
+                "By his calculations the stronghold is down in the valley. He was aiming for the front door and landed on the mountain instead.",
+                "Walker thanks him. The scene then shifts to the rest of the party."
+            ]
+        },
+        {
+            "title": "Eighth morning at the keep",
+            "bullets": [
+                "It is the morning of the eighth day at the stronghold. Fall is coming in, the air is brisk, and thunder rolls in the distance. Walker has not contacted this group in game.",
+                "Sylan, already up and having worked with Gerk, checks on Ord. Ord asks for help with his lantern. They plan to experiment outside in the woods, away from people, with about an hour and a way to avoid blinding themselves. A similar outing worked last time.",
+                "Ord found the lantern in Volga. Sylan found a staff at Shades and Trades, thought the two belonged together, and they fused them."
+            ]
+        },
+        {
+            "title": "Ord's missing strength",
+            "bullets": [
+                "Ord has been trying to regain his strength and has made no progress. Dana could not fix it. Restoration and greater restoration, and everything else Dana has, have already been tried.",
+                "The loss comes from the fight with Gerk's uncle, the Grunkle, which ended with the uncle dying. He had taken some of Ord's strength. A floating Ord then appeared and solidified into a runic bead or sphere with a rune on it.",
+                "The clue they have is that you cannot restore what is not missing, so the strength is hidden rather than gone. Sylan suggests a monk might explain what the fight did to Ord. Ord thinks that is worth pursuing later and wants to deal with the lantern first."
+            ]
+        },
+        {
+            "title": "Who lives in the keep",
+            "bullets": [
+                "Sylan asks for a roster. He thinks about twenty people live in the keep and does not know their names. One of the party's maps lists the people; the map at hand does not.",
+                "Mahali is there and earns his place by cooking. The secrets man (the one they also call the rat) is treated as missing on an unscheduled vacation; the reminder is that the party needs to remember where they left him.",
+                "Sylan is trying to place a white monkey and whether he was a monk or only a special fighter. Ord says that is the little one and asks for the father's name, while mixing the name up with Benji. The name written on the list is Koji."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker agrees, and a lightning flash transports the group from a grassy knoll to a brisk mountaintop above a valley.",
+        "Plymouth recovers a smoldering rod from the ground, stows it, and admits the landing was off: the stronghold is below, and he had been aiming for the front door.",
+        "The view switches to the others on the morning of the eighth day. They still have had no in-game word from Walker. The morning is brisk, fall is arriving, and thunder sounds in the distance.",
+        "Sylan, after working with Gerk, checks on Ord. They agree to take Ord's lantern out to the woods, away from people, and experiment without blinding themselves.",
+        "Sylan recalls the lantern came from Volga and that he fused it with a staff he found at Shades and Trades.",
+        "Ord has not regained his strength. The fight with Gerk's uncle ended in the uncle's death after he took some of that strength; it became a floating form and then a runic bead. Dana's restoration magic failed because you cannot restore what is not missing.",
+        "Sylan suggests finding a monk who might explain the fight. Ord wants to start with the lantern.",
+        "They try to name the keep's residents. Mahali is accounted for as the cook. Their secrets man is regarded as away without leave, and the DM presses them to remember where they left him. The roster name in front of them is Koji, whom they are confusing with Benji and with a white monkey who may be a monk or a fighter."
+    ],
+    "entities": {
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who explains the Great Eldarin Tree, keystones, and Mother's Prayer, and guides the new keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Brought the travelers from a grassy knoll to a mountaintop with a lightning flash, using a smoldering rod planted in the ground that he then cleaned and returned to his belt.",
+                "Judged the landing a little off: a bit further would have been quite bad. He was aiming for the stronghold's front door and believes the stronghold is in the valley below."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "A little further and it would have been quite bad, but all's well that starts well."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Agreed to the teleport and arrived with Plymouth on the mountain above the stronghold.",
+                "As of the stronghold group's morning of the eighth day, he has never contacted them in game."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale Stronghold": {
+            "existing": "Party's central stronghold and home base.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Morning of the eighth day is brisk, with fall coming in. Thunder and lightning sound in the distance as Plymouth's group arrives on the mountain above.",
+                "Sylan believes about twenty people currently live in the keep. One of the party's maps marks those people; another does not.",
+                "There is a large lake below the keep."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin, Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has been trying to regain his lost strength with no success. Dana's restoration and greater restoration did not work.",
+                "The strength was taken in the battle with Gerk's uncle. A floating Ord appeared and solidified into a runic bead or sphere marked with a rune. The working clue is that you cannot restore what is not missing, so the strength is hidden rather than absent.",
+                "Owns a lantern found in Volga, since fused with a staff Sylan found at Shades and Trades. He wants to test it outside, away from people.",
+                "Agrees that finding a monk who understands what happened in that fight is a good idea, after the lantern."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can a monk explain what happened to Ord's strength in the fight with Gerk's uncle?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Had already been working with Gerk before checking on Ord this morning.",
+                "Found a staff at Shades and Trades and fused it with the lantern Ord found in Volga. He is ready to test the result in the woods and has a measure prepared so they do not blind themselves.",
+                "Suggested a monk might be able to interpret Ord's strength loss."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric, Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has already tried restoration, greater restoration, and the other options she has on Ord's strength. She recalls the clue as you cannot restore what is not missing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "You can't restore what's not missing."
+            ],
+            "openQuestions": []
+        },
+        "Gerk's uncle": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Called the Grunkle. His battle with the party ended in his death.",
+                "During that fight he took some of Ord's strength, which manifested as a floating Ord and then a runic bead or sphere."
+            ],
+            "titles": [
+                "The Grunkle"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Runic bead": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "After Gerk's uncle took some of Ord's strength, a floating Ord solidified into a sphere or bead with a rune written on it.",
+                "Tied to the idea that the strength is not missing and therefore cannot be restored by Dana's magic."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord's lantern": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Found by Ord in Volga. Sylan fused it with a staff from Shades and Trades because he thought the two belonged together, and they are not sure the fusion works.",
+                "Testing it can blind people. They plan to try it in the woods, away from the keep's residents. A previous outdoor test went well."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Do the fused Volga lantern and the Shades and Trades staff actually work together?"
+            ]
+        },
+        "Shades and Trades staff": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Staff Sylan found at Shades and Trades and fused to Ord's Volga lantern."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mikkel": {
+            "existing": "Spymaster crew member often left behind when the party departs.",
+            "entityType": "NPC",
+            "notes": [
+                "Discussed as the keep's secrets man, also called the rat. Sylan believes he is missing and took a vacation without asking. The correction is that the party has to remember where they left him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Where did the party leave their spymaster?"
+            ]
+        },
+        "Koji": {
+            "existing": "A stronghold guard who will relocate to the tavern during the evacuation.",
+            "entityType": "NPC",
+            "notes": [
+                "His name is the one written on the keep's people map while the party argues over residents.",
+                "Ord keeps confusing him with Benji. The same conversation is about a white monkey, called the little one, who might be a monk or a special fighter, and about that figure's father."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the white monkey a monk or a special fighter, and is Koji that figure or his father?"
+            ]
+        },
+        "Plymouth's rod": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Smoldering rod Plymouth drew out of the ground after the lightning teleport, brushed clean of soot, and slid back into his belt."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Pun",
+            "likely": "Plymouth",
+            "notes": "Walker thanks Pun right after Plymouth finishes the teleport."
+        },
+        {
+            "heard": "little Ord",
+            "likely": "little orb",
+            "notes": "Ord says his strength went to a little Ord that someone else touched; the DM describes a floating form that became a runic sphere."
+        },
+        {
+            "heard": "the orc. Tam.",
+            "likely": "",
+            "notes": "Ord's attempt to name where the strength was lost, before the DM identifies the fight with Gerk's uncle."
+        },
+        {
+            "heard": "D blinding ability",
+            "likely": "",
+            "notes": "Sylan checks that he has it prepared so the lantern test does not blind them."
+        },
+        {
+            "heard": "Shades and Trades",
+            "likely": "",
+            "notes": "Place where Sylan found the staff he fused to the Volga lantern. May be a shop name or a mishearing."
+        },
+        {
+            "heard": "the rack guy",
+            "likely": "Mikkel",
+            "notes": "Ord corrects from the rat to the rack guy, our man our secrets. Sylan treats him as away without leave."
+        },
+        {
+            "heard": "Inefficiencies",
+            "likely": "",
+            "notes": "DM's word for the origin of Ord's strength loss when offering a refresher."
+        }
+    ],
+    "openQuestions": [
+        "Do the fused lantern and staff work together?",
+        "Would a monk know how Ord's strength was taken and how to reach it?",
+        "Is the white monkey a monk or a special fighter, and how is he related to Koji?"
+    ],
+    "newTerms": [
+        {
+            "name": "The Grunkle",
+            "notes": [
+                "Gerk's uncle. Died at the end of the fight in which he took part of Ord's strength."
+            ]
+        },
+        {
+            "name": "Runic bead",
+            "notes": [
+                "Sphere with a rune on it that Ord's taken strength solidified into after appearing as a floating Ord."
+            ]
+        },
+        {
+            "name": "Shades and Trades",
+            "notes": [
+                "Where Sylan found the staff later fused to Ord's Volga lantern."
+            ]
+        },
+        {
+            "name": "White monkey",
+            "notes": [
+                "Keep resident the party is trying to identify. Sylan wonders if he is a monk or a special fighter. Ord calls him the little one and asks for his father's name. The roster name the DM points to is Koji."
+            ]
+        }
+    ]
+}

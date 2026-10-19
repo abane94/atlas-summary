@@ -2,7 +2,8 @@
   "name": "Walker",
   "slug": "Walker is a half-elf dragon rider and fighter bonded to Glimmen, originally from La-rel and now Gatekeeper of The Reach.",
   "tags": [
-    "title"
+    "title",
+    "dragon-rider"
   ],
   "aliases": [],
   "filename": "players/walker.md",
@@ -128,12 +129,31 @@
         "He has been spending energy and taking exhaustion to charge gems that now glow, and he hopes to learn primal stones. Near a conveyance his wards and shields would be amplified, then fade after he leaves. Untrained channeling could channel him out of existence.",
         "Expected back at the stronghold on Glimmen rather than by carriage, and invited to contact the others once told they went south into the forest. The stronghold is to be ready to feed the dragon."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Walker spoke with Vecna until Vecna left and learned what a ley-line convergence is. On Elrus's advice he flew to the obelisk with Plymouth Gawater, without having told Elrus of the convergence, and still wants Elrus's table in Nyx checked. Fire is the element he learned first; he can also call water, light, and darkness and spend energy stored in gemstones. He does not remember a cosmic loom. He considered primal stones in his helmet for night vision, heat, and sight through magical darkness, but drops that unless the helmet can see what he wants. He carries a heat stone from Nyx Cage and a keystone, leaves the keystone unmodified, and will not feed the heat stone more magic after an implosion warning. He reconstructs the ley-line offset as about half a degree (0.01 radians); his corrected return is from the tower, 0.01 radians west, then 5.6 miles. Elrus's watch shows 42 days of training to Walker's roughly two weeks, and he will not imbue a primal stone yet. He and Plymouth lightning-teleport above the stronghold on the morning of the eighth day and return with Glimmen and Araden. Bound for New Navel and then Grazog, he instead flies after Dana when the black beacon rises. Rejoined, he gives the recognition lines and will not say whether the hat, the party's phylactery candidate, has corrupted him.",
+      "notes": [
+        "Last session he spoke with Vecna in the cave, waited until Vecna left, and learned what a ley-line convergence is.",
+        "He flies to the convergence obelisk on Elrus's advice, with Plymouth Gawater aboard, and also wants Elrus's table in Nyx checked for another gold eagle or more information.",
+        "Fire is the element he learned first and treats as primary. He can also call water, light, and darkness, and he can spend energy already stored in gemstones. Dragon-linked people can move that stored energy safely. He had not told Elrus he had found a convergence.",
+        "He does not remember a cosmic loom. He is considering primal stones and wants them set in his helmet for night vision, heat detection, and sight through magical darkness. He already has darkvision, can breathe underwater, and carries a heat stone. He will not use the personal jewelry he worked hard to make, and he drops the project unless the helmet can see what he wants.",
+        "He carries a heat stone bought in Agenheim from Nyx Cage and a keystone. He jokes about modifying the keystone, then accepts Plymouth's refusal. After the implosion warning he will not feed the heat stone more magic.",
+        "At the obelisk he reconstructs a lost note: mountain to the west, obelisk to the north, about twenty degrees off the ley line. Facing the guild, the true line is about a hundred yards to the right. He restates that offset as about half a degree, or 0.01 radians.",
+        "He agrees to leave, gather more stones and energy, and return. His return pin, after he corrects an earlier 'two miles northwest,' is from the tower, 0.01 radians west, then 5.6 miles.",
+        "Elrus's watch says Walker has been training for exactly 42 days. Walker experienced about two weeks. He will not imbue a primal stone yet; he wants the party's advice. His own idea is night vision. He also suggests a bard instrument for Dana and says the cosmic loom still has to be sorted out before he knows whether a stone helps.",
+        "He has not contacted the stronghold group during this absence. He and Plymouth arrive by lightning teleport on the mountain above the stronghold, marked there by thunder on the morning of the eighth day. He returns from the training full of energy, with Glimmen and Araden.",
+        "He means to drop Plymouth Gawater at New Navel and then go to Grazog. One or two gatehouse guards hail him. When the black beacon rises he tells Elrus the plan has changed, leaves the Grazog trip, and flies after Dana. Glimmen overtakes her broom.",
+        "On arrival he asks what is going on. A claim of being gone forty-nine days is a joke he immediately walks back. He sees the beacon vanish when the staff is released.",
+        "He is back with the party as the two dragons land beside the forest. He supplies the recognition lines 'I don't trust the cat man,' 'scoop fruit,' and 'loincloth,' and jokes that Sylan should claim to be Gerk's dad.",
+        "The hat he has been wearing is the party's candidate for the lich's phylactery. Sylan remembers the first time Walker put it on as questionable. Asked if it has corrupted him, Walker does not answer directly."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:15:38.663Z",
-  "updatedAt": "2026-10-06T20:57:05.467Z",
+  "updatedAt": "2026-10-19T20:51:02.640Z",
   "normalizedAliases": [
     "walker"
   ]

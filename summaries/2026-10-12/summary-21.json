@@ -1,0 +1,288 @@
+{
+    "plotSections": [
+        {
+            "title": "The spirit lets go and the black beacon dies",
+            "bullets": [
+                "The party releases the woman they had been holding. Once they choose to let go, her hands lose their grip, pass through them, and she is pulled away.",
+                "While Sylan and Ord still have their hands together on the staff, an unworldly black luminescent beacon erupts into the sky. Gerk is still blind and screaming.",
+                "Sylan lets go. The beacon stops erupting. Dana and Walker can still see a faint afterimage for a few blinks, then it is gone."
+            ]
+        },
+        {
+            "title": "Ord's wireframe sight",
+            "bullets": [
+                "Ord keeps a wireframe-style view of the forest. No spirits come closer. At about sixty feet, hands and silhouettes flash in and out of the trees, then stay back.",
+                "Ord intentionally turns the sight off. A long blink ends it, and the forest looks normal again."
+            ]
+        },
+        {
+            "title": "Blind Gerk and the call phrase",
+            "bullets": [
+                "Gerk is still blind and swinging a hammer, terrified and unwilling to trust anyone he cannot see. Tremorsense tells him something is approaching. He fears a mimic.",
+                "Sylan tries to prove who he is. Their written call phrase is “I don’t trust the cat man.” Walker also recalls “scoop fruit” and “loincloth”; Sylan confirms the cat-man line is the first one.",
+                "Gerk reaches for Sylan’s face with the hammer still raised. Sylan casts lesser restoration through the touch. Gerk’s sight returns, he recognizes Sylan, and he picks him up."
+            ]
+        },
+        {
+            "title": "Restless souls and the reunion",
+            "bullets": [
+                "Sylan says the staff test left him with problems in New Navel: he thinks he picked up restless souls and may need a couple of days there as a ghost detective, possibly at Carlkin’s house, now that Walker is back.",
+                "He says he thought the little girl might be alone and kept extra spirits so she would have company. Gerk, who has dealt with voices in his head before, panics at being haunted and drops Sylan.",
+                "Dana and Walker arrive as two dragons land beside the forest. Dana scolds Ord, calling him Lord Bronztail, and tells Sylan not to touch magical items that are not his. Gerk insists Sylan haunted him."
+            ]
+        },
+        {
+            "title": "End of session",
+            "bullets": [
+                "The party is together again on the outskirts of Trigash Forest.",
+                "The DM recap: Ord opened a third eye with the lantern, the staff work drew spooky magic, and the spirits were mixed — some would not leave, some seemed to be trying to get back to neighbors. What that means is left for next session.",
+                "The chunk ends as the DM begins to say something new about Araden."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The held woman is released; her hands dematerialize and she is pulled away.",
+        "Hands joined on the staff send a black luminescent beacon into the sky while Gerk keeps screaming.",
+        "Sylan lets go. The beacon fades. Ord still sees the forest as a wireframe, with silhouettes dodging about sixty feet out and no spirits closing in.",
+        "Ord wills the sight off. After a long blink his vision is normal.",
+        "Sylan approaches blind, hammer-swinging Gerk. Gerk’s tremorsense picks up something approaching and he will not trust it.",
+        "They use the call phrase “I don’t trust the cat man.” Gerk touches Sylan’s face and Sylan casts lesser restoration. Gerk can see and recognizes him.",
+        "Sylan explains the staff test and says he may have gathered restless souls, including company for the little girl, and may have to do ghost-detective work in New Navel at Carlkin’s.",
+        "Gerk panics about being haunted. Dana and Walker land on two dragons and Dana scolds Ord and Sylan.",
+        "Session ends on the outskirts of Trigash Forest, with the beacon and the spirits unresolved."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He and Sylan had their hands together on the staff when the black beacon went up.",
+                "After the beacon died he still saw in a wireframe style. Movement stayed near the edge, about sixty feet out, and no further spirits approached.",
+                "He ended that sight by intending to turn it off. A long blink restored normal vision.",
+                "Dana addresses him as Lord Bronztail and demands to know what he was doing. He says they were practicing and did not know what would happen."
+            ],
+            "titles": [
+                "Lord Bronztail"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He agrees to let the woman go, then lets go of the staff, which ends the black beacon.",
+                "He casts lesser restoration on Gerk by touch while Gerk is feeling his face, restoring Gerk’s sight.",
+                "He believes the staff test left him carrying restless souls. He may spend a couple of days as a ghost detective in New Navel, and Gerk tells him to do that work at Carlkin’s house.",
+                "He says he thought the little girl might be alone, so he kept extra spirits as company for her. He is not sure he is actually full of ghosts.",
+                "His and Gerk’s call phrase, the one Gerk has written down, is “I don’t trust the cat man.”",
+                "Dana tells him never to touch a magical item that is not his. He allows that he might be a bad guy for it."
+            ],
+            "titles": [],
+            "personality": [
+                "He treats the gathered spirits lightly until Gerk panics, then admits he does not really know what he is carrying."
+            ],
+            "quotesThemes": [
+                "He may have to spend a couple of days as a ghost detective in New Navel because he picked up restless souls."
+            ],
+            "openQuestions": [
+                "Whether Sylan is actually carrying ghosts or restless souls."
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He is blind through the beacon and the aftermath, screaming and swinging a hammer because he is terrified and says his eyes are all he has.",
+                "Tremorsense lets him feel someone approaching. He suspects a mimic until the call phrase and Sylan’s face convince him.",
+                "The call phrase he has written down is “I don’t trust the cat man.”",
+                "Lesser restoration restores his sight. He recognizes Sylan, hugs him, and lifts him up, then asks what they did to his eyes.",
+                "He has previously had voices in his head and is furious at the idea Sylan haunted him. He says he cannot afford to be haunted.",
+                "He tells Sylan to do the New Navel ghost work at Carlkin’s house."
+            ],
+            "titles": [],
+            "personality": [
+                "Blind and panicking, he defaults to the hammer and refuses to trust a voice he cannot verify."
+            ],
+            "quotesThemes": [
+                "“I can’t believe you haunted me.”"
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She and Walker see the black beacon vanish when Sylan lets go.",
+                "She arrives with Walker as two dragons land beside the forest.",
+                "She scolds Ord as Lord Bronztail — “what in the seven arches did you think you were doing?” — and asks why Gerk says he was haunted.",
+                "She tells Sylan never to touch a magical item that is not his, and she is stomping through the group smacking people with her broom."
+            ],
+            "titles": [],
+            "personality": [
+                "She takes a full parental tone with the group once she sees the aftermath."
+            ],
+            "quotesThemes": [
+                "“Lord Bronztail, what in the seven arches did you think you were doing?”",
+                "“Sylan, you should never touch any magical item that isn’t yours.”"
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He is back with the party and arrives with Dana as two dragons land beside the forest.",
+                "He remembers the group’s verification jokes and prompts the cat-man call phrase, along with “scoop fruit” and “loincloth.”",
+                "Sylan treats Walker’s return as the reason he can now go deal with the New Navel spirits."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Daisy": {
+            "existing": "A mysterious small girl linked to Gerk.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan says he thought the little girl might be alone, so he kept extra restless souls to keep her company."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Trigash Forest": {
+            "existing": "",
+            "entityType": "Location",
+            "notes": [
+                "The session ends on the outskirts of Trigash Forest, which the DM names for clarity.",
+                "The black beacon, Ord’s wireframe sight, and the lurking spirits all happen here. Silhouettes stayed about sixty feet out and did not close in."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the beacon and the spirits in Trigash Forest are about."
+            ]
+        },
+        "Staff": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Ord and Sylan were testing it again, hands together on it.",
+                "That contact raised an unworldly black luminescent beacon into the sky. Letting go ended the beacon.",
+                "Sylan ties the test to restless souls he thinks he picked up, and to work he still has to do in New Navel."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "A familiar stop that holds Carlkin’s lighthouse.",
+            "entityType": "Location",
+            "notes": [
+                "Sylan thinks he has to spend a couple of days there as a ghost detective because of restless souls he picked up.",
+                "Gerk tells him to do that at Carlkin’s house. Sylan says he might, if duty calls."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Gard",
+            "likely": "Gerk",
+            "notes": "Sylan says he wants to move over to Gard while Gerk is still blind."
+        },
+        {
+            "heard": "Birk",
+            "likely": "Gerk",
+            "notes": "Dana asks why Birk says he was being haunted."
+        },
+        {
+            "heard": "Trevor Sense",
+            "likely": "tremorsense",
+            "notes": "Gerk says he feels something approaching while blind."
+        },
+        {
+            "heard": "less terrestrial",
+            "likely": "lesser restoration",
+            "notes": "Sylan casts it on Gerk through the face touch. The DM repeats it as lesser restoration."
+        },
+        {
+            "heard": "Navelle",
+            "likely": "New Navel",
+            "notes": "Sylan says he has a lot of problems to solve there."
+        },
+        {
+            "heard": "New Hell",
+            "likely": "New Navel",
+            "notes": "Sylan says he may spend days as a ghost detective there."
+        },
+        {
+            "heard": "two drains",
+            "likely": "two dragons",
+            "notes": "Dana and Walker arrive as the two dragons land beside the forest."
+        },
+        {
+            "heard": "lighted, Derek",
+            "likely": "blinded, Gerk",
+            "notes": "Sylan apologizes after Gerk’s sight returns."
+        },
+        {
+            "heard": "Star Way",
+            "likely": "safe word",
+            "notes": "Sylan is hunting for the call phrase Gerk would remember. The line they land on is “I don’t trust the cat man.”"
+        },
+        {
+            "heard": "take in silent",
+            "likely": "",
+            "notes": "DM recap of the spooky magic after the lantern and third eye. Unclear whether this is a spell name or “taken in silence.”"
+        },
+        {
+            "heard": "my lane",
+            "likely": "",
+            "notes": "Ord says he was working on his lane when Dana scolds him. Could be his plan, a ley, or the lantern."
+        },
+        {
+            "heard": "Stand decimo",
+            "likely": "",
+            "notes": "Gerk shouts this as he recognizes Sylan and grabs him. Sounds like an exclamation, not a clear name."
+        }
+    ],
+    "openQuestions": [
+        "What the black beacon and the Trigash Forest spirits are, including why some would not leave and some seemed to be trying to get back to neighbors.",
+        "Whether Sylan is actually carrying restless souls."
+    ],
+    "newTerms": [
+        {
+            "name": "Trigash Forest",
+            "notes": [
+                "The forest outskirts where this scene ends. The DM names it so the table is clear about the location."
+            ]
+        },
+        {
+            "name": "Lord Bronztail",
+            "notes": [
+                "The name Dana uses for Ord while scolding him."
+            ]
+        },
+        {
+            "name": "I don’t trust the cat man",
+            "notes": [
+                "Sylan and Gerk’s call phrase. Gerk has it written down. Walker also floats “scoop fruit” and “loincloth”; Sylan says the cat-man line is the first one."
+            ]
+        },
+        {
+            "name": "Seven arches",
+            "notes": [
+                "Dana’s oath: “what in the seven arches did you think you were doing?”"
+            ]
+        }
+    ]
+}

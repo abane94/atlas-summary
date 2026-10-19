@@ -1,6 +1,8 @@
 {
   "name": "Abel",
-  "tags": [],
+  "tags": [
+    "companion"
+  ],
   "slug": "Abel is a surviving-and-revived crew member who serves as the boat's helmsman.",
   "aliases": [],
   "normalizedAliases": [
@@ -32,5 +34,5 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:02:38.608Z",
-  "updatedAt": "2026-09-01T18:31:37.966Z"
+  "updatedAt": "2026-10-19T20:51:02.634Z"
 }

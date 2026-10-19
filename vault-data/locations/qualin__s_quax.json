@@ -1,7 +1,8 @@
 {
   "name": "Qualin's Quax",
   "tags": [
-    "landmark"
+    "landmark",
+    "alchemy"
   ],
   "slug": "Doubly punned Sunder apothecary run by Quaylin",
   "aliases": [],
@@ -26,5 +27,5 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-09-01T18:33:04.063Z",
-  "updatedAt": "2026-09-01T18:33:04.063Z"
+  "updatedAt": "2026-10-19T20:51:02.633Z"
 }

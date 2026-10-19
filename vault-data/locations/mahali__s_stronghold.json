@@ -1,6 +1,8 @@
 {
   "name": "Mahali's Stronghold",
-  "tags": [],
+  "tags": [
+    "landmark"
+  ],
   "slug": "Mahali's stronghold was evacuated after Gerk's doorway opened into its kitchen.",
   "aliases": [],
   "normalizedAliases": [
@@ -25,5 +27,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:36:05.763Z",
-  "updatedAt": "2026-08-21T18:36:05.763Z"
+  "updatedAt": "2026-10-19T20:51:02.632Z"
 }

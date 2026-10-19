@@ -1,0 +1,292 @@
+{
+    "plotSections": [
+        {
+            "title": "Glimmen and Araden catch up",
+            "bullets": [
+                "A large dark vortex comes out of the sky with a flying broom, then Glimmen and Araden on the broom overtake it and match pace with the party.",
+                "Dana greets them with “Nice of you to show up.” Walker asks what is going on. Dana guesses the others have been messing with a magical item, and says she was also indisposed for a couple of days and that this is what happens when she and Walker are both gone.",
+                "Walker’s line about being gone forty-nine days is a joke he immediately walks back."
+            ]
+        },
+        {
+            "title": "The last Old Navel spirit",
+            "bullets": [
+                "The DM cuts to the other group: a blind Gerk and the staff-wielders. Gerk keeps screaming and continues what he was already doing. Sylan asks whether to interrogate the last spirit to see if she has the same story. Ord grabs her.",
+                "She is an amorphous upper half of an elderly, sickly, pockmarked woman. Unlike the earlier standoffish spirits, she death-grips Ord’s hand and begs him not to let go: it is not her time, her son does not know, and he needs to know. She says the darkness is coming and that he is pulling her to him.",
+                "Ord asks who her son is, offers to carry a message, and asks her name. She only repeats “my son,” “my name,” and that they need to know. Ord and Sylan decide they are getting nowhere and Ord lets her go.",
+                "While Ord is holding her she can physically grip him. The moment he chooses to release her, her hands dematerialize, pass through him, and she is vacuumed away. The area goes oddly quiet.",
+                "Ord and Sylan take these figures for spirits from Old Navel. Sylan thinks walking past stirred them up, and jokes that it is like a ghost retirement home."
+            ]
+        },
+        {
+            "title": "Black beacon and Ord’s spirit sight",
+            "bullets": [
+                "An unworldly black luminescent beacon is erupting into the sky from the joined hands on a staff. Gerk is still screaming. Sylan compares it to Call of Cthulhu and lets go after Ord tells him he can.",
+                "When the staff is released, the clearing dies in light. Dana and Walker see the black beacon vanish, leaving only a brief afterimage. No more spirits close in. At about sixty feet, hands and silhouettes still flash in and out of the forest edge, but they do not approach.",
+                "Ord can still see in an almost wireframe style. He tries to end it by intent. A long blink extinguishes the sight; he opens his eyes to normal vision and the forest looks ordinary again."
+            ]
+        },
+        {
+            "title": "Blind Gerk",
+            "bullets": [
+                "Gerk is still blind. Sylan tells him to stop swinging the hammer. Gerk refuses: he is terrified, cannot see, and says his eyes are all he has.",
+                "Gerk remembers he has tremorsense and feels something approaching. Sylan says it is a friend. Gerk fears a mimic and demands proof.",
+                "Walker jokes that Sylan should say he is Gerk’s dad, and that only Gerk would know that joke. Sylan does not want to use that and does not think Gerk will remember their call phrases.",
+                "The phrase they land on is “I don’t trust the cat man.” Gerk says that is the one note he has written down. Sylan confirms it is the first one. Walker also throws out “scoop fruit” and “loincloth” as possible wordings.",
+                "Flapping becomes audible as Glimmen and Araden arrive. Sylan asks if this is the real Gerk. Gerk asks to touch Sylan’s face to recognize him, keeps the hammer raised in the other hand, and reaches out ready to strike."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Glimmen and Araden on a flying broom overtake a large dark vortex from the sky and match pace with the party.",
+        "Dana and Walker react to the chaos; Dana credits it to someone using a magical item while she and Walker were away.",
+        "Gerk keeps screaming. Sylan proposes checking the last spirit, and Ord grabs her.",
+        "The spirit, an elderly sickly woman, clings to Ord and begs him to let her tell her son something before the darkness pulls her in. She never gives a name or a clear message.",
+        "Ord releases her. She loses physical purchase and is vacuumed away, and the area goes quiet.",
+        "A black luminescent beacon from the hands on the staff is pouring into the sky. Sylan lets go and the beacon dies, with a brief afterimage for Dana and Walker.",
+        "Spirits no longer approach. Silhouettes and hands still flicker about sixty feet out at the forest edge.",
+        "Ord wills the wireframe spirit-sight off with a long blink and can see the forest normally again.",
+        "Sylan tries to stop blind, hammer-swinging Gerk. Gerk’s tremorsense picks up someone approaching, and he suspects a mimic.",
+        "They use the written call phrase “I don’t trust the cat man,” which Sylan confirms.",
+        "Wingbeats arrive. Gerk holds the hammer ready and reaches to touch Sylan’s face."
+    ],
+    "entities": {
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Arrives with Araden on a flying broom, overtaking a large dark vortex from the sky, and matches pace with the party.",
+                "The sound of flapping becomes present while Sylan is trying to prove himself to blind Gerk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Rides with Glimmen on the flying broom that catches the party after a dark vortex in the sky."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric, most knowledgeable of the group.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Tells the arrivals this is what happens when she and Walker are both gone. She was indisposed for a couple of days and assumes the others were using a magical item.",
+                "Sees the black beacon disappear when the staff is released, with the outline lingering for a few blinks."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Nice of you to show up.",
+                "This is what happens when we're both gone."
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "On arrival asks what is going on. The “forty-nine days” line is a joke he walks back.",
+                "Sees the black beacon vanish.",
+                "Knows the Gerk recognition bit: he supplies “I don’t trust the cat man,” and also offers “scoop fruit” and “loincloth.” He jokes that Sylan should claim to be Gerk’s dad because only Gerk would know that joke."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "I don't trust the cat man."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Grabs the last spirit, an elderly woman, and tries to learn her name and her son’s so he can pass a message. She cannot answer, so he lets her go.",
+                "While he is interacting with her she can death-grip his hand; when he consciously releases her, she dematerializes and is vacuumed away.",
+                "He and Sylan think the spirits are from Old Navel.",
+                "After the staff beacon ends he still has a wireframe-style sight: movement and silhouettes out to about sixty feet, but no spirits closing in. He turns that sight off by intending it; a long blink restores normal vision and the forest looks ordinary."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Suggests grabbing the last spirit to see if her story matches the others, then agrees to let her go.",
+                "Thinks the spirits are from Old Navel and that walking past stirred them up.",
+                "Is on the staff whose joined hands throw a black luminescent beacon into the sky. He lets go after Ord says he can, and the beacon ends.",
+                "Approaches blind Gerk and tells him to stop swinging the hammer. Offers the call phrases; confirms “I don’t trust the cat man” is the first one. Asks Gerk to put the hammer aside before touching his face."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, party ambassador.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Remains blind through the spirit encounter, screaming at the top of his lungs and swinging a hammer. He will not stop because he is terrified and says his eyes are all he has.",
+                "Uses tremorsense and feels someone approaching. He suspects a mimic and demands proof before trusting the voice.",
+                "The one note he has written down is the call phrase “I don’t trust the cat man.”",
+                "Holds the hammer up in one hand, ready to strike, and reaches with the other to touch Sylan’s face."
+            ],
+            "titles": [],
+            "personality": [
+                "While blinded he is panicked, mistrustful, and ready to hit anything he cannot verify."
+            ],
+            "quotesThemes": [
+                "I am terrified. I can't see. This is all my eyes are all I have.",
+                "You could be like a mimic."
+            ],
+            "openQuestions": []
+        },
+        "Elderly spirit": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "The last of the spirits Ord grabs. Amorphous upper body of an elderly, sickly, pockmarked woman, taken by the party for an Old Navel spirit.",
+                "She death-grips Ord and pleads that it is not her time, her son does not know, and he needs to know. She says the darkness comes and that he is pulling her to him. She never states her name, her son’s name, or the message.",
+                "On release her hands pass through Ord and she is vacuumed away."
+            ],
+            "titles": [],
+            "personality": [
+                "Desperate and clinging, unlike the earlier spirits who were standoffish."
+            ],
+            "quotesThemes": [
+                "My boy, don't let me go. It's not my time yet.",
+                "I need to tell my son. He needs to know.",
+                "The darkness comes, he is pulling me to him."
+            ],
+            "openQuestions": [
+                "What is her name, who is her son, and what does he need to be told?",
+                "Who is the “he” she says is pulling her into the darkness?"
+            ]
+        },
+        "Old Navel": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "Ord asks if these are all the spirits from Old Navel, and Sylan agrees. Sylan thinks they were stirred up when the party walked by."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Staff": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Joined hands on this staff throw an unworldly black luminescent beacon into the sky.",
+                "When Sylan lets go, the beacon disappears and the clearing dies in light. A faint outline remains for a few blinks. Ord’s wireframe spirit-sight continues until he turns that off separately."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Flying broom": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Glimmen and Araden arrive on a flying broom that comes through, then overtakes, a large dark vortex from the sky, and they match the party’s pace."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Party call phrases": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Sylan tries to prove himself to blinded Gerk with their call phrases, but doubts Gerk will remember them.",
+                "The one Gerk has written down, and the one Sylan confirms as the first, is “I don’t trust the cat man.” Walker also offers “scoop fruit” and “loincloth,” which may be the same phrase misheard.",
+                "Walker’s “Sylan is your dad” joke is not a phrase Sylan is willing to use, and Sylan says it has not been explained in a way Gerk would trust."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "I don't trust the cat man."
+            ],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Old Naval",
+            "likely": "Old Navel",
+            "notes": "Ord asks if the spirits are from Old Naval; Sylan agrees. New Navel is the known place name."
+        },
+        {
+            "heard": "Alan",
+            "likely": "Sylan",
+            "notes": "Ord says “Alan, I don't know if we're getting anywhere with this one” while talking to Sylan about the spirit."
+        },
+        {
+            "heard": "Gard",
+            "likely": "Gerk",
+            "notes": "Sylan says he wants to move over to Gard just before addressing Gerk about the hammer."
+        },
+        {
+            "heard": "Trevor Sense",
+            "likely": "tremorsense",
+            "notes": "Gerk says he feels something approaching while blinded, and the DM confirms it."
+        },
+        {
+            "heard": "Star Way can wear",
+            "likely": "",
+            "notes": "Sylan says “What's the best Star Way can wear?” immediately before the cat-man call phrase. Likely a garbled prompt for the passphrase."
+        },
+        {
+            "heard": "scoop fruit",
+            "likely": "",
+            "notes": "Walker offers this as part of the cat-man safeword. May be a misheard call phrase rather than the words themselves."
+        },
+        {
+            "heard": "loincloth",
+            "likely": "",
+            "notes": "Walker offers “scoop fruit or loincloth” in the same safeword check. Sylan only confirms “that's the first one.”"
+        },
+        {
+            "heard": "Who fits you?",
+            "likely": "",
+            "notes": "DM line while Gerk is demanding proof and Sylan is identifying himself. Unclear whether it is dialogue or a bad hearing of the proof exchange."
+        }
+    ],
+    "openQuestions": [
+        "The elderly spirit never gave her name, her son’s name, or what he needs to know.",
+        "She said the darkness is pulling her and that “he” is pulling her to him, and the party never learned who that is."
+    ],
+    "newTerms": [
+        {
+            "name": "Old Navel spirits",
+            "notes": [
+                "Spirits the party believes come from Old Navel. Earlier ones were standoffish; the last, an elderly woman, clung to Ord until he let go and she was vacuumed away. They can physically grip someone who is consciously interacting with them, and they stop approaching once that contact ends."
+            ]
+        },
+        {
+            "name": "Black beacon",
+            "notes": [
+                "Unworldly black luminescent beacon erupting into the sky from joined hands on the staff. It ends when the hands let go, leaving a short visual afterimage."
+            ]
+        },
+        {
+            "name": "I don't trust the cat man",
+            "notes": [
+                "First party call phrase. It is the one note Gerk has written down, and Sylan confirms it when proving he is real to blinded Gerk."
+            ]
+        }
+    ]
+}

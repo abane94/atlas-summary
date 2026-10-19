@@ -1,0 +1,304 @@
+{
+    "plotSections": [
+        {
+            "title": "Blinded at the glade",
+            "bullets": [
+                "Gerk is blind and fumbling on the ground after a failed save: 3 on the die plus a straight +5, total 8. Ciri is completely gone. Sylan had been blind in a tree.",
+                "Walker has just come back up on the mountainside from training, full of energy."
+            ]
+        },
+        {
+            "title": "Return to the stronghold",
+            "bullets": [
+                "Walker plans to drop Plymouth Gawater off, then go to Grazog. Plymouth asks to be set down at New Navel and says he will make his own way. Sylan says the party badly needs to talk to him.",
+                "Dana is in her tower at the window, deep in notes and books, testing whether the helmet could be the phylactery against a Legend Lore prophetic vision.",
+                "She hears dragon wings. Glimmen and Araden approach and land near the stronghold. The village, used to Glimmen alone, buzzes at a second dragon several sizes larger.",
+                "Plymouth scrambles off Glimmen and heads toward New Navel at a brisk pace. One or two gatehouse guards hail Walker."
+            ]
+        },
+        {
+            "title": "Incandescent shadow and the black beacon",
+            "bullets": [
+                "Toward the treeline, a beacon of eternal blackness erupts: a swirling mass of ink rising like a beacon, with a shadowy wave that can be felt passing through everything even when it cannot quite be seen. Dana calls it a giant pillar of darkness from the woods.",
+                "That beacon rises as Sylan takes hold of the staff. The lantern's color shifts to incandescent shadow, a roiling ball of shadow glowing inside it. Semi-translucent forms that had been grabbing the lantern erupt outward and fall as incomplete physical bodies. The air crackles, and the glade is both the darkest and the brightest it has been.",
+                "Dana gets on her broom and heads straight for the pillar."
+            ]
+        },
+        {
+            "title": "Spirits pulled into Sylan",
+            "bullets": [
+                "Once a spirit comes within about four feet of Sylan while he holds the active staff, a vortex sucks it into him. A second follows, then another. Sylan feels no change. The vacuum is a byproduct of touching the staff while it is active. Blind Gerk only hears the sucking.",
+                "Sylan does not recognize any of them, neither the ones already dematerialized into him nor the ones still prone and being dragged toward him. They look much alike except one fitter figure whose defining mark is a large wound down the center of his face, a killing blow by ordinary or nefarious means.",
+                "After being pulled in, the remaining spirits crawl the other way and cannot break the pull. Sylan keeps hold: he has dealt with spirits before, did not expect them to follow him, and wants to see it through. He asks Ord whether to let go.",
+                "Ord tries the reverse of the incantation, said backwards, to turn it off. He notes that the last time they tried to turn it off, something else happened. The DM asks whether they mean to shut it off or incite something else. The chunk ends before that resolves."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Gerk fails the save (3 + 5 = 8) and is left blind on the ground. Ciri is gone.",
+        "Walker, back from mountainside training, decides to drop Plymouth Gawater at New Navel and then go to Grazog. Plymouth walks off toward New Navel on his own.",
+        "Dana researches whether the helmet is the phylactery, then sees Glimmen and the much larger Araden land by the stronghold. The village reacts. Gatehouse guards hail Walker.",
+        "A beacon of blackness erupts from the treeline as Sylan grabs the staff. The lantern becomes incandescent shadow and the spirits drop as unfinished physical bodies.",
+        "Spirits within about four feet of Sylan are vacuumed into him. He feels nothing and keeps holding the staff. Dana flies her broom toward the pillar.",
+        "Sylan recognizes none of the spirits. One has a killing wound down the center of his face. The rest crawl away but cannot escape the pull.",
+        "Ord starts to speak the incantation backwards to turn the effect off. The attempt is not resolved in this chunk."
+    ],
+    "entities": {
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Fails a save (rolled 3, straight +5, total 8) and is blind, fumbling on the ground.",
+                "Hears the spirits being sucked in and cannot see the glade.",
+                "Considers opening a door to light."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue, keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Completely gone from the scene."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Returns to the mountainside from training, full of energy, with Glimmen and Araden.",
+                "Drops Plymouth Gawater so Plymouth can walk to New Navel, then intends to go to Grazog.",
+                "Is hailed by one or two gatehouse guards and sees the black beacon rise from the treeline."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric, Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "In her tower window, comparing notes and books to a Legend Lore prophetic vision to test whether the helmet could be the phylactery.",
+                "Sees Glimmen and Araden land, then a pillar of darkness from the woods, and flies her broom straight toward it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Could the helmet be the phylactery?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Had been blind in a tree before this beat.",
+                "Takes hold of the staff. Spirits within about four feet are vacuumed into him. He feels no internal change and refuses to let go.",
+                "Does not recognize the spirits. Says he has dealt with spirits before and did not expect them to follow him.",
+                "Asks Ord whether to release the staff. Says the party badly needs to talk to Plymouth Gawater."
+            ],
+            "titles": [],
+            "personality": [
+                "Will see the spirit-vacuum through rather than drop the staff mid-effect."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin, Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Tries to end the effect by speaking the reverse of the incantation, said backwards.",
+                "Recalls that the last attempt to turn it off caused something else to happen."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally.",
+            "entityType": "NPC",
+            "notes": [
+                "Rides in on Glimmen, asks to be dropped at New Navel, and walks off that way at a brisk pace before the party can talk to him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Lands near Langdale Stronghold with Walker and Plymouth. Plymouth dismounts and leaves for New Navel.",
+                "The village is used to Glimmen and is not used to Araden beside him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Arrives with Glimmen as the second dragon, several sizes larger than Glimmen, and lands near the stronghold. The village buzzes at the sight."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine by appointment once a comrade returns.",
+            "entityType": "ITEM",
+            "notes": [
+                "Dana is checking her books and a Legend Lore prophetic vision to see whether this helmet could be the phylactery. Unresolved in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Could the helmet be the phylactery?"
+            ]
+        },
+        "Sylan's lantern": {
+            "existing": "Sylan's lantern, previously sucked through two open doors and recovered dinged.",
+            "entityType": "ITEM",
+            "notes": [
+                "When Sylan grabs the staff, the lantern becomes incandescent shadow: a glowing, roiling ball of shadow.",
+                "Semi-translucent forms that had been holding the lantern erupt outward into incomplete physical bodies. That moment is the black beacon seen from the stronghold."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Staff": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan takes hold of it while it is active. Spirits within about four feet are vacuumed into him. He feels nothing. This is a byproduct of touching the active staff.",
+                "Releasing it is allowed. Sylan keeps hold. Ord tries to shut the effect off by reversing the incantation.",
+                "The last time the party tried to turn this kind of effect off, something else happened."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Does speaking the incantation backwards turn the staff off, or does it incite something else?"
+            ]
+        },
+        "Glade spirits": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "spirits",
+            "notes": [
+                "Semi-translucent forms on the lantern become incomplete physical bodies and inch toward Sylan once he holds the staff.",
+                "Within about four feet they are vacuumed into him. He does not recognize them and feels no change.",
+                "They look alike except one fitter spirit with a large wound down the center of his face, read as a killing blow.",
+                "The ones not yet taken crawl away and cannot break the pull."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who are these spirits, especially the one with the split face?"
+            ]
+        },
+        "Beacon of eternal blackness": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "phenomenon",
+            "notes": [
+                "Rises from the treeline as Sylan grabs the staff: a swirling column of ink, almost light, with a shadowy wave that can be felt passing through everything.",
+                "Dana sees it from the tower as a pillar of darkness in the woods and flies toward it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grazog": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "Walker's next destination after dropping Plymouth Gawater at New Navel. Nothing further is said about it in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "straight boat",
+            "likely": "straight bonus",
+            "notes": "The +5 added to Gerk's roll of 3."
+        },
+        {
+            "heard": "Zed staff",
+            "likely": "said staff",
+            "notes": "The staff Sylan is holding when the spirits are pulled in."
+        },
+        {
+            "heard": "Silence",
+            "likely": "Sylan",
+            "notes": "The hand that grabs the staff, and the person the spirits are vacuumed into."
+        },
+        {
+            "heard": "Trigast",
+            "likely": "",
+            "notes": "Direction of the black beacon: towards the Trigast, uh Furst, then the treeline. May be a place name or the grassy forest near the door-testing grounds."
+        },
+        {
+            "heard": "Furst",
+            "likely": "forest",
+            "notes": "Same phrase as Trigast, immediately before the beacon erupting from the treeline."
+        },
+        {
+            "heard": "Skyle",
+            "likely": "",
+            "notes": "Sylan, after saying he was blind in a tree: Skyle would definitely be here, while Ciri is established as gone."
+        },
+        {
+            "heard": "semi like openly",
+            "likely": "semi-opaque",
+            "notes": "How the spirits look, except the one with the facial wound."
+        }
+    ],
+    "openQuestions": [
+        "Could the helmet be the phylactery?",
+        "Who are the spirits being pulled into Sylan, and who is the one with the wound down the center of his face?",
+        "Does reversing the incantation turn the staff off, or does it set off something else, as it did last time?"
+    ],
+    "newTerms": [
+        {
+            "name": "Grazog",
+            "notes": [
+                "Where Walker means to go after leaving Plymouth Gawater to walk to New Navel."
+            ]
+        },
+        {
+            "name": "Beacon of eternal blackness",
+            "notes": [
+                "A column of swirling shadow rising from the treeline when Sylan grabs the active staff and the lantern turns to incandescent shadow."
+            ]
+        },
+        {
+            "name": "Incandescent shadow",
+            "notes": [
+                "The lantern's light once Sylan holds the staff: a roiling ball of shadow that still glows."
+            ]
+        }
+    ]
+}

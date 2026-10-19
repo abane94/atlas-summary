@@ -1,0 +1,300 @@
+{
+    "plotSections": [
+        {
+            "title": "The lantern, the spirits, and the black beacon",
+            "bullets": [
+                "At the door-testing grounds, three or four ethereal spirits seize Sylan's lantern and pull on it. The spirit that first touched it is about half burnt away, and the others begin to burn as well. The lantern jerks in Ord's hand.",
+                "Ord asks Sylan to grab the staff and wrench it back so Ord can regain control. Sylan does. They expect the same blinding flash as the last time they handled it.",
+                "When Sylan's hand closes on it, the lantern's light becomes incandescent shadow: a roiling ball of shadow glowing inside the lantern. The translucent spirits erupt outward and drop around Ord and Sylan as incomplete physical bodies.",
+                "From the stronghold, that moment reads as a beacon of eternal blackness rising from the treeline: a swirling mass of ink with a shadowy wave that can be felt passing through everything."
+            ]
+        },
+        {
+            "title": "Who is where",
+            "bullets": [
+                "Ord and Sylan are at the secret door-testing grounds with the lantern. Gerk is nearby in a shady spot, watching rather than taking part. Dana is in her tower, able to see the direction they went, broom ready.",
+                "Ciri is gone. Walker has just come back from mountainside training, energized, flying with Glimmen. Araden, a dragon several sizes larger than Glimmen, comes in with them.",
+                "Gerk fails a Wisdom save against the flash (3 on the die, +5 from within 30 feet of Ord's ward, total 8) and is blinded, fumbling on the ground."
+            ]
+        },
+        {
+            "title": "Return to the stronghold",
+            "bullets": [
+                "Walker means to leave Plymouth Gawater, then go to Grazog. Plymouth asks to be set down at New Navel and says he will make his own way. Sylan says the party badly needs to talk to him.",
+                "Dana, deep in her books at the tower window, hears dragon wings. Glimmen and Araden land near the stronghold. The village, used to Glimmen alone, buzzes at the much larger second dragon.",
+                "Plymouth scrambles off Glimmen and heads toward New Navel at a brisk pace. One or two gatehouse guards hail Walker. He and Dana then see the black beacon go up toward the testing grounds."
+            ]
+        },
+        {
+            "title": "The helm and the phylactery",
+            "bullets": [
+                "Before the beacon, Dana is comparing her notes and books to a Legend Lore prophetic vision, trying to decide whether the helmet could be the phylactery."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ethereal spirits grab Sylan's lantern at the door-testing grounds and start burning away; the lantern jerks in Ord's hand.",
+        "Sylan grabs the staff and wrenches it back toward Ord.",
+        "Gerk, watching from nearby, fails the Wisdom save and is blinded by the flash. Dana watches from her tower.",
+        "Walker returns from training with Glimmen and the much larger Araden, planning to drop Plymouth at New Navel and then go to Grazog.",
+        "Dana researches whether the helmet is the phylactery, then sees both dragons land. The village reacts. Plymouth heads off toward New Navel, and gatehouse guards hail Walker.",
+        "As Sylan's grip lands, the lantern turns to incandescent shadow, the spirits fall as unfinished physical forms, and a beacon of blackness erupts from the treeline."
+    ],
+    "entities": {
+        "Sylan's lantern": {
+            "existing": "Sylan's lantern, previously sucked through two open doors and recovered dinged.",
+            "entityType": "ITEM",
+            "notes": [
+                "Ethereal beings are drawn to it and pull on it until they burn.",
+                "On Sylan taking hold of the staff, the lantern becomes incandescent shadow: a glowing, roiling ball of shadow.",
+                "That change coincides with the spirits turning physical and with a beacon of blackness visible from the stronghold.",
+                "The party treated this as a repeat of an earlier blinding flash and took it to the door-testing grounds on purpose."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Sylan: never touch this thing again; it always brings those terrible things."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Grabs the staff and hauls it back toward Ord, curious whether the effect will transfer.",
+                "At the door-testing grounds with Ord when the lantern turns to shadow and the spirits drop into physical form."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Wants nothing more to do with the lantern after it keeps calling terrible things."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin, Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Holding the lantern when the spirits yank it.",
+                "Has a ward that grants about +5 to a save from within 30 feet; Gerk uses it and still fails.",
+                "Asks Sylan to grab the staff so Ord can get control back."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Watches the lantern trial from a shady spot instead of taking part.",
+                "Fails the Wisdom save and is blinded, fumbling on the ground."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric, Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "In her tower at the window, broom ready, watching the testing grounds from a distance.",
+                "Working through notes and books to test whether the helmet could be the phylactery, using a Legend Lore prophetic vision.",
+                "Sees Glimmen and Araden arrive, then the black beacon."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the helmet the phylactery?"
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Returns from mountainside training full of energy, riding Glimmen, with Araden alongside.",
+                "Intends to drop Plymouth Gawater at New Navel, then go to Grazog.",
+                "Hailed by one or two gatehouse guards, then sees the beacon of blackness toward the testing grounds."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who explains the keystones and guides the keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Flies in on Glimmen with Walker, then gets off and heads toward New Navel on foot at a brisk pace, saying he will make his own way.",
+                "Sylan says the party needs to talk to him badly."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Lands near Langdale Stronghold carrying Walker and Plymouth. The village is used to Glimmen and is not used to Araden beside him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Arrives at Langdale Stronghold with Glimmen and is a dragon several sizes larger than Glimmen. The landing sets the village buzzing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine by appointment.",
+            "entityType": "ITEM",
+            "notes": [
+                "Dana is checking her books and a Legend Lore prophetic vision to see whether this helmet could be the phylactery. Unresolved in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Could the helmet be the phylactery?"
+            ]
+        },
+        "Lantern spirits": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Ethereal beings",
+            "notes": [
+                "Three or four ethereal beings grab and pull the lantern. Contact burns them; the first is about half gone and the rest start to burn too.",
+                "When Sylan grabs the staff they burst outward and fall as physical, unfinished bodies. The transcript cuts off before those bodies are fully described."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Beacon of eternal blackness": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Erupts from the treeline toward the door-testing grounds at the moment Sylan grabs the staff.",
+                "Looks like a swirling column of ink, almost light but not quite, with a shadowy wave that can be felt passing through everything.",
+                "Walker and Dana both witness it from the stronghold."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grazog": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "Walker plans to go there after dropping Plymouth at New Navel. No further detail in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Southern stream clearing": {
+            "existing": "Streamside clearing south of Langdale Stronghold, used for Gerk's doorway practice.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Called the door-testing grounds and the party's secret spot. Ord and Sylan are there for the lantern trial. The black beacon is seen rising from that treeline."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue, keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Not present. The table establishes she is completely gone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Word of Ship",
+            "likely": "ward",
+            "notes": "Sylan asks if Gerk is within thirty feet of it; the next line says ward. It is the +5 save bonus Gerk is trying to use."
+        },
+        {
+            "heard": "Grazog",
+            "likely": "",
+            "notes": "Walker and the DM both say Walker is going there after New Navel. Not on the known location list."
+        },
+        {
+            "heard": "Trigast",
+            "likely": "",
+            "notes": "Direction of the black beacon from the stronghold: toward the Trigast, then Furst, then the treeline."
+        },
+        {
+            "heard": "Furst",
+            "likely": "",
+            "notes": "Said in the same breath as Trigast while pointing at the beacon."
+        },
+        {
+            "heard": "walkers",
+            "likely": "",
+            "notes": "Sylan: blasting light off from the walkers, while describing the flash at the testing grounds."
+        },
+        {
+            "heard": "transcures",
+            "likely": "transfers",
+            "notes": "Sylan, wondering if the lantern's effect transfers when he grips the staff."
+        },
+        {
+            "heard": "Orden's Island",
+            "likely": "Ord and Sylan",
+            "notes": "DM asking Dana and Gerk if they are with the pair at the testing grounds."
+        }
+    ],
+    "openQuestions": [
+        "Is the helmet the phylactery, given Dana's Legend Lore vision?"
+    ],
+    "newTerms": [
+        {
+            "name": "Grazog",
+            "notes": [
+                "Place Walker plans to visit after leaving Plymouth at New Navel."
+            ]
+        },
+        {
+            "name": "Incandescent shadow",
+            "notes": [
+                "The lantern's new state when Sylan grabs the staff: a roiling ball of shadow that still glows inside the lantern."
+            ]
+        },
+        {
+            "name": "Beacon of eternal blackness",
+            "notes": [
+                "Column of swirling ink and a felt wave of shadow rising from the testing-ground treeline at the same moment."
+            ]
+        },
+        {
+            "name": "Lantern spirits",
+            "notes": [
+                "Three or four ethereal beings that grab the lantern, burn on contact, then fall as unfinished physical forms."
+            ]
+        }
+    ]
+}

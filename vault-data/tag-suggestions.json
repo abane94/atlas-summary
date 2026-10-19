@@ -1,21 +1,11 @@
 {
-  "updatedAt": "2026-10-06T21:17:43.100Z",
+  "updatedAt": "2026-10-19T20:51:02.641Z",
   "suggestions": [
     {
       "tag": "ability",
       "reason": "A personal supernatural power that is explicitly not a spell, artifact, or other closed-catalog facet.",
       "exampleEntities": [
         "Doorway"
-      ]
-    },
-    {
-      "tag": "alchemy",
-      "reason": "Session activity centers on sourcing alchemical goods and spell components rather than keystone or prophecy lore.; Quaylin's identity and inventory center on potion brewing, alchemical components, and transmutation lore.; The shop's identity and inventory center on alchemical components and brewed potions.",
-      "exampleEntities": [
-        "Plymouth Gawater",
-        "Qualin's Quax",
-        "Potion of vitality",
-        "Quaylin"
       ]
     },
     {
@@ -40,30 +30,9 @@
     },
     {
       "tag": "demon",
-      "reason": "The closed list has deity, but this session distinguishes a demon prince who holds a domain claim without being called a god.",
+      "reason": "The closed list has deity, but this session distinguishes a demon prince who holds a domain claim without being called a god.; Orcus is a demon prince with a domain claim and is not described as a god, so deity does not fit.; Used on an entity but not in the closed catalog; consider promoting if it recurs.",
       "exampleEntities": [
         "Orcus"
-      ]
-    },
-    {
-      "tag": "dragon",
-      "reason": "Hanzuni is a major ancient dragon NPC tied to hoard lore, loans, and Sunder Chase rules.",
-      "exampleEntities": [
-        "Hanzuni",
-        "Glimmen",
-        "Araden"
-      ]
-    },
-    {
-      "tag": "dragon-rider",
-      "reason": "Walker's core identity and travel mode, tied to flight planning and destinations such as the training grounds.; The location is defined by its Dragon Rider guild association and serves as a recurring flight destination for dragon riders.; Elrus is actively traveling toward the Dragon Rider training grounds and shares route knowledge from prior flights.; Araden continues traveling by dragon flight with Elrus toward the mountain rendezvous during the Reach excursion.; Legendary dragon riders recur as a distinct role the closed catalog does not cover.",
-      "exampleEntities": [
-        "Walker",
-        "Dragon Rider Training Grounds",
-        "Elrus",
-        "Araden",
-        "Grixto",
-        "Galixtar"
       ]
     },
     {
@@ -77,7 +46,7 @@
     },
     {
       "tag": "event",
-      "reason": "Sunder Chase is a structured seasonal competition with explicit rules, prizes, and triggers distinct from ordinary locations or items.",
+      "reason": "Sunder Chase is a structured seasonal competition with explicit rules, prizes, and triggers distinct from ordinary locations or items.; Sunder Chase is a named seasonal event, not a spell, place, or item.; Used on an entity but not in the closed catalog; consider promoting if it recurs.",
       "exampleEntities": [
         "Sunder Chase",
         "Haven Hold",
@@ -131,21 +100,14 @@
       ]
     },
     {
-      "tag": "region",
-      "reason": "Home regions are broader than a settlement, landmark, or realm, and none of those catalog tags fit.",
+      "tag": "undead",
+      "reason": "Several entities are explicitly spirits, a lich, or other undead, and no closed tag covers that facet.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.",
       "exampleEntities": [
-        "Langdale"
-      ]
-    },
-    {
-      "tag": "vendor",
-      "reason": "Calypso is one of several Sunder merchants the party may encounter while sourcing supplies.; Quaylin is a named Sunder shopkeeper whose prices, guarantees, and referrals drive session trade and loans.",
-      "exampleEntities": [
-        "Calypso",
-        "Quaylin",
-        "Sunder",
-        "Qualin's Quax",
-        "Potion of vitality"
+        "Lich",
+        "Ledzbika",
+        "Lady Meriwether",
+        "Glade spirits",
+        "Unnamed elderly spirit"
       ]
     }
   ]

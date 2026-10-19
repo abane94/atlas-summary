@@ -1,0 +1,27 @@
+{
+  "name": "Old Navel",
+  "tags": [
+    "settlement"
+  ],
+  "slug": "A place Ord and Sylan name as the source of spirits the party stirred by walking past.",
+  "aliases": [],
+  "normalizedAliases": [
+    "old navel"
+  ],
+  "filename": "locations/old_navel.md",
+  "description": "Old Navel is a place Ord and Sylan name as the source of spirits they encountered.",
+  "type": "LOCATION",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Ord asks whether the spirits they have met are all the spirits from Old Navel, and Sylan agrees. Sylan thinks the party stirred them up by walking past.",
+      "notes": [
+        "Ord asks if these are all the spirits from Old Navel, and Sylan agrees. Sylan thinks they were stirred up when the party walked by."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:35:25.914Z",
+  "updatedAt": "2026-10-19T20:51:02.633Z"
+}

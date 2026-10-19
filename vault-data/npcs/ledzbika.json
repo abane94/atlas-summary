@@ -1,0 +1,34 @@
+{
+  "name": "Ledzbika",
+  "tags": [
+    "undead"
+  ],
+  "slug": "Elderly half-elf spirit pulled from rest, trying to return to his abode.",
+  "aliases": [],
+  "normalizedAliases": [
+    "ledzbika"
+  ],
+  "filename": "npcs/ledzbika.md",
+  "description": "Ledzbika is an elderly half-elf spirit among those drawn to the active staff. Divine Sense reads him as undead: a spectral spirit made physical, with no subtype. He is half-formed but physically grabbable. He says his peace was disturbed, that the party pulled them from life and from rest, and that the one who shed light on them burned them. He is trying to return to his abode, whose location he does not give. He names Claire Belle as the woman next door who stole from him and his family, says his silver is under the floorboards, blames her for his children starving, and says he is stuck and must get back to find her. Later repetitions of his name are also heard as Bannaby, Burton, Barnaby, and Carnaby.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Ord grabs Ledzbika as one of the last two spirits after four others are already sucked in. Pulled toward Sylan, he is kept back by Ord's grip. He demands release, gives his name as Ledzbika and says he already gave it, and insists he is trying to return to his abode rather than go to Sylan. He names Claire Belle as the neighbor who stole from him and his family, says his silver is under the floorboards, and blames her for his children starving. When released he dematerializes, reaches toward New Navel, and snaps away. A separate raspy voice may be his or another spirit's.",
+      "notes": [
+        "Elderly half-elf spirit among those drawn to the active staff. Ord grabs him as one of the last two, after four others were already sucked in. He is half-formed but physically grabbable, pulled toward Sylan, and Ord's grip is what keeps him back.",
+        "Divine Sense reads him as undead, a spectral spirit made physical, with no subtype. He demands release, says his peace was disturbed, and says he is trying to return to his abode rather than go to Sylan. He says the party pulled them from life and from rest, and that the one who shed light on them burned them.",
+        "He gives his name as Ledzbika and says he already gave it. Later repetitions are also heard as Bannaby, Burton, Barnaby, and Carnaby.",
+        "He names Claire Belle as the woman next door who stole from him and his family. His silver is under the floorboards. He blames her for his children starving and says he is stuck and must get back to find her. He does not say where the abode is.",
+        "When released he dematerializes, reaches toward New Navel, and snaps away. A separate raspy voice may be his or another spirit's."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Where is his abode, and was the reach toward New Navel the answer?",
+    "Whether the raspy voice demanding release is Ledzbika or the other remaining spirit."
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:32:28.120Z",
+  "updatedAt": "2026-10-19T20:51:02.637Z"
+}

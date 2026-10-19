@@ -1,0 +1,32 @@
+{
+  "name": "Unnamed elderly spirit",
+  "tags": [
+    "undead"
+  ],
+  "slug": "Unnamed elderly spirit vacuumed away after begging Ord not to let go.",
+  "aliases": [],
+  "normalizedAliases": [
+    "unnamed elderly spirit"
+  ],
+  "filename": "npcs/unnamed_elderly_spirit.md",
+  "description": "An unnamed spirit with an amorphous upper body in the shape of an elderly woman, her face pockmarked and sickly. Sylan and Ord take her for a spirit from Old Navel. She never states her name, her son's identity, or the message she says they need to know.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "The last spirit Ord grabs after Ledzbika is released. She clings to a root while being pulled, then death-grips Ord's hand and begs not to be let go, saying it is not her time, that her son does not know and needs to be told, and that the darkness is coming and pulling her. She repeats \"my name\" and \"they need to know\" without giving a name or a message. When Ord consciously releases her, her hands pass through him and she is vacuumed away.",
+      "notes": [
+        "The last spirit Ord grabs, after Ledzbika is released. An amorphous upper body: an elderly woman with a pockmarked, sickly face. Sylan and Ord take her for a spirit from Old Navel.",
+        "She clings to a root while being pulled, then death-grips Ord's hand. She begs not to be let go. She says it is not her time, her son does not know and needs to be told, and the darkness is coming and pulling her. She repeats 'my name' and 'they need to know' but never states a name, the son's identity, or the message.",
+        "When Ord consciously releases her, her hands pass through him and she is vacuumed away."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What is her name, who is her son, and what must he be told?",
+    "Who is the 'he' she says is pulling her into the darkness?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:33:01.704Z",
+  "updatedAt": "2026-10-19T20:51:02.639Z"
+}

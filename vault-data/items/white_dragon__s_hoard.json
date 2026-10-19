@@ -1,0 +1,29 @@
+{
+  "name": "White dragon's hoard",
+  "tags": [
+    "dragon"
+  ],
+  "slug": "The white dragon's looted hoard of coin, gems, art, goods, and a few magic items, dated November 3 of the previous year.",
+  "aliases": [],
+  "normalizedAliases": [
+    "white dragons hoard"
+  ],
+  "filename": "items/white_dragon__s_hoard.md",
+  "description": "The white dragon's looted hoard, dated in the DM's notes to November 3 of the previous year. It held coin, about two dozen gemstones of various values, art objects of various values, mundane goods, and four or five magic items. Pieces called out are Dana's magic broom, a set of bone dice, a shrine with a statuette, a brazier, and an altar to a god of dragon minions, a scroll with a poem, the skull of a fiend or celestial, seven candlesticks with a holy symbol, a gold birdcage, a box of turquoise animal figurines, Ciri's starburst ring or bracelet, and the lantern now fused to the staff.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "The looted hoard is dated in the DM's notes to November 3 of the previous year and inventoried as coin, about two dozen gemstones, art objects, mundane goods, and four or five magic items. Named pieces include Dana's magic broom, bone dice, a shrine with a statuette, a brazier, and an altar to a god of dragon minions, a poem scroll, a fiend or celestial skull, seven candlesticks with a holy symbol, a gold birdcage later given to the crew, a box of turquoise animal figurines, Ciri's starburst ring or bracelet, and the lantern now fused to the staff.",
+      "notes": [
+        "Looted hoard dated in the DM's notes to November 3 of the previous year.",
+        "Contained coin, about two dozen gemstones of various values, art objects of various values, mundane goods, and four or five magic items.",
+        "Pieces called out: Dana's magic broom, a set of bone dice, a shrine with a statuette, a brazier, and an altar to a god of dragon minions, a scroll with a poem, the skull of a fiend or celestial, seven candlesticks with a holy symbol, a gold birdcage later given to the crew, a box of turquoise animal figurines, Ciri's starburst ring or bracelet, and the lantern now fused to the staff."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:38:43.408Z",
+  "updatedAt": "2026-10-19T20:51:02.631Z"
+}

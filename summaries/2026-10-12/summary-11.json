@@ -1,0 +1,350 @@
+{
+    "plotSections": [
+        {
+            "title": "Hoard inventory",
+            "bullets": [
+                "Dana reads out a stored treasure list: two carved bone statuettes, a gold bracelet, a gold locket with a painted portrait, a copper chalice, a large quantity of gemstones, 500 platinum, 60,000 gold, 11,000 silver, and 4,100 copper.",
+                "The DM confirms that list and adds a box of turquoise animal figurines.",
+                "Ord remembers inspecting the turquoise figurines and leaving them somewhere. Sylan suggests they might turn into creatures."
+            ]
+        },
+        {
+            "title": "Lady Meriwether",
+            "bullets": [
+                "While trying to put a name to the undead woman tied to that hoard, Sylan first guesses Lost of Time.",
+                "Dana identifies her as Lady Meriwether, a name the table connects to Merryweather of the three fairies in Sleeping Beauty."
+            ]
+        },
+        {
+            "title": "Remembered magic items",
+            "bullets": [
+                "Sylan recalls a magic item with Nightfall, Starfall, or a similar name. Dana says it is a ring or bracelet Ciri has, which fires starbursts that turn into fireballs. Nobody remembers the item's actual name, and Ciri is not present to confirm it.",
+                "Ord's hooded, finely made lantern has an aura of evocation. It has two settings, and one of them blinded an entire room. Activating it with a command was hard to dismiss.",
+                "The DM says the lantern was identified at Shades and Trades. The inscription is not in the current notes. On November 3, 2025, Ord experimented with it and saw into the Ethereal Plane. That was dropped because an emissary arrived with a finger in a box the session immediately before.",
+                "Asked for the phrase that ignites the lantern, Ord offers \"Brightest day in darkness.\""
+            ]
+        },
+        {
+            "title": "Walker's hat and the lich",
+            "bullets": [
+                "Sylan wants the party, once Walker is back, to test whether Walker's hat is the lich's phylactery, and to decide whether to do that in the open or in secret.",
+                "Dana's plan is to destroy the phylactery and kill the lich before he can make a replacement. Sylan adds that holding the soul should make the lich easier to find.",
+                "Sylan flags two conditions: the hat must actually be a phylactery, and Walker must not have been corrupted by wearing it. He remembers the first time Walker put it on as questionable. Walker, just back, answers \"Wouldn't you like to know?\""
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Dana inventories the hoard: two carved bone statuettes, a gold bracelet, a gold locket with a painted portrait, a copper chalice, gemstones, 500 platinum, 60,000 gold, 11,000 silver, and 4,100 copper.",
+        "Sylan guesses the associated name is Lost of Time. Dana names the undead woman Lady Meriwether.",
+        "The table tries to recall Ciri's ring or bracelet that shoots starbursts which become fireballs. Ciri is absent, and the name (Nightfall, Starfall, or similar) is not recovered.",
+        "The DM adds a box of turquoise animal figurines to the hoard list. Ord inspected them earlier and left them behind. Sylan thinks they may become creatures.",
+        "Ord describes his hooded lantern: finely made, aura of evocation, two settings, one of which blinded a whole room, and a command effect that was difficult to end.",
+        "Sylan proposes checking whether Walker's hat is a phylactery, in daylight or in secret. Dana says the phylactery must be destroyed and the lich killed before a new one is made. Sylan hopes the soul would help locate him, and worries the hat may have corrupted Walker.",
+        "Walker returns and, asked about that corruption, says \"Wouldn't you like to know?\"",
+        "The DM places the lantern's identification at Shades and Trades. The inscription is missing from the notes. The November 3, 2025 experiment let Ord see the Ethereal Plane, then was overshadowed by an emissary bringing a finger in a box.",
+        "Ord supplies \"Brightest day in darkness\" as the lantern's ignition phrase."
+    ],
+    "entities": {
+        "Lady Meriwether": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Named this chunk as the undead lady associated with the hoard Dana read out.",
+                "The table derives the name from Merryweather, one of the three fairies in Sleeping Beauty."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue connected to the Great Eldarin Tree and keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Believed to be carrying a ring or bracelet that shoots starbursts which turn into fireballs. The item name was not remembered. Nightfall and Starfall were both suggested."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the name of Ciri's starburst ring or bracelet?"
+            ]
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Inspected the turquoise animal figurines at some earlier point and left them behind.",
+                "Carries a hooded, finely made lantern with an aura of evocation, two settings, and a mode that blinded an entire room. A command word turned it on and the effect was difficult to undo.",
+                "On November 3, 2025, experimented with the lantern and saw into the Ethereal Plane. The DM says it was identified at Shades and Trades. Ord does not remember the inscription and offers \"Brightest day in darkness\" as the ignition phrase.",
+                "Currently fights with a shield. Sylan pictures him using the sword and lantern together."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"Brightest day in darkness.\""
+            ],
+            "openQuestions": [
+                "Is \"Brightest day in darkness\" the lantern's real command phrase, and what was its inscription?"
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Absent for most of this stretch, then returns.",
+                "His hat is the party's current candidate for the lich's phylactery. Sylan remembers the first time Walker put it on as questionable and worries wearing it has corrupted him.",
+                "Asked whether he has been corrupted, Walker says \"Wouldn't you like to know?\""
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"Wouldn't you like to know?\""
+            ],
+            "openQuestions": [
+                "Is Walker's hat the lich's phylactery?",
+                "Has wearing the hat corrupted Walker?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Presses the party to test Walker's hat as a phylactery once Walker is back, and to choose whether that test is public or secret.",
+                "Argues that possessing the lich's soul should make him easier to find, provided the hat is a phylactery and has not corrupted Walker."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Reads the hoard contents and names the undead woman Lady Meriwether.",
+                "States that destroying a lich requires destroying the phylactery and then killing the lich before he can make a new one."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Lich": {
+            "existing": "An unidentified lich whose phylactery may be hidden among his chess pieces.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker's hat is now the item the party wants to test as this lich's phylactery.",
+                "The party treats him as able to create a replacement phylactery if the current one is destroyed and he is not killed quickly afterward.",
+                "Sylan believes holding the soul from the phylactery would make the lich easier to locate."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the phylactery Walker's hat, or still hidden elsewhere?"
+            ]
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Dana: the phylactery must be destroyed and the lich killed before he has time to make another.",
+                "Sylan: if the party holds the soul, finding the lich should be easier.",
+                "Walker's hat is the candidate under discussion, and wearing a phylactery is treated as a possible source of corruption."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord's lantern": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Hooded and finely made. Detect Magic showed an aura of evocation.",
+                "Two settings. One blinded everyone in the room. Turning the effect off was difficult.",
+                "Identified at Shades and Trades. The inscription is not in the DM's current notes.",
+                "On November 3, 2025, Ord's experiment with it showed him the Ethereal Plane.",
+                "Ord gives \"Brightest day in darkness\" when asked for the phrase that ignites it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"Brightest day in darkness.\""
+            ],
+            "openQuestions": [
+                "What is the lantern's inscription, and is \"Brightest day in darkness\" its command phrase?"
+            ]
+        },
+        "Ciri's starburst ring or bracelet": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Remembered as either a ring or a bracelet in Ciri's possession.",
+                "Shoots starbursts that turn into fireballs.",
+                "Sylan associates the name with Nightfall, Starfall, or something similar. The real name was not recovered."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is this item called, and is it a ring or a bracelet?"
+            ]
+        },
+        "Turquoise animal figurines": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A box of them is part of the hoard the DM still has recorded.",
+                "Ord inspected them once and left them behind.",
+                "Sylan suspects they might turn into creatures."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Do the turquoise animal figurines animate or transform?"
+            ]
+        },
+        "Walker's hat": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "The party plans to determine whether it is the lich's phylactery, either openly or in secret.",
+                "The first time Walker put it on struck Sylan as questionable. Corruption from wearing it is an open worry.",
+                "Walker does not confirm or deny that."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is Walker's hat a phylactery, and should the party test it in public or in secret?"
+            ]
+        },
+        "Shades and Trades": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "The DM believes Ord's lantern was identified here."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Lost of Time",
+            "likely": "",
+            "notes": "Sylan's first guess at the undead hoard-owner's name, immediately replaced by Lady Meriwether. Unclear whether this was a real candidate name."
+        },
+        {
+            "heard": "aura of invocation",
+            "likely": "aura of evocation",
+            "notes": "Ord's first wording for the lantern aura. He later says evocation."
+        },
+        {
+            "heard": "buy a word",
+            "likely": "",
+            "notes": "Sylan says he wants to buy a word while naming Lady Meriwether. The DM answers in copper. May be a naming bit rather than a magic phrase."
+        },
+        {
+            "heard": "three coffers for a war",
+            "likely": "three copper for a word",
+            "notes": "Said as a starting offer in the same exchange. The DM hears it as three copper."
+        },
+        {
+            "heard": "Starfall",
+            "likely": "",
+            "notes": "One of the names Sylan tries for Ciri's starburst item, alongside Nightfall."
+        },
+        {
+            "heard": "nightfall",
+            "likely": "",
+            "notes": "The other name Sylan tries for Ciri's starburst item."
+        },
+        {
+            "heard": "match claim",
+            "likely": "magic item",
+            "notes": "Sylan asks Aris whether the match claim was shared into his journal while they are searching notes for the identified item."
+        },
+        {
+            "heard": "vigilant",
+            "likely": "",
+            "notes": "Sylan asks whether the forgotten item had something to do with the vigilant, then says Regiment. Neither is resolved."
+        },
+        {
+            "heard": "Regiment",
+            "likely": "",
+            "notes": "Follows the vigilant guess in the same item search."
+        },
+        {
+            "heard": "Shaves and Trades",
+            "likely": "Shades and Trades",
+            "notes": "Sylan's wording. The DM says Shades and Trades as the place the lantern was identified."
+        },
+        {
+            "heard": "locker act",
+            "likely": "lich's hat",
+            "notes": "Sylan, discussing Walker's hat: assuming it is actually a phylactery."
+        },
+        {
+            "heard": "swackery",
+            "likely": "phylactery",
+            "notes": "Same sentence as locker act."
+        },
+        {
+            "heard": "eternal flight",
+            "likely": "Ethereal Plane",
+            "notes": "The DM starts to say eternal flight, then corrects to the Ethereal Plane for Ord's November 3 lantern experiment."
+        },
+        {
+            "heard": "annihilary",
+            "likely": "an emissary",
+            "notes": "The DM says this person showed up with a finger in a box the session before the lantern experiment, which is why those notes were buried."
+        }
+    ],
+    "openQuestions": [
+        "Is Walker's hat the lich's phylactery?",
+        "Should the party test the hat in broad daylight or keep the check secret?",
+        "Has Walker been corrupted by wearing the hat?",
+        "What is Ciri's starburst item called, and is it a ring or a bracelet?",
+        "What is the inscription on Ord's lantern, and is \"Brightest day in darkness\" the command that ignites it?",
+        "Did the forgotten item have something to do with the vigilant or a regiment?",
+        "Do the turquoise animal figurines turn into creatures?"
+    ],
+    "newTerms": [
+        {
+            "name": "Lady Meriwether",
+            "notes": [
+                "Undead woman named this session and tied to the hoard Dana recited. The players take the name from Merryweather in Sleeping Beauty."
+            ]
+        },
+        {
+            "name": "Shades and Trades",
+            "notes": [
+                "Place where the DM believes Ord's hooded lantern was identified."
+            ]
+        },
+        {
+            "name": "Ord's lantern",
+            "notes": [
+                "Hooded lantern with an evocation aura, a blinding setting, and a hard-to-dismiss command effect. Its use on November 3, 2025 showed Ord the Ethereal Plane."
+            ]
+        },
+        {
+            "name": "Turquoise animal figurines",
+            "notes": [
+                "A boxed set in the recorded hoard. Ord has inspected them. Sylan thinks they may become creatures."
+            ]
+        },
+        {
+            "name": "Brightest day in darkness",
+            "notes": [
+                "Phrase Ord gives when asked how he ignites the lantern."
+            ]
+        }
+    ]
+}

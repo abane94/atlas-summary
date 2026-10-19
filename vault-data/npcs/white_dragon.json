@@ -1,0 +1,28 @@
+{
+  "name": "White dragon",
+  "tags": [
+    "dragon"
+  ],
+  "slug": "Unnamed white dragon whose dated hoard supplied the party's magic items.",
+  "aliases": [],
+  "normalizedAliases": [
+    "white dragon"
+  ],
+  "filename": "npcs/white_dragon.md",
+  "description": "An unnamed white dragon. His hoard, dated in the DM's notes to November 3 of the previous year, is the source of Dana's broom, the bone dice, Ciri's starburst item, a shrine to a god of dragon minions, and the rest of the inventory Dana reads from that haul. The fused lantern-staff is listed among the hoard's magic items. The party does not recover his name.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "The party still does not recover the white dragon's name. His hoard, dated November 3 of the previous year, is read out as the source of Dana's broom, the bone dice, Ciri's starburst item, the shrine to a god of dragon minions, and the rest of that inventory, with the fused lantern-staff listed among its magic items.",
+      "notes": [
+        "His hoard, dated in the DM's notes to November 3 of the previous year, is the source of Dana's broom, the bone dice, Ciri's starburst item, the shrine to a god of dragon minions, and the rest of the inventory Dana reads. The fused lantern-staff is also listed among that hoard's magic items.",
+        "The party does not recover his name."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:31:47.397Z",
+  "updatedAt": "2026-10-19T20:51:02.639Z"
+}

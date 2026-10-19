@@ -1,0 +1,27 @@
+{
+  "name": "Patty",
+  "tags": [
+    "companion"
+  ],
+  "slug": "Short-crew member from the hive mead adventure.",
+  "aliases": [],
+  "normalizedAliases": [
+    "patty"
+  ],
+  "filename": "npcs/patty.md",
+  "description": "Patty is a member of the short crew that, with Sylan, went on the hive adventure that supplied the tavern's mead. The rest of that crew is not named.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "The DM named Patty as a member of the short crew, alongside Sylan, on the hive adventure that supplied the tavern's mead. The other members of that crew were not named.",
+      "notes": [
+        "Named by the DM as a member of the short crew, with Sylan, on the hive adventure that supplied the tavern's mead. The rest of that crew is not named."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:30:01.120Z",
+  "updatedAt": "2026-10-19T20:51:02.638Z"
+}

@@ -1,7 +1,8 @@
 {
   "name": "Elrus",
   "tags": [
-    "companion"
+    "companion",
+    "dragon-rider"
   ],
   "slug": "Elrus is Walker's hidden ally in the coming confrontation.",
   "aliases": [],
@@ -72,6 +73,18 @@
         "He assembled the square table, recognized the hunched eagle and troop tokens as a landmark map of how Grixto planned, and concludes they are in over their heads. He confirms the fifteen-degree obelisk offset means a conveyance, and that wards are amplified only nearby.",
         "He once carried energy gems like Walker's and gave them to other prospective riders long ago. He can describe primal stones and offers to try condensing Walker's energy into them, with the risk that Walker loses part of himself into the stone. He wants more meditation before Walker channels."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Elrus, the dragonrider instructing Walker, advised the convergence that lights the map. His Nyx table offers more information or another gold eagle; cave markers were generic. He can help Walker make primal stones, or a good roll may let Walker do it. Surprised he was not told, he has tried setting stones into objects and thinks Plymouth versatile enough. There is no time to get his equipment; he calls Walker a fledgling and says training is imminent. He does not know a cosmic loom, but could start carvings and procure pillar materials. At the obelisk the working needs no meditation, but Walker should meditate anyway. From a pebble, scorched moss, and an insect he casts a cantrip lighting about 60 feet, then 60 more. He postpones the real working and wants meditation, training, and magic practice before returning to Midgard. His watch reads 42 days; Walker has trained throughout and still needs more. He offers to imbue primal stones on the spot; Walker declines until talking with the party. At the stronghold he had framed training, not Grazog. When the forest beacon appears, Walker says the plan has changed. Elrus treats the disturbance as the companions, and they fly after Dana.",
+      "notes": [
+        "He is the dragonrider instructing Walker. He advised the convergence because it lights up the map. His table in Nyx is a lead for more information or another gold eagle; the markers in the cave where he was living were generic.",
+        "He can help Walker make primal stones, and with a good enough roll Walker may be able to do it himself. He is surprised he was not told a convergence had been found. He has tried once or twice to set such stones into objects and thinks Plymouth may be versatile enough to do that setting.",
+        "He has none of his equipment with him and wants to circle back for it. He is told there is no time, calls Walker a fledgling, and says training is imminent. He does not know where a cosmic loom is. He could start the carvings and try to procure pillar materials, which would take time.",
+        "At the obelisk he says the working does not require meditation, but that Walker should meditate regardless. From a pebble, scorched moss, and an insect he casts a simple cantrip whose light reaches about 60 feet and then another 60 feet. He lacks the right equipment, postpones the real working, and wants meditation, training, and more magic practice at the site before a later return to Midgard.",
+        "His watch reads exactly 42 days. He says Walker has been training that whole time and still needs to train more. He offers to imbue primal stones on the spot. Walker declines until he talks with the party.",
+        "He is with Walker when they land at the stronghold. He had framed the next step as training instead of Grazog. When the forest beacon appears, Walker tells him the plan has changed. Elrus treats the disturbance as the companions, and he and Walker fly after Dana."
+      ]
     }
   ],
   "openQuestions": [
@@ -79,5 +92,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:09:04.587Z",
-  "updatedAt": "2026-10-06T21:05:46.552Z"
+  "updatedAt": "2026-10-19T20:51:02.635Z"
 }

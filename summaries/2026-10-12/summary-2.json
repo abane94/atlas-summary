@@ -1,0 +1,245 @@
+{
+    "plotSections": [
+        {
+            "title": "Primal stones",
+            "bullets": [
+                "Walker asks about putting a fire-imbued earring on his bow. A dragonrider instructor explains primal stones: elemental energy trapped in a gem, then set into a weapon or other conduit.",
+                "The stone's capacity tracks the energy spent making it and the purity of the gem. A clean, high-quality stone holds magic better, compared to a sound steel blade versus flawed iron. Forming a primal stone costs more energy than the stone stores.",
+                "An earring would not work as that example, because it has to be worn. It could still be a focus for Walker's fire magic.",
+                "Walker already summons fire, water, light, and darkness, and can call energy he has stored in gemstones. Fire is the element he learned first and treats as primary.",
+                "Those raw stores are safe only for people linked to dragons. Walker and the instructor can draw the energy in and out. Gleminde or Rayodin could use it to a lesser extent. Plymouth would need heavy magical protection to coax it out.",
+                "Tripping a raw store releases it like a magical explosive: the vessel is destroyed and throws dangerous magical shrapnel. A finished primal stone stabilizes that energy so it can be used.",
+                "A loose primal stone is not enough. It has to be set into an object that acts as the conduit, like a wand. Gerk could not make fire from a stone the way Walker does.",
+                "With fire as Walker's element, a fire primal stone could support fire-based uses, including something defensive. The instructor was describing how the gems must be cut when Walker stepped away."
+            ]
+        },
+        {
+            "title": "Cosmic loom",
+            "bullets": [
+                "Setting a primal stone into an item takes a cosmic loom, a magical containment table. It is also described as an altar with an upside-down table: four pillars, one at each corner, forming a field that holds the energy. It goes by other names.",
+                "The instructor has tried this once or twice, needs a loom to do it, and does not know where one is now. He could start carving pillars and look for materials, but it would take time.",
+                "Walker does not remember seeing one. Plymouth might be able to set the stones into an object."
+            ]
+        },
+        {
+            "title": "Ley line convergence",
+            "bullets": [
+                "Walker has found a ley line convergence. The instructor is surprised he was not told.",
+                "The instructor has none of his equipment with him. There is no time to retrieve it: Walker's training is imminent, and the instructor calls him a fledgling."
+            ]
+        },
+        {
+            "title": "Doorway practice and the return",
+            "bullets": [
+                "Ciri throws rocks at Gerk while he opens doorways from different directions. Gerk says the day's training is going well, and that the Doorman work seems fine after Sylan pushed him to rein it in.",
+                "About a day remains before Walker is due back. The training session ends and the group heads for the pub or the keep to find Dana.",
+                "Gerk says someone there has been adept at helping sort out his doorway problems. The transcript does not name that person.",
+                "Sylan hopes Dana has recovered from the party's visit to Carlkin. The chunk ends before that is answered."
+            ]
+        },
+        {
+            "title": "Ciri, the bar, and the hives",
+            "bullets": [
+                "Ciri says she has been with the group the whole time and has not gone anywhere. On royalty, she says she is still royal, and that she is apparently a very good bar owner. Sylan has not been to the bar often, but it seems to be doing well.",
+                "Dana has been away and does not know whether she is at the brewery or elsewhere. She chooses to be at the bar.",
+                "A map mark for bees is where a short crew, Sylan and Patty according to the DM, ran a successful bee adventure and brought back the hives. Those hives feed the tavern's mead line."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker asks what putting a fire earring on his bow would accomplish, and whether imbuing stones into weapons is worth it.",
+        "The instructor learns of the ley line convergence, has no equipment on hand, and cannot delay Walker's imminent training to fetch it.",
+        "The instructor explains primal stones, gem quality, and why raw stored energy is dangerous outside dragon-linked users.",
+        "Walker establishes fire as his primary element and says he can already call fire, water, light, darkness, and the energy in his gemstones.",
+        "They establish that a primal stone must be set into a conduit, that Gerk could not cast from a loose stone, and that a cosmic loom is required to do the setting.",
+        "Walker does not remember a cosmic loom. The instructor offers to start pillar carvings later and begins detailing gem cuts, then Walker steps away.",
+        "Ciri throws rocks while Gerk opens doorways from different directions. Gerk says the Doorman training seems fine.",
+        "Ciri says she never left, is still royal, and is a successful bar owner. Sylan says the bar seems to be doing well.",
+        "Dana notices the bees mark. Sylan and the DM tie it to the hive run that supplies the tavern mead.",
+        "Dana places herself at the bar. The others finish training and set out to find her at the pub or the keep. Sylan asks whether she has recovered from the visit to Carlkin."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Fire is the element he learned first and treats as primary. He can also call fire, water, light, and darkness, and can draw on energy he has already stored in gemstones.",
+                "He is considering primal stones for weapons. An earring would need to be worn and would not work as the bow example, though it could focus his fire magic.",
+                "He and the instructor can safely move that stored energy because of their links to dragons. He has found a ley line convergence and had not told the instructor.",
+                "He does not remember seeing a cosmic loom. His training is imminent, and the instructor calls him a fledgling."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who explains the Great Eldarin Tree, keystones, and Mother's Prayer.",
+            "entityType": "NPC",
+            "notes": [
+                "Present for Walker's primal-stone discussion. The instructor thinks Plymouth is versatile enough that he might set primal stones into an object.",
+                "Plymouth is not a safe user of Walker's raw stored energy. Drawing it out would take heavy magical protection. The instructor contrasts him with Glimmen."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Practicing doorways by opening them from different directions while Ciri throws rocks at him. He says the day of training is going well and the Doorman ability seems fine.",
+                "Sylan had pushed him to rein the ability in. Gerk says someone has been adept at helping with his doorway problems."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue connected to the Great Eldarin Tree and keeper of Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Throws rocks at Gerk during doorway practice.",
+                "Says she has been with the group the whole time. She says she is still royal and is apparently a very good bar owner. Sylan says the bar seems to be doing well even though he rarely visits."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Don't worry, I'm still royal."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has been away from this stretch of play and chooses to be at the bar rather than with the training group.",
+                "Learns that the map mark for bees is the hive source for the tavern's mead line.",
+                "Sylan hopes she has recovered from the party's visit to Carlkin."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Has Dana recovered from the visit to Carlkin?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Pushed Gerk to rein in the Doorman ability and checks that Gerk is all right with it.",
+                "Was on the short bee adventure with Patty that brought back the hives.",
+                "After training, he leads the group back toward the pub or the keep to find Dana and hopes she has recovered from Carlkin."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ley line": {
+            "existing": "Lines of magic that gatehouses sit on.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker has found a ley line convergence near his dragonrider training. The instructor did not know and is startled."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan refers to a recent party visit to Carlkin and hopes Dana has recovered from it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Has Dana recovered from the visit to Carlkin?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Elvis",
+            "likely": "",
+            "notes": "The instructor agrees with something 'Elvis' says while explaining primal stones. May be another person present, or a misheard name."
+        },
+        {
+            "heard": "Gleminde",
+            "likely": "",
+            "notes": "Named with Rayodin as someone who could use Walker's stored energy to a lesser extent. The DM then says 'not Glimmen,' so this is treated as separate from Glimmen."
+        },
+        {
+            "heard": "Rayodin",
+            "likely": "",
+            "notes": "Named with Gleminde as a lesser user of the stored gem energy."
+        },
+        {
+            "heard": "doorband",
+            "likely": "Doorman",
+            "notes": "Sylan asks Gerk how he has been doing with the doorband thing."
+        },
+        {
+            "heard": "meatline",
+            "likely": "mead line",
+            "notes": "Ciri ties the bee hives to the brewery's drink line, in the same exchange as mead."
+        },
+        {
+            "heard": "shovel",
+            "likely": "",
+            "notes": "Dana asks whether she is at the brewery or at a shovel while trying to place herself."
+        },
+        {
+            "heard": "Patty",
+            "likely": "",
+            "notes": "The DM says the bee adventure was Sylan and Patty. Not an established party name."
+        }
+    ],
+    "openQuestions": [
+        "Has Dana recovered from the visit to Carlkin?"
+    ],
+    "newTerms": [
+        {
+            "name": "Primal stone",
+            "notes": [
+                "A gem in which elemental energy has been stabilized so it can be set into a weapon or other conduit. Capacity depends on energy spent and gem purity. Making one costs more energy than it stores. Walker's raw gems are not primal stones yet. Only dragon-linked people can safely handle that raw store. Others need the finished stone set into an object."
+            ]
+        },
+        {
+            "name": "Cosmic loom",
+            "notes": [
+                "A magical containment table used to set primal stones into objects. Described as an altar with an upside-down table, with four corner pillars that form a containing field. Also goes by other names. The instructor does not know where one is, and Walker does not remember seeing one."
+            ]
+        },
+        {
+            "name": "Ley line convergence",
+            "notes": [
+                "A convergence Walker has found. The dragonrider instructor had not been told and treats it as important."
+            ]
+        },
+        {
+            "name": "Gleminde",
+            "notes": [
+                "Named as able to use Walker's stored gem energy to a lesser extent, alongside Rayodin. Distinguished in the moment from Glimmen."
+            ]
+        },
+        {
+            "name": "Rayodin",
+            "notes": [
+                "Named with Gleminde as a lesser user of Walker's stored gem energy."
+            ]
+        },
+        {
+            "name": "Bee hives",
+            "notes": [
+                "A map mark labeled bees. A short adventure with Sylan and Patty found the bees and brought back hives that supply the tavern's mead."
+            ]
+        }
+    ]
+}

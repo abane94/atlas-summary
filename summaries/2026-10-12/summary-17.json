@@ -1,0 +1,223 @@
+{
+    "plotSections": [
+        {
+            "title": "The last spirits are pulled into reach",
+            "bullets": [
+                "The staff is still on. Last time it was used, Ord saw into the Ethereal and blinded himself until Sylan cured him with lesser restoration. Toasting the spirits during that sight is what led to them being drawn in.",
+                "Four spirits are already taken. The two still outside look shaded black rather than blue and ethereal, and they are no longer light-producing. Sylan says they followed him for a reason, do not seem to want to go back, and that he did not purge anyone.",
+                "Ord keeps one hand on the staff and grapples one of the last two. Sylan holds on and rides it out. The spirit is half-formed but solid, like a Scooby-Doo ghost, and still functions in that half-life state. It has been brought onto the material. A magical pull drags it toward Sylan, and Ord's hand is the only thing holding it back."
+            ]
+        },
+        {
+            "title": "Divine Sense",
+            "bullets": [
+                "Ord uses Divine Sense while holding the staff and the spirit. Strong evil registers as a noxious odor. The spirits count as undead: spectral spirits made physical. The sense gives the type, undead, and not a more specific kind.",
+                "The table recalls Ord used it once before, in Volga."
+            ]
+        },
+        {
+            "title": "Ledzbika's grievance",
+            "bullets": [
+                "The held spirit is an elderly half-elf. He demands release, says his peace and his rest were disturbed, and that the party pulled them from life. He is trying to return to his abode, not to go to Sylan, whom he calls a fiend. He says the one who shed the light on them burned them, and that Sylan is sucking the rest of them in.",
+                "He says the woman next door stole from him and his family, that his silver is under the floorboards, and that this is why his children are starving. He names her Claire Belle and calls her a conniving liar. He says he is stuck and must get back to find her. Asked where his abode is, he does not give a place.",
+                "Sylan asks if these ghosts are from Morgan. That is not answered. A separate raspy, heavy-smoker voice also demands to be let go, says they stole from him, and says he was pulled from his floorboards as the party walked by today. He says a friend is sucking them in and taking them somewhere. Sylan starts to say he might be able to help, and the chunk cuts off."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The DM confirms the staff was never shut off, and that Ord's earlier use showed the Ethereal and blinded him until lesser restoration. The toasted spirits are now being drawn in.",
+        "Four spirits are already taken. The remaining ones are black-shaded and physical enough to grab. Ord holds the staff and grapples one while Sylan keeps hold.",
+        "The grabbed spirit is an elderly half-elf, held back from a magical pull toward Sylan. He demands release and says they have disturbed his peace.",
+        "A raspy third voice also yells to be freed and calls them fiends. Ord uses Divine Sense. The spirits register as undead, type only.",
+        "The held spirit says he must return, that the woman next door stole his silver from under the floorboards, and that he is not trying to reach Sylan.",
+        "He names Claire Belle as the thief who stole from his family and left his children starving. He says he already gave his name and that Sylan is pulling him from his rest. The party does not cleanly catch the name.",
+        "The raspy voice says he was pulled from his floorboards as they walked by, and that their friend is sucking the spirits in. Sylan begins to offer that he might be able to do something."
+    ],
+    "entities": {
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Rides out the staff effect and keeps hold while spirits are drawn to him. He says they followed him for a reason and that he did not purge anyone.",
+                "Refers to the item in play as the staff of the lantern bearer, and to it having no lantern.",
+                "The held spirit calls him a fiend who pulls them from rest. The raspy spirit says a friend is sucking them in and taking them somewhere.",
+                "Asks whether these ghosts are from Morgan, and starts to say he might be able to do something as the chunk ends."
+            ],
+            "titles": [],
+            "personality": [
+                "Unwilling to drop the effect, and ready to treat the spirits' attachment as earned."
+            ],
+            "quotesThemes": [
+                "They've earned it. I didn't purge anybody."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Keeps a hand on the staff and grapples the elderly half-elf spirit, holding him against the pull toward Sylan.",
+                "Uses Divine Sense. Strong evil smells noxious, and the spirits register as undead without a subtype. He has used Divine Sense once before, in Volga.",
+                "The spirit accuses the one who shed the light of burning them. That points at Ord's earlier use of the staff."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ledzbika": {
+            "existing": "Elderly half-elf spirit drawn to the active staff and grappled by Ord.",
+            "entityType": "NPC",
+            "notes": [
+                "Confirms he is undead by Divine Sense, as a spectral spirit made physical, not a named subtype.",
+                "Demands release. He is trying to return to his abode and says he is not going to Sylan. He says the party pulled them from life and from rest, and that the one who shed light on them burned them.",
+                "Says Claire Belle, the woman next door, stole from him and his family. His silver is under the floorboards, and he blames her for his children starving. He is stuck and wants to go back to find her. He does not say where the abode is.",
+                "Says he already gave his name. The table hears later attempts as Bannaby, Burton, Barnaby, and Carnaby."
+            ],
+            "titles": [],
+            "personality": [
+                "Angry at being held, calls the party fiends, and treats the questioning as a failure to listen."
+            ],
+            "quotesThemes": [
+                "I'm not going to that fiend. I'm trying to return back to my abode.",
+                "The bitch next door stole my silver, and I must go back and find her, but I am stuck here."
+            ],
+            "openQuestions": [
+                "Where his abode is.",
+                "Whether he and the other spirits are from Morgan."
+            ]
+        },
+        "Claire Belle": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Named by Ledzbika as the woman next door. He calls her a conniving liar who stole from him and his family, including silver kept under the floorboards, and blames her for his children starving."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Don't let her fool you. She is a conniving liar."
+            ],
+            "openQuestions": [
+                "Whether Claire Belle is the thief Ledzbika describes."
+            ]
+        },
+        "Staff of the Lantern Bearer": {
+            "existing": "Staff fused earlier with the lantern of revealing.",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan names it the staff of the lantern bearer and describes it as having no lantern while it is active.",
+                "This use was not shut off. It is pulling nearby spirits from the ethereal into shaded, half-material forms and toward Sylan. A grabbed spirit stays back only while Ord holds it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glade spirits": {
+            "existing": "Spirits in the glade being drawn into the active staff.",
+            "entityType": "OTHER",
+            "otherEntityType": "spirits",
+            "notes": [
+                "Four are already taken. Two remained, and Ord is holding one, Ledzbika. Divine Sense reads them as undead.",
+                "A separate raspy voice, described as smoking heavily, says people stole from him, that he was pulled from his floorboards when the party walked by, and that their friend is sucking them in and taking them somewhere."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who the raspy voice is."
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "Ghostbustered into Silent. The pull is toward Sylan, and he is holding the staff."
+        },
+        {
+            "heard": "lust or restoration",
+            "likely": "lesser restoration",
+            "notes": "The cure Sylan used on Ord's blindness after the earlier staff use."
+        },
+        {
+            "heard": "perjure",
+            "likely": "purge",
+            "notes": "Sylan says he did not perjure anybody, about the spirits who followed him."
+        },
+        {
+            "heard": "Bannaby",
+            "likely": "Ledzbika",
+            "notes": "DM line after the spirit says he already gave his name. Players then guess Barnaby and Carnaby."
+        },
+        {
+            "heard": "Burton",
+            "likely": "Ledzbika",
+            "notes": "Ord's guess at the name the spirit says he already gave."
+        },
+        {
+            "heard": "Barnaby",
+            "likely": "Ledzbika",
+            "notes": "Sylan's guess, heard as Partner Barnaby."
+        },
+        {
+            "heard": "Carnaby",
+            "likely": "Ledzbika",
+            "notes": "Ord agreeing with Sylan's guess."
+        },
+        {
+            "heard": "Martin",
+            "likely": "",
+            "notes": "Ord says Martin just as the spirit is naming himself. Unclear if it is a separate mishear."
+        },
+        {
+            "heard": "Claire Belle",
+            "likely": "",
+            "notes": "Name of the neighbor accused of stealing the silver. Spelling is only from this hearing."
+        },
+        {
+            "heard": "Morgan",
+            "likely": "",
+            "notes": "Sylan asks if these ghosts are from Morgan. No place by that name is confirmed here."
+        },
+        {
+            "heard": "Vorgar",
+            "likely": "Volga",
+            "notes": "Where Sylan says Ord previously used Divine Sense."
+        },
+        {
+            "heard": "Volgar",
+            "likely": "Volga",
+            "notes": "Same Divine Sense recollection, second hearing in the same exchange."
+        },
+        {
+            "heard": "Invoyar",
+            "likely": "in Volga",
+            "notes": "Sylan, just before the Volga recollection: Invoyar he did."
+        },
+        {
+            "heard": "fore words",
+            "likely": "floorboards",
+            "notes": "The raspy voice says he was pulled from them. Ledzbika already placed his silver under the floorboards."
+        },
+        {
+            "heard": "children star",
+            "likely": "children starve",
+            "notes": "Ledzbika blaming Claire Belle."
+        }
+    ],
+    "openQuestions": [
+        "Are these ghosts from Morgan?",
+        "Where is Ledzbika's abode?",
+        "Who is the raspy voice, and is he another of the spirits pulled from the floorboards?"
+    ],
+    "newTerms": [
+        {
+            "name": "Claire Belle",
+            "notes": [
+                "Neighbor Ledzbika accuses of stealing his family's silver from under the floorboards and of leaving his children starving."
+            ]
+        }
+    ]
+}

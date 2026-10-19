@@ -65,6 +65,13 @@
         "He drinks through the talk and is quite drunk by the end, still reeling from an eldritch horror brought into his living room. He would rather they book an appointment than arrive unannounced, and agrees to send a runner and schedule a look at a helm when their comrade returns.",
         "His location is much farther than five hundred feet from the castle."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "The party recently visited Carlkin. Dana was there for the first part of the visit, and Sylan hopes she has recovered from it. Gerk tells Sylan to do the New Navel ghost work at Carlkin's house.",
+      "notes": [
+        "The party recently visited him. Dana was there for the first part. Sylan hopes she has recovered from it. Gerk tells Sylan to do the New Navel ghost work at Carlkin's house."
+      ]
     }
   ],
   "openQuestions": [
@@ -72,5 +79,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:22:15.911Z",
-  "updatedAt": "2026-10-06T20:59:07.893Z"
+  "updatedAt": "2026-10-19T20:24:03.892Z"
 }

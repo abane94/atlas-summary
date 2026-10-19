@@ -1,0 +1,27 @@
+{
+  "name": "Powdered dragon liver",
+  "tags": [
+    "alchemy"
+  ],
+  "slug": "Powdered dragon liver that Plymouth is carrying.",
+  "aliases": [],
+  "normalizedAliases": [
+    "powdered dragon liver"
+  ],
+  "filename": "items/powdered_dragon_liver.md",
+  "description": "Powdered dragon liver is a supply carried by Plymouth Gawater.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Plymouth is carrying powdered dragon liver, along with small purchases from Sunder, after forgetting most of his equipment. He has no gems.",
+      "notes": [
+        "Plymouth is carrying powdered dragon liver, along with small purchases from Sunder, after forgetting most of his equipment. He has no gems."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:37:04.691Z",
+  "updatedAt": "2026-10-19T20:51:02.630Z"
+}

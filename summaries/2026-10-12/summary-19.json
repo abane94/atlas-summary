@@ -1,0 +1,247 @@
+{
+    "plotSections": [
+        {
+            "title": "Spirits pulled into the dark",
+            "bullets": [
+                "Ord lets one spirit go. It dematerializes while reaching toward New Navel. The last spirit clings to a root in the ground as it is pulled away.",
+                "Gerk stays on the ground screaming and whirling his hammer overhead to keep things off him. He does not join the interrogation.",
+                "Ord grabs the last spirit: an amorphous, elderly, sickly woman with a pockmarked face, only an upper body. She death-grips his hand and begs him not to let go, saying it is not her time, her son does not know, and the darkness is pulling her. She never gives her name or her son's.",
+                "Sylan and Ord take these for spirits from Old Navel, disturbed as the party passed. Sylan suspects something has gone wrong and that this one is not giving a usable story."
+            ]
+        },
+        {
+            "title": "Beacon of celestial darkness",
+            "bullets": [
+                "A beacon of celestial darkness erupts from the forest. Dana leaves the tower immediately on her broom (50 feet of flight) and heads for it.",
+                "Walker has just landed and taken Glimmen back from Plymouth. He sees Dana cross the sky, tells Elrus there is a change of plans, and he and Araden take off. Glimmen, with Araden riding behind, overtakes Dana's broom.",
+                "In the air, Walker asks what is happening. Dana guesses the others are messing with a magical item. She says she was indisposed for a couple of days and that this is what happens when she and Walker are both gone. Walker's line about being gone forty-nine days was a joke he then walked back. Sylan calls the scene a literal dark age."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan tells Ord to let the held spirit go and settle that before talking to anyone else. Ord releases him.",
+        "The released spirit dematerializes, reaching toward New Navel. The last spirit hangs onto a root while being pulled.",
+        "Gerk, still with the group on the ground, sits screaming and whirling his hammer.",
+        "Dana flies out of the tower on her broom toward a beacon of celestial darkness erupting from the forest.",
+        "Walker, having relieved Plymouth of Glimmen, sees Dana, tells Elrus the plan has changed, and flies with Araden. Glimmen overtakes the broom.",
+        "Dana tells Walker she thinks the others are using a magical item, and that things went wrong while she and Walker were away.",
+        "Back on the ground, Ord grabs the last spirit, a sickly elderly woman. She begs him to hold on so she can tell her son something before the darkness takes her, but she gives no name and no clear message.",
+        "Sylan agrees they are not getting anywhere and says something has gone wrong."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Releases one spirit, then grabs the last one, a sickly elderly woman, and tries to learn her name and her son's.",
+                "Gets no usable answer and tells Sylan they are not getting anywhere."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Tells Ord to release the first spirit, then pushes to question the last one and compare her story.",
+                "Thinks these are spirits from Old Navel that the party stirred up while passing, and that something has gone wrong with this one."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Stays seated, screaming, and whirling his hammer to keep things away. He keeps that up instead of helping interrogate the last spirit.",
+                "The DM addresses a silent 'blind boy' immediately before prompting Gerk. It is unclear whether Gerk is blinded."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Flies from the tower on her broom toward the beacon of celestial darkness. The broom's flight is 50 feet.",
+                "Once Walker and Araden catch up, she says she does not know what is happening and guesses the others are messing with a magical item.",
+                "Says she was indisposed for a couple of days, and that this is what happens when she and Walker are both gone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Lands and relieves Plymouth from Glimmen, then sees Dana streak toward the forest beacon.",
+                "Tells Elrus there is a change of plans and flies with Araden. Glimmen overtakes Dana's broom.",
+                "Asks what is going on. His claim of being gone forty-nine days was a joke he explicitly walked back."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Rides behind on Glimmen with Walker and matches pace with Dana's broom on the way to the beacon."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally.",
+            "entityType": "NPC",
+            "notes": [
+                "Is with Walker when the beacon appears. Walker tells him there is a change of plans because of the disturbance in the forest."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who guides the new keystone keepers.",
+            "entityType": "NPC",
+            "notes": [
+                "Was with Glimmen until Walker landed and relieved him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Carries Walker and Araden and overtakes Dana's broom on the way to the beacon in the forest."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Unnamed sickly spirit": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "The last of the spirits Ord is holding. Amorphous, only an upper half: an elderly woman with a pockmarked, sickly face.",
+                "Clings to a root while being pulled, then death-grips Ord's hand when he grabs her.",
+                "Begs not to be let go. Says it is not her time, her son does not know, and he needs to be told. Says the darkness is coming and pulling her.",
+                "Repeats 'my name' and 'they need to know' but never states a name, the son's identity, or the message.",
+                "Sylan and Ord believe she is one of the spirits from Old Navel."
+            ],
+            "titles": [],
+            "personality": [
+                "Terrified of being taken, and fixed on getting a message to her son before she goes."
+            ],
+            "quotesThemes": [
+                "Don't let me go. It's not my time. My son doesn't know.",
+                "The darkness comes. He is pulling me to him.",
+                "Tell my son they need to know."
+            ],
+            "openQuestions": [
+                "What is her name?",
+                "Who is her son?",
+                "What does her son, or 'they,' need to know?",
+                "What is the darkness pulling her?"
+            ]
+        },
+        "New Navel": {
+            "existing": "A familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The spirit Ord released reaches toward New Navel as he dematerializes.",
+                "Sylan and Ord think the spirits are from Old Navel and were disturbed when the party passed."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Beacon of celestial darkness": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Erupts from the forest while the spirits are being pulled away. Dana flies toward it from the tower, and Walker, Araden, and Glimmen follow.",
+                "Dana's guess is that the party members still on the ground set it off with a magical item."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What caused the beacon of celestial darkness?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Nunavell",
+            "likely": "New Navel",
+            "notes": "The released spirit reaches toward this place as he dematerializes."
+        },
+        {
+            "heard": "Old Naval",
+            "likely": "New Navel",
+            "notes": "Ord and Sylan call the spirits 'from Old Naval.' Confirm whether Old Navel is a separate place."
+        },
+        {
+            "heard": "Rayden",
+            "likely": "Araden",
+            "notes": "DM says Rayden has a point, then Araden is on Glimmen behind Walker."
+        },
+        {
+            "heard": "Glimit",
+            "likely": "Glimmen",
+            "notes": "Asked how far Glimit can fly while timing the chase."
+        },
+        {
+            "heard": "Grazog",
+            "likely": "",
+            "notes": "Used in the DM's Star Wars joke about training instead of working with Grazog. May not be a real name."
+        },
+        {
+            "heard": "Alan",
+            "likely": "Sylan",
+            "notes": "Ord says 'Alan, I don't know if we're getting anywhere' while talking with Sylan. No Alan is in the party."
+        },
+        {
+            "heard": "blind boy",
+            "likely": "Gerk",
+            "notes": "DM prompts the silent blind boy, then calls on Gerk, who is screaming on the ground. Confirm if Gerk is blinded."
+        }
+    ],
+    "openQuestions": [
+        "What is the sickly spirit's name, who is her son, and what must he be told?",
+        "What is the darkness that is pulling the spirits?",
+        "What caused the beacon of celestial darkness in the forest?"
+    ],
+    "newTerms": [
+        {
+            "name": "Beacon of celestial darkness",
+            "notes": [
+                "A column or eruption of celestial darkness from the forest. Dana flies to it on her broom, and Walker and Araden follow on Glimmen. Dana guesses a magical item caused it."
+            ]
+        },
+        {
+            "name": "Old Navel spirits",
+            "notes": [
+                "Amorphous spirits Ord and Sylan believe came from Old Navel and were stirred up as the party passed. One dematerializes reaching toward New Navel. The last is a sickly elderly woman clinging to a root and begging to warn her son before the darkness takes her."
+            ]
+        }
+    ]
+}

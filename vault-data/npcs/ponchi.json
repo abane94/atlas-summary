@@ -1,6 +1,8 @@
 {
   "name": "Ponchi",
-  "tags": [],
+  "tags": [
+    "companion"
+  ],
   "slug": "A stronghold guard who will relocate to the tavern.",
   "aliases": [],
   "normalizedAliases": [
@@ -16,10 +18,17 @@
       "notes": [
         "Is named as one of the guards who will evacuate the stronghold and relocate to the tavern."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "Ponchi is identified as Ord's roommate, remembered as a little gold person who makes something involving gold. The name was misheard as Banshee and Archie before the table settled on Ponchi.",
+      "notes": [
+        "Ord's roommate. Remembered as a little gold person who makes something involving gold. The name was misheard as Banshee and Archie before the table landed on Ponchi."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:40:11.895Z",
-  "updatedAt": "2026-08-21T18:40:11.895Z"
+  "updatedAt": "2026-10-19T20:51:02.638Z"
 }

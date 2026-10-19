@@ -1,6 +1,8 @@
 {
   "name": "Orcus",
-  "tags": [],
+  "tags": [
+    "demon"
+  ],
   "slug": "Orcus is a demon prince whose claim on the undead overlaps Vecna's domain.",
   "aliases": [],
   "normalizedAliases": [
@@ -21,5 +23,5 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-09-29T18:45:50.107Z",
-  "updatedAt": "2026-09-29T18:45:50.107Z"
+  "updatedAt": "2026-10-19T20:51:02.638Z"
 }

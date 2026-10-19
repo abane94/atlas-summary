@@ -1,0 +1,347 @@
+{
+    "plotSections": [
+        {
+            "title": "The obelisk on the grassy island",
+            "bullets": [
+                "The party walks to a spot they had already identified on the island where an obelisk stands. The ground feels no different from the surrounding rolling grassy field.",
+                "The obelisk has no base. It sits on bare ground, slightly angled and slightly embedded, with grass growing around it.",
+                "Walker asks Elrus whether they must meditate for the working to succeed. Elrus says meditation is not required, but they should meditate anyway.",
+                "Elrus tries a simple cantrip. From his pocket he produces a small pebble, scorched moss, and some kind of insect. Light shines brightly out to about 60 feet and continues another 60 feet beyond that.",
+                "Elrus says he is not properly equipped, and that they should leave and return on a later day. Walker agrees and says he could gather more stones and more energy in the meantime."
+            ]
+        },
+        {
+            "title": "Forty-two days, then a decision not to imbue yet",
+            "bullets": [
+                "They agree to meditate, train, do more magic training at the site later, and return to Midgard.",
+                "Walker thinks only about two weeks have passed for him. Elrus checks his watch and says it has been exactly 42 days, and that Walker has been training the entire time even while being told he still needs to train more.",
+                "Walker records a return path to the site: from the tower, 0.01 radians to the west, then 5.6 miles. He also described it as two miles at 0.01 radians, and the DM echoed two miles northwest at 0.01 radians before Walker corrected the heading to west.",
+                "Walker is offered the chance to imbue stones as primal stones now. He declines until he can talk with the group. He floats a night-vision use for himself and, less certainly, a bard instrument for Dana, and says they still need to figure out the cosmic loom. He is not sure, in play, how a stone would help with that."
+            ]
+        },
+        {
+            "title": "Plymouth's rod and a short landing",
+            "bullets": [
+                "Plymouth takes a collapsible rod from a telescope-like case on his belt. It is about a foot long, with several turnable parts, and one end is a broad, rounded, three-pronged head.",
+                "He adjusts it for convergence, asks the distance from the original location, and is told 5.6 miles. He plants the rod. Electrical energy arcs around it, then a lightning crack and flash carry the group away.",
+                "They arrive on a brisk mountaintop overlooking a valley, not on the grassy knoll. Plymouth recovers the smoldering rod and says he was a little off: a little farther and it would have been quite bad. He had been aiming for the stronghold's front door. By his calculations the stronghold is down in the valley."
+            ]
+        },
+        {
+            "title": "Morning of the eighth day at the stronghold",
+            "bullets": [
+                "For the group at home it is the morning of the eighth day. They have had no contact from Walker. The morning is brisk, fall is coming in, and thunder and lightning roll in the distance.",
+                "Sylan, who has been up a couple of hours and has been working with Gerk, checks on Ord. Ord asks for help with his lantern. They plan to work outside in the woods, away from people, for about an hour, as going to the woods worked last time. Sylan expects to ride out again and says he has an ability ready so they do not blind themselves.",
+                "Sylan remembers that Ord found this lantern in Volga, and that Sylan found a staff at Shades and Trades. He thought the two might belong together. Ord proposes fusing them.",
+                "Ord has been trying to regain his lost strength and has not managed it. He does not think the loss came from his duel with Gerk. As he remembers it, they were at a place heard as \"the orc Tam,\" his strength went into a little object heard as \"a little Ord,\" and someone else touched it instead of him. He also says he can't see. Sylan asks whether Dana was able to help or whether it was beyond her means; that is not answered."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The group reaches the identified spot on the grassy obelisk island and feels nothing unusual in the terrain.",
+        "Elrus tells Walker that meditation is not required for the working but that they should still meditate. His cantrip, using a pebble, scorched moss, and an insect, throws bright light about 60 feet and another 60 feet beyond. He calls off the real attempt until he has the proper equipment.",
+        "They agree to train and return to Midgard. Elrus's watch reads exactly 42 days. Walker pins the site as 0.01 radians west from the tower, then 5.6 miles.",
+        "Walker puts off imbuing primal stones until the group can discuss uses, including the cosmic loom.",
+        "Plymouth plants his foot-long adjustable rod 5.6 miles from the original location. Lightning takes them to a mountain above the stronghold rather than the front door.",
+        "On the morning of the eighth day at the stronghold, Sylan and Ord agree to experiment outside with Ord's Volga lantern and Sylan's staff from Shades and Trades, possibly fusing them.",
+        "Ord says his strength still has not returned. He traces the loss to a moment when his strength went into a small object someone else touched, not to the duel with Gerk, and says he can't see."
+    ],
+    "entities": {
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Told Walker that meditation is not required for the working at the obelisk site, but that he should meditate regardless.",
+                "Cast what he called a simple cantrip from a pebble, remnants of scorched moss, and an insect. The light reached about 60 feet and then another 60 feet farther.",
+                "Was not carrying the right equipment and asked to leave and return on a later day, when he could use it properly.",
+                "His watch read exactly 42 days. He maintained that Walker had been training that whole time while also telling him he needed to train more."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "No, but you should meditate regardless.",
+                "You need to train more. You've trained the entire time."
+            ],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who explains the Great Eldarin Tree, keystones, and Mother's Prayer.",
+            "entityType": "NPC",
+            "notes": [
+                "Used a foot-long collapsible rod, stored like a pocket telescope on his belt, with turnable sections and a broad rounded three-pronged head. He set it for convergence, planted it, and lightning transported the group.",
+                "He was 5.6 miles from the original location when he used it. He had aimed for the stronghold's front door and instead landed on the mountain above it. He said a little farther off and the result would have been quite bad.",
+                "He judged from the mountaintop that the stronghold was in the valley below."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen; Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Subjectively thought about two weeks had passed; Elrus's watch said 42 days of training.",
+                "Recorded the obelisk site as: from the tower, 0.01 radians west, then 5.6 miles. He also said \"two miles\" and \"point oh one radians,\" and the heading was restated once as northwest before he corrected it to west because it was to his right.",
+                "Declined to imbue primal stones on the spot. He wants a group decision. His own idea is night vision. He also mentioned a bard instrument for Dana and said the cosmic loom still has to be figured out before he knows if a stone helps.",
+                "Has not contacted the others at the stronghold during this absence. His arrival is marked there by thunder and lightning on the morning of the eighth day."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grassy atoll": {
+            "existing": "An unnamed flat island of rolling green plains, labeled the grassy atoll on some maps.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The identified spot feels like any other part of the rolling grassy field.",
+                "An obelisk stands there with no base, slightly angled and slightly embedded in bare ground, grass growing around it.",
+                "Walker’s return directions, as stated: from the tower, 0.01 radians to the west, then travel 5.6 miles. A conflicting phrasing in the same exchange was two miles northwest at 0.01 radians."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Obelisk": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "landmark",
+            "notes": [
+                "Stands on the grassy island on bare ground with no base, slightly angled, slightly embedded, grass growing around it.",
+                "The party’s chosen working-spot at that landmark does not feel different from the rest of the field. Elrus postponed the actual attempt until he has proper equipment and recommended meditation and further magic training there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Primal stones": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker can imbue stones as primal stones. He chose not to do it yet, preferring to compare ideas with the group, including a night-vision stone and whatever the cosmic loom requires."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Cosmic loom": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker says the group still needs to figure out the cosmic loom, and he is not sure how imbuing a primal stone would help with it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth's rod": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Collapsible rod about a foot long, carried in a telescope-style pocket case on Plymouth's belt. Several turnable parts. One end resembles a broad, rounded, three-pronged spear head.",
+                "Planted in the ground after he accounted for convergence and the 5.6-mile distance. It arced with electrical energy, then lightning-transported the group. It came out smoldering and sooty. The landing was short of the stronghold door, on the mountain above it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin connected to the Great Eldarin Tree; Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has not regained his lost strength despite trying.",
+                "Does not think the loss was from his duel with Gerk. He remembers being somewhere heard as \"the orc Tam,\" his strength going into a small object heard as \"a little Ord,\" and someone else touching that object instead of him.",
+                "Says he can't see.",
+                "Asked Sylan to help with his lantern. They plan to take it into the woods, away from people. He suggested fusing it with Sylan's staff.",
+                "Sylan remembers that Ord liked boats in a past life and offered Langdale, including building a house or a boat, as a place to live rather than only sleeping in the castle."
+            ],
+            "titles": [],
+            "personality": [
+                "Down about the strength he cannot get back; willing to talk about it with Sylan."
+            ],
+            "quotesThemes": [
+                "I've been trying, my friend. To no avail."
+            ],
+            "openQuestions": [
+                "Sylan asked whether Dana was able to help Ord recover his strength or whether it was beyond her means; Ord did not answer that."
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "On the morning of the eighth day he had already been up a couple of hours and had been working with Gerk before checking on Ord.",
+                "Agrees to help Ord with the lantern. They have about an hour. He intends to ride out to the woods again, which worked last time, and says he has an ability prepared so they do not blind themselves.",
+                "Found a staff at Shades and Trades and thought it might pair with the lantern Ord found in Volga. Ord wants to fuse them."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord's lantern": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan remembers Ord found it in Volga. A previous session working on it was interesting. They are taking it outside into the woods so they do not blind anyone, and they are considering fusing it with Sylan's staff from Shades and Trades."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan's staff": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A staff Sylan found at Shades and Trades. He thought it would go well with Ord's Volga lantern and is not sure it does. Ord proposed fusing the two."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Shades and Trades": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "Where Sylan found the staff he wants to try with Ord's lantern."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Volga": {
+            "existing": "A recent stop whose frozen gatehouse is too faint a memory for Gerk’s doorway.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sylan recalls this as the place where Ord found his lantern."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale Stronghold": {
+            "existing": "Party's central stronghold and home base.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Plymouth aimed the rod at its front door and landed on the mountain above it. He believes the stronghold is in the valley below.",
+                "On the morning of the eighth day the weather there is surprisingly brisk and fall seems to be coming in. Thunder and lightning are heard in the distance as Walker’s group arrives."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "call island",
+            "likely": "grassy atoll",
+            "notes": "DM: \"this call island that the obelisk sits upon,\" describing a rolling grassy field."
+        },
+        {
+            "heard": "ken trip",
+            "likely": "cantrip",
+            "notes": "Elrus: \"this is just a simple ken trip,\" while producing light from a pebble and moss."
+        },
+        {
+            "heard": "geopin",
+            "likely": "geopin",
+            "notes": "Walker: \"I'm gonna geopin this location,\" meaning mark the coordinates. Spelling of the verb is uncertain; the act is pinning the site."
+        },
+        {
+            "heard": "Glimund",
+            "likely": "Plymouth Gawater",
+            "notes": "DM names Glimund as the one drawing the rod, then corrects himself away from Glimmen to Plymouth."
+        },
+        {
+            "heard": "Pun",
+            "likely": "Plymouth",
+            "notes": "Walker: \"Thanks, Pun,\" immediately after Plymouth lands them on the mountain."
+        },
+        {
+            "heard": "Od",
+            "likely": "Ord",
+            "notes": "Sylan: \"I'm gonna check out Od.\""
+        },
+        {
+            "heard": "Lord",
+            "likely": "Ord",
+            "notes": "Sylan: \"What's got you so down, Lord?\" while talking to Ord."
+        },
+        {
+            "heard": "D blinding ability",
+            "likely": "",
+            "notes": "Sylan, preparing the lantern work: \"make sure I have the D blinding ability.\" Context is not blinding themselves."
+        },
+        {
+            "heard": "Shades and Trades",
+            "likely": "",
+            "notes": "Sylan says he found a staff there. May be a real place name or a mishearing of a shop."
+        },
+        {
+            "heard": "bar magic",
+            "likely": "bard magic",
+            "notes": "Walker brainstorming a \"fancy guitar\" for Dana."
+        },
+        {
+            "heard": "l cosmic loom",
+            "likely": "the cosmic loom",
+            "notes": "Walker: \"this whole fucking l cosmic loom thing.\""
+        },
+        {
+            "heard": "orc Tam",
+            "likely": "",
+            "notes": "Ord, on where he lost his strength: \"We were at the orc. Tam.\""
+        },
+        {
+            "heard": "little Ord",
+            "likely": "little orb",
+            "notes": "Ord: \"my strength went to a little Ord and then someone else touched it instead of me.\""
+        }
+    ],
+    "openQuestions": [
+        "Was Dana able to help Ord recover his strength, or was it beyond her means?"
+    ],
+    "newTerms": [
+        {
+            "name": "Primal stones",
+            "notes": [
+                "Stones Walker can imbue. He delayed the choice so the group can decide what they should do, including whether one helps with the cosmic loom."
+            ]
+        },
+        {
+            "name": "Cosmic loom",
+            "notes": [
+                "Something the group still needs to figure out. Walker does not yet see how a primal stone addresses it."
+            ]
+        },
+        {
+            "name": "Obelisk",
+            "notes": [
+                "Baseless, slightly tilted stone set into the grass of the island where Elrus postponed a prepared magical working."
+            ]
+        },
+        {
+            "name": "Plymouth's rod",
+            "notes": [
+                "Belt-stored, adjustable, three-pronged rod that lightning-jumps the group and can miss its landing."
+            ]
+        },
+        {
+            "name": "Shades and Trades",
+            "notes": [
+                "Place where Sylan found the staff he wants to try fusing with Ord's lantern."
+            ]
+        }
+    ]
+}

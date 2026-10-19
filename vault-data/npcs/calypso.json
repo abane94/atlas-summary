@@ -1,6 +1,8 @@
 {
   "name": "Calypso",
-  "tags": [],
+  "tags": [
+    "vendor"
+  ],
   "slug": "Floating Sunder vendor between Miss Mary's and the docks",
   "aliases": [],
   "normalizedAliases": [
@@ -23,5 +25,5 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-09-01T18:32:28.185Z",
-  "updatedAt": "2026-09-01T18:32:28.185Z"
+  "updatedAt": "2026-10-19T20:51:02.635Z"
 }

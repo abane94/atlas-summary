@@ -1,0 +1,281 @@
+{
+    "plotSections": [
+        {
+            "title": "Where the last session left off",
+            "bullets": [
+                "In the cave, Walker talked with Vecna, waited until Vecna left, and kept investigating. He learned what a convergence on ley lines is, along with other pieces of his current situation.",
+                "The rest of the party finished with Carlkin, drank at the pub, and the next morning went out to explore.",
+                "Last session's openings were not fixed: size and location could vary with motivation, abilities, and durability, and the openings interact with the surroundings and with each other.",
+                "Play resumes at midday on the seventh day. There are two short activity windows before Walker's training montage in the power-chamber situation he has found himself in."
+            ]
+        },
+        {
+            "title": "Convergence, Nyx, and the gold eagle",
+            "bullets": [
+                "Walker plans to go to the convergence. He lands on calling the site an obelisk after trying pyramid and monolith.",
+                "Elrus advised the convergence because it lights up the map. The other lead is Elrus's table in Nyx, to see whether it adds information or holds another gold eagle marker.",
+                "The markers where Elrus was living, in the cave, were generic and not the fancy gold eagle.",
+                "Walker is flying toward the convergence and has picked up Plymouth, who missed the earlier discoveries."
+            ]
+        },
+        {
+            "title": "Primal stones",
+            "bullets": [
+                "A primal stone is elemental energy poured into a gem and stabilized. Set in a weapon, Walker's fire stone would add fire and magic damage. A worn earring would not do that for a bow; worn, it could only be a focus for his own fire.",
+                "Walker may be able to make one himself if he rolls well enough, with Elrus's help. Ley-line convergences make it much easier, which is why they are sought after. Power scales with energy spent and with how pure and unflawed the gem is. More energy goes in than the stone holds.",
+                "Raw energy stored in Walker's gems is only safe for dragonriders, who can pull it in and out through their dragon links. Glimmen, and possibly another dragon, could use it to a lesser extent. For someone like Plymouth it is an unstable charge: tripping it destroys the item and throws magical shrapnel.",
+                "A finished primal stone is usable by others, but only after it is set into an object that acts as the conduit, such as a wand or weapon. Handing Gerk the stone alone would not let him cast fire.",
+                "Walker's primary element is fire, the first he learned. He can also call fire, water, light, and darkness, and he can already spend the energy stored in his gemstones.",
+                "Elrus, hearing they have found a convergence, wants to go back for his equipment. There is no time: Walker's training is imminent, and Elrus calls him a fledgling. The explanation pauses mid-detail on how the gems must be cut."
+            ]
+        },
+        {
+            "title": "Cosmic loom",
+            "bullets": [
+                "Setting a primal stone into an object takes a cosmic loom, a magical containment table. Elrus has tried once or twice and does not know where one is now. Plymouth might be able to do the setting.",
+                "It looks like an altar with an upside-down table: four pillars, one at each corner, generate a field that holds the energy. Elrus could start the carvings and try to get pillar materials, but it would take time.",
+                "A fire primal stone could then be used for fire-based effects, including something defensive. That example is cut off when Walker steps away."
+            ]
+        },
+        {
+            "title": "Doorway practice",
+            "bullets": [
+                "The rest of the party is training while Walker is away. They expect on the order of a day before he returns.",
+                "Gerk is opening doors from different directions while Ciri throws rocks at him. He says the doorman work seems fine. Sylan, who had pushed him to reel the ability in, asks whether he had it the entire time. The chunk ends before Gerk answers."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The DM recaps the cave: Walker spoke with Vecna, waited for him to leave, investigated further, and learned what a ley-line convergence is.",
+        "The other party members finished with Carlkin, spent a night drinking at the pub, and set out to explore the next morning.",
+        "The DM recaps that openings could be made at different sizes and locations depending on motivation, abilities, and durability, and that they interact with the surroundings and each other.",
+        "It is midday on the seventh day, with two activity windows left before Walker's training montage.",
+        "Walker chooses the convergence obelisk. Elrus recommended it because it lights up the map, and Walker also wants to check Elrus's table in Nyx for more information or another gold eagle.",
+        "The cave where Elrus was living had only generic markers, not a gold eagle.",
+        "Walker confirms primal stones in broad strokes: fire energy in a stone, set in a sword, for fire and magic damage. Convergences make that much easier, and he may now manage it himself with Elrus's help.",
+        "Flying toward the convergence with Plymouth aboard, Walker asks Elrus the point of a primal stone if he can already call elements and spend energy stored in gems.",
+        "Elrus explains that dragonriders can safely use that raw stored energy, that primal stones stabilize it for other users once set in a conduit, and that gem quality and energy spent set the stone's strength. Gerk could not cast from a loose stone.",
+        "Elrus says setting the stone takes a cosmic loom, which he does not currently know how to find. He could try to build one over time. He starts on a fire-stone example, including a defensive use, then the scene pauses.",
+        "Meanwhile Gerk practices opening doors from different directions while Ciri throws rocks at him. Sylan asks if Gerk had the ability the whole time, and the chunk cuts off."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Last session he spoke with Vecna in the cave, waited for Vecna to leave, and learned what a ley-line convergence is.",
+                "He is flying toward the convergence obelisk on Elrus's advice, with Plymouth aboard, and also wants Elrus's table in Nyx checked for another gold eagle or more information.",
+                "His training is imminent. It is midday on the seventh day, with two short activity windows before the montage. Elrus calls him a fledgling and says there is no time to retrieve Elrus's equipment.",
+                "Fire is his primary element, the first he learned. He can also call water, light, and darkness, and he can spend energy he has already stored in gemstones.",
+                "He does not remember ever seeing a cosmic loom."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "He keeps pressing Elrus for why a primal stone is worth the energy if he can already call the elements himself."
+            ],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "He thought the party should go to the convergence because it lights up the map.",
+                "His table in Nyx is a lead for more information or another gold eagle marker. The markers in the cave where he was living were generic.",
+                "He is a dragonrider and can safely draw on energy Walker stores in gems. He has tried once or twice to set such stones into objects.",
+                "He can help Walker make primal stones. With a good enough roll, Walker may be able to do it himself now that he knows of them. Convergences make it much easier.",
+                "He has none of his equipment with him, wants to circle back for it, and is told there is no time.",
+                "He does not know where a cosmic loom is. He could start carvings and try to procure pillar materials, which would take time, then use the loom to set a primal stone into an object."
+            ],
+            "titles": [
+                "Dragonrider"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally who explains the Great Eldarin Tree, keystones, and Mother's Prayer.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker has picked him up on the flight toward the convergence. He missed the earlier discoveries.",
+                "Elrus thinks he is versatile enough that he might set primal stones into objects.",
+                "Raw energy stored in Walker's gems is unsafe for him. Coaxing it out would take heavy magical protection; tripping it would destroy the item and throw magical shrapnel."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Elrus says a dragon linked this way could use the energy stored in Walker's gems, to a lesser extent than a dragonrider."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He is practicing the doorway, opening doors from different directions while Ciri throws rocks at him, and says it seems fine.",
+                "Sylan had pushed him to reel the ability in.",
+                "A primal stone would not let him create fire on his own. It has to be set into an object that releases the energy."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Sylan asks whether Gerk had the doorway ability the entire time. Gerk does not answer before the chunk ends."
+            ]
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue, Gatekeeper of Lith.",
+            "entityType": "PLAYER",
+            "notes": [
+                "During doorway practice she throws rocks at Gerk as he opens doors from different directions."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue, Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He checks on Gerk's doorman practice and says he had pushed Gerk to reel the ability in. He expects about a day before Walker returns."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Primal stone": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Elemental energy poured into a gem and stabilized so someone other than a dragonrider can use it.",
+                "Set in a weapon, Walker's fire stone would deal fire and magic damage. Worn jewelry does not enchant a separate weapon; an earring he wears could only focus his own fire.",
+                "Strength scales with energy used to make the stone and with how pure and unflawed the gem is. Making one costs more energy than the stone stores.",
+                "Easier, and much less effort, on a ley-line convergence. Walker may be able to make one himself with Elrus's help if he rolls well enough.",
+                "Must be set into a conduit object, such as a wand or weapon, before someone else can release it. Elrus needs a cosmic loom to do that setting.",
+                "A fire primal stone can be used for fire-based effects. Elrus begins to include a defensive use, then the explanation pauses."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Cosmic loom": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A magical containment table, also described as an altar with an upside-down table. Four pillars at the corners create a field that contains energy.",
+                "Used to set a primal stone into an object. Elrus has tried the setting once or twice and does not know where a loom is now.",
+                "Elrus could start the carvings and try to procure materials for the pillars. It would take time."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ley line convergence": {
+            "existing": "Lines of magic that gatehouses sit on.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker learned last session what a convergence on ley lines is.",
+                "Creating primal stones is easier there and takes much less effort, which is why convergences are sought after.",
+                "The convergence they are flying toward lights up the map. Walker calls that site an obelisk after also trying pyramid and monolith."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Beckna",
+            "likely": "Vecna",
+            "notes": "DM recap: a conversation with Walker and Beckna Vecna in the cave."
+        },
+        {
+            "heard": "Vecnant",
+            "likely": "Vecna",
+            "notes": "Same recap: they waited for Vecnant to leave."
+        },
+        {
+            "heard": "Karlkin",
+            "likely": "Carlkin",
+            "notes": "The other party finished their conversation with Karlkin."
+        },
+        {
+            "heard": "D Man",
+            "likely": "",
+            "notes": "DM says they ended with D Man last time, then addresses Walker about what he found."
+        },
+        {
+            "heard": "Justin",
+            "likely": "",
+            "notes": "Gerk says he will agree, Justin, as Walker chooses the convergence."
+        },
+        {
+            "heard": "Alarist",
+            "likely": "Elrus",
+            "notes": "Walker says Alarist thought the convergence was a good idea."
+        },
+        {
+            "heard": "Alarissa",
+            "likely": "Elrus",
+            "notes": "DM: Walker might make a primal stone with Alarissa's help."
+        },
+        {
+            "heard": "Elvis",
+            "likely": "Elrus",
+            "notes": "DM, still in the Elrus exchange: like Elvis says, the earring example would not work that way."
+        },
+        {
+            "heard": "Gleminde",
+            "likely": "Glimmen",
+            "notes": "Elrus names Gleminde and or Rayodin as able to use the stored energy to a lesser extent, then corrects toward Glimmen."
+        },
+        {
+            "heard": "Rayodin",
+            "likely": "",
+            "notes": "Paired with Gleminde as someone who could use the stored gem energy to a lesser extent. Not otherwise identified."
+        },
+        {
+            "heard": "doorband",
+            "likely": "Doorman",
+            "notes": "Sylan asks Gerk how he has been doing with the doorband thing."
+        }
+    ],
+    "openQuestions": [
+        "Did Gerk have the doorway ability the entire time? Sylan asks, and the chunk ends before an answer."
+    ],
+    "newTerms": [
+        {
+            "name": "Primal stone",
+            "notes": [
+                "A gem stabilized with elemental energy so it can be set into a weapon or other conduit. Walker's would be fire. Much easier to create at a ley-line convergence."
+            ]
+        },
+        {
+            "name": "Cosmic loom",
+            "notes": [
+                "Magical containment table with four corner pillars. Needed to set a primal stone into an object. Elrus does not know where one is."
+            ]
+        },
+        {
+            "name": "Ley line convergence",
+            "notes": [
+                "A convergence on ley lines. The site they are flying to lights up the map, and Walker calls it an obelisk. Primal stones are easier to make there."
+            ]
+        }
+    ]
+}

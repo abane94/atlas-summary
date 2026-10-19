@@ -1,6 +1,8 @@
 {
   "name": "Council of Nyx",
-  "tags": [],
+  "tags": [
+    "order"
+  ],
   "slug": "A group Grixto held captive when the party first killed him, whose search led them to Gilbrick.",
   "aliases": [],
   "normalizedAliases": [
@@ -21,5 +23,5 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-09-29T18:48:14.405Z",
-  "updatedAt": "2026-09-29T18:48:14.405Z"
+  "updatedAt": "2026-10-19T20:51:02.628Z"
 }

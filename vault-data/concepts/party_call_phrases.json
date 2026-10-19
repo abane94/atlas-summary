@@ -1,0 +1,27 @@
+{
+  "name": "Party call phrases",
+  "tags": [],
+  "slug": "The party's recognition lines, led by the written phrase \"I don't trust the cat man.\"",
+  "aliases": [],
+  "normalizedAliases": [
+    "party call phrases"
+  ],
+  "filename": "concepts/party_call_phrases.md",
+  "description": "Shared recognition lines the party uses so a member can prove they are real. The first, and the one Gerk has written down, is \"I don't trust the cat man.\" Walker also offers \"scoop fruit\" and \"loincloth.\"",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Sylan tries to prove himself to blinded Gerk with the call phrases and doubts Gerk will remember them. Gerk has written down \"I don't trust the cat man,\" and Sylan confirms that is the first. Walker also offers \"scoop fruit\" and \"loincloth.\" Walker's joke that Sylan is Gerk's dad is not a phrase Sylan will use; he says it has not been explained in a way Gerk would trust.",
+      "notes": [
+        "Sylan tries to prove himself to blinded Gerk with their call phrases and doubts Gerk will remember them.",
+        "The one Gerk has written down, and the one Sylan confirms as the first, is 'I don't trust the cat man.' Walker also offers 'scoop fruit' and 'loincloth.'",
+        "Walker's joke that Sylan is Gerk's dad is not a phrase Sylan is willing to use. Sylan says it has not been explained in a way Gerk would trust."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:40:53.792Z",
+  "updatedAt": "2026-10-19T20:40:53.792Z"
+}

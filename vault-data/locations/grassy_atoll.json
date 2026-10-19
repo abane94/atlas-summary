@@ -4,9 +4,12 @@
     "landmark"
   ],
   "slug": "An unnamed flat island of rolling green plains, labeled the grassy atoll on some maps.",
-  "aliases": [],
+  "aliases": [
+    "Convergence"
+  ],
   "normalizedAliases": [
-    "grassy atoll"
+    "grassy atoll",
+    "convergence"
   ],
   "filename": "locations/grassy_atoll.md",
   "description": "A flat island of rolling green plains, about the same size as the island used for comparison. Some maps label it the grassy atoll. Elrus says it has no real name.",
@@ -18,10 +21,20 @@
       "notes": [
         "One of the cave etchings: a flat island of rolling green plains, about the same size as the island used for comparison. Some maps label it the grassy atoll. Elrus says it has no real name."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "The rare, highly magical ley-line landmark Walker and Plymouth fly to. Walker settles on calling the marker an obelisk after also trying pyramid and monolith. It stands north of the dragon-rider guild hall on a small grassy island in rolling fields, with no base, slightly angled and slightly embedded in bare ground, grass growing around it. A mountain was to the west and the obelisk itself to the north. The party's chosen working spot feels like ordinary field. The obelisk is shifted off the true ley line. Walker's old figure of about twenty degrees he later treats as far too large; facing the guild, the true point is about a hundred yards to the right. He pins the return from the tower as 0.01 radians west, then 5.6 miles, after correcting an earlier two miles northwest. Elrus postpones the actual working until he has proper equipment and recommends meditation and further magic training there. The group then leaves for Midgard.",
+      "notes": [
+        "The rare, highly magical ley-line landmark Walker and Plymouth fly to. Walker settles on calling the marker an obelisk after also trying pyramid and monolith. An obelisk stands north of the dragon-rider guild hall, on a small grassy island in rolling fields.",
+        "The obelisk has no base. It is slightly angled and slightly embedded in bare ground, with grass growing around it. A mountain was to the west and the obelisk itself to the north. The party's chosen working spot feels like ordinary field.",
+        "The obelisk is shifted off the true ley line. Walker's old figure was about twenty degrees, which he later treats as far too large. Facing the guild, the true point is about a hundred yards to the right. He pins the return from the tower as 0.01 radians west, then 5.6 miles, after correcting an earlier 'two miles northwest.'",
+        "Elrus postpones the actual working until he has proper equipment and recommends meditation and further magic training there. The group then leaves for Midgard."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-10-06T21:11:29.344Z",
-  "updatedAt": "2026-10-06T21:11:29.344Z"
+  "updatedAt": "2026-10-19T20:25:58.122Z"
 }

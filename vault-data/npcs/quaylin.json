@@ -1,6 +1,9 @@
 {
   "name": "Quaylin",
-  "tags": [],
+  "tags": [
+    "vendor",
+    "alchemy"
+  ],
   "slug": "Duck-like apothecary proprietor of Qualin's Quax in Sunder",
   "aliases": [],
   "normalizedAliases": [
@@ -33,5 +36,5 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-09-01T18:32:42.073Z",
-  "updatedAt": "2026-09-01T18:32:42.073Z"
+  "updatedAt": "2026-10-19T20:51:02.638Z"
 }

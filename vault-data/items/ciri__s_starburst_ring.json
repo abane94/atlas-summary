@@ -1,0 +1,30 @@
+{
+  "name": "Ciri's starburst ring",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Ciri's unconfirmed ring or bracelet from the white dragon hoard that turns starbursts into fireballs.",
+  "aliases": [],
+  "normalizedAliases": [
+    "ciris starburst ring"
+  ],
+  "filename": "items/ciri__s_starburst_ring.md",
+  "description": "A ring or bracelet from the white dragon hoard, believed to be in Ciri's possession. It shoots starbursts that turn into fireballs. Its name is unconfirmed.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "While Ciri is absent, the party tries to remember the hoard item she is believed to be carrying. Dana says it is a ring or bracelet that shoots starbursts which become fireballs. Heard guesses include Nightfall and Starfall, and neither name is confirmed.",
+      "notes": [
+        "A ring or bracelet from the white dragon hoard, believed to be in Ciri's possession. It shoots starbursts that turn into fireballs.",
+        "Heard guesses include Nightfall and Starfall. The name is not confirmed, and Ciri is absent when the party tries to remember it."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Is it a ring or a bracelet, and what is it called?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:39:07.063Z",
+  "updatedAt": "2026-10-19T20:51:02.628Z"
+}

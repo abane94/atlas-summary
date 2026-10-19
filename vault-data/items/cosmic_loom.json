@@ -1,0 +1,29 @@
+{
+  "name": "Cosmic loom",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "A four-pillar containment table that sets a primal stone into an object.",
+  "aliases": [],
+  "normalizedAliases": [
+    "cosmic loom"
+  ],
+  "filename": "items/cosmic_loom.md",
+  "description": "A magical containment table, also described as an altar with an upside-down table. Four pillars at the corners create a field that contains energy. It is used to set a primal stone into an object.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Elrus has tried setting a stone with a cosmic loom once or twice and does not know where one is now. He could start the carvings and try to procure pillar materials, but that would take time, and Plymouth says the party cannot readily make one. Walker had never heard of it and does not yet see how an imbued stone would help with the loom in play. Creating stones at the convergence is a separate step from setting them, and the loom is the missing step for Walker's helmet.",
+      "notes": [
+        "A magical containment table, also described as an altar with an upside-down table. Four pillars at the corners create a field that contains energy. It is used to set a primal stone into an object.",
+        "Elrus has tried that setting once or twice and does not know where a loom is now. He could start the carvings and try to procure pillar materials. It would take time. Plymouth says the party cannot readily make one. Walker had never heard of it and does not yet see how an imbued stone would help with the loom in play.",
+        "Creating stones at the convergence is a separate step from setting them. The loom is the missing step for Walker's helmet."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:36:33.425Z",
+  "updatedAt": "2026-10-19T20:36:33.425Z"
+}

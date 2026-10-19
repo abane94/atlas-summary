@@ -2,7 +2,8 @@
   "name": "Glimmen",
   "slug": "Glimmen is Walker's mind-linked dragon companion who supports his decisions, joins him in ceremonies, and flies with him through The Reach.",
   "tags": [
-    "companion"
+    "companion",
+    "dragon"
   ],
   "aliases": [],
   "filename": "npcs/glimmen.md",
@@ -61,12 +62,21 @@
       "notes": [
         "Walker asked Glimmen whether Vecna was still in the cave before they went back down. Walker is expected to arrive at the stronghold on Glimmen, and Mahali is asked to have food ready for the dragon."
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "summary": "A dragon linked to Walker this way can use the energy stored in his gems, though to a lesser extent than a dragonrider. Glimmen carries Walker and Plymouth to the stronghold, where the village is used to her; Plymouth dismounts and leaves for New Navel. She then carries Walker, with Araden alongside, toward the forest beacon and overtakes Dana's broom. Their wingbeats are audible as the two dragons arrive while Sylan is proving himself to blind Gerk. They match pace with the party over the dark vortex and land beside the forest.",
+      "notes": [
+        "A dragon linked this way can use the energy stored in Walker's gems, to a lesser extent than a dragonrider.",
+        "Carries Walker and Plymouth to the stronghold. The village is used to Glimmen. Plymouth dismounts and leaves for New Navel.",
+        "Then carries Walker, with Araden alongside, toward the forest beacon and overtakes Dana's broom. Wingbeats are audible as the two dragons arrive while Sylan is proving himself to blind Gerk. They match pace with the party over the dark vortex and land beside the forest."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:46:29.731Z",
-  "updatedAt": "2026-10-06T21:05:29.911Z",
+  "updatedAt": "2026-10-19T20:51:02.636Z",
   "normalizedAliases": [
     "glimmen"
   ]

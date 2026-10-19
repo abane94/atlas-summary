@@ -1,7 +1,9 @@
 {
   "name": "Juten Prime",
   "slug": "Juten Prime is an original keeper of the keystones whose ancient traditions yield when one of Mother’s children appears.",
-  "tags": [],
+  "tags": [
+    "title"
+  ],
   "aliases": [],
   "filename": "npcs/juten_prime.md",
   "description": "Juten Prime is one of the original keepers of the keystones. He is associated with the ancient traditions and events surrounding the keystones and their keepers. He had previously discussed with Plymouth Gawater what would happen if one of Mother’s children appeared, indicating that such an event was significant enough to supersede existing preparations and alter the expected course of events.",
@@ -44,7 +46,7 @@
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:59:37.675Z",
-  "updatedAt": "2026-09-29T18:29:37.361Z",
+  "updatedAt": "2026-10-19T20:51:02.636Z",
   "normalizedAliases": [
     "juten prime"
   ]

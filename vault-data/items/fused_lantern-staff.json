@@ -1,0 +1,37 @@
+{
+  "name": "Fused lantern-staff",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Fused lantern and staff that reveals the Ethereal Plane and draws nearby spirits when the active staff is held.",
+  "aliases": [],
+  "normalizedAliases": [
+    "fused lantern staff"
+  ],
+  "filename": "items/fused_lantern-staff.md",
+  "description": "One fused item: the Staff of the Lantern Bearer, a name the DM confirms and that Sylan also remembers as the Staff of the Lantern Keeper, joined to a hooded, finely made Lantern of Revealing with an aura of evocation and two settings. The pieces are listed among the magic items from the white dragon hoard, dated November 3 of the previous year; Play traces the lantern to Ord in Volga and the staff to Sylan at Shades and Trades, and the DM says the lantern was identified at Shades and Trades. They were already drawn together, as if polarized or magnetized, and fused in a short earlier working when the lantern's inscription was read. The DM confirms they are fused. One setting blinded everyone in the room, and command words produced an effect the party failed to cleanly undo. On November 3, campaign year 25, Ord's experiment showed him the Ethereal Plane and blinded him until lesser restoration; no spirits were present then. The inscription is not in the DM's current notes. Ord offers \"Brightest day in darkness\" as the ignition phrase, and the DM treats the real wording as still to be settled.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "Used throughout the lantern trial in the woods, by the same steps as before, so bystanders would not be blinded. Ord and Sylan close their eyes. When lit, the lantern glows a desaturated blue and shows the Ethereal Plane as grayscale, semi-opaque, and ghostly, including otherwise unnoticed shadows; it is unconfirmed whether that sight penetrates magical darkness. Ethereal beings can take hold of the crook, and contact makes them burn away from the edges like paper while they howl inside the hearer's head. When Sylan grabs the active staff—while it is active he describes it as having no lantern—the lantern becomes incandescent shadow, a glowing roiling ball of shadow, and spirits within about four feet are vacuumed into him as a byproduct; he feels nothing. Joined hands throw a black luminescent beacon into the sky, and letting go ends it: the clearing dies in light, a faint outline remains for a few blinks, and Ord's wireframe spirit-sight continues until he turns that off separately. Sylan treats the fusion as having been part of the plan, still asks whether the inscriptions can be tried separately, and does not have the lantern on his sheet. A misremembered lantern name was \"lantern of the staff keeper.\" Ord proposes saying the incantation backwards to shut it off; the last time they tried to turn this kind of effect off, something else happened, and the backward attempt is not resolved. Sylan says they should never touch it again because it always brings those terrible things.",
+      "notes": [
+        "One fused item, used throughout the lantern trial. The staff half is the Staff of the Lantern Bearer. Sylan also remembers that name as the Staff of the Lantern Keeper, and the DM confirms the staff name. The lantern half is a Lantern of Revealing. A misremembered lantern name was 'lantern of the staff keeper.' Sylan, while it is active, describes the staff as having no lantern.",
+        "Play traces the lantern to Ord in Volga and the staff to Sylan at Shades and Trades. The DM says the lantern was identified at Shades and Trades. The same pieces are also listed among the magic items from the white dragon hoard, dated November 3 of the previous year. The two were already drawn together, as if polarized or magnetized, and fused in a short earlier working when the lantern's inscription was read. The DM confirms they are fused. Sylan treats that as having been part of the plan and still asks whether the inscriptions can be tried separately. He does not have the lantern on his sheet.",
+        "The lantern is hooded and finely made, with an aura of evocation and two settings. One blinded everyone in the room. Command words produced an effect the party failed to cleanly undo. On November 3, campaign year 25, Ord's experiment showed him the Ethereal Plane and blinded him until lesser restoration. No spirits were present then. The inscription is not in the DM's current notes. Ord offers 'Brightest day in darkness' as the ignition phrase. The DM treats the real wording as still to be settled.",
+        "This use is the same steps, done in the woods so bystanders would not be blinded. Ord and Sylan close their eyes. When lit, the lantern glows a desaturated blue and shows the Ethereal Plane as grayscale, semi-opaque, and ghostly, including otherwise unnoticed shadows. It is unconfirmed whether that sight penetrates magical darkness. Ethereal beings can take hold of the crook. Contact makes them burn away from the edges like paper while they howl inside the hearer's head.",
+        "When Sylan grabs the active staff, the lantern becomes incandescent shadow, a glowing roiling ball of shadow. Spirits within about four feet are vacuumed into him. He feels nothing. This is a byproduct of touching the active staff. Joined hands throw a black luminescent beacon into the sky. Letting go ends the beacon. The clearing dies in light, and a faint outline remains for a few blinks. Ord's wireframe spirit-sight continues until he turns that off separately.",
+        "Ord proposes saying the incantation backwards to shut it off. The last time they tried to turn this kind of effect off, something else happened. The backward attempt is not resolved. Sylan says they should never touch it again because it always brings those terrible things."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What is the lantern's true name, and can the staff and lantern still be separated?",
+    "What is the original inscription, and is 'Brightest day in darkness' the ignition phrase?",
+    "Can the sight see through magical darkness, and does it transfer to someone else who grips the staff?",
+    "Does speaking the incantation backwards turn the staff off, or does it cause something else?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:37:48.244Z",
+  "updatedAt": "2026-10-19T20:37:48.244Z"
+}

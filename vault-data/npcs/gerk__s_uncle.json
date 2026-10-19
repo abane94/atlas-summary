@@ -1,0 +1,28 @@
+{
+  "name": "Gerk's uncle",
+  "tags": [
+    "antagonist"
+  ],
+  "slug": "Gerk's uncle, the Grunkle, who died after taking Ord's strength.",
+  "aliases": [],
+  "normalizedAliases": [
+    "gerks uncle"
+  ],
+  "filename": "npcs/gerk__s_uncle.md",
+  "description": "Gerk's uncle, called the Grunkle. He died at the end of a battle with the party after taking some of Ord's strength.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-12",
+      "summary": "The party recalled the fight with the Grunkle, which ended in his death after he took some of Ord's strength. A floating Ord appeared and, with Dana involved, solidified into a runic bead or rune-marked sphere. Sylan first remembered the uncle punching the strength out of Gerk. The strength is hidden in Gerk.",
+      "notes": [
+        "Called the Grunkle. His battle with the party ended in his death.",
+        "During that fight he took some of Ord's strength. A floating Ord appeared and solidified into a runic bead or rune-marked sphere, with Dana involved in that moment. Sylan first remembered it as the uncle punching the strength out of Gerk. The strength is hidden in Gerk."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-19T20:30:42.986Z",
+  "updatedAt": "2026-10-19T20:30:42.986Z"
+}

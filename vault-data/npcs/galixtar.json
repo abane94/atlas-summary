@@ -1,7 +1,8 @@
 {
   "name": "Galixtar",
   "tags": [
-    "antagonist"
+    "antagonist",
+    "dragon"
   ],
   "slug": "Galixtar is a dragon associated with Grixto and being hunted by the party.",
   "aliases": [],
@@ -50,5 +51,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:11:36.563Z",
-  "updatedAt": "2026-09-29T18:33:39.155Z"
+  "updatedAt": "2026-10-19T20:51:02.635Z"
 }

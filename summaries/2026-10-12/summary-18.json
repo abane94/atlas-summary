@@ -1,0 +1,318 @@
+{
+    "plotSections": [
+        {
+            "title": "Divine Sense on the held spirit",
+            "bullets": [
+                "Ord uses Divine Sense on the spirit he is holding. Strong evil registers as a noxious odor. Until the end of his next turn he knows the location of any celestial, fiend, or undead in range, and the type, but not a finer subtype.",
+                "The DM rules these are undead: spectral spirits made physical. The table recalls Ord has used Divine Sense once before, in Volga.",
+                "Ord asks who he is. The spirit demands to be let go and to return. He says the woman next door stole from them, and that his silver sits under the floorboards. He is not trying to reach Sylan. He calls Sylan a fiend and says he is trying to get back to his abode. He says the one who shed the light on them burned them.",
+                "He names the neighbor Claire Belle, calls her a conniving liar, and says she stole from him and his family and is why his children are starving. He says he is stuck. Asked where the abode is, he does not give a place. Asked his name, he says he already gave it. The table hears Bannaby, Burton, Barnaby, and Carnaby.",
+                "He says the party pulled them from life, that Sylan pulls him from his rest, and, after a stretch of dropped audio, that he was pulled from his floorboards as they walked by today. He says the rest of them are in the same state and that their friend is sucking them in and taking them somewhere. Sylan asks if these ghosts are from Morgan. That is not answered."
+            ]
+        },
+        {
+            "title": "The spirit is released",
+            "bullets": [
+                "Sylan says he may be able to talk to them again if Ord lets this one go, and that they should settle this first. Ord releases him.",
+                "As he dematerializes he reaches toward New Navel. The statement that goes with the gesture is lost. He snaps away. The last spirit is still holding a root sticking out of the ground while being pulled."
+            ]
+        },
+        {
+            "title": "Beacon in the forest",
+            "bullets": [
+                "Gerk is on the ground, screaming incoherently and whirling his hammer overhead to keep things off him. He is not moving to strike.",
+                "Dana has already left the tower on her broom. A beacon of celestial darkness erupts from the forest.",
+                "Walker has landed and set Plymouth Gawater off Glimmen. He sees Dana cross the sky and tells Elrus there is a change of plans. They had been going to train rather than go on to Grazog. Elrus takes the forest disturbance as the companions. Araden is cited as agreeing, and they go onward.",
+                "Dana's broom flies 50 feet. She expects to need a couple of turns to arrive. Two dragon riders take off after her, and Glimmen overtakes the broom."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord uses Divine Sense. The spirits register as undead, spectral spirits made physical, with no subtype. Strong evil smells noxious. The table places his earlier use in Volga.",
+        "The held spirit says the woman next door stole his silver from under the floorboards, refuses Sylan, and says he is trying to return to his abode. He says the one who shed light on them burned them.",
+        "He names Claire Belle as that neighbor and blames her for his children starving. He insists he already gave his name. Sylan asks if the ghosts are from Morgan and gets no answer.",
+        "After dropped audio, he says he was pulled from his floorboards as the party walked by, and that a friend is sucking the spirits in. Sylan tells Ord to let him go so they can settle this and maybe speak to them again. Ord releases him.",
+        "The spirit dematerializes, reaching toward New Navel, and snaps away. The last spirit clings to a root while being pulled.",
+        "Gerk sits screaming and whirling his hammer. Dana is already flying from the tower. A beacon of celestial darkness erupts from the forest.",
+        "Walker, having set Plymouth off Glimmen, tells Elrus the plan changes. They leave the Grazog errand and fly after Dana. Glimmen overtakes her broom."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Uses Divine Sense while holding the spirit. He has used it once before, in Volga.",
+                "Questions the spirit about who he is, where his abode is, and who stole from him, then lets him go when Sylan says to."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "The held spirit calls him a fiend, says he is pulling him from rest, and says a friend is sucking the spirits in and taking them somewhere.",
+                "Asks if these ghosts are from Morgan. Says he may be able to talk to them again if Ord lets the held one go, after they settle this."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ledzbika": {
+            "existing": "Elderly half-elf spirit Ord is holding.",
+            "entityType": "NPC",
+            "notes": [
+                "Divine Sense reads him as undead, a spectral spirit made physical, with no subtype given.",
+                "Demands release. He is trying to return to his abode, not to Sylan. He says the party pulled them from life and that the one who shed the light burned them. He says he was pulled from his floorboards as they walked by today, and that the rest are being sucked in with him.",
+                "Names Claire Belle as the woman next door who stole from him and his family. His silver is under the floorboards. He blames her for his children starving and says he is stuck and must get back to find her. He does not say where the abode is.",
+                "Says he already gave his name. This chunk hears it as Bannaby, Burton, Barnaby, and Carnaby.",
+                "When released he dematerializes, reaches toward New Navel, and snaps away."
+            ],
+            "titles": [],
+            "personality": [
+                "Angry at being held, calls them fiends, and treats the questions as a failure to listen."
+            ],
+            "quotesThemes": [
+                "I'm not going to that fiend. I'm trying to return back to my abode.",
+                "The bitch next door stole my silver, and I must go back and find her, but I am stuck here.",
+                "Don't let her fool you. She is a conniving liar who has stolen from us and my family."
+            ],
+            "openQuestions": [
+                "Where his abode is.",
+                "Whether the reach toward New Navel was him indicating that abode.",
+                "Whether he and the other spirits are from Morgan."
+            ]
+        },
+        "Claire Belle": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Named by Ledzbika as the woman next door. He calls her a conniving liar who stole from him and his family, including silver under the floorboards, and blames her for his children starving."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Don't let her fool you. She is a conniving liar."
+            ],
+            "openQuestions": []
+        },
+        "Glade spirits": {
+            "existing": "Spirits being drawn in around Sylan.",
+            "entityType": "OTHER",
+            "otherEntityType": "spirits",
+            "notes": [
+                "Divine Sense reads them as undead, spectral spirits made physical.",
+                "Ledzbika says the rest of them were pulled as the party walked by and are being sucked in.",
+                "After he is released and vanishes, the last one is clinging to a root in the ground while being pulled."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether these ghosts are from Morgan."
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian and Doorman.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sits on the ground screaming incoherently and whirling his hammer overhead to keep things away. He is not moving to attack."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Leaves the tower immediately on her broom toward the disturbance. The broom's flight is 50 feet. She expects to need a couple of turns to arrive and is then overtaken by Glimmen."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider bonded to Glimmen and Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Lands and sets Plymouth Gawater off Glimmen, sees Dana cross the sky, and tells Elrus there is a change of plans.",
+                "They had been going to train rather than continue to Grazog. He turns toward the forest beacon, and Glimmen overtakes Dana's broom."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally.",
+            "entityType": "NPC",
+            "notes": [
+                "With Walker as they land. He frames the choice as training instead of Grazog, then treats the forest disturbance as the companions and goes onward. Araden is said to agree."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "Magically capable companion brought to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Cited as agreeing that they should go onward toward the disturbance in the forest."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Plymouth Gawater is set down off her as Walker lands. She then takes flight and overtakes Dana's broom on the way to the forest beacon."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Plymouth Gawater": {
+            "existing": "Gnome artificer and party ally.",
+            "entityType": "NPC",
+            "notes": [
+                "Set down off Glimmen as Walker lands and turns toward the forest."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Celestial Darkness": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "A beacon of celestial darkness erupts from the forest where the party is dealing with the spirits. Dana flies toward it, and Walker, Elrus, and Araden divert from the Grazog trip to follow."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Bannaby",
+            "likely": "Ledzbika",
+            "notes": "Spirit's line, You burn, Bannaby, before he says he already gave his name."
+        },
+        {
+            "heard": "Burton",
+            "likely": "Ledzbika",
+            "notes": "Ord's guess, heard as Bur Burton."
+        },
+        {
+            "heard": "Barnaby",
+            "likely": "Ledzbika",
+            "notes": "Sylan's guess, heard as Partner Barnaby."
+        },
+        {
+            "heard": "Carnaby",
+            "likely": "Ledzbika",
+            "notes": "Ord agreeing with that guess."
+        },
+        {
+            "heard": "Vorgar",
+            "likely": "Volga",
+            "notes": "Where Sylan says Ord previously used Divine Sense."
+        },
+        {
+            "heard": "Volgar",
+            "likely": "Volga",
+            "notes": "Same recollection, second hearing."
+        },
+        {
+            "heard": "Invoyar",
+            "likely": "in Volga",
+            "notes": "Sylan, just before the Volga recollection."
+        },
+        {
+            "heard": "fore words",
+            "likely": "floorboards",
+            "notes": "He was pulled from them as the party walked by. He already placed his silver under the floorboards."
+        },
+        {
+            "heard": "children star",
+            "likely": "children starve",
+            "notes": "Ledzbika on why Claire Belle matters."
+        },
+        {
+            "heard": "Nunavell",
+            "likely": "New Navel",
+            "notes": "Where he reaches as he dematerializes."
+        },
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "DM line, good old silent, while addressing who heard the spirit."
+        },
+        {
+            "heard": "blind boy",
+            "likely": "",
+            "notes": "Same DM line. Unclear whether this is a person present or a garble."
+        },
+        {
+            "heard": "syllen",
+            "likely": "Sylan",
+            "notes": "Ord: he syllen is pulling you from your rest."
+        },
+        {
+            "heard": "Od",
+            "likely": "Ord",
+            "notes": "Sylan addressing Ord about letting the spirit go."
+        },
+        {
+            "heard": "Glimit",
+            "likely": "Glimmen",
+            "notes": "DM asking how far she can fly."
+        },
+        {
+            "heard": "Rayden",
+            "likely": "Araden",
+            "notes": "DM: a Rayden has a point here."
+        },
+        {
+            "heard": "Claire Belle",
+            "likely": "",
+            "notes": "Neighbor accused of the theft. Spelling is only this hearing."
+        },
+        {
+            "heard": "Morgan",
+            "likely": "",
+            "notes": "Sylan asks if these ghosts are from Morgan. No place by that name is confirmed."
+        }
+    ],
+    "openQuestions": [
+        "Are these ghosts from Morgan?",
+        "Where is Ledzbika's abode, and was the reach toward New Navel the answer?"
+    ],
+    "newTerms": [
+        {
+            "name": "Claire Belle",
+            "notes": [
+                "Neighbor Ledzbika accuses of stealing his family's silver from under the floorboards and of leaving his children starving."
+            ]
+        },
+        {
+            "name": "Celestial Darkness",
+            "notes": [
+                "A beacon that erupts from the forest during the spirit confrontation. Dana flies toward it, and Walker, Elrus, and Araden divert from the Grazog trip to follow."
+            ]
+        }
+    ]
+}
