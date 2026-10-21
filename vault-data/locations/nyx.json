@@ -48,12 +48,21 @@
       "notes": [
         "Elrus has a table in Nyx. The plan is to check it on return for more information or another gold eagle marker."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Walker places Vecna's former palace in Nyx: a headquarters with a big red wall, where the golden eagle's counterpart may be. The party tries and fails to name the capital. Walker expects Sylan to know it because he is teased as being from there, but Sylan does not produce the name. Sylan sets Walker's Nyx lead after the ghost investigation. By the end of these scenes the party is planning to leave on its mission rather than pursue the lead immediately.",
+      "notes": [
+        "Walker places Vecna's former palace here: a headquarters with a big red wall, where the golden eagle's counterpart may be.",
+        "The party tries and fails to name the capital. Walker expects Sylan to know it because he is teased as being from there. Sylan does not produce the name.",
+        "Sylan sets Walker's Nyx lead after the ghost investigation. By the end of these scenes the party is planning to leave on its mission rather than pursue the lead immediately."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T17:59:08.827Z",
-  "updatedAt": "2026-10-19T20:25:44.934Z",
+  "updatedAt": "2026-10-21T19:53:33.078Z",
   "marker": [
     {
       "mapName": "mit-gar-map",

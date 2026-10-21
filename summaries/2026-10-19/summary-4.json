@@ -1,0 +1,363 @@
+{
+    "plotSections": [
+        {
+            "title": "Glimmen and the helm",
+            "bullets": [
+                "Dana asks Glimmen in Draconic whether Walker has changed in any odd way since he started wearing the helm everywhere, wanting a check from the mind link. Walker says that if Grixto is influencing either of them, it would be Glimmen.",
+                "Glimmen clamps her mouth around Walker's head by the helm, which hurts her, lifts him by it, and tells him through the link to give up the helmet. He refuses and says he will hand it only to Carlkin. She rests her head on him and asks whether phylacteries are flame resistant, offering to torch the helm. He tells her not to.",
+                "Glimmen says Walker seems influenced, that she is unfit to diagnose it, and that his internal fire can spread and protect her through their bond. In Draconic she tells Dana he has not acted any stranger than normal, and that she still wants to light him on fire to see if it burns. She says he will be fine. Walker says he is fire resistant and does not think he is fireproof. Ciri starts a tinderbox under his arm."
+            ]
+        },
+        {
+            "title": "Do not destroy it early",
+            "bullets": [
+                "Sylan says that if the helm is the phylactery they should not destroy it immediately. They should find him first, because if he senses it destroyed he can make another before they have him. Walker agrees they should destroy it only when they have eyes on him. Sylan says they can still rule the helm out.",
+                "Sylan offers a same-day appointment with Carlkin if Walker will not take the helm off in front of the party."
+            ]
+        },
+        {
+            "title": "Who goes to Carlkin",
+            "bullets": [
+                "Gerk says not to walk in on Carlkin because he is in a bad way. Ord agrees he is not available. Sylan says Gerk should skip that visit and that he probably should too. Dana says both of them should stay home.",
+                "Sylan proposes that he and Gerk handle a separate errand, heard as Ghost Cop and Skeptic Cob, while the others talk to Carlkin. Ord asks how Gerk is supposed to be bad cop if he cannot threaten anyone. Dana agrees, on the conditions of no doors to nothing dimensions, no abyssal monsters, and no opening doors in moving vehicles.",
+                "Sylan tells Walker that Gerk's door training has improved and that he can manipulate doors a little better, but still needs work."
+            ]
+        },
+        {
+            "title": "Elrus offers to train Gerk",
+            "bullets": [
+                "Elrus hears that Gerk needs training and says that makes two of them. He is willing to train Gerk, tells Walker to have the helm investigated, and says they can return to Walker's training afterward. He walks up and pokes Gerk in the midriff.",
+                "Elrus looks vaguely half-elf and stands about 5'10\" to 5'11\". He also has an ancient copper-colored dragon. Gerk already knew about the dragon and did not know this height.",
+                "Elrus says Gerk is strong of body and lacking in mind, and that they will work that out of him. He calls it no insult: one does not insult an oak as a sapling, knowing it will be more. He says the growth he means is in the mind, and that Walker needs help meditating. He asks whether Gerk has meditated.",
+                "Dana explains meditation as being quiet in the mind, like the focus Gerk uses to open a door, because otherwise doors open into the abyss and giant monsters come out. Gerk says that happens only when he thinks about nothing. Dana says they still need his rage, channeled appropriately, and that the doors are a separate kind of focus. Gerk thinks raging while opening a door would go poorly. He says that on the seventeen-foot door he only tried to open it harder. Sylan suggests he try it at the next training. Gerk says maybe, and that getting bigger would be inconvenient because he barely fits places now."
+            ]
+        },
+        {
+            "title": "Warning Carlkin",
+            "bullets": [
+                "Sylan heads for New Navel and asks Dana to notify Carlkin that they are returning today, because they are not within five hundred feet. Walker asks why they cannot just walk in. Sylan says last time they had no appointment, barged in, opened a portal to the abyss, and he broke Carlkin's floor, so Carlkin wants warning. Dana agrees."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Dana asks Glimmen in Draconic whether the helm has changed Walker. Glimmen seizes the helm in her mouth, tells him to give it up, and later offers to burn it to test whether it is a phylactery.",
+        "Walker refuses to surrender the helm to anyone but Carlkin. Glimmen says he has not acted any stranger than normal and still wants to light him on fire. He says he is fire resistant, not fireproof. Ciri starts a tinderbox under his arm.",
+        "Sylan and Walker agree not to destroy a confirmed phylactery until they have eyes on him, because he could make another. They still intend to rule the helm out and to have Carlkin examine it.",
+        "Gerk says Carlkin is in a bad way. Dana decides Gerk and Sylan should stay away from that visit. Sylan sends them on a separate errand and tells the others to see Carlkin, with Dana forbidding abyss doors and doors in moving vehicles.",
+        "Sylan reports that Gerk can manipulate doors a little better and still needs practice. Elrus offers to train Gerk's mind and to resume Walker's meditation training after the helm is investigated.",
+        "Elrus, vaguely half-elf and about 5'10\" to 5'11\", with an ancient copper dragon, tells Gerk he is a sapling who is strong of body and weak of mind. Dana separates rage from the focus used to open doors. Gerk recalls trying to force a seventeen-foot door.",
+        "Sylan asks Dana to warn Carlkin before they return to New Navel. They are outside sending range, and last time an unannounced visit opened a portal to the abyss and broke his floor. Dana agrees."
+    ],
+    "entities": {
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Asked in Draconic whether Walker has changed since wearing the helm, she starts to answer Dana, then turns on Walker, clamps her mouth around his head by the helm, and lifts him by it. The bite hurts her.",
+                "Through the link she tells him to give up the helmet, asks whether phylacteries are flame resistant, and offers to torch the helm.",
+                "She says he seems influenced and that she is unfit to diagnose mind control. His internal fire can spread and protect her through their bond.",
+                "She tells Dana he has not acted any stranger than normal, and that she still wants to light him on fire to see if it burns. She says he will be fine."
+            ],
+            "titles": [],
+            "personality": [
+                "Blunt with Walker about the helm, and willing to burn it as a test."
+            ],
+            "quotesThemes": [
+                "Walker, just give him the helmet.",
+                "Do you think phylacteries are flame resistant?",
+                "Well he hasn't acted any stranger than normal. I think I should still light him on fire and see if it burns."
+            ],
+            "openQuestions": [
+                "Are phylacteries flame resistant?"
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He will not give the helm to the party. He will let Carlkin examine it and will hand it only to Carlkin.",
+                "He says that if Grixto is influencing either of them, it would be Glimmen.",
+                "His internal fire can spread and protect Glimmen through their bond.",
+                "He is fire resistant and does not believe he is fireproof. Ciri starts a tinderbox under his arm as a test.",
+                "He agrees a phylactery should be destroyed only when they have eyes on its owner.",
+                "Elrus says Walker needs help meditating and that his training resumes after the helm is investigated."
+            ],
+            "titles": [],
+            "personality": [
+                "Protective of the helm."
+            ],
+            "quotesThemes": [
+                "I'll let Carlkin examine it, but I will hand it to Carlkin.",
+                "This is my fucking helmet.",
+                "I am fire resistant. I don't think I'm fireproof yet."
+            ],
+            "openQuestions": [
+                "Is Walker fireproof, or only fire resistant?"
+            ]
+        },
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine by appointment.",
+            "entityType": "ITEM",
+            "notes": [
+                "Glimmen treats it as a possible phylactery and wants it surrendered or torched. Walker will give it only to Carlkin.",
+                "The party agrees not to destroy it immediately if it is a phylactery. They still mean to rule it out. Sylan offers to schedule the Carlkin appointment the same day."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the helm a phylactery?"
+            ]
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Sylan says that if the owner senses the phylactery destroyed, he can make another before they find him. Walker agrees to destroy it only when they have eyes on him. They can still try to rule the helm out without destroying it.",
+                "Glimmen asks whether phylacteries are flame resistant. Walker says not necessarily."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Are phylacteries flame resistant?"
+            ]
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person in Langdale, keeper of a lighthouse and bookshop in New Navel.",
+            "entityType": "NPC",
+            "notes": [
+                "Gerk says Carlkin is in a bad way, and Ord says he is not available. Dana wants Gerk and Sylan to stay away from the visit.",
+                "The party is not within five hundred feet, so Sylan asks Dana to notify him that they are returning to New Navel today. Walker asks why they cannot walk in. Sylan says the last visit had no appointment: they barged in, opened a portal to the abyss, and he broke Carlkin's floor. Carlkin wants warning next time. Dana agrees to give notice."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's ally and meditation teacher.",
+            "entityType": "NPC",
+            "notes": [
+                "He looks vaguely half-elf and stands about 5'10\" to 5'11\". He has an ancient copper-colored dragon. Gerk knew about the dragon and had not known this height.",
+                "Hearing that Gerk needs more door training, he says that makes two of them and offers to train Gerk. He tells Walker to have the helm investigated, then return to Walker's training. He pokes Gerk in the midriff.",
+                "He says Gerk is strong of body and lacking in mind. He compares Gerk to an oak sapling and says the growth he means is in the mind. He says Walker needs help meditating and asks if Gerk has ever meditated."
+            ],
+            "titles": [],
+            "personality": [
+                "Addresses Gerk as 'my boy' and frames the criticism as training rather than an insult."
+            ],
+            "quotesThemes": [
+                "You seem to be strong of body, but your mind seems to be lacking. We will work that out of you.",
+                "One does not insult an oak tree as a sapling. They just know one day it'll be more.",
+                "Walker needs some help meditating."
+            ],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan says recent training let Gerk manipulate doors a little better, and that he still needs work. Elrus offers to train his mind.",
+                "He says abyss doors happen when he thinks about nothing, not whenever he fails to be quiet. He thinks raging while opening a door would go poorly. On a seventeen-foot door he tried to open it harder rather than raging.",
+                "He does not meditate and tells Dana he does not have a quiet mind. Dana says the rage still matters and must be channeled, and that door focus is separate.",
+                "He is to stay away from Carlkin with Sylan. Dana forbids doors to nothing dimensions, abyssal monsters, and doors opened in moving vehicles.",
+                "He says becoming physically bigger would be inconvenient because he barely fits places as he is. He warns the others that Carlkin is in a bad way."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats Elrus's sapling comment as a possible insult until it is explained, and resists meditation."
+            ],
+            "quotesThemes": [
+                "No, that's only if I think about nothing.",
+                "I think if I think about raging while I open a door, that seems like it'd probably go poorly."
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She questions Glimmen in Draconic about whether the helm is influencing Walker.",
+                "She tells Gerk and Sylan to stay home rather than visit Carlkin while he is in a bad way, and she agrees to notify Carlkin before the others return.",
+                "She allows the split only with no doors to nothing dimensions, no abyssal monsters, and no doors in moving vehicles.",
+                "She tells Gerk that meditation is a quiet mind, like focusing to open a door. She says the rage is still necessary if it is channeled, and that the doors are a separate ability."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "The rage is the whole thing, but the rage needs to be channeled appropriately and the doors are an entirely separate ability to focus."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He argues against destroying a phylactery before they have eyes on its owner, because another could be made, and he still wants the helm ruled out.",
+                "He offers Carlkin an appointment the same day. He decides he and Gerk should not make that visit and proposes they take a separate errand while the others go.",
+                "He reports Gerk's partial progress with doors and suggests Gerk try raging during a later training.",
+                "He is going to New Navel and asks Dana to Send Carlkin warning, citing the broken floor and the abyss portal from the last unannounced visit."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue and Gatekeeper of Lith.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She agrees the fire-resistance claim should be tested and starts a tinderbox under Walker's arm."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Doorway": {
+            "existing": "Gerk's fixed supernatural passage between locations.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Training has let Gerk manipulate doors a little better. He still needs work.",
+                "He says doors open into the abyss and giant monsters come out when he thinks about nothing. Dana had described that as a failure to focus.",
+                "He expects raging while opening a door to go poorly. The seventeen-foot door was an attempt to open it harder. Sylan wants him to try rage at the next training.",
+                "Dana separately forbids doors to nothing dimensions, abyssal monsters, and opening doors in moving vehicles."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Glibant",
+            "likely": "Glimmen",
+            "notes": "Dana addressing Glimmen in Draconic."
+        },
+        {
+            "heard": "Gliment",
+            "likely": "Glimmen",
+            "notes": "Same address, second hearing."
+        },
+        {
+            "heard": "Gorixto",
+            "likely": "Grixto",
+            "notes": "Walker on who might be influencing him or Glimmen."
+        },
+        {
+            "heard": "Andraconic",
+            "likely": "Draconic",
+            "notes": "Glimmen's reply to Dana."
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": "Sylan: if he senses the factory is destroyed, he will make another."
+        },
+        {
+            "heard": "Sarah",
+            "likely": "Ciri",
+            "notes": "The tinderbox under Walker's arm is Ciri's action."
+        },
+        {
+            "heard": "letting underneath",
+            "likely": "lighting underneath",
+            "notes": "Ciri starting the tinderbox."
+        },
+        {
+            "heard": "Ghost Cop",
+            "likely": "",
+            "notes": "Sylan's name for the errand he and Gerk will take instead of visiting Carlkin. Ord responds as if this is a bad-cop role."
+        },
+        {
+            "heard": "Skeptic Cob",
+            "likely": "",
+            "notes": "Second name in that same plan, immediately before sending the others to Carlkin."
+        },
+        {
+            "heard": "How's that found",
+            "likely": "How's that sound",
+            "notes": "Sylan checking the split plan."
+        },
+        {
+            "heard": "remotely half-elf",
+            "likely": "vaguely half-elf",
+            "notes": "Elrus's appearance."
+        },
+        {
+            "heard": "He's an house",
+            "likely": "",
+            "notes": "Sylan reacting as Elrus's height is given."
+        },
+        {
+            "heard": "chip back up",
+            "likely": "",
+            "notes": "Ciri, just after the half-elf description."
+        },
+        {
+            "heard": "sapline",
+            "likely": "sapling",
+            "notes": "Elrus's oak comparison."
+        },
+        {
+            "heard": "trading",
+            "likely": "training",
+            "notes": "Sylan on how much bigger Gerk could get."
+        },
+        {
+            "heard": "pick in here",
+            "likely": "big in here",
+            "notes": "Elrus taps Gerk's chest, then contrasts the body with the mind."
+        },
+        {
+            "heard": "pick in there",
+            "likely": "big in there",
+            "notes": "Same line, about Gerk's mind."
+        },
+        {
+            "heard": "extrapolate",
+            "likely": "",
+            "notes": "Elrus repeats it after telling Gerk the growth is in his mind. May be exercise, or his own word."
+        },
+        {
+            "heard": "Are source to focus on those",
+            "likely": "",
+            "notes": "Gerk answering Dana about focusing to open a door."
+        },
+        {
+            "heard": "Out of my stick",
+            "likely": "",
+            "notes": "Gerk after saying abyss doors happen only when he thinks about nothing."
+        },
+        {
+            "heard": "Nanavelle",
+            "likely": "New Navel",
+            "notes": "Where Sylan is heading to see Carlkin."
+        },
+        {
+            "heard": "portal to the miss",
+            "likely": "portal to the abyss",
+            "notes": "Sylan on what they opened in Carlkin's lighthouse last time."
+        },
+        {
+            "heard": "they're cook",
+            "likely": "they're cool",
+            "notes": "The awkward pause while Walker and Glimmen speak mind to mind."
+        }
+    ],
+    "openQuestions": [
+        "Are phylacteries flame resistant?",
+        "Is Walker fireproof, or only fire resistant?",
+        "Is the helm a phylactery?"
+    ],
+    "newTerms": [
+        {
+            "name": "Elrus's ancient copper dragon",
+            "notes": [
+                "Elrus has an ancient copper-colored dragon. Gerk already knew he had one. The dragon is present for this conversation and is not given a name in the chunk. This is separate from the description of Elrus himself as a vaguely half-elf figure about 5'10\" to 5'11\"."
+            ]
+        }
+    ]
+}

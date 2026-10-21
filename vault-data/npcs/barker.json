@@ -1,0 +1,27 @@
+{
+  "name": "Barker",
+  "tags": [],
+  "slug": "Uncertain name who might have dealt with Vecna.",
+  "aliases": [],
+  "normalizedAliases": [
+    "barker"
+  ],
+  "filename": "npcs/barker.md",
+  "description": "Barker is a name heard only in a morning recap, and the hearing itself is uncertain. The recap called them “good old Barker” and suggested they might have made a deal with Vecna, mentioned in the same breath as a sister-skin journal. Nothing else is known about them.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "In the morning recap, the DM says good old Barker might have made a deal with Vecna, alongside talk of a sister-skin journal that is flagged as concerning. The name is not a clear hearing of a listed name, and the possible deal is left unresolved. Barker does not appear again in these scenes.",
+      "notes": [
+        "Named only in the morning recap: Barker might have made a deal with Vecna, mentioned alongside a concerning sister-skin journal. The hearing of the name is uncertain. No further detail appears in these scenes."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Did Barker make a deal with Vecna? The name itself was uncertain in the recap."
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:05:19.855Z",
+  "updatedAt": "2026-10-21T20:05:19.855Z"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Raven emissary",
+  "tags": [],
+  "slug": "An unnamed raven who becomes a feather-draped person and calls Sylan Raven's razor.",
+  "aliases": [],
+  "normalizedAliases": [
+    "raven emissary"
+  ],
+  "filename": "npcs/raven_emissary.md",
+  "description": "An unnamed figure who has visited before. They first appear as a raven, then become a middle-aged person sized between a halfling and a dwarf, read as a thin or anemic dwarf or a very muscular halfling, and draped in feathers. They call Sylan Razor and Raven's razor, the pathway to the falls, and speak of a duty to seek certain souls before the line is lost. What the dead still had left, they defer: she will say.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "While Sylan prays in the gray sword-realm and draws distant figures in, a flicker in the gray sky becomes a raven hovering two or three feet from his face. After he nods, it studies him, becomes the feather-draped person, makes the same noise as on an earlier visit, and speaks. No name is given. They say the spirits were not attached and that Sylan already sent them on, and ask why he pulls them back. Told the spirits had things left, they say they did, but she will say. They check that he is not pulling more back. He stops.",
+      "notes": [
+        "Appears in Sylan's gray sword-realm while he prays and draws the distant figures in. A flicker in the gray sky becomes a raven hovering two or three feet from his face. It studies him after he nods, then becomes a middle-aged person sized between a halfling and a dwarf, read as a thin or anemic dwarf or a very muscular halfling, draped in feathers.",
+        "The figure makes the same noise as on an earlier visit, then speaks. No name is given.",
+        "He calls Sylan Razor, says the spirits were not attached and that Sylan already sent them on, and asks why Sylan pulls them back. He names Sylan Raven's razor and the pathway to the falls, and begins the duty to seek certain souls before the line is lost.",
+        "Told that the spirits had things left, he says they did, but she will say. He checks that Sylan is not pulling more back. Sylan stops."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:05:52.103Z",
+  "updatedAt": "2026-10-21T20:05:52.103Z"
+}

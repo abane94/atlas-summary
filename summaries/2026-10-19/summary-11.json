@@ -1,0 +1,283 @@
+{
+    "plotSections": [
+        {
+            "title": "Carlkin's study",
+            "bullets": [
+                "The party goes into Carlkin's study, leaving Elrus, Araden, and Benji outside in conversation.",
+                "A day later the floor is still a mess: flagstones upheaved in the center, like a ruined sandbox in the commons.",
+                "Carlkin has Walker set the helmet on a small altar-like lectern at his corner desk and starts going through papers. The scene cuts away before any result."
+            ]
+        },
+        {
+            "title": "Finding Sheriff Haldor",
+            "bullets": [
+                "Gerk, alone in New Navel, asks a living market vendor for the sheriff. She directs him southwest, past the tavern: Haldor's house.",
+                "Gerk pays her a gold and takes a wicker chicken. She also offers a life-sized wicker goose; he refuses and says he kills geese on sight as a religious matter.",
+                "A vendor two doors down sells only geese, caged. Gerk points at him and says he will be back, then later tells Haldor the threat was mostly in jest.",
+                "Haldor is on his porch in a rocking chair, hat brim down, and already knows Gerk. He has not seen him in quite some time. He agrees to walk out and talk to Sylan."
+            ]
+        },
+        {
+            "title": "Spirit jug, the door, and the file",
+            "bullets": [
+                "Gerk says Sylan sent him: bad spirits are flying into Sylan like a jug, and they need help sending those spirits on. Haldor knows Sylan as the short elven friend with the oversized-looking sword, and says this spirit-sucking is new.",
+                "Haldor says Carlkin already reported yesterday's doorway. Extradimensional doors are not allowed inside the city. He describes it as a hell portal opened in Carlkin's commons. Gerk says his other doors had been interdimensional and that he did not know this one would be extradimensional.",
+                "Carlkin also reported that Gerk fixed the floor, and filed charges Haldor has not sorted out. Haldor keeps a file on the whole party under the label stronghold hooligans, most of it from Carlkin, and would rather wait for them to leave than walk to the stronghold and do the paperwork."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party enters Carlkin's study; Elrus, Araden, and Benji stay outside and talk.",
+        "The study floor is still torn up after one day. Carlkin has Walker place the helmet on a small lectern and begins reviewing papers.",
+        "The scene shifts to Gerk, alone, looking for the sheriff of New Navel.",
+        "In the market, a vendor points Gerk southwest past the tavern to Haldor's house.",
+        "Gerk buys her wicker chicken for one gold, refuses a life-sized wicker goose, and tells a neighboring goose-seller he will be back.",
+        "Haldor recognizes Gerk from his porch and hears that Sylan needs help sending bad spirits home.",
+        "Gerk describes spirits flying into Sylan like a jug. Haldor agrees to go talk to him outside the gate.",
+        "Haldor says Carlkin reported an extradimensional door in the commons, which is not permitted in the city, plus a floor repair and unsorted charges.",
+        "Haldor tells Gerk the party shares a sheriff's file labeled stronghold hooligans, mostly Carlkin's complaints, and that waiting them out is less paperwork."
+    ],
+    "entities": {
+        "Carlkin": {
+            "existing": "Turtle-like person in New Navel; his lighthouse is home and bookshop.",
+            "entityType": "NPC",
+            "notes": [
+                "A day after the doorway, his study floor is still wrecked: upheaved flagstones in the center of the room, like a destroyed sandbox.",
+                "He directs Walker to set the helmet on a small altar-like lectern at a corner desk and sorts papers. The examination is not finished in this chunk.",
+                "He reported the incident to Sheriff Haldor: an extradimensional door, which Haldor calls a hell portal in the commons, and that Gerk fixed the floor.",
+                "He filed charges Haldor has not yet interpreted. Haldor says most of the party's file is Carlkin, and calls him grumpy in a way that matches Gerk's account."
+            ],
+            "titles": [],
+            "personality": [
+                "Grumpy enough that Gerk expects him to yell if they apologize."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Places his helmet on the lectern in Carlkin's study for examination. The check-in is interrupted when the scene cuts to Gerk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine by appointment.",
+            "entityType": "ITEM",
+            "notes": [
+                "Walker sets it on a small altar-like lectern in the corner of Carlkin's study while Carlkin goes through papers. No reading or result yet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Goes alone through New Navel's market to find the sheriff for Sylan.",
+                "Buys a wicker chicken from Joanna for one gold.",
+                "States that killing geese on sight is a religious thing for him, refuses a wicker goose, and tells Haldor he threatened the goose vendor mostly in jest.",
+                "Tells Haldor that Sylan is taking in bad spirits and asks him to help send them on.",
+                "Says he did not know the Carlkin doorway would be extradimensional; his other doors were interdimensional. He says he fixed Carlkin's floor and will apologize.",
+                "Haldor knows him, has not seen him in some time, and includes him in the stronghold hooligans file."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats geese as something he is religiously obliged to kill, and calls them evil little demon birds.",
+                "Polite with the sheriff once found: waves, thanks the vendor, and apologizes for the door and for interrupting Haldor's rest."
+            ],
+            "quotesThemes": [
+                "I have to kill geese on sight. That's like a religious thing.",
+                "Every other time I've opened the door it was interdimensional."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper; spirits have been drawn into him.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Waiting outside the gate while Gerk fetches the sheriff. He sent Gerk to get help sending bad spirits home.",
+                "Gerk tells Haldor the spirits fly into Sylan like a jug. Haldor says Sylan has not been sucking up spirits before and treats it as a change.",
+                "Haldor remembers him as Gerk's short elven friend whose sword looks large because he is small. He confirms Sylan has not pulled in any of the party."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Haldor and Gerk land on spirit jug as the picture: bad spirits go into him so they can be sent home."
+            ],
+            "openQuestions": [
+                "Haldor asks what changed and whether anyone has looked at Sylan taking spirits in. Gerk only explains the jug image and defers the details to Sylan."
+            ]
+        },
+        "Haldor": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Sheriff of New Navel. His house is southwest of the market: down the road a little, right, past and behind the tavern.",
+                "Found on his porch in a rocking chair, boots on a stump, hat low, relaxed. He recognizes Gerk and agrees to help with the spirits.",
+                "Enforces a ban on extradimensional doors inside the city limits. He is unfamiliar with Gerk's interdimensional versus extradimensional distinction.",
+                "Carlkin already reported the commons portal and the floor repair. Haldor has a party file he labels stronghold hooligans, mostly Carlkin's, and has not worked out the charges. He would rather wait a day or two for the party to leave than walk to the stronghold.",
+                "Knows Joanna's wicker animals and describes the goose-seller as a decent vendor who keeps a flock in cages. He tells Gerk not to threaten villagers."
+            ],
+            "titles": [
+                "Sheriff of New Navel"
+            ],
+            "personality": [
+                "Relaxed and familiar with Gerk, more inclined to skip paperwork than pursue the stronghold.",
+                "Firm about city rules and about not threatening vendors, while treating the goose feud lightly."
+            ],
+            "quotesThemes": [
+                "Extradimensional doors usually are not permitted within the city limits.",
+                "I just label it stronghold hooligans.",
+                "If I wait a couple of days you'd be gone and then it's less paperwork for me."
+            ],
+            "openQuestions": [
+                "He has not had time to figure out the charges Carlkin filed."
+            ]
+        },
+        "Joanna": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Living vendor in the New Navel market. She gives Gerk directions to Haldor's house.",
+                "Sells wicker animals, including a small wicker chicken and a one-to-one wicker goose, and says she can make geese or a gander.",
+                "Gerk pays her one gold and keeps the chicken. Haldor recognizes it as Joanna's chicken and says her geese are good."
+            ],
+            "titles": [],
+            "personality": [
+                "Friendly, and eager to sell the goose after the chicken."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Goose vendor": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Two doors down from Joanna. Sells nothing but geese and keeps a flock in cages.",
+                "Haldor calls him a decent vendor. Gerk points at him, says he will be back, and later admits he threatened him, mostly in jest."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Wicker chicken": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Small woven wicker chicken Gerk buys from Joanna for one gold and carries to Haldor's porch."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "Familiar stop with Carlkin's lighthouse; trade caravans run from here toward the party's tavern in Langdale.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Has a small open market of vendors. The sheriff is Haldor; his house sits southwest of the market, past the tavern.",
+                "Extradimensional doors are not permitted within the city limits. Carlkin's commons is inside that limit, and he reported yesterday's door to the sheriff."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Garlkin",
+            "likely": "Carlkin",
+            "notes": "DM starts to name the study as Garlkin's."
+        },
+        {
+            "heard": "New Navelle",
+            "likely": "New Navel",
+            "notes": "Sheriff of New Navelle."
+        },
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "Gerk says silent tasked him with finding the sheriff; Haldor repeats the name as the elven friend."
+        },
+        {
+            "heard": "asylum",
+            "likely": "Sylan",
+            "notes": "Haldor asks where the asylum is; Gerk answers that he is just outside the gate."
+        },
+        {
+            "heard": "Sharon's house",
+            "likely": "sheriff's house",
+            "notes": "Gerk says he is going to the Sharon's house after being directed to Haldor."
+        },
+        {
+            "heard": "fandologium",
+            "likely": "vandalism",
+            "notes": "Haldor says Carlkin filed fandologium charges and that he has not figured the charge out."
+        },
+        {
+            "heard": "interim interventional",
+            "likely": "interdimensional",
+            "notes": "Haldor echoes Gerk's contrast with extradimensional doors."
+        },
+        {
+            "heard": "goose fender",
+            "likely": "goose vendor",
+            "notes": "Gerk warns Haldor he may have threatened the goose fender."
+        },
+        {
+            "heard": "Gator",
+            "likely": "",
+            "notes": "While discussing the caged geese, Haldor says you and I both know Gator can be kind of a... Unclear if this is the vendor's name or a garble of geese or gander."
+        },
+        {
+            "heard": "in chess",
+            "likely": "in jest",
+            "notes": "Gerk says the threat to the goose vendor was mostly in chess."
+        }
+    ],
+    "openQuestions": [
+        "Haldor has not worked out what charges Carlkin actually filed.",
+        "Haldor asks what changed so that Sylan is now taking spirits in, and whether it has been looked at. That is left for Sylan to explain."
+    ],
+    "newTerms": [
+        {
+            "name": "Haldor",
+            "notes": [
+                "Sheriff of New Navel. Keeps the party file he calls stronghold hooligans and is the person Gerk fetches to help with the spirits in Sylan."
+            ]
+        },
+        {
+            "name": "Joanna",
+            "notes": [
+                "New Navel market vendor who weaves wicker chickens and geese. She directs Gerk to Haldor's house."
+            ]
+        },
+        {
+            "name": "Wicker chicken",
+            "notes": [
+                "Small woven chicken Gerk buys from Joanna for one gold."
+            ]
+        },
+        {
+            "name": "Stronghold hooligans",
+            "notes": [
+                "Haldor's label for the shared sheriff's file on the party. He says most of it comes from Carlkin."
+            ]
+        },
+        {
+            "name": "Spirit jug",
+            "notes": [
+                "Haldor and Gerk's picture of Sylan: bad spirits fly into him so they can be sent home. Haldor treats this as new."
+            ]
+        }
+    ]
+}

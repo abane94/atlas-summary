@@ -1,6 +1,8 @@
 {
   "name": "Carlkin",
-  "tags": [],
+  "tags": [
+    "alchemy"
+  ],
   "slug": "Carlkin is a turtle-like person believed to be back in Langdale.",
   "aliases": [],
   "normalizedAliases": [
@@ -72,6 +74,25 @@
       "notes": [
         "The party recently visited him. Dana was there for the first part. Sylan hopes she has recovered from it. Gerk tells Sylan to do the New Navel ghost work at Carlkin's house."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "At his lighthouse in New Navel, not Langdale, Carlkin confirms he is a tortle while checking Walker's arm, cough, and pulse. He allows another appointment only if Sylan, Gerk, and their portals stay away, angry that the last visit opened an abyss portal and wrecked the study floor. He knows Araden on sight, is put out she was brought without word, takes partial credit for the Sunder Chase win, praises Ord for dispelling magic on another ship, and says a second copper dragon, distinct from Araden, is now a hoard dragon for the race. A bag of holding he enchanted to detect phylactery soul magic only smolders on the helm, then burns away, which he reads as trace soul magic. A soul identifier of ground reagents and brackish liquid shows a spiritual attachment and soul memory, a slight non-parasitic interaction rather than a phylactery or heavy possession. He forbids Gerk from wearing the helm and warns Walker of queasiness, numb earlobes, left-armpit tingling, and alien voices. He told Sheriff Haldor of the commons hell portal and filed charges Haldor has not interpreted; Haldor calls him grumpy and says most of the hooligans file is his.",
+      "notes": [
+        "He is at his lighthouse in New Navel, not in Langdale. He confirms he is a tortle while checking Walker's arm, cough, and pulse. He moves quickly for someone the party thinks of as a turtle.",
+        "He had told the party he could identify the helm if they brought it, and he was concerned that Walker had been carrying it. He allows another appointment. Dana had expected him to refuse further contact.",
+        "The last visit had no appointment. The party barged in, opened a portal to the abyss, and Sylan broke his floor. He wants warning next time and refuses the visit unless Sylan, Gerk, and their portals are absent. Dana assures him they are not there.",
+        "He opens only after something like a crate is moved, a chain rattles, and metal rasps. A day later the study floor is still wrecked: upheaved flagstones in the center, like a destroyed sandbox.",
+        "He knows Araden on sight and is put out that nobody told him she had been brought here. He already knows Benji, going back to about the start of the Sunder Chase, and they argue over who suggested the race.",
+        "He takes partial credit for guiding the party's Sunder Chase win and praises Ord for dispelling magic on another ship, a trick he says has not been seen in generations. He says riding Araden in the race would now be cheating. He describes another copper dragon, still present and distinct from Araden, who is now a hoard dragon for the race.",
+        "He enchanted a bag of holding as a soul-cleaning apparatus. It detects soul magic associated with a phylactery and should burst into flames on contact. The helm only makes it smolder. The bag then burns away like fracturing crystal. He reads that as trace soul magic plus possible other enchantments, not a full phylactery.",
+        "He invites Walker and Dana into the study, directs Walker to set the helm on a small altar-like lectern, and researches it from a desk there. He measures it, grinds reagents, and mixes them with a brackish liquid that shakes clear in a two-to-three-ounce vial. He calls the result a soul identifier, a finer reading than the bag.",
+        "The drop beads and sticks on the helm. He reads spiritual residue through a magnifying glass. He concludes there is a spiritual attachment and that the helm is not a phylactery, because a phylactery would have burst into flames and provoked a stronger magical reaction.",
+        "He diagnoses a soul memory and a slight, non-parasitic interaction, not a heavy possession. He asks Walker about the spiritual contact when Walker picked the helm up and treats that contact as spooky.",
+        "He forbids Gerk from wearing the helm. He warns Walker to watch for queasiness, numb earlobes, tingling in the left armpit, and alien voices. Light-domain clerics of high regard and feeble-minded wearers are especially unsafe.",
+        "He reported yesterday's extradimensional door to Sheriff Haldor: a hell portal, also described as a tentacle-spewing portal, in the commons, and that Gerk fixed the floor. He filed charges Haldor has not yet interpreted. Haldor says most of the stronghold hooligans file is Carlkin and calls him grumpy in a way that matches Gerk's account.",
+        "Sylan thinks he may be badly hung over. Gerk thinks Carlkin wants the party arrested. That claim is not tested in these scenes."
+      ]
     }
   ],
   "openQuestions": [
@@ -79,5 +100,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:22:15.911Z",
-  "updatedAt": "2026-10-19T20:24:03.892Z"
+  "updatedAt": "2026-10-21T19:57:35.562Z"
 }

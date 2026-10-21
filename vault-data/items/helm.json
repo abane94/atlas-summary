@@ -1,6 +1,8 @@
 {
   "name": "Helm",
-  "tags": [],
+  "tags": [
+    "artifact"
+  ],
   "slug": "A helm Carlkin agreed to examine by appointment once a comrade returns.",
   "aliases": [],
   "normalizedAliases": [
@@ -25,10 +27,25 @@
         "Dana is checking her books and a Legend Lore prophetic vision to see whether this helmet could be the phylactery. That check is unresolved.",
         "Separately, Walker wants primal stones set into his helmet for night vision, heat detection, and sight through magical darkness. He will not use his other personal jewelry for that work. He drops the idea unless the helmet can see what he wants."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Carlkin examines the white hobgoblin-inspired helm Walker took from the emperor, its last remaining armor piece, worn continuously and thought mundane. Dana suspects it from a vision of an ordinary item passing under the nose, and because Walker had it during both distant contacts, unlike the eagle; he calls it extraordinary and over his nose. Glimmen treats it as a possible phylactery and offers to torch it. The party will not destroy a phylactery without eyes on its owner, and Walker will hand it only to Carlkin. The soul-magic bag rejects a full phylactery: contact smolders slowly, and after the bag burns the helm is smoking and cool. On a lectern, a soul identifier leaves a drop that shows spiritual residue under a magnifying glass. Carlkin finds it soul-bound, not a phylactery: the lich died wearing it, leaving a small fragment of being, remembrance, or imprint, plus slight possession that is not yet parasitic. Other enchantments may remain. Walker puts it back on after speaking with the emperor when he took it, hoping the fragment tracks him. Queasiness, numb earlobes, left-armpit tingling, or other voices mark escalation. Unsafe for Gerk, feeble-minded wearers, and high-regard light-domain clerics.",
+      "notes": [
+        "A white, ornamental, hobgoblin-inspired helm Walker took from the emperor. It is the only piece of that armor still remaining, because Walker grabbed it. He has worn it continuously and had thought it mundane.",
+        "Dana suspects it because of her vision of an ordinary item passing under the nose, and because it was with Walker both times they were contacted from afar, unlike the eagle. Walker counters that it is extraordinary and sits over his nose.",
+        "Glimmen treats it as a possible phylactery, tells Walker to give it up, and offers to torch it. The party agrees not to destroy a confirmed phylactery until they have eyes on its owner. Walker will hand this helm only to Carlkin.",
+        "Carlkin's soul-magic bag does not take it for a full phylactery. Contact produces a slow smolder rather than a burst of flame. After the bag burns apart, the helm is slightly smoking and cool to the touch.",
+        "Walker sets it on a small altar-like lectern in Carlkin's study. Carlkin measures it and tests it with a soul identifier. A drop beads and sticks where it lands. Read through a magnifying glass, it shows spiritual residue.",
+        "Carlkin's conclusion: it is not a phylactery. It is soul-bound. The lich died wearing it, and a very small fragment of his being, remembrance, or imprint remains. That imprint is why the bag smoldered slowly. The contact has caused slight possession that is not yet parasitic. Other enchantments may still be present.",
+        "Walker spoke with the emperor through or after picking it up, following the emperor's death. Walker puts it back on and argues it is safest there. He hopes the fragment can be used to track the emperor.",
+        "Escalation signs Carlkin gives: queasiness, numb earlobes, tingling in the left armpit, or voices that are not Walker, his own inner voice, Glimmen, Araden, or the party's whispers.",
+        "Dangerous for light-domain clerics of high regard and for feeble-minded wearers. Gerk is not to wear it."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-10-06T21:10:41.965Z",
-  "updatedAt": "2026-10-19T20:29:03.986Z"
+  "updatedAt": "2026-10-21T19:56:11.935Z"
 }

@@ -55,12 +55,23 @@
       "notes": [
         "Spoke with Walker in the cave last session, then left. Walker investigated further after he was gone."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Vecna met Walker in person at the old training grounds for a short talk. Walker says they might have made a deal, then reduces it to common interests. Vecna wants the book made from his sister's skin back; he had tried to pass that book off as rat skin. During the meeting he tapped the golden eagle on a table, which Walker now reads as a hint about what the party should be looking for. He previously operated from a palace in Nyx, remembered as headquarters with a big red wall, and Walker thinks the eagle's counterpart is there, though the capital's name is not recalled. The morning recap includes a possible deal between Barker and Vecna tied to talk of a sister-skin journal; that hearing of the name is uncertain and left unresolved.",
+      "notes": [
+        "He met Walker in person at the old training grounds for a short talk. Walker says they might have made a deal, then reduces it to common interests.",
+        "He wants the book made from his sister's skin back. He had tried to pass that book off as rat skin.",
+        "He tapped the golden eagle on a table during the meeting. Walker now reads that as a hint about what the party should be looking for.",
+        "He previously operated from a palace in Nyx, remembered as headquarters with a big red wall. Walker thinks the eagle's counterpart is there. The capital's name is not recalled.",
+        "The morning recap includes a possible deal between Barker and Vecna, tied to talk of a sister-skin journal. That hearing of the name is uncertain, and it is left unresolved."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:58:30.225Z",
-  "updatedAt": "2026-10-19T20:10:35.726Z",
+  "updatedAt": "2026-10-21T19:52:36.952Z",
   "normalizedAliases": [
     "vecna"
   ]

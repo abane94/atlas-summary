@@ -25,12 +25,19 @@
       "notes": [
         "The party went there through the arches while searching for the captured Council of Nyx. They instead found Grixto, a keystone, and what Dana believes used to be a gatehouse. That was their second fight with him, and the place where he summoned Galixtar in necrotic form."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Sylan hoped that going to Gilbrick might let him converse with the six spirits, though he was not sure it would work. A later visit to the sword’s spirit field did not become that conversation.",
+      "notes": [
+        "Sylan hopes that going to his realm might let him converse with the six spirits, and he is not sure it will work. The later visit to the sword's spirit field does not become that conversation."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T16:04:29.558Z",
-  "updatedAt": "2026-09-29T18:38:55.945Z",
+  "updatedAt": "2026-10-21T19:48:58.816Z",
   "normalizedAliases": [
     "gilbrick"
   ]

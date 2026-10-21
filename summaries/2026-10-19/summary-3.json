@@ -1,0 +1,281 @@
+{
+    "plotSections": [
+        {
+            "title": "The sister's skin and a phylactery hint",
+            "bullets": [
+                "Walker says the skin that was passed off as rat skin is his dead sister's skin. Sylan asks whether her soul might still be in it; the question is not answered.",
+                "Dana asks Walker whether he made a deal with the god of the undead, and whether that being hinted at what the phylactery is. Walker recalls him tapping a golden eagle on the table, which Walker had taken for boredom."
+            ]
+        },
+        {
+            "title": "The helm as a suspect phylactery",
+            "bullets": [
+                "Dana argues the helm is the only remaining piece of his armor, and that a vision described an ordinary item that would pass under the nose. She suspects they have been carrying the phylactery because Walker treats the helm as a hat. Walker says the helm is extraordinary and sits over his nose, and he doubts it is the phylactery, but he agrees it can be checked.",
+                "Dana says identifying a phylactery would take detect magic and arcane investigation. Sylan reminds them Carlkin said he could identify the helm if they brought it, and Dana says Carlkin was already worried that Walker had been carrying it.",
+                "Dana ties the helm to contact: he has reached them twice from wherever he is, Walker has had the helmet the whole time, and he has not had the eagle the whole time. She notes a worn object is an unlikely phylactery compared with something kept in a treasury, which is why it should still be ruled out.",
+                "Sylan asks whether the helm benefits Walker. Walker will not give the helm to the party. He will hand it only to Carlkin."
+            ]
+        },
+        {
+            "title": "Glimmen's check",
+            "bullets": [
+                "Dana addresses Glimmen in Draconic and asks whether Walker has changed in any odd way since he started wearing the helm, wanting a sanity check from the mind link. Walker says that if Grixto is influencing either of them, it would be Glimmen.",
+                "Glimmen clamps her mouth around Walker's head by the helm, which hurts her, and tells him through the link to give up the helmet while lifting him by it. He refuses. She then rests her head on him and asks whether phylacteries are flame resistant, offering to torch the helm. Walker says not necessarily and tells her not to.",
+                "Glimmen says Walker seems influenced but that she is unfit to diagnose it. She recalls that his internal fire can spread and protect her through their bond, then tells Dana in Draconic that he has not acted any stranger than normal. She still wants to light him on fire to see if it burns. Walker says he is fire resistant and does not think he is fireproof. Ciri starts a tinderbox under his arm."
+            ]
+        },
+        {
+            "title": "Do not destroy it early",
+            "bullets": [
+                "Sylan says that if the helm is the phylactery they should not destroy it immediately. They should find him first, because if he senses the phylactery destroyed he can make another before they have him. Walker agrees they should destroy it only when they have eyes on him. Sylan says they can still rule the helm out.",
+                "Sylan offers a same-day appointment with Carlkin if Walker will not take the helm off in front of the party. Gerk warns them not to walk in on Carlkin because he is in a bad way. Sylan says Gerk should not make that visit, and that he himself probably should not either. Dana says both of them should stay home."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker identifies the supposed rat skin as his dead sister's skin, and Sylan asks if her soul is still in it.",
+        "Dana asks whether Walker made a deal with the god of the undead and whether that being hinted at the phylactery. Walker remembers a golden eagle being tapped on the table.",
+        "Dana names the helm as the only remaining piece of his armor and connects it to a vision of an ordinary item that would go under the nose. Walker rejects the mundane reading and agrees they can still check it.",
+        "The party recalls that Carlkin offered to identify the helm and was concerned Walker had kept carrying it. Dana argues the helm, not the eagle, has been with Walker both times they were contacted from afar.",
+        "Dana asks Glimmen in Draconic whether the helm has changed Walker. Glimmen seizes the helm in her mouth, tells Walker to give it up, and later offers to burn it to test whether it is a phylactery.",
+        "Walker refuses to surrender the helm to anyone but Carlkin. He says he is fire resistant, not fireproof. Ciri starts a tinderbox under his arm.",
+        "Sylan and Walker agree not to destroy a confirmed phylactery until they have eyes on him, because he could make another. They still intend to rule the helm out.",
+        "Gerk says Carlkin is in a bad way. The party decides Gerk and Sylan should stay away from that visit."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He has been wearing the helm the whole time and says he grabbed it, which is why it is the only piece of that armor still remaining.",
+                "He doubts the helm is mundane or the phylactery, but he will let Carlkin examine it and will hand it only to Carlkin.",
+                "He has not had the eagle the whole time.",
+                "His internal fire can spread and protect Glimmen through their bond.",
+                "He is fire resistant and does not believe he is fireproof.",
+                "He agrees a phylactery should be destroyed only when they have eyes on its owner."
+            ],
+            "titles": [],
+            "personality": [
+                "Protective of the helm and unwilling to hand it to the party."
+            ],
+            "quotesThemes": [
+                "I'll let Carlkin examine it, but I will hand it to Carlkin.",
+                "This is my fucking helmet."
+            ],
+            "openQuestions": [
+                "Did Walker make a deal with the god of the undead?"
+            ]
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She had a vision that an ordinary item would go under the nose, and she applies that to the helm.",
+                "She can investigate with detect magic and arcane checks, and she questions Glimmen in Draconic about whether the helm is influencing Walker.",
+                "She wants the helm ruled out because it was present both times they were contacted, even though a worn phylactery would be easy to overlook.",
+                "She tells Gerk and Sylan to stay home rather than visit Carlkin while he is in a bad way."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He presses to examine the helm and says that if Walker will not allow it, they may have to treat it as something hindering him.",
+                "He argues that a confirmed phylactery should not be destroyed until they find its owner, or he may make another one.",
+                "He offers to schedule a same-day identification with Carlkin, and he agrees he and Gerk should not make that visit."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "Asked in Draconic whether Walker has changed since wearing the helm, she starts to answer, then clamps her mouth on his head by the helmet and lifts him. The bite hurts her.",
+                "Through the mind link she tells Walker to give up the helmet and asks if phylacteries are flame resistant, offering to torch it.",
+                "She says he seems influenced but that she cannot diagnose it, then tells Dana he has not acted any stranger than normal.",
+                "She knows Walker's internal fire can protect her through the bond, and she treats a fire test as safe enough that he would be fine."
+            ],
+            "titles": [],
+            "personality": [
+                "Willing to manhandle Walker and burn the helm to force a test."
+            ],
+            "quotesThemes": [
+                "Walker, just give him the helmet.",
+                "Do you think phylacteries are flame resistant?",
+                "He hasn't acted any stranger than normal."
+            ],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person believed to be back in Langdale; previously agreed to examine the helm by appointment.",
+            "entityType": "NPC",
+            "notes": [
+                "He told the party he could identify the helm if they brought it to him, and he was concerned that Walker had been carrying it.",
+                "Gerk says Carlkin is in a bad way and that the party should not walk in on him. Dana concludes Gerk and Sylan should stay home."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "Mobile antagonist hiding a phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker names Grixto as the one who might be influencing him or Glimmen.",
+                "The party says he has contacted them twice from wherever he is. Dana suspects the helm, which Walker has carried the whole time, could explain that contact.",
+                "Sylan warns that if he senses his phylactery destroyed he can make another before they find him. Walker wants it destroyed only when they have eyes on him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine by appointment.",
+            "entityType": "ITEM",
+            "notes": [
+                "Walker has worn it continuously and says he grabbed it, so it is the only piece of that armor still remaining.",
+                "Dana's vision of an ordinary item passing under the nose is the reason she suspects it. Walker says it is extraordinary and sits over his nose.",
+                "Carlkin was worried Walker kept carrying it and offered to identify it. The party has not yet examined it themselves.",
+                "It was with Walker both times they were contacted from afar, unlike the eagle.",
+                "Walker will hand it only to Carlkin. Glimmen offers to burn it as a phylactery test. The party agrees not to destroy it even if it is confirmed, until they have eyes on its owner."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the helm the phylactery?"
+            ]
+        },
+        "Raskina": {
+            "existing": "Vecna's red-skinned tome, made from his sister and held by Grixto.",
+            "entityType": "ITEM",
+            "notes": [
+                "Walker says the material passed off as rat skin is his dead sister's skin. Sylan asks whether her soul might still be in it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the sister's soul still in the skin?"
+            ]
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Dana expects one to be identified with detect magic and arcane investigation, and says the usual image is an object kept in a treasury rather than something worn.",
+                "A golden eagle tapped on a table is remembered as a possible hint from the god of the undead. The helm is the current suspect.",
+                "The party plans to rule a candidate out without destroying it. If the owner senses it destroyed, he can make another before they have eyes on him.",
+                "Walker says a phylactery is not necessarily flame resistant. Glimmen proposes burning the helm as a test."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "phlactory",
+            "likely": "phylactery",
+            "notes": "Dana asks what they are looking for."
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": "Sylan says if the factory is destroyed he will make another."
+        },
+        {
+            "heard": "Cargan",
+            "likely": "Carlkin",
+            "notes": "Dana says Cargan was concerned Walker carried the helm."
+        },
+        {
+            "heard": "Vaku",
+            "likely": "Walker",
+            "notes": "Sylan says Vaku, we need to examine the helm, while addressing Walker."
+        },
+        {
+            "heard": "Dane",
+            "likely": "Dana",
+            "notes": "Walker addresses Dane during the helm argument."
+        },
+        {
+            "heard": "Gorixto",
+            "likely": "Grixto",
+            "notes": "Walker says Glimmen would be the one influenced by Gorixto."
+        },
+        {
+            "heard": "Glemens",
+            "likely": "Glimmen",
+            "notes": "Sylan asks how close someone is to Glemens."
+        },
+        {
+            "heard": "Glomin",
+            "likely": "Glimmen",
+            "notes": "Sylan repeats the question as Glomin."
+        },
+        {
+            "heard": "glimpse",
+            "likely": "Glimmen",
+            "notes": "Ord asks about the glimpse while Sylan is asking after Glimmen."
+        },
+        {
+            "heard": "Glibant",
+            "likely": "Glimmen",
+            "notes": "Dana's Draconic address."
+        },
+        {
+            "heard": "Gliment",
+            "likely": "Glimmen",
+            "notes": "Dana's Draconic address, said with Glibant."
+        },
+        {
+            "heard": "I dying Glimmen",
+            "likely": "eyeing Glimmen",
+            "notes": "Sylan, just before asking how close Glimmen is."
+        },
+        {
+            "heard": "cove",
+            "likely": "cold",
+            "notes": "The DM says the weather is abnormally cove for this time of year."
+        },
+        {
+            "heard": "Andraconic",
+            "likely": "Draconic",
+            "notes": "Glimmen speaks to Dana."
+        },
+        {
+            "heard": "Sarah",
+            "likely": "Ciri",
+            "notes": "Sarah takes a tinderbox to Walker's arm while Ciri is acting."
+        },
+        {
+            "heard": "Titan ring",
+            "likely": "",
+            "notes": "Ciri says this once during the helm debate. No clear referent."
+        }
+    ],
+    "openQuestions": [
+        "Is the sister's soul still in the skin that was passed off as rat skin?",
+        "Did Walker make a deal with the god of the undead?",
+        "Is the helm the phylactery?"
+    ],
+    "newTerms": [
+        {
+            "name": "Golden eagle",
+            "notes": [
+                "An object on a table that the god of the undead tapped during Walker's meeting. Walker thought it was boredom. Dana treats the gesture as a hint toward the phylactery. Distinct in this scene from the helm."
+            ]
+        }
+    ]
+}

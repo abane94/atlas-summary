@@ -1,0 +1,227 @@
+{
+    "plotSections": [
+        {
+            "title": "Fused lantern-staff",
+            "bullets": [
+                "Sylan and Ord tried the lantern and staff again and found them fused. Ord repeated the same incantation, which again blinded people; he describes the effect as reproducible.",
+                "Sylan avoided the blindness by not looking at the lantern. Gerk was blinded anyway, says he was off on his own and is not sure he was looking, and treats it as a repeat of an earlier blinding.",
+                "While others were blinded, Ord saw a grayscale ethereal sight and the spirits attached to Sylan. The fused item has an evocation magical aura. Sylan could also see the spirits once he took the staff."
+            ]
+        },
+        {
+            "title": "Spirits drawn into Sylan",
+            "bullets": [
+                "When Sylan grabbed the staff to help Ord against the spirits, a black pillar shot up and the spirits were pulled in. Dana asked whether they went into the staff or into Sylan; Sylan says they went into him, and all six are with him again.",
+                "The party will not describe the spirits beyond this: they seem to be people of New Navel, with gripes against some people there and possible unfinished business. Sylan suspects the fused item splits by user: a blinding effect for Ord, and spirit-gathering tied to his own darker inclination."
+            ]
+        },
+        {
+            "title": "What they plan to do next",
+            "bullets": [
+                "Sylan thinks that in his own realm he might be able to speak with the six spirits, and he may go to New Navel to pursue their unfinished business. He wants the group to plan the next decision. He is not sure the spirits can actually be conversed with.",
+                "Gerk does not want to be cursed and does not want to join a ghost investigation. Sylan calls him a strong Karnak Mar after fumbling an orc term.",
+                "Walker flies back in. Sylan asks if he is alive and still their friend; Walker answers, \"Why wouldn't I be here?\""
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "1. Sylan reports that another try of the lantern and staff fused them, and says the group should know their abilities before a fight.",
+        "2. Dana notes that Gerk was blinded again. Sylan says he ignored the effect by not looking at the lantern and asks whether Ord and Gerk were looking.",
+        "3. Gerk says he was away from them doing his own thing, is unsure whether he looked, feels victimized, and wants compensation.",
+        "4. Ord says he used the same incantation, that it reproducibly blinds people, that the item has an evocation aura, and that during the blindness he saw a grayscale ethereal view and spirits attached to Sylan.",
+        "5. Sylan says those spirits seem to be people of New Navel and that the party will not describe them further. Ord adds that Sylan also saw them after grabbing the staff.",
+        "6. Sylan says a black pillar shot up and the spirits were sucked in; he clarifies they went into him, and that all six are back with him.",
+        "7. Sylan suggests Ord keeps a blinding use and that he himself gathers spirits. He may try to speak with them in his realm, and he may follow their gripes to New Navel. Ord calls it possible unfinished business.",
+        "8. Sylan proposes the group plan their next move, using the orc term Karnak Mar for Gerk. Gerk refuses to be cursed or to play ghost investigator.",
+        "9. Walker flies back in and, asked if he is alive and still their friend, says he is here."
+    ],
+    "entities": {
+        "Fused lantern-staff": {
+            "existing": "Fused lantern and staff that reveals the Ethereal Plane and draws nearby spirits when the active staff is held.",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan and Ord confirm the lantern and staff have fused.",
+                "The same incantation reproducibly blinds people. Sylan avoided it by not looking; Gerk was blinded while claiming he was not nearby and is unsure he looked.",
+                "Ord reads an evocation magical aura. While others are blinded, the wielder sees a grayscale view of the Ethereal Plane.",
+                "Sylan could see the spirits after he grabbed the staff. A black pillar then rose and the spirits were drawn into Sylan rather than into the staff.",
+                "Sylan's working theory is a split use: blinding for Ord, spirit-gathering for himself. That split is not confirmed as how the item is meant to work."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Beacon of celestial darkness": {
+            "existing": "A column of felt darkness that rises while the active staff is held.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "When Sylan grabbed the staff, the black pillar shot up as the spirits were sucked into him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glade spirits": {
+            "existing": "Ethereal undead spirits drawn to the lantern and pulled into Sylan.",
+            "entityType": "OTHER",
+            "otherEntityType": "spirits",
+            "notes": [
+                "There are six of them, and they are attached to Sylan again after being drawn back into him rather than into the staff.",
+                "The party describes them only as people of New Navel who have gripes with some people there and may have unfinished business.",
+                "Sylan hopes he can speak with them in his realm, but he is not sure."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can Sylan converse with the six spirits if he goes to his realm?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He ignored the lantern blindness by not looking, then saw the spirits after taking the staff. All six were drawn back into him.",
+                "He withholds further description of the spirits beyond New Navel and their gripes there.",
+                "He suspects his realm may let him talk to them, and he is considering New Navel to follow their unfinished business. He wants the group to plan the next decision.",
+                "He calls Gerk a strong Karnak Mar."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats the haunting as his to investigate, and pairs his darker inclination with gathering spirits while leaving the blind effect to Ord."
+            ],
+            "quotesThemes": [
+                "Suggests a blind function for Ord and spirit-gathering for himself."
+            ],
+            "openQuestions": [
+                "Whether going to his realm will let him converse with the six spirits."
+            ]
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He repeated the same incantation on the fused lantern-staff. It blinded others, showed him a grayscale ethereal sight, and let him see the spirits attached to Sylan.",
+                "He identifies an evocation magical aura and calls the spirits' gripes potential unfinished business."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "The fused item blinded him again while he was apart from Ord and Sylan. He is not sure he was looking at the lantern.",
+                "He does not want to be cursed and does not want to investigate the spirits in New Navel.",
+                "Sylan addresses him as a strong Karnak Mar after mixing up orc terms."
+            ],
+            "titles": [],
+            "personality": [
+                "Takes the blinding personally and asks to be compensated for it."
+            ],
+            "quotesThemes": [
+                "\"Just trying to be a Gerk in a Gerk world.\"",
+                "\"I feel personally victimized.\""
+            ],
+            "openQuestions": [
+                "Was Gerk looking at the lantern when he was blinded?"
+            ]
+        },
+        "New Navel": {
+            "existing": "A familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The six spirits with Sylan seem to be people from New Navel and have gripes with some people there.",
+                "Sylan may go there to pursue that unfinished business."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gilbrick": {
+            "existing": "Arch realm whose keystone is held by Sylan, child of its lord and its Gatekeeper.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sylan thinks going to his realm might let him converse with the six spirits, and he is not sure it will work."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Can the spirits be spoken with in Sylan's realm?"
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He flies back in at the end of this stretch. Asked whether he is alive and still their friend, he says, \"Why wouldn't I be here?\""
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"Why wouldn't I be here?\""
+            ],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "New Novelle",
+            "likely": "New Navel",
+            "notes": "Sylan says the spirits seem to be members of New Novelle."
+        },
+        {
+            "heard": "Nunavell",
+            "likely": "New Navel",
+            "notes": "Sylan says he will go ghost cop in Nunavell."
+        },
+        {
+            "heard": "not people have guild",
+            "likely": "",
+            "notes": "Sylan, right after identifying the spirits as New Navel members. Unclear whether this limits who they are."
+        },
+        {
+            "heard": "Kreudabrak",
+            "likely": "Karnak Mar",
+            "notes": "Sylan guesses an orc term for Gerk, then agrees to Karnak Mar."
+        },
+        {
+            "heard": "Paradox Mar",
+            "likely": "Karnak Mar",
+            "notes": "Dana's hearing of the same orc term, corrected by Sylan."
+        },
+        {
+            "heard": "Shadows are lost you live",
+            "likely": "",
+            "notes": "Gerk's reply when Sylan asks if the orc term is Kreudabrak. May be the phrase itself or another missed orc term."
+        },
+        {
+            "heard": "lance in my head",
+            "likely": "",
+            "notes": "Gerk, about the repeat blinding: \"They tried to put a lance in my head again.\""
+        },
+        {
+            "heard": "silent in France",
+            "likely": "",
+            "notes": "Gerk: he was murdered by \"stupid little silent in France,\" in the same complaint about Ord and Sylan blinding him."
+        }
+    ],
+    "openQuestions": [
+        "Was Gerk looking at the lantern when the incantation blinded him?",
+        "Can Sylan converse with the six spirits if he goes to his realm?",
+        "What did \"not people have guild\" mean about the New Navel spirits?"
+    ],
+    "newTerms": [
+        {
+            "name": "Karnak Mar",
+            "notes": [
+                "Orc term Sylan settles on for Gerk (\"a strong Karnak Mar\") after Kreudabrak and Dana's Paradox Mar. Spelling unconfirmed. Gerk's nearby line \"Shadows are lost you live\" may belong to the same phrase."
+            ]
+        }
+    ]
+}

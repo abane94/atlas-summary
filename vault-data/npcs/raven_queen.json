@@ -41,6 +41,16 @@
       "notes": [
         "Sylan calls on the Raven Queen to grant Guidance for Gerk's doorway checks."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Her emissary names Sylan a razor of the Raven Queen, with a duty to seek certain dead and to serve as the pathway to the falls; the specific charge is cut off. Spirits who claimed unfinished business are deferred to her: they did have things left, but she will say. Sylan says she cannot be cheated at the end of a life's allotment. He tells Haldor he serves her as a cleric, assigned to find people who escaped their end and send them on. Haldor does not know the gods and does not pick up the theology.",
+      "notes": [
+        "Her emissary names Sylan a razor of the Raven Queen, with a duty to seek certain dead and to serve as the pathway to the falls. The specific charge is cut off.",
+        "Spirits who claimed unfinished business are deferred to her: they did have things left, but she will say.",
+        "Sylan says she cannot be cheated at the end of a life's allotment.",
+        "Sylan tells Haldor he serves her as a cleric, assigned to find people who escaped their end and send them on. Haldor does not know the gods and does not pick up the theology."
+      ]
     }
   ],
   "openQuestions": [
@@ -49,7 +59,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:56:39.240Z",
-  "updatedAt": "2026-10-06T21:08:46.031Z",
+  "updatedAt": "2026-10-21T20:01:41.290Z",
   "normalizedAliases": [
     "raven queen"
   ]

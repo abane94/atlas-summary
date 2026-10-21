@@ -2,7 +2,8 @@
   "name": "Araden",
   "tags": [
     "companion",
-    "dragon-rider"
+    "dragon-rider",
+    "dragon"
   ],
   "slug": "A magically capable companion brought secretly to The Reach.",
   "aliases": [],
@@ -50,10 +51,22 @@
         "A dragon several sizes larger than Glimmen. Arrives with Glimmen near Langdale Stronghold. The village, used to Glimmen alone, buzzes at the second dragon.",
         "Cited as agreeing to leave the Grazog trip and go toward the forest disturbance. Flies with Walker and Glimmen after Dana and matches pace over the beacon."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Araden is Elrus's ancient copper dragon, large enough that landing in New Navel means curling her wings and keeping her tail off the roofs. Dana identifies her as the dragon of the rider mentoring Walker, not as Glimmen. She flies Elrus and the Carlkin group to the lighthouse, carries Ciri and Ord, and sets Elrus down at Carlkin's door. She tells Ciri, \"Don't worry, little one. I will carry you,\" and tells Ord not to worry, addressing him as young Lane, tapping his chest, and saying his wings are in there. Carlkin already knows her and is put out that nobody told him she had been brought. She perks up when Benji comes toward her, and Glimmen lands beside her. She flies faster than an average ship. Carlkin says entering the Sunder Chase with her would now be cheating and would get a rider disqualified. Walker counts her voice among the familiar voices that would not count as Carlkin's possession warning.",
+      "notes": [
+        "She is Elrus's ancient copper dragon, large enough that landing in New Navel means curling her wings and keeping her tail off the roofs. Dana identifies her as the dragon of the rider mentoring Walker, not as Glimmen.",
+        "She flies Elrus and the Carlkin group to the lighthouse, carries Ciri, and is also described as carrying Ord. She sets Elrus down at Carlkin's door.",
+        "She tells Ciri, \"Don't worry, little one. I will carry you.\" She tells Ord not to worry, addresses him as young Lane, taps his chest, and says his wings are in there.",
+        "Carlkin already knows her and is put out that nobody told him she had been brought. She visibly perks up when Benji comes toward her. Glimmen lands beside her.",
+        "She flies faster than an average ship. Carlkin says entering the Sunder Chase with her would now be cheating and would get a rider disqualified.",
+        "Walker counts her voice among the familiar voices that would not count as Carlkin's possession warning."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:15:19.932Z",
-  "updatedAt": "2026-10-19T20:51:02.634Z"
+  "updatedAt": "2026-10-21T20:01:12.734Z"
 }

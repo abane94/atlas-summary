@@ -85,6 +85,18 @@
         "His watch reads exactly 42 days. He says Walker has been training that whole time and still needs to train more. He offers to imbue primal stones on the spot. Walker declines until he talks with the party.",
         "He is with Walker when they land at the stronghold. He had framed the next step as training instead of Grazog. When the forest beacon appears, Walker tells him the plan has changed. Elrus treats the disturbance as the companions, and he and Walker fly after Dana."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Elrus looks vaguely half-elf and stands about 5'10\" to 5'11\"; Gerk already knew of his ancient copper dragon, Araden, but not this height. He has been training Walker in meditation and introduces him to Benji as his new recruit. He and Araden had met the party at the council of the gods, though they had not met Benji with them. Hearing that Gerk needs more door training, he says that makes two of them and offers to train Gerk, telling the party to have the helm investigated and then return to Walker's training. He pokes Gerk in the midriff, calls him strong of body and lacking in mind, compares him to an oak sapling, says the growth he means is mental, and addresses him as \"my boy.\" He follows with Araden as the Carlkin group leaves the forest; Araden sets him down at Carlkin's door, and he greets Benji with a cordial embrace. The accounts disagree on an age remark: one has Elrus saying Benji looks old for his age and asking whether he has been meditating; the other has Benji saying that of Elrus.",
+      "notes": [
+        "He looks vaguely half-elf and stands about 5'10\" to 5'11\". His ancient copper dragon is Araden. Gerk knew about the dragon and had not known this height.",
+        "He has been training Walker in meditation and introduces him to Benji as his new recruit. He and Araden had met the party at the council of the gods, but had not met Benji with them.",
+        "Hearing that Gerk needs more door training, he says that makes two of them and offers to train Gerk. He tells the party to have the helm investigated, then return to Walker's training. He pokes Gerk in the midriff.",
+        "He says Gerk is strong of body and lacking in mind, compares him to an oak sapling, and says the growth he means is mental. He addresses him as \"my boy.\"",
+        "He follows with Araden as the Carlkin group leaves the forest. Araden sets him down at Carlkin's door. He greets Benji with a cordial embrace.",
+        "The accounts disagree about the age remark: one has Elrus saying Benji looks old for his age and asking whether he has been meditating; the other has Benji saying that of Elrus."
+      ]
     }
   ],
   "openQuestions": [
@@ -92,5 +104,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:09:04.587Z",
-  "updatedAt": "2026-10-19T20:51:02.635Z"
+  "updatedAt": "2026-10-21T19:59:40.409Z"
 }

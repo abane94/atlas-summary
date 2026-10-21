@@ -1,0 +1,37 @@
+{
+  "name": "Haldor",
+  "tags": [],
+  "slug": "Sheriff of New Navel who bans doors and spirit-taking inside the city.",
+  "aliases": [],
+  "normalizedAliases": [
+    "haldor"
+  ],
+  "filename": "npcs/haldor.md",
+  "description": "Haldor is the sheriff of New Navel. Gerk calls him Howdy. His house is southwest of the market, down the road and to the right, past and behind the tavern. He enforces a posted city rule that both extradimensional and interdimensional doors are prohibited inside the city limits, that magic practice goes to the forest, and that spirit-taking is not permitted. He treats returned town dead as celestial echoes, distinct from undead, and counts spirits as undead; summoning undead is illegal, and he will confiscate a lantern used for it if it is not kept hidden. He knows Gerk and knows Sylan as Gerk's short elven friend. He files the party as stronghold hooligans, and says most of that file is Carlkin.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "Haldor was resting on his porch after a cutpurse when Gerk found him. He recognized Gerk, shook Sylan's hand, and walked outside the gate to hear the spirit problem, treating Sylan's spirit-taking as new and confirming none of the party had been pulled in. He rejected Gerk's interdimensional distinction, cited the posted ban on both kinds of doors, and refused a door opened to fetch shackles. He will not investigate a house portal; Carlkin already reported the commons portal, which Haldor calls a hell portal, and that Gerk fixed the floor, and Haldor would rather wait for the party to leave than walk to the stronghold. He lost 25 gold to Erwin betting the Trigash beacon was a random event rather than the party. He remembers Ledzbika dying about a month ago of natural causes and not returning as a ghost or echo, has no recent missing persons, and gives a secondhand, shaky Neville prison-and-echo story while saying he knows nothing of the gods. He says the mines across the lake are opening again, tells Gerk not to threaten villagers, and parts on good terms if the dragon stays away from the ghosts, no doors open in town, and commotion stays outside. Gerk takes this as an order to stay out of town.",
+      "notes": [
+        "Sheriff of New Navel. Gerk later refers to him as Howdy. His house is southwest of the market, down the road and to the right, past and behind the tavern.",
+        "Gerk finds him on the porch in a rocking chair, boots up on a stump, hands folded, hat brim low. He was resting, and he had been after a cutpurse. He recognizes Gerk, has not seen him in some time, and agrees to walk outside the gate and hear the spirit problem. He shakes Sylan's hand.",
+        "He knows Sylan as Gerk's short elven friend, whose sword looks large because Sylan is small. He says Sylan has not been sucking up spirits before, treats it as a change, and confirms Sylan has not pulled in any of the party.",
+        "He enforces the ban on extradimensional doors inside the city limits and is unfamiliar with Gerk's interdimensional-versus-extradimensional distinction. He then states the stricter rule, citing a posted change: both extradimensional and interdimensional doors are prohibited in the city, magic practice goes to the forest, and spirit-taking is not permitted. He hoped Gerk was carrying interdimensional shackles and refuses a door opened to fetch them.",
+        "He will not investigate a portal opened in someone's house. Carlkin already reported the commons portal, which Haldor calls a hell portal and a tentacle-spewing portal, and reported that Gerk fixed the floor. Haldor has charges he has not interpreted. He files the party as stronghold hooligans, says most of that file is Carlkin, and would rather wait a day or two for the party to leave than walk to the stronghold.",
+        "He bet Erwin 25 gold that the Trigash beacon was a random event and not the party. Erwin said it was hooligans flying that way with a new dragon. Haldor lost. Erwin saw them fly toward the forest and back about an hour later. The fliers were in town about forty-five minutes before this conversation.",
+        "He knows Joanna's wicker animals, says her geese are good, and describes the goose-seller two doors down as a decent vendor who keeps a flock in cages. He tells Gerk not to threaten villagers. He shuts down the windows joke.",
+        "He remembers Ledzbika's rants, his death about a month ago from natural causes, and that the neighbor was trying to steal his belongings. Ledzbika did not return as a ghost or echo, which Haldor calls the puzzle. He has no recent missing-persons cases. He estimates a handful to maybe a dozen deaths in six or seven months, plus travelers.",
+        "He calls returned town dead celestial echoes, distinct from undead. Spirits fall under undead. Summoning undead is illegal, and he will confiscate the lantern if it is not kept hidden. His Neville prison-and-echo account is secondhand and shaky, loosely tied to a sea-associated elder god. He says he knows nothing about the gods.",
+        "He says the mines across the lake are opening again, with greater competition and more people coming and going. He wants to know how long the party will remain. Told that they will eat, plan, and leave soon, and that nothing further is needed from him, he parts on good terms if they keep Gerk's dragon friend away from the ghosts, open no doors in town, and keep commotion outside town.",
+        "Gerk understands him as having ordered Gerk to stay out of town."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What charges did Carlkin file? Haldor has not had time to read them."
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:06:28.554Z",
+  "updatedAt": "2026-10-21T20:06:28.554Z"
+}

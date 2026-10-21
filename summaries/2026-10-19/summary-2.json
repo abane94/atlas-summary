@@ -1,0 +1,341 @@
+{
+    "plotSections": [
+        {
+            "title": "Evening plan",
+            "bullets": [
+                "Sylan asks Walker for a report and whether he ran into mind-control trouble. Walker brushes that aside and points at Sylan's magical darkness and soul-sucking as the larger explanation owed.",
+                "Sylan proposes a ghost investigation tonight and saving Walker's leads for later. Dana, Walker, and Ciri agree. Ciri is in because of the soul-sucking. Walker had planned to tell the story over dinner, and Sylan is fine waiting until then because it is still early.",
+                "Walker checks that everyone is present. Sylan thinks Ciri is hiding in a tree and possibly blinded; she is standing directly behind him. The DM confirms the whole party is there."
+            ]
+        },
+        {
+            "title": "Vecna and the golden eagle",
+            "bullets": [
+                "Walker reports that he went to the old training grounds, met Vecna, and had a short talk. He frames it as maybe a deal, then backs off that: they have common interests, not a clear bargain.",
+                "Vecna was tapping a golden eagle. Walker has it. Set on the war-table map, it lights the map up. Walker thinks this piece is only half, and that the counterpart is in Nyx at the palace Vecna was using, the headquarters with the big red wall.",
+                "The party cannot name that capital. Walker, Sylan, and Gerk throw out several garbled candidates and drop it. Walker says putting this piece on that table is the lead he has.",
+                "Sylan asks whether 'they' picked up the 'seasman' and whether the party already went back. Dana says the 'season' was shattered, in pieces on the floor."
+            ]
+        },
+        {
+            "title": "The sister-skin book",
+            "bullets": [
+                "Dana stops the report to confirm whether Walker made a deal with the god of the undead. Walker says they have common interests: Vecna wants his sister's skin book back.",
+                "Walker says Vecna tried to pass the book off as rat skin when it is his dead sister's skin. Sylan asks whether her soul might still be in it. That is not answered.",
+                "Dana asks whether Vecna at least hinted at the phylactery. Walker says the hint, in hindsight, was Vecna tapping the golden eagle on the table. At the time Walker thought Vecna was bored."
+            ]
+        },
+        {
+            "title": "The helm as a possible phylactery",
+            "bullets": [
+                "Dana argues the helm is the only piece of his armor still left, and that it matches her vision of an ordinary item that would pass under their noses. She suggests they have been carrying the phylactery because Walker liked the hat. Walker says he grabbed it, that it is extraordinary, and that it sits over his nose, not under it.",
+                "Sylan moves in and says they need to examine it. If Walker will not allow that, Sylan will treat the helm as something hindering him. Walker asks if that is a threat. Dana says no threat is needed; nobody has actually looked at it, and they only need to rule it out. Ciri steps behind Walker and whispers that they are only threatening a good time.",
+                "Walker doubts a mundane-looking worn object is the phylactery and asks how anyone would tell. Dana says detect magic and arcane investigation. Sylan adds that Carlkin already said he could identify the helm if they brought it, and tells Walker he can have it back. Ord offers to detect magic.",
+                "Dana says Carlkin was worried that Walker had been carrying the helm this whole time. She notes he has contacted them twice from wherever he is, and that Walker has had the helm the whole time but not the eagle. She adds that a phylactery is usually imagined as a treasury object, not something worn, which is why this one would be missed. Walker still doubts it and agrees they can check. Sylan asks whether the helm benefits Walker. No answer before the chunk ends.",
+                "While Sylan broods, the wind carries dark leaves and the weather is abnormally cold for the season. Sylan asks how close Glimmen is. The chunk cuts off as Ord starts to respond."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan asks Walker how his trip went and whether mind control was a problem. Walker deflects toward Sylan's darkness and soul-sucking.",
+        "The party agrees to a ghost investigation tonight and to take Walker's lead afterward, with the debrief able to wait for dinner.",
+        "Everyone is confirmed present. Ciri is behind Sylan, not hidden in a tree.",
+        "Walker says he met Vecna at the old training grounds and that they may share interests rather than a firm deal.",
+        "Walker shows the golden eagle Vecna was tapping. It lights the war-table map, and he thinks the other half is at Vecna's palace in Nyx, the headquarters with the big red wall. Nobody can name the capital.",
+        "Sylan recalls something he calls the seasman being picked up and the party going back to it. Dana says the season was shattered on the floor.",
+        "Walker says Vecna wants the sister-skin book back and tried to pass it off as rat skin. Sylan asks if her soul is still in it.",
+        "Walker identifies Vecna tapping the golden eagle as the phylactery hint he missed in the moment.",
+        "Dana presses the helm as the possible phylactery: last piece of armor, her vision of an ordinary item under the nose, and two remote contacts while Walker had the helm but not the eagle.",
+        "Sylan insists on an examination and moves closer. Dana and Ciri lower the temperature. Walker agrees to a check while doubting the theory. Carlkin is cited as able to identify it and as already worried Walker was wearing it. Ord offers detect magic.",
+        "Sylan broods in an unseasonably cold wind and asks how close Glimmen is."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Reported a trip to the old training grounds where he spoke with Vecna. He describes common interests rather than a completed deal.",
+                "Carries the golden eagle Vecna was tapping. Placing it on the war-table map lights the map. He believes it is one half of a pair, with the other half at Vecna's former palace in Nyx.",
+                "Took the helm himself and has been wearing it the whole time, including during two remote contacts, which Dana contrasts with the eagle he did not have the whole time.",
+                "Argues the helm is extraordinary and worn over the nose, so it does not match Dana's 'ordinary item under your nose' vision. He doubts it is the phylactery and agrees it can be checked."
+            ],
+            "titles": [],
+            "personality": [
+                "Defensive when the helm and a possible Vecna bargain are questioned, but willing to allow an examination."
+            ],
+            "quotesThemes": [
+                "We have common interests.",
+                "He wants his sister's skin book back.",
+                "He tried to pass it off as rat skin.",
+                "I very much doubt the helmet is the phylactery, but we can check."
+            ],
+            "openQuestions": [
+                "Did the conversation with Vecna amount to a deal?",
+                "Does the helm benefit Walker in any way?"
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sets the night's order: ghost investigation first, Walker's Nyx lead later.",
+                "Asks whether the sister's soul is still in the skin book.",
+                "Presses to examine the helm and says refusal would mean they assume it is hindering Walker. He cites Carlkin's offer to identify it and says Walker can have it back.",
+                "Asks whether the helm benefits Walker, and asks how close Glimmen is. He broods while the wind brings dark leaves in unseasonable cold."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats an unchecked helm as a possible influence on Walker, while Dana rejects an actual threat."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the sister's soul still in the book?"
+            ]
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Had a vision that the thing they were looking for was an ordinary item that would go under their noses.",
+                "Wants the helm ruled out as the phylactery. She says identification would take detect magic and arcane investigation.",
+                "Remembers Carlkin's concern that Walker had been carrying the helm, and argues the wearer is a bad place to look because a phylactery is usually imagined as a treasury object.",
+                "Points out that he contacted the party twice from elsewhere while Walker had the helm and did not yet have the eagle."
+            ],
+            "titles": [],
+            "personality": [
+                "Cautious about Walker dealing with the god of the undead, and insistent on checking the helm without threatening him."
+            ],
+            "quotesThemes": [
+                "An ordinary item that would go under your nose.",
+                "Wouldn't it be awfully convenient if we had been carrying around the damn thing this whole time because you thought it was a cool hat?"
+            ],
+            "openQuestions": []
+        },
+        "Vecna": {
+            "existing": "Elder god of liches.",
+            "entityType": "NPC",
+            "notes": [
+                "Met Walker in person at the old training grounds for a short talk. Walker says they might have made a deal, then reduces it to common interests.",
+                "Wants his sister's skin book back. He had tried to pass that book off as rat skin.",
+                "Tapped the golden eagle on a table during the meeting. Walker now reads that as a hint about what the party should be looking for. Walker thought he was bored at the time.",
+                "Previously operated out of a palace in Nyx, described as headquarters with a big red wall. Walker thinks the eagle's counterpart is there."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Was the training-grounds conversation a deal or only a shared interest in the book?"
+            ]
+        },
+        "Raskina": {
+            "existing": "Vecna's red-skinned tome, made from his sister and held by Grixto.",
+            "entityType": "ITEM",
+            "notes": [
+                "Walker says Vecna wants this book back and tried to pass it off as rat skin rather than his dead sister's skin.",
+                "Sylan asks whether her soul might still be in the book. No one answers."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the sister's soul still in the book?"
+            ]
+        },
+        "Valkyrie": {
+            "existing": "Vecna's sister, killed so her blood and skin could make the Raskina.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan raises the possibility that her soul is still in the skin book. The party does not resolve it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is her soul still in the Raskina?"
+            ]
+        },
+        "Golden eagle": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Object Walker pulled out while describing Vecna tapping it on a table.",
+                "Placed on the war-table map, it lights the map up. Walker thinks the party needs to find that table, or use this object on it.",
+                "Walker believes it is only half of a pair. He thinks the other half is at Vecna's palace headquarters in Nyx, the one with the big red wall.",
+                "Dana distinguishes it from the helm: Walker has not had the eagle the whole time."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Where in Nyx is the other half, and what is the capital or palace called?"
+            ]
+        },
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine by appointment once a comrade returns.",
+            "entityType": "ITEM",
+            "notes": [
+                "Dana says it is the only piece of his armor still remaining, and that Walker has been wearing it. Walker says that is because he grabbed it.",
+                "Dana thinks it may be the phylactery from her vision: an ordinary item that would pass under the nose. Walker counters that it is extraordinary and is worn over the nose.",
+                "Carlkin said he could identify it if they brought it, and was concerned Walker had been carrying it.",
+                "Dana's case for checking it: he contacted the party twice while Walker had the helm and did not have the eagle, and a worn item is the opposite of where people look for a phylactery.",
+                "The party agrees to rule it out with detect magic, arcane investigation, and possibly Carlkin. Sylan says Walker can have it back. Walker doubts the theory. It is not yet examined in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the helm the phylactery?",
+                "Does wearing it benefit or hinder Walker?"
+            ]
+        },
+        "Lich": {
+            "existing": "An unidentified lich whose phylactery may be hidden among his chess pieces.",
+            "entityType": "NPC",
+            "notes": [
+                "Finding this lich remains Sylan's stated priority alongside freeing his sister, before the party detours into the ghost investigation.",
+                "Dana treats the helm, the last remaining piece of his armor, as a phylactery candidate because he has contacted the party twice from wherever he is."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the helm his phylactery, and is that how he has been contacting them?"
+            ]
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker now reads Vecna tapping the golden eagle as the hint about what they are looking for.",
+                "Dana's vision described the target as an ordinary item that would go under the nose. She argues a phylactery is usually expected in a treasury, not worn, which is why the helm would be overlooked.",
+                "Proposed checks are detect magic, arcane investigation, and Carlkin identifying the helm. Ord also offers detect magic. No check is completed in this chunk."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is Walker's helm the phylactery?"
+            ]
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan recalls that Carlkin said he could identify the helm if they brought it to him.",
+                "Dana says Carlkin was concerned that Walker had been carrying the helm this whole time."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Nyx": {
+            "existing": "Nyx may hold hobgoblins who know where the lich is hiding.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Walker says Vecna was operating out of a palace there, a headquarters with a big red wall, and that the golden eagle's counterpart may be there.",
+                "The party tries and fails to name the capital. Sylan is teased as being from there and does not produce the name."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the capital called, and where is the palace with the big red wall?"
+            ]
+        },
+        "Dragon Rider Training Grounds": {
+            "existing": "Dragon Rider guild training grounds near the Lost Isles.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Walker calls them the old training grounds and says this is where he met Vecna and came away with the golden-eagle lead."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Knicks",
+            "likely": "Nyx",
+            "notes": "Walker says the other half might be back in Knicks, then clarifies he means Nyx."
+        },
+        {
+            "heard": "Next city",
+            "likely": "",
+            "notes": "Gerk's attempt at the Nyx capital. No established name in the notes."
+        },
+        {
+            "heard": "New next city",
+            "likely": "",
+            "notes": "Gerk's second attempt at the same capital."
+        },
+        {
+            "heard": "Allen Boo",
+            "likely": "",
+            "notes": "Walker landing on a map label while hunting the Nyx capital."
+        },
+        {
+            "heard": "alibu",
+            "likely": "",
+            "notes": "Sylan's attempt at the same place name, after rejecting another garbled guess."
+        },
+        {
+            "heard": "Make guard world",
+            "likely": "",
+            "notes": "Another failed Sylan guess at the Nyx capital, immediately discarded."
+        },
+        {
+            "heard": "seasman",
+            "likely": "",
+            "notes": "Sylan: they picked up the seasman and the party went back to it. Possibly the same word Dana then says as season. Could be chessman, given the lich's chess pieces, but that is only a guess."
+        },
+        {
+            "heard": "season",
+            "likely": "",
+            "notes": "Dana: the season was shattered, in pieces on the floor. Likely the same referent as seasman, not the time of year. Later 'this time of year' is ordinary speech."
+        },
+        {
+            "heard": "Vaku",
+            "likely": "Walker",
+            "notes": "Sylan: Vaku, we need to examine the helm. Addressed to Walker."
+        },
+        {
+            "heard": "Titan ring",
+            "likely": "",
+            "notes": "Ciri says this once during the helm argument. No clear referent."
+        },
+        {
+            "heard": "cove",
+            "likely": "cold",
+            "notes": "DM: abnormally cove for this time of year, during the wind and dark leaves."
+        },
+        {
+            "heard": "The glimpse",
+            "likely": "Glimmen",
+            "notes": "Ord's cut-off line after Sylan asks how close Glimmen is. Glemens and Glomin in that same exchange are the same name."
+        }
+    ],
+    "openQuestions": [
+        "Did Walker make a deal with Vecna, or only acknowledge a shared interest in recovering the sister-skin book?",
+        "Is Vecna's sister's soul still in that book?",
+        "What is the Nyx capital, and where is the palace with the big red wall that may hold the golden eagle's other half?",
+        "Is the helm the phylactery, and does it benefit or influence Walker?",
+        "What did Sylan mean by the seasman and Dana by the season that was shattered on the floor?"
+    ],
+    "newTerms": [
+        {
+            "name": "Golden eagle",
+            "notes": [
+                "Token Walker has from the Vecna meeting. It lights a war-table map when set on the table. Walker thinks it is one half of a pair, with the match at Vecna's Nyx palace."
+            ]
+        },
+        {
+            "name": "War table",
+            "notes": [
+                "Map table that lights up when the golden eagle is placed on it. Walker thinks they need to find it, or put this piece on the one they already know."
+            ]
+        }
+    ]
+}

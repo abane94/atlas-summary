@@ -43,6 +43,16 @@
         "Carlkin includes him when paper is needed and sets him a cup with the party.",
         "When Carlkin freezes at the Book of Vecna, Benji says there is a lot to take in and asks whether the dragon rider was from The Reach."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Benji is a warforged. The party already heard that explanation in The Reach, and he was with them when they finished the Sunder Chase, though he had not yet met Elrus and Araden together with the party. Inside Carlkin's lighthouse he pushes past Dana and goes straight to Araden, who perks up; he and Elrus then embrace. He and Carlkin have known each other since about the time the Sunder Chase started, and Benji claims he gave Carlkin the idea. He defends the other copper dragon when Carlkin calls that dragon a fool. The age-and-meditation remark between him and Elrus is inconsistent across accounts about which of them said the other looks old.",
+      "notes": [
+        "He is a warforged. The party already heard that explanation in The Reach, and he was with them when they finished the Sunder Chase. He had not yet met Elrus and Araden together with the party.",
+        "He is inside Carlkin's lighthouse, pushes past Dana, and goes straight to Araden, who perks up. He and Elrus embrace.",
+        "He and Carlkin have known each other since about the time the Sunder Chase started. Benji claims he gave Carlkin the idea. He defends the other copper dragon when Carlkin calls that dragon a fool.",
+        "The age-and-meditation remark between him and Elrus is inconsistent across accounts about which of them said the other looks old."
+      ]
     }
   ],
   "openQuestions": [
@@ -50,5 +60,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:21:05.572Z",
-  "updatedAt": "2026-09-29T18:24:03.780Z"
+  "updatedAt": "2026-10-21T20:02:29.671Z"
 }

@@ -1,0 +1,25 @@
+{
+  "name": "Interdimensional shackles",
+  "tags": [],
+  "slug": "Restraints Haldor hoped to use on the spirit problem, which Gerk does not have.",
+  "aliases": [],
+  "normalizedAliases": [
+    "interdimensional shackles"
+  ],
+  "filename": "items/interdimensional_shackles.md",
+  "description": "Interdimensional shackles are restraints Haldor hoped could be used on the spirit problem. Gerk was not carrying them, and nothing further is known about where a set is or how the shackles work.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "Haldor asked whether Gerk had the interdimensional shackles, hoping to use them on the spirit problem. Gerk did not. Haldor refused Gerk's offer to open a doorway to a set of shackles inside the city.",
+      "notes": [
+        "Haldor asks whether Gerk has them and hoped to use them on the spirit problem. Gerk does not. Haldor refuses Gerk's offer to open a doorway to a set of shackles inside the city."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:08:25.603Z",
+  "updatedAt": "2026-10-21T20:08:25.603Z"
+}

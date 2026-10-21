@@ -1,0 +1,31 @@
+{
+  "name": "Sylan's sword",
+  "tags": [
+    "artifact"
+  ],
+  "slug": "Sylan's sword opens a gray spirit field where he turns ghostly and can pull spirits toward himself.",
+  "aliases": [],
+  "normalizedAliases": [
+    "sylans sword"
+  ],
+  "filename": "items/sylan__s_sword.md",
+  "description": "Sylan's sword lets him travel to a gray spirit field, distinct from the Abyssal Plane, where he can see spirits. Inside it he becomes ghostly and translucent, so physical objects pass through him, and Gerk sees him as foggy. A prayer with Arcana 21 lets him pull specific spirits toward himself. He calls it a bad place to leave spirits. Haldor knows the sword as the one that looks large because Sylan is small.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "Before going down the vale, Sylan enters the sword and does not think that should be done in the open. The field is emptier than on earlier visits. The giant who had been inside was released, Sylan does not think he is holding anyone else, and distant figures can still be seen. The pull brings the raven emissary, who stops him from reclaiming spirits he had already sent on. Returning leaves rocks on his feet.",
+      "notes": [
+        "Sylan says the sword lets him travel to another place where he can see spirits. He enters it before going down the vale and does not think that should be done in the open.",
+        "Inside is a gray spirit field, distinct from the Abyssal Plane. Sylan becomes ghostly and translucent there, so physical objects pass through him. Gerk sees him as foggy. Returning leaves rocks on his feet.",
+        "It is emptier than on earlier visits. The giant who had been inside was released. Sylan does not think he is holding anyone else. Distant figures can still be seen, and a prayer with Arcana 21 lets him pull specific spirits toward himself.",
+        "He calls it a bad place to leave spirits. The pull brings the raven emissary, who stops him from reclaiming spirits he had already sent on.",
+        "Haldor knows the sword as the one that looks large because Sylan is small."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:05:03.935Z",
+  "updatedAt": "2026-10-21T20:05:03.935Z"
+}

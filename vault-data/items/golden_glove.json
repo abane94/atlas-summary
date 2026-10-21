@@ -1,0 +1,25 @@
+{
+  "name": "Golden glove",
+  "tags": [],
+  "slug": "Walker's golden glove, used to pull the helm from Carlkin's burning bag.",
+  "aliases": [],
+  "normalizedAliases": [
+    "golden glove"
+  ],
+  "filename": "items/golden_glove.md",
+  "description": "A golden glove worn by Walker.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "Walker uses the hand in the golden glove, together with his fire resistance, to pull the helm out of Carlkin's burning bag. The heat comes to basically nothing.",
+      "notes": [
+        "Walker wears a golden glove and uses that hand, together with his fire resistance, to pull the helm out of Carlkin's burning bag. The heat comes to basically nothing."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:06:50.278Z",
+  "updatedAt": "2026-10-21T20:06:50.278Z"
+}

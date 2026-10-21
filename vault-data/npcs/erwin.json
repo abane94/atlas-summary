@@ -1,0 +1,26 @@
+{
+  "name": "Erwin",
+  "tags": [],
+  "slug": "New Navel man who won 25 gold betting the Trigash beacon was the stronghold hooligans.",
+  "aliases": [],
+  "normalizedAliases": [
+    "erwin"
+  ],
+  "filename": "npcs/erwin.md",
+  "description": "Erwin was in New Navel when the Trigash beacon went up. He is not present for the later conversation with Haldor.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "Erwin bet Haldor 25 gold that the Trigash beacon was the stronghold hooligans rather than a random event. He saw a bunch of the party fly toward the forest with a new dragon in tow, then fly back about an hour later. Haldor lost and owes him the money.",
+      "notes": [
+        "In New Navel when the Trigash beacon went up. He bet Haldor 25 gold that it was the stronghold hooligans rather than a random event. Haldor lost and owes him the money.",
+        "He saw a bunch of the party fly toward the forest with a new dragon in tow, then fly back about an hour later. He is not present for the later conversation."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:07:59.204Z",
+  "updatedAt": "2026-10-21T20:07:59.204Z"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Wicker chicken",
+  "tags": [],
+  "slug": "A small basket-woven wicker chicken Gerk buys from Joanna for one gold.",
+  "aliases": [],
+  "normalizedAliases": [
+    "wicker chicken"
+  ],
+  "filename": "items/wicker_chicken.md",
+  "description": "A small basket-woven wicker chicken sold at Joanna's stall in the New Navel market for one gold. The same stall also offered a near life-size wicker goose.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "Gerk buys the small wicker chicken from Joanna for one gold and leaves the near life-size wicker goose. He carries the chicken to Haldor's porch and shows it to Sylan, who judges it well crafted. Gerk says it has uses and that he has not killed the wicker creatures yet.",
+      "notes": [
+        "A small basket-woven wicker chicken Gerk buys from Joanna in the New Navel market for one gold. He carries it to Haldor's porch and shows it to Sylan, who judges it well crafted.",
+        "Gerk says it has uses and that he has not killed the wicker creatures yet. The same stall had a near life-size wicker goose, which he does not take."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:07:05.855Z",
+  "updatedAt": "2026-10-21T20:07:05.855Z"
+}

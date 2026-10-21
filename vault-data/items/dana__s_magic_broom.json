@@ -19,10 +19,17 @@
         "Dana received it from the white dragon hoard. It is the magic item she wrote down for herself from that treasure.",
         "Its flight is 50 feet. She leaves the tower on it toward the beacon and is overtaken by Glimmen. Afterward she stomps through the group smacking people with it."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "The broom cannot take a passenger. Dana treats that limit as a weight limit, or as a weight limit on speed. Ciri cannot ride it to the lighthouse.",
+      "notes": [
+        "It cannot take a passenger. Dana treats the limit as a weight limit, or a weight limit on speed. Ciri cannot ride it to the lighthouse."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-10-19T20:39:35.409Z",
-  "updatedAt": "2026-10-19T20:51:02.629Z"
+  "updatedAt": "2026-10-21T20:01:25.940Z"
 }

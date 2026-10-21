@@ -1,0 +1,28 @@
+{
+  "name": "Soul identifier",
+  "tags": [
+    "alchemy"
+  ],
+  "slug": "Carlkin's reagent for a finer reading of an object's spiritual residue.",
+  "aliases": [],
+  "normalizedAliases": [
+    "soul identifier"
+  ],
+  "filename": "items/soul_identifier.md",
+  "description": "A reagent Carlkin mixes in a mortar with a brackish, pond-like liquid and shakes until clear in a two-to-three-ounce vial. He says it is similar to his soul-magic bag and gives a finer reading of what an object is. A drop beads and sticks where it lands, and under a magnifying glass it shows spiritual residue.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "Carlkin mixed the reagent, then put one drop on the helm. The drop beaded and stuck where it landed instead of running off. Read with a magnifying glass, it showed spiritual residue.",
+      "notes": [
+        "A reagent Carlkin mixes in a mortar, combines with a brackish pond-like liquid, and shakes until clear in a two-to-three-ounce vial.",
+        "He says it is similar to his soul-magic bag and gives a finer reading of what an object is. One drop on the helm beads and sticks where it lands instead of running off. Read with a magnifying glass, it shows spiritual residue."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:08:55.366Z",
+  "updatedAt": "2026-10-21T20:08:55.366Z"
+}

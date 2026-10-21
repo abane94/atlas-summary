@@ -32,10 +32,19 @@
         "Quaylin says Walker can borrow cash directly from the Haven Hold dragon without racing.",
         "The party recalls a previous dispel magic attempt during the Sunder Chase that went badly."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Carlkin calls Sunder Chase a death race. He and Benji trace their friendship, and the argument over who had the idea, to when it first started; Benji claims he gave Carlkin the idea. The party won it, and Carlkin says he gave them some guidance. Ord's contribution was dispelling magic on another ship. Typical tactics are cannons, faster sails, or burning ships; a dragon simply flying faster than a ship is the other route. Riding Araden is now considered cheating and would disqualify a rider, since Araden flies faster than an average ship. Another copper dragon, still around and distinct from Araden, is now a hoard dragon for the race.",
+      "notes": [
+        "Carlkin calls it a death race. Carlkin and Benji trace their friendship, and the argument over who had the idea, to when it first started. Benji claims he gave Carlkin the idea.",
+        "The party won it. Carlkin says he gave them some guidance. Ord's contribution was dispelling magic on another ship. Typical tactics are cannons, faster sails, or burning ships. A dragon simply flying faster than a ship is the other route.",
+        "Riding Araden is now considered cheating and would disqualify a rider. Araden flies faster than an average ship. Another copper dragon, still around and distinct from Araden, is now a hoard dragon for the race."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:44:42.012Z",
-  "updatedAt": "2026-10-19T20:51:02.626Z"
+  "updatedAt": "2026-10-21T20:02:42.812Z"
 }

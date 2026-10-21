@@ -1,0 +1,27 @@
+{
+  "name": "Golden fire",
+  "tags": [
+    "dragon-rider"
+  ],
+  "slug": "The life force of Walker's gold dragon rider bond.",
+  "aliases": [],
+  "normalizedAliases": [
+    "golden fire"
+  ],
+  "filename": "concepts/golden_fire.md",
+  "description": "Walker's name for the magical connection and life force of his gold dragon rider bond.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "The emperor recognized the golden fire of Walker's gold dragon rider bond as Walker's life force, and said that energy is as significant to him as it is to Walker.",
+      "notes": [
+        "Walker's name for the magical connection and life force of his gold dragon rider bond. The emperor recognized it as that life force and said the energy is as significant to him as it is to Walker."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:09:13.481Z",
+  "updatedAt": "2026-10-21T20:09:13.481Z"
+}

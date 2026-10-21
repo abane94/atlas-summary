@@ -1,6 +1,8 @@
 {
   "name": "Hunched eagle marker",
-  "tags": [],
+  "tags": [
+    "artifact"
+  ],
   "slug": "High-ranking hunched eagle Elrus calls a hobgoblin legion standard.",
   "aliases": [],
   "normalizedAliases": [
@@ -17,10 +19,20 @@
         "The high-ranking piece Vecna was tapping: a hunched eagle on a decorative base, not one of the poker-chip tokens. He left it on the table. Walker was still holding it, pocketed it, and later set it on Elrus's square table.",
         "Elrus calls it a hobgoblin legion standard and says it has nothing to do with a mountain or a waterfall. Walker guesses it might be a tuning fork. In a recalled scene, Grixto pulls a different hunched eagle from a table and leaves once the plan is sorted."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Walker calls the marker the golden eagle. Vecna was tapping it on a table before Walker produced it; Walker had taken the tapping for boredom and now reads it as a hint. Placed on the war-table map, the piece lights the map, and Walker thinks the party must find that table or use this object on it. He believes the eagle is only half of a pair, with the counterpart at Vecna's former palace in Nyx, the headquarters with the big red wall. Dana distinguishes it from the helm: Walker has not had the eagle the whole time, while he has worn the helm continuously.",
+      "notes": [
+        "Walker calls it the golden eagle. Vecna was tapping it on a table before Walker produced it. Walker thought Vecna was bored and now reads the tapping as a hint.",
+        "Placed on the war-table map, it lights the map. Walker thinks the party needs to find that table, or use this object on it.",
+        "Walker believes this piece is only half of a pair. He thinks the counterpart is at Vecna's former palace in Nyx, the headquarters with the big red wall.",
+        "Dana distinguishes it from the helm: Walker has not had the eagle the whole time, while he has been wearing the helm continuously."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-10-06T21:13:01.953Z",
-  "updatedAt": "2026-10-06T21:13:01.953Z"
+  "updatedAt": "2026-10-21T19:53:13.988Z"
 }

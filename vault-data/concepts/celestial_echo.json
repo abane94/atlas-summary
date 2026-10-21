@@ -1,0 +1,30 @@
+{
+  "name": "Celestial echo",
+  "tags": [
+    "people"
+  ],
+  "slug": "New Navel's dead who return as celestial forms of themselves, not ghosts or undead.",
+  "aliases": [],
+  "normalizedAliases": [
+    "celestial echo"
+  ],
+  "filename": "concepts/celestial_echo.md",
+  "description": "Haldor's name for people of New Navel who died and chose to come back as celestial forms of their former selves rather than passing on. He insists echoes are not ghosts and not undead; spirits are what fall under undead, and he says the echo state is why the city is not full of undead. He connects the choice, as a secondhand and shaky account, to the escape from Neville when it was an unwitting prison, and only uncertainly to a sea-associated elder god.",
+  "type": "CONCEPT",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "Haldor set out this account of the returned dead and noted that Ledzbika, dead about a month, did not come back as an echo, which breaks the pattern. He treated the tie to the escape from Neville and a sea-associated elder god as secondhand and uncertain.",
+      "notes": [
+        "Haldor's name for people of New Navel who died and chose to come back as celestial forms of their former selves, rather than passing on normally.",
+        "He insists echoes are not ghosts and not undead. Spirits fall under undead. He says the echo state is why the city is not full of undead.",
+        "He connects the choice to the escape from Neville, when it was an unwitting prison, and only uncertainly to a sea-associated elder god. He presents the account as secondhand and shaky.",
+        "Ledzbika, dead about a month, did not return as an echo, which breaks the pattern."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:08:40.997Z",
+  "updatedAt": "2026-10-21T20:08:40.997Z"
+}

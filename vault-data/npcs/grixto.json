@@ -1,7 +1,8 @@
 {
   "name": "Grixto",
   "tags": [
-    "antagonist"
+    "antagonist",
+    "title"
   ],
   "slug": "Grixto is a mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
   "aliases": [],
@@ -63,6 +64,19 @@
         "The Al Kurin is already taken to have aided his lichdom. With the convergence and the Raskina, Elrus calls the set a deadly combination. He also left rituals for Walker to unweave.",
         "The illusion table is Elrus's look at how Grixto planned like a military genius. Walker only maybe remembers a command-center table where they first met him."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Sylan still lists finding him among the priorities, with freeing Sylan's sister, before the party turns to the ghost investigation. Walker knows him as the emperor, a hobgoblin in purple robes: Walker killed him, then spoke with him after taking up the helm. He seemed different, and the talk was calm and respectful. He called the golden fire of Walker's gold dragon rider bond Walker's life force, equally significant to him, and said he wants people to rule as they did before the Voyager gods. Walker names him as a possible influence on Walker or Glimmen; the party says he has contacted them twice, and Dana suspects the helm Walker carried the whole time. Carlkin treats that helm as what the lich wore when he died, with only a tiny imprint left, and says the helm itself is not the phylactery. Sylan warns that if he senses the phylactery destroyed he can make another before they find him. Walker wants a phylactery destroyed only with eyes on its owner, and hopes the helm's soul fragment can track him. That question is unanswered, and Sylan is not at the lighthouse to help.",
+      "notes": [
+        "Finding him remains one of Sylan's stated priorities, alongside freeing Sylan's sister, before the party detours into the ghost investigation.",
+        "Walker knows him as the emperor: a hobgoblin in purple robes. Walker killed him, then spoke with him after picking up the helm. He seemed different. The conversation was calm and respectful, not frightening.",
+        "He called the golden fire of Walker's gold dragon rider bond Walker's life force, and said that energy is as significant to him as it is to Walker. He wants people to rule as they did before the Voyager gods.",
+        "Walker names him as the one who might be influencing Walker or Glimmen. The party says he has contacted them twice from wherever he is. Dana suspected the helm, which Walker carried the whole time, could explain that contact.",
+        "Carlkin treats the helm as the item this lich was wearing when he died. Only a tiny imprint remains. The helm itself is not the phylactery.",
+        "Sylan warns that if he senses his phylactery destroyed he can make another before they find him. Walker wants a phylactery destroyed only when they have eyes on its owner.",
+        "Walker hopes the helm's soul fragment can be used to track him. That question is unanswered, and Sylan is not at the lighthouse to help."
+      ]
     }
   ],
   "openQuestions": [
@@ -76,5 +90,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:10:14.833Z",
-  "updatedAt": "2026-10-06T21:06:27.693Z"
+  "updatedAt": "2026-10-21T19:59:25.765Z"
 }

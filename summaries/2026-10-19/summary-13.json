@@ -1,0 +1,346 @@
+{
+    "plotSections": [
+        {
+            "title": "Finding Sylan after the forest",
+            "bullets": [
+                "Haldor, a New Navel local enforcing town rules, drops a cutpurse and declines to investigate a pentacle-spewing portal in someone's house so he can deal with spirit-sucking.",
+                "Gerk recaps the day while they walk: they spoke with Carlkin, he practiced doorways in a safe spot away from people, then Sylan worked a hoard lantern-staff, blinded Gerk, and drew spirits into himself. Those spirits want to be sent home, and Sylan says bad spirits are still in town.",
+                "Haldor places that beacon in Trigash Forest earlier the same day, around mid-morning. He owes Erwin 25 gold: Haldor bet the beacon was random, Erwin that it was hooligans who flew that way with a new dragon. The flyers reached town about forty-five minutes before this talk; the forest is a couple of miles off. Gerk says he walked back.",
+                "Sucking people up is against town rules. Haldor hoped Gerk had interdimensional shackles; Gerk does not. Gerk offers to open a doorway to shackles, and Haldor forbids interdimensional doors inside the city. A posted change now bans extradimensional and interdimensional doors within city limits, sends magic practice to the forest, and also bans spirit-sucking. They walk straight to Sylan."
+            ]
+        },
+        {
+            "title": "Six New Navel dead and Ledzbika",
+            "bullets": [
+                "Sylan tells Haldor he serves the Raven Queen and is tasked with finding people who escaped their end. He believes he accidentally took six people from New Navel. Ord's lantern showed the spirits surrounding Sylan, which Sylan treats as the reason they could be sent on. The party can already see spirits; the lantern let Ord see the ones following Sylan.",
+                "Haldor has had no recent missing-persons reports. From memory: one spirit disliked the party and wanted to be given back to Sylan; a woman was frightened, wanted help, and did not want to go back; after they were struck they became partly tangible and started changing. Sylan remembers an older woman most vividly, and an elderly high elf man, Ledzbika, who named his neighbor Claire Belle. A name like Hofford is only half-remembered.",
+                "Haldor knows Ledzbika as an elderly man who died about a month ago of natural causes and often ranted that his neighbor was stealing from him. Ledzbika did not come back as a ghost, which Haldor calls the puzzle. In the last six or seven months the town has had a handful of deaths, maybe as many as a dozen, plus uncounted travelers. He calls New Navel a frontier town."
+            ]
+        },
+        {
+            "title": "Echoes, undead, and the lantern",
+            "bullets": [
+                "Haldor says the town's returned dead are echoes, celestial copies of who they were, and that echoes, undead, and spirits are different. A portal into another dimension fits these spirits not being in a corporeal form. Sylan agrees they were not corporeal.",
+                "Summoning undead is against town rules. Haldor tells them to keep the lantern hidden or he will confiscate it. Sylan agrees to keep it wrapped, and says the real worry is either that he has failed his duty to find lost souls or that New Navel traps souls.",
+                "Haldor says the echoes were residents or travelers of New Navel when it was still Neville. People escaped without realizing it was a prison. The dead had a choice to die normally or return as a celestial echo. He only half-remembers the cause: an elder god tied to the sea, and some consequence of using that being. He says that arrangement is why the city is not full of undead. Ledzbika staying dead is the exception he cannot explain."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Haldor sets aside a cutpurse and a pentacle-spewing portal in someone's house to deal with spirits.",
+        "Gerk recaps Carlkin, doorway practice away from people, then the lantern: Sylan blinded him, spirits entered Sylan, they asked to go home, and Sylan says bad spirits remain in town.",
+        "Haldor identifies the beacon as earlier today in Trigash Forest and says he owes Erwin 25 gold over a bet that it was hooligans with a new dragon rather than a random event.",
+        "Gerk says he walked; Haldor says the flyers arrived about forty-five minutes ago and the forest is a couple of miles away, then takes Gerk to find Sylan.",
+        "Haldor says sucking people up is illegal, asks for interdimensional shackles Gerk does not have, and rejects opening a doorway to fetch them inside the city.",
+        "Haldor reads a posted change banning extradimensional and interdimensional doors in the city, restricting magic practice to the forest, and banning spirit-sucking.",
+        "Haldor greets Sylan. Sylan says he serves the Raven Queen, seeks people who escaped their end, and accidentally gathered about six New Navel folk after Ord's lantern revealed the spirits around him.",
+        "Haldor reports no recent missing persons. Recollection adds a hostile spirit who wanted to be given back to Sylan, a frightened woman who did not want to go back, and spirits turning partly tangible when struck.",
+        "Ledzbika is identified as an elderly high elf man who accused neighbor Claire Belle. Haldor says Ledzbika died about a month ago of natural causes and did not return as a ghost.",
+        "Haldor separates celestial echoes from undead and spirits, orders the lantern kept hidden or confiscated, and explains Neville as an unwitting prison whose dead could return as celestial echoes, possibly because of a sea-related elder god. Recent deaths number a handful to about a dozen, plus travelers."
+    ],
+    "entities": {
+        "Haldor": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "New Navel local who enforces rules on doors, undead, and spirit-sucking. He was after a cutpurse, then walked Gerk to Sylan and shook Sylan's hand.",
+                "He will not investigate a pentacle-spewing portal opened in someone's house.",
+                "He bet Erwin 25 gold that the Trigash beacon was a random event. Erwin said it was hooligans flying that way with a new dragon, and Haldor now owes the money. He saw the group return from the forest about an hour later.",
+                "He hoped Gerk carried interdimensional shackles and forbids interdimensional doors inside the city. He cites a posted change banning extradimensional and interdimensional doors within city limits.",
+                "He remembers Ledzbika's rants, his death about a month ago from natural causes, and that Ledzbika did not return as a ghost. He has no recent missing-persons cases and estimates a handful to maybe a dozen deaths in six or seven months, plus travelers.",
+                "He calls returned town dead celestial echoes, distinct from undead and spirits, and says summoning undead is illegal. He will confiscate the lantern if it is not kept hidden.",
+                "His account of the echo choice is secondhand and shaky: escape from Neville when it was a prison, a choice at death to pass on or return as a celestial echo, loosely tied to a sea-associated elder god."
+            ],
+            "titles": [],
+            "personality": [
+                "Casual and rule-bound. He says he knows nothing about gods and does not trust the echo story as a sober account."
+            ],
+            "quotesThemes": [
+                "Extra-dimensional and interdimensional doors are now prohibited within the city limits.",
+                "Spirit sucking is not permitted, and summoning undead is against town rules.",
+                "They are not ghosts here; they are echoes. Echoes are celestials, undead are undead, and spirits fall under undead.",
+                "We escaped Neville not realizing we were in a prison of sorts."
+            ],
+            "openQuestions": []
+        },
+        "Erwin": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Not present. He bet Haldor 25 gold that the beacon over Trigash was hooligans, not a random event, and said he saw them fly that way with a new dragon in tow. Haldor owes him the bet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper with a cautious bond to the Raven Queen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He tells Haldor he is a cleric of the Raven Queen and one of her servants, tasked with finding people who escaped their end.",
+                "While the lantern was in use he took in spirits, about six from New Navel, and treated sending them on as his duty. He can describe them better than he can name them. An older woman is his clearest memory; Ledzbika, an elderly high elf man, is the one they identified. Hofford may have been a name and may not.",
+                "He says the party can already see spirits, and that Ord's lantern specifically revealed the ones following him.",
+                "He agrees to keep the lantern under wraps. He frames the problem as either his failure to find lost souls or New Navel trapping souls."
+            ],
+            "titles": [
+                "Servant of the Raven Queen"
+            ],
+            "personality": [
+                "Treats sending on the unquiet dead as an obligation, including spirits taken by accident."
+            ],
+            "quotesThemes": [
+                "I am one of her servants, and I have been tasked with finding people that have escaped their end.",
+                "Either I have not been fulfilling my duty, or New Navel has a way of trapping people's souls."
+            ],
+            "openQuestions": [
+                "Has Sylan failed to find lost souls, or does New Navel trap souls that should have passed on?"
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He practiced interdimensional doors in a safe place away from people, then was blinded by Sylan while spirits entered Sylan.",
+                "He does not have interdimensional shackles. He suggests opening a doorway to them and is told not to open interdimensional doors in the city.",
+                "He walked back from Trigash rather than flying, and says he will tell Sylan to stop sucking spirits up."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He was working the lantern in Trigash Forest. It let him see the spirits surrounding Sylan.",
+                "He remembers the first spirit disliking the party and wanting to be given back to Sylan, and a woman who was scared, wanted help, and did not want to go back. When the spirits were struck they became partly tangible and started changing.",
+                "He recognizes Ledzbika among them."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ledzbika": {
+            "existing": "Elderly half-elf spirit pulled from rest, trying to return to his abode.",
+            "entityType": "NPC",
+            "notes": [
+                "Identified in this talk as one of the spirits taken into Sylan: an elderly high elf man. Sylan remembers him saying his neighbor was Claire Belle.",
+                "Haldor remembers the rants, says Ledzbika died about a month ago of natural causes, and says the neighbor was trying to steal his belongings.",
+                "Haldor says Ledzbika did not return as a ghost or echo, unlike the local pattern, and calls that the puzzle."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Why did Ledzbika not return as a celestial echo after dying about a month ago?"
+            ]
+        },
+        "New Navel": {
+            "existing": "Familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
+            "entityType": "LOCATION",
+            "notes": [
+                "A posted change prohibits extradimensional and interdimensional doors inside city limits. Magic practice is directed to the forest. Spirit-sucking and summoning undead are forbidden, and the lantern will be confiscated if not kept hidden.",
+                "No recent missing persons. Deaths over the last six or seven months are a handful, maybe a dozen, plus travelers. Haldor calls it a frontier town on a rough road.",
+                "When it was Neville, residents and travelers escaped without realizing it was a prison. Those who died could pass on normally or return as celestial echoes of themselves. Haldor ties that loosely to a sea-associated elder god and to consequences of using that being, and says this is why undead are not rampant in the city.",
+                "The Trigash beacon was visible from town, and locals bet on its cause. Flying arrivals with a dragon reached town well ahead of a walking trip of a couple of miles."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Does New Navel trap souls so they cannot pass on?"
+            ]
+        },
+        "Fused lantern-staff": {
+            "existing": "Fused lantern and staff that reveals the Ethereal Plane and draws nearby spirits when the active staff is held.",
+            "entityType": "ITEM",
+            "notes": [
+                "Used in Trigash Forest. Sylan says it let Ord see the spirits following Sylan, even though the party can already see spirits, and that this was so those spirits could move on.",
+                "Haldor treats it as a magic item for seeing spirits and orders it kept under wraps, or he will confiscate it, because summoning undead is illegal in town."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glade spirits": {
+            "existing": "Ethereal undead spirits drawn to the lantern and pulled into Sylan.",
+            "entityType": "OTHER",
+            "otherEntityType": "spirits",
+            "notes": [
+                "About six are from New Navel. They want to go home, and Sylan says he can send them, and that bad spirits in town still need to be sent on.",
+                "One disliked the party and wanted to be given back to Sylan. A woman was scared, wanted help, and did not want to go back. An older woman is Sylan's strongest image. Ledzbika is identified among them. They were not corporeal. When struck they became partly tangible and started changing.",
+                "Haldor had no matching missing-persons reports. He classifies town echoes as celestial and these spirits as closer to undead, which is why the lantern and the sucking are illegal."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Celestial echo": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Haldor's name for people of New Navel who died and chose to come back as celestial forms of their former selves, rather than dying normally.",
+                "He insists echoes are not ghosts and not undead. Spirits fall under undead. The echo state is why the city is not full of undead.",
+                "He connects the choice to the escape from Neville as an unwitting prison, and only uncertainly to a sea-associated elder god.",
+                "Ledzbika, dead about a month, did not return as an echo, which breaks the pattern."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "When they died they had a choice: die normally, or come back as a celestial echo of themselves."
+            ],
+            "openQuestions": []
+        },
+        "Interdimensional shackles": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Haldor asks if Gerk has them and wanted them for the spirit problem. Gerk does not. Opening a doorway to retrieve them is refused inside the city."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Beacon of celestial darkness": {
+            "existing": "A column of felt darkness that rises while the active staff is held.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Visible from New Navel over Trigash Forest earlier the same day. Haldor and Erwin bet 25 gold on whether it was a random event or hooligans with a new dragon. The group was seen leaving the forest about an hour later."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Raven Queen": {
+            "existing": "Elder god of death, also called Nira, who once walked among mortals and can take a harpy-like form.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan publicly claims to be her cleric and servant, assigned to find people who escaped their end and send them on."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Trigash Forest": {
+            "existing": "Forest outskirts where the session ends, with a beacon and spirits that stay back.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Confirmed as the place of the beacon, the blinding, and the spirits entering Sylan, a couple of miles from town. Haldor tells Gerk to practice doorway magic out there because doors are banned in the city."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Aldor",
+            "likely": "Haldor",
+            "notes": "Same speaker later called Haldor, walking with Gerk to Sylan."
+        },
+        {
+            "heard": "strong old hooligans",
+            "likely": "stronghold hooligans",
+            "notes": "Erwin's label for the group that flew toward Trigash with a new dragon. May mean the party."
+        },
+        {
+            "heard": "spirit jug",
+            "likely": "spirit jar",
+            "notes": "Haldor's term for spirits being sucked up; in context they went into Sylan."
+        },
+        {
+            "heard": "lan lantern flies",
+            "likely": "lantern",
+            "notes": "Gerk describing the hoard staff Sylan practiced with."
+        },
+        {
+            "heard": "Horde",
+            "likely": "hoard",
+            "notes": "The staff bought from the dragon hoard."
+        },
+        {
+            "heard": "intermanagement doors",
+            "likely": "interdimensional doors",
+            "notes": "Haldor forbidding them inside the city."
+        },
+        {
+            "heard": "international door",
+            "likely": "interdimensional door",
+            "notes": "Gerk offering to open one to reach shackles."
+        },
+        {
+            "heard": "cascade",
+            "likely": "confiscate",
+            "notes": "What Haldor will do to the lantern if it is not kept hidden."
+        },
+        {
+            "heard": "Hofford",
+            "likely": "",
+            "notes": "Sylan thinks one spirit might have had this name and immediately doubts it was worth remembering."
+        },
+        {
+            "heard": "taquil",
+            "likely": "",
+            "notes": "Haldor's uncertain name for a sea-associated elder god behind the echo choice."
+        },
+        {
+            "heard": "Non coleid",
+            "likely": "",
+            "notes": "Garbled phrase in the same sentence as the sea god and the echo explanation."
+        },
+        {
+            "heard": "faithful eggs",
+            "likely": "",
+            "notes": "Follows immediately after Non coleid in Haldor's explanation of the echoes."
+        },
+        {
+            "heard": "Commodore and two",
+            "likely": "",
+            "notes": "Garbled description of New Navel when it was still called Neville, before the party arrived."
+        },
+        {
+            "heard": "pentacle spewing portal",
+            "likely": "",
+            "notes": "A portal in someone's house that Haldor says he will not investigate. Referent is unclear."
+        }
+    ],
+    "openQuestions": [
+        "Has Sylan failed his duty to find people who escaped their end, or does New Navel trap souls?",
+        "Why did Ledzbika die about a month ago and not return as a celestial echo?"
+    ],
+    "newTerms": [
+        {
+            "name": "Haldor",
+            "notes": [
+                "New Navel local enforcing the bans on interdimensional doors, spirit-sucking, and summoning undead. He walks Gerk to Sylan and explains echoes."
+            ]
+        },
+        {
+            "name": "Erwin",
+            "notes": [
+                "Bettor who called the Trigash beacon hooligans with a new dragon and is owed 25 gold by Haldor."
+            ]
+        },
+        {
+            "name": "Celestial echo",
+            "notes": [
+                "A former resident or traveler of Neville who, at death, returned as a celestial copy of themselves instead of passing on. Distinct from ghosts, undead, and spirits."
+            ]
+        },
+        {
+            "name": "Interdimensional shackles",
+            "notes": [
+                "Restraints Haldor hoped Gerk was carrying for the spirit incident. Gerk does not have them."
+            ]
+        }
+    ]
+}

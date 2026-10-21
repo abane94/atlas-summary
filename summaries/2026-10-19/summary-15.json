@@ -1,0 +1,374 @@
+{
+    "plotSections": [
+        {
+            "title": "Haldor sends them on",
+            "bullets": [
+                "On his porch in New Navel, sheriff Haldor tells Sylan the mines across the lake are reopening, competition is up, and all sorts of people are passing through.",
+                "Sylan decides the celestials are not part of what he is dealing with now. He may look into them later, but says he has no time and thinks his questions are answered.",
+                "Haldor still wants to know how long they will stay. Sylan says they will have dinner, make plans, and leave; they are on a mission and he does not expect them to linger. Haldor says nothing new has come up and that Gerk can explain.",
+                "Haldor asks them to keep Gerk's dragon friend away from the ghosts, not to open doors in town (friends may open ordinary doors; they should just walk in), and to keep the commotion outside town. He refuses Gerk's windows-only joke and heads back to the porch."
+            ]
+        },
+        {
+            "title": "Town errands",
+            "bullets": [
+                "Gerk shows Sylan a wicker chicken he bought for one gold. Sylan thinks it is well made.",
+                "Gerk also has something else he has not killed yet, likely the geese. Sylan offers to buy them instead.",
+                "Sylan plans to take the long way to Shades and Trades to be sure he did not miss anyone. Gerk says Haldor told him to stay out of town, and thinks Carlkin wants them arrested. Sylan jokes that Gerk might enjoy court, then walks off.",
+                "The table pauses that scene and returns to Carlkin's lighthouse."
+            ]
+        },
+        {
+            "title": "The helm is soul-bound, not a phylactery",
+            "bullets": [
+                "Carlkin has been measuring the helm and grinding reagents in a mortar. Mixed with a brackish, pond-water liquid and shaken, they clear into a two-to-three-ounce vial he calls a soul identifier, akin to the bag test but meant to read the item more closely.",
+                "A drop pools and sticks on the helm instead of running off. Through a magnifying glass he finds spiritual residue. He says a phylactery would have burst into flames and provoked a stronger magical reaction.",
+                "Walker confirms that after he killed the emperor he spoke with him through the helm. The talk was calm and respectful. The emperor was a hobgoblin in purple robes, different from before, called Walker's golden fire his life force, and wants people to rule as they did before the Voyager gods.",
+                "Carlkin checks Walker's left arm, cough, and pulse. The helm carries a soul memory. Walker has a slight, not-yet-parasitic link from having interacted with the bound soul, and is not highly possessed.",
+                "The lich died wearing the helm, leaving a tiny fragment of being, memory, or imprint. That imprint burned Carlkin's bag, but slowly. Walker puts the helm back on.",
+                "Carlkin warns that queasiness, numb earlobes, a tingling left armpit, or voices other than Walker's own, his inner voice, or Glimmen would mean the possession is taking hold. Keep the helm from light-domain clerics of high regard and from feeble-minded wearers. Gerk must never put it on.",
+                "Walker suggests using the fragment like an address to track the emperor, and looks for a soul-worker he thinks came with them. Sylan is not there; the scene cuts off as that is being clarified."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Haldor tells Sylan the lakeside mines are reopening and traffic through New Navel is picking up.",
+        "Sylan sets the celestials aside for lack of time.",
+        "Haldor asks how long the party will stay. Sylan says dinner, then plans to leave soon because they are on a mission.",
+        "Haldor tells them to keep the dragon friend from the ghosts, open no doors in town, and keep commotion outside town, then returns to his porch.",
+        "Gerk shows Sylan the wicker chicken he bought for one gold. Sylan compliments it and offers to buy the creatures Gerk has not killed yet.",
+        "Sylan starts for Shades and Trades the long way. Gerk says Haldor barred him from town and that Carlkin may want them arrested. Sylan jokes about court and walks off.",
+        "The scene shifts to Carlkin's lighthouse, where Carlkin finishes a clear soul-identifier vial and drips it on the helm. The drop sticks.",
+        "Carlkin finds spiritual residue and asks about Walker's contact with the emperor. Walker describes a calm talk with the purple-robed hobgoblin emperor, the golden fire as his life force, and rule as it was before the Voyager gods.",
+        "After a cough and pulse check, Carlkin tells Dana and Ord that Walker has a slight, non-parasitic connection to a soul memory on the helm.",
+        "Walker puts the helm back on. Carlkin forbids Gerk from ever wearing it and lists escalation signs and people who must not wear it.",
+        "Carlkin explains the lich died in the helm and left a tiny imprint, which is why the bag burned slowly.",
+        "Walker proposes using the fragment to track the emperor and asks after the soul-worker. Sylan is not with them, and the line cuts off."
+    ],
+    "entities": {
+        "Haldor": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Sheriff of New Navel. This scene finds him seeing Sylan and Gerk off from his porch.",
+                "Says the mines across the lake are opening again, with greater competition and more people coming and going.",
+                "Wants to know how long the party will remain. Told that they will eat, plan, and leave soon on a mission, and that nothing further is needed from him.",
+                "Parts on good terms if they keep Gerk's dragon friend away from the ghosts, open no doors in town, and keep commotion outside town.",
+                "Gerk understands him as having ordered Gerk to stay out of town."
+            ],
+            "titles": [
+                "Sheriff of New Navel"
+            ],
+            "personality": [
+                "Relaxed and familiar with Gerk, and firm about doors, ghosts, and keeping trouble out of town."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "New Navel is a familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
+            "entityType": "Location",
+            "notes": [
+                "Mines on the other side of the lake are starting to open again, bringing competition and more travelers through town.",
+                "Haldor wants magical doors kept out of town and commotion kept outside it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Glimmen is Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Haldor tells Gerk to keep his dragon friend away from the ghosts in town."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Gerk is a half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Bought a wicker chicken in town for one gold and showed it to Sylan.",
+                "Jokes that he will use only windows after Haldor bans doors. Haldor shuts the joke down.",
+                "Says Haldor told him to stay out of town and to keep his dragon friend away from the ghosts.",
+                "Thinks Carlkin wants the party arrested. Has not yet killed the other creatures he mentioned, and Sylan offers to buy them.",
+                "Carlkin decides Gerk must never wear the emperor's helm, because a minor soul fragment would be dangerous in a feeble-minded wearer and because the helm is the emperor's."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Answers the door ban with windows only."
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Sylan is a half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Tells Haldor the celestials can wait, and that the party will have dinner and then leave on a mission.",
+                "Plans to walk the long way to Shades and Trades to make sure he missed no one.",
+                "Agrees Gerk should not wear the helm. He is not at the lighthouse when Walker looks for a soul-worker to help track the emperor."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Shades and Trades": {
+            "existing": "Where Sylan found the staff later fused to Ord's lantern.",
+            "entityType": "Location",
+            "notes": [
+                "Sylan plans to reach it by the long way through town so he does not miss anyone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Wicker chicken": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Small woven chicken Gerk bought from a town vendor for one gold. Sylan judges it well crafted."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Carlkin is a turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "At his lighthouse he measures the helm, grinds reagents, and mixes them with a brackish liquid that shakes clear. He calls the result a soul identifier, a finer reading than the bag test.",
+                "Rules the helm is not a phylactery: a phylactery would have burst into flames and provoked a stronger magical reaction.",
+                "The soul identifier beads and sticks on the helm. He reads spiritual residue through a magnifying glass.",
+                "Confirms he is a tortle while checking Walker's arm, cough, and pulse.",
+                "Diagnoses a soul memory and a slight, non-parasitic interaction, not a heavy possession.",
+                "Forbids Gerk from wearing the helm. Warns Walker to watch for queasiness, numb earlobes, tingling in the left armpit, and alien voices. Says light-domain clerics of high regard and feeble-minded wearers are especially unsafe.",
+                "Gerk believes Carlkin wants the party arrested. That claim is not tested in this scene."
+            ],
+            "titles": [],
+            "personality": [
+                "Clinical and curious, then quick to cancel the experiment once he accepts the helm belongs to the emperor."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Soul identifier": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Clear reagent Carlkin mixes in a two-to-three-ounce vial, comparable to his bag test, used to read what an object is.",
+                "A drop set on the helm stays beaded where it lands instead of running off. Read with a magnifying glass, it shows spiritual residue."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine by appointment once a comrade returns.",
+            "entityType": "ITEM",
+            "notes": [
+                "Not a phylactery. It is soul-bound: the lich died wearing it, and a very small fragment of his being, remembrance, or imprint remains.",
+                "That imprint is why it burned Carlkin's bag, and why it did so slowly.",
+                "Walker spoke with the emperor after picking it up. Carlkin finds the contact has caused slight possession that is not yet parasitic.",
+                "Walker puts it back on and argues it is safest there. He hopes the fragment can be used to track the emperor.",
+                "Escalation signs: queasiness, numb earlobes, tingling left armpit, or voices that are not Walker's, his own inner voice, or Glimmen.",
+                "Dangerous for light-domain clerics of high regard and for feeble-minded wearers. Gerk is not to wear it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Walker asks whether the soul fragment can be used to track the emperor. The chunk ends before an answer."
+            ]
+        },
+        "Grixto": {
+            "existing": "Grixto is a mobile antagonist proxy seeking Al Kurin and hiding his phylactery among mundane possessions.",
+            "entityType": "NPC",
+            "notes": [
+                "Walker knows him as the emperor: a hobgoblin in purple robes whom Walker killed, then spoke with after picking up the helm. He seemed different. The conversation was calm and respectful, not frightening.",
+                "He called the golden fire of Walker's gold dragon rider bond Walker's life force, and said that energy is as significant to him as it is to Walker.",
+                "He wants people to rule as they did before the Voyager gods.",
+                "Carlkin treats the helm as the item the lich was wearing when he died. Only a tiny imprint remains. The helm itself is not the phylactery."
+            ],
+            "titles": [
+                "Emperor"
+            ],
+            "personality": [
+                "In the helm-vision he was calm, respectful, and concerned with rule as it was before the Voyager gods."
+            ],
+            "quotesThemes": [
+                "Golden fire as Walker's life force.",
+                "People should rule as they did before the Voyager gods."
+            ],
+            "openQuestions": [
+                "Whether the helm's soul fragment can lead the party back to him."
+            ]
+        },
+        "Walker": {
+            "existing": "Walker is a half-elf dragon rider and fighter bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "After killing the emperor, picking up the helm brought a calm, respectful conversation. The emperor was a hobgoblin in purple robes and seemed different.",
+                "His gold dragon rider bond is a golden fire the emperor called his life force.",
+                "Carlkin finds only slight, non-parasitic contact with the soul on the helm. Walker puts the helm back on anyway.",
+                "He suggests using the fragment to track the emperor and looks for a companion who works with souls. Sylan is not at the lighthouse.",
+                "He already counts Araden, Glimmen, and the party's whispers as familiar voices, so those would not count as the warning sign."
+            ],
+            "titles": [
+                "Gold dragon rider"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Golden fire": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Walker's name for the magical connection and life force of his gold dragon rider bond. The emperor recognized it as that life force."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Dana is a thoughtful half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Carlkin gives her the diagnosis. She is slightly relieved the possession is not advanced, and challenges Walker for putting the helm back on after the warning.",
+                "Carlkin separately warns that clerics of high regard in light-based domains should be kept away from the helm."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Voyager Gods": {
+            "existing": "Gods from other pantheons who did not originate in Atlas.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The emperor told Walker he wants people to rule as they did before the Voyager gods."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Howdy",
+            "likely": "Haldor",
+            "notes": "Gerk's name for the sheriff who told him to stay out of town."
+        },
+        {
+            "heard": "Casual",
+            "likely": "",
+            "notes": "Haldor asks how long Sylan will be in his Casual. The place or wording is unclear."
+        },
+        {
+            "heard": "jug of a friend",
+            "likely": "dragon friend",
+            "notes": "Haldor telling Gerk to keep Glimmen away from the ghosts."
+        },
+        {
+            "heard": "drug of a friend of the cover",
+            "likely": "dragon friend away from the ghosts",
+            "notes": "Gerk repeating Haldor's warning."
+        },
+        {
+            "heard": "Tiling",
+            "likely": "Sylan",
+            "notes": "Gerk asking Sylan if he saw the chicken."
+        },
+        {
+            "heard": "check in",
+            "likely": "chicken",
+            "notes": "The wicker chicken Gerk just bought."
+        },
+        {
+            "heard": "uses",
+            "likely": "geese",
+            "notes": "Gerk says there are also uses, and Sylan asks whether Gerk killed them and offers to buy them."
+        },
+        {
+            "heard": "B man",
+            "likely": "Brennan",
+            "notes": "Carlkin waiting until Walker is back before explaining the helm."
+        },
+        {
+            "heard": "spiritual medical",
+            "likely": "spiritual material",
+            "notes": "Carlkin's reading of residue on the helm."
+        },
+        {
+            "heard": "surf fragment",
+            "likely": "soul fragment",
+            "notes": "Carlkin on what would be possessing a wearer of the helm."
+        },
+        {
+            "heard": "claimant",
+            "likely": "Glimmen",
+            "notes": "Carlkin listing voices Walker may already hear: his own, or Glimmen."
+        },
+        {
+            "heard": "Alarez",
+            "likely": "Elrus",
+            "notes": "Walker adds another familiar voice beside Araden. Hearing is uncertain."
+        },
+        {
+            "heard": "s is silent",
+            "likely": "Sylan",
+            "notes": "Walker asking whether Sylan, the person he takes for a soul-worker, came to the lighthouse. Sylan says no."
+        },
+        {
+            "heard": "big book about",
+            "likely": "big boom",
+            "notes": "Carlkin describing how a real phylactery would have reacted."
+        },
+        {
+            "heard": "an order I have some good news",
+            "likely": "and Ord, I have some good news",
+            "notes": "Carlkin addressing Dana and Ord with the diagnosis."
+        }
+    ],
+    "openQuestions": [
+        "Can the helm's soul fragment be used to track the emperor?",
+        "Sylan thinks there may be more to learn about the celestials, and leaves it for later."
+    ],
+    "newTerms": [
+        {
+            "name": "Haldor",
+            "notes": [
+                "Sheriff of New Navel. Meets Sylan and Gerk at his porch, bans doors and town commotion, and wants Gerk's dragon kept away from the ghosts."
+            ]
+        },
+        {
+            "name": "Soul identifier",
+            "notes": [
+                "Carlkin's clear two-to-three-ounce reagent for reading an item. On the helm it beads up and shows spiritual residue."
+            ]
+        },
+        {
+            "name": "Golden fire",
+            "notes": [
+                "Walker's gold dragon rider bond. The emperor treated it as Walker's life force."
+            ]
+        },
+        {
+            "name": "Wicker chicken",
+            "notes": [
+                "Woven chicken trinket Gerk bought in New Navel for one gold."
+            ]
+        }
+    ]
+}

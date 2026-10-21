@@ -1,0 +1,387 @@
+{
+    "plotSections": [
+        {
+            "title": "Raven's Razor",
+            "bullets": [
+                "A feather-draped, anemic-looking dwarf tells Sylan the spirits were not attached to him: Sylan had already sent them on, and pulling them back was the mistake.",
+                "The figure names Sylan Raven's razor and the pathway to the falls. His duty is to seek out certain souls; the rest of the instruction is lost when the mic cuts out.",
+                "Sylan stops drawing the spirits back. They had insisted they still had things left undone. The figure answers that they did, but she will say.",
+                "Sylan leaves that place and reappears with a pile of rocks on his feet, the largest about pumpkin-sized. To Gerk he had looked foggy while he was gone. Sylan calls the work a ghost-cop routine and does not want the others there any time soon, though he allows that Gerk might come some other time."
+            ]
+        },
+        {
+            "title": "Spirits of New Navel",
+            "bullets": [
+                "Sylan believes that the last time he walked through New Navel, including on the way to Carlkin's, he inadvertently picked up spirits. Nearness finishes them: they are drawn into him like air into a flame.",
+                "He frames the duty as moving people on at the end of their allotment. The ones he must hunt cling out of greed or jealousy of life, often undead or bodiless spirits. He is not sure what to do with spirits who are not 'bad,' and he will not force anyone.",
+                "He recalls six souls by description only, with no names. He asks Gerk to find the sheriff — he does not remember a mayor, and jokes that the party might as well be one — and to put out word that any spirit willing to move on should find Sylan.",
+                "Sylan stays outside town so he does not collect more spirits. Shades and Trades sits in the middle of town; he now thinks its proprietor was a ghost, and he has been near that proprietor before without taking him."
+            ]
+        },
+        {
+            "title": "Carlkin's lighthouse",
+            "bullets": [
+                "Gerk goes into town for the sheriff. The others fly to Carlkin's lighthouse. Glimmen and Araden land in the street; Araden, the larger copper, has to tuck her wings and tail to spare the roofs, then sets Elrus down.",
+                "Dana knocks as the point person. After a crate, a chain, and metal on metal, Carlkin the tortle opens and checks that Sylan and Gerk — and their portals — are not with them. He recognizes Araden at once.",
+                "Benji pushes past Dana to Araden, who perks up. Elrus and Benji embrace. Elrus thinks Benji looks old and asks if he has been meditating; Elrus has been training Walker and brings him over to meet Benji.",
+                "Carlkin says he and Benji go back to about when the Sunder Chase began, and the two dispute who gave whom the idea. Another copper dragon is still around and is now a hoard dragon for that race. Riding Araden would now count as cheating and get a rider disqualified; she also simply flies faster than a typical ship.",
+                "The party won the Sunder Chase with guidance Carlkin takes some credit for. He singles out Ord for dispelling magic on another ship, a use of that talent he says has not been seen in generations. Most competitors rely on cannons, faster sails, or burning ships."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The feather-draped dwarf tells Sylan the spirits were not attached and that Sylan had already sent them on, then asks why Sylan is pulling them back.",
+        "The figure calls Sylan Raven's razor and the pathway to the falls and starts to define whom he must seek. The line is cut off; what comes through afterward sounds like 'look for the math.'",
+        "Sylan releases the spirits. They had unfinished business; the figure says they did, but she will say. Sylan thanks the figure and leaves.",
+        "Sylan reappears with rocks piled on his feet. Gerk has been collecting rocks and says Sylan looked foggy. Sylan declines to share the experience and says there is little adventure in the ghost-cop work.",
+        "Sylan asks Gerk to find New Navel's sheriff and announce that spirits who want to move on should come to Sylan. Sylan will wait outside town, avoid Shades and Trades for now, and try to remember six souls well enough to describe them.",
+        "Gerk heads into the city. The rest fly to Carlkin's lighthouse. Glimmen and Araden land; Araden lets Elrus down at the door.",
+        "Dana knocks. Carlkin checks that Sylan and Gerk are absent, then recognizes Araden. Benji goes to her, embraces Elrus, and Elrus introduces Walker as his new recruit.",
+        "Carlkin and Benji tie their history to the start of the Sunder Chase. Carlkin credits the party's victory and Ord's dispel on a rival ship, and treats riding Araden in the race as grounds for disqualification."
+    ],
+    "entities": {
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper who holds a keystone and a cautious bond with the Raven Queen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Named Raven's razor and the pathway to the falls by the feather-draped dwarf. His duty is to seek out souls who will not move on; the specific charge was cut off.",
+                "The spirits were not attached to him. He had sent them on and was pulling them back; he stops, even though they said they still had things left.",
+                "Returning from that place leaves rocks on his feet. While he is there he looks foggy to Gerk. He wears a breastplate and does not want the party brought there soon.",
+                "He believes walking through New Navel, including toward Carlkin's, caused him to pick up spirits. Closeness draws them in like air into a flame.",
+                "He will hunt those who cling past their allotment out of greed or jealousy of life, including undead and bodiless spirits, and says she cannot be cheated. He is unsure about spirits who are not bad and will not force them.",
+                "He remembers six souls by description and no names. He waits outside New Navel and suspects the Shades and Trades proprietor is a ghost he has already been near without taking."
+            ],
+            "titles": [
+                "Raven's razor",
+                "pathway to the falls"
+            ],
+            "personality": [
+                "Treats unfinished business as real but still insists it is time for the spirits to move on.",
+                "Does not want to force spirits who are willing to stay, and needs time to reconcile that with the duty."
+            ],
+            "quotesThemes": [
+                "They tried to tell me they had things left, but it is time for them to move on.",
+                "You cannot cheat her in the end.",
+                "There is not going to be much to this ghost cop routine."
+            ],
+            "openQuestions": [
+                "Whom exactly he is supposed to seek; the figure's instruction was cut off.",
+                "Whether good spirits who do not want to go should be taken.",
+                "Why the Shades and Trades proprietor, if a spirit, was not taken when Sylan was near him."
+            ]
+        },
+        "Raven Queen": {
+            "existing": "Elder god of death, also called Nira, who once walked among mortals and can take a harpy-like form.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan is addressed as a razor of the Raven Queen, with a duty to seek souls who will not pass on.",
+                "Spirits who claimed unfinished business are deferred to her: they did have things left, but she will say.",
+                "Sylan says she cannot be cheated at the end of a life’s allotment."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Feather-draped dwarf": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Anemic-looking dwarf draped in feathers, in the place Sylan visits and then leaves. He makes the same noise as before, then speaks.",
+                "He calls Sylan Razor, tells him the spirits were not attached and that Sylan already sent them on, and asks why Sylan pulls them back.",
+                "He names Sylan Raven's razor and the pathway to the falls, and begins the duty to seek certain souls before the line is lost.",
+                "Told that the spirits had things left, he says they did, but she will say. He checks that Sylan is not pulling more back."
+            ],
+            "titles": [],
+            "personality": [
+                "Corrects Sylan for retrieving spirits who were already sent on, and points the duty back at the Raven Queen."
+            ],
+            "quotesThemes": [
+                "You are Raven's razor.",
+                "You are the pathway to the falls.",
+                "They were not attached to you. You have sent them on their way. Why do you pull them back?",
+                "They did, but she will say."
+            ],
+            "openQuestions": []
+        },
+        "Glade spirits": {
+            "existing": "Ethereal undead spirits drawn to the lantern and pulled into Sylan.",
+            "entityType": "OTHER",
+            "otherEntityType": "spirits",
+            "notes": [
+                "The feather-draped dwarf says these spirits were not attached to Sylan and that he had already sent them on. Sylan had been pulling them back out of worry they were tied to him on the Ethereal Plane.",
+                "They tried to say they still had things left. Sylan releases them anyway. The figure says she will be the one to answer that."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Keeps busy collecting ordinary rocks while Sylan is gone, and notices that Sylan looked foggy.",
+                "Agrees to find New Navel’s sheriff and ask for an announcement that spirits who want to move on should find Sylan. He is unsure how spirits reach Sylan or what should happen to the good ones.",
+                "Sylan offers that Gerk may come to that place some other time. Gerk is curious and a little tempted."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "A familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Spirits are still walking the town. Sylan thinks he collected some simply by passing through, including on the way to Carlkin's.",
+                "Sylan remembers a sheriff who watched the town and does not remember a mayor. Shades and Trades is in the middle of town, so he waits outside.",
+                "Gerk goes in alone to find the sheriff while the others fly to the lighthouse. Glimmen and Araden landing draws a crowd."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Shades and Trades": {
+            "existing": "Where Sylan found the staff later fused to Ord's lantern.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sylan first treats the proprietor as someone who was a living person, then decides the proprietor of Shades and Trades was a ghost.",
+                "He has been around that proprietor before and has not taken him. He holds off on entering because the shop is in the middle of town."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the proprietor a spirit, and why did Sylan's proximity not take him?"
+            ]
+        },
+        "Carlkin": {
+            "existing": "A turtle-like person believed to be back in Langdale.",
+            "entityType": "NPC",
+            "notes": [
+                "He is at his lighthouse in New Navel. He opens only after something like a crate is moved, a chain rattles, and metal rasps.",
+                "He refuses the visit unless Sylan and Gerk, and their portals, are absent. Dana assures him they are not there.",
+                "He knows Araden on sight and is put out that nobody told him she had been brought here. He already knows Benji, going back to about the start of the Sunder Chase, and they argue over who suggested the race.",
+                "He takes partial credit for guiding the party to their Sunder Chase win and praises Ord for dispelling magic on another ship, a trick he says has not been seen in generations.",
+                "He describes another copper dragon, still present, who is now a hoard dragon for the race, and says riding Araden in it would now be cheating."
+            ],
+            "titles": [],
+            "personality": [
+                "Wary of Sylan and Gerk, and openly fond of Araden, Benji, and the Sunder Chase."
+            ],
+            "quotesThemes": [
+                "If anyone would be disqualified, Ord would be the one."
+            ],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Copper dragon, large enough that landing in New Navel means curling her wings and keeping her tail off the roofs. She sets Elrus down at Carlkin's door.",
+                "She is the dragon of Walker's trainer, Elrus. Carlkin already knows her. She visibly perks up when Benji comes to her.",
+                "Riding her in the Sunder Chase is now treated as cheating and would disqualify the rider. She flies faster than an average ship."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker's hidden ally in the coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Arrives on Araden and is set down at Carlkin's door. He greets Benji with a cordial embrace and asks whether Benji has been meditating, because Benji looks old for his age.",
+                "He has been training Walker and introduces him to Benji as his new recruit. He and Araden had met the party at the council of the gods, but had not met Benji with them."
+            ],
+            "titles": [
+                "Walker's dragon-rider mentor"
+            ],
+            "personality": [],
+            "quotesThemes": [
+                "I've been training my new recruit. There he is, Walker."
+            ],
+            "openQuestions": []
+        },
+        "Benji": {
+            "existing": "Familiar with The Reach and may be at the party's bar.",
+            "entityType": "NPC",
+            "notes": [
+                "Carlkin identifies him as a warforged. He is inside the lighthouse, pushes past Dana, and goes straight to Araden, who perks up. He and Elrus embrace.",
+                "He and Carlkin have known each other since about the time the Sunder Chase started. Benji claims he gave Carlkin the idea, and he defends the other copper dragon when Carlkin calls that dragon a fool.",
+                "The party already met him in The Reach, where he explained what he was, and he was with them when they finished the Sunder Chase. He had not yet met Elrus and Araden together with the party."
+            ],
+            "titles": [
+                "warforged"
+            ],
+            "personality": [
+                "Old acquaintance of Carlkin, quick to claim the Sunder Chase idea and to defend the other copper dragon."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He has been away training with Elrus, an established dragon rider, and with Elrus's dragon Araden. Elrus introduces him to Benji as the new recruit.",
+                "Glimmen lands beside Araden at Carlkin's lighthouse."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "During the Sunder Chase he dispelled magic on another ship. Carlkin calls that a clever use of the talent, unseen for several generations, and the sort of thing that would get a competitor disqualified. Ord answers that someone else would have thought of it eventually."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Lands in the street by Carlkin's lighthouse beside Araden. Carlkin distinguishes the larger copper, Araden, from Glimmen."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Acts as the point person at Carlkin's door, knocks, and promises that Sylan, Gerk, and portals are not with them.",
+                "Introduces herself to Benji and recalls meeting him in The Reach and finishing the Sunder Chase with him. She explains that Araden is the dragon of the rider who has been training Walker."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder Chase": {
+            "existing": "A summer seasonal event.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Carlkin and Benji trace their friendship, and possibly the idea for the race, to when the Sunder Chase first started. Benji claims he gave Carlkin the idea.",
+                "The party won it. Carlkin says he gave them some guidance. Ord's contribution was dispelling magic on another ship. Typical tactics are cannons, faster sails, or burning ships.",
+                "It is described as a death race. Riding Araden is now considered cheating and would disqualify a rider. Another copper dragon, still around, is now a hoard dragon for the race. Araden herself flies faster than an average ship."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Hanzuni": {
+            "existing": "Ancient copper dragon of Haven Hold who loans gold for quests.",
+            "entityType": "NPC",
+            "notes": [
+                "Not named in this chunk. Carlkin and Benji discuss another copper dragon, distinct from Araden, who is still present and is now a hoard dragon for the Sunder Chase. Benji objects to calling him a fool. The transcript renders the epithet as 'inspiratory dragon.'"
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "look for the math",
+            "likely": "",
+            "notes": "Said right after the mic cut off the duty 'seek out those who.' One unclear phrase, not a confirmed name."
+        },
+        {
+            "heard": "Nunevelle",
+            "likely": "New Navel",
+            "notes": "Sylan asks Gerk to find the mayor or sheriff there because spirits still walk the town."
+        },
+        {
+            "heard": "Navelle",
+            "likely": "New Navel",
+            "notes": "Sylan says the last time he walked through Navelle he may have picked up spirits."
+        },
+        {
+            "heard": "silent or girl",
+            "likely": "Sylan or Gerk",
+            "notes": "Carlkin at the door, asking Dana to confirm those two were not brought."
+        },
+        {
+            "heard": "claimant",
+            "likely": "Glimmen",
+            "notes": "Carlkin, looking at Araden: 'that's not a claimant, is it?' Dana treats Glimmen as the other dragon."
+        },
+        {
+            "heard": "Rayodin",
+            "likely": "Araden",
+            "notes": "Carlkin greeting the copper dragon he already knows."
+        },
+        {
+            "heard": "Rayadin",
+            "likely": "Araden",
+            "notes": "DM clarifying there has been no prior scene between Benji, Rayadin, and the party or Elrus."
+        },
+        {
+            "heard": "Thunder cheese",
+            "likely": "Sunder Chase",
+            "notes": "Carlkin and Benji shift into how the party won the race."
+        },
+        {
+            "heard": "inspiratory dragon",
+            "likely": "Hanzuni",
+            "notes": "Benji defending the other copper who is now a hoard dragon for the race. The epithet is unclear."
+        },
+        {
+            "heard": "Rain",
+            "likely": "Araden",
+            "notes": "The counter-example of a dragon who just flies faster than the average ship. Could be a separate name."
+        },
+        {
+            "heard": "aides",
+            "likely": "age",
+            "notes": "Elrus to Benji: 'you look old for your aides' while asking if he has been meditating."
+        },
+        {
+            "heard": "Shades and Shades",
+            "likely": "Shades and Trades",
+            "notes": "Sylan revising his memory of the proprietor."
+        },
+        {
+            "heard": "gulp",
+            "likely": "",
+            "notes": "Gerk: 'How do you arrest the gulp?' while asking how a sheriff deals with spirits."
+        },
+        {
+            "heard": "who overlips that island",
+            "likely": "",
+            "notes": "Gerk comparing spirits being sucked into Sylan. Sylan answers 'like air into a flame.'"
+        }
+    ],
+    "openQuestions": [
+        "Whom is Sylan supposed to seek as Raven's razor? The figure's sentence was cut off.",
+        "Should spirits who are not clinging out of greed also be sent on, or only the ones who refuse?",
+        "Is the proprietor of Shades and Trades a spirit, and why has Sylan been near him without taking him?"
+    ],
+    "newTerms": [
+        {
+            "name": "Raven's razor",
+            "notes": [
+                "Title the feather-draped dwarf gives Sylan. A razor of the Raven Queen seeks souls who will not move on when their allotment ends, and is also called the pathway to the falls."
+            ]
+        },
+        {
+            "name": "pathway to the falls",
+            "notes": [
+                "Spoken to Sylan in the same breath as Raven's razor. It may connect to Everfalls, but this chunk does not explain it."
+            ]
+        }
+    ]
+}

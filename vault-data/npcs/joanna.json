@@ -1,0 +1,28 @@
+{
+  "name": "Joanna",
+  "tags": [
+    "vendor"
+  ],
+  "slug": "New Navel market vendor who sells wicker animals.",
+  "aliases": [],
+  "normalizedAliases": [
+    "joanna"
+  ],
+  "filename": "npcs/joanna.md",
+  "description": "Joanna is a living vendor in the New Navel market. She sells wicker animals, including a small wicker chicken and a one-to-one wicker goose, and says she can make geese or a gander.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "Gerk pays Joanna one gold for the small wicker chicken. She gives him directions to Haldor's house. Haldor later recognizes the chicken as hers and says she makes good geese.",
+      "notes": [
+        "Living vendor in the New Navel market. She sells wicker animals, including a small wicker chicken and a one-to-one wicker goose, and says she can make geese or a gander.",
+        "Gerk pays her one gold for the chicken. She gives him directions to Haldor's house. Haldor recognizes the chicken as hers and says she makes good geese."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:07:22.741Z",
+  "updatedAt": "2026-10-21T20:07:22.741Z"
+}

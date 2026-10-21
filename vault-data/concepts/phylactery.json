@@ -47,6 +47,18 @@
         "Sylan: if the party holds the soul, finding the lich should be easier. Doing the test and the destruction in the open or in secret is still undecided.",
         "Walker's hat, also called his helmet, is the candidate under discussion. Wearing a phylactery is treated as a possible source of corruption."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Dana's vision described the target as an ordinary item that would go under the nose. She says the usual image is an object kept in a treasury rather than something worn, which is why the helm would be overlooked. Walker comes to read Vecna tapping the golden eagle as a hint about what they are looking for, and the helm is the suspect they actually test. Proposed checks were detect magic, arcane investigation, and Carlkin. Glimmen proposes burning the helm, and Walker says a phylactery is not necessarily flame resistant. The party agrees not to destroy a confirmed phylactery until they have eyes on its owner, because if the owner senses it destroyed he can make another. Carlkin's bag treats a real phylactery as something that would burst fully into flame and might cause a stronger magical reaction. Trace soul magic only smolders the bag and can ride along with other enchantments. The helm fails that test, and Carlkin says it is definitely not a phylactery.",
+      "notes": [
+        "Dana's vision described the target as an ordinary item that would go under the nose. She says the usual image is an object kept in a treasury rather than something worn, which is why the helm would be overlooked.",
+        "Walker comes to read Vecna tapping the golden eagle as a hint about what they are looking for. The helm is the suspect they actually test.",
+        "Proposed checks were detect magic, arcane investigation, and Carlkin. Glimmen proposes burning the helm. Walker says a phylactery is not necessarily flame resistant.",
+        "The party agrees not to destroy a confirmed phylactery until they have eyes on its owner, because if the owner senses it destroyed he can make another.",
+        "Carlkin's bag treats a real phylactery as something that would burst fully into flame and might cause a stronger magical reaction. Trace soul magic only smolders the bag and can ride along with other enchantments.",
+        "The helm fails that test. Carlkin says it is definitely not a phylactery."
+      ]
     }
   ],
   "openQuestions": [
@@ -54,5 +66,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:18:44.879Z",
-  "updatedAt": "2026-10-19T20:29:52.310Z"
+  "updatedAt": "2026-10-21T19:56:37.375Z"
 }

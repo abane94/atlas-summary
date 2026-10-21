@@ -27,12 +27,21 @@
         "The ground room is the base of the lighthouse, about forty feet across, with a cobbled floor now broken open by Gerk's doorway. Carlkin's desk holds parchment and a well-used imported writing set.",
         "Carlkin is adding a standing rule against portals on the premises. He plans to repair the floor with Mending. The shop's bangles carry a residual detect magic. He receives people among clutter, good china, doilies, and a silver platter, and prefers appointments."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "A day after the doorway, the study floor is still a mess, and the center looks like a sandbox shoved up through the flagstones. A corner holds a small desk and study setup, including an altar-like lectern where Walker leaves the helm. Carlkin answers only after a crate slides, a chain rattles, and metal rasps. Dragons landing nearby draw a stir in the streets.",
+      "notes": [
+        "The study floor is still a mess a day after the doorway. The center looks like a sandbox shoved up through the flagstones.",
+        "A corner holds a small desk and study setup, including an altar-like lectern where Walker leaves the helm.",
+        "Carlkin answers only after a crate slides, a chain rattles, and metal rasps. Dragons landing nearby draw a stir in the streets."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-09-22T20:02:14.319Z",
-  "updatedAt": "2026-09-29T18:37:48.829Z",
+  "updatedAt": "2026-10-21T20:03:31.913Z",
   "marker": [
     {
       "mapName": "langdale-stronghold-area-map",

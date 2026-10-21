@@ -1,7 +1,8 @@
 {
   "name": "Dragon Rider Training Grounds",
   "tags": [
-    "landmark"
+    "landmark",
+    "dragon-rider"
   ],
   "slug": "Dragon Rider guild training grounds near the Lost Isles",
   "aliases": [],
@@ -58,6 +59,13 @@
       "notes": [
         "The convergence obelisk is north of the guild hall. Facing back toward the guild, the true ley line is about a hundred yards to the right of the obelisk. Walker's notes put a mountain to the west."
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "summary": "Walker calls the Dragon Rider training grounds the old training grounds. He met Vecna there and came away with the golden-eagle lead.",
+      "notes": [
+        "Walker calls them the old training grounds. He met Vecna there and came away with the golden-eagle lead."
+      ]
     }
   ],
   "openQuestions": [
@@ -65,5 +73,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:28:00.057Z",
-  "updatedAt": "2026-10-19T20:26:09.956Z"
+  "updatedAt": "2026-10-21T19:53:49.099Z"
 }

@@ -1,0 +1,381 @@
+{
+    "plotSections": [
+        {
+            "title": "Haldor and the spirit jug",
+            "bullets": [
+                "Gerk finds Haldor, hat brim down and at rest, and asks him to help send on bad spirits that have been flying into Sylan. Haldor knows Sylan as Gerk's short elven friend with a sword that only looks large, and treats the spirit-taking as new.",
+                "They settle on a spirit jug as the picture: spirits go into Sylan so they can be sent home. Haldor checks that none of the party has been taken in. Sylan is just outside the gate.",
+                "Gerk is carrying Joanna's chicken. He hates geese, calls them little demon birds, and warns that he threatened the goose vendor, mostly in jest. Haldor knows that vendor as a decent man with a caged flock and tells Gerk not to threaten villagers. Haldor also says he and Gerk both know Gator can be difficult; it is unclear whether Gator is that vendor."
+            ]
+        },
+        {
+            "title": "Carlkin's report and a wider door ban",
+            "bullets": [
+                "Haldor already has Carlkin's report from yesterday: an extradimensional door in the commons, which Haldor calls a hell portal and later a tentacle-spewing portal, plus the floor repair. Extradimensional doors are not allowed in the city. Gerk says his other doors had been interdimensional and that he did not know this one would be extradimensional.",
+                "Carlkin filed charges Haldor has not interpreted. The party shares one file, labeled stronghold hooligans, mostly Carlkin's complaints. Haldor would rather wait for them to leave than walk to the stronghold. His ordinary work is catching cutpurses. Gerk says they will apologize and expects Carlkin to yell.",
+                "On the walk, Haldor writes into his notepad that extradimensional and interdimensional doors are now both prohibited inside the city limits. Magic practice belongs in the forest. Taking spirits in is also not permitted. He hopes Gerk has interdimensional shackles; Gerk does not, and is told not to open a door to fetch any."
+            ]
+        },
+        {
+            "title": "The Trigash beacon",
+            "bullets": [
+                "Walking out, Gerk recaps the day: after Carlkin they practiced doors in the woods, away from people, then Sylan had them try a hoard staff, something like a lantern. Sylan blinded Gerk. While Gerk was blinded, spirits went into Sylan, said they wanted to go home, and said there are bad spirits in town that also need sending on.",
+                "Haldor places that earlier today, around midmorning, in Trigash Forest, a couple of miles off. A giant beacon came out of the sky. He bet Erwin twenty-five gold that it was a random event; Erwin said it was the stronghold hooligans. Haldor now owes the money.",
+                "Erwin saw a bunch of them fly that way with a new dragon in tow. About an hour later they flew back out. The fliers reached town a good forty-five minutes before this talk. Gerk and Sylan walked."
+            ]
+        },
+        {
+            "title": "Sylan's account at the gate",
+            "bullets": [
+                "Haldor walks straight out with Gerk and greets Sylan with a handshake, calling him under the weather and repeating the spirit-jar version.",
+                "Sylan says he is a cleric of the Raven Queen, one of her servants, tasked with finding people who escaped their end. He thinks he gathered townsfolk by accident. Ord was working the lantern in the forest; the big light was that. Sylan says they can already see spirits, but the lantern let Ord see the ones following Sylan, and sending them on was the duty.",
+                "Sylan believes it was six people from New Navel. He has no names. The one he remembers most clearly is an older humanoid woman, a grandmother type, and he asks whether she might already have died. Haldor knows nothing of gods, has no recent missing persons, and says an old humanoid woman is not enough to identify anyone. The chunk ends as Sylan tries to recall a defining feature from roughly thirty to sixty minutes earlier."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Haldor recognizes Gerk and hears that Sylan needs help rounding up bad spirits and sending them on.",
+        "Gerk describes spirits flying into Sylan like a jug. Haldor confirms this is new and that none of the party was taken.",
+        "Gerk mentions Joanna's chicken, his hatred of geese, and a mostly jesting threat against the goose vendor. Haldor tells him not to threaten villagers.",
+        "Haldor says Carlkin reported the commons portal and the floor repair, and filed charges Haldor has not sorted out. The party file is labeled stronghold hooligans.",
+        "Gerk recounts door practice in the woods, the hoard lantern-staff, being blinded, and spirits entering Sylan who want to go home, including bad spirits still in town.",
+        "Haldor identifies the beacon as Trigash Forest earlier today. He lost a twenty-five-gold bet to Erwin, who saw the party fly that way with a new dragon and fly back about an hour later.",
+        "Haldor says sucking people up is against the rules. He asks for interdimensional shackles; Gerk does not have them.",
+        "Haldor notes a new city rule: extradimensional and interdimensional doors are both banned inside the limits, and spirit-taking is banned as well. Practice stays in the forest.",
+        "A short walk later, Haldor and Gerk reach Sylan outside the gate.",
+        "Sylan claims Raven Queen service, says Ord's lantern showed the spirits following him, and estimates six New Navel dead, remembered mainly as an older humanoid woman.",
+        "Haldor reports no recent missing persons and asks for a real identifying feature. Sylan is still trying to remember one when the chunk ends."
+    ],
+    "entities": {
+        "Haldor": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Local authority in New Navel: keeps case files, catches cutpurses, and enforces the ban on doors inside the city. He was resting under his hat brim and has not seen Gerk in some time.",
+                "Knows Sylan as the short elven friend with the big-looking sword. He agrees to walk outside the gate and hear the spirit problem himself.",
+                "Has Carlkin's report of the commons portal and the repaired floor, plus charges he has not interpreted. He files the party together as stronghold hooligans and would rather wait them out than walk to the stronghold.",
+                "Saw, or had reported, the Trigash beacon. He bet Erwin twenty-five gold that it was not the party and lost. Erwin saw them fly toward the forest with a new dragon and fly back about an hour later; the fliers were in town about forty-five minutes before this conversation.",
+                "Writes a stricter rule on the spot: extradimensional and interdimensional doors are now both prohibited in the city, magic practice goes to the forest, and spirit-taking is not permitted. He hoped Gerk was carrying interdimensional shackles."
+            ],
+            "titles": [
+                "New Navel official who keeps the town files and city door rules"
+            ],
+            "personality": [
+                "Familiar and dry with Gerk, willing to help, and openly prefers less paperwork.",
+                "Firm about city limits and about not threatening vendors. He claims no knowledge of the gods."
+            ],
+            "quotesThemes": [
+                "I just label it stronghold hooligans.",
+                "If I wait a day or so you'll be gone anyway, so it's less paperwork for me.",
+                "I don't know nothing about no gods."
+            ],
+            "openQuestions": [
+                "He still has not worked out what charges Carlkin filed."
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sent by Sylan to bring Haldor in so bad spirits can be sent home. He explains the jug image and leaves the real account to Sylan.",
+                "Says yesterday's Carlkin door was supposed to be interdimensional, and that he did not know it would be extradimensional. He says he fixed the floor and that they will apologize.",
+                "Practiced doors today in a clearing away from people. Sylan then blinded him while trying the hoard lantern-staff, and that was when the spirits went into Sylan.",
+                "Walked back from Trigash with Sylan while others flew. He does not have interdimensional shackles and is told not to open a door after them.",
+                "Carrying Joanna's chicken. He threatened the goose vendor, mostly in jest, and calls geese evil little birds."
+            ],
+            "titles": [],
+            "personality": [
+                "Deferential once Haldor is on the case, and quick to apologize for the Carlkin door."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper, with a cautious bond to the Raven Queen. Spirits have been drawn into him.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Waiting outside the New Navel gate. Haldor comes to him after Gerk's report.",
+                "Tells Haldor he is a cleric of the Raven Queen and one of her servants, tasked with finding people who escaped their end. He says townsfolk were gathered by accident and that sending them on was the duty.",
+                "Says Ord's lantern in the forest let Ord see the spirits following Sylan, even though the party can already see spirits. Gerk says Sylan was the one working the hoard staff and that Sylan blinded him first.",
+                "Believes six of the taken spirits are from New Navel. He did not get names. The clearest memory is an older humanoid woman, a grandmother type. He asks if she might already have died. Haldor cannot match her to any recent missing person."
+            ],
+            "titles": [
+                "Claims, to Haldor, to be a cleric and servant of the Raven Queen"
+            ],
+            "personality": [
+                "Frames the spirit-taking as duty rather than an accident he understands, and offers descriptions instead of names."
+            ],
+            "quotesThemes": [
+                "I'm a cleric of the Raven Queen, and I am one of her servants, and I've been tasked with finding people that have escaped their end."
+            ],
+            "openQuestions": [
+                "Who the six New Navel spirits are, and whether the older woman is someone who already died, is still unanswered. Haldor has no recent missing persons and needs a better description."
+            ]
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin and Gatekeeper of Feldspar. His lantern is fused to the staff that reveals the Ethereal Plane.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Sylan tells Haldor that Ord was working the lantern in Trigash and that this let Ord see the spirits surrounding Sylan. Haldor only knows that part as the big light.",
+                "Among the group Erwin saw fly toward the forest and back. Gerk and Sylan were the ones who walked."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person in Langdale notes; his lighthouse and bookshop are in New Navel.",
+            "entityType": "NPC",
+            "notes": [
+                "Reported yesterday's extradimensional door in his commons, and reported that Gerk fixed the floor. Haldor describes the opening as a hell portal and as a tentacle-spewing portal.",
+                "Filed charges Haldor has not deciphered. Haldor says most of the stronghold hooligans file is Carlkin. Gerk calls him grumpy and expects more yelling if they apologize."
+            ],
+            "titles": [],
+            "personality": [
+                "Grumpy enough that both Gerk and Haldor treat the complaint as in character."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the filed charge actually is remains unread. Haldor says he has not had time to figure it out."
+            ]
+        },
+        "Erwin": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "In New Navel when the Trigash beacon went up. He bet Haldor that it was the stronghold hooligans, against Haldor's twenty-five gold that it was a random event. Haldor lost.",
+                "Saw a bunch of the party fly toward the forest with a new dragon in tow, then fly back out about an hour later."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Joanna": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Haldor recognizes the chicken Gerk is carrying as Joanna's chicken and says she makes good geese."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "Familiar stop that sends trade caravans toward Langdale and holds Carlkin's lighthouse.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Extradimensional doors were already barred inside the city. Haldor now writes that interdimensional doors are barred too, and that spirit-taking is not permitted. He points magic practice to the forest outside.",
+                "Trigash Forest is a couple of miles away, a decent walk of the kind that the fliers covered much faster. No recent missing persons have been reported, despite Sylan's six townsfolk spirits.",
+                "From town, the Trigash beacon was obvious enough for Haldor and Erwin to bet on it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Trigash Forest": {
+            "existing": "Forest outskirts where a beacon rose and spirits stayed back.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Haldor identifies it as the place of today's midmorning beacon, the blinding, and the spirits entering Sylan. It lies a couple of miles from New Navel, over yonder from the gate.",
+                "The beacon was visible from town as a giant column of light. Erwin watched the party fly in with a dragon and fly back about an hour later."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Fused lantern-staff": {
+            "existing": "Fused lantern and staff that reveals the Ethereal Plane and draws nearby spirits when the active staff is held.",
+            "entityType": "ITEM",
+            "notes": [
+                "Gerk calls it a hoard-bought staff, a staff of lantern-something, used in Trigash after the door practice. He says Sylan was messing with it and blinded him, and that the spirits entered Sylan during that blindness.",
+                "Sylan credits Ord with working the lantern. It let Ord see the spirits following Sylan. Haldor saw the result from town as the big light. Sylan notes they could already see spirits without it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Beacon of celestial darkness": {
+            "existing": "A column of felt darkness that rises while the active staff is held.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "From New Navel it read as a giant beacon or big light over Trigash, earlier today. Haldor and Erwin bet twenty-five gold on whether it was the party. The party's flight toward it and back settled the bet in Erwin's favor."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Raven Queen": {
+            "existing": "Elder god of death, also called Nira.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan tells Haldor he serves her as a cleric, assigned to find people who escaped their end and send them on. He uses that duty to explain the spirits taken in Trigash and the ones still to find in town. Haldor does not know the gods and does not pick up the theology."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Interdimensional shackles": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Haldor asks if Gerk has them, hoping to use them on the spirit problem. Gerk does not. Haldor refuses the offer to open a door to a set of shackles."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "Gerk says silent tasked him with finding Haldor. Haldor repeats it as the elven friend, and later greets him as silent."
+        },
+        {
+            "heard": "asylum",
+            "likely": "Sylan",
+            "notes": "Haldor asks where the asylum is. Gerk says he is just outside the gate."
+        },
+        {
+            "heard": "Sally",
+            "likely": "Sylan",
+            "notes": "Gerk says Sally I walked, contrasting himself with the people who flew back."
+        },
+        {
+            "heard": "Aldor",
+            "likely": "Haldor",
+            "notes": "The DM starts the walk with uh Aldor, then settles on Haldor as Gerk leads him to the gate."
+        },
+        {
+            "heard": "Nunavell",
+            "likely": "New Navel",
+            "notes": "Sylan says six of the people were from Nunavell."
+        },
+        {
+            "heard": "Calkin",
+            "likely": "Carlkin",
+            "notes": "Gerk says they talked to Calkin before going to the woods."
+        },
+        {
+            "heard": "trigas",
+            "likely": "Trigash",
+            "notes": "Haldor asks if the beacon was over in the trigas forest."
+        },
+        {
+            "heard": "fandologium",
+            "likely": "vandalism",
+            "notes": "Haldor says Carlkin filed fandologium charges and that he has not figured the word out."
+        },
+        {
+            "heard": "pentacle spewing",
+            "likely": "tentacle-spewing",
+            "notes": "Haldor describes the commons door as a pentacle spewing portal, in the same house as the earlier tentacle-and-eyes opening."
+        },
+        {
+            "heard": "Gator",
+            "likely": "",
+            "notes": "Discussing the caged geese, Haldor says you and I both know Gator can be kind of a problem. Unclear if this names the goose vendor or garbles gander or geese."
+        },
+        {
+            "heard": "goose fender",
+            "likely": "goose vendor",
+            "notes": "Gerk warns that he may have threatened the goose fender."
+        },
+        {
+            "heard": "in chess",
+            "likely": "in jest",
+            "notes": "Gerk says the threat was mostly in chess."
+        },
+        {
+            "heard": "Horde",
+            "likely": "hoard",
+            "notes": "Gerk says Sylan wanted to practice with a Horde-bought staff."
+        },
+        {
+            "heard": "lantern flies",
+            "likely": "",
+            "notes": "Gerk calls that hoard item a staff of lantern flies or something. Sylan later calls it the lantern Ord was working."
+        },
+        {
+            "heard": "Od",
+            "likely": "Ord",
+            "notes": "Sylan says Od was working the lantern so he could see the spirits."
+        },
+        {
+            "heard": "laney",
+            "likely": "lady",
+            "notes": "The recall check at the end asks for defining features of this laney, the older woman."
+        },
+        {
+            "heard": "intermanagement",
+            "likely": "interdimensional",
+            "notes": "Haldor warns Gerk about intermanagement doors within the city."
+        },
+        {
+            "heard": "international",
+            "likely": "interdimensional",
+            "notes": "Gerk offers to open an international door to the shackles."
+        },
+        {
+            "heard": "strong old",
+            "likely": "stronghold",
+            "notes": "Haldor and Erwin's bet is on the strong old hooligans."
+        },
+        {
+            "heard": "smart one",
+            "likely": "this morning",
+            "notes": "Asked whether the blinding was today, Gerk says that was a smart one."
+        }
+    ],
+    "openQuestions": [
+        "Haldor has not worked out what charges Carlkin filed.",
+        "Who the six New Navel spirits are, especially the older humanoid woman Sylan remembers, is still open. Haldor has no recent missing persons and is waiting on a defining feature."
+    ],
+    "newTerms": [
+        {
+            "name": "Haldor",
+            "notes": [
+                "New Navel official who keeps the party file, enforces the city door ban, and walks out to question Sylan about the spirits."
+            ]
+        },
+        {
+            "name": "Erwin",
+            "notes": [
+                "Someone in New Navel who saw the Trigash beacon, watched the party fly that way with a dragon, and won twenty-five gold from Haldor."
+            ]
+        },
+        {
+            "name": "Joanna",
+            "notes": [
+                "Named by Haldor as the source of the chicken Gerk is carrying. He says she makes good geese."
+            ]
+        },
+        {
+            "name": "Stronghold hooligans",
+            "notes": [
+                "Haldor's label for the shared file on the party. He says most of it is from Carlkin, and Erwin uses the same name for the beacon bet."
+            ]
+        },
+        {
+            "name": "Spirit jug",
+            "notes": [
+                "Haldor and Gerk's name for Sylan taking spirits in so they can be sent home. Haldor then writes that this is not permitted."
+            ]
+        },
+        {
+            "name": "Interdimensional shackles",
+            "notes": [
+                "Restraints Haldor hoped Gerk was carrying for the spirit problem. Gerk does not have them."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Goose vendor",
+  "tags": [
+    "vendor"
+  ],
+  "slug": "Caged-goose seller two doors down from Joanna.",
+  "aliases": [],
+  "normalizedAliases": [
+    "goose vendor"
+  ],
+  "filename": "npcs/goose_vendor.md",
+  "description": "A vendor two doors down from Joanna who sells nothing but geese and keeps a flock in cages. Haldor calls him a decent vendor.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-10-19",
+      "summary": "Gerk points at the goose vendor, says he will be back, and later admits he threatened him, mostly in jest. Haldor calls the vendor decent and tells Gerk not to threaten villagers.",
+      "notes": [
+        "Two doors down from Joanna. Sells nothing but geese and keeps a flock in cages.",
+        "Haldor calls him a decent vendor and tells Gerk not to threaten villagers. Gerk points at him, says he will be back, and later admits he threatened him, mostly in jest."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-10-21T20:07:41.848Z",
+  "updatedAt": "2026-10-21T20:07:41.848Z"
+}

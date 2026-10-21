@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:51:02.641Z",
+  "updatedAt": "2026-10-21T20:09:13.482Z",
   "suggestions": [
     {
       "tag": "ability",
@@ -46,7 +46,7 @@
     },
     {
       "tag": "event",
-      "reason": "Sunder Chase is a structured seasonal competition with explicit rules, prizes, and triggers distinct from ordinary locations or items.; Sunder Chase is a named seasonal event, not a spell, place, or item.; Used on an entity but not in the closed catalog; consider promoting if it recurs.",
+      "reason": "Sunder Chase is a structured seasonal competition with explicit rules, prizes, and triggers distinct from ordinary locations or items.; Sunder Chase is a named seasonal event, not a spell, place, or item.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Sunder Chase is a recurring seasonal race, and the closed catalog has no tag for events.",
       "exampleEntities": [
         "Sunder Chase",
         "Haven Hold",
@@ -89,6 +89,13 @@
       ]
     },
     {
+      "tag": "lich",
+      "reason": "Recurring undead role with a phylactery, distinct from antagonist and not covered by the creature tags.",
+      "exampleEntities": [
+        "Grixto"
+      ]
+    },
+    {
       "tag": "market",
       "reason": "Sunder is primarily encountered as a shopping hub for rare alchemical goods and magic items tied to the Sunder Chase.; Haven Hold's hoard hall functions as a treasure market tied directly to Sunder Chase rules and loans.",
       "exampleEntities": [
@@ -100,8 +107,15 @@
       ]
     },
     {
+      "tag": "sheriff",
+      "reason": "Town law enforcement is a recurring role and is not covered by the closed catalog.",
+      "exampleEntities": [
+        "Haldor"
+      ]
+    },
+    {
       "tag": "undead",
-      "reason": "Several entities are explicitly spirits, a lich, or other undead, and no closed tag covers that facet.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.",
+      "reason": "Several entities are explicitly spirits, a lich, or other undead, and no closed tag covers that facet.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; These spirits are classified as closer to undead than celestial town echoes, and no closed tag covers that facet.; Used on an entity but not in the closed catalog; consider promoting if it recurs.; Spectral spirits made physical are a recurring facet with no closed-catalog tag.",
       "exampleEntities": [
         "Lich",
         "Ledzbika",
