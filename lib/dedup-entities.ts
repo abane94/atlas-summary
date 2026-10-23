@@ -2,8 +2,9 @@ import fs from "fs/promises";
 import path from "path";
 import readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";
-import type { AiClient } from "./ai.js";
-import { withAi } from "./ai.js";
+import type { AiClient, AiPool } from "./ai.js";
+import { withAiPool } from "./ai.js";
+import { stripProcessPreamble } from "./ai/response-text.js";
 import { isDirectRun } from "./is-main.ts";
 import { unionTags, validateEntityTags } from "./entity-tags.ts";
 import {
@@ -244,7 +245,7 @@ export async function findDuplicateEntities(
 
     const table = buildEntityTable(loaded);
     const knownPaths = new Set(loaded.map((item) => item.filepath));
-    console.log(`[dedup] Asking ChatGPT to review ${loaded.length} entities...`);
+    console.log(`[dedup] Asking Cursor to review ${loaded.length} entities...`);
 
     await ai.resetConversation();
     const raw = await ai.runJsonPrompt(buildDedupPrompt(table, loaded.length), {
@@ -257,7 +258,7 @@ export async function findDuplicateEntities(
 export async function previewEntityTable(vaultDataFolder = "vault-data"): Promise<string> {
     const loaded = await loadEntityFiles(vaultDataFolder);
     const table = buildEntityTable(loaded);
-    return `Would send ${loaded.length} entit${loaded.length === 1 ? "y" : "ies"} to ChatGPT:\n\n${table}`;
+    return `Would send ${loaded.length} entit${loaded.length === 1 ? "y" : "ies"} to Cursor:\n\n${table}`;
 }
 
 function longestName(names: string[]): string {
@@ -402,8 +403,8 @@ Canonical type: ${JSON.stringify(merge.canonicalType)}
 Aliases to keep (unused names + existing aliases; do not invent new ones): ${JSON.stringify(aliases)}
 
 Merge rules:
-- Combine description into one accurate paragraph. Do not invent facts.
-- Combine slug into one short plain-text phrase.
+- Combine description into one accurate paragraph. Do not invent facts. Start with the facts.
+- Combine slug into one short plain-text phrase. Start with the phrase itself.
 - Merge log entries by date: one entry per date with a single summary and deduplicated notes.
 - Union openQuestions (unique strings). Union tags (0–3 preferred).
 - Preserve original spellings in aliases.
@@ -474,8 +475,8 @@ function stampMergedEntity(
         aliases,
         normalizedAliases: [],
         tags: validated.tags,
-        slug: asString(ai.slug) || longestName(members.map((m) => m.slug).filter(Boolean)) || merge.canonicalName,
-        description: asString(ai.description) || members.map((m) => m.description).filter(Boolean).join(" "),
+        slug: stripProcessPreamble(asString(ai.slug) || longestName(members.map((m) => m.slug).filter(Boolean)) || merge.canonicalName),
+        description: stripProcessPreamble(asString(ai.description) || members.map((m) => m.description).filter(Boolean).join(" ")),
         filename: entityMarkdownFilename({
             name: merge.canonicalName,
             type: merge.canonicalType,
@@ -487,7 +488,7 @@ function stampMergedEntity(
                 )
                 .map((entry) => ({
                     date: entry.date,
-                    summary: typeof entry.summary === "string" ? entry.summary : "",
+                    summary: typeof entry.summary === "string" ? stripProcessPreamble(entry.summary) : "",
                     notes: Array.isArray(entry.notes)
                         ? uniqueStrings(entry.notes.filter((n): n is string => typeof n === "string"))
                         : [],
@@ -542,7 +543,7 @@ async function loadEntityAtPath(filepath: string): Promise<EntityData | null> {
 }
 
 export async function applyApprovedMerges(
-    ai: AiClient | null,
+    pool: AiPool | null,
     approved: ApprovedMerge[],
     vaultDataFolder = "vault-data",
     options: { dryRun?: boolean } = {},
@@ -612,32 +613,33 @@ export async function applyApprovedMerges(
             continue;
         }
 
-        if (!ai) {
-            throw new Error("applyApprovedMerges requires an AiClient when not dry-running");
+        if (!pool) {
+            throw new Error("applyApprovedMerges requires an AI pool when not dry-running");
         }
-        await ai.resetConversation();
-        const raw = await ai.runJsonPrompt(buildMergePrompt(members, merge, aliases), {
-            timeout: 60_000,
-            effort: "medium",
-        });
-        const stamped = stampMergedEntity(parseMergedEntity(raw), merge, members, aliases);
-        const keepPath = await saveEntity(vaultDataFolder, stamped);
+        await pool.run(async (ai) => {
+            const raw = await ai.runJsonPrompt(buildMergePrompt(members, merge, aliases), {
+                timeout: 60_000,
+                effort: "medium",
+            });
+            const stamped = stampMergedEntity(parseMergedEntity(raw), merge, members, aliases);
+            const keepPath = await saveEntity(vaultDataFolder, stamped);
 
-        for (const filepath of memberPaths) {
-            if (path.resolve(filepath) === path.resolve(keepPath)) continue;
-            try {
-                await fs.unlink(filepath);
-                console.log(`[dedup] Deleted ${filepath}`);
-                pathRemap.set(filepath, keepPath);
-            } catch (error) {
-                console.warn(
-                    `[dedup] Could not delete ${filepath}: ${error instanceof Error ? error.message : error}`,
-                );
+            for (const filepath of memberPaths) {
+                if (path.resolve(filepath) === path.resolve(keepPath)) continue;
+                try {
+                    await fs.unlink(filepath);
+                    console.log(`[dedup] Deleted ${filepath}`);
+                    pathRemap.set(filepath, keepPath);
+                } catch (error) {
+                    console.warn(
+                        `[dedup] Could not delete ${filepath}: ${error instanceof Error ? error.message : error}`,
+                    );
+                }
             }
-        }
-        for (const filepath of memberPaths) {
-            pathRemap.set(filepath, keepPath);
-        }
+            for (const filepath of memberPaths) {
+                pathRemap.set(filepath, keepPath);
+            }
+        });
     }
 }
 
@@ -653,7 +655,7 @@ export async function runInteractiveDedup(
 
     let result: DedupResult;
     try {
-        result = await withAi(async (ai) => findDuplicateEntities(ai, vaultDataFolder));
+        result = await withAiPool((pool) => pool.run((ai) => findDuplicateEntities(ai, vaultDataFolder)));
     } catch (error) {
         throw error;
     }
@@ -669,7 +671,7 @@ export async function runInteractiveDedup(
 
     console.log(`[dedup] ${approved.length} group(s) approved for merge.`);
     if (options.dryRun) {
-        console.log("[dedup] dry-run: skipping ChatGPT merge and file writes.");
+        console.log("[dedup] dry-run: skipping Cursor merge and file writes.");
         await applyApprovedMerges(
             null,
             approved,
@@ -679,8 +681,8 @@ export async function runInteractiveDedup(
         return;
     }
 
-    await withAi(async (ai) => {
-        await applyApprovedMerges(ai, approved, vaultDataFolder);
+    await withAiPool(async (pool) => {
+        await applyApprovedMerges(pool, approved, vaultDataFolder);
     });
     console.log("[dedup] Interactive dedup complete.");
 }
@@ -696,8 +698,8 @@ async function main() {
         console.log(await previewEntityTable());
         return;
     }
-    await withAi(async (ai) => {
-        const result = await findDuplicateEntities(ai);
+    await withAiPool(async (pool) => {
+        const result = await pool.run((ai) => findDuplicateEntities(ai));
         console.log(formatDedupReport(result));
     });
 }

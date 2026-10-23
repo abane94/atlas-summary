@@ -1,151 +1,115 @@
 {
     "plotSections": [
         {
-            "title": "Spirits outside town",
+            "title": "Spirits outside New Navel",
             "bullets": [
-                "Sylan’s working theory is that he picks spirits up by walking through town, as on the last visit to Carlkin’s. He means to stay outside town while Gerk finds the sheriff.",
-                "Proximity is enough: the spirits are finished once he is close, drawn into him like air into a flame. He ties this to people who will not move on when their allotment of life ends, usually the undead or spirits without bodies, and says you cannot cheat her in the end.",
-                "He is unsure whether the trigger is a touch, their time being up, or their having been truly bad. He remembers the proprietor of Shades and Trades as a ghost he has been near and has not taken.",
-                "He recalls six souls with descriptions but no names, and will describe them to the sheriff rather than dig through notes. He remembers a sheriff watching the town and no mayor; he jokes that the party might count as the mayor and that they are not that responsible."
+                "Sylan stays outside town so he will not take spirits just by being among them. He thinks the ones he already has were picked up on the way to Carlkin’s, and that getting close is enough for a spirit to be drawn into him, like air into a flame.",
+                "He frames the targets as people who will not accept that a life has an allotment and must move on. You cannot cheat her in the end. He is unsure whether the trigger is a touch, their time being up, or that they were truly bad; he usually thinks of this as undead, but these are spirits without bodies.",
+                "He remembers the proprietor of Shades and Trades as a human who he now believes was a ghost. He has been around that spirit and has not taken it.",
+                "He recalls six souls by description, not name, and asks Gerk to find the sheriff so he can describe them. He does not remember a mayor, only a sheriff, and jokes that the party might count as the mayor. Gerk goes into the city to look."
             ]
         },
         {
-            "title": "Carlkin’s lighthouse",
+            "title": "Landing at Carlkin’s lighthouse",
             "bullets": [
-                "Gerk heads into the city for the sheriff. The others fly to Carlkin’s lighthouse. Glimmen and Araden land in and beside the streets; Araden curls her wings and keeps her tail off the shingles, then lets Elrus down.",
-                "Dana knocks as the point person. After a crate, a chain, and metal on metal, Carlkin opens and checks that Sylan and Gerk are not with them. Dana confirms they are absent and that there are no portals or shenanigans.",
-                "Carlkin recognizes the second dragon as the copper Araden, not Glimmen. Dana explains that Walker has been training with an established dragon rider, and that this dragon is his mentor’s. Benji pushes past Dana; Araden perks up. Elrus and Benji embrace. Benji says Elrus looks old for his age and asks about longer meditation; Elrus has been training his new recruit and calls Walker over.",
-                "Dana says the party already met Benji in The Reach, including during the Sunder Chase, though Walker had not introduced them. Carlkin identifies Benji as a warforged. The DM notes Elrus and Araden had not previously interacted with Benji.",
-                "Carlkin and Benji date their friendship to around the start of the Sunder Chase and dispute who gave whom the idea. They describe another copper dragon who is still around and is now a hoard dragon for that race. Riding with Araden would now be treated as cheating and grounds for disqualification. Carlkin calls it a death race.",
-                "They recall the party winning the Sunder Chase with Carlkin’s guidance. Carlkin slaps Ord and credits him with dispelling another ship, a use of magic he has not seen in generations, against the usual cannons, faster sails, and burning ships. A dragon simply outflying a ship is the other counter. Ord says someone else would have thought of the dispel eventually."
+                "The rest of the party goes to Carlkin’s lighthouse. Glimmen and Araden land in and beside the streets and draw a crowd. Araden curls her wings and tail in so she does not tear off roofing, then lets Elrus down.",
+                "Dana knocks as the point person. Behind the door a crate slides, a chain rattles, and metal rasps before Carlkin the tortle opens. He checks that they did not bring Sylan or Gerk and that there will be no portals. Dana confirms they did not.",
+                "Carlkin sees the copper dragon and asks if it is Glimmen. Dana says Walker has been training with an established dragon rider, and that this is the mentor’s dragon. Carlkin recognizes Araden."
+            ]
+        },
+        {
+            "title": "Benji, Elrus, and the Sunder Chase",
+            "bullets": [
+                "Benji pushes past Dana toward Araden, who perks up. Elrus and Benji embrace. Benji says Elrus looks old and asks if he has been meditating longer. Elrus says he has been training his new recruit and calls Walker over.",
+                "Dana says the party already met Benji in the Reach and that he was with them when they finished the Sunder Chase. Carlkin says Benji is a warforged. Walker notes Elrus and Araden met the party at the council of the gods; the DM clarifies there has been no meeting among Benji, Araden, and Elrus with the party until now.",
+                "Benji and Carlkin go back to about when the Sunder Chase started. Benji claims he gave Carlkin the idea. They argue over another copper dragon: Benji says he is not a fool, was an inspiratory dragon, is still around, and is now a hoard dragon for that race. Benji has run the race once or twice. Racing on Araden would now be treated as cheating and would disqualify someone from the death race.",
+                "Carlkin says the party won the Sunder Chase with some guidance from him. He credits Ord with a clever dispel on another ship, magic not seen in several generations, against the usual cannons, faster sails, or burning ships. Araden simply outflies an average ship."
             ]
         },
         {
             "title": "The white helm",
             "bullets": [
-                "Dana raises the helm Walker apprehended, which he is wearing. Carlkin still treats a lich phylactery as the likely reading. Walker says it is not one and that it is very mundane. Carlkin calls it ornamental and hobgoblin-inspired.",
-                "Walker hands it over. Carlkin’s belt pouch opens to about two feet across; he dunks the helm in and snaps it shut. He enchanted the bag of holding to detect soul magic of the kind acquainted with a phylactery and to burst into flames on contact. Nothing happens at first, and he says it can be returned in ten to fifteen minutes.",
-                "Dana asks about the little eagle. Walker rolls a 27 perception and sees the pouch’s bottom-right corner smolder. The bag does not flash into flame; Carlkin tears it off his belt and it smolders across its surface like slow-burning moss.",
-                "Carlkin says a phylactery would have been a full fire. This slow burn means trace soul magic on the item, and maybe further enchantments. He accuses Walker of having understated it. Ciri whispers that it looks like a phylactery. Carlkin says it is not a full phylactery and that it does not look like an ordinary helm.",
-                "Walker, who is fire resistant and has his golden glove, reaches into the burning bag. The damage is negligible after resistance. The interior is only large enough for the helm and a little extra. The bag’s bottom burns through, and the rest fractures like over-tapped crystal and blows away burning.",
-                "He is left with a slightly smoking white helm, cool to the touch, taken from the Emperor. Carlkin invites him inside to identify what he has been wearing. Walker stays. Dana goes in out of curiosity, and Ciri follows to needle Walker."
+                "Dana raises the helmet Walker took. Carlkin, seeing it on Walker’s head, still treats a lich phylactery as the likely read. Walker says he does not think it is one and that it is very mundane. Carlkin calls it ornamental and hobgoblin-inspired and asks to examine it. Walker hands it over.",
+                "Carlkin opens a belt pouch into a mouth about two feet across, dunks the helm in, and snaps it shut. He built the bag, in lieu of the spirit problem, as a soul-cleaning apparatus: a bag of holding enchanted to detect phylactery soul magic and burst into flames on contact. Nothing happens at first, so he says it is not a phylactery and that Walker can have it back in ten to fifteen minutes.",
+                "Dana starts to ask about the little eagle. Walker’s perception of 27 catches the pouch’s bottom-right corner smoldering. Carlkin rips the bag off his belt. It does not flash-burn; a slow fire creeps across it like flame on moss.",
+                "Carlkin accuses Walker of having misled him, then corrects himself: a real phylactery would have been a full fire. This is trace soul magic, plus maybe further enchantments. Ciri whispers to Walker that it looks like a phylactery. They must wait out the burn before Carlkin can investigate more. He says it is not an ordinary helm.",
+                "Walker, fire resistant and wearing the golden glove, reaches in. The bag would deal a little damage, halved to basically nothing. The interior is only big enough for the helm and a bit more. The bottom burns through, and the rest fractures like over-tapped crystal and blows away burning. Walker is left with a slightly smoking white helm he took from the Emperor. It is cold to the touch.",
+                "Carlkin invites him inside to identify what he has been wearing. Walker agrees. Dana goes in out of curiosity, and Ciri goes in to needle Walker."
             ]
         }
     ],
     "chronologicalEvents": [
-        "Sylan tells Gerk he likely picked up spirits by walking through town on the way to Carlkin’s, and that being close is enough for them to be drawn into him like air into a flame.",
-        "Sylan decides to stay outside town, recalls six souls by description rather than name, and asks Gerk to find the sheriff. He remembers no mayor.",
-        "Gerk leaves to look for the sheriff. The others fly to Carlkin’s lighthouse, where Glimmen and Araden land and Araden sets Elrus down.",
-        "Dana knocks. Carlkin confirms Sylan and Gerk are not with the party, then recognizes Araden as a copper dragon distinct from Glimmen.",
-        "Benji greets Araden and Elrus. Dana introduces herself and recalls meeting Benji in The Reach during the Sunder Chase. Carlkin identifies Benji as a warforged.",
-        "Carlkin and Benji connect their history to the early Sunder Chase, including another copper who is now a hoard dragon for the race, and Carlkin credits Ord with dispelling a ship when the party won it.",
-        "Walker removes the hobgoblin-inspired helm and Carlkin seals it in an enchanted bag of holding meant to burn on contact with phylactery soul magic.",
-        "Walker’s 27 perception catches the bag smoldering. Carlkin reads the slow burn as trace soul magic and possible further enchantments, not a full phylactery.",
-        "Walker pulls the white helm out with his golden glove. The bag burns apart. Carlkin takes Walker inside to study the helm further; Dana and Ciri go with them."
+        "Sylan explains that spirits seem to come to him when he is near them, including on the way to Carlkin’s, and that the ones who refuse to move on are drawn in like air into a flame.",
+        "Sylan decides to stay outside New Navel, memorize descriptions of six souls, and have Gerk fetch the sheriff. He remembers no mayor.",
+        "Gerk leaves to find the sheriff. The others fly to Carlkin’s lighthouse. Glimmen and Araden land, and Araden sets Elrus down.",
+        "Dana knocks. Carlkin checks for Sylan, Gerk, and portals, then recognizes Araden as a copper dragon rather than Glimmen.",
+        "Benji comes out, greets Araden, and reunites with Elrus, who introduces Walker as his new recruit. Dana reintroduces the Reach and Sunder Chase connection, and Carlkin identifies Benji as a warforged.",
+        "Benji and Carlkin trade the origin of the Sunder Chase and the fate of another copper dragon. Carlkin credits the party’s win and Ord’s dispel on a rival ship.",
+        "Walker gives Carlkin the helm. The enchanted bag of holding does not burst, so Carlkin first concludes it is not a phylactery.",
+        "Walker notices the bag smoldering. The slow burn indicates trace soul magic and other possible enchantments, not a full phylactery.",
+        "Walker pulls the white helm out with the golden glove. The bag burns apart. The helm, taken from the Emperor, is cold to the touch.",
+        "Walker, Dana, and Ciri go into the lighthouse with Carlkin for a closer look."
     ],
     "entities": {
         "Sylan": {
-            "existing": "Half-elf rogue and Gilbrick Gatekeeper who holds a keystone and a cautious bond with the Raven Queen.",
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper, tied to the Raven Queen.",
             "entityType": "PLAYER",
             "notes": [
-                "He believes walking through town is how spirits reach him, based on the last trip to Carlkin’s.",
-                "Once he is close, they are drawn in like air into a flame. He describes the targets as people who refuse to move on at the end of their allotment, typically undead or spirits without bodies.",
-                "He has not taken the proprietor of Shades and Trades, whom he now remembers as a ghost after previously remembering a human.",
-                "He is staying outside town and can describe six souls but does not have their names.",
-                "He remembers this town as watched by a sheriff, with no mayor he ever met."
+                "Stays outside New Navel so he does not take spirits by walking through town.",
+                "Believes the spirits latched on when he last went to Carlkin’s, and that proximity finishes them, like air into a flame.",
+                "Is unsure whether the trigger is touch, their allotted time ending, or that they were truly bad. He thinks of the usual targets as undead, but these are bodiless spirits.",
+                "Remembers six souls by description only and wants those descriptions given to the sheriff.",
+                "Now thinks the proprietor of Shades and Trades was a ghost. He has been around that spirit and has not taken it.",
+                "Does not remember a mayor of this town, only a sheriff."
             ],
             "titles": [],
             "personality": [
-                "He frames the work as finding those who will not accept that their time is over, and says you cannot cheat her in the end."
+                "Treats death as an allotment that has to be accepted. Some people refuse, and those are the ones he has to find."
             ],
             "quotesThemes": [
-                "Like air into a flame.",
                 "You cannot cheat her in the end."
             ],
-            "openQuestions": [
-                "He is unsure whether a spirit is taken by touch, because its time is up, or because it was truly bad."
-            ]
+            "openQuestions": []
         },
         "Gerk": {
-            "existing": "Half-orc barbarian and party ambassador.",
+            "existing": "Half-orc barbarian and Doorman.",
             "entityType": "PLAYER",
             "notes": [
-                "He goes into the city to find the sheriff while Sylan stays outside town.",
-                "He is uneasy about identifying harmful spirits if Sylan is not in town, and about how anyone arrests something that is simply drawn into Sylan."
+                "Goes into New Navel alone to find the sheriff while Sylan waits outside.",
+                "Presses Sylan on how spirits reach him and how the bad ones can be found if Sylan is not in town."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Carlkin": {
-            "existing": "Turtle-like proprietor of the New Navel lighthouse and bookshop.",
-            "entityType": "NPC",
+        "Dana": {
+            "existing": "Half-elf cleric and the party’s most knowledgeable member.",
+            "entityType": "PLAYER",
             "notes": [
-                "He answers only after a crate slides, a chain rattles, and metal rasps, and he checks that Sylan and Gerk were not brought.",
-                "He recognizes Araden on sight and is old friends with Benji, going back to around the start of the Sunder Chase.",
-                "He claims a hand in guiding the party’s Sunder Chase win and credits Ord with dispelling another ship.",
-                "He enchanted a bag of holding as a soul-cleaning apparatus: it detects soul magic associated with a phylactery and should burst into flames on contact. The helm only made it smolder, which he reads as trace soul magic plus possible other enchantments.",
-                "The bag burned away like fracturing crystal. He invites Walker inside to identify the helm."
-            ],
-            "titles": [],
-            "personality": [
-                "Wary of Sylan and Gerk’s portals and shenanigans, and fond of the Sunder Chase, which he calls a fun death race."
-            ],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Benji": {
-            "existing": "Someone familiar with The Reach whom the party met there.",
-            "entityType": "NPC",
-            "notes": [
-                "He is a warforged. The party already heard that explanation in The Reach, and he was with them when they completed the Sunder Chase.",
-                "He is at Carlkin’s lighthouse, greets Araden, and cordially embraces Elrus. Carlkin says the party, Araden, and Elrus had not previously interacted with him together.",
-                "He and Carlkin go back to about when the Sunder Chase began, and they dispute which of them supplied the idea.",
-                "He remarks that Elrus looks old for his age and asks if he has been meditating longer."
-            ],
-            "titles": [
-                "Warforged"
-            ],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Araden": {
-            "existing": "A magically capable companion brought secretly to The Reach.",
-            "entityType": "NPC",
-            "notes": [
-                "She is a copper dragon. Dana identifies her as the dragon of the established dragon rider mentoring Walker, not as Glimmen.",
-                "She lands beside the lighthouse, tucks her wings, and keeps her tail from tearing off shingles, then lets Elrus down.",
-                "She visibly perks up when Benji comes toward her. Carlkin knows her from long ago.",
-                "Carlkin says entering the Sunder Chase with Araden would now be considered cheating and would get a rider disqualified."
+                "Acts as point person at Carlkin’s door and assures him Sylan, Gerk, and portals are not with them.",
+                "Identifies Araden as the dragon of the established rider mentoring Walker, and not Glimmen.",
+                "Reintroduces herself to Benji and cites meeting him in the Reach and finishing the Sunder Chase with him.",
+                "Asks Carlkin about the little eagle, which goes unanswered in this stretch.",
+                "Enters the lighthouse with Walker and Carlkin."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Elrus": {
-            "existing": "Walker’s hidden ally.",
-            "entityType": "NPC",
-            "notes": [
-                "Araden carries him to Carlkin’s door and lets him down.",
-                "He cordially embraces Benji, says he has been training his new recruit, and calls Walker over to meet Benji."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
+            "openQuestions": [
+                "What was Carlkin about to say regarding the little eagle?"
+            ]
         },
         "Walker": {
             "existing": "Half-elf dragon rider and fighter bonded to Glimmen.",
             "entityType": "PLAYER",
             "notes": [
-                "He has been training with an established dragon rider; Araden is that mentor’s dragon.",
-                "He was wearing the white helm and does not believe it is a phylactery. He calls it very mundane.",
-                "A 27 perception check lets him see Carlkin’s pouch start to smolder.",
-                "He is fire resistant and carries a golden glove. He reaches into the burning bag and recovers the helm with negligible damage.",
-                "He agrees to stay in the lighthouse while Carlkin studies the helm."
+                "Has been training as Elrus’s new recruit. Elrus’s dragon is the copper Araden.",
+                "Does not believe the helm is a phylactery and calls it very mundane.",
+                "Hands the helm to Carlkin, then spots the bag smoldering on a perception of 27.",
+                "Is fire resistant. With the golden glove, he takes the helm back out of the burning bag for negligible damage.",
+                "The helm he has been wearing is a white helm taken from the Emperor. After the bag burns away it is cold to the touch.",
+                "Agrees to stay in the lighthouse while Carlkin investigates it further."
             ],
             "titles": [],
             "personality": [],
@@ -156,23 +120,95 @@
             "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
             "entityType": "PLAYER",
             "notes": [
-                "Carlkin credits him with the clever move in the party’s Sunder Chase win: dispelling another ship, something Carlkin has not seen in generations.",
-                "Ord says someone else would have thought of it eventually."
+                "Carlkin credits Ord with the clever thinking that dispelled another ship during the Sunder Chase, a use of magic Carlkin says has not been seen in several generations.",
+                "Carlkin says that if anyone were disqualified from the chase, it would be Ord, and that he gave the party some guidance before they won."
+            ],
+            "titles": [],
+            "personality": [
+                "Ord brushes the praise off and says someone else would have thought of the dispel eventually."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Whispers to Walker that the smoking helm looks like a phylactery.",
+                "Goes into the lighthouse with Walker."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Dana": {
-            "existing": "Half-elf cleric, most knowledgeable of the group.",
-            "entityType": "PLAYER",
+        "Carlkin": {
+            "existing": "Turtle-like shopkeeper of the New Navel lighthouse.",
+            "entityType": "NPC",
             "notes": [
-                "She takes the door as the designated point person, assures Carlkin that Sylan and Gerk are absent, and introduces herself to Benji.",
-                "She presses the phylactery question and then asks about the little eagle before the bag is seen to burn.",
-                "She goes into the lighthouse with Walker and Carlkin."
+                "Opens the lighthouse only after checking that Sylan, Gerk, and portal shenanigans are absent.",
+                "Recognizes Araden by name and is surprised the party brought her. He knows she is a copper dragon and not Glimmen.",
+                "Goes back with Benji to about the start of the Sunder Chase. Benji says he gave Carlkin the idea for it. Carlkin may also have given the party guidance, and he remembers that they won.",
+                "Prepared a soul-cleaning bag of holding, in lieu of the current situation, that detects phylactery soul magic and is meant to burst into flames on contact. The helm does not cause a full burn, so he first clears it, then revises that to trace soul magic and possible further enchantments. The bag is destroyed.",
+                "Still wants a closer study inside the lighthouse before he will say exactly what Walker has been wearing. He already considers it more than an ordinary helm, ornamental and hobgoblin-inspired.",
+                "Offers the helm back in ten to fifteen minutes before the smolder changes the plan."
             ],
             "titles": [],
+            "personality": [
+                "Wary of Sylan, Gerk, and doors. Warm and long-winded with Benji, proud of unusual magic over cannons and faster sails."
+            ],
+            "quotesThemes": [
+                "A phylactery would have been a full fire. Trace soul magic means something else is on the item."
+            ],
+            "openQuestions": [
+                "What else, besides trace soul magic, is on the white helm?"
+            ]
+        },
+        "Benji": {
+            "existing": "Someone familiar with the Reach who may be at the party’s bar.",
+            "entityType": "NPC",
+            "notes": [
+                "Confirmed warforged. He explained that to the party when they first met, and he was with them for the Sunder Chase.",
+                "Old friend of Carlkin from about when the Sunder Chase began, and claims he gave Carlkin the idea. He has participated once or twice.",
+                "Perks Araden up by approaching her. He and Elrus embrace. He thinks Elrus looks old and asks if he has been meditating longer.",
+                "Knows another copper dragon he refuses to call a fool: once an inspiratory dragon, still around, now a hoard dragon for the race. He says racing with Araden would now be cheating and grounds for disqualification.",
+                "Had not previously had this meeting with Araden and Elrus together with the party, despite the party knowing him from the Reach."
+            ],
+            "titles": [
+                "Warforged"
+            ],
+            "personality": [
+                "Familiar and corrective with Carlkin. Treats the Sunder Chase as a fun death race and dragon-riding it as cheating."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Elrus": {
+            "existing": "Walker’s hidden ally in a coming confrontation.",
+            "entityType": "NPC",
+            "notes": [
+                "Arrives riding Araden and dismounts at Carlkin’s door.",
+                "Cordial with Benji. He has been training Walker as his new recruit rather than only meditating.",
+                "He and Araden had met the party at the council of the gods, but had not met Benji in that company before."
+            ],
+            "titles": [
+                "Walker’s dragon-rider mentor"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to the Reach.",
+            "entityType": "NPC",
+            "notes": [
+                "Copper dragon, and the dragon of the rider mentoring Walker. Carlkin knows her by name.",
+                "Lands carefully in the street so her wings and tail do not rip shingles, then lets Elrus down. She visibly perks up when Benji comes toward her.",
+                "Benji says entering the Sunder Chase with Araden would now be considered cheating and would get a rider disqualified. She also simply flies faster than an average ship."
+            ],
+            "titles": [
+                "Copper dragon"
+            ],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
@@ -181,25 +217,25 @@
             "existing": "A helm Carlkin agreed to examine.",
             "entityType": "ITEM",
             "notes": [
-                "Walker had been wearing it. It is a white helm he took from the Emperor, ornamental and hobgoblin-inspired.",
-                "Carlkin’s soul-magic bag did not fully ignite. Carlkin concludes it is not a phylactery, but that trace soul magic accompanies it and that other enchantments may be present.",
-                "It is cool to the touch after being pulled from the smoldering bag. Carlkin is taking it inside for a closer identification."
+                "Walker has been wearing it. It is a white helm he took from the Emperor. Carlkin calls it ornamental and hobgoblin-inspired, not ordinary.",
+                "It is not a full phylactery. Carlkin’s bag would have burst into flame for that. The slow smolder means trace soul magic and maybe more enchantments.",
+                "After the bag burns off around it, the helm is only slightly smoking and then cold to the touch.",
+                "Carlkin takes Walker inside to finish identifying it."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": [
-                "What the helm actually is, beyond trace soul magic and possible further enchantments."
+                "What the trace soul magic and any other enchantments actually are."
             ]
         },
-        "Sunder Chase": {
-            "existing": "A summer seasonal event in The Reach.",
-            "entityType": "CONCEPT",
+        "Soul-detecting bag of holding": {
+            "existing": "",
+            "entityType": "ITEM",
             "notes": [
-                "Carlkin calls it a death race. Usual entries rely on cannons, faster sails, or burning ships. A dragon simply flying faster than a ship is the other route, and racing with Araden would now be cheating.",
-                "The party won it. Carlkin says he gave them guidance. Ord’s contribution was dispelling another ship.",
-                "Carlkin and Benji trace their friendship, and the argument over who had the idea, to when the Chase first started.",
-                "Another copper dragon is described as still around and now a hoard dragon for the race."
+                "Carlkin enchanted a bag of holding, in lieu of the spirit situation, to detect soul magic of the kind acquainted with a phylactery and to burst into flames on contact. He calls it a soul-cleaning apparatus.",
+                "The mouth can open to about two feet across. The space inside was only big enough for this helm plus a little extra.",
+                "The helm did not cause a full burst. A slow burn started at the bottom-right corner, spread across the bag, burned through the bottom, and the rest shattered like crystal and drifted off on the wind. The bag is gone."
             ],
             "titles": [],
             "personality": [],
@@ -210,7 +246,20 @@
             "existing": "Where Sylan found the staff later fused to Ord’s lantern.",
             "entityType": "LOCATION",
             "notes": [
-                "Sylan now believes its proprietor was a ghost. He remembers earlier thinking the proprietor was human, has been around him, and has not taken him."
+                "Sylan remembers the proprietor as a human, then revises that: he believes the proprietor was a ghost. Sylan has been around him and has not taken that spirit."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sunder Chase": {
+            "existing": "A summer seasonal event.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Described in this conversation as a death race. The party won it. Carlkin may have given them guidance, and Benji claims he gave Carlkin the original idea, back when the chase first started.",
+                "Ordinary competitors rely on cannons, faster sails, or burning ships. Ord’s dispel of another ship is treated as rare, once in several generations.",
+                "Riding Araden is now considered cheating and would disqualify an entry. Benji has raced once or twice. Another copper dragon is now a hoard dragon for the race."
             ],
             "titles": [],
             "personality": [],
@@ -218,11 +267,22 @@
             "openQuestions": []
         },
         "New Navel": {
-            "existing": "A familiar stop that holds Carlkin’s lighthouse and sends trade to the party’s tavern.",
+            "existing": "A familiar stop with Carlkin’s lighthouse and a sheriff who bans doors and spirit-taking in the city.",
             "entityType": "LOCATION",
             "notes": [
-                "Sylan remembers a sheriff as the person who watched the town, and no mayor. He suggests the party might jokingly occupy that role.",
-                "Dragons landing near the lighthouse draw a stir in the streets."
+                "Sylan remembers no mayor, only a sheriff, and waits outside so he will not take spirits in town.",
+                "Glimmen and Araden landing in the streets causes a visible stir. Araden has to avoid tearing roofing."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Unnamed copper dragon": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "A copper dragon Benji and Carlkin both know from the Sunder Chase. Carlkin starts to call him a fool. Benji says he is not a fool, was an inspiratory dragon, is still around, and is now a hoard dragon for that race."
             ],
             "titles": [],
             "personality": [],
@@ -233,11 +293,24 @@
             "existing": "",
             "entityType": "NPC",
             "notes": [
-                "Carlkin says the white helm Walker has been wearing is the one Walker took from the Emperor."
+                "Named as the person Walker took the white helm from. No further description in this stretch."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Raven Queen": {
+            "existing": "Elder god of death, also called Nira.",
+            "entityType": "NPC",
+            "notes": [
+                "Sylan’s rule for the spirits is that everyone has an allotment and must move on, and that you cannot cheat her in the end. The people who take that badly are the ones he has to find."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "You cannot cheat her in the end."
+            ],
             "openQuestions": []
         }
     },
@@ -245,12 +318,12 @@
         {
             "heard": "the gulp",
             "likely": "the ghost",
-            "notes": "Gerk asks how you arrest one as it is sucked into Sylan."
+            "notes": "Gerk asks how you arrest one, in the spirit conversation."
         },
         {
             "heard": "who overlips that island",
             "likely": "",
-            "notes": "Gerk, overlapping Sylan’s air-into-a-flame line. No stable phrase is clear."
+            "notes": "Gerk, overlapping Sylan’s air-into-a-flame line. Unclear whether vacuum, overlap, or a name."
         },
         {
             "heard": "Shades and Shades",
@@ -260,76 +333,115 @@
         {
             "heard": "silent or girl",
             "likely": "Sylan or Gerk",
-            "notes": "Carlkin checking who was brought to the door."
+            "notes": "Carlkin at the door, asking Dana to confirm they were not brought."
         },
         {
             "heard": "claimant",
             "likely": "Glimmen",
-            "notes": "Carlkin asking whether the copper dragon is Walker’s own dragon."
+            "notes": "Carlkin asking whether the copper dragon is Glimmen."
         },
         {
             "heard": "Rayodin",
             "likely": "Araden",
-            "notes": "Carlkin greeting the copper dragon. Also heard nearby as Rayadin."
+            "notes": "Carlkin naming the copper dragon."
+        },
+        {
+            "heard": "Rayadin",
+            "likely": "Araden",
+            "notes": "Later DM clarification of who had not yet met Benji."
         },
         {
             "heard": "aides",
             "likely": "age",
-            "notes": "Benji telling Elrus he looks old for his age."
+            "notes": "Benji to Elrus: you look old for your age."
         },
         {
             "heard": "inspiratory dragon",
             "likely": "",
-            "notes": "Said of the other copper who is now a hoard dragon for the race. Benji and Carlkin are both talking."
+            "notes": "Benji’s epithet for the other copper dragon. Could be inspirational or a proper title."
+        },
+        {
+            "heard": "horde dragon",
+            "likely": "hoard dragon",
+            "notes": "Same copper, now associated with the Sunder Chase."
         },
         {
             "heard": "Thunder cheese",
             "likely": "Sunder Chase",
-            "notes": "Carlkin shifting into how the party won it."
+            "notes": "Just before Carlkin says they won it."
         },
         {
             "heard": "Caro called soon",
             "likely": "Carlkin so soon",
-            "notes": "What brings you back to Carlkin so soon."
+            "notes": "The question of what brings the party back, just before the helm."
         },
         {
-            "heard": "peepity buffity poop",
+            "heard": "litist phlactory",
+            "likely": "lich’s phylactery",
+            "notes": "Carlkin on the helm Walker is wearing."
+        },
+        {
+            "heard": "philatry",
+            "likely": "phylactery",
+            "notes": "Carlkin correcting the word in the same exchange."
+        },
+        {
+            "heard": "flag tree",
+            "likely": "phylactery",
+            "notes": "Carlkin after dunking the helm in the bag."
+        },
+        {
+            "heard": "philosophy",
+            "likely": "phylactery",
+            "notes": "Carlkin backing off from calling the trace reaction a full phylactery."
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": "Ciri whispering to Walker as the bag smolders."
+        },
+        {
+            "heard": "control is",
             "likely": "",
-            "notes": "Carlkin dismissing magic, contrasted with cannons, faster sails, and burning ships. Ord’s dispel is the intended example."
+            "notes": "Carlkin, between the phylactery argument and asking Walker if he figured it out."
         },
         {
-            "heard": "little eagle",
-            "likely": "",
-            "notes": "Dana asks what Carlkin was saying about it immediately before the pouch is seen smoldering. Nothing in the chunk identifies it."
+            "heard": "Rain",
+            "likely": "Araden",
+            "notes": "The counterexample of something that just flies faster than a ship."
         },
         {
-            "heard": "it's called the touch",
-            "likely": "cool to the touch",
-            "notes": "Carlkin on the helm after it comes out of the bag."
+            "heard": "called the touch",
+            "likely": "cold to the touch",
+            "notes": "Carlkin after Walker asks if the recovered helm is still hot."
+        },
+        {
+            "heard": "hopgoblin",
+            "likely": "hobgoblin",
+            "notes": "Carlkin on the helm’s ornament."
         }
     ],
     "openQuestions": [
-        "Sylan does not know whether spirits are taken because of a touch, because their time is up, or because they were truly bad.",
-        "Dana asks about the little eagle and the chunk never answers it.",
-        "Carlkin has not yet said what the white helm is. The bag test rules out a full phylactery and shows trace soul magic, with possible further enchantments."
+        "Dana asks what Carlkin was saying about the little eagle, and the bag starts smoldering before he answers.",
+        "Carlkin still has to investigate what the white helm is after the bag shows trace soul magic rather than a full phylactery."
     ],
     "newTerms": [
         {
-            "name": "Walker's golden glove",
+            "name": "Emperor",
             "notes": [
-                "Walker uses it, with his fire resistance, to pull the helm from Carlkin’s burning bag."
+                "The person Walker took the white helm from. Carlkin is about to study that helm inside the lighthouse."
             ]
         },
         {
-            "name": "Carlkin's soul-cleaning bag",
+            "name": "Soul-cleaning bag",
             "notes": [
-                "A bag of holding he enchanted to detect phylactery soul magic and ignite on contact. The helm only made it smolder, and the bag then burned away."
+                "Carlkin’s bag of holding, enchanted to detect phylactery soul magic and burn on contact. Trace soul magic only smolders it. The bag is destroyed in the test."
             ]
         },
         {
-            "name": "The Emperor",
+            "name": "Allotment",
             "notes": [
-                "Carlkin says Walker took the white helm from the Emperor."
+                "Sylan’s word for the span of a life. When it ends, the person is supposed to move on. Those who refuse are the spirits he has to find, because they cannot cheat her."
             ]
         }
     ]

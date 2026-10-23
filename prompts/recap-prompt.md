@@ -42,6 +42,7 @@ Some these may be useful in identifying incorrect transcripton (based on spellin
 - a discrete list of any characters or vocab/conncepts that I did not list that should be called out. For any Character or concept that was discussed include a discrete section for any updates/information uncovered during the session. as I will keep note pages for them and will updates the note pages
 - Include a list of terms that you think maybe mis-transcribed that I can provide clarity on for next time. These should not include generic phrase, only include phrases when it seems to be a reused phrase.
 - Always return JSON matching SessionChunkSummary; every array/object field present even when empty.
+- The transcript chunk in this message is the only source. Do not look up other sessions, files, or notes, and do not describe that process. No preamble inside any string field.
 - Canonicalize entity keys (Gerk not Girk / Burke when you know better); put ASR confusion in misTranscriptions.
 - Each misTranscription is one hearing. Do not join alternate spellings with slashes; emit a separate object for each heard string.
 - Put plot under plotSections, not only under chronology — chronology is the beat list, plot is the thematic write-up.

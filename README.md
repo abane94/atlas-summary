@@ -1,6 +1,6 @@
 # dnd-transcribe-summary
 
-Turns D&D session transcripts into campaign notes. An AI client (Cursor by default, or ChatGPT via local Chrome) does the summarization; GitHub Actions builds the Quartz site from the resulting vault data.
+Turns D&D session transcripts into campaign notes. Cursor agents do the summarization; GitHub Actions builds the Quartz site from the resulting vault data.
 
 ## Setup
 
@@ -9,14 +9,13 @@ nix develop   # or: direnv allow
 npm install
 ```
 
-Copy `.env.example` to `.env` and adjust paths if needed.
+Copy `.env.example` to `.env` if you want a different `AI_CONCURRENCY`.
 
-## AI provider
+## AI
 
-The active provider is the instance exported from [`lib/ai.js`](lib/ai.js) (hardcoded to Cursor for this phase). You can also set `AI_PROVIDER=chatgpt` to use ChatGPT instead.
+Summaries run through `cursor-agent`. A pool of clients (default 4, set `AI_CONCURRENCY`) pulls jobs off a queue. Each client keeps its conversation for the whole job, including a chunk's shape-check retry, then clears it before taking the next job.
 
-- **Cursor (default):** runs `cursor-agent`. No Chrome debug browser required.
-- **ChatGPT:** drives ChatGPT in Chrome via Puppeteer. Requires `npm run chrome:debug` (or launch mode).
+Chunks in one session run at the same time. The merge prompts for one session do too. Vault entity writes for one session do too. Sessions still run one date after another, because a new entity has to be in the catalog before the next session is matched.
 
 ## Session workflow
 
@@ -27,15 +26,7 @@ The active provider is the instance exported from [`lib/ai.js`](lib/ai.js) (hard
    transcripts/YYYY-MM-DD/transcript.md
    ```
 
-2. If using ChatGPT (`AI_PROVIDER=chatgpt`), start Chrome with remote debugging (keeps your ChatGPT login):
-
-   ```bash
-   npm run chrome:debug
-   ```
-
-   Skip this step when using the default Cursor provider.
-
-3. Run the local pipeline. Completed steps are skipped automatically:
+2. Run the local pipeline. Completed steps are skipped automatically:
 
    ```bash
    npm start -- 2026-08-17
@@ -49,7 +40,7 @@ The active provider is the instance exported from [`lib/ai.js`](lib/ai.js) (hard
    npm start -- 2026-08-17 --with-vault
    ```
 
-4. After vault data exists, optionally look for duplicate entities (same person/place under different names). This is **not** part of process/vault:
+3. After vault data exists, optionally look for duplicate entities (same person/place under different names). This is **not** part of process/vault:
 
    ```bash
    npm start -- dedup
@@ -58,7 +49,7 @@ The active provider is the instance exported from [`lib/ai.js`](lib/ai.js) (hard
 
    `--dry-run` alone prints the entity table that would be sent to the AI. With `--interactive`, the scan and review still run, but merges are only printed (no AI merge / file writes).
 
-5. Assign tags from the closed catalog to existing vault entities (also not part of process/vault):
+4. Assign tags from the closed catalog to existing vault entities (also not part of process/vault):
 
    ```bash
    npm start -- tags
@@ -67,7 +58,7 @@ The active provider is the instance exported from [`lib/ai.js`](lib/ai.js) (hard
 
    Suggestions for new catalog tags are appended to `vault-data/tag-suggestions.json` for human review.
 
-6. Commit `summaries/` and `vault-data/`. CI runs `lib/generate-markdown.ts` and publishes the site.
+5. Commit `summaries/` and `vault-data/`. CI runs `lib/generate-markdown.ts` and publishes the site.
 
 See current progress without calling the AI:
 
@@ -99,51 +90,8 @@ npm start -- status
 
 Website markdown (`vault/**/*.md`) is **not** part of the local pipeline. Preview it with `npm run markdown` if you want; CI still generates it on push to `main`.
 
-## Chrome modes (ChatGPT provider only)
-
-These apply when `lib/ai.js` exports the ChatGPT client (`AI_PROVIDER=chatgpt`).
-
-### Recommended: connect to your running Chrome
-
-This keeps your normal Chrome session (cookies, logins, extensions).
-
-1. Start Chrome with remote debugging (uses your automation profile):
-
-   ```bash
-   npm run chrome:debug
-   ```
-
-   Or manually:
-
-   ```bash
-   google-chrome-stable \
-     --remote-debugging-port=9222 \
-     --user-data-dir="$HOME/.config/google-chrome-automation"
-   ```
-
-2. Run a script:
-
-   ```bash
-   AI_PROVIDER=chatgpt npm start -- 2026-08-17
-   ```
-
-   Default Puppeteer mode is `connect` — it attaches to that Chrome instance.
-
-### Alternative: launch mode
-
-Spawns Chrome with your profile. **Close all Chrome windows first** (profile lock).
-
-```bash
-AI_PROVIDER=chatgpt PUPPETEER_MODE=launch npm start -- 2026-08-17
-```
-
 ## Environment variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `AI_PROVIDER` | `cursor` | `cursor` or `chatgpt` (chosen in `lib/ai.js`) |
-| `PUPPETEER_MODE` | `connect` | ChatGPT only: `connect` or `launch` |
-| `CHROME_PATH` | `/etc/profiles/per-user/aris/bin/google-chrome-stable` | ChatGPT only: Chrome binary |
-| `CHROME_USER_DATA_DIR` | `$HOME/.config/google-chrome` | ChatGPT only: profile directory |
-| `CHROME_DEBUG_URL` | `http://127.0.0.1:9222` | ChatGPT only: remote debugging URL |
-| `HEADLESS` | `false` | ChatGPT only: launch mode |
+| `AI_CONCURRENCY` | `4` | How many Cursor agents run at once. Each keeps its own conversation. |

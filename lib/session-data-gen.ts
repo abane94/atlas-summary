@@ -2,7 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 // import { MergedSessionData, SessionChunkSummary } from './types/session.ts';
-import type { AiClient } from './ai.js';
+import type { AiPool } from './ai.js';
+import { chunkSummaryProblems } from './chunk-summary.ts';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -117,14 +118,21 @@ function loadAllSummaries(date: string): SessionChunkSummary[] {
     while (hasNext) {
         const summaryPath = path.join(__dirname, '..', 'summaries', `${date}`, `summary-${i}.json`);
         if (fs.existsSync(summaryPath)) {
+            let data: unknown;
             try {
-                const data = JSON.parse(fs.readFileSync(summaryPath, 'utf8'));
-                summaries.push(data);
+                data = JSON.parse(fs.readFileSync(summaryPath, 'utf8'));
             } catch (error) {
                 console.error(`Error parsing summary-${i}.json: ${error}`);
                 hasNext = false;
                 process.exit(1);
             }
+            const problems = chunkSummaryProblems(data);
+            if (problems.length > 0) {
+                throw new Error(
+                    `${summaryPath} is not a SessionChunkSummary:\n- ${problems.join("\n- ")}\nRegenerate this chunk.`,
+                );
+            }
+            summaries.push(data);
             i++;
 
         } else {
@@ -145,7 +153,7 @@ export function generateSessionData(date: string): { summaries: SessionChunkSumm
     return { summaries };
 }
 
-export async function mergeSessionData(ai: AiClient, sessionData: { summaries: SessionChunkSummary[] }): Promise<MergedSessionData> {
+export async function mergeSessionData(pool: AiPool, sessionData: { summaries: SessionChunkSummary[] }): Promise<MergedSessionData> {
     const flatMisTranscriptions: MisTranscription[] = [];
     const merged: MergedSessionData = {
         plotSections: [],
@@ -187,8 +195,7 @@ export async function mergeSessionData(ai: AiClient, sessionData: { summaries: S
         merged.newTerms = dedupedNewTerms;
     }
 
-    await ai.resetConversation();
-    const plotSections = await ai.runJsonPrompt(`
+    const plotSectionsP = pool.run((ai) => ai.runJsonPrompt(`
         This json blob below is a list of plot sections that have been updated in the session.
         They were the outcome of baches of transcription summerization that was done prgramatically,
         There are likely many duplicates in the list, that may have similar but different names, or descriptions, or other information.
@@ -208,12 +215,9 @@ export async function mergeSessionData(ai: AiClient, sessionData: { summaries: S
         }
         \`\`\`
         ${JSON.stringify(merged.plotSections, null, 4)}
-    `, { timeout: 60_000, effort: "medium" });
-    console.log(plotSections);
-    merged.plotSections = JSON.parse(plotSections).plotSections;
+    `, { timeout: 60_000, effort: "medium" }));
 
-    await ai.resetConversation();
-    const chronologicalEvents = await ai.runJsonPrompt(`
+    const chronologicalEventsP = pool.run((ai) => ai.runJsonPrompt(`
         This json blob below is a list of chronological events that have been updated in the session. This merge was done prgramatically,
         Can you please return a new json blob that matches the original format, but mergeing any common chronological events and removing any duplicate information
         The out put should be json and only json following this iterface
@@ -223,12 +227,9 @@ export async function mergeSessionData(ai: AiClient, sessionData: { summaries: S
         }
         \`\`\`
         ${JSON.stringify(merged.chronologicalEvents, null, 4)}  
-    `, { timeout: 60_000, effort: "medium" });
-    merged.chronologicalEvents = JSON.parse(chronologicalEvents).events;
+    `, { timeout: 60_000, effort: "medium" }));
 
-
-    await ai.resetConversation();
-    const entities = await ai.runJsonPrompt(`
+    const entitiesP = pool.run((ai) => ai.runJsonPrompt(`
         This json blob below is a list of entities that have been updated in the session.
         They were the outcome of baches of transcription summerization that was done prgramatically,
         There are likely many duplicates in the list, that may have similar but different names, or descriptions, or other information.
@@ -275,10 +276,9 @@ export async function mergeSessionData(ai: AiClient, sessionData: { summaries: S
         \`\`\`
 
         ${JSON.stringify(merged.entities, null, 4)}
-    `, { timeout: 60_000, effort: "medium" });
+    `, { timeout: 60_000, effort: "medium" }));
 
-    await ai.resetConversation();
-    const terms = await ai.runJsonPrompt(`
+    const termsP = pool.run((ai) => ai.runJsonPrompt(`
         This json blob below is a list of terms that have been updated in the session.
         They were the outcome of baches of transcription summerization that was done prgramatically,
         There are likely many duplicates in the list, that may have similar but different names, or descriptions, or other information.
@@ -300,10 +300,9 @@ export async function mergeSessionData(ai: AiClient, sessionData: { summaries: S
         \`\`\`
 
         ${JSON.stringify(merged.newTerms, null, 4)}
-    `, { timeout: 60_000, effort: "medium" });
+    `, { timeout: 60_000, effort: "medium" }));
 
-    await ai.resetConversation();
-    const misTranscriptions = await ai.runJsonPrompt(`
+    const misTranscriptionsP = pool.run((ai) => ai.runJsonPrompt(`
         This json blob is every mis-transcription reported from the chunk summaries of one session.
         Each row is one hearing: what the transcript said (heard), the best guess (likely, or "" if unknown), and why (notes).
         The same term was often reported more than once, with a different heard spelling and a repeated or conflicting note.
@@ -337,8 +336,18 @@ export async function mergeSessionData(ai: AiClient, sessionData: { summaries: S
         \`\`\`
 
         ${JSON.stringify(flatMisTranscriptions, null, 4)}
-    `, { timeout: 90_000, effort: "medium" });
+    `, { timeout: 90_000, effort: "medium" }));
 
+    const [plotSections, chronologicalEvents, entities, terms, misTranscriptions] = await pool.settle([
+        plotSectionsP,
+        chronologicalEventsP,
+        entitiesP,
+        termsP,
+        misTranscriptionsP,
+    ]);
+    console.log(plotSections);
+    merged.plotSections = JSON.parse(plotSections).plotSections;
+    merged.chronologicalEvents = JSON.parse(chronologicalEvents).events;
     merged.entities = JSON.parse(entities).entities;
     merged.newTerms = JSON.parse(terms).terms;
     merged.misTranscriptions = JSON.parse(misTranscriptions).misTranscriptions;

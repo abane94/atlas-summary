@@ -3,70 +3,46 @@
         {
             "title": "Fused lantern-staff",
             "bullets": [
-                "The party retested the fused lantern-staff with the same incantation. It reproducibly blinds people who look at it. Sylan avoided the effect by not looking. Gerk was blinded again while off to the side and could not say whether he had looked.",
-                "Ord reports an evocation aura. While the blinding incantation is active he sees the Ethereal Plane in grayscale, including spirits attached to Sylan. Sylan also saw the spirits once he grabbed the staff."
+                "The lantern and staff are fused, and the same incantation reproducibly blinds people who look at it. Sylan avoided the effect by not looking. Gerk was blinded while insisting he was off to the side and does not know whether he looked.",
+                "While others are blinded, the user sees a grayscale ethereal scene. Ord identifies an evocation aura and sees spirits attached to Sylan.",
+                "When Sylan grabbed the staff to help Ord, a black pillar shot up and the spirits were drawn into Sylan. He wants the blind function for Ord in a fight and the spirit-gathering effect for himself."
             ]
         },
         {
-            "title": "Spirits from New Navel",
+            "title": "Six New Navel spirits",
             "bullets": [
-                "When Sylan took the staff to help Ord, the black pillar shot up and the spirits were drawn into Sylan, not into the staff. All six are with him again.",
-                "The party will not describe the spirits beyond identifying them as people from New Navel. Interrogation pointed to unfinished business and gripes with people there. Sylan suspects he might speak with them in his own realm, and he is not sure.",
-                "The party agrees to pursue that lead, with Ciri in favor. They consider waiting until dinner, then Walker gives his report once everyone is confirmed present."
+                "Six spirits are back with Sylan. The party will not describe them beyond that they seem to be people of New Navel, not people of a guild, with gripes against some people there and possible unfinished business.",
+                "Sylan thinks he might be able to speak with them if he goes to his own realm, and he is not sure. He proposes a New Navel ghost investigation before the lich and his sister.",
+                "The party agrees to go after dinner. Ciri wants in. Gerk does not want to be cursed or to play ghost cop, and Sylan calls him a strong Karnak Mar, a skeptic to the pair."
             ]
         },
         {
-            "title": "Vecna and the eagle marker",
+            "title": "Walker, Vecna, and the map token",
             "bullets": [
-                "Walker went to the old training grounds and had a short meeting with Vecna. He downplays any deal: they have common interests, and Vecna wants his sister-skin book back.",
-                "After that meeting Walker produced the golden eagle. Set on the war-table map, it lights the map. Walker thinks the marker is only half of a pair and that the other half is at the palace Vecna used in Nyx, a headquarters with a big red wall.",
-                "The party cannot recall that capital's name. Walker appeals to Sylan as being from there. The transcript cuts off as Walker starts to elaborate on the book."
+                "Walker returns from the old training grounds, where he had a short talk with Vecna. He says they might have made a deal, then that they did not really, only that they have common interests: Vecna wants his sister-skin book back.",
+                "After that meeting, Walker produces a golden eagle. Placed on the war-table map, it lights the map. He thinks it is only half of a pair and that the other half may be at the palace Vecna operated from in Nyx, a headquarters with a big red wall.",
+                "No one can name that capital. Sylan and Dana recall going back to a seasman or season that, to Dana's knowledge, was shattered in pieces on the floor."
             ]
         }
     ],
     "chronologicalEvents": [
-        "The party retests the fused lantern-staff. The same incantation blinds onlookers again, including Gerk. Sylan is unaffected because he does not look.",
-        "Ord confirms the effect is reproducible, reports an evocation aura, and describes a grayscale view of the Ethereal Plane in which spirits are attached to Sylan.",
-        "Sylan grabs the staff. A black pillar rises, he can see the spirits, and all six are drawn into him.",
-        "The spirits are left identified only as people from New Navel with unfinished business. Sylan suggests he might converse with them in his realm.",
-        "The party agrees to follow that lead. Walker returns and, once the whole group is confirmed present, reports instead of waiting for dinner.",
-        "Walker says he met Vecna at the old training grounds. They share an interest in recovering Vecna's sister-skin book.",
-        "Walker places the golden eagle on the war table and the map lights. He believes it is half of a pair and that the counterpart is at Vecna's palace in the capital of Nyx, which no one can name.",
-        "Sylan and Dana recall going back to something previously collected that Dana remembers shattered in pieces on the floor. Walker is cut off while beginning to describe the book."
+        "1. Sylan and Ord retest the fused lantern-staff. The blind incantation works again. Sylan is unaffected if he does not look. Gerk is blinded and cannot say whether he was looking.",
+        "2. Ord reports a reproducible blinding effect, an evocation aura, and grayscale ethereal sight, during which he sees spirits attached to Sylan. Sylan can also see them once he takes the staff.",
+        "3. A black pillar rises and all six spirits are drawn into Sylan. They appear to be New Navel dead with unfinished business. Sylan may try to speak with them in his realm.",
+        "4. The party agrees to investigate that in New Navel after dinner, ahead of the lich and Sylan's sister. Ciri joins. Walker is back and still himself.",
+        "5. Walker says he met Vecna at the old training grounds. Vecna wants the sister-skin book back. Walker calls it common interest rather than a real deal.",
+        "6. Walker's golden eagle lights the war-table map. He believes it is half of a set and that the other half may be in Vecna's old Nyx palace, the headquarters with the big red wall. The capital's name is not settled.",
+        "7. In connection with that lead, the party recalls a seasman or season they returned to, which Dana says was shattered on the floor."
     ],
     "entities": {
         "Fused lantern-staff": {
-            "existing": "Fused lantern and staff that reveals the Ethereal Plane and draws nearby spirits when the active staff is held.",
+            "existing": "Lantern and staff fused together; the active staff reveals the Ethereal Plane and draws nearby spirits.",
             "entityType": "ITEM",
             "notes": [
-                "The same incantation reproducibly blinds people who look at the lantern. Sylan ignored it by not looking. Gerk was blinded while away from the others and does not know if he looked.",
-                "Ord reads an evocation aura. During the blind incantation he sees a grayscale Ethereal Plane and the spirits on Sylan.",
-                "Sylan grabbing the staff let him see those spirits as the black pillar rose. The spirits were pulled into Sylan, not into the staff."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Beacon of celestial darkness": {
-            "existing": "A column of felt darkness that rises while the active staff is held.",
-            "entityType": "CONCEPT",
-            "notes": [
-                "The black pillar shot up when Sylan grabbed the staff to help Ord against the spirits, at the same time the spirits were drawn into Sylan."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Glade spirits": {
-            "existing": "Ethereal undead spirits drawn to the lantern and pulled into Sylan.",
-            "entityType": "OTHER",
-            "otherEntityType": "spirits",
-            "notes": [
-                "There are six. The party identifies them as people from New Navel and declines to describe them further.",
-                "They have unfinished business and gripes with people in New Navel.",
-                "They are back with Sylan after being drawn into him. He hopes his realm may let him converse with them and is not sure."
+                "The fusion is confirmed, and the same incantation reproducibly blinds people who look at the lantern.",
+                "The effect has an evocation aura. While others are blinded, the user sees a grayscale ethereal scene.",
+                "When Sylan held it against the spirits, a black pillar shot up and the spirits were pulled into him rather than into the staff.",
+                "Sylan expects a blind function for Ord and a spirit-gathering function for himself, and he wants it available in combat."
             ],
             "titles": [],
             "personality": [],
@@ -77,50 +53,70 @@
             "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
             "entityType": "PLAYER",
             "notes": [
-                "Not looking at the lantern let him ignore the blind effect. Grabbing the staff let him see the spirits as they were drawn into him.",
-                "All six spirits are with him. He plans to investigate their unfinished business in New Navel and suspects his realm might allow him to speak with them.",
-                "Walker treats him as someone who should know the name of Nyx's capital. Sylan does not recall it."
+                "He can ignore the lantern's blindness by not looking at it, and grabbing the staff let him see the spirits as the black pillar rose.",
+                "All six spirits are with him now. He believes they are New Navel dead with grudges, and that he might converse with them in his own realm.",
+                "He proposes doing that New Navel investigation tonight after dinner, and treating the lich and freeing his sister as later business.",
+                "Walker treats him as someone from the Nyx capital whose name the party cannot recall."
             ],
             "titles": [],
             "personality": [
-                "Treats the spirits as a lead worth delaying other goals for, including the lich and his sister."
+                "Treats the haunting as a case to investigate and Gerk as the skeptic paired with him."
             ],
             "quotesThemes": [
-                "All six of them are back with him.",
-                "Proposes a ghost investigation in New Navel before other leads."
+                "Maybe it has a blind future for you, Ord, and with my darker inclination a spirit gathering for me.",
+                "All six of them.",
+                "I suspect that if I go to my realm, I might be able to converse with them, but I'm not sure."
             ],
-            "openQuestions": []
+            "openQuestions": [
+                "Can Sylan converse with the six spirits if he goes to his realm?"
+            ]
         },
         "Ord": {
-            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "existing": "Dragonborn paladin.",
             "entityType": "PLAYER",
             "notes": [
-                "Used the same blinding incantation and could see the Ethereal Plane in grayscale, which is how he noticed the spirits attached to Sylan.",
-                "He was looking at the lantern when it was activated."
+                "He repeated the same incantation and confirmed that it blinds onlookers.",
+                "During the blindness he saw a grayscale ethereal place, an evocation aura, and the spirits attached to Sylan.",
+                "He also saw that Sylan could see those spirits after taking the staff."
             ],
             "titles": [],
             "personality": [],
-            "quotesThemes": [],
+            "quotesThemes": [
+                "The same incantation does in fact reproducibly blind people."
+            ],
             "openQuestions": []
         },
         "Gerk": {
-            "existing": "Half-orc barbarian and Doorman.",
+            "existing": "Half-orc barbarian and party ambassador.",
             "entityType": "PLAYER",
             "notes": [
-                "Blinded again by the lantern-staff while he says he was off on his own. He does not know whether he looked at it."
+                "The lantern blinded him again even though he says he was apart from Sylan and Ord, doing his own thing. He does not know whether he looked at it.",
+                "He wants compensation for the harassment and does not want to be cursed or to join the ghost investigation.",
+                "Sylan calls him a strong Karnak Mar, a skeptic counterpart to Sylan's ghost-whispering."
             ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
+            "titles": [
+                "Karnak Mar"
+            ],
+            "personality": [
+                "Feels personally victimized by the blinding and is wary of curses."
+            ],
+            "quotesThemes": [
+                "I was blinded and I just feel personally victimized.",
+                "I don't want to be cursed.",
+                "Shadows are lost you live."
+            ],
+            "openQuestions": [
+                "Was Gerk looking at the lantern when it blinded him?"
+            ]
         },
         "Walker": {
-            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen.",
             "entityType": "PLAYER",
             "notes": [
-                "Returned from the old training grounds, where he spoke briefly with Vecna. He frames the result as common interests rather than a real deal.",
+                "He flies back in and is still himself. He had planned to tell his story over dinner, and the party is waiting until then to leave.",
+                "At the old training grounds he had a short conversation with Vecna. He first says they might have made a deal, then that it was not really a deal, only common interests.",
                 "Vecna wants his sister-skin book back.",
-                "Brought back the golden eagle. Placing it on the war table lights the map. Walker thinks it is only one half and that the other half is at Vecna's palace in Nyx."
+                "Walker has a golden eagle that lights the war-table map and believes it is only one half, with the mate possibly at Vecna's former palace in Nyx."
             ],
             "titles": [],
             "personality": [
@@ -128,18 +124,20 @@
             ],
             "quotesThemes": [
                 "We have common interests.",
-                "He wants his sister-skin book back."
+                "He wants the book. He wants his sister skin book back."
             ],
-            "openQuestions": []
+            "openQuestions": [
+                "What, if anything, did Walker agree to with Vecna beyond the shared wish to recover the sister-skin book?"
+            ]
         },
         "Vecna": {
-            "existing": "Elder god of liches who watches from the periphery.",
+            "existing": "Elder god of liches who wants hidden knowledge, including the Raskina made from his sister.",
             "entityType": "NPC",
             "notes": [
-                "Met Walker at the old training grounds. Walker says any arrangement is not really a deal, only common interests.",
-                "He wants the book made from his sister's skin back.",
-                "He was tapping something during the meeting, after which Walker produced the golden eagle.",
-                "He previously operated from a palace in Nyx, remembered as headquarters with a big red wall. The capital's name is not recalled."
+                "Walker met him at the old training grounds for a quick talk and describes common interests rather than a firm deal.",
+                "He wants his sister-skin book back.",
+                "He was tapping something before Walker brought out the golden eagle.",
+                "He formerly operated from a palace in Nyx, described as headquarters with a big red wall, where Walker thinks the other half of the map token may be."
             ],
             "titles": [],
             "personality": [],
@@ -150,31 +148,38 @@
             "existing": "Vecna's red-skinned tome, made from his sister and held by Grixto.",
             "entityType": "ITEM",
             "notes": [
-                "Walker reports that Vecna wants this sister-skin book back and treats that as their common interest."
+                "Walker tells the party that what Vecna wants from their common interest is this sister-skin book back."
             ],
             "titles": [],
             "personality": [],
-            "quotesThemes": [],
+            "quotesThemes": [
+                "He wants his sister skin book back."
+            ],
             "openQuestions": []
         },
-        "Hunched eagle marker": {
-            "existing": "High-ranking hunched eagle Elrus calls a hobgoblin legion standard.",
-            "entityType": "ITEM",
+        "Glade spirits": {
+            "existing": "Ethereal spirits drawn to the lantern and pulled into Sylan.",
+            "entityType": "OTHER",
+            "otherEntityType": "spirits",
             "notes": [
-                "Walker calls it the golden eagle and says Vecna was tapping something before Walker pulled it out.",
-                "Placed on the war-table map, it lights the map.",
-                "Walker believes this piece is only half and that the counterpart may be at Vecna's Nyx palace."
+                "There are six, and they are attached to Sylan. Ord saw them on the ethereal grayscale while the lantern blinded others. Sylan saw them after taking the staff.",
+                "The black pillar drew them into Sylan, not into the staff, and all six are with him again.",
+                "Interrogation, which the party will not detail, makes them seem to be people of New Navel with gripes against some people there and possible unfinished business.",
+                "Sylan hopes his own realm might let him speak with them."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
-            "openQuestions": []
+            "openQuestions": [
+                "Will Sylan's realm let him converse with the six New Navel spirits?"
+            ]
         },
         "New Navel": {
-            "existing": "A familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
+            "existing": "Familiar stop whose dead can return as celestial echoes, and whose sheriff bans doors and spirit-taking in the city.",
             "entityType": "LOCATION",
             "notes": [
-                "The six spirits with Sylan are people from New Navel and have unfinished business with people there. Sylan wants to investigate."
+                "The six spirits on Sylan seem to be New Navel people with unfinished business and grudges against some locals.",
+                "The party plans a ghost investigation there after dinner, before pursuing the lich and Sylan's sister."
             ],
             "titles": [],
             "personality": [],
@@ -182,43 +187,73 @@
             "openQuestions": []
         },
         "Nyx": {
-            "existing": "Nyx may hold hobgoblins who know where the lich is hiding.",
+            "existing": "A place that may hold hobgoblins who know where the lich is hiding.",
             "entityType": "LOCATION",
             "notes": [
-                "Walker places the other half of the golden eagle at the palace Vecna operated from here, a headquarters with a big red wall.",
-                "The party cannot name the capital. Walker expects Sylan to know it."
+                "Walker says Vecna operated out of a palace there, a headquarters with a big red wall, and that the other half of the golden-eagle map token might be there.",
+                "The party cannot name the capital. Walker appeals to Sylan as someone from there.",
+                "Guesses heard in the talk are Allen Boo, Alibu, Next City, and New Next City."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": [
-                "What is the name of the capital where Vecna's palace stands?"
+                "What is the name of the Nyx capital, and where is the red-wall palace headquarters?"
             ]
         },
         "Training Grounds": {
-            "existing": "Training grounds near the Lost Isles in a mountainous region between three islands.",
+            "existing": "Training grounds near the Lost Isles.",
             "entityType": "LOCATION",
             "notes": [
-                "Walker calls them the old training grounds and met Vecna there before returning with the golden eagle."
+                "Walker went to the old training grounds and met Vecna there."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Gilbrick": {
-            "existing": "Arch realm of Atlas whose keystone is held by Sylan.",
-            "entityType": "LOCATION",
+        "Hunched eagle marker": {
+            "existing": "High-ranking hunched eagle that Elrus calls a hobgoblin legion standard. Troop markers on the cave floor are read by the table as a landmark map.",
+            "entityType": "ITEM",
             "notes": [
-                "Sylan suspects going to his realm might let him converse with the six spirits, and he is not sure."
+                "Walker pulls out what he calls a golden eagle after Vecna was tapping something. Set on the war-table map, it lights the map.",
+                "He thinks this piece is only half and that its counterpart may be at Vecna's old headquarters in Nyx."
             ],
             "titles": [],
             "personality": [],
-            "quotesThemes": [],
+            "quotesThemes": [
+                "I think this is only half. And I think the other half might be back in Nyx."
+            ],
+            "openQuestions": [
+                "Is the golden eagle the hunched eagle marker, and is there a second half at the Nyx palace?"
+            ]
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She joins the New Navel plan as soon as she hears about sucking in souls. Sylan assigns her to what he calls the vice division.",
+                "Sylan thinks she is hiding in a tree and might be blinded but will not admit it. She is standing directly behind Walker. The DM confirms the whole party is present."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "All I heard was sucking in souls, so I'm in."
+            ],
             "openQuestions": []
         }
     },
     "misTranscriptions": [
+        {
+            "heard": "Od",
+            "likely": "Ord",
+            "notes": "Sylan asks Od what he saw when the lantern was turned on."
+        },
+        {
+            "heard": "Oad",
+            "likely": "Ord",
+            "notes": "Sylan says he tried to assist Oad against the spirits."
+        },
         {
             "heard": "New Novelle",
             "likely": "New Navel",
@@ -227,37 +262,17 @@
         {
             "heard": "Nunavell",
             "likely": "New Navel",
-            "notes": "Sylan says he will go ghost cop in Nunavell."
+            "notes": "Sylan proposes going ghost cop in Nunavell."
         },
         {
-            "heard": "not people have guild",
-            "likely": "",
-            "notes": "Said immediately after identifying the spirits as people from New Navel."
+            "heard": "litch",
+            "likely": "lich",
+            "notes": "Sylan weighs finding this litch against the ghost investigation."
         },
         {
-            "heard": "silent in France",
-            "likely": "",
-            "notes": "Gerk, just after saying they tried to put a lance in his head again."
-        },
-        {
-            "heard": "Kreudabrak",
-            "likely": "",
-            "notes": "Sylan guessing an orc term for Gerk in the ghost conversation."
-        },
-        {
-            "heard": "Paradox Mar",
-            "likely": "",
-            "notes": "Dana's hearing of that orc term."
-        },
-        {
-            "heard": "Karnak Mar",
-            "likely": "",
-            "notes": "Sylan's hearing of the same orc term. He calls Gerk a strong Karnak Mar."
-        },
-        {
-            "heard": "Shadows are lost you live",
-            "likely": "",
-            "notes": "Gerk's line in answer to the orc-term guess."
+            "heard": "Knicks",
+            "likely": "Nyx",
+            "notes": "Walker says the other half of the token might be back in Knicks."
         },
         {
             "heard": "Vector",
@@ -265,58 +280,80 @@
             "notes": "Dana asks whether Walker made a deal with Vector."
         },
         {
-            "heard": "Knicks",
-            "likely": "Nyx",
-            "notes": "Walker says the other half of the marker might be back in Knicks."
-        },
-        {
             "heard": "Allen Boo",
             "likely": "",
-            "notes": "Walker's attempt at the Nyx capital."
+            "notes": "Walker offers this as the name of the Nyx capital after calling for maps."
         },
         {
             "heard": "alibu",
             "likely": "",
-            "notes": "Sylan's attempt at the same capital name."
-        },
-        {
-            "heard": "Make guard world my up",
-            "likely": "",
-            "notes": "Another garbled attempt at the Nyx capital in the same exchange."
+            "notes": "Sylan's attempt at the same Nyx capital name."
         },
         {
             "heard": "Next city",
-            "likely": "",
-            "notes": "Gerk guessing the capital."
+            "likely": "Nyx",
+            "notes": "Gerk's guess for the capital Walker cannot name."
         },
         {
             "heard": "New next city",
-            "likely": "",
-            "notes": "Gerk's second guess at the capital."
+            "likely": "Nyx",
+            "notes": "Gerk's second guess for that capital."
+        },
+        {
+            "heard": "Kreudabrak",
+            "likely": "Karnak Mar",
+            "notes": "Sylan gropes for the orc term, then settles on Karnak Mar."
+        },
+        {
+            "heard": "Paradox Mar",
+            "likely": "Karnak Mar",
+            "notes": "Dana's hearing of the same orc term, which Sylan corrects."
         },
         {
             "heard": "seasman",
             "likely": "",
-            "notes": "Sylan: they picked up the seasman and the party went back to it."
+            "notes": "Sylan asks whether they picked up the seasman and says the party went back to it."
         },
         {
             "heard": "season",
             "likely": "",
-            "notes": "Dana: the season was shattered in pieces on the floor. Same exchange as seasman."
+            "notes": "Dana says the season was shattered in pieces on the floor. Likely the same object as seasman."
         },
         {
             "heard": "golden eagle",
-            "likely": "hunched eagle marker",
-            "notes": "Walker pulls it out after Vecna taps something, and it lights the war-table map."
+            "likely": "Hunched eagle marker",
+            "notes": "Walker says this token lights the war-table map and may be only half. The campaign already has a hunched eagle marker and troop markers the table reads as a map."
         },
         {
             "heard": "Kurt",
             "likely": "Gerk",
-            "notes": "Gerk says Kurt's gonna nod and give Walker a point."
+            "notes": "Gerk says Kurt is going to nod and give the point, in a third-person beat."
+        },
+        {
+            "heard": "skullly",
+            "likely": "skeptic",
+            "notes": "Gerk answers Sylan's skeptic-duo line with I am your skullly."
         }
     ],
     "openQuestions": [
-        "What is the name of the capital of Nyx, where Vecna's palace with the big red wall stands?"
+        "Was Gerk looking at the lantern when it blinded him?",
+        "Can Sylan speak with the six spirits if he goes to his realm?",
+        "What is the Nyx capital called, and where is the palace headquarters with the big red wall?",
+        "Is the golden eagle only half of a map token, and is the other half in that Nyx headquarters?",
+        "What did Walker actually settle with Vecna, if anything, beyond Vecna wanting the sister-skin book back?"
     ],
-    "newTerms": []
+    "newTerms": [
+        {
+            "name": "Karnak Mar",
+            "notes": [
+                "Orc term Sylan applies to Gerk. He pairs it with skeptic: Gerk is the skeptic to Sylan's ghost-whispering, and Gerk answers that he is Sylan's skullly. Gerk's own line in the exchange is Shadows are lost you live."
+            ]
+        },
+        {
+            "name": "Golden eagle",
+            "notes": [
+                "Token Walker produced after meeting Vecna. Placed on the war-table map, it lights the map. Walker thinks it is one half of a pair and that the other half may be at Vecna's former palace in Nyx. It may be the hunched eagle marker under a bad hearing."
+            ]
+        }
+    ]
 }

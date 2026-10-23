@@ -24,8 +24,9 @@ import fs from 'fs/promises';
 import path from 'path';
 
 import type { PlotSection, SessionChunkSummary } from "./types/session.ts";
-import type { AiClient } from './ai.js';
-import { withAi } from './ai.js';
+import type { AiPool } from './ai.js';
+import { withAiPool } from './ai.js';
+import { stripProcessPreamble } from './ai/response-text.js';
 import { isDirectRun } from './is-main.ts';
 import {
     buildTagCatalogPromptSection,
@@ -565,7 +566,7 @@ export async function vaultNeedsWork(
 }
 
 export async function generateVaultData(
-    ai: AiClient,
+    pool: AiPool,
     summariesFolder: string,
     vaultDataFolder: string,
     options: GenerateVaultOptions = {},
@@ -645,12 +646,12 @@ export async function generateVaultData(
             console.log(
                 `[vault] ${sessionDate} session log exists; processing ${progress.entityTotal - progress.entityProcessed} new entit${progress.entityTotal - progress.entityProcessed === 1 ? 'y' : 'ies'}`,
             );
-            await parseSessionEntities(ai, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
+            await parseSessionEntities(pool, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
             continue;
         }
 
         console.log(`[vault] Processing session ${sessionDate}...`);
-        const sessionData = await parseSessionData(ai, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
+        const sessionData = await parseSessionData(pool, sessionDate, path.join(summariesFolder, sessionFolder.name), existingEntitiesList, vaultDataFolder);
         existingSessionsMap[sessionDate] = sessionData;
         await fs.writeFile(sessionLogPath, JSON.stringify(sessionData, null, 2));
         console.log(`[vault] Wrote ${sessionLogPath}`);
@@ -672,9 +673,9 @@ function parseVaultEntityAiResult(raw: string): VaultEntityAiResult {
     }
     const obj = parsed as Record<string, unknown>;
     return {
-        summary: typeof obj.summary === "string" ? obj.summary.trim() : "",
-        description: typeof obj.description === "string" ? obj.description.trim() : undefined,
-        slug: typeof obj.slug === "string" ? obj.slug.trim() : undefined,
+        summary: typeof obj.summary === "string" ? stripProcessPreamble(obj.summary) : "",
+        description: typeof obj.description === "string" ? stripProcessPreamble(obj.description) : undefined,
+        slug: typeof obj.slug === "string" ? stripProcessPreamble(obj.slug) : undefined,
         tags: Array.isArray(obj.tags) ? obj.tags.filter((t): t is string => typeof t === "string") : [],
         suggestedTags: parseSuggestedTags(obj.suggestedTags),
     };
@@ -809,7 +810,7 @@ function parseEntityMatchResult(raw: string): EntityMatchAiRow[] {
 }
 
 async function resolveSessionEntityTargets(
-    ai: AiClient,
+    pool: AiPool,
     sessionEntities: Record<string, EntityUpdate>,
     existingEntitiesList: EntityData[],
 ): Promise<Map<string, EntityData | null>> {
@@ -832,12 +833,11 @@ async function resolveSessionEntityTargets(
         return resolved;
     }
 
-    console.log(`[vault] Asking ChatGPT to match ${unmatched.length} unmatched entit${unmatched.length === 1 ? "y" : "ies"}...`);
-    await ai.resetConversation();
-    const raw = await ai.runJsonPrompt(
+    console.log(`[vault] Asking Cursor to match ${unmatched.length} unmatched entit${unmatched.length === 1 ? "y" : "ies"}...`);
+    const raw = await pool.run((ai) => ai.runJsonPrompt(
         buildEntityMatchPrompt(unmatched, existingEntitiesList),
         { timeout: 60_000, effort: "medium" },
-    );
+    ));
     const aiMatches = parseEntityMatchResult(raw);
     const byIncoming = new Map(aiMatches.map((m) => [m.incomingName, m]));
     const vaultByName = new Map(existingEntitiesList.map((e) => [e.name, e]));
@@ -921,7 +921,7 @@ This is the entity data for ${name} from the session on ${date}.
 The entity already exists in the vault. Generate a session log summary and update tags.
 
 Rules:
-- summary: a single markdown paragraph (≤200 words) capturing the main points of the entity's new notes for this session. Same language as the entity data.
+- summary: a single markdown paragraph (≤200 words) capturing the main points of the entity's new notes for this session. Same language as the entity data. Start with those notes.
 - tags: 0–3 from the closed catalog when they clearly apply; prefer []. Do not invent tags.
 - suggestedTags: catalog promotion suggestions, or [].
 - Do not rewrite description or slug. Do not invent facts.
@@ -961,7 +961,7 @@ Create vault fields for a new entity.
 
 Rules:
 - description: standing identity (always-relevant facts), plain text, ≤200 words, one paragraph. Do not invent; short is fine.
-- summary: what happened to this entity in this session, markdown, ≤200 words, one paragraph. Focus on new notes, not a full rehash.
+- summary: what happened to this entity in this session, markdown, ≤200 words, one paragraph. Focus on new notes, not a full rehash. Start with those notes.
 - slug: a single short phrase (one sentence) capturing the main essence. Plain text, no markdown.
 - tags: 0–3 from the closed catalog when they clearly apply; prefer [].
 - suggestedTags: catalog promotion suggestions, or [].
@@ -989,7 +989,7 @@ ${sessionEntity.notes.join("\n")}
 }
 
 async function parseSessionEntities(
-    ai: AiClient,
+    pool: AiPool,
     date: string,
     sessionFolder: string,
     existingEntitiesList: EntityData[],
@@ -1000,137 +1000,174 @@ async function parseSessionEntities(
     const entityNames = Object.keys(sessionEntities);
     console.log(`[vault] Parsing ${entityNames.length} entities for ${date}`);
 
-    const resolved = await resolveSessionEntityTargets(ai, sessionEntities, existingEntitiesList);
+    const resolved = await resolveSessionEntityTargets(pool, sessionEntities, existingEntitiesList);
     const writeGroups = groupResolvedWrites(sessionEntities, resolved);
     console.log(`[vault] ${writeGroups.length} write group(s) after match/merge (${entityNames.length} incoming names)`);
 
     let skippedEntities = 0;
-    let processedEntities = 0;
     const collectedSuggestions: SuggestedTag[] = [];
+    const pending: ResolvedEntityWrite[] = [];
 
     for (const group of writeGroups) {
-        const { existing: existingEntity, writeName, incomingNames, sessionEntity } = group;
-        console.log(
-            `[vault] Entity ${writeName} ${existingEntity ? `(existing)` : `(new)`}` +
-                (incomingNames.length > 1 ? ` ← [${incomingNames.join(", ")}]` : "") +
-                ` (${processedEntities + 1} of ${writeGroups.length}) ${skippedEntities} skipped`,
-        );
-        processedEntities++;
-
-        if (existingEntity && entityProcessedForSession(existingEntity, date)) {
-            console.log(`[vault] Skipping ${writeName} — already processed for ${date}`);
+        if (group.existing && entityProcessedForSession(group.existing, date)) {
+            console.log(`[vault] Skipping ${group.writeName} — already processed for ${date}`);
             skippedEntities++;
             // Still capture aliases from this session's alternate names.
-            addAliasNames(existingEntity, incomingNames);
-            await saveEntity(vaultDataFolder, existingEntity);
+            addAliasNames(group.existing, group.incomingNames);
+            await saveEntity(vaultDataFolder, group.existing);
             continue;
         }
-
-        await ai.resetConversation();
-
-        if (existingEntity) {
-            addAliasNames(existingEntity, incomingNames);
-            const raw = await ai.runJsonPrompt(
-                buildExistingEntityPrompt(writeName, date, existingEntity, sessionEntity),
-                { timeout: 60_000, effort: "low" },
-            );
-            const parsed = parseVaultEntityAiResult(raw);
-            const validated = validateEntityTags(parsed.tags, { entityName: writeName });
-            collectedSuggestions.push(
-                ...parsed.suggestedTags,
-                ...validated.implicitSuggestions,
-            );
-
-            upsertEntityLog(existingEntity, date, {
-                summary: parsed.summary,
-                notes: sessionEntity.notes,
-            });
-            existingEntity.tags = unionTags(existingEntity.tags ?? [], validated.tags);
-            existingEntity.updatedAt = new Date().toISOString();
-            await saveEntity(vaultDataFolder, existingEntity);
-        } else {
-            const raw = await ai.runJsonPrompt(
-                buildNewEntityPrompt(writeName, date, sessionEntity),
-                { timeout: 60_000, effort: "low" },
-            );
-            const parsed = parseVaultEntityAiResult(raw);
-            const validated = validateEntityTags(parsed.tags, { entityName: writeName });
-            collectedSuggestions.push(
-                ...parsed.suggestedTags,
-                ...validated.implicitSuggestions,
-            );
-
-            const newEntityData: EntityData = {
-                name: writeName,
-                tags: validated.tags,
-                slug: parsed.slug ?? "",
-                aliases: [],
-                normalizedAliases: [],
-                filename: entityMarkdownFilename({
-                    name: writeName,
-                    type: normalizeEntityType(sessionEntity.entityType),
-                }),
-                description: parsed.description ?? "",
-                type: normalizeEntityType(sessionEntity.entityType),
-                log: [{
-                    date: date,
-                    summary: parsed.summary,
-                    notes: sessionEntity.notes,
-                }],
-                openQuestions: sessionEntity.openQuestions,
-                linkTargets: [],
-                createdAt: new Date().toISOString(),
-                updatedAt: new Date().toISOString(),
-            };
-            withNormalizedAliases(newEntityData);
-            existingEntitiesList.push(newEntityData);
-            await saveEntity(vaultDataFolder, newEntityData);
-        }
+        pending.push(group);
     }
 
-    if (collectedSuggestions.length > 0) {
-        const sessionSuggestions = mergeSuggestedTags([], collectedSuggestions);
-        const all = await persistTagSuggestions(vaultDataFolder, sessionSuggestions);
-        for (const suggestion of all.filter((s) =>
-            sessionSuggestions.some((incoming) => incoming.tag === s.tag),
-        )) {
+    console.log(
+        `[vault] ${pending.length} entit${pending.length === 1 ? "y" : "ies"} to write` +
+            ` (${pool.size} at a time), ${skippedEntities} already processed`,
+    );
+
+    let started = 0;
+    let finished = 0;
+    try {
+        await pool.map(pending, async (group, ai) => {
+            const { existing: existingEntity, writeName, incomingNames, sessionEntity } = group;
+            const startedAt = ++started;
             console.log(
-                `[vault] Tag suggestion: ${suggestion.tag} — ${suggestion.reason || "(no reason)"}` +
-                    (suggestion.exampleEntities.length
-                        ? ` (e.g. ${suggestion.exampleEntities.slice(0, 3).join(", ")})`
-                        : ""),
+                `[vault] Entity ${writeName} ${existingEntity ? `(existing)` : `(new)`}` +
+                    (incomingNames.length > 1 ? ` ← [${incomingNames.join(", ")}]` : "") +
+                    ` (started ${startedAt}, finished ${finished} of ${pending.length})`,
             );
+
+            if (existingEntity) {
+                addAliasNames(existingEntity, incomingNames);
+                const raw = await ai.runJsonPrompt(
+                    buildExistingEntityPrompt(writeName, date, existingEntity, sessionEntity),
+                    { timeout: 60_000, effort: "low" },
+                );
+                const parsed = parseVaultEntityAiResult(raw);
+                const validated = validateEntityTags(parsed.tags, { entityName: writeName });
+                collectedSuggestions.push(
+                    ...parsed.suggestedTags,
+                    ...validated.implicitSuggestions,
+                );
+
+                upsertEntityLog(existingEntity, date, {
+                    summary: parsed.summary,
+                    notes: sessionEntity.notes,
+                });
+                existingEntity.tags = unionTags(existingEntity.tags ?? [], validated.tags);
+                existingEntity.updatedAt = new Date().toISOString();
+                await saveEntity(vaultDataFolder, existingEntity);
+            } else {
+                const raw = await ai.runJsonPrompt(
+                    buildNewEntityPrompt(writeName, date, sessionEntity),
+                    { timeout: 60_000, effort: "low" },
+                );
+                const parsed = parseVaultEntityAiResult(raw);
+                const validated = validateEntityTags(parsed.tags, { entityName: writeName });
+                collectedSuggestions.push(
+                    ...parsed.suggestedTags,
+                    ...validated.implicitSuggestions,
+                );
+
+                const newEntityData: EntityData = {
+                    name: writeName,
+                    tags: validated.tags,
+                    slug: parsed.slug ?? "",
+                    aliases: [],
+                    normalizedAliases: [],
+                    filename: entityMarkdownFilename({
+                        name: writeName,
+                        type: normalizeEntityType(sessionEntity.entityType),
+                    }),
+                    description: parsed.description ?? "",
+                    type: normalizeEntityType(sessionEntity.entityType),
+                    log: [{
+                        date: date,
+                        summary: parsed.summary,
+                        notes: sessionEntity.notes,
+                    }],
+                    openQuestions: sessionEntity.openQuestions,
+                    linkTargets: [],
+                    createdAt: new Date().toISOString(),
+                    updatedAt: new Date().toISOString(),
+                };
+                withNormalizedAliases(newEntityData);
+                existingEntitiesList.push(newEntityData);
+                await saveEntity(vaultDataFolder, newEntityData);
+            }
+
+            finished++;
+            console.log(
+                `[vault] Saved ${writeName} (started ${started}, finished ${finished} of ${pending.length})`,
+            );
+        });
+    } finally {
+        if (collectedSuggestions.length > 0) {
+            const sessionSuggestions = mergeSuggestedTags([], collectedSuggestions);
+            const all = await persistTagSuggestions(vaultDataFolder, sessionSuggestions);
+            for (const suggestion of all.filter((s) =>
+                sessionSuggestions.some((incoming) => incoming.tag === s.tag),
+            )) {
+                console.log(
+                    `[vault] Tag suggestion: ${suggestion.tag} — ${suggestion.reason || "(no reason)"}` +
+                        (suggestion.exampleEntities.length
+                            ? ` (e.g. ${suggestion.exampleEntities.slice(0, 3).join(", ")})`
+                            : ""),
+                );
+            }
         }
     }
 
     return sessionData;
 }
 
-async function parseSessionData(ai: AiClient, date: string, sessionFolder: string, existingEntitiesList: EntityData[], vaultDataFolder: string): Promise<SessionData> {
-    const sessionData = await parseSessionEntities(ai, date, sessionFolder, existingEntitiesList, vaultDataFolder);
+async function parseSessionData(pool: AiPool, date: string, sessionFolder: string, existingEntitiesList: EntityData[], vaultDataFolder: string): Promise<SessionData> {
+    const sessionData = await parseSessionEntities(pool, date, sessionFolder, existingEntitiesList, vaultDataFolder);
 
-    // Plot + chronology is enough for a short session blurb. The full merged
-    // JSON (especially every entity's notes) is large enough to hang ChatGPT's
-    // composer when pasted via insertText.
+    // Plot + chronology is enough for a short session blurb. Entity notes are
+    // already written by the entity jobs and are not needed here.
     const sessionDataForPrompt = {
         plotSections: sessionData.plotSections,
         chronologicalEvents: sessionData.chronologicalEvents,
         entityNames: Object.keys(sessionData.entities ?? {}),
     };
     console.log(`[vault] Generating session summary for ${date}...`);
+    const summaryRaw = await pool.run((ai) => ai.runJsonPrompt(`
+            This is the session data for ${date}.
+            Write the campaign-log summary of this session.
+
+            Rules:
+            - summary: one paragraph, at most 300 words, markdown allowed, same language as the session data.
+            - Capture the main events. Do not invent facts.
+            - Start with the events. The paragraph is notes about the session, not a message about how you will write it.
+
+            Return JSON only:
+            \`\`\`typescript
+            export interface Output {
+              summary: string;
+            }
+            \`\`\`
+
+            ${JSON.stringify(sessionDataForPrompt, null, 2)}
+        `, { effort: "low" }));
+    let summaryParsed: unknown;
+    try {
+        summaryParsed = JSON.parse(summaryRaw);
+    } catch {
+        throw new Error(`session summary was not valid JSON:\n${summaryRaw}`);
+    }
+    const summaryText = stripProcessPreamble(
+        summaryParsed && typeof summaryParsed === "object" && typeof (summaryParsed as { summary?: unknown }).summary === "string"
+            ? (summaryParsed as { summary: string }).summary
+            : "",
+    );
+    if (!summaryText) {
+        throw new Error(`session summary was empty:\n${summaryRaw}`);
+    }
 
     const sessionDataToSave: SessionData = {
         date: date,
-        summary: await ai.runProsePrompt(`
-            This is the session data for ${date}.
-            Please generate a summary of the session.
-            The summary should be a single paragraph that captures the main points of the session.
-            The summary should be in the same language as the session data.
-            The summary should be no more than 300 words.
-            The summary should be in markdown format.
-
-            ${JSON.stringify(sessionDataForPrompt, null, 2)}
-        `, { effort: "low" }),
+        summary: summaryText,
         plotSections: sessionData.plotSections.map(section => ({
             title: section.title,
             bullets: section.bullets,
@@ -1151,8 +1188,8 @@ async function main() {
         );
     }
     console.log(`[vault] Starting vault data generation${dateArg ? ` for ${dateArg}` : ' for all sessions'}...`);
-    await withAi(async (ai) => {
-        await generateVaultData(ai, 'summaries', 'vault-data', { date: dateArg, force });
+    await withAiPool(async (pool) => {
+        await generateVaultData(pool, 'summaries', 'vault-data', { date: dateArg, force });
     });
 }
 

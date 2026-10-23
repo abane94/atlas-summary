@@ -1,151 +1,117 @@
 {
     "plotSections": [
         {
-            "title": "Overview",
+            "title": "Morning split",
             "bullets": [
-                "Morning in the forest after the party spent the morning sorting out where people had been. The group splits: Walker and Ciri’s party head to Carlkin’s lighthouse, while Sylan and Gerk stay behind for spirit work, then New Navel.",
-                "Elrus goes with Araden on the Carlkin trip. Ord and Ciri need rides; Dana’s broom cannot take passengers. Araden carries Ord and tells him his wings are in his chest."
+                "It is morning. The party spent the morning working out where people had been, including a possibility that Barker made a deal with Vecna and something about a sister-skin journal.",
+                "They leave the forest in two groups. Walker and Ciri head for Carlkin's lighthouse with Ord, Dana, Elrus, and Araden. Sylan and Gerk stay to deal with spirits.",
+                "Ord and Ciri need a ride to fly. Dana's broom cannot take a passenger. Araden carries one of them and, tapping their chest, says their wings are in there."
             ]
         },
         {
-            "title": "Prior findings restated",
+            "title": "The gray field and the raven",
             "bullets": [
-                "The DM recaps that Barker may have made a deal with Vecna, and that a sister-skin journal is involved and is concerning."
+                "Sylan enters the sword. He turns translucent, so Gerk's rocks fall through him and pile at his feet. The gray field is emptier than before. Sylan confirms the giant once held there was released and that no one is in there now. Distant figures are still visible.",
+                "Sylan prays and tries to draw six spirits to him. Arcana 21. The grass at his feet darkens and he feels a fishing-line pull toward them. Before they arrive, a raven drops to within a few feet, studies him, and becomes a feather-draped person between a halfling and a dwarf.",
+                "The emissary calls him Razor, says the spirits were not attached, that he already sent them on, and asks why he is pulling them back. Sylan lets the pull go. The emissary says he is Raven's razor and the pathway to the falls, and that a razor of the Raven Queen must seek out those who—then the line is lost when the mic cuts out. Sylan thanks them and stops the summoning. The spirits had said they still had things left; he answers that it is time they moved on. The emissary begins, \"They did, but she will say,\" and does not finish. Sylan leaves the figure in the gray field and returns to the rock pile."
             ]
         },
         {
-            "title": "Sylan’s sword and Raven’s Razor",
+            "title": "New Navel and Shades and Trades",
             "bullets": [
-                "Sylan enters his sword. He turns ghostly and translucent; rocks Gerk stacks on him fall through. The space is a rolling gray field, emptier than before. Sylan confirms he released the giant and has no one else held there. Distant figures remain.",
-                "He prays and tries to draw in six spirits he saw (Arcana 21). The grass darkens and he feels lines like fish on a string—he registers four beings in sight and six pulls. A raven drops from the gray clouds, studies him, and becomes a feather-draped person between halfling and dwarf in size.",
-                "The figure calls him Razor and Raven’s razor, says the spirits were not attached to him, that he already sent them on, and asks why he is pulling them back. Sylan releases the pull. He is told he is the pathway to the falls and that a razor of the Raven Queen must seek out those who— the rest is lost when the mic cuts. Sylan hears enough to feel the role is clearer, thanks the figure, and agrees not to pull more spirits back. They had unfinished business, but he says it is time they move on. The figure answers that they did, but she will say.",
-                "He leaves the gray place (the DM briefly calls it the abyssal plane, then corrects that it is not that place) and finds Gerk’s rocks piled around his feet."
-            ]
-        },
-        {
-            "title": "New Navel and the unwilling dead",
-            "bullets": [
-                "Sylan tells Gerk the ghost-cop plan is smaller than expected. He believes walking through New Navel last time inadvertently picked up spirits. His duty is to move them on, including hunting those who cling out of greed or jealousy of life, but many do not want to go, and he is not sure what to do with the good ones.",
-                "He asks Gerk to find the mayor or sheriff of New Navel and put out word for any spirits willing to move on to come find him, without forcing anyone. If the mayor is a spirit, Gerk should do the talking. Sylan will head toward Shades and Trades—he believes that contact was a living person—and may wait outside town so he does not collect more spirits on the way. The chunk ends as they are still working through the good spirits."
+                "Sylan tells Gerk the sword-state is not something he wants to share, though Gerk could come sometime. He drops the ghost-cop sweep. He thinks walking through New Navel last time made spirits follow him, and that spirits are still walking the town.",
+                "His duty is to gather souls and move them on, including hunting ones who cling out of jealousy or greed. He does not want to force anyone, and he is not sure what to do about spirits who are not those \"bad ones.\"",
+                "Gerk will find the mayor or the sheriff and ask for word to go out: spirits who want to move on should find Sylan. If the mayor is a spirit, Gerk will do the talking. Sylan will avoid the spirits for now, wait outside town if needed, and go to Shades and Trades, which sits in the middle of town. He believes the person there was alive, not a spirit. Gerk can meet him after the ask."
             ]
         }
     ],
     "chronologicalEvents": [
-        "The party splits in the morning: Walker, Ciri, and companions fly toward Carlkin’s lighthouse; Sylan and Gerk remain for Sylan’s spirit-realm check, then New Navel.",
-        "Elrus follows with Araden. Araden carries Ord; Dana cannot take a passenger on her broom.",
-        "Sylan enters his sword and turns translucent. Gerk cannot stack rocks on him; they fall through, and Gerk outlines his feet with stones.",
-        "Inside the sword, Sylan finds a mostly empty gray field, confirms the giant was released, and with Arcana 21 begins reeling in the spirits he saw.",
-        "A raven manifests as a short, feather-draped figure, names him Raven’s razor and the pathway to the falls, and stops him from pulling the spirits back.",
-        "The figure’s instruction to seek out “those who…” is cut off. Sylan agrees not to pull more souls back and returns to the forest covered in Gerk’s rocks.",
-        "Sylan sends Gerk to the mayor or sheriff of New Navel to invite willing spirits to move on, and plans to approach Shades and Trades while avoiding the town’s spirits until he has reconciled which dead he should take."
+        "Morning: the party finishes comparing where people have been. Barker may have dealt with Vecna, and a sister-skin journal is noted as concerning.",
+        "Walker and Ciri's group leaves the forest for Carlkin's lighthouse. Elrus goes with Araden. Sylan and Gerk stay.",
+        "Gerk tries to stack rocks on Sylan as Sylan enters the sword. Sylan is translucent, so the rocks fall through and Gerk outlines his feet instead.",
+        "Inside the sword, the gray field is mostly empty. Sylan confirms he released the giant and is holding no one. He sees distant figures and, after a prayer and an Arcana check of 21, starts reeling six spirits toward him.",
+        "A raven confronts him, becomes a feather-draped halfling-or-dwarf figure, and questions why Razor is pulling spirits he already sent on. Sylan releases them.",
+        "The emissary names him Raven's razor and the pathway to the falls, starts to define whom he must seek, and is cut off. Sylan agrees not to pull more back and leaves.",
+        "Back outside, Sylan sends Gerk to the mayor or sheriff of New Navel to ask which spirits would willingly move on, and heads for Shades and Trades while trying not to pick up spirits in town. He is still unsure how to treat spirits who are not clinging out of greed."
     ],
     "entities": {
         "Sylan": {
-            "existing": "Half-elf rogue and Gilbrick Gatekeeper who holds a keystone, a Navi-related journal, and a cautious bond with the Raven Queen.",
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper with a cautious bond to the Raven Queen; his sword opens a gray spirit field.",
             "entityType": "PLAYER",
             "notes": [
-                "Enters his sword into a gray spirit-field that is emptier than on earlier visits. He had released the giant and is holding no one else there.",
-                "Arcana 21 lets him pull on spirits he saw: grass darkens and the links feel like fish on a string. He stops when told they are not attached to him and that he already sent them on.",
-                "Named Razor and Raven’s razor, and the pathway to the falls. A razor of the Raven Queen is supposed to seek out certain dead; the rest of that charge was not heard.",
-                "Believes passing through New Navel picked up spirits by accident. He means to gather souls and move them to the afterlife, and to hunt those who cling from greed or jealousy of life, but he has not reconciled the ones who still have business or who seem good.",
-                "Plans to avoid New Navel’s spirits for now, have Gerk ask the mayor or sheriff for volunteers, and go to Shades and Trades because he believes that person was alive."
+                "Confirms the giant previously held in the sword was released and that the field is empty except for distant figures.",
+                "Arcana 21 lets him pull on six spirits he is concentrating on. He stops when told they were not attached and that he had already sent them on.",
+                "Told he is Raven's razor and the pathway to the falls, and that it is his duty to seek out those who—the rest is lost to a mic cut.",
+                "He believes passing through New Navel caused spirits to follow him. Many do not want to move on. He will not force them and wants to avoid town until he knows who is willing.",
+                "He plans to wait outside New Navel if needed, then go to Shades and Trades, and may return for spirits who choose to move on.",
+                "He offers that Gerk could enter the spirit field with him sometime, and says he does not intend for that to be soon."
             ],
             "titles": [
-                "Razor",
                 "Raven's razor",
-                "Pathway to the falls"
+                "pathway to the falls"
             ],
             "personality": [
-                "Does not want to force spirits who are not ready, and needs time to reconcile duty with the dead who refuse to leave."
+                "Does not want to force spirits who are not ready, even though he believes it is time for them to move on.",
+                "Treats the sword's gray field as private and unpleasant to share."
             ],
             "quotesThemes": [
-                "They tried to tell me they had things left, but it is time for them to move on.",
-                "It is my duty to collect them and move them on to their afterlife. But a lot of them do not want to go."
+                "\"They tried to tell me they had things left, but it is time for them to move on.\"",
+                "\"I will not anymore.\"",
+                "He separates \"bad ones\" who cling from jealousy or greed from other spirits, and says he still has to reconcile what to do about the rest."
             ],
             "openQuestions": [
-                "Who exactly must a razor of the Raven Queen seek out? The sentence was cut off.",
-                "What should he do with good spirits, or spirits who still have unfinished business, if his task is also to take those who refuse to move on?"
+                "Whom must he seek? The emissary stopped at \"those who\" when the mic cut out.",
+                "What should he do about spirits who are not the ones clinging out of jealousy or greed? He says he is still trying to reconcile that, and the conversation breaks off on \"What if they're.\""
             ]
         },
         "Gerk": {
-            "existing": "Half-orc barbarian Doorman and Child of the Great Eldarin Tree.",
+            "existing": "Half-orc barbarian and Doorman.",
             "entityType": "PLAYER",
             "notes": [
-                "Stays with Sylan, tries to stack rocks on the translucent Sylan, then rings his feet with stones.",
-                "Asked to find the mayor or sheriff of New Navel and announce that spirits who want to move on should find Sylan. If the mayor is a spirit, Gerk may have to speak for him. He is to meet Sylan after that."
+                "Stays with Sylan while the others fly toward Carlkin's. He can see Sylan turn foggy inside the sword, and the rocks he stacks fall through that form.",
+                "Sylan asks him to find the mayor or sheriff of New Navel and put out word for spirits who are willing to move on to come find Sylan.",
+                "If the mayor is a spirit, Gerk is the one who should do the talking. After that he can meet Sylan, who may be waiting outside town before Shades and Trades.",
+                "He asks what happens to the good spirits, as opposed to the ones who refuse to move on."
             ],
             "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": [
-                "What if the mayor of New Navel is a spirit?"
-            ]
-        },
-        "Araden": {
-            "existing": "A magically capable companion brought secretly to The Reach.",
-            "entityType": "NPC",
-            "notes": [
-                "Accompanies Elrus with the group flying to Carlkin’s lighthouse and carries Ord.",
-                "Tells Ord not to worry, addresses him as young Lane, and taps his chest: his wings are in there."
+            "personality": [
+                "Practical about the spirit problem: he asks who is supposed to go, what if the mayor is a spirit, and what about the good ones."
             ],
-            "titles": [],
-            "personality": [],
             "quotesThemes": [
-                "Don't worry, little one. I will carry you, young Lane.",
-                "Your wings are in here."
+                "\"So ask the mayor if he will put out an announcement that any spirits looking to go to their afterlife should find you.\""
             ],
             "openQuestions": []
         },
         "Raven emissary": {
-            "existing": "",
+            "existing": "An unnamed raven who becomes a feather-draped person and calls Sylan Raven's razor.",
             "entityType": "NPC",
             "notes": [
-                "Appears in Sylan’s gray sword-realm first as a raven two or three feet from his face, then as a middle-aged figure between a halfling and a dwarf, draped in feathers—an anemic dwarf or a very buff halfling.",
-                "Speaks for the Raven Queen’s charge: calls Sylan Razor, says the spirits were not attached and should not be pulled back, names him the pathway to the falls, and says she will speak further."
+                "Appears in the sword's gray field when Sylan starts pulling the six spirits: a raven within two or three feet, then a feather-draped, middle-aged person who could be a slight dwarf or a heavily built halfling.",
+                "Says the spirits were not attached to Sylan, that Razor already sent them on, and asks why he is pulling them back.",
+                "Calls him Raven's razor and the pathway to the falls. Says a razor of the Raven Queen must seek out those who—and does not finish.",
+                "After Sylan says the spirits claimed they had things left but should move on, answers \"They did, but she will say,\" and does not finish. Sylan leaves them in the gray field."
             ],
             "titles": [],
             "personality": [
-                "Direct and corrective; stops Sylan from reclaiming spirits he had already sent on."
+                "Speaks to Sylan as someone already under orders, and checks that he is not still pulling the spirits back."
             ],
             "quotesThemes": [
-                "What are you doing, Razor?",
-                "You are Raven's razor. You are the pathway to the falls.",
-                "You are a razor of the Raven Queen. It is your duty to seek out those who…",
-                "They did, but she will say."
+                "\"What are you doing, Razor?\"",
+                "\"No, they were not attached to you. Razor, you have sent them on their way. Why do you pull them back?\"",
+                "\"You are Raven's razor. You are the pathway to the falls.\"",
+                "\"You are a razor of the Raven Queen. It is your duty to seek out those who.\"",
+                "\"They did, but she will say.\""
             ],
-            "openQuestions": []
-        },
-        "Raven Queen": {
-            "existing": "Elder god of death, also called Nira, who once walked among mortals and can take a harpy-like form.",
-            "entityType": "NPC",
-            "notes": [
-                "Sylan is named a razor of the Raven Queen, with a duty to seek certain dead and serve as the pathway to the falls.",
-                "Her emissary implies she will be the one to say more about the spirits who still had things left."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "New Navel": {
-            "existing": "A familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
-            "entityType": "LOCATION",
-            "notes": [
-                "Spirits are still walking around town. Sylan thinks his last pass through town picked some of them up.",
-                "Shades and Trades sits in the middle of town. Sylan may wait outside rather than cross town and collect more dead. He wants the mayor or sheriff asked to announce that willing spirits can come to him."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
             "openQuestions": [
-                "Is the mayor of New Navel a spirit?"
+                "The emissary does not finish who Sylan is supposed to seek, or what \"she will say.\""
             ]
         },
-        "Shades and Trades": {
-            "existing": "Where Sylan found the staff later fused to Ord's lantern.",
-            "entityType": "LOCATION",
+        "Raven Queen": {
+            "existing": "Elder god of death, also called Nira.",
+            "entityType": "NPC",
             "notes": [
-                "Sylan’s next stop after the spirit check. He believes the person he is going to see there was alive, not a spirit. The shop is in the middle of New Navel, so he may wait outside town first."
+                "Through the emissary, Sylan is named a razor of the Raven Queen, with a duty to seek certain souls.",
+                "The emissary starts to defer to her—\"she will say\"—and does not finish the sentence."
             ],
             "titles": [],
             "personality": [],
@@ -153,11 +119,38 @@
             "openQuestions": []
         },
         "Sylan's sword": {
-            "existing": "",
+            "existing": "Opens a gray spirit field where Sylan turns ghostly and can pull spirits toward himself.",
             "entityType": "ITEM",
             "notes": [
-                "Sylan enters it in a now semi-familiar state and becomes ghostly and translucent; physical objects pass through him.",
-                "Inside is a gray field, distinct from the Abyssal Plane. It can hold beings; the giant who was there has been released, and Sylan believes it is empty. Distant figures can still be seen, and he can try to reel specific spirits toward himself."
+                "Entering it is a semi-familiar state. The world shrinks into a rolling gray field that is relatively empty compared with earlier visits.",
+                "Sylan's body becomes translucent; solid objects pass through him. He returns with only the rocks Gerk left around his feet.",
+                "The giant once held there is confirmed released. No one is currently inside. Distant figures can still be seen, and Sylan can pull on spirits from the field until he releases that tension.",
+                "The field is not the Abyssal Plane. The DM used \"abyssal\" only as a description and corrected it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "A familiar stop with Carlkin's lighthouse; spirits have been stirred here before.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sylan remembers spirits still walking the town and thinks his last pass through it picked some of them up.",
+                "He wants the mayor or the sheriff asked to announce that any spirit willing to move on should find him. He would rather stay outside town than walk through again.",
+                "Shades and Trades is in the middle of town."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Shades and Trades": {
+            "existing": "Where Sylan found the staff later fused to Ord's lantern.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sylan plans to go there after the spirit-realm check, but he may wait outside New Navel first so he does not gather more spirits.",
+                "He believes the person he is going to see there was a living person, not a spirit. Gerk can meet him there after talking to the mayor, as long as that does not mean forcing a spirit along."
             ],
             "titles": [],
             "personality": [],
@@ -165,43 +158,49 @@
             "openQuestions": []
         },
         "Barker": {
+            "existing": "Uncertain name; someone who might have dealt with Vecna.",
+            "entityType": "NPC",
+            "notes": [
+                "The morning's catching-up includes that Barker might have made a deal with Vecna. The table leaves it as uncertain."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Did Barker make a deal with Vecna? The recap leaves it as \"who knows.\""
+            ]
+        },
+        "Unnamed giant": {
             "existing": "",
             "entityType": "NPC",
             "notes": [
-                "Named in the morning recap as someone who might have made a deal with Vecna. Mentioned alongside a concerning sister-skin journal. The hearing of the name is uncertain."
+                "A giant had been held in Sylan's sword. Sylan confirms he released that giant. The gray field is empty of held spirits afterward."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Vecna": {
-            "existing": "Elder god of liches who watches from the periphery.",
+        "Araden": {
+            "existing": "A magically capable companion brought secretly to The Reach.",
             "entityType": "NPC",
             "notes": [
-                "The morning’s findings include a possible deal between Barker and Vecna, tied to talk of a sister-skin journal."
+                "Goes with Elrus in the group flying toward Carlkin's lighthouse.",
+                "Carries a party member who cannot fly on their own and tells them, tapping their chest, that their wings are in there."
             ],
             "titles": [],
             "personality": [],
-            "quotesThemes": [],
+            "quotesThemes": [
+                "\"Don't worry, little one. I will carry you.\"",
+                "\"Your wings are in here.\""
+            ],
             "openQuestions": []
         },
-        "Raskina": {
-            "existing": "Vecna's red-skinned tome, made from his sister and held by Grixto.",
+        "Dana's magic broom": {
+            "existing": "Dana's flying broom from the white dragon hoard.",
             "entityType": "ITEM",
             "notes": [
-                "The DM flags a sister-skin journal from the morning’s catch-up as concerning, in the same breath as Barker’s possible deal with Vecna."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Everfalls": {
-            "existing": "A location from the party's past where the Raven Queen has seen both Sylan and Dana.",
-            "entityType": "LOCATION",
-            "notes": [
-                "The raven emissary calls Sylan the pathway to the falls while naming him Raven’s razor."
+                "Dana does not think it can take a passenger. The DM recalls a weight limit, or a weight limit that changes speed."
             ],
             "titles": [],
             "personality": [],
@@ -211,29 +210,39 @@
     },
     "misTranscriptions": [
         {
-            "heard": "Vecno",
-            "likely": "Vecna",
-            "notes": "Morning recap of a possible deal."
-        },
-        {
             "heard": "testing forest",
             "likely": "Trigash Forest",
-            "notes": "Where the two groups set out from."
+            "notes": "The two groups leave this forest for Carlkin's and the New Navel errand."
         },
         {
-            "heard": "Barker",
-            "likely": "",
-            "notes": "“Good old Barker” may have dealt with Vecna; name is unclear."
+            "heard": "Vecno",
+            "likely": "Vecna",
+            "notes": "Morning recap of Barker's possible deal."
         },
         {
             "heard": "sister skin journal",
             "likely": "Raskina",
-            "notes": "Called out as concerning next to the Vecna deal."
+            "notes": "Raised beside the Barker–Vecna note. The Raskina is the tome made from Vecna's sister. Could instead be a separate journal."
+        },
+        {
+            "heard": "Stasher",
+            "likely": "stature",
+            "notes": "Build of the feather-draped emissary, between halfling and dwarf."
+        },
+        {
+            "heard": "cult beings",
+            "likely": "called beings",
+            "notes": "Said while Sylan is reeling the spirits in."
+        },
+        {
+            "heard": "look for the math",
+            "likely": "",
+            "notes": "What the DM said after realizing the mic had cut off the emissary's \"seek out those who.\" The intended end of the sentence was not recovered."
         },
         {
             "heard": "Nunevelle",
             "likely": "New Navel",
-            "notes": "Mayor or sheriff, spirits still in the streets."
+            "notes": "Sylan sends Gerk to the mayor or sheriff there."
         },
         {
             "heard": "Navelle",
@@ -241,48 +250,48 @@
             "notes": "Sylan describing the last time he walked through town."
         },
         {
-            "heard": "Stasher",
-            "likely": "stature",
-            "notes": "DM comparing the emissary to a halfling or dwarf."
-        },
-        {
-            "heard": "young Lane",
-            "likely": "",
-            "notes": "Araden’s address while offering to carry Ord."
-        },
-        {
-            "heard": "look for the math",
-            "likely": "",
-            "notes": "DM restating the cut-off duty line after the mic failed. Original fragment was “seek out those who.”"
+            "heard": "shade just trades",
+            "likely": "Shades and Trades",
+            "notes": "Sylan saying the shop is in the middle of town."
         },
         {
             "heard": "Shade and Trades",
             "likely": "Shades and Trades",
-            "notes": "Sylan’s destination in the middle of town."
+            "notes": "Same shop, missing the plural."
         },
         {
-            "heard": "cult beings",
-            "likely": "spirits",
-            "notes": "The six figures Sylan was reeling in."
+            "heard": "young Lane",
+            "likely": "youngling",
+            "notes": "Araden, while offering to carry someone. The name is not otherwise used."
+        },
+        {
+            "heard": "half bored",
+            "likely": "",
+            "notes": "Ord, in the exchange about not having wings and needing a ride."
+        },
+        {
+            "heard": "the falls",
+            "likely": "Everfalls",
+            "notes": "The emissary calls Sylan \"the pathway to the falls.\" Everfalls is the known place the Raven Queen has seen him. It may instead be a title as spoken."
         }
     ],
     "openQuestions": [
-        "Who is a razor of the Raven Queen supposed to seek out? The explanation was cut off.",
-        "What should Sylan do with good spirits, or spirits who still have unfinished business?",
-        "Is the mayor of New Navel a spirit?",
-        "What will the Raven Queen say about the spirits who still had things left?"
+        "Whom is Sylan, as the Raven Queen's razor, supposed to seek? The emissary's sentence was cut off after \"those who.\"",
+        "What did the emissary mean by \"They did, but she will say\"?",
+        "What should be done with spirits who are not clinging out of jealousy or greed? Gerk asks about the good ones, and Sylan says he is still reconciling it.",
+        "Did Barker make a deal with Vecna?"
     ],
     "newTerms": [
         {
-            "name": "Raven's Razor",
+            "name": "pathway to the falls",
             "notes": [
-                "Title the feathered emissary gives Sylan. A razor of the Raven Queen seeks out certain dead and is called the pathway to the falls. Distinct wording from Talon in this chunk."
+                "Epithet the raven emissary gives Sylan in the same breath as Raven's razor. It may refer to Everfalls."
             ]
         },
         {
-            "name": "Gray field in Sylan's sword",
+            "name": "Unnamed giant",
             "notes": [
-                "Spirit-space Sylan enters through his sword: a rolling gray field, not the Abyssal Plane. He can become translucent there and attempt to draw spirits to himself. The giant once held there has been released."
+                "A giant Sylan had held in the sword's gray field. He confirms in this chunk that he released it, and no one is held there now."
             ]
         }
     ]

@@ -1,4 +1,4 @@
-import { withAi } from "../lib/ai.js";
+import { withAiPool } from "../lib/ai.js";
 import {
   DATE_RE,
   PIPELINE_STEPS,
@@ -29,7 +29,7 @@ import {
 const HELP = `
 dnd-transcribe-summary
 
-Local pipeline (AI via Cursor by default, or ChatGPT via Chrome):
+Local pipeline (Cursor agents; AI_CONCURRENCY at a time, default 4):
   transcripts/YYYY-MM-DD/{recap.md,transcript.md}
     → chunks    summaries/YYYY-MM-DD/summary-N.json
     → merge     summaries/YYYY-MM-DD/merged.json
@@ -73,9 +73,6 @@ Examples:
   npm start -- dedup --interactive --dry-run
   npm start -- tags
   npm start -- tags --dry-run
-  # ChatGPT provider only:
-  npm run chrome:debug
-  AI_PROVIDER=chatgpt npm start -- 2026-08-17
 `.trim();
 
 interface ParsedArgs {
@@ -301,11 +298,11 @@ async function runSelectedSteps(
   console.log(`${dryRun ? "Would run" : "Running"}: ${described.join(" → ")}`);
   if (dryRun) return;
 
-  await withAi(async (ai) => {
+  await withAiPool(async (pool) => {
     for (const step of needed) {
-      if (step === "chunks") await generateChunks(ai, date, { force });
-      else if (step === "merge") await generateMerged(ai, date, { force });
-      else await generateVaultData(ai, "summaries", "vault-data", { date, force });
+      if (step === "chunks") await generateChunks(pool, date, { force });
+      else if (step === "merge") await generateMerged(pool, date, { force });
+      else await generateVaultData(pool, "summaries", "vault-data", { date, force });
     }
   });
 }
@@ -346,8 +343,8 @@ async function main(): Promise<void> {
       console.log(await previewEntityTable());
       return;
     }
-    await withAi(async (ai) => {
-      const result = await findDuplicateEntities(ai);
+    await withAiPool(async (pool) => {
+      const result = await pool.run((ai) => findDuplicateEntities(ai));
       console.log(formatDedupReport(result));
     });
     return;
@@ -361,8 +358,8 @@ async function main(): Promise<void> {
       console.log(await previewTagsEntityTable());
       return;
     }
-    await withAi(async (ai) => {
-      const result = await backfillEntityTags(ai);
+    await withAiPool(async (pool) => {
+      const result = await pool.run((ai) => backfillEntityTags(ai));
       console.log(formatTagsBackfillReport(result));
     });
     return;
@@ -389,8 +386,8 @@ async function main(): Promise<void> {
     }
     console.log(`Vault work needed for: ${needed.join(", ")}`);
     if (args.dryRun) return;
-    await withAi(async (ai) => {
-      await generateVaultData(ai, "summaries", "vault-data", {});
+    await withAiPool(async (pool) => {
+      await generateVaultData(pool, "summaries", "vault-data", {});
     });
     return;
   }

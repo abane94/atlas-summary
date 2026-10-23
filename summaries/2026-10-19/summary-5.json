@@ -1,89 +1,69 @@
 {
     "plotSections": [
         {
-            "title": "Ghosts for Sylan and Gerk, Carlkin for the rest",
+            "title": "Party split",
             "bullets": [
-                "Sylan and Gerk take a separate errand, heard as Ghost Cop, while the others go to Carlkin. Ord asks how Gerk is supposed to be bad cop if he cannot threaten anyone. Dana agrees on the conditions of no doors to nothing dimensions, no abyssal monsters, and no opening doors in moving vehicles.",
-                "Sylan tells Walker that training has let Gerk manipulate doors a little better, and that he still needs more work.",
-                "Sylan sets a regroup at dinner in the castle to plan the next step and does not wait for objections. He tells Gerk it is time to talk to ghosts."
+                "Sylan and Gerk take the ghosts. Dana, Walker, Ord, and Ciri go to Carlkin.",
+                "Dana's limits for Gerk: no doors to nothing-dimensions, no abyssal monsters, and no doors opened from moving vehicles.",
+                "They plan to regroup for dinner at the castle and plan the next step. Sylan treats that meetup as settled."
             ]
         },
         {
-            "title": "Elrus will train the mind",
+            "title": "Mind training",
             "bullets": [
-                "Elrus hears that Gerk needs training and says that makes two of them. He is willing to train Gerk, tells Walker to have the helmet investigated, and says Walker's training can resume after that. He pokes Gerk in the midriff.",
-                "Elrus looks remotely half-elf and stands about 5'10\" to 5'11\". He has an ancient copper-colored dragon. Gerk already knew about the dragon and did not know this height.",
-                "Elrus says Gerk is strong of body and lacking in mind, and that they will work that out of him. He calls it no insult: one does not insult an oak as a sapling, knowing it will one day be more. He says the growth he means is in the mind. He says Walker needs help meditating and asks if Gerk has ever meditated.",
-                "Gerk asks Ord if he is being insulted. Ord tells him that at least he is strong of body. Gerk does not want to get bigger, because he barely fits places as he is.",
-                "Dana explains meditation as being quiet in the mind, like the focus Gerk uses to open a door, because otherwise doors open into the abyss and giant monsters come out. Gerk says that happens only when he thinks about nothing. Dana says the party still needs his rage, channeled appropriately, and that the doors are a separate kind of focus. Gerk thinks raging while opening a door would go poorly. On a seventeen-foot door he only tried to open it harder. Sylan suggests he try it at the next training. Gerk says maybe."
+                "A half-elf-looking man about 5'10\"–5'11\", who has an ancient copper dragon, hears that Gerk still needs doorway training and says that makes two students, with Walker the other. He is willing to train them. Walker is to take the helm to be investigated, then return to training.",
+                "He pokes Gerk in the midriff and says Gerk is strong of body but lacking in mind. He calls it potential, not an insult: one does not insult an oak while it is a sapling. He tells Gerk to grow in the mind and says Walker needs help meditating.",
+                "Dana tells Gerk meditation is quieting the mind, the same focus used to open a door. She says thinking of nothing opens doors into the abyss. Gerk says he does not have that quiet, and that the abyss happens only when he thinks of nothing.",
+                "Dana says the rage still matters but must be channeled, and that doors are a separate act of focus. Gerk thinks raging while opening a door would go badly. Sylan recalls the seventeen-foot door; Gerk says that time he only tried to open it harder. Sylan suggests he try rage on a later training door."
             ]
         },
         {
-            "title": "Carlkin gets a warning",
+            "title": "Carlkin",
             "bullets": [
-                "Sylan asks Dana to notify Carlkin that they are returning today. He does not think they are within five hundred feet. Walker asks why they cannot just walk in. Sylan says last time they had no appointment, barged in, opened a portal to the abyss, and he broke Carlkin's floor, so Carlkin wants warning.",
-                "Dana says they are lucky Carlkin allowed another appointment. She had thought he might tell them never to speak to him again. Sylan warns that Carlkin may be wildly hung over and suggests a snack and maybe a lesser restoration, which Ord might perform. Dana says they will figure it out.",
-                "Dana Sends that they are heading that way and are not bringing Gerk or Sylan, which she considers pertinent. Carlkin has an opening, and Dana says the Carlkin group needs to leave now. Walker is going with them and is not flying off. Sylan asks Ciri if she wants a door, and she says there is a welcome in there."
+                "Sylan is heading to New Navel and asks Dana to warn Carlkin they are returning today. He says they are not within five hundred feet, and that last time they arrived without an appointment, opened a portal to the abyss, and he broke Carlkin's floor.",
+                "Walker asks why they cannot just walk in. Dana says they are lucky Carlkin allowed another appointment and that she had thought he might refuse to see them again.",
+                "Sylan warns Carlkin may be badly hung over and suggests a snack and maybe a lesser restoration from Ord. Dana says they will sort it out.",
+                "Dana casts Sending: they are heading that way, and Gerk and Sylan are not with them. She says Carlkin has an opening and the Carlkin group needs to leave now. Walker is with that group and is not flying off. Ord is taking the helm to Carlkin."
             ]
         },
         {
-            "title": "The lantern and the sword",
+            "title": "Lantern and spirits",
             "bullets": [
-                "Sylan borrows the fused lantern-staff from Ord. Ord wants to test whether a different user gets a different effect and agrees to tell him the activation wording. The exact word is not spoken in this chunk. Sylan will take it to Shades and Trades to identify it in its fused state, unless that was already done. Taking it from Ord does not immediately do anything catastrophic.",
-                "Sylan wishes he could still use a greatsword while holding the lantern. He has no tail and does not want one. He has heard of a reincarnation spell that left people with tails, and says his appearance has already changed from one experience.",
-                "Before going down the vale, Sylan wants to check a place his sword can take him, where he can see spirits like the ones they are after. If those spirits are there, he means to get them out, because it is not a good place to be. He does not think people would want to see that in the open. Gerk does not like the ghosts. Sylan says he will defend him."
+                "Sylan borrows the fused lantern-staff from Ord. Ord wants to test whether a different user gets a different effect and says he will tell Sylan the activation phrase. The exact words are not spoken in this stretch.",
+                "Sylan will take the fused item to Shades and Trades to identify it in its new state. Neither he nor Ord is sure that identification already happened. Taking it from Ord does not immediately cause a disaster.",
+                "Sylan and Gerk leave to deal with ghosts. Sylan wants to use his sword first, in his own realm and before going down the veil, because the sword takes him somewhere he can see spirits. If those spirits are there, he means to get them out; he says it is not a good place to be."
             ]
         }
     ],
     "chronologicalEvents": [
-        "Sylan and Gerk split off to deal with ghosts. The others are to see Carlkin. Dana forbids doors to nothing dimensions, abyssal monsters, and doors opened in moving vehicles. Ord questions how Gerk can be bad cop if he cannot threaten anyone.",
-        "Sylan reports that Gerk can manipulate doors a little better and still needs practice. Elrus offers to train Gerk and to resume Walker's training after the helmet is investigated.",
-        "Elrus, remotely half-elf and about 5'10\" to 5'11\", with an ancient copper dragon, tells Gerk he is strong of body and lacking in mind, and compares him to an oak sapling. He says Walker needs help meditating.",
-        "Dana separates rage from the focus used to open doors. Gerk says the seventeen-foot door was him trying to open it harder, not raging. Sylan suggests he try raging at the next training.",
-        "Dana agrees to Send Carlkin before the visit. Last time an unannounced visit opened a portal to the abyss and Sylan broke the floor. The message says Gerk and Sylan are not coming. Sylan warns Carlkin may be hung over.",
-        "Sylan calls a regroup at dinner in the castle, takes the fused lantern-staff from Ord, and plans to have Shades and Trades identify it. He then leaves with Gerk to talk to ghosts.",
-        "Sylan plans to use his sword to reach a place where he can see spirits and pull them out if they are there, before going down the vale.",
-        "Dana says Carlkin has an opening and the Carlkin group needs to go. Walker is with that group. Sylan offers Ciri a door."
+        "Sylan assigns himself and Gerk to the ghosts and the others to Carlkin. Dana forbids doors to nothing-dimensions, abyssal monsters, and doors from moving vehicles.",
+        "Sylan tells Walker that Gerk can manipulate doors somewhat better after training but still needs work. The copper-dragon's half-elf companion offers to train both Gerk and Walker, and sends Walker to have the helm investigated first.",
+        "The trainer pokes Gerk, calls him strong of body and weak of mind, and compares him to an oak sapling. He says the work is in Gerk's mind and that Walker needs meditation.",
+        "Dana explains mental focus for doors, including that thinking of nothing opens the abyss. She separates that focus from Gerk's rage. Gerk doubts raging through a door; the seventeen-foot door is recalled as him simply opening it harder.",
+        "Sylan asks Dana to Send Carlkin notice of their return to New Navel. The group recounts the unannounced visit, the abyss portal, and the broken floor. Dana thinks another appointment was a near thing. Sylan suggests Carlkin may be hung over.",
+        "Dana's Sending says they are on the way and that Gerk and Sylan are not coming. She reports that Carlkin has an opening now.",
+        "The reunion is set for dinner at the castle. Sylan takes Gerk to the ghosts.",
+        "Ord lends Sylan the fused lantern-staff to test another wielder and to identify at Shades and Trades. Sylan plans to check the sword's spirit-place for spirits before going down the veil.",
+        "The split is confirmed: Sylan and Gerk to New Navel for the ghosts; Walker, Ord, Dana, and Ciri to Carlkin with the helm. Sylan offers Ciri a door as that group leaves."
     ],
     "entities": {
-        "Elrus": {
-            "existing": "Walker's hidden ally in the coming confrontation.",
-            "entityType": "NPC",
-            "notes": [
-                "He is not named aloud in this chunk. He is the figure already present who takes Gerk's need for training as a second student beside Walker.",
-                "He offers to train Gerk, tells the party to have the helmet investigated, and says Walker's training resumes after that. He pokes Gerk in the midriff.",
-                "He looks remotely half-elf and stands about 5'10\" to 5'11\". He has an ancient copper-colored dragon. Gerk knew about the dragon and had not known this height.",
-                "He says Gerk is strong of body and lacking in mind, and that they will work that out of him. The growth he means is mental. He says Walker needs help meditating and asks whether Gerk has meditated."
-            ],
-            "titles": [],
-            "personality": [
-                "Speaks to Gerk as a student rather than an equal, and treats the criticism of his mind as cultivation rather than an insult."
-            ],
-            "quotesThemes": [
-                "You seem to be strong of body, but your mind seems to be lacking. We will work that out of you.",
-                "It is not an insult, my boy. One does not insult an oak tree as a sapling. They just know one day it'll be more.",
-                "Not pick in here, but pick in there, your mind, boy."
-            ],
-            "openQuestions": []
-        },
         "Gerk": {
-            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "existing": "Half-orc barbarian, Doorman and Child of the Great Eldarin Tree.",
             "entityType": "PLAYER",
             "notes": [
-                "Door training has improved enough that he can manipulate doors a little better. Sylan says he still needs more work. Elrus intends to train his mind.",
-                "He already knew Elrus has an ancient dragon. He did not know Elrus's height.",
-                "He does not have a quiet mind for meditation. Thinking about nothing is what opens his doors into the abyss. He thinks raging while opening a door would go poorly. On a seventeen-foot door he tried to open it harder.",
-                "He does not want to become physically larger, because he barely fits places now.",
-                "He is going with Sylan to talk to ghosts, not to the Carlkin visit. He does not like those ghosts."
+                "Sylan says recent training let Gerk manipulate doors a little better, with more work still needed.",
+                "The copper-dragon companion judges him strong of body and lacking in mind, and offers to train that mind. Gerk hears it as an insult until it is framed as an oak growing from a sapling.",
+                "He says he cannot quiet his mind. He says doors open to the abyss only when he thinks of nothing, not as a general failure of focus. He thinks raging while opening a door would go poorly. On the seventeen-foot door he tried to open it harder rather than raging.",
+                "He goes with Sylan to New Navel to deal with ghosts, and is not part of the Carlkin visit. Dana tells Carlkin that in the Sending."
             ],
             "titles": [],
             "personality": [
-                "Treats Elrus's sapling comment as a possible insult until it is explained, and resists meditation."
+                "Takes the trainer's mind comment personally, then laughs it off once Ord and the trainer recast it as future growth.",
+                "Says getting bigger would be inconvenient because he already barely fits places."
             ],
             "quotesThemes": [
-                "No, that's only if I think about nothing.",
-                "I think if I think about raging while I open a door, that seems like it'd probably go poorly.",
-                "I just tried to open it harder."
+                "\"I don't have that.\"",
+                "\"No, that's only if I think about nothing.\""
             ],
             "openQuestions": []
         },
@@ -91,43 +71,40 @@
             "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
             "entityType": "PLAYER",
             "notes": [
-                "He takes Gerk on a ghost errand and leaves Carlkin to the others. He reports Gerk's partial progress with doors and suggests Gerk try raging on a door at the next training.",
-                "He asks Dana to warn Carlkin, cites the broken floor and the abyss portal from the last unannounced visit, and expects Carlkin may be hung over.",
-                "He sets the regroup at dinner in the castle.",
-                "He borrows the fused lantern-staff, asks for its activation word, and plans to identify its fused state at Shades and Trades.",
-                "His sword lets him travel to another place where he can see spirits. He wants to check that place before going down the vale and get those spirits out if they are there.",
-                "He has no tail and does not want one from reincarnation. His appearance has already changed from one prior experience. He would like to use a greatsword while holding the lantern and currently cannot."
+                "Pairs with Gerk as the ghost pair and leaves Carlkin to the others.",
+                "Reports Gerk's partial progress with doors and accepts more training.",
+                "Asks Dana to warn Carlkin, citing the last unannounced visit, the abyss portal, and the floor he broke. Suggests Carlkin may be hung over and that Ord could use lesser restoration.",
+                "Sets the regroup at dinner in the castle.",
+                "Borrows the fused lantern-staff, asks for its activation wording, and plans to have the fused state identified at Shades and Trades.",
+                "Says his sword lets him travel to another place where he can see spirits. He wants to check that place in his realm before going down the veil, and to remove any spirits there because it is not a good place.",
+                "Says a reincarnation that leaves someone with a tail is not for him, and that his appearance has already changed from one experience."
             ],
             "titles": [],
             "personality": [
-                "Treats the ghost errand as his to handle and Gerk's to be defended on."
+                "Treats the dinner plan as decided once he announces it."
             ],
             "quotesThemes": [
-                "Let's go, old Gerk. It's time to talk to ghosts.",
-                "My sword lets me travel to another place where I can see spirits like them.",
-                "If they are, I need to get them out of there. It's not a good place to be."
+                "\"Let's go, old Gerk. It's time to talk to ghosts.\"",
+                "\"If they are, I need to get them out of there. 'Cause it's not a good place to be.\""
             ],
             "openQuestions": [
-                "What is the exact word that activates the fused lantern-staff?",
-                "Are the spirits he is looking for in the place his sword takes him?"
+                "Are the spirits present in the place his sword opens, and do they need to be removed?",
+                "Has the fused lantern-staff already been identified at Shades and Trades?"
             ]
         },
         "Dana": {
-            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
+            "existing": "Half-elf cleric, most knowledgeable of the group, Gatekeeper of the Pitel keystone.",
             "entityType": "PLAYER",
             "notes": [
-                "She allows the ghost errand only with no doors to nothing dimensions, no abyssal monsters, and no doors opened in moving vehicles.",
-                "She explains meditation to Gerk as quiet focus, like opening a door, and says his rage still matters if it is channeled. The doors are a separate ability.",
-                "She Sends Carlkin that the group is heading his way without Gerk or Sylan. She considers that pertinent. He has an opening, and she says they need to leave.",
-                "She thought after the last visit that Carlkin might refuse to speak to them again. She says they are lucky he allowed another appointment. She will handle a possible hangover without committing to lesser restoration."
+                "Bars Gerk from doors to nothing-dimensions, abyssal monsters, and doors opened in moving vehicles.",
+                "Tells Gerk that door focus is a quiet mind, and that thinking of nothing brings the abyss. She says his rage is still the point but must be channeled, and that doors are a separate ability.",
+                "Sends to Carlkin that the group is heading there without Gerk and Sylan. She believes they are lucky he allowed another appointment. She then says he has an opening and the Carlkin group must go."
             ],
             "titles": [],
-            "personality": [
-                "Sets hard limits on Gerk's doors, and treats rage and doorway focus as different skills."
-            ],
+            "personality": [],
             "quotesThemes": [
-                "Please no doors to nothing dimensions. Please no abyssal monsters. No opening doors in moving vehicles.",
-                "We need the rage. The rage is the whole thing. But the rage needs to be channeled appropriately and the doors are an entirely separate ability to focus."
+                "\"Please no doors to nothing dimensions. Please no abyssal monsters. No opening doors in moving vehicles.\"",
+                "\"The rage is the whole thing, but the rage needs to be channeled appropriately, and the doors are an entirely separate ability to focus.\""
             ],
             "openQuestions": []
         },
@@ -135,9 +112,8 @@
             "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
             "entityType": "PLAYER",
             "notes": [
-                "Elrus is training him in meditation. That training pauses while the helmet is investigated, then resumes.",
-                "He is going with the Carlkin group and is not flying away.",
-                "He asks why they cannot walk in on Carlkin unannounced. Sylan answers with the last visit."
+                "The trainer says Walker will be free to return to training after the helm is investigated, and that Walker needs help meditating.",
+                "He is with the Carlkin group and is not flying off. He asks why they cannot simply walk in on Carlkin."
             ],
             "titles": [],
             "personality": [],
@@ -145,31 +121,60 @@
             "openQuestions": []
         },
         "Ord": {
-            "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
+            "existing": "Dragonborn paladin, Gatekeeper of Feldspar.",
             "entityType": "PLAYER",
             "notes": [
-                "He asks how Gerk can be bad cop if he cannot threaten anyone, and then tells Gerk that at least he is strong of body.",
-                "He gives Sylan the fused lantern-staff to test whether another user gets a different effect. He agrees to pass on the activation wording. The word itself is not said here.",
-                "Sylan suggests he might lesser restoration a hung-over Carlkin. Ord does not commit on screen beyond acknowledging the conversation."
+                "Tells Gerk that being called strong of body is something.",
+                "Gives Sylan the fused lantern-staff and proposes testing whether a different user changes the effect. He knows the activation phrase and says he will tell Sylan; the words themselves are not spoken here.",
+                "He is not sure they already had the fused item identified.",
+                "Sylan points to him for a possible lesser restoration if Carlkin is hung over. The helm goes with him to Carlkin."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [
-                "How is he supposed to be bad cop if he can't threaten them?",
-                "Hey man, at least you're strong of body."
+                "\"Hey man, at least you're strong of body.\""
             ],
             "openQuestions": [
-                "Does a different user activating the fused lantern-staff change its effect?"
+                "Does a different user activating the fused lantern-staff get a different effect?"
             ]
         },
         "Carlkin": {
-            "existing": "Turtle-like person in Langdale, keeper of a lighthouse bookshop in New Navel, who agreed to examine a helm by appointment.",
+            "existing": "Turtle-like person; his lighthouse in New Navel is his home and bookshop.",
             "entityType": "NPC",
             "notes": [
-                "The last visit had no appointment. The party barged in, opened a portal to the abyss, and Sylan broke his floor. He wants warning next time.",
-                "Dana believed he might have refused to see them again. He has permitted another appointment and, by the end of the chunk, has an opening.",
-                "Sylan thinks he may be wildly hung over and suggests a snack and lesser restoration.",
-                "Dana's Sending tells him the visitors are on the way and that Gerk and Sylan are not with them."
+                "The party is seeking another appointment so the helm can be investigated. Dana remembers him as close to refusing them after they arrived without warning, opened a portal to the abyss, and Sylan broke his floor.",
+                "Sylan thinks he may be badly hung over.",
+                "Dana's Sending omits Gerk and Sylan on purpose. She then says he has an opening and the visiting group should go immediately."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Unnamed copper-dragon companion": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "A man who looks remotely half-elf and stands about 5'10\" to 5'11\", accompanying an ancient copper-colored dragon. Gerk already knew of the dragon and did not know the man's height.",
+                "He offers to train Gerk's mind and to help Walker meditate, and he pokes Gerk in the midriff. He tells Walker to have the helm investigated and then come back to training.",
+                "He says Gerk is strong of body but lacking in mind, and that this is not an insult."
+            ],
+            "titles": [],
+            "personality": [
+                "Instructs by prodding and by talking about future growth rather than by calling the judgment an insult."
+            ],
+            "quotesThemes": [
+                "\"You seem to be strong of body, but your mind seems to be lacking. We will work that out of you.\"",
+                "\"One does not insult an oak tree as a sapling. They just know one day it'll be more.\"",
+                "\"Not big in here. But big in there, your mind, boy.\""
+            ],
+            "openQuestions": []
+        },
+        "Hanzuni": {
+            "existing": "Ancient copper dragon of Haven Hold who loans gold for quests.",
+            "entityType": "NPC",
+            "notes": [
+                "The trainer is described as having an ancient copper-colored dragon with him. Gerk already knew that dragon was his. No new action from the dragon itself in this stretch."
             ],
             "titles": [],
             "personality": [],
@@ -180,43 +185,48 @@
             "existing": "Fused lantern and staff that reveals the Ethereal Plane and draws nearby spirits when the active staff is held.",
             "entityType": "ITEM",
             "notes": [
-                "Ord hands it to Sylan so they can test whether a different wielder changes the effect.",
-                "It has an exact activation word. Sylan asks for it, and it is not spoken in this chunk.",
-                "Sylan will take it to Shades and Trades to identify it in its fused state. He cannot remember whether they already did that.",
-                "Sylan taking it from Ord does not immediately cause a catastrophe.",
-                "Sylan cannot also wield a greatsword while holding it."
+                "Ord hands it to Sylan. They intend to test whether another wielder changes the effect. Sylan will take it to Shades and Trades for identification in its fused state; they are unsure that was already done.",
+                "Ord has the activation phrase and will tell Sylan. It is not spoken here. Nothing catastrophic happens when Sylan takes it."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": [
-                "What is the exact activation word?",
-                "Does another wielder change the effect?",
-                "Has the fused state already been identified at Shades and Trades?"
+                "Does a different wielder change how it activates?",
+                "Has the fused state already been identified?"
             ]
         },
-        "Sylan's sword": {
-            "existing": "",
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine by appointment once a comrade returns.",
             "entityType": "ITEM",
             "notes": [
-                "Sylan says the sword lets him travel to another place where he can see spirits.",
-                "He plans to check that place before going down the vale. If the spirits are there, he intends to get them out, because it is not a good place for them. He does not think that should be done in the open."
+                "The trainer tells Walker to take the helm and have it investigated before returning to meditation training. Ord confirms it is going to Carlkin with that group."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan's sword": {
+            "existing": "Opens a gray spirit field where Sylan turns ghostly and can pull spirits toward himself.",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan says it lets him travel to another place where he can see spirits like the ones they are going after. He plans to look for them there, in his realm, before going down the veil, and to remove them if they are present."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": [
-                "Are the spirits already in the place the sword opens?"
+                "Are those spirits in the sword's other place?"
             ]
         },
         "Doorway": {
-            "existing": "Gerk's doorway ability, a supernatural passage between locations.",
+            "existing": "Gerk's doorway ability, a fixed supernatural passage between locations.",
             "entityType": "CONCEPT",
             "notes": [
-                "Recent training let Gerk manipulate doors a little better. He still needs practice. Elrus is willing to train him.",
-                "Dana's limits for the ghost errand are no doors to nothing dimensions, no abyssal monsters, and no doors opened in moving vehicles.",
-                "Doors open into the abyss, and giant monsters come out, when Gerk thinks about nothing. Dana says doorway focus is separate from rage.",
-                "Gerk previously tried to force a seventeen-foot door by opening it harder. Sylan wants him to try raging at the next training. Gerk thinks that would go poorly."
+                "Sylan reports Gerk can manipulate doors a little better and still needs training.",
+                "Dana's stated failures to avoid: nothing-dimensions, abyssal monsters, and opening doors in moving vehicles. She says thinking of nothing is what opens the abyss, and that door focus is separate from rage.",
+                "The seventeen-foot door comes up as a prior attempt where Gerk tried to open it harder. Sylan suggests trying rage at the next training session. Gerk expects that to go poorly."
             ],
             "titles": [],
             "personality": [],
@@ -227,7 +237,18 @@
             "existing": "Where Sylan found the staff later fused to Ord's lantern.",
             "entityType": "LOCATION",
             "notes": [
-                "Sylan plans to bring the fused lantern-staff here to identify it in its new state. He is unsure whether the party already did that."
+                "Sylan plans to bring the fused lantern-staff here to identify it in its new state."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "Familiar stop that holds Carlkin's lighthouse.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sylan and Gerk head there for the ghosts. The other group is going to Carlkin, who is there, after Dana's Sending. Sylan believes the party is farther than five hundred feet from Carlkin, so the warning has to be sent."
             ],
             "titles": [],
             "personality": [],
@@ -237,143 +258,127 @@
     },
     "misTranscriptions": [
         {
-            "heard": "Ghost Cop",
-            "likely": "good cop",
-            "notes": "Sylan's name for the errand he and Gerk take. Ord immediately treats it as bad cop, and Sylan later says they are going to talk to ghosts, so it may instead be a deliberate ghost-cop plan."
-        },
-        {
             "heard": "Skeptic Cob",
-            "likely": "",
-            "notes": "Follows Ghost Cop: 'Skeptic Cob and you guys can go talk to Carlkin.' Possibly bad cop, skip the cop, or a name."
+            "likely": "Skip the cop",
+            "notes": "Sylan has just assigned himself and Gerk to ghost cop and the others to Carlkin."
         },
         {
             "heard": "How's that found?",
             "likely": "How's that sound?",
-            "notes": "Sylan asking if the split is acceptable."
-        },
-        {
-            "heard": "remotely half-elf",
-            "likely": "vaguely half-elf",
-            "notes": "DM description of Elrus's appearance."
-        },
-        {
-            "heard": "He's an house",
-            "likely": "",
-            "notes": "Sylan, just after Elrus's height is given."
-        },
-        {
-            "heard": "chip back up",
-            "likely": "",
-            "notes": "Ciri: 'And he's chip back up,' about the same figure."
+            "notes": "Sylan checking the split with the party."
         },
         {
             "heard": "sapline",
             "likely": "sapling",
-            "notes": "Elrus's oak comparison."
+            "notes": "The trainer's oak comparison, already said as sapling a moment earlier."
         },
         {
-            "heard": "pick in",
-            "likely": "",
-            "notes": "Elrus taps Gerk's chest: 'Not pick in here... but pick in there, your mind.' Possibly big, thick, or peak."
+            "heard": "pick in here",
+            "likely": "big in here",
+            "notes": "He taps Gerk's chest, then contrasts that with Gerk's mind. The next words sound like the same correction: big in the mind."
         },
         {
             "heard": "extrapolate",
-            "likely": "",
-            "notes": "Elrus repeats 'extrapolate' while saying they will develop Gerk's mind. He sounds like he is searching for the word."
+            "likely": "extricate",
+            "notes": "The trainer repeats and hunts for the word while saying they will work the lack out of Gerk's mind."
         },
         {
-            "heard": "trading",
-            "likely": "training",
-            "notes": "Sylan: 'Think how bigger you could get, Gerk, with this trading.'"
+            "heard": "with this trading",
+            "likely": "with this training",
+            "notes": "Sylan is talking about the trainer's lessons."
         },
         {
             "heard": "Nanavelle",
             "likely": "New Navel",
-            "notes": "Sylan says he is heading down to Nanavelle before the Carlkin warning."
-        },
-        {
-            "heard": "the miss",
-            "likely": "the abyss",
-            "notes": "Sylan: they opened the portal to the miss and he broke Carlkin's floor."
-        },
-        {
-            "heard": "Carkin",
-            "likely": "Carlkin",
-            "notes": "Dana, on almost being told never to return."
-        },
-        {
-            "heard": "Ford",
-            "likely": "Ord",
-            "notes": "Sylan says Ford might lesser restoration Carlkin."
-        },
-        {
-            "heard": "ascending",
-            "likely": "Sending",
-            "notes": "Dana, when asked how she will contact Carlkin."
+            "notes": "Sylan names the destination in the same breath as Carlkin."
         },
         {
             "heard": "Novelle",
             "likely": "New Navel",
-            "notes": "Table clarification that Sylan and Gerk are going to Novelle while the rest go to Carlkin."
+            "notes": "Sylan restates the split: he and Gerk go there, the others go to Carlkin."
         },
         {
-            "heard": "Collins",
+            "heard": "the miss",
+            "likely": "the abyss",
+            "notes": "Sylan describing the portal from the last Carlkin visit."
+        },
+        {
+            "heard": "Carkin",
             "likely": "Carlkin",
-            "notes": "Ord: going with Carl, or going to Collins."
+            "notes": "Dana on the appointment."
         },
         {
-            "heard": "Cheary",
-            "likely": "Ciri",
-            "notes": "DM, while sorting who is in which group."
+            "heard": "Ford",
+            "likely": "Ord",
+            "notes": "Sylan says Ford could perform lesser restoration; Ord's player answers."
         },
         {
-            "heard": "Cheerie",
-            "likely": "Ciri",
-            "notes": "DM repeats the same name immediately after Cheary."
-        },
-        {
-            "heard": "bods",
-            "likely": "bards",
-            "notes": "Sylan has heard tales from bods about a reincarnation spell that left people with tails."
-        },
-        {
-            "heard": "ghost skirt",
-            "likely": "ghosts",
-            "notes": "Sylan: 'Let's go check out some ghost skirt.' Gerk says he does not like those."
-        },
-        {
-            "heard": "down the vale",
-            "likely": "down to Navel",
-            "notes": "Sylan wants to check the spirit-place before going down the vale. Nanavelle and Novelle are also in this chunk."
+            "heard": "ascending",
+            "likely": "a Sending",
+            "notes": "Dana answering how she will contact Carlkin. The DM accepts it as the message."
         },
         {
             "heard": "Od",
             "likely": "Ord",
-            "notes": "Sylan asking to borrow the lantern."
+            "notes": "Sylan asking Ord for the lantern."
         },
         {
-            "heard": "odd",
-            "likely": "Ord",
-            "notes": "Sylan: 'If you don't mind odd, I'm going to take it down to Shades and Trades.'"
+            "heard": "bods",
+            "likely": "bards",
+            "notes": "Sylan on stories of reincarnation gone wrong."
+        },
+        {
+            "heard": "came out with tales",
+            "likely": "came out with tails",
+            "notes": "The exchange is about a magical tail. Sylan says he does not want one."
+        },
+        {
+            "heard": "ghost skirt",
+            "likely": "ghosts",
+            "notes": "Sylan telling Gerk they are leaving to deal with ghosts."
+        },
+        {
+            "heard": "down the vale",
+            "likely": "down the veil",
+            "notes": "Said while Sylan describes the sword taking him where he can see spirits."
+        },
+        {
+            "heard": "Collins",
+            "likely": "Carlkin",
+            "notes": "Ord saying the helm is going to Carlkin."
+        },
+        {
+            "heard": "Cheary",
+            "likely": "Ciri",
+            "notes": "DM calling a player name while sorting who is in which group. Sylan has just said Ari."
+        },
+        {
+            "heard": "Cheerie",
+            "likely": "Ciri",
+            "notes": "Immediate repeat of the same call."
+        },
+        {
+            "heard": "There's a welcome in there.",
+            "likely": "",
+            "notes": "Ciri's last line as Sylan offers a door. The sentence is cut off and the wording is unclear."
         }
     ],
     "openQuestions": [
-        "What is the exact word that activates the fused lantern-staff?",
-        "Does a different wielder change the fused lantern-staff's effect?",
+        "Does a different person activating the fused lantern-staff get a different effect?",
         "Has the fused lantern-staff already been identified at Shades and Trades?",
-        "Are the spirits Sylan is after in the place his sword takes him?"
+        "Are the spirits inside the place Sylan's sword opens, and does he need to get them out?"
     ],
     "newTerms": [
         {
-            "name": "Elrus's ancient copper dragon",
+            "name": "Seventeen-foot door",
             "notes": [
-                "Elrus has an ancient copper-colored dragon. Gerk already knew he had an ancient dragon and did not know Elrus's height. The dragon is not named in this chunk."
+                "A prior doorway-training attempt. Sylan ties it to Gerk trying to force a door; Gerk says he only tried to open it harder."
             ]
         },
         {
-            "name": "Sylan's sword",
+            "name": "Ghost cop",
             "notes": [
-                "Sylan says it lets him travel to another place where he can see spirits. He wants to check that place before going down the vale and remove any such spirits, because it is not a good place for them."
+                "Sylan's name for the ghost errand he and Gerk are taking, played against the others' visit to Carlkin. Ord asks how Gerk is supposed to be bad cop if he cannot threaten them."
             ]
         }
     ]

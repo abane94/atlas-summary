@@ -1,127 +1,128 @@
 {
     "plotSections": [
         {
-            "title": "Split for Carlkin and New Navel",
+            "title": "Split toward Carlkin and New Navel",
             "bullets": [
-                "Morning in the forest after the party spent the morning sorting out where people had been. The DM recap flags that Barker may have made a deal with Vecna, and mentions a sister-skin journal.",
-                "Dana will Send Carlkin that she, and the group with her, are heading to him and that Gerk and Sylan are not coming. She is surprised he allowed another appointment at all.",
-                "Sylan expects Carlkin may be hung over and suggests a snack and a lesser restoration. Dana will handle it on arrival.",
-                "Carlkin's lighthouse group is Dana, Walker, Ord, and Ciri, with Elrus and Araden following. Sylan and Gerk stay behind, then go to New Navel. Sylan sets a regroup at dinner in the castle."
+                "Dana will Sending Carlkin that she is on the way and that Gerk and Sylan are not coming. She treats the new appointment as a narrow reprieve and was recently sure he might refuse to see them again. Sylan warns Carlkin may be badly hung over and suggests a snack or a lesser restoration from Ord.",
+                "Sylan calls a later regroup at dinner in the castle, then takes Gerk to deal with ghosts. The rest of the party goes to Carlkin's lighthouse: Dana, Ord, Walker, and Ciri, with Elrus and Araden following Walker. It is morning, after time spent sorting where people have been. In that recap, Barker may have made a deal with Vecna, and something was said about a sister-skin journal.",
+                "Sylan's plan is the sword's spirit place first, then a walk through New Navel looking for anything strange, rather than going straight to Shades and Trades."
             ]
         },
         {
-            "title": "The fused lantern changes hands",
+            "title": "The fused lantern",
             "bullets": [
-                "Ord gives Sylan the fused lantern-staff so they can see whether a different wielder changes the effect. Taking it does nothing catastrophic.",
-                "The activation phrase is not spoken. Sylan plans to take the item to Shades and Trades and have it identified in its fused state, and is not sure they already did that.",
-                "Sylan notes his appearance has already changed from one prior experience, and he is not interested in a reincarnation that might give him a tail."
+                "Ord hands Sylan the fused lantern so they can see whether a different user gets a different effect, and so Sylan can have it identified at Shades and Trades in its fused state. Neither is sure that identification already happened. Sylan takes it with no visible catastrophe. The activation phrase is not spoken; Ord still has it and means to tell him.",
+                "Sylan regrets he cannot also wield a greatsword while holding it. He has no tail and does not want one. He has heard of a reincarnation spell that sometimes leaves people with tails, and says his appearance has already changed from one experience."
             ]
         },
         {
-            "title": "Sylan's sword and the raven",
+            "title": "The gray field and the raven",
             "bullets": [
-                "Sylan enters his sword before New Navel to check the spirit place it opens, because it is a bad place and he wants any spirits still there taken out. He becomes ghostly and translucent. Gerk's rocks fall through him and pile at his feet; Gerk outlines his feet in stones.",
-                "The sword opens on a rolling gray field, emptier than on earlier visits. Sylan confirms he released the giant and does not believe anyone is still held inside. A few figures are visible in the distance.",
-                "He prays and tries to draw those six figures to him. Arcana 21. The grass at his feet darkens and he feels fishing-line pulls as he reels them in. The narration counts both four beings and six pulls.",
-                "A raven drops out of a flicker in the gray sky, hovers two or three feet from his face, and meets his nod by looking him over. It then becomes a middle-aged person built somewhere between a halfling and a dwarf, either a thin dwarf or a very muscular halfling. The chunk ends on that appearance."
+                "Sylan enters the sword and turns ghostly and translucent. Gerk tries to stack rocks on his head; they fall through and pile at his feet, so Gerk outlines his feet in rocks like boots.",
+                "The gray field is a rolling empty expanse compared with earlier visits, with only some figures in the distance. Sylan confirms he released the giant and does not believe anyone is still held there. He calls it a bad place and, if the people he is worried about are inside, means to get them out.",
+                "He prays and tries to draw six of them to him. Arcana 21: the grass at his feet darkens and he feels a line-tug on the six he is concentrating on, while also connecting with four he can see, and he starts reeling them in. A flicker in the gray sky becomes a raven two or three feet from his face. He nods. It looks him over, then drops and becomes a middle-aged person somewhere between a halfling and a dwarf, either a slight dwarf or a very sturdy halfling."
+            ]
+        },
+        {
+            "title": "Flying to the lighthouse",
+            "bullets": [
+                "The Carlkin group can fly and the trip should be short. Dana's broom will not take a passenger; weight limits it. Ord and Ciri are called out as able to fly or to ride, depending on which dragon will carry someone. Ciri asks for a ride. Araden picks up a companion, promises to carry them, and taps a chest with the line that their wings are in there."
             ]
         }
     ],
     "chronologicalEvents": [
-        "Dana decides to Send Carlkin that the group is coming and that Gerk and Sylan are not with them. She had thought he might refuse them forever.",
-        "Sylan warns that Carlkin may be hung over and suggests a snack or lesser restoration. The party agrees to regroup at dinner in the castle.",
-        "Sylan takes Gerk to deal with ghosts. Ord hands him the fused lantern-staff to test another wielder and, if needed, to identify it at Shades and Trades. The command phrase is not given. Grabbing it has no immediate effect.",
-        "Sylan says his sword takes him to a place where he can see spirits, that the place is bad, and that he will check it here before going down to New Navel.",
-        "The split is set: Dana, Walker, Ord, and Ciri to Carlkin's lighthouse; Sylan and Gerk toward New Navel. Elrus follows with Araden on the Carlkin side. Walker is not flying off on his own.",
-        "It is morning. Both groups leave the forest. The DM notes Barker may have dealt with Vecna, and a sister-skin journal.",
-        "Sylan enters the sword. Gerk tries to stack rocks on him; they fall through the translucent body. Gerk traces rock boots around his feet.",
-        "The Carlkin group flies. Dana's broom cannot take a passenger. Araden carries Ciri and tells Ord his wings are in his chest.",
-        "Inside the sword, Sylan finds a mostly empty gray field. He confirms the giant was released and that he does not think anyone remains inside. Distant figures are still visible.",
-        "Sylan prays and attempts to summon the six figures. Arcana 21. The grass darkens and the pulls come in like lines on a fishing line.",
-        "A raven swoops to face him, acknowledges his nod, and turns into a short, broad, middle-aged person between halfling and dwarf."
+        "1. Dana prepares a Sending to Carlkin: the group is coming without Gerk or Sylan, and she had feared he would cut them off. Sylan says Carlkin may be hung over and that Ord could lesser restoration him.",
+        "2. Sylan sets dinner at the castle as the regroup, then leaves with Gerk to talk to ghosts.",
+        "3. Ord gives Sylan the fused lantern to test another wielder and to identify at Shades and Trades. Taking it does nothing disastrous. The command phrase is not said aloud.",
+        "4. The party splits. Sylan and Gerk go toward New Navel by way of the spirit realm. Dana, Ord, Walker, and Ciri go to Carlkin's lighthouse; Elrus and Araden follow that group.",
+        "5. It is morning in the forest they are leaving. The morning's findings, as recapped, include Barker possibly dealing with Vecna and a sister-skin journal.",
+        "6. Sylan enters the sword, turns translucent, and Gerk's rocks fall through him into a pile he then shapes around Sylan's feet.",
+        "7. The lighthouse group flies. Dana cannot carry a passenger on the broom. Araden carries someone and says their wings are in the chest.",
+        "8. The gray field is almost empty. Sylan confirms the giant was released. Distant figures remain.",
+        "9. On an Arcana check of 21, Sylan darkens the grass and begins pulling six spirits in. A raven meets his face, acknowledges his nod, and becomes a middle-aged person between halfling and dwarf."
     ],
     "entities": {
-        "Carlkin": {
-            "existing": "Turtle-like person in Langdale; his lighthouse in New Navel is a home and bookshop. He agreed to examine a helm by appointment.",
-            "entityType": "NPC",
-            "notes": [
-                "He has allowed the party another appointment. Dana had expected him to refuse further contact.",
-                "Sylan thinks he may be badly hung over and suggests bringing a snack or using lesser restoration.",
-                "Dana is Sending ahead that the visitors are on the way and that Gerk and Sylan are not with them."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
         "Dana": {
-            "existing": "Half-elf cleric, Gatekeeper of the Pitel keystone.",
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
             "entityType": "PLAYER",
             "notes": [
-                "She Sends Carlkin and leads the lighthouse trip with Walker, Ord, and Ciri.",
-                "Her broom cannot carry a passenger; she cites the weight limit."
+                "Sends word to Carlkin that the group is coming and that Gerk and Sylan are not.",
+                "Was recently convinced Carlkin might refuse any further contact, and treats the new appointment as something he barely allowed.",
+                "Heads for Carlkin's lighthouse with Ord, Walker, and Ciri.",
+                "Her broom will not take passengers; the DM recalls a weight limit that at least cuts speed."
             ],
             "titles": [],
             "personality": [
-                "Cautious with Carlkin and careful about who shows up at his door."
+                "Practical about the Carlkin visit and willing to improvise if he is hung over."
             ],
-            "quotesThemes": [],
+            "quotesThemes": [
+                "They're lucky he even permitted them the ability to schedule another appointment."
+            ],
             "openQuestions": []
         },
         "Sylan": {
-            "existing": "Half-elf rogue and Gilbrick Gatekeeper, with a cautious bond to the Raven Queen.",
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
             "entityType": "PLAYER",
             "notes": [
-                "He stays with Gerk, plans a walk around New Navel looking for anything strange, and calls a castle dinner to plan the next step.",
-                "He takes the fused lantern-staff from Ord to test another wielder and to seek identification at Shades and Trades.",
-                "His sword lets him enter a gray spirit field. He becomes translucent there. He has already released the giant and says it is a bad place to leave spirits.",
-                "Arcana 21 while praying and trying to pull six distant figures to him. A raven answers and becomes a person in front of him.",
-                "His appearance has already changed once, from a prior experience. He refuses the idea of a reincarnation that might give him a tail."
+                "Takes Gerk to deal with ghosts, checking the sword realm before walking New Navel for anything strange, then intends Shades and Trades for the lantern.",
+                "Proposes the party regroup at dinner in the castle.",
+                "Receives the fused lantern from Ord. Grabbing it causes no catastrophe. He cannot also use a greatsword while holding it.",
+                "Has no tail and rejects the idea. He has heard of reincarnation leaving people with tails, and says his own appearance already changed from one experience.",
+                "Enters the sword, turns translucent, and confirms he released the giant and does not think anyone is still inside. He still wants anyone who is in there brought out, because it is a bad place.",
+                "Prays, rolls Arcana 21, and starts reeling in six spirits. A raven meets him and becomes a person."
             ],
             "titles": [],
             "personality": [
-                "Protective of Gerk around the spirits, and determined to get anyone still trapped in the sword-realm out of it."
+                "Protective about the spirit realm and willing to look foolish at the shop if the lantern was already identified.",
+                "Treats the raven with a simple nod."
             ],
             "quotesThemes": [
                 "It's time to talk to ghosts.",
-                "It's not a good place to be."
+                "It's not a good place to be.",
+                "I'll defend you."
             ],
             "openQuestions": [
-                "What is the wording that activates the fused lantern?",
-                "Has the fused lantern already been identified at Shades and Trades?"
+                "What is the spoken phrase that activates the fused lantern?",
+                "Are the people he wants out of the sword realm among the distant figures, and will the six he is pulling actually arrive?"
             ]
         },
         "Gerk": {
             "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
             "entityType": "PLAYER",
             "notes": [
-                "He does not go to Carlkin. He waits with Sylan and will go on to New Navel.",
-                "While Sylan is in the sword, rocks will not rest on him. Gerk outlines his feet with stones instead."
+                "Goes with Sylan instead of to Carlkin, following him toward the ghost work and New Navel.",
+                "While Sylan is in the sword, stacks rocks that fall through his translucent body, then outlines his feet with rocks like boots.",
+                "Dislikes the ghosts Sylan is going to see."
             ],
             "titles": [],
-            "personality": [],
-            "quotesThemes": [],
+            "personality": [
+                "Playful while Sylan is vulnerable in the sword, and uneasy about the ghosts."
+            ],
+            "quotesThemes": [
+                "I don't like those."
+            ],
             "openQuestions": []
         },
         "Ord": {
             "existing": "Dragonborn paladin and Gatekeeper of Feldspar.",
             "entityType": "PLAYER",
             "notes": [
-                "He gives Sylan the fused lantern-staff and wants to know if a different user changes the effect.",
-                "He flies to Carlkin's with the lighthouse group. Araden taps his chest and says his wings are in there."
+                "Goes to Carlkin's lighthouse with Dana, Walker, and Ciri, and is named as someone who could lesser restoration a hung-over Carlkin.",
+                "Gives Sylan the fused lantern specifically to test whether a different user changes the effect, and agrees to the Shades and Trades identification. He remembers the activation phrase but does not say it in this stretch.",
+                "Can fly or catch a ride on a dragon for the trip. He talks about wanting wings and riding whoever will carry him."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": [
-                "Does a different wielder change how the fused lantern-staff behaves?"
+                "Does a different person activating the fused lantern change what it does?"
             ]
         },
         "Walker": {
-            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen, Gatekeeper of The Reach.",
             "entityType": "PLAYER",
             "notes": [
-                "He goes to Carlkin's lighthouse with Dana, Ord, and Ciri rather than flying off alone. Elrus and Araden follow that group."
+                "Goes to Carlkin's lighthouse with Dana, Ord, and Ciri, rather than flying off on his own. Elrus and Araden follow with his group."
             ],
             "titles": [],
             "personality": [],
@@ -129,10 +130,26 @@
             "openQuestions": []
         },
         "Ciri": {
-            "existing": "Half-elf rogue, connected to the Great Eldarin Tree and keeper of Lith's keystone.",
+            "existing": "Half-elf rogue connected to the Great Eldarin Tree and keeper of Lith's keystone.",
             "entityType": "PLAYER",
             "notes": [
-                "She goes to Carlkin's with Walker. She cannot ride Dana's broom. Araden carries her on the flight."
+                "Goes with Walker, Dana, and Ord to Carlkin's lighthouse.",
+                "Asks to ride someone for the flight and describes herself as just a girl. The DM says she and Ord are the ones who can fly or be carried, depending on the dragon."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "I'm just a girl."
+            ],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like person whose lighthouse in New Navel is his home and bookshop.",
+            "entityType": "NPC",
+            "notes": [
+                "Has an opening and has allowed another appointment, which Dana thinks he only barely permitted. She had expected him to tell them never to return.",
+                "Sylan expects him to be badly hung over and suggests bringing a snack or having Ord cast lesser restoration.",
+                "Dana's Sending is meant to warn him that Gerk and Sylan are not in the group now heading for the lighthouse."
             ],
             "titles": [],
             "personality": [],
@@ -143,7 +160,7 @@
             "existing": "Walker's hidden ally.",
             "entityType": "NPC",
             "notes": [
-                "He follows with Araden as the Carlkin group leaves the forest."
+                "Leaves with Araden, following Walker's group toward Carlkin rather than staying with Sylan and Gerk."
             ],
             "titles": [],
             "personality": [],
@@ -154,115 +171,80 @@
             "existing": "A magically capable companion brought secretly to The Reach.",
             "entityType": "NPC",
             "notes": [
-                "He goes with Elrus and the Carlkin group.",
-                "He carries Ciri on the flight, calling her little one.",
-                "He taps Ord's chest and tells him his wings are in there."
+                "Accompanies Elrus with the group flying to Carlkin's lighthouse.",
+                "Picks up a companion to carry them, calling them little one, and taps their chest to say their wings are in there."
             ],
             "titles": [],
-            "personality": [],
+            "personality": [
+                "Reassuring and a little teasing about flight."
+            ],
             "quotesThemes": [
                 "Don't worry, little one. I will carry you.",
                 "Your wings are in here."
             ],
             "openQuestions": []
         },
+        "Barker": {
+            "existing": "Uncertain name who might have dealt with Vecna.",
+            "entityType": "NPC",
+            "notes": [
+                "The morning's recap still has Barker as someone who might have made a deal with Vecna. The same recap mentions a sister-skin journal alongside that."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Raven emissary": {
+            "existing": "An unnamed raven who becomes a person and has called Sylan Raven's razor.",
+            "entityType": "NPC",
+            "notes": [
+                "Appears in the sword's gray field while Sylan is pulling spirits: a flicker in the clouds, then a raven hovering two or three feet from his face.",
+                "Looks Sylan over after his nod, then falls out of the air and becomes a middle-aged person built somewhere between a halfling and a dwarf, readable as either a slight dwarf or a very sturdy halfling. No feathered clothing is described in this appearance, and no name or title is spoken."
+            ],
+            "titles": [],
+            "personality": [
+                "Watchful; it studies Sylan before taking a person's shape."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
         "Fused lantern-staff": {
             "existing": "Fused lantern and staff that reveals the Ethereal Plane and draws nearby spirits when the active staff is held.",
             "entityType": "ITEM",
             "notes": [
-                "Ord passes it to Sylan. Picking it up does not trigger a disaster.",
-                "They want to test whether another user gets a different effect. Sylan intends to have the fused form identified at Shades and Trades and is unsure that already happened.",
-                "The activation phrase is not said in this scene."
+                "Ord gives it to Sylan. Nothing catastrophic happens when Sylan takes it.",
+                "They want to know whether a different wielder changes the effect, and Sylan will take it to Shades and Trades to identify it in the fused state. They are not sure that was already done.",
+                "The activation phrase stays with Ord and is not spoken here. Sylan cannot comfortably pair it with a greatsword."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": [
-                "What phrase activates it?",
-                "Does the wielder change the effect?",
-                "Has Shades and Trades already identified the fused state?"
+                "Does another wielder change the lantern-staff's effect?",
+                "Was the fused lantern-staff already identified at Shades and Trades?"
+            ]
+        },
+        "Sylan's sword": {
+            "existing": "Opens a gray spirit field where Sylan turns ghostly and can pull spirits toward himself.",
+            "entityType": "ITEM",
+            "notes": [
+                "Entering it is a semi-familiar state: the world shrinks into a rolling gray field and Sylan becomes translucent enough that rocks fall through him.",
+                "A giant was previously inside and has been released. Sylan believes the place is empty of anyone he is holding, though distant figures are visible.",
+                "Pulling spirits darkens the grass at his feet and feels like reeling fish on lines. Concentrating on six people produces six pulls; he also connects with four beings he saw. The working draws a raven into the field."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who are the distant figures, and are they the six he is summoning?"
             ]
         },
         "Dana's magic broom": {
             "existing": "Magic broom from the white dragon hoard, flying 50 feet.",
             "entityType": "ITEM",
             "notes": [
-                "It cannot take a passenger. The limit is treated as a weight limit, or a weight limit on speed."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Sylan's sword": {
-            "existing": "",
-            "entityType": "ITEM",
-            "notes": [
-                "Entering it puts Sylan in a gray spirit field and turns his body ghostly and translucent, so solid objects fall through him.",
-                "He uses it to see spirits. He describes the place as bad and wants anyone still in it removed.",
-                "It is emptier than on earlier visits. The giant who had been inside was released. Sylan does not think he is holding anyone now. Distant figures remain.",
-                "A prayer and Arcana 21 let him pull on those figures. The grass at his feet darkens, and a raven arrives and becomes a person."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Unnamed raven figure": {
-            "existing": "",
-            "entityType": "NPC",
-            "notes": [
-                "Appears in Sylan's sword-realm as he prays and draws the distant figures in. A flicker in the gray sky, then a raven hovering two or three feet from his face.",
-                "It studies him after he nods, then becomes a middle-aged person sized between a halfling and a dwarf, read as either a thin dwarf or a very muscular halfling.",
-                "No name is given. The chunk ends at the transformation."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Barker": {
-            "existing": "",
-            "entityType": "NPC",
-            "notes": [
-                "Named only in the morning recap: Barker might have made a deal with Vecna. Mentioned in the same breath as a sister-skin journal. No further detail in this chunk."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": [
-                "Did Barker make a deal with Vecna?"
-            ]
-        },
-        "Raskina": {
-            "existing": "Vecna's red-skinned tome, made from his sister and held by Grixto.",
-            "entityType": "ITEM",
-            "notes": [
-                "The morning recap refers to a sister-skin journal alongside the possible Barker-Vecna deal. No new description of the book itself."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Vecna": {
-            "existing": "Elder god of liches.",
-            "entityType": "NPC",
-            "notes": [
-                "The morning recap says Barker might have made a deal with him. Left unresolved."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": [
-                "Did Barker make a deal with Vecna?"
-            ]
-        },
-        "New Navel": {
-            "existing": "A familiar stop with trade caravans to the Langdale tavern and Carlkin's lighthouse.",
-            "entityType": "LOCATION",
-            "notes": [
-                "Sylan and Gerk are going there after the spirit-realm check. Sylan plans to walk around and look for anything that looks wrong. The others are going to Carlkin's lighthouse, which is in New Navel, by a separate route."
+                "Will not carry a passenger. The DM remembers a weight limit that at least reduces speed."
             ],
             "titles": [],
             "personality": [],
@@ -273,7 +255,51 @@
             "existing": "Where Sylan found the staff later fused to Ord's lantern.",
             "entityType": "LOCATION",
             "notes": [
-                "Sylan plans to bring the fused lantern-staff here for identification if that was not already done. He does not go there first; the spirit realm, then New Navel, comes first."
+                "Sylan plans to bring the fused lantern here for identification in its new state, after the spirit-realm check and a walk around New Navel. He and Ord are unsure the identification was already done."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "A familiar stop that holds Carlkin's lighthouse.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sylan and Gerk are bound here after the sword realm, to walk and look for anything that seems wrong. The other group is going specifically to Carlkin's lighthouse in the same city."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Carlkin's lighthouse": {
+            "existing": "Carlkin's home and bookshop in New Navel.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Dana, Ord, Walker, and Ciri fly here for an appointment Carlkin has just opened, with Elrus and Araden along. Gerk and Sylan are deliberately not in that group."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale Stronghold": {
+            "existing": "The party's central stronghold and home base.",
+            "entityType": "LOCATION",
+            "notes": [
+                "Sylan sets dinner in the castle as the place to regroup and plan the next step, and says he will be there even if someone objects."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Released giant": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Had been inside Sylan's sword realm. Sylan released him before this visit, and both he and the DM treat the field as no longer holding that giant. Sylan says it is a bad place to be left."
             ],
             "titles": [],
             "personality": [],
@@ -283,88 +309,111 @@
     },
     "misTranscriptions": [
         {
+            "heard": "Carkin",
+            "likely": "Carlkin",
+            "notes": "Dana thought Carkin might tell them never to talk to him again."
+        },
+        {
             "heard": "Ford",
             "likely": "Ord",
-            "notes": "Sylan says Ford could perform a lesser restoration on a hung-over Carlkin. Ord is the one present who could."
+            "notes": "Sylan says Ford could lesser restoration a hung-over Carlkin."
         },
         {
             "heard": "ascending",
             "likely": "Sending",
-            "notes": "Dana's answer when asked how she will contact Carlkin."
+            "notes": "Dana's answer to how she will contact Carlkin."
         },
         {
-            "heard": "Barker",
+            "heard": "Od",
+            "likely": "Ord",
+            "notes": "Sylan asks Od for the lantern."
+        },
+        {
+            "heard": "bods",
+            "likely": "gods",
+            "notes": "Tales from bods about a reincarnation spell that leaves tails."
+        },
+        {
+            "heard": "ghost skirt",
             "likely": "",
-            "notes": "Morning recap: good old Barker might have made a deal with Vecna, next to the sister-skin journal. Not an obvious hearing of a listed name."
-        },
-        {
-            "heard": "sister skin journal",
-            "likely": "Raskina",
-            "notes": "Recap phrase for Vecna's tome made from his sister's skin."
+            "notes": "Sylan says they should check out some ghost skirt; Gerk says he doesn't like those. Plural ghosts, exact phrase unclear."
         },
         {
             "heard": "Novelle",
             "likely": "New Navel",
-            "notes": "Sylan and Gerk's destination, contrasted with Carlkin's lighthouse."
+            "notes": "Sylan and Gerk are going to Novelle while the others go to Carlkin."
         },
         {
-            "heard": "down the vale",
-            "likely": "New Navel",
-            "notes": "Sylan says he will check the spirit realm here before going down the vale, then says he will go to New Navel."
-        },
-        {
-            "heard": "ghost skirt",
-            "likely": "ghosts",
-            "notes": "Sylan telling Gerk they are going to check out ghosts."
-        },
-        {
-            "heard": "testing forest",
-            "likely": "",
-            "notes": "The forest both groups leave. Could be the woods they had just been searching, but the name is unclear."
+            "heard": "Collins",
+            "likely": "Carlkin",
+            "notes": "Ord says the group is going to Collins."
         },
         {
             "heard": "Cheary",
             "likely": "Ciri",
-            "notes": "DM clarifying who is going with Walker to Carlkin."
+            "notes": "DM calls Cheary while assigning who goes with Walker."
         },
         {
             "heard": "Cheerie",
             "likely": "Ciri",
-            "notes": "Same clarification, second hearing."
+            "notes": "Immediate repeat of the same address."
+        },
+        {
+            "heard": "Vecno",
+            "likely": "Vecna",
+            "notes": "Morning recap: Barker might have made a deal with Vecno."
+        },
+        {
+            "heard": "sister skin journal",
+            "likely": "Raskina",
+            "notes": "Recap pairs it with the Barker and Vecna remark. Sounds like the tome made from Vecna's sister, but the wording is a journal."
+        },
+        {
+            "heard": "testing forest",
+            "likely": "Trigash Forest",
+            "notes": "The two groups leave the testing forest. They had been at the forest beacon."
+        },
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "DM says silent as Sylan enters the sword."
+        },
+        {
+            "heard": "rock boat",
+            "likely": "rock boots",
+            "notes": "DM repeats Gerk's fake rock boots."
         },
         {
             "heard": "young Lane",
-            "likely": "Ciri",
-            "notes": "Araden's name for the person he picks up to fly. Ciri had just asked for a ride."
+            "likely": "",
+            "notes": "Araden says he will carry young Lane. Might be young one, or a name for whoever he picks up."
+        },
+        {
+            "heard": "half bored",
+            "likely": "",
+            "notes": "Ord says not to think he is just a half bored, in the talk about wings and being carried."
         },
         {
             "heard": "Stasher",
             "likely": "stature",
-            "notes": "DM describing the raven's humanoid form as between a halfling and a dwarf in stature. Could instead be stockier."
+            "notes": "The raven-person is between a halfling and a dwarf in Stasher."
         },
         {
-            "heard": "bods",
-            "likely": "bards",
-            "notes": "Sylan has heard tales of a reincarnation spell that left people with tails."
+            "heard": "down the vale",
+            "likely": "",
+            "notes": "Sylan will check the spirit realm before going down the vale, then later says New Navel. Unclear if the vale is New Navel or another stop."
         }
     ],
     "openQuestions": [
-        "What is the activation phrase for the fused lantern-staff?",
-        "Does a different wielder change the lantern-staff's effect?",
-        "Has the fused lantern-staff already been identified at Shades and Trades?",
-        "Did Barker make a deal with Vecna?"
+        "What is the activation phrase for the fused lantern, and does a different wielder change the effect?",
+        "Has the fused lantern already been identified at Shades and Trades?",
+        "Are the spirits Sylan wants out of the sword realm the distant figures, and who is the person the raven just became?"
     ],
     "newTerms": [
         {
-            "name": "Sylan's sword-realm",
+            "name": "Released giant",
             "notes": [
-                "A gray, rolling spirit field reached through Sylan's sword. He turns translucent there, can see spirits, and can try to call distant figures to him. Emptier than on past visits. The giant once held there has been released. Sylan calls it a bad place."
-            ]
-        },
-        {
-            "name": "Unnamed raven figure",
-            "notes": [
-                "A raven that interrupts Sylan's summoning inside the sword-realm and turns into a middle-aged person built between a halfling and a dwarf. Unnamed as of this chunk."
+                "A giant Sylan had drawn into the sword's gray field and has since released. The field is described as a bad place to leave someone."
             ]
         }
     ]

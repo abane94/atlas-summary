@@ -1,5 +1,5 @@
 import type { AiClient } from "./ai.js";
-import { withAi } from "./ai.js";
+import { withAiPool } from "./ai.js";
 import { isDirectRun } from "./is-main.ts";
 import {
     buildTagCatalogPromptSection,
@@ -259,7 +259,7 @@ export async function backfillEntityTags(
 
     const table = buildTagsEntityTable(loaded);
     const knownPaths = new Set(loaded.map((item) => item.filepath));
-    console.log(`[tags] Asking ChatGPT to tag ${loaded.length} entities...`);
+    console.log(`[tags] Asking Cursor to tag ${loaded.length} entities...`);
 
     await ai.resetConversation();
     const raw = await ai.runJsonPrompt(buildTagsBackfillPrompt(table, loaded.length), {
@@ -275,7 +275,7 @@ export async function backfillEntityTags(
 export async function previewTagsEntityTable(vaultDataFolder = "vault-data"): Promise<string> {
     const loaded = await loadEntityFiles(vaultDataFolder);
     const table = buildTagsEntityTable(loaded);
-    return `Would send ${loaded.length} entit${loaded.length === 1 ? "y" : "ies"} to ChatGPT for tagging:\n\n${table}`;
+    return `Would send ${loaded.length} entit${loaded.length === 1 ? "y" : "ies"} to Cursor for tagging:\n\n${table}`;
 }
 
 async function main() {
@@ -284,8 +284,8 @@ async function main() {
         console.log(await previewTagsEntityTable());
         return;
     }
-    await withAi(async (ai) => {
-        const result = await backfillEntityTags(ai);
+    await withAiPool(async (pool) => {
+        const result = await pool.run((ai) => backfillEntityTags(ai));
         console.log(formatTagsBackfillReport(result));
     });
 }

@@ -1,234 +1,298 @@
 {
     "plotSections": [
         {
-            "title": "Echoes in New Navel",
+            "title": "Echoes and Ledzbika",
             "bullets": [
-                "Ord and Sylan recap the spirits they fought: one hostile man who wanted to give something back to Sylan, and a frightened woman who wanted help and did not want to go back. They became somewhat tangible, or began to change, when struck.",
-                "One of them was an elderly high-elf man, Ledzbika. A local official confirms Ledzbika died of natural causes about a month ago and did not return. His neighbor Claire Belle was trying to steal his belongings. Sylan remembers a possible other name, Hofford, as unmemorable.",
-                "The official distinguishes echoes from ghosts. Echoes are celestial forms of former residents; undead are undead, and spirits fall under undead. They are not in a corporeal form, consistent with the party having opened a portal into another dimension.",
-                "When the place was still Neville, residents and travelers escaped without realizing it was a prison of sorts. Those who died could die normally or return as a celestial echo of themselves. The official ties that choice, uncertainly, to an elder sea god and to why the town has echoes rather than rampant undead.",
-                "Sylan asks whether these celestials came from New Navel. He then weighs two worries: that he has not been traveling to find lost souls, or that New Navel traps souls. He sets that aside for lack of time.",
-                "Deaths in town over the last six or seven months are a handful, maybe a dozen including travelers. The official calls it a frontier town. Mines on the other side of the lake are reopening, with heavy competition and traffic."
+                "Ord recalls two spirit encounters: a hostile man who disliked the party and wanted to give something back to Sylan, and a frightened woman who wanted help and did not want to go back. When struck, the spirits became tangible and started changing.",
+                "The elderly male is remembered as a high elf, Ledzbika. He named his neighbor Claire Belle and accused her of trying to steal his belongings. A possible name Hofford was mentioned and dismissed as unimportant.",
+                "Ledzbika died about a month ago of natural causes and did not return as one of the town's echoes. The speaker calls that the head-scratcher.",
+                "The speaker distinguishes celestial echoes from undead: echoes are celestial forms of the dead, while spirits fall under undead. A portal the party opened into another dimension is cited as evidence these beings were not corporeal.",
+                "Former residents and travelers of the town, from when it was simply Neville, escaped without realizing it was a prison. On death they could die normally or return as a celestial echo of themselves. The account is hedged as coming from a drunk girl and is guessed to involve a sea-related elder god, heard as Taquil, and some unclear consequence of using that being.",
+                "That arrangement is given as the reason the town is not full of rampant undead. Over the last six or seven months there have been a handful of deaths, about a half dozen and maybe as many as a dozen, plus unknown travelers.",
+                "Sylan worries he has failed a duty to travel and find lost souls, or that New Navel traps souls. He decides the echoes may be a separate matter, worth investigating later, but not now."
             ]
         },
         {
-            "title": "Town rules and leaving",
+            "title": "The sheriff's terms",
             "bullets": [
-                "Summoning undead is against town rules. The official tells Sylan to keep the lantern hidden or he will confiscate it. Sylan agrees.",
-                "The party plans to have dinner, make plans, and leave soon on a mission. Sylan cannot say exactly when. The official says Gerk can explain whatever is needed.",
-                "On the way out, the official says to keep a companion away from the ghosts, then forbids doors: do not open doorways into the tavern or elsewhere, have friends open ordinary doors, and just walk in. Gerk answers that he will use only windows. The official refuses that, says he does not have the paperwork, tells them to keep commotion outside town, and walks back to the porch.",
-                "Gerk shows Sylan a wicker chicken he bought for one gold. Sylan thinks it is well made. Gerk says it also has uses and, asked whether he killed them, says not yet. Sylan starts toward Shades and Trades the long way to be sure he did not miss anyone. Gerk says the official told him to stay out of town and that Carlkin wants them arrested. Sylan jokes that court is politics, but slower, and walks off. The DM pauses that scene."
+                "Summoning undead is against town rules. Sylan is told to keep the lantern hidden or it will be confiscated, and he agrees.",
+                "The party plans to have dinner, make plans, and leave soon on a mission. Asked if something has come up, the speaker says Gerk will explain, then leaves that explanation unmade.",
+                "They are told to keep a companion, heard as a jug or dragon friend, away from the ghosts, and to use no doors in town. An exception for the tavern is withdrawn: friends may open ordinary doors, but they are to walk in. Gerk's offer to use only windows is refused for lack of paperwork.",
+                "They are told to keep commotion outside town. The speaker moseys back to the porch. Gerk understands this as an order to stay out of town."
             ]
         },
         {
             "title": "The helm at the lighthouse",
             "bullets": [
-                "Carlkin has been measuring the helm and taking notes. He grinds materials in a mortar and pestle, mixes them with a brackish, pond-water-like liquid, and shakes a two-to-three-ounce vial until it turns crystal clear.",
-                "He calls the result a soul identifier, similar to the bag, meant to read what the helm is. He says it is definitely not a phylactery: a phylactery would have burst into flames and might have provoked a magical reaction.",
-                "A drop placed on the helm does not run off. It pools and sticks where it lands. Through a magnifying glass, Carlkin tells Walker there is a spiritual attachment on the item and asks whether Walker interacted with it spiritually when he picked it up.",
-                "Walker confirms he spoke with the emperor after killing him, and that the emperor was different. Carlkin calls it spooky and asks if Dana has heard this. Sylan is unsure Walker ever explained it to the party. The chunk cuts off as Carlkin continues."
+                "Before leaving the street, Gerk shows Sylan a wicker chicken he bought for one gold. Sylan thinks it well made. Gerk alludes to other creatures he has not killed yet; Sylan offers to buy them and then starts for Shades and Trades the long way through town to check he missed no one.",
+                "Gerk says Carlkin wants them arrested. Sylan jokes that court is politics, only slower. The scene is paused before that is resolved.",
+                "At the lighthouse, Carlkin has been measuring the helm and grinding reagents in a mortar. He mixes them with a brackish, pond-like liquid, shakes a two-to-three-ounce vial until it turns crystal clear, and calls the result a soul identifier: a finer reading than the bag.",
+                "He says the helm is not a phylactery. A phylactery would have blown up, burst into flames, and possibly provoked a magical reaction.",
+                "A drop of the liquid sticks and pools on the helm instead of running off. Through a magnifying glass, Carlkin finds spiritual residue and asks whether Walker interacted with the helm spiritually when he picked it up.",
+                "Walker says that after he killed the emperor they had a conversation, and that the emperor was different. The explanation is cut off while the group is checking whether Walker already told them."
             ]
         }
     ],
     "chronologicalEvents": [
-        "Ord recounts the hostile spirit who wanted to give something back to Sylan, and the frightened woman who wanted help and did not want to return. The spirits became partly tangible or started changing when hit.",
-        "Sylan and Ord identify the elderly high-elf man as Ledzbika. Sylan floats the name Hofford as something he would not remember.",
-        "The town official says Ledzbika died of natural causes about a month ago, did not come back, and had accused his neighbor Claire Belle of trying to steal his things.",
-        "The official explains the town's returned dead are celestial echoes, not ghosts; undead and spirits are a separate category; summoning undead is illegal, so the lantern must stay hidden or be confiscated.",
-        "He says former Neville residents escaped a prison of sorts, died, and could return as celestial echoes, possibly because of an elder sea god, which is why the city is not full of undead.",
-        "Asked about other recent deaths, he estimates a handful to maybe a dozen over six or seven months, including travelers, and mentions mines reopening across the lake.",
-        "Sylan drops the soul question for now, says the party will eat and leave soon on a mission, and asks if the official needs anything. The official defers to Gerk.",
-        "The official warns them off ghosts and forbids doorways, then rejects Gerk's windows joke, tells them to keep commotion outside town, and returns to the porch.",
-        "Gerk shows Sylan a one-gold wicker chicken that he says has uses. Sylan compliments it and heads the long way toward Shades and Trades. Gerk says he was told to stay out of town and that Carlkin wants them arrested.",
-        "The scene shifts to Carlkin's lighthouse, where he finishes a clear soul-identifier potion, drips it on the helm, and finds a spiritual attachment.",
-        "Walker tells Carlkin he talked to the emperor after killing him and that the emperor was different. The explanation is cut off."
+        "Ord recounts a hostile male spirit who wanted to give something back to Sylan and a frightened woman who wanted help and refused to go back; striking the spirits made them tangible and they began to change.",
+        "The elderly male spirit is identified as Ledzbika, a high elf who accused his neighbor Claire Belle of stealing from him. Hofford is floated as a name and set aside.",
+        "Ledzbika is said to have died of natural causes about a month ago and not to have returned as an echo.",
+        "Echoes are explained as celestial returns of the dead, distinct from undead and spirits. The town's dead could choose a normal death or a celestial echo after escaping a prison they had not recognized, under an uncertain sea-god influence.",
+        "Recent local deaths are put at roughly a half dozen to a dozen over six or seven months, with mines reopening across the lake and heavy traveler traffic.",
+        "Sylan raises soul-trapping versus his duty to lost souls, then sets the question aside. He agrees to conceal the lantern after being warned that summoning undead is illegal.",
+        "The party says it will eat, plan, and leave soon. The speaker defers to Gerk, bans doors and ghost-trouble, rejects window travel, and returns to the porch.",
+        "Gerk shows the one-gold wicker chicken. Sylan starts the long way toward Shades and Trades. Gerk says they were told to stay out of town and that Carlkin wants them arrested.",
+        "The scene shifts to Carlkin finishing a soul identifier and applying it to the helm. The helm is not a phylactery, but the reagent beads on it and shows spiritual residue.",
+        "Walker says he spoke with the emperor after killing him and that the emperor was different. The talk is interrupted before it is finished."
     ],
     "entities": {
         "Ledzbika": {
             "existing": "Elderly half-elf spirit pulled from rest, trying to return to his abode.",
             "entityType": "NPC",
             "notes": [
-                "Confirmed as an elderly man, remembered by Sylan as a high elf, who rants and accused his neighbor of stealing from him.",
-                "A town official says he died of natural causes about a month ago and did not return as a ghost or celestial echo, which the official calls the puzzle."
+                "Remembered here as an elderly high elf male.",
+                "Died about a month ago of natural causes.",
+                "Accused his neighbor Claire Belle of trying to steal his belongings; his rants are what the speaker remembers.",
+                "Did not return as a celestial echo, unlike others who died in town.",
+                "Likely the hostile spirit who disliked the party and wanted to give something back to Sylan. The spirits became somewhat tangible when struck and started changing."
             ],
             "titles": [],
-            "personality": [],
+            "personality": [
+                "Remembered for his rants and hostility toward the party."
+            ],
             "quotesThemes": [],
             "openQuestions": [
-                "Why did Ledzbika not return as a celestial echo after dying about a month ago?"
+                "Why Ledzbika did not return as a celestial echo."
             ]
         },
         "Claire Belle": {
             "existing": "The neighbor Ledzbika accuses of stealing his family's silver.",
             "entityType": "NPC",
             "notes": [
-                "The town official agrees Ledzbika's neighbor was trying to steal his belongings."
+                "Ledzbika named her as his neighbor and said she was trying to steal his things."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "New Navel": {
-            "existing": "New Navel is a familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
-            "entityType": "Location",
+        "Haldor": {
+            "existing": "Sheriff of New Navel who bans doors and spirit-taking inside the city.",
+            "entityType": "NPC",
             "notes": [
-                "Once known as Neville. Residents and travelers escaped without realizing it was a prison of sorts; people who died could die normally or return as celestial echoes.",
-                "The official says echoes are why the city does not have rampant undead, and he uncertainly connects that to an elder god of the sea.",
-                "Summoning undead is illegal. A magical lantern that brings spirits must be kept hidden or it will be confiscated. Magical doors are not allowed; the official also does not want other doorway tricks in town.",
-                "Described as a frontier town with rough roads. Over the last six or seven months there have been a handful of deaths, maybe a dozen including travelers. Mines on the other side of the lake are opening again and drawing competition and traffic.",
-                "Sylan suspects either that the town traps souls or that the echoes are a separate problem he does not have time to pursue."
+                "The town speaker, addressed afterward by Gerk as Howdy, confirms Ledzbika's death and the echo rules, then returns to a porch.",
+                "He orders the lantern kept hidden or confiscated because summoning undead is illegal.",
+                "He forbids doors in town, including into the tavern, and tells them to have friends open ordinary doors and otherwise walk in. He refuses Gerk's windows-only joke for lack of paperwork.",
+                "He tells them to keep a companion heard as a jug or dragon friend away from the ghosts, keep commotion outside town, and says Gerk will explain whatever has come up. He leaves before that explanation happens.",
+                "Gerk takes the exchange as an instruction to stay out of town."
+            ],
+            "titles": [],
+            "personality": [
+                "Enforces the town bans on doors and undead, and shuts down loopholes."
+            ],
+            "quotesThemes": [
+                "Echoes are celestials; undead are undead, and spirits fall under undead.",
+                "Summoning undead is against town rules.",
+                "No doors."
+            ],
+            "openQuestions": [
+                "What he expected Gerk to explain."
+            ]
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He is concerned that he has not fulfilled a duty to travel and find lost souls, or that New Navel traps souls. He sets the celestial echoes aside for lack of time.",
+                "He agrees to keep the lantern under wraps and accepts the ban on doors.",
+                "The party will have dinner, plan, and leave soon because they are on a mission.",
+                "He plans to take the long way through town to Shades and Trades to be sure he missed no one. The walk is interrupted by the cut back to the lighthouse.",
+                "He treats Gerk's claim that Carlkin wants them arrested as a possible court matter and compares court to slower politics."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats searching out lost souls as a personal duty, but will not delay the current mission for the echo question."
+            ],
+            "quotesThemes": [
+                "Either he has failed to find lost souls, or New Navel has a way of trapping them."
+            ],
+            "openQuestions": [
+                "Whether New Navel traps souls or his search for lost souls is unfinished."
+            ]
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian, Doorman, and Child of the Great Eldarin Tree.",
+            "entityType": "PLAYER",
+            "notes": [
+                "He shows Sylan a wicker chicken bought for one gold and says there are also other creatures he has not killed yet.",
+                "He answers the door ban by offering to use only windows.",
+                "He believes the sheriff told him to stay out of town and to keep a companion away from the ghosts.",
+                "He says Carlkin wants them arrested. That situation is paused."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Only windows."
+            ],
+            "openQuestions": [
+                "Whether Carlkin actually wants the party arrested."
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Carlkin directs the helm reading at him because of spiritual residue from when Walker picked the helm up.",
+                "Walker says that after he killed the emperor, they had a conversation, and that the emperor was different.",
+                "He thinks he may already have explained this to the group. The explanation is cut off."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": [
-                "Does New Navel trap souls, or are the celestial echoes only the result of the death-choice the official described?"
+                "What Walker and the emperor said, and in what way the emperor was different."
             ]
         },
-        "Unnamed New Navel official": {
+        "Carlkin": {
+            "existing": "Turtle-like person believed to be back in Langdale; examines the helm by appointment.",
+            "entityType": "NPC",
+            "notes": [
+                "At the lighthouse he measures the helm, grinds reagents, and mixes them with a brackish liquid that turns clear in a two-to-three-ounce vial.",
+                "He identifies the result as a soul identifier, a finer reading than the bag, and finds spiritual residue on the helm.",
+                "He rules out a phylactery: one would have blown up, burst into flames, and possibly caused a magical reaction.",
+                "Gerk claims Carlkin wants the party arrested. The claim is not confirmed before the scene is paused."
+            ],
+            "titles": [],
+            "personality": [
+                "Works through the test aloud and checks who already knows Walker's story before continuing."
+            ],
+            "quotesThemes": [
+                "The helm is definitely not a phylactery.",
+                "There is spiritual residue attached to the helm."
+            ],
+            "openQuestions": [
+                "Whether Carlkin wants the party arrested."
+            ]
+        },
+        "The Emperor": {
             "existing": "",
             "entityType": "NPC",
             "notes": [
-                "A local man the party questions about the spirits. He remembers Ledzbika's rants, states the town rules on undead and doors, explains echoes, and estimates recent deaths.",
-                "He tells Sylan to keep the lantern hidden, says Gerk can explain anything further, warns them to keep a companion away from the ghosts, forbids doors, and moseys back to the porch after telling them to keep commotion outside town.",
-                "Gerk later refers to him as Howdy and says he was told to stay out of town."
+                "Walker says he talked with the emperor after killing him, in connection with picking up the helm.",
+                "Walker says the emperor was different during that contact. No further description is given before the chunk ends."
             ],
             "titles": [],
-            "personality": [
-                "Treats undead summons and doorway magic as town violations he will enforce, while staying casual and sending them off politely."
-            ],
-            "quotesThemes": [
-                "They're echoes, it's different. One's a celestial, one's an undead.",
-                "Summoning undead is strictly against the rules of the town.",
-                "No doors. Have your friends open it for you."
-            ],
-            "openQuestions": []
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Who the emperor is, and how he was different when Walker spoke with him."
+            ]
         },
-        "Sylan": {
-            "existing": "Sylan is a half-elf rogue and Gilbrick Gatekeeper who holds a keystone, a Navi-related journal, and a cautious bond with the Raven Queen.",
-            "entityType": "PLAYER",
+        "Unnamed frightened woman": {
+            "existing": "",
+            "entityType": "NPC",
             "notes": [
-                "He is worried he has failed a duty of traveling and finding lost souls, or that New Navel traps souls. He decides he does not have time to investigate now.",
-                "He agrees to keep the lantern under wraps.",
-                "He says the party will have dinner, make plans, and leave soon because they are on a mission.",
-                "He plans to walk the long way to Shades and Trades to make sure he did not miss anyone.",
-                "He is unsure whether Walker ever explained the emperor conversation to the party."
+                "One of the spirits the party met. She was scared, wanted help, and did not want to go back.",
+                "Like the other spirit, she became tangible when struck and started changing."
             ],
             "titles": [],
             "personality": [
-                "Treats finding lost souls as his duty, then prioritizes the current mission over staying to investigate New Navel."
+                "Frightened and unwilling to return."
             ],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Gerk": {
-            "existing": "Gerk is a half-orc barbarian Doorman and Child of the Great Eldarin Tree who opens Arch doorways and keeps the Midgard keystone.",
-            "entityType": "PLAYER",
+        "New Navel": {
+            "existing": "Familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
+            "entityType": "LOCATION",
             "notes": [
-                "The official forbids him from opening doors in town and tells him to keep commotion outside town. Gerk jokes that he will use only windows.",
-                "He bought a wicker chicken for one gold, says it has uses, and says he has not killed them yet.",
-                "He believes the official told him to stay out of town and that Carlkin wants the party arrested."
+                "Described as a frontier town with all sorts of residents and travelers. Mines on the other side of the lake are opening again and drawing competition.",
+                "Roughly a half dozen to a dozen deaths in the last six or seven months, plus unknown traveler deaths.",
+                "Summoning undead is illegal, magical doors are banned, and the lantern must stay hidden. Commotion is supposed to stay outside town.",
+                "Sylan suspects the town may trap souls. He also thinks the celestial echoes may be a separate mystery."
             ],
             "titles": [],
             "personality": [],
-            "quotesThemes": [
-                "Only windows, got it."
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whether New Navel traps souls."
+            ]
+        },
+        "Old Navel": {
+            "existing": "A place Ord and Sylan name as the source of spirits the party stirred by walking past.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The town was known as Neville before it was New Navel. Its residents and travelers later said they had escaped without realizing they were in a prison.",
+                "Those who died could return as celestial echoes of themselves. Ledzbika's failure to do so is singled out as unexplained."
             ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Celestial echo": {
+            "existing": "New Navel's dead who return as celestial forms of themselves, not ghosts or undead.",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Restated against ghosts and undead: echoes are celestials, undead are undead, and spirits fall under undead.",
+                "The choice to return was available to people who died after escaping the old town's prison. A normal death was the other option.",
+                "The story is attributed uncertainly to a drunk girl and possibly to a sea-related elder god.",
+                "The same arrangement is offered as the reason echoes are discussed alongside undead and why the city is not overrun by undead.",
+                "The spirits the party struck became tangible and began to change. A portal into another dimension is used as evidence they were not corporeal."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Why Ledzbika did not come back as an echo."
+            ]
+        },
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine by appointment once a comrade returns.",
+            "entityType": "ITEM",
+            "notes": [
+                "Carlkin is measuring it at the lighthouse and tests it with a soul identifier.",
+                "It is not a phylactery.",
+                "The reagent pools where it lands instead of running off. Carlkin reads spiritual residue on it.",
+                "The residue is tied to Walker picking it up and to Walker's conversation with the emperor after killing him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What the spiritual residue records about Walker and the emperor."
+            ]
+        },
+        "Soul identifier": {
+            "existing": "Carlkin's reagent for a finer reading of an object's spiritual residue.",
+            "entityType": "ITEM",
+            "notes": [
+                "Carlkin makes it on the spot: ground reagents mixed with a brackish, pond-water-like liquid, shaken clear in a two-to-three-ounce vial.",
+                "He compares it to the bag and says it gives a finer reading.",
+                "One drop sits and pools on the helm. Examined with a magnifying glass, it shows spiritual residue."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
             "openQuestions": []
         },
         "Fused lantern-staff": {
             "existing": "Fused lantern and staff that reveals the Ethereal Plane and draws nearby spirits when the active staff is held.",
             "entityType": "ITEM",
             "notes": [
-                "The New Navel official treats the lantern as something that summons undead, which is illegal in town, and says he will confiscate it unless it is kept under wraps. Sylan agrees to hide it."
+                "The town speaker orders this lantern kept under wraps because summoning undead is illegal, and threatens to confiscate it. Sylan agrees."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
             "openQuestions": []
         },
-        "Carlkin": {
-            "existing": "Carlkin is a turtle-like person believed to be back in Langdale.",
-            "entityType": "NPC",
-            "notes": [
-                "At the lighthouse he measures the helm, takes notes, and brews a soul identifier in a two-to-three-ounce vial.",
-                "He concludes the helm is not a phylactery, because a phylactery would have burst into flames and might have caused a magical reaction.",
-                "After the drop sticks to the helm, he tells Walker there is a spiritual attachment and asks about a spiritual interaction when Walker picked it up.",
-                "Gerk thinks Carlkin wants the party arrested. That is not confirmed in this scene."
-            ],
-            "titles": [],
-            "personality": [
-                "Explains the test while he works and treats the emperor contact as spooky."
-            ],
-            "quotesThemes": [
-                "What you have here is definitely not a phylactery."
-            ],
-            "openQuestions": []
-        },
-        "Helm": {
-            "existing": "A helm Carlkin agreed to examine by appointment once a comrade returns.",
+        "Door": {
+            "existing": "A door that stretches reality between places.",
             "entityType": "ITEM",
             "notes": [
-                "Carlkin is measuring it and testing it with a soul identifier.",
-                "A drop of the clear liquid pools and sticks on the spot where it lands instead of running off.",
-                "Carlkin says a spiritual attachment is on it. It is not a phylactery.",
-                "Walker spoke with the emperor through or after picking it up, following the emperor's death, and says the emperor was different."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Soul identifier": {
-            "existing": "",
-            "entityType": "ITEM",
-            "notes": [
-                "A potion Carlkin mixes in a mortar, combines with a brackish pond-like liquid, and shakes until clear in a two-to-three-ounce vial.",
-                "He says it is similar to the bag and will give a finer reading of what the helm is. One drop beads up and sticks to the helm, and he reads those droplets with a magnifying glass."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Walker": {
-            "existing": "Walker is a half-elf dragon rider and fighter bonded to Glimmen, originally from La-rel and now Gatekeeper of The Reach.",
-            "entityType": "PLAYER",
-            "notes": [
-                "He confirms that after he killed the emperor he had a conversation with him, and that the emperor was different.",
-                "He thinks he explained this to the party once. Sylan is not sure he did. Carlkin asks Dana whether she has heard it."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": [
-                "Did Walker already explain the post-death conversation with the emperor to the party?"
-            ]
-        },
-        "Emperor": {
-            "existing": "",
-            "entityType": "NPC",
-            "notes": [
-                "Walker killed him, then spoke with him, in connection with picking up the helm.",
-                "Walker says he was different. The chunk ends before he explains how."
-            ],
-            "titles": [
-                "Emperor"
-            ],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": [
-                "In what way was the emperor different when Walker spoke with him after killing him?"
-            ]
-        },
-        "Celestial echo": {
-            "existing": "",
-            "entityType": "CONCEPT",
-            "notes": [
-                "Townsfolk who died and returned are echoes: celestial forms of their prior selves, not ghosts. The official separates them from undead and from spirits, which he groups with undead.",
-                "At death they had a choice to die normally or come back as a celestial echo. He uncertainly links that to an elder sea god, and says this is why New Navel does not have rampant undead.",
-                "Ledzbika died about a month ago and did not become an echo."
+                "Doors are forbidden in town. A brief allowance for a door into the tavern is withdrawn.",
+                "Ordinary entry is to be opened by friends or done on foot. Gerk's proposal to travel by windows is rejected."
             ],
             "titles": [],
             "personality": [],
@@ -240,108 +304,115 @@
         {
             "heard": "Hofford",
             "likely": "",
-            "notes": "Sylan thinks one of the spirits may have had this name and that it was not memorable."
+            "notes": "Sylan offers it as a spirit's name, then says it would not be remembered."
         },
         {
-            "heard": "scene portal",
-            "likely": "",
-            "notes": "The official says the party opened some kind of scene portal into another dimension, showing the spirits were not corporeal."
+            "heard": "beaker",
+            "likely": "Ledzbika",
+            "notes": "Said while the group is still landing on Ledzbika's name, then corrected."
         },
         {
-            "heard": "cascade",
-            "likely": "confiscate",
-            "notes": "He will cascade the lantern if Sylan does not keep it under wraps."
+            "heard": "Nunavell",
+            "likely": "New Navel",
+            "notes": "Sylan's name for the town while asking whether it traps souls."
+        },
+        {
+            "heard": "New Nivell",
+            "likely": "New Navel",
+            "notes": "Used for the town when it was formerly just Neville."
+        },
+        {
+            "heard": "Neville",
+            "likely": "Old Navel",
+            "notes": "Former name of the town before New Navel. Could be Old Navel rather than a separate place."
+        },
+        {
+            "heard": "Nivelle",
+            "likely": "Old Navel",
+            "notes": "The place the echoes say they escaped, described as a prison."
+        },
+        {
+            "heard": "Newtonville",
+            "likely": "New Navel",
+            "notes": "Used while calling the town a frontier stop."
+        },
+        {
+            "heard": "Navelle",
+            "likely": "New Navel",
+            "notes": "Sylan asks whether the celestials arrived in New Nav or Navelle."
         },
         {
             "heard": "Commodore and two",
             "likely": "",
-            "notes": "Part of the official's account of when the town was still Neville, just before the party became involved."
+            "notes": "Garbled clause between the old town name and the party's arrival."
         },
         {
             "heard": "to see a next",
             "likely": "",
-            "notes": "Follows the Commodore line: to see a next and that's when y'all came into the picture."
+            "notes": "Follows the Commodore phrase; sense is unclear."
         },
         {
             "heard": "taquil",
             "likely": "",
-            "notes": "Uncertain elder god connected with the sea and the echo choice. Maybe like taquil or something like that."
+            "notes": "Guessed name of a sea-related elder god tied to the echo choice."
         },
         {
             "heard": "Non coleid",
             "likely": "",
-            "notes": "Same garbled sentence about repercussions of using that entity."
+            "notes": "Part of the unclear consequence of using that sea being."
         },
         {
             "heard": "Faithful eggs",
             "likely": "",
-            "notes": "End of that same sentence. Context is why echoes exist instead of rampant undead."
+            "notes": "Follows Non coleid in the same unclear phrase."
         },
         {
-            "heard": "Casual",
+            "heard": "scene portal",
             "likely": "",
-            "notes": "The official asks how long Sylan will be in your Casual before Sylan says they will have dinner and leave."
+            "notes": "The portal opened into another dimension, used as proof the beings were not corporeal."
+        },
+        {
+            "heard": "cascade",
+            "likely": "confiscate",
+            "notes": "What the speaker will do to the lantern if it is not kept hidden."
         },
         {
             "heard": "jug of a friend",
             "likely": "",
-            "notes": "Keep your jug of a friend away from the ghosts."
+            "notes": "Companion the party must keep away from the ghosts. Possibly a dragon friend."
         },
         {
             "heard": "drug of a friend of the cover",
             "likely": "",
-            "notes": "Gerk's repeat of the official's warning about a companion and the ghosts or staying covered."
+            "notes": "Gerk repeating the warning about the companion and the ghosts."
         },
         {
             "heard": "Howdy",
-            "likely": "",
-            "notes": "Gerk says Howdy told him to stay out of town, immediately after the unnamed official leaves."
+            "likely": "Haldor",
+            "notes": "Gerk's name for the man who told him to stay out of town."
         },
         {
-            "heard": "Tiling",
-            "likely": "Sylan",
-            "notes": "Gerk asks Tiling if he saw the check-in, and Sylan answers."
-        },
-        {
-            "heard": "the bag",
-            "likely": "",
-            "notes": "Carlkin says the soul identifier is a potion very similar to the bag."
+            "heard": "big book about",
+            "likely": "big boom",
+            "notes": "Carlkin describing what a phylactery would have done."
         },
         {
             "heard": "spiritual medical",
             "likely": "spiritual residue",
-            "notes": "What Carlkin says is attached to the helm after the drop test."
+            "notes": "What Carlkin finds attached to the helm."
         },
         {
-            "heard": "B man",
-            "likely": "Brennan",
-            "notes": "Carlkin pauses the phylactery explanation until Walker is back."
+            "heard": "the bag",
+            "likely": "",
+            "notes": "The soul identifier is similar to it but gives a finer reading."
         }
     ],
     "openQuestions": [
-        "Why did Ledzbika die of natural causes about a month ago and not return as a celestial echo?",
-        "Is New Navel trapping souls, or has Sylan failed a duty to seek out lost souls? He postpones both.",
-        "In what way was the emperor different when Walker spoke with him after killing him?",
-        "Did Walker already explain that emperor conversation to the party?"
+        "Why did Ledzbika not return as a celestial echo?",
+        "Does New Navel trap souls, or has Sylan not yet found the lost souls he feels responsible for?",
+        "What was Haldor going to have Gerk explain?",
+        "Does Carlkin want the party arrested?",
+        "Who was the emperor Walker spoke with after killing him, and how was he different?"
     ],
-    "newTerms": [
-        {
-            "name": "Celestial echo",
-            "notes": [
-                "A celestial form of a dead resident or traveler. In New Navel, people who died could choose this instead of dying normally. The official treats echoes as distinct from ghosts and from undead."
-            ]
-        },
-        {
-            "name": "Soul identifier",
-            "notes": [
-                "Carlkin's clear two-to-three-ounce potion, shaken from a brackish mix, used to read an item. A drop sticks to the helm instead of running off and shows a spiritual attachment. He compares it to the bag."
-            ]
-        },
-        {
-            "name": "Emperor",
-            "notes": [
-                "Someone Walker killed and then conversed with in connection with the helm. Walker says he was different. Carlkin links that contact to the spiritual attachment on the helm."
-            ]
-        }
-    ]
+    "newTerms": []
 }

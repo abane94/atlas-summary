@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
-import type { AiClient } from "./ai.js";
+import type { AiPool } from "./ai.js";
+import { checkChunkSummary } from "./chunk-summary.ts";
 import { generateSessionData, mergeSessionData } from "./session-data-gen.ts";
 import {
   divideTranscriptIntoChunks,
@@ -178,8 +179,44 @@ export function mergeNeedsWork(date: string, force: boolean): boolean {
   return force || !fs.existsSync(mergedJsonPath(date));
 }
 
+const SHAPE_ATTEMPTS = 3;
+
+export interface ChunkShapeRetry {
+  file: string;
+  attempts: number;
+  recovered: boolean;
+  problems: string[];
+}
+
+function shapeRetryLogPath(date: string): string {
+  return path.join(summariesDir(date), "shape-retries.json");
+}
+
+function recordShapeRetries(date: string, retried: ChunkShapeRetry[]): void {
+  const logPath = shapeRetryLogPath(date);
+  if (retried.length === 0) {
+    if (fs.existsSync(logPath)) fs.unlinkSync(logPath);
+    console.log("[chunks] Shape check: no retries");
+    return;
+  }
+  fs.writeFileSync(logPath, `${JSON.stringify({ date, retried }, null, 2)}\n`);
+  const recovered = retried.filter((entry) => entry.recovered).length;
+  const failed = retried.length - recovered;
+  console.warn(
+    `[chunks] Shape check: ${recovered} retried and recovered, ${failed} still invalid. See ${logPath}`,
+  );
+}
+
+const SHAPE_RETRY_PROMPT = (problems: string[]) =>
+  [
+    "The previous JSON is not a SessionChunkSummary.",
+    `Problems: ${problems.join("; ")}.`,
+    "Return one JSON object with these keys: plotSections, chronologicalEvents, entities, misTranscriptions, openQuestions, newTerms.",
+    "Put character and item updates under entities. Do not return the entities object by itself.",
+  ].join(" ");
+
 export async function generateChunks(
-  ai: AiClient,
+  pool: AiPool,
   date: string,
   options: { force?: boolean } = {},
 ): Promise<"wrote" | "skipped"> {
@@ -194,50 +231,98 @@ export async function generateChunks(
   const recapPrompt = buildRecapPrompt();
   const { transcript } = await loadTranscript(date);
   const expected = divideTranscriptIntoChunks(transcript).length;
-  let wrote = 0;
   let skipped = 0;
-  let i = 0;
-
-  console.log(`[chunks] Generating summaries for ${date} (${expected} chunks)...`);
-  await ai.resetConversation();
+  let index = 0;
+  const pending: { index: number; fileName: string; chunk: string }[] = [];
 
   for (const chunk of generateTranscriptChunks(transcript)) {
-    const fileName = summaryChunkPath(date, i);
+    const fileName = summaryChunkPath(date, index);
     if (!options.force && fs.existsSync(fileName)) {
       console.log(`[chunks] ${fileName} already exists, skipping...`);
       skipped++;
-      i++;
-      continue;
+    } else {
+      pending.push({ index, fileName, chunk });
     }
-    console.log(`[chunks] Generating ${fileName} ...`);
-    const aiPrompt = `
+    index++;
+  }
+
+  console.log(
+    `[chunks] Generating summaries for ${date} (${pending.length} of ${expected} chunks, ${pool.size} at a time)...`,
+  );
+  if (pending.length === 0) {
+    console.log(`[chunks] All ${skipped} chunk summaries already exist`);
+    return "skipped";
+  }
+
+  const shapeRetries: ChunkShapeRetry[] = [];
+  let wrote = 0;
+  let started = 0;
+  let finished = 0;
+
+  try {
+    await pool.map(pending, async (job, ai) => {
+      const startedAt = ++started;
+      console.log(
+        `[chunks] Generating ${job.fileName} (started ${startedAt}, finished ${finished} of ${pending.length})`,
+      );
+      const aiPrompt = `
   # Input
-  This is ${i ? "a" : "the first"} sub- section of the DND session.
+  This is ${job.index ? "a" : "the first"} sub- section of the DND session.
   <br/>
   <br/>
   ${toPromptHtml(recapPrompt)}
   <br/>
   <br/>
 
-  ${chunk.replaceAll("\n", "<br/>")}
+  ${job.chunk.replaceAll("\n", "<br/>")}
   `;
-    const summary = await ai.runJsonPrompt(aiPrompt, { effort: "low" });
-    fs.writeFileSync(fileName, summary);
-    wrote++;
-    await ai.resetConversation();
-    i++;
+      let summary = await ai.runJsonPrompt(aiPrompt, { effort: "low" });
+      let check = checkChunkSummary(summary);
+      let attempts = 1;
+      const firstProblems = check.ok ? [] : check.problems;
+      while (!check.ok && attempts < SHAPE_ATTEMPTS) {
+        console.warn(
+          `[chunks] ${job.fileName} failed shape check (attempt ${attempts}/${SHAPE_ATTEMPTS}): ${check.problems.join("; ")}`,
+        );
+        summary = await ai.runJsonPrompt(SHAPE_RETRY_PROMPT(check.problems), {
+          effort: "low",
+          timeout: 0,
+        });
+        attempts++;
+        check = checkChunkSummary(summary);
+      }
+      if (attempts > 1) {
+        shapeRetries.push({
+          file: path.basename(job.fileName),
+          attempts,
+          recovered: check.ok,
+          problems: firstProblems,
+        });
+      }
+      if (!check.ok) {
+        throw new Error(
+          `${job.fileName} is not a SessionChunkSummary after ${attempts} attempts:\n- ${check.problems.join("\n- ")}`,
+        );
+      }
+      fs.writeFileSync(job.fileName, summary);
+      wrote++;
+      finished++;
+      console.log(
+        `[chunks] Wrote ${job.fileName} (started ${started}, finished ${finished} of ${pending.length})`,
+      );
+    });
+  } catch (error) {
+    if (shapeRetries.length > 0) recordShapeRetries(date, shapeRetries);
+    throw error;
   }
 
-  if (wrote === 0) {
-    console.log(`[chunks] All ${skipped} chunk summaries already exist`);
-    return "skipped";
-  }
+  recordShapeRetries(date, shapeRetries);
   console.log(`[chunks] Wrote ${wrote} chunk(s), skipped ${skipped}`);
   return "wrote";
 }
 
 export async function generateMerged(
-  ai: AiClient,
+  pool: AiPool,
   date: string,
   options: { force?: boolean } = {},
 ): Promise<"wrote" | "skipped"> {
@@ -254,9 +339,9 @@ export async function generateMerged(
   }
 
   ensureSummariesFolder(date);
-  console.log(`[merge] Merging chunk summaries for ${date} ...`);
+  console.log(`[merge] Merging chunk summaries for ${date} (${pool.size} at a time)...`);
   const allData = await generateSessionData(date);
-  const mergedData = await mergeSessionData(ai, allData);
+  const mergedData = await mergeSessionData(pool, allData);
   fs.writeFileSync(outPath, JSON.stringify(mergedData, null, 2));
   console.log(`[merge] Wrote ${outPath}`);
   return "wrote";

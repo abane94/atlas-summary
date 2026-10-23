@@ -1,86 +1,118 @@
 {
     "plotSections": [
         {
-            "title": "Walker's helm",
+            "title": "The helm's soul-magic test",
             "bullets": [
-                "Carlkin examines the ornamental, hobgoblin-inspired white helm Walker has been wearing and that the party has treated as a possible lich phylactery. Walker says he does not think it is one.",
-                "Carlkin dunks it into a bag of holding he enchanted to detect phylactery soul-magic and burst into flame on contact. It does not fully ignite. After Walker notices the pouch smoldering, the bag burns slowly across its surface, and Carlkin reads that as trace soul magic and further enchantments rather than a full phylactery.",
-                "The bag is destroyed. Walker, who is fire resistant and wearing a golden glove, pulls out the helm. It is slightly smoking, cool to the touch, and Carlkin describes it as the white helm Walker took from the Emperor.",
-                "Carlkin has not finished identifying it. He brings Walker into the lighthouse to investigate further."
+                "Carlkin treats the ornamental, hobgoblin-inspired helm Walker has been wearing as a likely lich phylactery. Walker says it is mundane and not a phylactery, and hands it over.",
+                "Carlkin dunks it in a bag of holding he enchanted to detect phylactery soul-magic and burst into flame on contact. He first thinks the test failed and offers the helm back in ten to fifteen minutes.",
+                "Walker's perception (27) catches the pouch smoldering. The bag burns slowly, like moss, rather than flashing into full flame. Carlkin says a true phylactery would have caused a full fire; this is trace soul magic plus possible other enchantments, and he accuses Walker of downplaying it.",
+                "Walker is fire-resistant and uses his golden glove to pull the helm out. The damage is negligible. The bag's interior is only a little larger than the helm; it burns through, fractures like over-tapped crystal, and drifts away burning. Walker is left with a slightly smoking white helm, cold to the touch, which Carlkin says Walker took from the Emperor.",
+                "Carlkin invites the group into the lighthouse to identify exactly what Walker has been wearing."
             ]
         },
         {
             "title": "Carlkin's study",
             "bullets": [
-                "Dana, Ciri, and Ord follow Walker in. Elrus, Araden, and Benji stay outside and talk.",
-                "The study floor is still a mess from the day before: flagstones in the center are torn up, as if someone had heaved a sandbox out of the floor. Carlkin has Walker set the helm on a small altar-like lectern and starts going through papers. Dana's question about the little eagle is not answered before the scene cuts away."
+                "Walker, Dana, Ciri, and Ord go in with Carlkin. Elrus, Araden, and Benji stay outside and fall into conversation.",
+                "The study floor is still a mess after only a day: the center looks like a sandbox where flagstones were heaved up. Carlkin has Walker set the helm on a small altar-like lectern and starts through papers. The reading is not finished before the scene cuts.",
+                "Dana asks what Carlkin had been saying about the little eagle; that is interrupted by the perception check and never answered."
             ]
         },
         {
-            "title": "Gerk looks for the sheriff",
+            "title": "Gerk looks for Haldor",
             "bullets": [
-                "Gerk is alone in New Navel looking for the sheriff. In the market he asks a living vendor, who sends him southwest past the tavern to Haldor's house.",
-                "He pays her a gold for a small wicker chicken and refuses a life-size wicker goose, saying he has to kill geese on sight as a religious matter. He points out a goose vendor two doors down and says he will be back.",
-                "Haldor is on his porch in a rocking chair, boots on a stump, hat brim low, relaxed. He notices Gerk coming. Gerk waves as he approaches."
+                "Gerk is alone in New Navel's market, seeking the sheriff. A living woman vendor, not a ghost, says Haldor may be at the tavern or at his house, and points him south-west: past the tavern, down the road, then right, to Haldor's house.",
+                "Gerk gives her a gold and buys her small basket-woven wicker chicken. She also offers a life-sized wicker goose and says she can make geese or a gander. Gerk refuses and says he has to kill geese on sight as a religious practice. The vendor two doors down, who sells only geese, stops. Gerk points at him and says he will be back.",
+                "Gerk finds Haldor at home, relaxed in a rocking chair on the porch with his boots on a stump and his hands folded, watching from under his hat brim. Gerk waves vigorously as he approaches."
             ]
         }
     ],
     "chronologicalEvents": [
-        "Carlkin asks why the party is back and Dana raises the helm Walker apprehended. Carlkin identifies it as the one on Walker's head and treats it as a likely lich phylactery.",
-        "Walker says he does not think it is a phylactery. Carlkin calls it ornamental and hobgoblin-inspired and asks to inspect it. Walker takes it off and hands it over.",
-        "Carlkin drops the helm into a belt pouch that opens to about two feet across. He says a phylactery would have triggered it, then hesitates and says he does not think it is one. He tells Walker he can have it back in ten to fifteen minutes.",
-        "Carlkin explains the pouch is a bag of holding he enchanted to detect phylactery soul-magic and burn on contact, and that the helm therefore appears not to be a phylactery.",
-        "Dana starts to ask about the little eagle. Walker notices the bottom right of the pouch smoldering.",
-        "Carlkin rips the bag off his belt. It smolders across the whole bag instead of bursting into flame. He says that means trace soul magic and possibly more enchantments, not a full phylactery, and that they must wait until the bag burns away before he can investigate further.",
-        "Walker reaches into the burning bag with his golden glove. The heat is negligible because of his fire resistance. He recovers the helm. The bag's interior was only large enough for the helm and a little extra; the bottom burns through and the rest fractures like tapped crystal and blows away burning.",
-        "Carlkin calls it a slightly smoking white helm taken from the Emperor, cool to the touch, and invites Walker into the lighthouse to learn what he has been wearing.",
-        "Dana, Ciri, and Ord go in with them. Elrus, Araden, and Benji remain outside and start talking.",
-        "Carlkin's study is still wrecked a day on, with upheaved flagstones in the center. He has Walker place the helm on a small altar-like lectern and looks through papers.",
-        "The scene cuts to Gerk, alone, searching New Navel for the sheriff. He goes to the market and asks a living vendor rather than a ghost.",
-        "She says the sheriff may be at the tavern or at his house, and directs Gerk southwest: past the tavern, down the road, then right. The house is Haldor's.",
-        "Gerk gives her a gold. She is selling a wicker chicken; he buys it. She also offers a life-size wicker goose. He refuses and says killing geese on sight is religious for him. A goose vendor two doors down reacts, and Gerk tells him he will be back.",
-        "Gerk reaches Haldor's house. Haldor sits relaxed on the porch in a rocking chair, boots on a stump, and watches Gerk from under his hat. Gerk waves."
+        "Carlkin calls the helm on Walker's head a likely lich phylactery. Walker disagrees and says it is mundane.",
+        "Carlkin notes that the helm is ornamental and hobgoblin-inspired, and Walker lets him take it.",
+        "Carlkin drops the helm into a belt pouch that opens to about two feet and snaps shut. He says a phylactery would have given itself away, then doubts that it is one and estimates ten to fifteen minutes for its return.",
+        "Carlkin explains the pouch is a bag of holding enchanted to sense phylactery soul-magic and ignite on contact, and he initially concludes the helm is not a phylactery.",
+        "Dana starts to ask about the little eagle. Walker rolls perception 27, and the pouch's bottom-right corner smolders.",
+        "Carlkin pulls the bag off his belt and throws it down. It smolders across its surface instead of bursting into flame.",
+        "Carlkin says this is not a full phylactery reaction: the helm carries trace soul magic and maybe further enchantments, and he tells Walker it does not look like an ordinary helm.",
+        "Using fire resistance and the golden glove, Walker retrieves the white helm. The bag burns out, cracks apart, and blows away. The helm is cold to the touch. Carlkin says it is the helm Walker took from the Emperor.",
+        "The lighthouse group follows Carlkin inside, leaving Elrus, Araden, and Benji outside in conversation.",
+        "In the damaged study, Walker places the helm on a small altar-lectern while Carlkin sorts papers.",
+        "Gerk asks a living market vendor for the sheriff and is directed to Haldor's house south-west of the market, by the tavern.",
+        "Gerk buys a wicker chicken for one gold, rejects a life-sized wicker goose, and says killing geese on sight is religious. He warns the goose vendor two doors down that he will be back.",
+        "Gerk reaches Haldor's porch and waves. Haldor is relaxed in a rocking chair, boots on a stump, and acknowledges him."
     ],
     "entities": {
         "Helm": {
-            "existing": "A helm Carlkin agreed to examine by appointment once a comrade returns.",
+            "existing": "A helm Carlkin agreed to examine, later pulled from his burning bag with Walker's golden glove.",
             "entityType": "ITEM",
             "notes": [
-                "Walker has been wearing it. Carlkin calls it a white helm taken from the Emperor, ornamental and hobgoblin-inspired. Walker had thought it mundane.",
-                "Carlkin's soul-magic bag does not take it for a full phylactery. Contact produces a slow smolder rather than a burst of flame, which Carlkin reads as trace soul magic plus possible further enchantments.",
-                "After the bag burns apart the helm is slightly smoking and cool to the touch. Walker sets it on a small altar-like lectern in Carlkin's study for further research."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": [
-                "What is the helm, if it is not a full phylactery?"
-            ]
-        },
-        "Carlkin": {
-            "existing": "Carlkin is a turtle-like person believed to be back in Langdale.",
-            "entityType": "NPC",
-            "notes": [
-                "He is at his New Navel lighthouse and examines Walker's helm in person.",
-                "He had enchanted a bag of holding to detect phylactery soul-magic and burn on contact. The test destroys that bag: a true phylactery would have been a full fire, and this helm only smolders.",
-                "He invites the party into the study, which is still torn up from the day before, and starts researching the helm from a desk there. He moves quickly for someone the party thinks of as a turtle."
+                "Walker has been wearing it. It is white, ornamental, and hobgoblin-inspired, and Carlkin says Walker took it from the Emperor.",
+                "Carlkin's soul-magic bag does not fully ignite. He reads that as trace soul magic and possible further enchantments, not a full phylactery.",
+                "After the bag burns away the helm is slightly smoking, then cold to the touch. Walker sets it on a small altar-like lectern in Carlkin's study for more research."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [
-                "A full phylactery would have been a full fire; the smolder means trace soul magic and maybe more enchantments."
+                "Carlkin: a real phylactery would have made a full fire; this result means trace soul magic."
             ],
             "openQuestions": [
-                "What will his further investigation of the helm show?"
+                "What the helm actually is, beyond trace soul magic and possible other enchantments, is still awaiting Carlkin's examination."
             ]
         },
+        "Carlkin": {
+            "existing": "Turtle-like person whose lighthouse and bookshop are in New Navel.",
+            "entityType": "NPC",
+            "notes": [
+                "He is at his New Navel lighthouse and examines Walker's helm in person.",
+                "He enchanted a bag of holding into a soul-magic test: phylactery-level soul magic should make it burst into flame. Trace soul magic only makes it smolder, and the bag is destroyed.",
+                "He first clears the helm, then accuses Walker of lying once the bag smolders, and takes the helm into his study for a closer reading.",
+                "The test pouch expands to about two feet. He moves with a speed he jokes one would not expect of a turtle."
+            ],
+            "titles": [],
+            "personality": [
+                "Tests the dangerous object himself, then invites the party in to finish the identification."
+            ],
+            "quotesThemes": [
+                "If it were a phylactery, contact would have been a full fire.",
+                "He can return the helm in about ten to fifteen minutes, then later says he needs the bag to finish burning before he can investigate further."
+            ],
+            "openQuestions": [
+                "What he was about to say regarding the little eagle is never answered."
+            ]
+        },
+        "Carlkin's lighthouse": {
+            "existing": "Carlkin's home and bookshop in New Navel, previously the site of an abyss door.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The study floor is still wrecked only a day later. The center looks like a sandbox where flagstones were pushed up.",
+                "A corner holds a small desk and study setup, including a small altar or lectern where the helm is placed."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
         "Walker": {
-            "existing": "Walker is a half-elf dragon rider and fighter bonded to Glimmen, originally from La-rel and now Gatekeeper of The Reach.",
+            "existing": "Half-elf dragon rider and fighter, Gatekeeper of The Reach, bonded to Glimmen.",
             "entityType": "PLAYER",
             "notes": [
-                "He has been wearing the white helm and does not believe it is a phylactery. He hands it to Carlkin, notices the bag start to smolder, and retrieves it from the burning bag.",
-                "He is fire resistant, so the bag's heat comes to basically nothing, and he has a golden glove.",
-                "He agrees to stay with Carlkin in the lighthouse while the helm is studied."
+                "He has been wearing the white helm and does not believe it is a phylactery because he finds it mundane.",
+                "He rolls a 27 perception and notices Carlkin's pouch start to smoke.",
+                "He is fire-resistant. With the golden glove he pulls the helm from the burning bag for negligible damage, then stays with Carlkin for the follow-up study."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "He tells the group it is not a phylactery and that no one has to worry anymore, before the smolder changes Carlkin's reading."
+            ],
+            "openQuestions": []
+        },
+        "Golden glove": {
+            "existing": "Walker's golden glove, used to pull the helm from Carlkin's burning bag.",
+            "entityType": "ITEM",
+            "notes": [
+                "Walker uses it, with his fire resistance, to reach into the smoldering bag and retrieve the helm. Carlkin treats the resulting damage as negligible."
             ],
             "titles": [],
             "personality": [],
@@ -88,92 +120,60 @@
             "openQuestions": []
         },
         "Dana": {
-            "existing": "Dana is a thoughtful half-elf cleric and Gatekeeper of the Pitel keystone, connected to the Great Eldarin Tree alongside Gerk.",
+            "existing": "Half-elf cleric and Gatekeeper of the Pitel keystone.",
             "entityType": "PLAYER",
             "notes": [
-                "She is the one pressing whether the helm is a phylactery, and she points out that Carlkin said the bag would burst into flame on soul magic.",
-                "She follows Carlkin into the lighthouse because she wants to know what the helm is, and she asks what he had been saying about the little eagle."
+                "She is the one pressing whether Walker's helm is a phylactery, and she repeats that Carlkin said soul magic would make the bag burst into flame.",
+                "She asks what Carlkin had been saying about the little eagle. The question is dropped when Walker is told to roll perception.",
+                "She follows Carlkin into the lighthouse because she wants to see the examination."
             ],
             "titles": [],
             "personality": [],
             "quotesThemes": [],
+            "openQuestions": [
+                "She asks Carlkin what he was saying about the little eagle and does not get an answer."
+            ]
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue, Gatekeeper connected to Lith's keystone.",
+            "entityType": "PLAYER",
+            "notes": [
+                "She whispers to Walker that the helm looks like a phylactery.",
+                "She goes into the lighthouse with the others, meaning to needle Walker."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "She whispers to Walker that it looks like a phylactery."
+            ],
             "openQuestions": []
         },
         "Gerk": {
-            "existing": "Gerk is a half-orc barbarian Doorman and Child of the Great Eldarin Tree who opens Arch doorways and keeps the Midgard keystone.",
+            "existing": "Half-orc barbarian, Doorman, and keeper of the Midgard keystone.",
             "entityType": "PLAYER",
             "notes": [
-                "He is alone in New Navel looking for the sheriff and asks directions in the market instead of getting himself arrested.",
-                "He buys a wicker chicken for one gold and refuses a wicker goose.",
-                "He says he has to kill geese on sight as a religious matter, and he tells the goose vendor two doors down that he will be back.",
-                "He finds Haldor's house and waves as he approaches the porch."
+                "He is away from the lighthouse group, alone in New Navel, looking for Sheriff Haldor. He asks a living vendor rather than causing a scene, then goes to the house she points out.",
+                "He pays one gold for a small wicker chicken and refuses a life-sized wicker goose.",
+                "He says killing geese on sight is a religious obligation, and he tells the goose vendor two doors down that he will be back.",
+                "He approaches Haldor's porch with a vigorous wave. Haldor has not spoken with him yet."
             ],
             "titles": [],
             "personality": [
-                "States that killing geese on sight is a religious obligation."
+                "Treats killing geese on sight as a religious duty."
             ],
             "quotesThemes": [
-                "I'll be back for you, said to the goose vendor."
+                "He tells the wicker vendor he has to kill geese on sight, and that it is a religious thing.",
+                "He points at the goose vendor and says he will be back for him."
             ],
             "openQuestions": []
         },
-        "Haldor": {
-            "existing": "",
+        "Joanna": {
+            "existing": "New Navel market vendor who sells wicker animals.",
             "entityType": "NPC",
             "notes": [
-                "Sheriff of New Navel. His house is southwest of the market, past the tavern: down the road and to the right.",
-                "When Gerk arrives he is on the porch in a rocking chair, boots up on a stump, hands folded, hat brim low, relaxed, and he watches Gerk approach."
-            ],
-            "titles": [
-                "Sheriff of New Navel"
-            ],
-            "personality": [
-                "Presents as unhurried and at ease on his own porch."
-            ],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "New Navel": {
-            "existing": "New Navel is a familiar stop that sends trade caravans to the party's tavern in Langdale and holds Carlkin's lighthouse.",
-            "entityType": "LOCATION",
-            "notes": [
-                "The town center has a small open market of ordinary, living vendors.",
-                "The sheriff's house and a tavern are southwest of that market.",
-                "One stall sells wicker animals, including a small wicker chicken and a life-size wicker goose. Two doors down, another vendor sells only geese."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Carlkin's lighthouse": {
-            "existing": "Carlkin's lighthouse in New Navel is his home and bookshop, where an abyss door opens onto a fight with tentacles and a wall of eyes.",
-            "entityType": "LOCATION",
-            "notes": [
-                "The study floor is still a mess only a day later. The center looks like a sandbox shoved up through the flagstones.",
-                "A corner holds a small desk and study setup, including an altar-like lectern where Walker leaves the helm."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Phylactery": {
-            "existing": "A vessel containing a lich's soul.",
-            "entityType": "CONCEPT",
-            "notes": [
-                "Carlkin's test treats a real phylactery as something that would make his enchanted bag burst fully into flame. Trace soul magic only smolders the bag and can ride along with other enchantments."
-            ],
-            "titles": [],
-            "personality": [],
-            "quotesThemes": [],
-            "openQuestions": []
-        },
-        "Golden glove": {
-            "existing": "",
-            "entityType": "ITEM",
-            "notes": [
-                "Walker is wearing a golden glove and uses that hand, with his fire resistance, to pull the helm out of Carlkin's burning bag."
+                "The wicker seller Gerk meets is a living woman, not a ghost. She holds a small basket-woven chicken and, for the same gold, also offers a one-to-one wicker goose, saying she can make geese or a gander.",
+                "She directs Gerk to Haldor: the house is south-west of the market, by the tavern, down the road and to the right.",
+                "Gerk pays her one gold and takes the wicker chicken."
             ],
             "titles": [],
             "personality": [],
@@ -181,10 +181,85 @@
             "openQuestions": []
         },
         "Wicker chicken": {
+            "existing": "A small basket-woven wicker chicken Gerk buys from Joanna for one gold.",
+            "entityType": "ITEM",
+            "notes": [
+                "Gerk buys it from the New Navel wicker vendor for one gold while asking the way to Haldor's house, and he carries it to the sheriff's house."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Goose vendor": {
+            "existing": "Seller two doors down from Joanna, associated with geese.",
+            "entityType": "NPC",
+            "notes": [
+                "Described as the vendor two doors down who has nothing but geese. He stops when Gerk says he kills geese on sight. Gerk points at him and says he will be back."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Haldor": {
+            "existing": "Sheriff of New Navel who bans doors and spirit-taking inside the city.",
+            "entityType": "NPC",
+            "notes": [
+                "A market vendor says he would be at the tavern or at his house. Gerk finds him at the house.",
+                "He is on his porch in a rocking chair, boots up on a stump, hands folded, hat brim low, relaxed. He sees Gerk coming and acknowledges him, but the conversation has not started."
+            ],
+            "titles": [
+                "Sheriff of New Navel"
+            ],
+            "personality": [
+                "Appears unhurried and at ease on his own porch."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Haldor's house": {
+            "existing": "",
+            "entityType": "LOCATION",
+            "notes": [
+                "Haldor's house is south-west of New Navel's market, reached by going past or behind the tavern, down the road, and turning right.",
+                "Haldor is home, seated on the porch."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "New Navel": {
+            "existing": "A familiar trade stop and the site of Carlkin's lighthouse.",
+            "entityType": "LOCATION",
+            "notes": [
+                "The market is a small open bazaar of ordinary living vendors; Gerk specifically checks that the wicker seller is not a ghost.",
+                "The tavern is a visible landmark on the way to Haldor's house."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Emperor": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Carlkin calls the white helm the one Walker took from the Emperor. No other detail about the Emperor is given in this stretch."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Soul-cleaning bag": {
             "existing": "",
             "entityType": "ITEM",
             "notes": [
-                "A small basket-woven wicker chicken Gerk buys from a New Navel market vendor for one gold. The same vendor also had a near life-size wicker goose, which he does not take."
+                "Carlkin enchanted a bag of holding to detect soul magic of the kind associated with a phylactery and to burst into flames on contact. He describes it as a soul-cleaning apparatus he put together for this situation.",
+                "A full phylactery would cause a full fire. The helm only makes the bag smolder, which he reads as trace soul magic.",
+                "The opening expands to about two feet, but the space inside is only large enough for the helm and a little more. After Walker retrieves the helm, the bottom burns through and the rest fractures and burns away on the wind."
             ],
             "titles": [],
             "personality": [],
@@ -194,128 +269,107 @@
     },
     "misTranscriptions": [
         {
-            "heard": "Caro called soon",
+            "heard": "Caro",
             "likely": "Carlkin",
-            "notes": "Opening line as Carlkin addresses the party."
+            "notes": "TongaTank's 'my friend uh Caro' at the start of the helm conversation."
         },
         {
             "heard": "litist phlactory",
             "likely": "lich's phylactery",
-            "notes": "Carlkin on the helm Walker is wearing."
+            "notes": "Carlkin describing the helm on Walker's head."
         },
         {
             "heard": "philatry",
             "likely": "phylactery",
-            "notes": "Same exchange; Carlkin asks if that was the word."
+            "notes": "Carlkin correcting the word in the same exchange."
         },
         {
             "heard": "flag tree",
             "likely": "phylactery",
-            "notes": "Carlkin, after dunking the helm into the bag."
+            "notes": "Carlkin, after dunking the helm: if it was one, the bag would react."
         },
         {
             "heard": "phylactory",
             "likely": "phylactery",
-            "notes": "Carlkin describing the bag and later accusing Walker of lying about the helm."
+            "notes": "Repeated hearing while Carlkin explains the bag and the trace soul-magic result."
         },
         {
-            "heard": "hopgoblin",
-            "likely": "hobgoblin",
-            "notes": "Carlkin on the helm's ornament."
-        },
-        {
-            "heard": "full philosophy",
-            "likely": "full phylactery",
-            "notes": "Carlkin contrasting the smolder with a true phylactery."
+            "heard": "philosophy",
+            "likely": "phylactery",
+            "notes": "Carlkin: he would not call it a full phylactery."
         },
         {
             "heard": "factory",
             "likely": "phylactery",
-            "notes": "Ciri whispering to Walker while the bag smolders."
+            "notes": "Ciri whispering to Walker that the helm looks like one."
         },
         {
-            "heard": "Year bag",
-            "likely": "your bag",
-            "notes": "Walker asking Carlkin about the burning pouch."
+            "heard": "hopgoblin",
+            "likely": "hobgoblin",
+            "notes": "Carlkin on the helm's ornamental style."
         },
         {
-            "heard": "ordinary home",
-            "likely": "ordinary helm",
-            "notes": "Carlkin to Walker after the smolder test."
+            "heard": "home",
+            "likely": "helm",
+            "notes": "'Doesn't look like an ordinary home to me, Walker.'"
         },
         {
             "heard": "called the touch",
-            "likely": "cool to the touch",
-            "notes": "Carlkin, when Walker asks if the helm is still hot."
-        },
-        {
-            "heard": "snag down",
-            "likely": "snag it out",
-            "notes": "Carlkin telling Walker to reach into the bag."
+            "likely": "cold to the touch",
+            "notes": "Carlkin answering whether the recovered helm is still hot."
         },
         {
             "heard": "Carl King",
             "likely": "Carlkin",
-            "notes": "Dana saying she is going inside with him."
+            "notes": "Dana saying she is going with him into the lighthouse."
         },
         {
             "heard": "Garlkin",
             "likely": "Carlkin",
-            "notes": "The party entering his study."
+            "notes": "The DM naming the study they enter."
         },
         {
             "heard": "New Navelle",
             "likely": "New Navel",
-            "notes": "Gerk searching for the sheriff."
+            "notes": "The DM setting Gerk's search for the sheriff."
         },
         {
-            "heard": "call bazaar",
-            "likely": "small bazaar",
-            "notes": "The New Navel market."
-        },
-        {
-            "heard": "it's a sheep",
-            "likely": "it's a she",
-            "notes": "The vendor who gives directions to Haldor's house."
+            "heard": "sheep",
+            "likely": "she",
+            "notes": "The vendor points; the line is heard as 'apparently it's a sheep.'"
         },
         {
             "heard": "Sharon's house",
             "likely": "sheriff's house",
-            "notes": "Gerk leaving the market for Haldor's."
+            "notes": "Gerk leaving the market for Haldor's house."
         },
         {
             "heard": "little eagle",
-            "likely": "",
-            "notes": "Dana asks Carlkin what he was saying about it. Unanswered, and it is unclear whether she means a mark on the helm or the hunched eagle marker."
+            "likely": "hunched eagle marker",
+            "notes": "Dana asks what Carlkin was saying about it. Unanswered, and the match to the known eagle marker is uncertain."
         }
     ],
     "openQuestions": [
-        "What is Walker's white helm, given the trace soul magic and other enchantments Carlkin detected?",
-        "What was Carlkin saying about the little eagle before Dana was cut off?"
+        "What was Carlkin about to say about the little eagle?",
+        "What is the white helm exactly, once Carlkin finishes examining the trace soul magic and other enchantments?"
     ],
     "newTerms": [
         {
-            "name": "Haldor",
-            "notes": [
-                "Sheriff of New Navel. Lives just past the tavern, southwest of the market. Gerk finds him relaxed on his porch."
-            ]
-        },
-        {
             "name": "Emperor",
             "notes": [
-                "Carlkin's name for whoever Walker took the white helm from. No other identity is given in this chunk."
+                "Unidentified figure Carlkin credits as the source of the white helm Walker took and has been wearing."
             ]
         },
         {
-            "name": "Golden glove",
+            "name": "Soul-cleaning bag",
             "notes": [
-                "A glove Walker is wearing. He uses it when he reaches into Carlkin's burning bag."
+                "Carlkin's bag of holding, enchanted to burn on contact with phylactery soul-magic. Full phylactery magic would cause a full fire; weaker soul magic only smolders it. This bag is destroyed in the helm test."
             ]
         },
         {
-            "name": "Wicker chicken",
+            "name": "Haldor's house",
             "notes": [
-                "Small woven trinket Gerk buys for one gold from a New Navel market vendor. She also sells wicker geese."
+                "The sheriff's house in New Navel, south-west of the market past the tavern. Haldor is on the porch when Gerk arrives."
             ]
         }
     ]
