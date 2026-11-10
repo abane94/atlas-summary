@@ -1,4 +1,16 @@
-import { withAiPool } from "../lib/ai.js";
+import fs from "node:fs";
+import { fileURLToPath } from "node:url";
+import { withAiPool as withAiPoolUnlogged, type AiPool } from "../lib/ai.js";
+import { startPromptLog } from "../lib/ai/prompt-log.js";
+
+/**
+ * Every command that runs AI goes through here: the first call empties the
+ * prompt log (.ai-log/) so it holds only this run's calls.
+ */
+function withAiPool<T>(fn: (pool: AiPool) => Promise<T>): Promise<T> {
+  startPromptLog();
+  return withAiPoolUnlogged(fn);
+}
 import {
   DATE_RE,
   PIPELINE_STEPS,
@@ -407,9 +419,31 @@ async function main(): Promise<void> {
   await runSelectedSteps(date, steps, args.force, args.dryRun);
 }
 
+/** Print an error, including every error inside an AggregateError. */
+function printError(error: unknown, indent = ""): void {
+  if (error instanceof AggregateError) {
+    console.error(`${indent}${error.message}:`);
+    error.errors.forEach((inner, i) => {
+      console.error(`${indent}  [${i + 1}]`);
+      printError(inner, `${indent}    `);
+    });
+    return;
+  }
+  const message = error instanceof Error ? error.message : String(error);
+  console.error(message.split("\n").map((line) => indent + line).join("\n"));
+}
+
+/**
+ * Load the repo's .env. Variables already set in the shell win over the file.
+ * Every setting (AI_BACKEND, AI_CONCURRENCY, ...) is read when it is used, not
+ * at import time, so loading here is early enough.
+ */
+const envFile = fileURLToPath(new URL("../.env", import.meta.url));
+if (fs.existsSync(envFile)) process.loadEnvFile(envFile);
+
 try {
   await main();
 } catch (error) {
-  console.error(error instanceof Error ? error.message : error);
+  printError(error);
   process.exitCode = 1;
 }

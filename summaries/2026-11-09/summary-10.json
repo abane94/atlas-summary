@@ -1,0 +1,208 @@
+{
+    "plotSections": [
+        {
+            "title": "The Helm and the Soul Identifier",
+            "bullets": [
+                "The party reviews Carlkin's soul identifier, a small bag resembling a bag of holding; a true phylactery placed inside bursts into flames immediately. The helm only smoldered, so it is not a phylactery.",
+                "The smoldering comes from a soul fragment, an echo or remembrance of a soul attached to the helm, which is still strong enough to possess a wearer. Walker likens it to a possessed doll from a B-rated horror film.",
+                "Sylan suggests the helm might be one part of a set, with his armor holding the rest of a phylactery. Walker believes phylacteries are single items. Walker was the only one who looted the body, and the keystone is considered an unlikely vessel.",
+                "Earlier notes with Carlkin suggested the party had the phylactery with them, so the true phylactery's location remains unknown.",
+                "Walker refuses to dispose of or give up the helm. He has already resisted its possession once, considers it unsafe for anyone else, and will wear it himself.",
+                "Walker has spoken with the helm's soul once. The party plans to open that channel again after dinner, with Dana supervising, possibly in the large dining room. Mahali urges them to wait until after dinner and wants to watch."
+            ]
+        },
+        {
+            "title": "Evening at Langdale Stronghold",
+            "bullets": [
+                "Araden is too large for the stronghold and lounges at its foot, where Glimmen sits chatting with him among his large collection of books. About a dozen village children have begun gathering near the two dragons.",
+                "Mahali serves pork stew and assorted desserts, then retires to the kitchen to prepare breakfast. Gerk's punched potatoes will become a hash for the morning meal.",
+                "Ponchi sips from a small gourd flask after the meal, and the guards leave for evening patrols."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker recounts that Carlkin's soul identifier showed the helm only smoldering, meaning it holds a soul fragment rather than being a phylactery.",
+        "Sylan proposes cutting the soul out with his sword and theorizes that the armor set together forms the phylactery.",
+        "The party confirms Walker was the only looter, and the keystone is ruled out.",
+        "The DM clarifies that the helm's soul echo can still possess a wearer.",
+        "Walker claims the helm and will wear it, having already resisted its possession.",
+        "Mahali probes whether the helm could be put on someone else and teases Walker about how it clashes with his gold look, then recommends attempting contact after dinner.",
+        "Araden and Glimmen are found at the foot of the stronghold with village children gathered nearby.",
+        "Dinner is served, Mahali retires to the kitchen for breakfast prep, and the guards leave on patrol.",
+        "The party prepares to attempt communication with the helm."
+    ],
+    "entities": {
+        "Helm": {
+            "existing": "A helm Carlkin examined.",
+            "entityType": "ITEM",
+            "notes": [
+                "The helm smoldered in the soul identifier instead of igniting, so it is not a phylactery.",
+                "It contains a soul fragment, an echo of a soul, that is capable of possessing a wearer.",
+                "Walker has resisted its possession, will wear it himself, and refuses to dispose of it.",
+                "Walker has communicated with the soul inside once.",
+                "It is white and sterile-looking, unlike Walker's gold armor."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Compared to a possessed doll from a B-rated horror film."
+            ],
+            "openQuestions": [
+                "Is the helm part of a set, such as armor, that together forms a phylactery?",
+                "Where is the true phylactery?"
+            ]
+        },
+        "Soul identifier": {
+            "existing": "Carlkin's reagent for reading an object's spiritual residue.",
+            "entityType": "ITEM",
+            "notes": [
+                "A small bag resembling a bag of holding.",
+                "A true phylactery placed inside bursts into flames immediately.",
+                "The DM also referred to it as the phylactery finder or phylactery tester."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter bonded to Glimmen.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Was the only party member to loot the body.",
+                "Claims the possessing helm, has resisted its possession, and plans to wear it.",
+                "Agrees to attempt contact with the helm's soul after dinner."
+            ],
+            "titles": [],
+            "personality": [
+                "Possessive of the helm and finds it badass."
+            ],
+            "quotesThemes": [
+                "\"No, it's mine.\""
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Proposed using his sword's soul-cutting ability to extract the soul from the helm.",
+                "Theorized that a phylactery could be split across a set of armor."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mahali": {
+            "existing": "Elder god serving as the stronghold chef.",
+            "entityType": "NPC",
+            "notes": [
+                "Served a summer cider of apples, pears, and cinnamon, pork stew, and desserts.",
+                "Advises attempting possession contact late at night, after dinner, and wants to watch.",
+                "Plans to turn Gerk's punched potatoes into a breakfast hash."
+            ],
+            "titles": [],
+            "personality": [
+                "Playfully mischievous; suggests putting the helm on someone else and critiques Walker's style."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "Magically capable dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Too large for the stronghold, so he lounges at its foot.",
+                "Has produced a large inventory of books.",
+                "About a dozen village children gather near him and Glimmen."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's dragon companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Can only fit through the stronghold's front great hall.",
+                "Spends her time chatting with Araden outside the stronghold."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ponchi": {
+            "existing": "Stronghold guard.",
+            "entityType": "NPC",
+            "notes": [
+                "Carries a small gourd-like flask that he drinks from after meals."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Panchey",
+            "likely": "Ponchi",
+            "notes": "NPC at dinner"
+        },
+        {
+            "heard": "Gark's",
+            "likely": "Gerk's",
+            "notes": "tubers"
+        },
+        {
+            "heard": "GERC",
+            "likely": "Gerk",
+            "notes": "tubers"
+        },
+        {
+            "heard": "Silaris",
+            "likely": "",
+            "notes": "possibly Araden or Elrus"
+        },
+        {
+            "heard": "Alaris",
+            "likely": "",
+            "notes": "listed alongside Elrus and Araden"
+        },
+        {
+            "heard": "Arcard",
+            "likely": "",
+            "notes": "Sylan addressing someone, likely Walker"
+        },
+        {
+            "heard": "Collectory",
+            "likely": "phylactery",
+            "notes": ""
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": ""
+        },
+        {
+            "heard": "geese dome",
+            "likely": "keystone",
+            "notes": "DM said it was off limits as a phylactery"
+        }
+    ],
+    "openQuestions": [
+        "Is the helm part of a set that forms a phylactery?",
+        "Where is the actual phylactery?"
+    ],
+    "newTerms": [
+        {
+            "name": "Soul fragment",
+            "notes": [
+                "An echo or remembrance of a soul left on an object, able to possess a wearer but not a phylactery."
+            ]
+        }
+    ]
+}

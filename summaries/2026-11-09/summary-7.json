@@ -1,0 +1,204 @@
+{
+    "plotSections": [
+        {
+            "title": "Moxie, Ord's New Roommate",
+            "bullets": [
+                "Ciri and Ord meet Moxie, a semi-sentient, amphibious beaver-like creature (\"beaverine\") living in a hovel in the keep's basement, in Ponchi's quarters and now Ord's.",
+                "Ciri feeds Moxie a whole bucket of kitchen scraps; Moxie eats them noisily by the handful, whistling and begging for more.",
+                "Moxie offers to hunt for Ord and calls him \"handler\"; Ord tells her she may hunt only outside the keep and must respect the spaces inside, breaking nothing that isn't hers.",
+                "Moxie dives into the keep's dock port and swims out underwater toward the portcullis."
+            ]
+        },
+        {
+            "title": "Regrouping at Langdale Stronghold",
+            "bullets": [
+                "The party has returned to the stronghold to regroup and decide where to go next; earlier, Mahali led a philosophical conversation about gods, the effects and scale of belief, and how one becomes a deity.",
+                "Sylan rejoins; Gerk is mashing raw potatoes by punching them in a bucket while Ponchi cuts vegetables and Mahali nearly finishes a pork-inspired stew.",
+                "Koji, Bo, and the stone mill mercenaries are holed up in the guard house on patrol duty.",
+                "Sylan still holds Ord's fused lantern-staff and wants to continue practicing with it.",
+                "The DM reminds the party they still have a lich to find, plus a factory to deal with."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ciri feeds Moxie a bucket of scraps in the basement.",
+        "Ord sets rules for Moxie: hunt outside the keep, respect the keep's spaces.",
+        "Moxie, calling Ord \"handler,\" swims off through the dock port toward the portcullis.",
+        "Ciri and Ord return to the kitchen, where Gerk is mashing potatoes and Ponchi and Mahali are cooking.",
+        "Sylan arrives and is told about Moxie; he confirms he still holds the lantern-staff.",
+        "The DM reminds the party of the lich hunt and the factory."
+    ],
+    "entities": {
+        "Moxie": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Semi-sentient, amphibious beaver-like creature (\"beaverine\") newly living in the keep's basement hovel, shared with Ponchi and Ord.",
+                "Eats scraps noisily by the handful and whistles while eating.",
+                "Offered to hunt for Ord; told to hunt only outside the keep.",
+                "Leaves through the dock port, swimming underwater toward the portcullis.",
+                "Gained as stronghold staff through a dice roll for stronghold expansion."
+            ],
+            "titles": [
+                "Ord's roommate"
+            ],
+            "personality": [
+                "Eager, food-motivated, speaks in simple repetitive phrases"
+            ],
+            "quotesThemes": [
+                "\"Hunt, hunt, yes.\"",
+                "Calls Ord \"handler\""
+            ],
+            "openQuestions": [
+                "Sylan asks whether Moxie could be a spy."
+            ]
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin",
+            "entityType": "PLAYER",
+            "notes": [
+                "Now shares quarters with Moxie, who calls him \"handler.\"",
+                "Told Moxie to hunt outside the keep and respect its spaces."
+            ],
+            "titles": [],
+            "personality": [
+                "Wary of Moxie; calls friendship \"a strong word at the moment\""
+            ],
+            "quotesThemes": [
+                "\"We need a bigger castle.\""
+            ],
+            "openQuestions": []
+        },
+        "Ponchi": {
+            "existing": "Stronghold guard",
+            "entityType": "NPC",
+            "notes": [
+                "Lives in the basement quarters where Moxie lives.",
+                "Helping Mahali cook by cutting vegetables."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mahali": {
+            "existing": "Elder god and stronghold chef",
+            "entityType": "NPC",
+            "notes": [
+                "Led a philosophical conversation about gods, belief, and becoming a deity.",
+                "Preparing a pork-inspired stew."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Fused lantern-staff": {
+            "existing": "Fused lantern and staff revealing the Ethereal Plane",
+            "entityType": "ITEM",
+            "notes": [
+                "Still held by Sylan, who wants to keep practicing with it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale Stronghold": {
+            "existing": "Party home base",
+            "entityType": "Location",
+            "notes": [
+                "Has a basement dock port leading underwater to the portcullis.",
+                "Has a guard house used by Koji, Bo, and the stone mill mercenaries."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Pachi",
+            "likely": "Ponchi",
+            "notes": "Stronghold guard"
+        },
+        {
+            "heard": "Ponchy",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "Yapanchi",
+            "likely": "Ponchi",
+            "notes": "Ponchi lives with Moxie"
+        },
+        {
+            "heard": "Archie",
+            "likely": "Ponchi",
+            "notes": "\"Archie lives with it\""
+        },
+        {
+            "heard": "Harris",
+            "likely": "Aris",
+            "notes": "Real name of Ord's player"
+        },
+        {
+            "heard": "Warden",
+            "likely": "Walker",
+            "notes": "Possibly another party member"
+        },
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": ""
+        },
+        {
+            "heard": "Moby",
+            "likely": "Moxie",
+            "notes": "DM's own correction"
+        },
+        {
+            "heard": "boxes",
+            "likely": "Moxie",
+            "notes": ""
+        },
+        {
+            "heard": "abiva",
+            "likely": "beaver",
+            "notes": ""
+        },
+        {
+            "heard": "Wolver Ever",
+            "likely": "wolverine",
+            "notes": "Joke about beaverine"
+        },
+        {
+            "heard": "port Cullis",
+            "likely": "portcullis",
+            "notes": ""
+        },
+        {
+            "heard": "stone mill mercenaries",
+            "likely": "",
+            "notes": "Mercenary group at the guard house; confirm name"
+        }
+    ],
+    "openQuestions": [
+        "Is Moxie a spy?"
+    ],
+    "newTerms": [
+        {
+            "name": "Stone mill mercenaries",
+            "notes": [
+                "Mercenaries stationed at the stronghold's guard house with Koji and Bo."
+            ]
+        },
+        {
+            "name": "Factory",
+            "notes": [
+                "An outstanding objective the DM reminded the party about alongside finding the lich."
+            ]
+        }
+    ]
+}

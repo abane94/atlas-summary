@@ -39,6 +39,23 @@
         "Haldor treats it as a magic item that summons undead, which is illegal in New Navel. He will confiscate it unless it is kept hidden. Sylan agrees to hide it.",
         "Sylan plans to have the fused form identified at Shades and Trades and cannot remember whether that was already done."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Also called the staff with the light bringer, the fused lantern-staff is now held by Sylan, to whom Ord gave it. It resembles a shepherd's crook of very hardy wood with a square, medieval-style lantern open on all sides at its end, its frame inscribed in archaic or arcane script. It emanates a palpable magical presence, visible in how light catches it, and Dana confirmed it is magical with a 22 Arcana check. It is activated by a four-line oath, the 'Seeker passphrase', ending 'Lantern keeper's light', with the user closing their eyes on the fourth line. Activation drains color toward the holder, rendering surroundings grayscale and high-contrast, casts a mild chill across the whole stronghold, and overlays a hazy view of another dimension; the holder appears as a silver spectral outline. Doors opened while it is active collapse into blackness, and opening one pulled a nearby soul into Sylan. Focusing its light on an object reveals residual souls and can prompt a response. Switching it off leaves the environment deadened until torches rewarm the area. A previous use caused a vortex in the sky and blinded Gerk, and it previously let Ord see souls attached to objects.",
+      "notes": [
+        "Also called the staff with the light bringer.",
+        "Held by Sylan, to whom Ord gave it.",
+        "Resembles a shepherd's crook with a square medieval-style lantern, open on all sides, attached at the end. The staff is very hardy wood.",
+        "Inscriptions in archaic or arcane script run along the lantern frame.",
+        "Emanates a palpable magical presence, also visible in how light catches it. Dana confirmed it is magical with a 22 Arcana check.",
+        "Activated by a four-line oath, the 'Seeker passphrase', ending 'Lantern keeper's light'. The user closes their eyes on the fourth line.",
+        "Activation drains color toward the holder, turning the surroundings grayscale and high-contrast and casting a mild chill across the whole stronghold. It overlays a hazy view of another dimension, and the holder appears as a silver spectral outline.",
+        "Doors opened while it is active collapse into blackness. Opening one pulled a nearby soul into Sylan.",
+        "Focusing its light on an object reveals residual souls and can prompt a response.",
+        "Switching it off leaves the environment deadened until the torches rewarm the area.",
+        "A previous use caused a vortex in the sky and blinded Gerk. It previously let Ord see souls attached to objects."
+      ]
     }
   ],
   "openQuestions": [
@@ -49,5 +66,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-10-19T20:37:48.244Z",
-  "updatedAt": "2026-10-21T19:36:58.134Z"
+  "updatedAt": "2026-11-10T15:43:43.093Z"
 }

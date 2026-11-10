@@ -42,10 +42,23 @@
         "Escalation signs Carlkin gives: queasiness, numb earlobes, tingling in the left armpit, or voices that are not Walker, his own inner voice, Glimmen, Araden, or the party's whispers.",
         "Dangerous for light-domain clerics of high regard and for feeble-minded wearers. Gerk is not to wear it."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Walker carries and wears the helm, whose white, sterile look clashes with his gold armor. It is not the lich's phylactery: in the Soul identifier it only smoldered rather than igniting, though it reacted for some time, unlike the eagle marker. The helm held a soul fragment, an echo of a soul still able to possess a wearer. Walker resisted the possession and once had a pleasant conversation with the spirit inside. Sylan suspects the helm belongs to an armor set whose other pieces may hold more of the soul. Under the lantern's light it was coated in whitish ectoplasm and gave off incoherent wailing. The fragment, the 'aftertaste of a tortured soul', was identified as Grixto, and Sylan extracted it. Afterward the helm is colder, its metal has shifted, the ectoplasm is gone, and it feels as though it has lost something.",
+      "notes": [
+        "Carried and worn by Walker. It is white and sterile-looking, which clashes with his gold armor.",
+        "Not the lich's phylactery: it only smoldered in the Soul identifier instead of igniting. It reacted for some time, unlike the eagle marker.",
+        "Held a soul fragment, an echo of a soul still capable of possessing a wearer. Walker resisted its possession and once had a pleasant conversation with the spirit inside.",
+        "Sylan suspects it is part of an armor set whose other pieces may hold more of the soul.",
+        "Under the lantern's light it was coated in whitish ectoplasm and emitted incoherent wailing.",
+        "The fragment was the 'aftertaste of a tortured soul', identified as Grixto. Sylan extracted it.",
+        "After extraction the helm is colder, its metal has shifted, its ectoplasm is gone, and it feels as though it has lost something."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-10-06T21:10:41.965Z",
-  "updatedAt": "2026-10-21T19:56:11.935Z"
+  "updatedAt": "2026-11-10T15:43:46.779Z"
 }

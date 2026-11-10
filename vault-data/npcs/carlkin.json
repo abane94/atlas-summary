@@ -1,7 +1,8 @@
 {
   "name": "Carlkin",
   "tags": [
-    "alchemy"
+    "alchemy",
+    "vendor"
   ],
   "slug": "Carlkin is a turtle-like person believed to be back in Langdale.",
   "aliases": [],
@@ -93,6 +94,13 @@
         "He reported yesterday's extradimensional door to Sheriff Haldor: a hell portal, also described as a tentacle-spewing portal, in the commons, and that Gerk fixed the floor. He filed charges Haldor has not yet interpreted. Haldor says most of the stronghold hooligans file is Carlkin and calls him grumpy in a way that matches Gerk's account.",
         "Sylan thinks he may be badly hung over. Gerk thinks Carlkin wants the party arrested. That claim is not tested in these scenes."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Carlkin tested the helm using his Soul identifier bag, then gave the bag to the party. Carlkin is the turtle-like shopkeeper in New Navel.",
+      "notes": [
+        "Tested the helm with his Soul identifier bag and gave the bag to the party."
+      ]
     }
   ],
   "openQuestions": [
@@ -100,5 +108,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:22:15.911Z",
-  "updatedAt": "2026-10-21T19:57:35.562Z"
+  "updatedAt": "2026-11-10T15:43:49.043Z"
 }

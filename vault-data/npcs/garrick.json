@@ -1,0 +1,29 @@
+{
+  "name": "Garrick",
+  "tags": [],
+  "slug": "A figure contacted through a helm who may have been the party's first foe.",
+  "aliases": [],
+  "normalizedAliases": [
+    "garrick"
+  ],
+  "filename": "npcs/garrick.md",
+  "description": "Garrick is a figure the party knows, whom Walker has spoken with through a helm. He seemed different during that earlier conversation than he does now.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-11-09",
+      "summary": "Walker recalled a pleasant earlier conversation with Garrick through the helm, but noted that Garrick seemed different then from the Garrick the party knows now. Walker also suspects that the first foe the party fought was Garrick himself. Sylan pointed out that this foe cast spells.",
+      "notes": [
+        "Walker previously spoke with Garrick through the helm in a pleasant conversation, though Garrick seemed different then from how the party knows him now.",
+        "Walker believes the first foe the party fought was Garrick himself; Sylan notes that foe cast spells."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "Was the first foe truly Garrick, or someone possessed through the helm?",
+    "How does Garrick relate to the Grixto fragment extracted from the helm?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-11-10T15:43:54.239Z",
+  "updatedAt": "2026-11-10T15:43:54.239Z"
+}

@@ -1,0 +1,153 @@
+{
+    "plotSections": [
+        {
+            "title": "Stronghold Gathering",
+            "bullets": [
+                "The party regroups at Langdale Stronghold as Mahali finishes a pork-inspired stew dinner, with Ponchi helping in the kitchen and Gerk pulverizing white tubers in a bucket.",
+                "Ord and Ciri come up from the basement, where Ord has taken on a new roommate: Moxie, a semi-sentient beaver-like creature (a 'beaverine'), which Ord has told to hunt outside the keep.",
+                "Koji, Bo, and the stone mill mercenaries are holed up in the guard house on their usual patrol-day routine.",
+                "Sylan still holds the fused lantern-staff and wants to continue practicing with it."
+            ]
+        },
+        {
+            "title": "Lich Hunt and the Helm",
+            "bullets": [
+                "The DM reminds the party they still have a lich to find and a phylactery to deal with; Ciri suggests destroying the phylactery right away.",
+                "Walker reports that the helm examined with Carlkin is not the phylactery, but it holds a small bit of soul, which he describes as an echo of the lich's soul; Ciri and Sylan suspect he is not telling everything.",
+                "Walker begins asking whether Carlkin gave them the bag."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan arrives at the stronghold as Ciri and Ord come up from the basement.",
+        "Ord announces his new roommate Moxie, a semi-sentient beaverine he fed with Ciri and told to hunt outside the keep; Ponchi also lives with it.",
+        "Mahali nears completion of a pork stew dinner, with Ponchi and Gerk helping.",
+        "Sylan confirms he still has the fused lantern-staff and wants to keep practicing with it.",
+        "The DM reminds the party of the lich and phylactery they must find.",
+        "Walker says the helm is not the phylactery but contains a soul echo of the lich.",
+        "Walker asks whether Carlkin gave the party the bag."
+    ],
+    "entities": {
+        "Moxie": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Semi-sentient beaver-like creature ('beaverine') living in the stronghold basement.",
+                "Ord's new roommate; also lives with Ponchi.",
+                "Ord and Ciri fed it; Ord told it to hunt outside the keep.",
+                "Sylan asked whether Moxie might be a spy; Ord does not think so."
+            ],
+            "titles": [
+                "Ord's roommate"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine.",
+            "entityType": "ITEM",
+            "notes": [
+                "Walker states the helm is not the lich's phylactery.",
+                "Contains a small bit of soul, described as an echo of the lich's soul."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"It's got a little bit of soul in it... nothing to be concerned about.\" - Walker"
+            ],
+            "openQuestions": [
+                "Is Walker telling the full truth about the helm?"
+            ]
+        },
+        "Ponchi": {
+            "existing": "A stronghold guard.",
+            "entityType": "NPC",
+            "notes": [
+                "Helps Mahali prepare dinner, cutting vegetables.",
+                "Lives with Moxie in the basement."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Fused lantern-staff": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Still in Sylan's possession; Ord has not taken it back.",
+                "Sylan wants to continue practicing with it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "boxes",
+            "likely": "Moxie",
+            "notes": "\"I don't think boxes use a spy\""
+        },
+        {
+            "heard": "abiva",
+            "likely": "beaver",
+            "notes": "Referring to Moxie"
+        },
+        {
+            "heard": "Yapanchi",
+            "likely": "Ponchi",
+            "notes": "Lives with Moxie"
+        },
+        {
+            "heard": "Archie",
+            "likely": "Ponchi",
+            "notes": "Lives with Moxie"
+        },
+        {
+            "heard": "Harris",
+            "likely": "Aris",
+            "notes": "Ord's player; Moxie lives in his room"
+        },
+        {
+            "heard": "philatory",
+            "likely": "phylactery",
+            "notes": ""
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": "Recurring ASR error for phylactery"
+        },
+        {
+            "heard": "Wolver Ever",
+            "likely": "wolverine",
+            "notes": "Part of 'beaverine' joke"
+        },
+        {
+            "heard": "stone mill mercenaries",
+            "likely": "",
+            "notes": "Mercenary group at guard house; confirm name"
+        }
+    ],
+    "openQuestions": [
+        "Did Carlkin give the party the bag?",
+        "Where is the lich's phylactery?"
+    ],
+    "newTerms": [
+        {
+            "name": "Beaverine",
+            "notes": [
+                "Semi-sentient beaver/wolverine-like creature type; Moxie's species."
+            ]
+        },
+        {
+            "name": "Stone mill mercenaries",
+            "notes": [
+                "Mercenaries stationed in the stronghold guard house with Koji and Bo."
+            ]
+        }
+    ]
+}

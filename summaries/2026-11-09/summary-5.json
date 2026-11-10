@@ -1,0 +1,170 @@
+{
+    "plotSections": [
+        {
+            "title": "Kitchen Talk on the Nature of Gods",
+            "bullets": [
+                "In the stronghold kitchen, an NPC voiced by the DM (likely Mahali, the party's elder-god chef) explains to Walker that divinity is built on belief: a single person believing doesn't make someone a god, but a million believers make that belief tangible, the same way belief shifts when a tyrant king is overthrown.",
+                "Killing a god is incredibly difficult because you are really killing the belief in them; you must degrade both the god's physical being and its followers, a nasty process spanning many lifetimes, which is why the gods' games are long and arduous.",
+                "Gods don't go around announcing themselves, or they attract hangers-on.",
+                "Walker claims his questions are just curiosity; the NPC puts him to work chopping carrots and potatoes and has Gerk 'mash' a bucket of raw potatoes, which Gerk does by punching the bucket apart."
+            ]
+        },
+        {
+            "title": "Moxie in Ord's Quarters",
+            "bullets": [
+                "Ord (with Ciri lingering cautiously behind) enters his 20x20 living quarters (three bunk beds, two tables, crates) and hears something scurry away.",
+                "A shallow hole in the floor marks where Ponchi started digging a hot tub before stopping; his pickaxe, hammer, maul and metal chisel lie nearby.",
+                "In the far right corner sits a roughly three-foot-tall beaver-dam-like nest built largely from a cannibalized third bunk bed, with a door-like opening and a crude handmade sign reading 'Moxie'.",
+                "After hissing from inside, a successful animal handling check with food coaxes out Moxie: a bipedal, foot-and-a-half-tall creature like a mix of a beaver (like Mr. Beaver from Narnia) and a wolverine, with amber semi-feline eyes, thick blackish-brown fur, a wide shaggy flat tail that comes to a point, and articulate four-digit hands (thumb plus three) with weasel-like pads.",
+                "Ord says he's a friend of Ponchi; Moxie chirps, whistles, and repeats 'Ponchi, hungry, hungry', scoops the food off Ord's hand with paddle-shaped hands, then bounces demanding 'more, more, more'. Ord calls Ciri to bring the scrap bucket, and she gently nudges it toward the creature."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The DM's NPC (likely Mahali) explains to Walker that gods are sustained by belief and that killing one means destroying both its body and its followers over many lifetimes.",
+        "The NPC notes gods don't reveal themselves to avoid hangers-on, and asks why Walker is asking; Walker says it's curiosity.",
+        "Walker is given carrots and potatoes to chop; Gerk is given a bucket of raw potatoes to mash and punches it, bucket and all, to bits.",
+        "Ord enters his quarters cautiously with Ciri behind and finds Ponchi's unfinished hot tub hole and a nest labeled 'Moxie'.",
+        "Ord coaxes Moxie out with food via an animal handling check.",
+        "Moxie eats from Ord's hand, repeating 'Ponchi, hungry' and asking for more; Ord has Ciri bring the scrap bucket."
+    ],
+    "entities": {
+        "Mahali": {
+            "existing": "Elder god serving as the party's chef at the stronghold.",
+            "entityType": "NPC",
+            "notes": [
+                "Likely the speaker (voiced by the DM) in the kitchen scene; explains that gods are made tangible by mass belief and are killed by destroying both body and followers over many lifetimes.",
+                "Says gods don't announce themselves to avoid hangers-on.",
+                "Puts Walker to work chopping vegetables and has Gerk mash raw potatoes."
+            ],
+            "titles": [],
+            "personality": [
+                "Speaks in teacherly riddles: 'we don't point out the obvious; you must come to it on your own.'",
+                "Practical and a bit wry, putting guests to work."
+            ],
+            "quotesThemes": [
+                "Imagine that belief, but a million strong.",
+                "You must not only degrade the physical being of the god, but also the followers.",
+                "We don't go around telling people that we're gods. Otherwise we get hangers on."
+            ],
+            "openQuestions": [
+                "Asked Walker what particular reason he had for asking about gods."
+            ]
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Questioned the chef NPC about what makes a god and how gods can be killed; claimed it was just curiosity.",
+                "Helped chop carrots and potatoes in the kitchen."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian.",
+            "entityType": "PLAYER",
+            "notes": [
+                "'Mashed' a bucket of raw potatoes by punching it, smashing the bucket as well."
+            ],
+            "titles": [],
+            "personality": [
+                "Happily takes on brute-force tasks."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ponchi": {
+            "existing": "Stronghold guard who will relocate to the tavern.",
+            "entityType": "NPC",
+            "notes": [
+                "Began digging a hot tub in the middle of Ord's quarters (a couple inches deep and wide) and abandoned it, leaving a pickaxe, large hammer, maul and metal chisel.",
+                "Linked to Moxie, who repeats his name; Ord claimed Ponchi sent him with food."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Moxie": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Small bipedal creature, about 1.5 ft tall, living in a nest in Ord's quarters built from a cannibalized bunk bed and labeled 'Moxie'.",
+                "Looks like a cross between a beaver (like Mr. Beaver from Narnia) and a wolverine: thick blackish-brown fur, wide shaggy flat pointed tail, amber semi-feline eyes, articulate four-digit hands with weasel-like pads.",
+                "Can speak a few words ('Ponchi', 'hungry', 'more'), and also hisses, whistles, and chirps like a sparrow.",
+                "Eats greedily but in a controlled way, scooping food with paddle-shaped hands."
+            ],
+            "titles": [],
+            "personality": [
+                "Suspicious and hissing at first, quickly won over by food."
+            ],
+            "quotesThemes": [
+                "Ponchi, hungry, hungry... more, more, more."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Discovered Moxie's nest in his quarters and befriended the creature with food via an animal handling check."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ciri": {
+            "existing": "Half-elf rogue.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Hung back warily as Ord investigated Moxie, then brought the scrap bucket over."
+            ],
+            "titles": [],
+            "personality": [
+                "Curious, but not curious enough to be the one who figures out what the creature is."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Panchy",
+            "likely": "Ponchi",
+            "notes": "Moxie saying Ponchi's name."
+        },
+        {
+            "heard": "Panchi",
+            "likely": "Ponchi",
+            "notes": "Ord repeating the name."
+        },
+        {
+            "heard": "paunchy",
+            "likely": "Ponchi",
+            "notes": "Moxie repeating the name."
+        },
+        {
+            "heard": "Moxiri",
+            "likely": "Moxie",
+            "notes": "Ord calling to Moxie."
+        },
+        {
+            "heard": "Si Ciri",
+            "likely": "Ciri",
+            "notes": ""
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Moxie",
+            "notes": [
+                "Small talking beaver/wolverine-like creature nesting in Ord's quarters, connected to Ponchi."
+            ]
+        }
+    ]
+}

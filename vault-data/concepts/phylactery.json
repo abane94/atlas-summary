@@ -59,6 +59,16 @@
         "Carlkin's bag treats a real phylactery as something that would burst fully into flame and might cause a stronger magical reaction. Trace soul magic only smolders the bag and can ride along with other enchantments.",
         "The helm fails that test. Carlkin says it is definitely not a phylactery."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Per the table, a phylactery must be an object rather than a creature, normally one that held importance to the mage before becoming a lich. The lich's phylactery remains unfound; the helm, the eagle troop marker, and the keystone have all been ruled out. The party wonders whether a phylactery can be fragmented, for example across a set of armor, and suspects it may be a mundane item, possibly already in their own inventories.",
+      "notes": [
+        "Per the table, it must be an object rather than a creature, normally one that held importance to the mage before becoming a lich.",
+        "The lich's phylactery remains unfound. The helm, the eagle troop marker, and the keystone have been ruled out.",
+        "The party wonders whether a phylactery can be fragmented, for example across a set of armor.",
+        "The party suspects it may be a mundane item, possibly already in their own inventories."
+      ]
     }
   ],
   "openQuestions": [
@@ -66,5 +76,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:18:44.879Z",
-  "updatedAt": "2026-10-21T19:56:37.375Z"
+  "updatedAt": "2026-11-10T15:43:49.821Z"
 }

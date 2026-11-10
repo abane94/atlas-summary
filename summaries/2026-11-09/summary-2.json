@@ -1,0 +1,172 @@
+{
+    "plotSections": [
+        {
+            "title": "Regrouping at the Stronghold",
+            "bullets": [
+                "The party regroups at Langdale Stronghold over dinner as planned. Walker yells for Ord by his full name, Ord Tholomew Bronze Tan, and Ord makes his way to the kitchen.",
+                "Mahali (also called Moradin) cooks dinner. He asks Walker to fetch his roommate to help dice vegetables, then teases the party for yelling when they have a magic communication stone. Gerk argues the family should not rely on magic so much.",
+                "Mahali gives Gerk a Macintosh apple. Gerk says he does not like apples and shares his knowledge of apple grafting."
+            ]
+        },
+        {
+            "title": "Mahali's Godhood",
+            "bullets": [
+                "Mahali describes himself as a small deity. He says becoming a god was not a conscious choice: first a few believed in him, then more, then many, and that is when he claimed his domain.",
+                "His domain is hearth, home, and craftsmanship, depending on his current followers. He does not fight over the dead the way other gods do.",
+                "He explains that a god needs followers who truly believe, calling it a weird loophole of the universe and a technicality. He says gods love technicalities more than anyone.",
+                "He begins to explain the Weave to Walker, who says he was never taught it."
+            ]
+        },
+        {
+            "title": "Moxie",
+            "bullets": [
+                "Mahali reveals a new 'roommate' named Moxie. The hot tub plan in the roommates' quarters failed because poor ventilation let steam warp the bunk beds, and Moxie was found afterward.",
+                "Moxie looks like a wolverine mixed with a beaver. It eats anything, nibbles fingers a little, and almost talks, which is why it counts as a roommate rather than a pet.",
+                "Ord takes a scrap bucket downstairs to feed Moxie."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker calls Ord to the kitchen using his full name, Ord Tholomew Bronze Tan.",
+        "Mahali asks for help with the vegetables and reminds Walker of his magical communication device; Gerk argues for less reliance on magic.",
+        "Mahali gives Gerk an apple; Gerk dislikes apples and talks about apple grafting.",
+        "Mahali explains that he became a small deity through growing belief, and that his domain is hearth, home, and craftsmanship.",
+        "Mahali begins explaining the Weave to Walker.",
+        "Mahali reveals the new roommate Moxie and the failed hot tub.",
+        "Ord goes downstairs to feed Moxie."
+    ],
+    "entities": {
+        "Mahali": {
+            "existing": "Elder god serving as the party's chef at the stronghold",
+            "entityType": "NPC",
+            "notes": [
+                "Calls himself a small deity.",
+                "Became a god unintentionally as belief in him grew from a few people to many, then claimed his domain.",
+                "Domain: hearth, home, and craftsmanship, which varies with his followers.",
+                "Does not fight over the dead like other gods.",
+                "Says gods must have followers who truly believe in them, a loophole of the universe.",
+                "Keeps a few gardens he tends sometimes.",
+                "Is addressed as Moradin, apparently an alternate name.",
+                "Shares quarters with Ord and has acquired a new roommate, Moxie.",
+                "Claims to be a Tanooki."
+            ],
+            "titles": [
+                "Small deity",
+                "Moradin"
+            ],
+            "personality": [
+                "Jovial and teasing.",
+                "Mentions gardening and cooking."
+            ],
+            "quotesThemes": [
+                "If there's one group of individuals that like technicalities more than anyone, it is gods."
+            ],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin, Gatekeeper of Feldspar",
+            "entityType": "PLAYER",
+            "notes": [
+                "Full name given as Ord Tholomew Bronze Tan.",
+                "Roommate of Mahali.",
+                "Sent to feed Moxie."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian",
+            "entityType": "PLAYER",
+            "notes": [
+                "Argues the party is a family and should not rely on magic stones to communicate.",
+                "Dislikes apples."
+            ],
+            "titles": [],
+            "personality": [
+                "Prefers face-to-face contact with family."
+            ],
+            "quotesThemes": [
+                "What if I want to see a beautiful face?"
+            ],
+            "openQuestions": []
+        },
+        "Moxie": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "New roommate of Mahali and Ord, kept downstairs.",
+                "Looks like a wolverine mixed with a beaver.",
+                "Eats anything and nibbles fingers.",
+                "Almost talks, so it is considered a roommate rather than a pet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What exactly is Moxie?"
+            ]
+        },
+        "The Weave": {
+            "existing": "The magical network around everything",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Mahali describes it as a term summarizing what magic is."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Maxie",
+            "likely": "Moxie",
+            "notes": "Name of the new creature roommate."
+        },
+        {
+            "heard": "maxi",
+            "likely": "Moxie",
+            "notes": "Name of the new creature roommate."
+        },
+        {
+            "heard": "Aud",
+            "likely": "Ord",
+            "notes": ""
+        },
+        {
+            "heard": "weavies",
+            "likely": "Weave",
+            "notes": ""
+        },
+        {
+            "heard": "eye stone",
+            "likely": "Sending Stone",
+            "notes": "The magic communication rock Walker and Ord reference."
+        },
+        {
+            "heard": "moradin",
+            "likely": "Moradin",
+            "notes": "Possibly an alternate name for Mahali; needs confirmation."
+        }
+    ],
+    "openQuestions": [
+        "What exactly is Moxie?"
+    ],
+    "newTerms": [
+        {
+            "name": "Moxie",
+            "notes": [
+                "Creature that looks like a wolverine-beaver hybrid and lives as a roommate in the stronghold."
+            ]
+        },
+        {
+            "name": "Moradin",
+            "notes": [
+                "Name used to address Mahali; possibly an alias."
+            ]
+        }
+    ]
+}

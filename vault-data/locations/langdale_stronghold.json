@@ -54,12 +54,23 @@
         "On the morning of the eighth day the weather is surprisingly brisk and fall seems to be coming in. Thunder and lightning sound in the distance as Walker's group arrives. The people at the keep have had no in-game contact from Walker.",
         "Sylan believes about twenty people currently live in the keep. One of the party's maps marks those people; another does not."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "The party returned to Langdale Stronghold to regroup and decide on their next destination. This session detailed more of the stronghold's layout. A basement dock port leads underwater out to a portcullis, and Moxie keeps a hovel there. Basement bunk quarters are shared by Ord, Ponchi, and Moxie. A guard house is used by Koji, Bo, and the stone mill mercenaries. The interior is too small for Araden, while Glimmen can only fit through the front door and the Great Hall.",
+      "notes": [
+        "The party has returned here to regroup and decide their next destination.",
+        "Has a basement dock port leading underwater out to a portcullis; Moxie has a hovel there.",
+        "Has basement bunk quarters shared by Ord, Ponchi, and Moxie.",
+        "Has a guard house used by Koji, Bo, and the stone mill mercenaries.",
+        "Too small inside for Araden. Glimmen fits only through the front door and great hall."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T17:23:29.829Z",
-  "updatedAt": "2026-10-19T20:27:50.739Z",
+  "updatedAt": "2026-11-10T15:43:45.130Z",
   "normalizedAliases": [
     "langdale stronghold",
     "stronghold",

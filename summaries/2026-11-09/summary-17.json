@@ -1,0 +1,189 @@
+{
+    "plotSections": [
+        {
+            "title": "The Lantern's Ethereal Veil at the Stronghold",
+            "bullets": [
+                "The activated lantern overlays the stronghold with a hazy, semi-three-dimensional mix of the party's world and another dimension, reminiscent of the realm Sylan enters with his sword but only glanced into; everyone inside the stronghold can see it.",
+                "When Sylan opens the door to rejoin the party, the door frame collapses into impenetrable blackness and Sylan appears as a faint silvery outline made of shadows and hard silver lines; an unrecognizable spirit standing outside the door is pulled into him with a howl, seen only by Sylan.",
+                "This activation feels different from the last: purely silent and dewy rather than a mix of two experiences.",
+                "Sylan confirms that spirits are drawn into him by proximity, like a magnet, without needing touch (including the six souls in town and the one at the door)."
+            ],
+            "bullets_note": []
+        },
+        {
+            "title": "The Soul Fragment in Walker's Helm",
+            "bullets": [
+                "Sylan sees damp, wisp-like ectoplasm clinging to Walker's helm; under the focused lantern light it gives only a wordless wail, described as the aftertaste of a tortured soul, related to but much weaker than the tortured souls Sylan met in Nyx and Gilbrick.",
+                "With Walker's consent, Sylan pulls the fragment out; Walker passes a Wisdom save (15, plus 4 from Ord's aura = 19).",
+                "Walker and Sylan share a vision: a young, physically prime hobgoblin Grixto (the Emperor as Walker saw him) walks through Walker, stops beside Sylan, gives Walker a curt, respectful nod in silence, then dissolves into Sylan.",
+                "Afterward the helm grows colder, the metal shifts and settles, and it feels like it has lost something; the ectoplasm is gone.",
+                "Dana freezes at the table, staring between the helm and Sylan, lips moving soundlessly."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The lantern's activation overlays the stronghold with a hazy dual-dimension view visible to everyone inside.",
+        "Sylan opens the door; the frame collapses into blackness and a spirit outside is drawn into him with a howl.",
+        "Sylan returns as a silvery, shadowy outline; Walker can see and hear him.",
+        "Sylan spots ectoplasm on Walker's helm; Walker sets the helm on the table.",
+        "Sylan focuses the lantern on the helm, which gives a wordless wail like the aftertaste of a tortured soul.",
+        "Dana freezes, staring between the helm and Sylan, mouthing silently.",
+        "Sylan extracts the fragment; Walker succeeds on a Wisdom save with Ord's aura.",
+        "Walker and Sylan share a vision of young Grixto nodding respectfully to Walker before dissolving into Sylan.",
+        "The helm grows colder and feels diminished; the ectoplasm is gone.",
+        "Sylan scans the room for more souls; Dana remains deathly pale and muttering."
+    ],
+    "entities": {
+        "Sylan": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "While the lantern is active, Sylan appears as a semi-transparent silvery outline of shadows and hard silver lines, trailing shadowy wisps.",
+                "Spirits are drawn into him by proximity like a magnet; no touch is required.",
+                "Absorbed a spirit standing outside the stronghold door, which only he witnessed.",
+                "Extracted a Grixto soul fragment from Walker's helm; the fragment dissolved into him."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats soul collecting as his job, joking about a nine-to-five."
+            ],
+            "quotesThemes": [
+                "\"Have a job after all. Nine to five.\""
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "His helm carried a soul fragment of Grixto; he passed the Wisdom save during extraction and shared the vision of young Grixto, who nodded respectfully to him."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Calls the ectoplasm \"soul goo.\""
+            ],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Freezes and goes deathly white upon seeing the helm and the extraction, mouthing words silently and appearing to recognize something."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Is distressed in the lantern's ethereal state, feeling angry, scared, and alone; he cowers in the back."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Ord's aura granted Walker +4 on the Wisdom save within 30 feet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Grixto": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "A soul fragment of Grixto lingered in Walker's helm.",
+                "In the vision he appears as a young, spry hobgoblin in his prime, the Emperor as Walker saw him; he nods respectfully to Walker before dissolving into Sylan."
+            ],
+            "titles": [
+                "The Emperor"
+            ],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helm": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Was coated in ectoplasm from a soul fragment that wailed under the lantern's light.",
+                "After extraction it is colder, its metal has shifted, and it feels as though it has lost something."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Fused lantern-staff": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Square medieval lantern lit on all sides; its activation overlays the stronghold with a hazy view of another dimension, resembling Sylan's sword realm but only glanced into.",
+                "Doors opened while it is active collapse into blackness.",
+                "Focusing its light on an object reveals residual souls."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Silenzy",
+            "likely": "Sylan",
+            "notes": "DM addressing Dana about Sylan"
+        },
+        {
+            "heard": "Silence",
+            "likely": "Sylan",
+            "notes": "DM narration"
+        },
+        {
+            "heard": "syllaon",
+            "likely": "Sylan",
+            "notes": ""
+        },
+        {
+            "heard": "Waka",
+            "likely": "Walker",
+            "notes": ""
+        },
+        {
+            "heard": "garquet",
+            "likely": "Gerk",
+            "notes": ""
+        },
+        {
+            "heard": "no war",
+            "likely": "noir",
+            "notes": "the lantern's noir-like world"
+        },
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": "Dana glancing between the helm and Sylan"
+        }
+    ],
+    "openQuestions": [
+        "What did Dana recognize in the helm and the extraction that left her frozen?"
+    ],
+    "newTerms": [
+        {
+            "name": "Soul goo",
+            "notes": [
+                "Walker's name for the ectoplasmic residue of a soul fragment, visible under the lantern."
+            ]
+        }
+    ]
+}

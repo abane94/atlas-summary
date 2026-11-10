@@ -1,0 +1,161 @@
+{
+    "plotSections": [
+        {
+            "title": "Mahali on the Weave, Ley Lines, and Gods",
+            "bullets": [
+                "While preparing dinner and lavender tea in the stronghold kitchen, Mahali explains magic to Walker, with Gerk and Ponchi present. The Weave is an interconnected magical field, or sea, whose strings can be pulled; some areas of it are more powerful than others.",
+                "Mahali says the stronger areas are ley lines, which enhance magical abilities. Ley lines can also be created through a dangerous magical misalignment that makes a whole new line of magic.",
+                "Each type of caster draws on the Weave differently: wizards through study, ingredients, and incantations; sorcerers by birth; bards through their voices; and druids by their own means.",
+                "According to Mahali, deities form from the interaction of the Weave with belief. Loved kings and queens are not gods because only their own people believe in them, and not always even those people. A god has belief on the scale of millions.",
+                "Killing a god is extremely difficult because you must kill the belief in them. You have to degrade both the god's physical being and their followers, a process that takes many lifetimes.",
+                "Mahali says gods don't tell people they are gods, otherwise they get hangers-on. Mahali asked Walker why he wanted to know; Walker said it was only curiosity.",
+                "Mahali tested Walker by asking whether he would trust Gerk beyond all else in the darkest hour. Walker answered yes after a long hesitation."
+            ]
+        },
+        {
+            "title": "Moxie",
+            "bullets": [
+                "Ord enters Ponchi's living quarters, with Ciri peeking around the corner. Something scurries away and hides as they open the door.",
+                "The room is 20 by 20 feet, with three bunk beds, two tables, and crates. In the middle of the floor is a shallow hole where Ponchi started digging a hot tub, along with a pickaxe, a hammer, a maul, and a metal chisel.",
+                "In the far right corner is a 3-foot-tall nest, like a beaver lodge, built from a cannibalized bunk bed. It has a doorway hole and a handmade sign reading \"Moxie.\"",
+                "Moxie hisses from inside the nest. Two amber, semi-feline eyes about 18 inches off the ground stare back at Ord as he offers food scraps, and an Animal Handling check is called."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party is in the stronghold while Mahali prepares dinner. Ponchi has mentioned Moxie, his roommate.",
+        "Dana goes to her tower. Ciri and Ord head to Ponchi's quarters, while Gerk and Walker stay in the kitchen with Mahali and Ponchi.",
+        "Mahali explains the Weave, ley lines, and how gods arise from belief.",
+        "Mahali questions Walker's trust in Gerk; Walker answers yes after a long hesitation.",
+        "Mahali has Walker chop carrots and potatoes and has Gerk mash raw potatoes; Gerk punches them in a bucket, partly breaking it.",
+        "Ord enters Ponchi's quarters and finds the hot tub hole and Moxie's nest.",
+        "Moxie hisses at Ord. Ord offers food scraps and is asked for an Animal Handling check."
+    ],
+    "entities": {
+        "Mahali": {
+            "existing": "Elder god serving as the party's chef",
+            "entityType": "NPC",
+            "notes": [
+                "Prepared lavender tea and dinner, and had Walker and Gerk help cook.",
+                "Explained the Weave, ley lines, and how belief creates deities.",
+                "Implied he hides his godhood, saying gods don't tell people they are gods or they get hangers-on."
+            ],
+            "titles": [],
+            "personality": [
+                "Professorial and teasing; believes in theoretical talk you must come to conclusions on your own.",
+                "Questioned Walker's motives for asking about gods."
+            ],
+            "quotesThemes": [
+                "\"We don't go around telling people that we're gods. Otherwise we get hangers on.\"",
+                "Killing a god means killing the belief in them."
+            ],
+            "openQuestions": []
+        },
+        "Ponchi": {
+            "existing": "Stronghold guard",
+            "entityType": "NPC",
+            "notes": [
+                "Helps Mahali cut vegetables.",
+                "Moxie is his roommate.",
+                "Started digging a hot tub in the floor of his quarters, then stopped."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Asked Mahali how belief and the Weave make gods, saying it was only curiosity.",
+                "Hesitated before saying he would trust Gerk beyond all else."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ley line": {
+            "existing": "Lines of magic that gatehouses sit on",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Stronger areas of the Weave that enhance magical abilities.",
+                "Can be created through dangerous magical misalignment."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "The Weave": {
+            "existing": "The magical network around everything",
+            "entityType": "CONCEPT",
+            "notes": [
+                "An interconnected magical field or sea whose strings casters pull on.",
+                "Each caster type accesses it differently: wizards by study, sorcerers by birth, bards by voice, and druids by their own means.",
+                "Combined with belief, it forms deities."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Moxie": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Ponchi's roommate, which bites, and whose sex is unknown.",
+                "Looks like a mix between a beaver and a wolverine, with amber, semi-feline eyes and stands about 18 inches tall.",
+                "Built a 3-foot nest from a cannibalized bunk bed in Ponchi's quarters, marked with a handmade \"Moxie\" sign.",
+                "Hissed at Ord."
+            ],
+            "titles": [],
+            "personality": [
+                "Skittish and defensive."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What exactly is Moxie, and is it sentient?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Maholly",
+            "likely": "Mahali",
+            "notes": ""
+        },
+        {
+            "heard": "Ponji",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "Panji",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "Gerkia",
+            "likely": "Gerk",
+            "notes": ""
+        },
+        {
+            "heard": "Moxiri",
+            "likely": "Moxie",
+            "notes": "Likely \"Moxie, you in there\""
+        }
+    ],
+    "openQuestions": [
+        "What is Moxie?"
+    ],
+    "newTerms": [
+        {
+            "name": "Moxie",
+            "notes": [
+                "Ponchi's biting, beaver-wolverine-like roommate that nests in his quarters."
+            ]
+        }
+    ]
+}

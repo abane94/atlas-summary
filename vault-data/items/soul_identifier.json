@@ -1,7 +1,8 @@
 {
   "name": "Soul identifier",
   "tags": [
-    "alchemy"
+    "alchemy",
+    "artifact"
   ],
   "slug": "Carlkin's reagent for a finer reading of an object's spiritual residue.",
   "aliases": [],
@@ -19,10 +20,21 @@
         "A reagent Carlkin mixes in a mortar, combines with a brackish pond-like liquid, and shakes until clear in a two-to-three-ounce vial.",
         "He says it is similar to his soul-magic bag and gives a finer reading of what an object is. One drop on the helm beads and sticks where it lands instead of running off. Read with a magnifying glass, it shows spiritual residue."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Carlkin gave the party a small bag that looks like a bag of holding, also called the phylactery tester or phylactery finder (both working titles). A true phylactery placed inside bursts into flames immediately, while an object carrying only soul residue smolders slightly. Walker carries it. In testing, the helm smoldered, and the eagle troop marker and the keystone showed no reaction. Sylan believes it will not run out of power.",
+      "notes": [
+        "A small bag resembling a bag of holding, given to the party by Carlkin. Also called the phylactery tester or phylactery finder, which are working titles.",
+        "A true phylactery placed inside bursts into flames immediately. An object with only soul residue smolders slightly.",
+        "Carried by Walker.",
+        "The helm smoldered in it; the eagle troop marker and the keystone showed no reaction.",
+        "Sylan believes it will not run out of power."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-10-21T20:08:55.366Z",
-  "updatedAt": "2026-10-21T20:08:55.366Z"
+  "updatedAt": "2026-11-10T15:43:46.906Z"
 }

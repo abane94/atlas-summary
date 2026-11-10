@@ -14,6 +14,7 @@
     "test": "node --test lib/**/*.test.ts"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^1.7.0",
     "yaml": "^2.9.1"
   },
   "devDependencies": {

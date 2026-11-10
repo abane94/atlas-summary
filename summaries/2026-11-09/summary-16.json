@@ -1,0 +1,154 @@
+{
+    "plotSections": [
+        {
+            "title": "Activating the Fused Lantern-Staff at the Stronghold",
+            "bullets": [
+                "Dana examines the fused lantern-staff and finds it a fairly typical magical item on superficial inspection; the frame of the lantern bears scrawled inscriptions in an archaic/arcane script.",
+                "Remembering that the last activation caused a vortex in the sky and blinded Gerk, Sylan retreats alone to his room in Langdale Stronghold to activate it, with Dana asking him to close the blinds.",
+                "Sylan sheathes his sword, holds the staff like a banner, and recites the activation incantation (a Green Lantern-style oath ending in \"Lantern keeper's light\"), closing his eyes on the fourth line as Ord did previously.",
+                "The whole stronghold goes 'noir': color drains slowly toward Sylan, shadows deepen, lights gain contrast, and the air turns chilly. Sylan perceives a hazy overlay of his world and another dimension, like a glimpse into his sword's spirit realm.",
+                "When Sylan opens his door, the frame collapses into impenetrable blackness and a howling, unrecognizable soul standing outside the door is sucked into him; only Sylan sees this. The others see Sylan as a semi-transparent, ghostly figure of shadows and hard silver lines.",
+                "Unlike the previous activation's mixed experience, this one is purely silent and 'dewy'."
+            ]
+        },
+        {
+            "title": "Spirit Residue on Walker's Helm",
+            "bullets": [
+                "As Sylan approaches Walker, he sees wisps of whitish ectoplasm, gelatinous yet blowing like damp cloth, clinging to Walker's helm (dubbed 'soul goo' by Walker).",
+                "Walker sets the helm on the table and Sylan focuses the lantern's light on it, asking 'Who are you?'. The helm emits only incoherent wailing.",
+                "Sylan compares it to the creatures that wailed when he tried to take their souls in Nyx/Gilbrick; the DM says that was drastically different, though similar in the sense of interacting with the same kind of thing.",
+                "Dana freezes stock-still, staring at the helm."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Dana inspects the lantern-staff and notes the arcane-script inscriptions on the lantern frame.",
+        "Sylan moves to his room to activate it, keeping his sword put away.",
+        "Sylan recites the lantern oath and closes his eyes; the stronghold turns grayscale and cold.",
+        "Opening his door, Sylan sucks in a howling soul; others see him as a silver spectral outline.",
+        "Sylan spots ectoplasm on Walker's helm; Walker places it on the table.",
+        "Sylan focuses the lantern on the helm and asks who it is; it only wails.",
+        "Dana freezes, staring at the helm."
+    ],
+    "entities": {
+        "Fused lantern-staff": {
+            "existing": "Fused lantern and staff that reveals the Ethereal Plane and draws nearby spirits when the active staff is held.",
+            "entityType": "ITEM",
+            "notes": [
+                "Square medieval-style lantern on a cane/staff, open on all sides.",
+                "Archaic/arcane script inscriptions are scrawled along the lantern frame.",
+                "Activated by a four-line oath ending 'Lantern keeper's light'; Ord previously closed his eyes on activation.",
+                "Activation turns the surrounding area grayscale and cold, color drawn toward the holder; holder becomes a silver spectral outline seen by others.",
+                "Opening a door while active turned the frame into blackness and sucked a nearby soul into Sylan.",
+                "Can be focused on an object to reveal spirit residue and prompt a response."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"In brightest day and darkest night... No evil shall escape my sight... Lantern keeper's light.\""
+            ],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue and Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Activated the lantern-staff alone in his room; absorbed a howling soul and appeared as a silver spectral figure.",
+                "Experience resembled glancing into his sword's spirit realm, but purely silent rather than mixed."
+            ],
+            "titles": [],
+            "personality": [
+                "Enthusiastic about the ghostly effects ('Love it. My job.')"
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine by appointment once a comrade returns.",
+            "entityType": "ITEM",
+            "notes": [
+                "Belongs to/carried by Walker.",
+                "Wisps of whitish ectoplasm cling to it under the lantern's light.",
+                "Emits incoherent wailing when the lantern is focused on it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "'Soul goo' (Walker)"
+            ],
+            "openQuestions": [
+                "Who or what is the wailing presence in the helm?"
+            ]
+        },
+        "Dana": {
+            "existing": "Half-elf cleric.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Judged the lantern-staff a typical magic item at a glance.",
+                "Froze stock-still staring at the helm when its spirit residue appeared."
+            ],
+            "titles": [],
+            "personality": [
+                "Cautious; asked Sylan to close the blinds."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Why did Dana freeze at the sight of the helm?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "newir",
+            "likely": "noir",
+            "notes": "DM describing the grayscale effect"
+        },
+        {
+            "heard": "syllaon",
+            "likely": "Sylan",
+            "notes": ""
+        },
+        {
+            "heard": "Waka",
+            "likely": "Walker",
+            "notes": ""
+        },
+        {
+            "heard": "garquet",
+            "likely": "Gerk",
+            "notes": ""
+        },
+        {
+            "heard": "skirks",
+            "likely": "Gerk's",
+            "notes": ""
+        },
+        {
+            "heard": "Green Lane",
+            "likely": "Green Lantern",
+            "notes": "Lantern oath reference"
+        },
+        {
+            "heard": "dewy",
+            "likely": "",
+            "notes": "DM describing the singular quality of the activation; possibly 'duality' negated or 'eerie'"
+        }
+    ],
+    "openQuestions": [
+        "What is the wailing presence on Walker's helm?"
+    ],
+    "newTerms": [
+        {
+            "name": "Lantern keeper's oath",
+            "notes": [
+                "Four-line Green Lantern-style incantation used to activate the fused lantern-staff, ending 'Lantern keeper's light'."
+            ]
+        },
+        {
+            "name": "Soul goo",
+            "notes": [
+                "Whitish ectoplasm residue revealed by the lantern clinging to Walker's helm."
+            ]
+        }
+    ]
+}

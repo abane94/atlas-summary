@@ -29,10 +29,18 @@
         "Walker believes this piece is only half of a pair. He thinks the counterpart is at Vecna's former palace in Nyx, the headquarters with the big red wall.",
         "Dana distinguishes it from the helm: Walker has not had the eagle the whole time, while he has been wearing the helm continuously."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "The hunched eagle marker is now understood to be a troop marker or troop identifier rather than a chess piece. Walker brought it back from Grixto's hideout and currently holds it. The party tested it in the Soul identifier, and it came back clean, showing no phylactery or soul fragment, so it has been crossed off the list.",
+      "notes": [
+        "A troop marker or troop identifier rather than a chess piece, brought back by Walker from Grixto's hideout. Walker holds it.",
+        "Tested in the Soul identifier and came back clean, with no phylactery or soul fragment. It has been crossed off the list."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-10-06T21:13:01.953Z",
-  "updatedAt": "2026-10-21T19:53:13.988Z"
+  "updatedAt": "2026-11-10T15:43:49.516Z"
 }

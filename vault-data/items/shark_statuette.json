@@ -1,0 +1,25 @@
+{
+  "name": "Shark statuette",
+  "tags": [],
+  "slug": "A statuette that becomes a living shark at a magic word, now in Gerk's possession.",
+  "aliases": [],
+  "normalizedAliases": [
+    "shark statuette"
+  ],
+  "filename": "items/shark_statuette.md",
+  "description": "A shark statuette that transforms into a real shark when activated with a magic word.",
+  "type": "ITEM",
+  "log": [
+    {
+      "date": "2026-11-09",
+      "summary": "Activated with its magic word, the statuette turned into a real shark. It is now held by Gerk.",
+      "notes": [
+        "A statuette that turned into a real shark when activated with a magic word. Gerk now holds it."
+      ]
+    }
+  ],
+  "openQuestions": [],
+  "linkTargets": [],
+  "createdAt": "2026-11-10T15:43:54.500Z",
+  "updatedAt": "2026-11-10T15:43:54.500Z"
+}

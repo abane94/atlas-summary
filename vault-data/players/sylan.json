@@ -185,6 +185,25 @@
         "He is unsure whether Walker ever explained the emperor conversation to the party. He asks whether the sister's soul is still in the skin book and gets no answer.",
         "Returning from the sword-realm leaves rocks on his feet. Haldor remembers him as Gerk's short elven friend, whose sword looks large because he is small, and confirms Sylan has not pulled in any of the party. Haldor treats the spirit-taking as a change."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Sylan holds the fused lantern-staff that Ord gave him and wants to keep practicing with it. Activating it alone in his room, he appeared as a semi-transparent silvery outline of shadows and hard silver lines trailing shadowy wisps, an experience like glancing into his sword's spirit realm but entirely silent. Spirits are drawn into him by proximity like a magnet, without touch; he absorbed a howling spirit outside the stronghold door that only he witnessed. He proposed using his sword's soul-cutting ability or the lantern-staff to extract the soul from the helm, theorized that a phylactery could be split across a set of armor, and has an ability or item that can stop a possession. He extracted a soul fragment of Grixto from Walker's helm; it dissolved into him as shadows gathered and then dissipated. He plans to consult the Raven Queen about the vision, suspects the tokens of blind eye speech may block his spirit-sight, and asked whether Moxie might be a spy. He also carries a fancy gold bar of unknown origin and a broken longsword from the crashed skyship in the swamp.",
+      "notes": [
+        "Holds the fused lantern-staff, which Ord gave him, and wants to keep practicing with it.",
+        "Activated the lantern-staff alone in his room. While it is active he appears as a semi-transparent silvery outline of shadows and hard silver lines, trailing shadowy wisps.",
+        "The experience resembled glancing into his sword's spirit realm, but was purely silent.",
+        "Spirits are drawn into him by proximity, like a magnet, without any touch. He absorbed a howling spirit standing outside the stronghold door, which only he witnessed.",
+        "Proposed using his sword's soul-cutting ability or the lantern-staff to extract the soul from the helm.",
+        "Theorized that a phylactery could be split across a set of armor.",
+        "Has an ability or item that can stop a possession.",
+        "Extracted a soul fragment of Grixto from Walker's helm. The fragment dissolved into him, and shadows gathered around him before dissipating.",
+        "Plans to consult the Raven Queen about the vision.",
+        "Suspects the tokens of blind eye speech may block his spirit-sight.",
+        "Asked whether Moxie might be a spy.",
+        "Carries a fancy gold bar of unknown origin.",
+        "Carries a broken longsword from the crashed skyship in the swamp."
+      ]
     }
   ],
   "openQuestions": [
@@ -194,7 +213,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:02:08.336Z",
-  "updatedAt": "2026-10-21T19:40:51.910Z",
+  "updatedAt": "2026-11-10T15:43:38.970Z",
   "normalizedAliases": [
     "sylan"
   ]

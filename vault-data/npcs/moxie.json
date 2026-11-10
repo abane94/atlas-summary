@@ -1,0 +1,39 @@
+{
+  "name": "Moxie",
+  "tags": [
+    "companion"
+  ],
+  "slug": "A semi-sentient amphibious beaverine who joined the stronghold staff and adopted Ord as its handler.",
+  "aliases": [],
+  "normalizedAliases": [
+    "moxie"
+  ],
+  "filename": "npcs/moxie.md",
+  "description": "Moxie is a semi-sentient, amphibious, bipedal 'beaverine' about 1.5 ft tall, resembling a cross between a beaver and a wolverine, with thick blackish-brown fur, a wide shaggy flat tail that comes to a point, and amber semi-feline eyes. Each hand has four articulate digits (a thumb plus three) with weasel-like pads; its sex is uncertain. It serves as stronghold staff, nests in the basement quarters as a roommate to Ponchi and Ord, and also keeps a hovel by the basement dock port. It speaks only a few broken, repeated words ('Ponchi', 'hungry', 'more', 'hunt') and otherwise hisses, whistles, and chirps like a sparrow. It eats almost anything, scooping food greedily but in a controlled way with its paddle-like hands.",
+  "type": "NPC",
+  "log": [
+    {
+      "date": "2026-11-09",
+      "summary": "Moxie joined the stronghold as staff through a stronghold-expansion dice roll. It built a 3-foot nest from a cannibalized bunk bed in the basement quarters, labeled it with a handmade 'Moxie' sign, and also set up a hovel by the basement dock port, leaving by swimming underwater toward the portcullis. It hissed at **Ord** at first but was won over when Ord and **Ciri** fed it, whistling as it ate and nibbling fingers. It now calls Ord 'handler' and offered to hunt for him. Ord told it to hunt only outside the keep and to respect the keep's spaces. Because it almost talks, the group treats it as a roommate rather than a pet.",
+      "notes": [
+        "A semi-sentient, amphibious, bipedal 'beaverine', about 1.5 ft tall. Gained as stronghold staff through a stronghold-expansion dice roll.",
+        "Looks like a cross between a beaver (like Mr. Beaver from Narnia) and a wolverine. It has thick blackish-brown fur, a wide, shaggy, flat tail that comes to a point, and amber semi-feline eyes.",
+        "Each hand has four articulate digits (a thumb plus three) with weasel-like pads. Its sex is uncertain.",
+        "Built a 3-foot nest from a cannibalized bunk bed in the basement quarters and labeled it with a handmade 'Moxie' sign. It is roommate to Ponchi and Ord.",
+        "Also keeps a hovel by the stronghold's basement dock port, and leaves by swimming underwater toward the portcullis.",
+        "Speaks a few broken, repeated words ('Ponchi', 'hungry', 'more', 'hunt'). It also hisses, whistles, and chirps like a sparrow.",
+        "Eats almost anything, including scraps, and nibbles fingers. It eats greedily but in a controlled way, scooping food with its paddle-like hands and whistling while it eats.",
+        "Hissed at Ord at first, then was won over when Ord and Ciri fed it.",
+        "Calls Ord 'handler' and offered to hunt for him. Ord told it to hunt only outside the keep and to respect the keep's spaces.",
+        "Is considered a roommate rather than a pet because it almost talks."
+      ]
+    }
+  ],
+  "openQuestions": [
+    "What exactly is Moxie, and how sentient is it?",
+    "Could Moxie be a spy?"
+  ],
+  "linkTargets": [],
+  "createdAt": "2026-11-10T15:43:57.203Z",
+  "updatedAt": "2026-11-10T15:43:57.203Z"
+}

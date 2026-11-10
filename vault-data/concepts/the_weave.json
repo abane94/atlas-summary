@@ -16,10 +16,19 @@
       "notes": [
         "The magical network around everything. Using energy produces a brief flash in which the surrounding magic can be seen. Ley lines are dense concentrations of it. Elrus treats it as basic knowledge Walker should already have."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Mahali describes the Weave as a term summarizing what magic is: an interconnected magical field or sea whose strings casters pull on. Each type of caster accesses it differently: wizards through study, ingredients, and incantations; sorcerers by being born with it; bards through their voices; and druids by their own means. When combined with belief, the Weave forms deities.",
+      "notes": [
+        "Mahali describes it as a term summarizing what magic is: an interconnected magical field or sea whose strings casters pull on.",
+        "Each caster type accesses it differently. Wizards use study, ingredients, and incantations; sorcerers are born with it; bards use their voices; druids have their own means.",
+        "Combined with belief, it forms deities."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-10-06T21:11:09.658Z",
-  "updatedAt": "2026-10-06T21:11:09.658Z"
+  "updatedAt": "2026-11-10T15:43:42.065Z"
 }

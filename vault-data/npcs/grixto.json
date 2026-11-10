@@ -77,6 +77,15 @@
         "Sylan warns that if he senses his phylactery destroyed he can make another before they find him. Walker wants a phylactery destroyed only when they have eyes on its owner.",
         "Walker hopes the helm's soul fragment can be used to track him. That question is unanswered, and Sylan is not at the lighthouse to help."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "A soul fragment of Grixto had lingered in Walker's helm. During the extraction vision, the fragment appeared as a young, spry hobgoblin in his prime: 'the Emperor' of his cult's heyday, as Walker had once seen him. The fragment nodded respectfully to Walker before dissolving into Sylan.",
+      "notes": [
+        "A soul fragment of Grixto lingered in Walker's helm.",
+        "In the extraction vision he appeared as a young, spry hobgoblin in his prime: 'the Emperor' of his cult's heyday, as Walker had seen him.",
+        "The fragment nodded respectfully to Walker, then dissolved into Sylan."
+      ]
     }
   ],
   "openQuestions": [
@@ -90,5 +99,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-21T18:10:14.833Z",
-  "updatedAt": "2026-10-21T19:59:25.765Z"
+  "updatedAt": "2026-11-10T15:43:51.046Z"
 }

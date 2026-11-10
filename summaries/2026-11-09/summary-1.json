@@ -1,0 +1,144 @@
+{
+    "plotSections": [
+        {
+            "title": "Evening Regroup at the Stronghold",
+            "bullets": [
+                "One day after the party's forest endeavor with Ord's magic and the staff/lantern, the party regroups over dinner at the stronghold, where Mahali is preparing the evening meal; Ord has given the fused lantern-staff to Sylan, who wanted to do something with it.",
+                "Mahali judges the pork flank too tough for a roast and is turning it into a stew, and he wants Ponchi to dice onions and vegetables for it.",
+                "Mahali has been teaching Ponchi, the raccoon-like guard, to cook, but gems sometimes turn up in Ponchi's buns. The largest was thumb-sized, and Mahali threw it out the window.",
+                "Walker bluntly asks Mahali whether he became a god or was born one. Mahali calls it a long question and delays answering while he gets tea going and arranges for Ponchi's help.",
+                "Walker loudly summons Ord, Ponchi's bunkhouse roommate, to fetch Ponchi. Mahali points out Walker could have used his magical communication device instead. Gerk argues the family shouldn't rely on magic so much."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Evening, one day after the forest endeavor: the party gathers as Mahali prepares dinner in the small stronghold kitchen.",
+        "Ord confirms he gave the fused lantern-staff to Sylan.",
+        "Walker sits at the kitchen plating station and asks Mahali whether he became a god or was born one.",
+        "Mahali defers the question and asks for Ponchi to chop vegetables for a pork stew, mentioning that gems appear in Ponchi's buns.",
+        "Walker yells for Ord (playfully called 'Ord Tholomew Bronze Tan'), Ponchi's roommate in the bunkhouse, to fetch Ponchi.",
+        "Mahali reminds Walker of his magic communication item. Gerk says the family shouldn't rely on magic, and Mahali hands Gerk an apple, which he dislikes.",
+        "Mahali repeats that he is a small deity who doesn't do grafting, says apples are more his kin's domain, and mentions that he tends a few gardens."
+    ],
+    "entities": {
+        "Mahali": {
+            "existing": "Elder god serving as the party's stronghold chef",
+            "entityType": "NPC",
+            "notes": [
+                "Was asked by Walker whether he became a god or was born one; he called it a very long question and had not answered by the end of the chunk.",
+                "Describes himself as a 'small deity'; says apples and grafting are more his kin's domain, though he tends a few gardens.",
+                "Has been teaching Ponchi to cook in the interim.",
+                "Turned a too-tough pork flank into a stew."
+            ],
+            "titles": [
+                "Small deity"
+            ],
+            "personality": [
+                "Hospitable and fussy about tea and cooking",
+                "Deflects personal questions"
+            ],
+            "quotesThemes": [
+                "\"We haven't even had any tea yet.\""
+            ],
+            "openQuestions": [
+                "Did Mahali become a god or was he born one?"
+            ]
+        },
+        "Ponchi": {
+            "existing": "Stronghold guard",
+            "entityType": "NPC",
+            "notes": [
+                "Raccoon-like in appearance.",
+                "Is learning to cook from Mahali; gems sometimes end up in his buns, the largest thumb-sized.",
+                "Rooms with Ord in the bunkhouse below."
+            ],
+            "titles": [],
+            "personality": [
+                "Seems to enjoy cooking"
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin",
+            "entityType": "PLAYER",
+            "notes": [
+                "Full name given as Ord Bronzetan (heard as 'Brontan'); he has no middle name, and Walker jokingly called him 'Ord Tholomew Bronze Tan'.",
+                "Sleeps in the bunkhouse below and is Ponchi's roommate.",
+                "Gave the fused lantern-staff to Sylan."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Fused lantern-staff": {
+            "existing": "Fused lantern and staff revealing the Ethereal Plane",
+            "entityType": "ITEM",
+            "notes": [
+                "Now in Sylan's possession; Ord gave it to him because Sylan wanted to do something with it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Gerk": {
+            "existing": "Half-orc barbarian",
+            "entityType": "PLAYER",
+            "notes": [
+                "Argues the party is a family and shouldn't rely on magic, such as sending stones, so much.",
+                "Dislikes apples."
+            ],
+            "titles": [],
+            "personality": [
+                "Values family and in-person contact"
+            ],
+            "quotesThemes": [
+                "\"We should not rely on magic so much. We're a family.\""
+            ],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Ponchy",
+            "likely": "Ponchi",
+            "notes": "Raccoon-like guard"
+        },
+        {
+            "heard": "Panchi",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "pache",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "Brontan",
+            "likely": "Bronzetan",
+            "notes": "Ord's surname, also heard as 'Bronze Tan'"
+        },
+        {
+            "heard": "Brahms",
+            "likely": "Bronzetan",
+            "notes": "Ord's surname"
+        },
+        {
+            "heard": "eye stone",
+            "likely": "Sending Stone",
+            "notes": "Magic communication rock"
+        },
+        {
+            "heard": "light bringer",
+            "likely": "",
+            "notes": "Possibly the name of the staff fused with the lantern"
+        }
+    ],
+    "openQuestions": [
+        "Did Mahali become a god or was he born one?"
+    ],
+    "newTerms": []
+}

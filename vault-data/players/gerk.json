@@ -188,6 +188,18 @@
         "Haldor forbids doors in town and tells him to keep commotion outside town. Gerk jokes that he will use only windows, and Haldor shuts the joke down. Gerk understands the order as staying out of town and keeping his dragon friend away from the ghosts.",
         "He thinks Carlkin wants the party arrested. That is not confirmed. Carlkin separately forbids him from ever wearing the emperor's helm, because a minor soul fragment would be dangerous in a feeble-minded wearer and because the helm is the emperor's. Sylan agrees he should not wear it."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Gerk argued that the party is a family and should not rely on magic such as sending stones to communicate with one another. He revealed a dislike of apples and 'mashed' a bucket of raw potatoes by punching it, smashing the bucket in the process. He holds the shark statuette. While in the lantern's ethereal state, Gerk was deeply distressed, feeling angry, scared, and alone, and cowered in the back. Covered in potato paste, he screamed at Sylan throughout the extraction before finally falling silent.",
+      "notes": [
+        "Argues the party is a family and should not rely on magic, such as sending stones, to communicate.",
+        "Dislikes apples.",
+        "'Mashed' a bucket of raw potatoes by punching it, smashing the bucket as well.",
+        "Holds the shark statuette.",
+        "Was distressed in the lantern's ethereal state, feeling angry, scared, and alone, and cowered in the back.",
+        "Covered in potato paste, he screamed at Sylan throughout the extraction, then stopped."
+      ]
     }
   ],
   "openQuestions": [
@@ -200,7 +212,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:01:01.004Z",
-  "updatedAt": "2026-10-21T19:46:09.638Z",
+  "updatedAt": "2026-11-10T15:43:41.959Z",
   "normalizedAliases": [
     "gerk"
   ]

@@ -1,0 +1,184 @@
+{
+    "plotSections": [
+        {
+            "title": "The Helm and Its Soul Residue",
+            "bullets": [
+                "Walker reports that the helm from Carlkin's shop is not a phylactery, though Sylan and Ciri jokingly doubt him.",
+                "Carlkin gave the party his phylactery-testing bag (working title \"phylactery tester\"), which looks like a bag of holding. A true phylactery placed inside burns immediately. The helm only smoldered slightly, so it holds just a little soul residue.",
+                "Walker confirms the soul fragment belongs to the lich the party is hunting, but describes it as an echo or imprint rather than a true piece of his soul.",
+                "Sylan offers to cut the soul out using his sword's abnormal soul-cutting ability.",
+                "Sylan theorizes that the helm may be one piece of a set. The lich's other armor pieces might hold the rest of the soul or be the actual phylactery."
+            ]
+        },
+        {
+            "title": "Life at the Stronghold",
+            "bullets": [
+                "Araden is too large to fit in Langdale Stronghold and lounges at the foot of it with an inventory of books. Glimmen can only fit through the front door and great hall area, so she spends her time chatting with Araden.",
+                "About a dozen village children have taken to gathering near the two dragons, who half pay attention to them.",
+                "Mahali announces that dinner is almost ready, with the first course out in five minutes, and banters about soul food, boiled birch leaves, and orc versus elf cooking."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan, who had been wandering town, asks how the helm check went. Walker says it is not a phylactery.",
+        "Ciri suggests destroying the 'factory' (likely the phylactery) right away.",
+        "Walker explains that the helm has a little soul in it, but nothing to be concerned about.",
+        "Mahali banters with Gerk about soul food and birch leaves and announces that the first course will be out in five minutes.",
+        "Walker confirms the soul echo belongs to the lich and explains how Carlkin's phylactery tester bag works: the helm only smoldered.",
+        "Sylan proposes using his sword to cut out and extract the soul fragment.",
+        "Sylan asks where Walker's dragon rider friend is. The DM describes Araden and Glimmen at the foot of the stronghold with village children gathered around them.",
+        "Sylan theorizes that the helm is one piece of an armor set that may hold the rest of the soul or the phylactery."
+    ],
+    "entities": {
+        "Helm": {
+            "existing": "A helm Carlkin agreed to examine.",
+            "entityType": "ITEM",
+            "notes": [
+                "Not a phylactery, but it carries a small soul residue or echo of the lich, which Walker calls 'soul goo'.",
+                "The helm only smoldered slightly in Carlkin's phylactery tester bag.",
+                "Sylan suspects the helm is part of an armor set whose other pieces may hold more of the soul."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "\"It's got a little bit of soul in it... nothing to be concerned about.\" - Walker"
+            ],
+            "openQuestions": [
+                "Is the helm part of a set whose other pieces hold the rest of the lich's soul or the phylactery?",
+                "Should the party extract the soul fragment from the helm?"
+            ]
+        },
+        "Phylactery tester": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A bag from Carlkin that resembles a bag of holding; 'phylactery tester' is a working title.",
+                "A true phylactery placed inside starts to burn immediately, while an object with only soul residue smolders slightly."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan's sword": {
+            "existing": "Opens a gray spirit field and pulls spirits.",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan believes the sword can cut souls in an abnormal way and offers to use it to extract the soul from the helm."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Araden": {
+            "existing": "Magically capable companion.",
+            "entityType": "NPC",
+            "notes": [
+                "Araden is a dragon, too large to comfortably fit inside the stronghold.",
+                "He lounges at the foot of Langdale Stronghold with a large inventory of books, chatting with Glimmen.",
+                "About a dozen village children gather near him."
+            ],
+            "titles": [],
+            "personality": [
+                "Leisurely and bookish."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Glimmen": {
+            "existing": "Walker's mind-linked dragon.",
+            "entityType": "NPC",
+            "notes": [
+                "She can only fit through the stronghold's front door and great hall area, so she spends her time with Araden at the foot of the stronghold.",
+                "Village children gather around her."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mahali": {
+            "existing": "Elder god and the party's chef.",
+            "entityType": "NPC",
+            "notes": [
+                "Announces that dinner is nearly ready, with the first course out in five minutes.",
+                "Banters with Gerk that anyone can cook soul food and mentions birch-leaf tea, which has mild hallucinogenic properties."
+            ],
+            "titles": [],
+            "personality": [
+                "Playful and opinionated about food, with mild disdain for elvish cooking."
+            ],
+            "quotesThemes": [
+                "\"Anyone can cook.\""
+            ],
+            "openQuestions": []
+        },
+        "Carlkin": {
+            "existing": "Turtle-like shopkeeper in New Navel.",
+            "entityType": "NPC",
+            "notes": [
+                "Tested the helm with his phylactery tester bag and gave the bag to the party."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "philatory",
+            "likely": "phylactery",
+            "notes": ""
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": "Spoken by Ciri and Sylan"
+        },
+        {
+            "heard": "Silaris",
+            "likely": "Elrus",
+            "notes": "Sylan says 'Silaris is with us'"
+        },
+        {
+            "heard": "Alaris",
+            "likely": "Elrus",
+            "notes": ""
+        },
+        {
+            "heard": "Ellis",
+            "likely": "Elrus",
+            "notes": ""
+        },
+        {
+            "heard": "Arcard",
+            "likely": "Walker",
+            "notes": "Sylan addressing Walker"
+        },
+        {
+            "heard": "L Cyrus",
+            "likely": "Elrus",
+            "notes": ""
+        }
+    ],
+    "openQuestions": [
+        "Does the rest of the lich's armor hold the remainder of his soul or the phylactery?",
+        "Should the soul residue be extracted from the helm with Sylan's sword?"
+    ],
+    "newTerms": [
+        {
+            "name": "Phylactery tester",
+            "notes": [
+                "Carlkin's bag that burns true phylacteries immediately and only smolders on objects with soul residue."
+            ]
+        },
+        {
+            "name": "Soul echo",
+            "notes": [
+                "A residual imprint of a soul left on an object, as on the lich's helm."
+            ]
+        }
+    ]
+}

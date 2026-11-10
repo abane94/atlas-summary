@@ -22,10 +22,18 @@
         "He calls it a bad place to leave spirits. The pull brings the raven emissary, who stops him from reclaiming spirits he had already sent on.",
         "Haldor knows the sword as the one that looks large because Sylan is small."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Sylan believes his sword can cut souls in an abnormal way, and he offered to use it to extract the soul from the helm. The sword's spirit realm resembles the ethereal view granted by the lantern-staff, though the lantern-staff's view is purely silent.",
+      "notes": [
+        "Sylan believes it can cut souls in an abnormal way, and offered to use it to extract the soul from the helm.",
+        "Its spirit realm resembles the lantern-staff's ethereal view, though that view is purely silent."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-10-21T20:05:03.935Z",
-  "updatedAt": "2026-10-21T20:05:03.935Z"
+  "updatedAt": "2026-11-10T15:43:46.443Z"
 }

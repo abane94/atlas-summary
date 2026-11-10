@@ -1,0 +1,216 @@
+{
+    "plotSections": [
+        {
+            "title": "Mahali on Becoming a God",
+            "bullets": [
+                "At dinner in Langdale Stronghold, Mahali (also called Moradin) explains to Walker that becoming a god was not a conscious choice: first a few believed in him, then more, then many, and at that point he claimed his domain.",
+                "Mahali's domain is hearth and home and craftsmanship, depending on which followers currently follow him; he says he does not fight over the dead like the other gods.",
+                "Godhood requires followers who truly believe in you; Mahali calls it a weird loophole of the universe and a technicality, adding that gods love technicalities.",
+                "Godhood comes from interaction with the Weave combined with belief. It is not done consciously.",
+                "Kings and queens are not gods because only their own citizens believe in them, and sometimes not even those, depending on alliances.",
+                "Mahali uses Gerk as an example, asking Walker whether he would trust Gerk beyond all else in the darkest hour. Walker hesitates noticeably, then says yes, and that he believes in any of his friends. Mahali and Ponchi tease him about the hesitation, and Mahali says he would believe in Gerk 'most of the time'."
+            ]
+        },
+        {
+            "title": "The Weave and Ley Lines",
+            "bullets": [
+                "Mahali explains the Weave to Walker, who was never taught it: it is a term for what magic is, an interconnected magical field or sea whose strings can be pulled.",
+                "Spellcasting draws on the Weave. Wizards learn to pull its strings through long study, ingredients and incantations; sorcerers are born with it; bards use their voices; druids use their own means.",
+                "Some areas of the Weave are more powerful than others. These are ley lines, which enhance magical abilities.",
+                "Ley lines can also be made, usually through a dangerous magical misalignment that creates a whole new line of magic."
+            ]
+        },
+        {
+            "title": "Moxie, the New Roommate",
+            "bullets": [
+                "Ponchi reveals that the guards' hot tub plan failed: poor ventilation caused steam to warp the bunk beds, so it was removed. Ponchi then found a new 'roommate' named Moxie.",
+                "Moxie looks like a wolverine crossed with a beaver, eats almost anything, bites (though supposedly only nibbles), and nearly talks, which is why it is a roommate rather than a pet.",
+                "Ponchi identifies himself as a Tanooki and says they are sentient individuals.",
+                "Ord takes a scrap bucket to the basement clubhouse to feed Moxie, and Ciri follows against her better judgement. Dana retires to her tower, while Gerk sits at the window listening to the conversation."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Walker asks Mahali how he became a god. Mahali explains that gradually growing belief let him claim his domain.",
+        "Mahali states his domain is hearth, home and craftsmanship, and that he doesn't fight over the dead.",
+        "Mahali begins explaining the Weave to Walker.",
+        "Ponchi arrives to help chop vegetables and sends Ord to feed Moxie, explaining the failed hot tub and the new roommate.",
+        "Ord heads to the basement with the scrap bucket, Ciri follows, and Dana goes to her tower.",
+        "Mahali brews lavender tea and explains the Weave, ley lines, and how belief combined with the Weave forms deities.",
+        "Mahali uses Gerk to illustrate belief. Walker hesitates before affirming that he trusts Gerk, and Mahali and Ponchi tease him.",
+        "Gerk remarks that he is fine as long as it's not math."
+    ],
+    "entities": {
+        "Mahali": {
+            "existing": "Elder god serving as the party's chef at the stronghold",
+            "entityType": "NPC",
+            "notes": [
+                "Also referred to as Moradin.",
+                "Became a god without a conscious choice, as belief in him grew from a few to many, after which he claimed his domain.",
+                "His domain is hearth and home and craftsmanship, depending on his current followers.",
+                "Does not fight over the dead the way other gods do.",
+                "Explained the Weave, ley lines, and that deities form from the Weave combined with belief.",
+                "Brewed lavender tea while preparing dinner."
+            ],
+            "titles": [
+                "God of hearth, home and craftsmanship"
+            ],
+            "personality": [
+                "Patient, roundabout explainer",
+                "Playfully teases Walker"
+            ],
+            "quotesThemes": [
+                "\"If there's one group of individuals that like technicalities more than [anyone], it is gods.\"",
+                "\"It's a whole kind of weird loophole of the universe.\""
+            ],
+            "openQuestions": []
+        },
+        "Ponchi": {
+            "existing": "Stronghold guard",
+            "entityType": "NPC",
+            "notes": [
+                "Is a Tanooki and says they are sentient individuals.",
+                "The guards' hot tub was removed after steam warped the bunk beds.",
+                "Found a creature, Moxie, and made it a roommate.",
+                "Helps Mahali chop vegetables."
+            ],
+            "titles": [],
+            "personality": [
+                "Jovial, teasing"
+            ],
+            "quotesThemes": [
+                "Says he would believe in Gerk \"most of the time.\""
+            ],
+            "openQuestions": []
+        },
+        "Moxie": {
+            "existing": "",
+            "entityType": "OTHER",
+            "otherEntityType": "Creature / roommate",
+            "notes": [
+                "New roommate of the stronghold guards, kept in the basement clubhouse.",
+                "Looks like a wolverine mixed with a beaver, and its sex is uncertain.",
+                "Eats almost anything, including scraps, and nibbles fingers.",
+                "Almost talks, so it is considered a roommate and not a pet."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is Moxie?"
+            ]
+        },
+        "The Weave": {
+            "existing": "The magical network around everything",
+            "entityType": "CONCEPT",
+            "notes": [
+                "An interconnected magical field or sea whose strings can be pulled.",
+                "Wizards use study, ingredients and incantations to draw on it, sorcerers are born with it, bards use their voices, and druids have their own means.",
+                "The Weave combined with belief forms deities."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ley line": {
+            "existing": "Lines of magic that gatehouses sit on",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The more powerful areas of the Weave, which enhance magical abilities.",
+                "Can be artificially created through a dangerous magical misalignment."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter",
+            "entityType": "PLAYER",
+            "notes": [
+                "Was never taught about the Weave.",
+                "Hesitated before saying he would trust Gerk beyond all else, then said he believes in all his friends."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Ponji",
+            "likely": "Ponchi",
+            "notes": "Stronghold guard"
+        },
+        {
+            "heard": "Panji",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "Bongy",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "Maholly",
+            "likely": "Mahali",
+            "notes": ""
+        },
+        {
+            "heard": "Maxie",
+            "likely": "Moxie",
+            "notes": "New creature roommate"
+        },
+        {
+            "heard": "weavies",
+            "likely": "the Weave",
+            "notes": ""
+        },
+        {
+            "heard": "the wave",
+            "likely": "the Weave",
+            "notes": ""
+        },
+        {
+            "heard": "Gerkia",
+            "likely": "Gerk",
+            "notes": ""
+        },
+        {
+            "heard": "Resbeka",
+            "likely": "",
+            "notes": "Unclear name said by Gerk"
+        },
+        {
+            "heard": "Aud",
+            "likely": "Ord",
+            "notes": ""
+        }
+    ],
+    "openQuestions": [
+        "What is Moxie?"
+    ],
+    "newTerms": [
+        {
+            "name": "Moxie",
+            "notes": [
+                "Near-talking wolverine and beaver creature kept as the guards' roommate in the basement."
+            ]
+        },
+        {
+            "name": "Tanooki",
+            "notes": [
+                "Ponchi's race, a sentient people."
+            ]
+        },
+        {
+            "name": "Moradin",
+            "notes": [
+                "Alternate name used for Mahali."
+            ]
+        }
+    ]
+}

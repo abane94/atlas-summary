@@ -33,10 +33,18 @@
         "A convergence on these lines was identified last session. Walker has found one near his dragonrider training. Elrus did not know and is startled.",
         "At the obelisk, the true line sits about a hundred yards off the marker. Plymouth and Elrus use that account when explaining how primal stones could be made there."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Ley lines are the stronger areas of the Weave, and they enhance magical abilities. They can also be created artificially through a dangerous magical misalignment. This builds on what was already known: gatehouses sit on these lines of magic.",
+      "notes": [
+        "The stronger areas of the Weave, which enhance magical abilities.",
+        "Can be created artificially through a dangerous magical misalignment."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-09-29T18:46:46.129Z",
-  "updatedAt": "2026-10-19T20:29:14.399Z"
+  "updatedAt": "2026-11-10T15:43:44.203Z"
 }

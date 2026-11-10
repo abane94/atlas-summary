@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-09",
+  "summary": "The party regroups over dinner at **Langdale Stronghold** a day after the forest endeavor. While Mahali cooks pork stew, Walker asks whether he was born a god or became one. Mahali explains he is a small deity of hearth, home, and craftsmanship, risen through gradually growing belief interacting with **the Weave** on a massive scale. He adds that killing a god means destroying both its body and its believers over lifetimes, and he describes the Weave and ley lines. He then puts Walker to chopping and has Gerk punch-mash raw potatoes, which turn out to be for tomorrow's breakfast hash. Ord and Ciri meet Ponchi's new roommate **Moxie**, a semi-sentient amphibious \"beaverine\" nesting in a cannibalized bunk bed beside the failed hot tub. Moxie calls Ord \"handler\" and swims off to hunt outside the keep. After dinner the party turns to the lich's **phylactery**. Carlkin's soul identifier showed the helm only smoldering, so it holds a soul echo still capable of possession but is not the phylactery. The hunched eagle marker tests clean, and inventories are reviewed (Ord's origami beetle, turquoise figurines, Sylan's gold bar and broken longsword) without finding it. Walker refuses to give up the helm. Sylan activates the **fused lantern-staff** in his room, draining the stronghold into a cold grayscale overlay with the spirit realm and drawing a nearby howling soul into himself. Spotting ectoplasm on the helm, he questions it and gets only wordless wailing, the aftertaste of a tortured soul, while Dana watches frozen. Walker consents to an extraction and passes a Wisdom save aided by Ord's aura. He and Sylan share a vision of a young **Grixto**, the Emperor, who nods respectfully to Walker before dissolving into Sylan. The helm grows colder and diminished. Walker complains his helm is ruined, and Sylan resolves to consult the Raven Queen.",
+  "plotSections": [
+    {
+      "title": "Evening Regroup at Langdale Stronghold",
+      "bullets": [
+        "The session opens one day after the party's forest endeavor with Ord's magic and the light-bringer staff. It is early evening at Langdale Stronghold, where the party regroups over dinner to decide where to go next.",
+        "Ord confirms he gave the fused lantern-staff to Sylan, who wanted to practice with it.",
+        "Mahali (also called Moradin) is cooking dinner. He judges the pork flank too tough for a roast and turns it into a stew.",
+        "Mahali has been teaching Ponchi, the raccoon-like Tanooki guard, to cook. Gems sometimes turn up in Ponchi's buns; the largest was thumb-sized, and Mahali threw it out the window.",
+        "Mahali wants Ponchi to dice onions and vegetables and asks for Ponchi's bunkhouse roommate, Ord, to fetch him.",
+        "Walker yells across the stronghold for Ord using his full name. It was given variously as Ord Brontan, with no middle name, and as Ord Tholomew Bronze Tan.",
+        "Mahali teases the party for yelling when they have a magic communication stone. Gerk argues the family should not rely on magic so much.",
+        "Mahali gives Gerk a Macintosh apple. Gerk says he does not like apples and shares his knowledge of apple grafting."
+      ]
+    },
+    {
+      "title": "Mahali on Gods, the Weave, and Ley Lines",
+      "bullets": [
+        "At the kitchen's plating station, Walker abruptly asks Mahali whether he became a god or was born one. Mahali calls it a long question and delays answering until tea (lavender) is started and Ponchi is helping.",
+        "Mahali describes himself as a small deity. He says becoming a god was not a conscious choice: first a few believed in him, then more, then many, and at that point he claimed his domain.",
+        "Mahali's domain is hearth, home, and craftsmanship, depending on his current followers. He does not fight over the dead the way other gods do.",
+        "Godhood comes from the interaction of the Weave with true belief on the scale of millions. Mahali calls it a weird loophole of the universe and a technicality, adding that gods love technicalities more than anyone.",
+        "Beloved kings and queens are not gods because only their own citizens believe in them, and sometimes not even those, depending on alliances. Belief shifts the same way when a tyrant king is overthrown.",
+        "Killing a god is extremely difficult because you must kill the belief in them. That means degrading both the god's physical being and their followers, a nasty process spanning many lifetimes, which is why the gods' games are long and arduous.",
+        "Gods don't announce themselves, or they attract hangers-on.",
+        "Mahali tests Walker by asking whether he would trust Gerk beyond all else in the darkest hour. Walker hesitates noticeably, then says yes, adding that he believes in any of his friends. Mahali and Ponchi tease him about the hesitation, and Mahali says he would believe in Gerk 'most of the time'.",
+        "Walker says he was never taught about the Weave, so Mahali explains it. The Weave is an interconnected magical field, or sea, whose strings can be pulled.",
+        "Each type of caster draws on the Weave differently. Wizards pull its strings through long study, ingredients, and incantations; sorcerers are born with it; bards use their voices; and druids use their own means.",
+        "Some areas of the Weave are more powerful than others. These are ley lines, which enhance magical abilities. Ley lines can also be created, usually through a dangerous magical misalignment that makes a whole new line of magic.",
+        "Walker claims his questions are just curiosity. Mahali puts him to work chopping carrots and potatoes and has Gerk 'mash' a bucket of raw potatoes, which Gerk does by punching it apart."
+      ]
+    },
+    {
+      "title": "Moxie, the New Roommate",
+      "bullets": [
+        "Ponchi reveals that the guards' hot tub plan failed: poor ventilation let steam warp the bunk beds, so it was abandoned. Afterward Ponchi found a new 'roommate' named Moxie, who counts as a roommate rather than a pet because she almost talks.",
+        "Ord takes a scrap bucket down to the basement quarters he shares with Ponchi to feed Moxie, and Ciri follows against her better judgement. Dana retires to her tower, while Gerk sits at the window listening.",
+        "The quarters are 20 by 20 feet, with three bunk beds, two tables, and crates. In the middle of the floor is a shallow, abandoned hot tub hole, with Ponchi's pickaxe, hammer, maul, and metal chisel lying nearby.",
+        "In the far right corner is a roughly 3-foot-tall beaver-lodge-like nest built from a cannibalized bunk bed. It has a doorway hole and a crude handmade sign reading 'Moxie'.",
+        "Moxie hisses from inside the nest, but a successful Animal Handling check with food coaxes her out.",
+        "Moxie is a 'beaverine': a foot-and-a-half-tall, bipedal, semi-sentient, amphibious creature built like Mr. Beaver from Narnia but colored like a wolverine. She has amber semi-feline eyes, thick blackish-brown fur, a wide, flat, shaggy tail that comes to a point, and paddle-like hands with four articulate digits (a thumb plus three) and weasel-like pads.",
+        "Moxie chirps and whistles like a small bird and speaks in broken repetitions ('Ponchi, hungry, hungry', 'more, more, more', 'hunt, hunt'). She nibbles fingers and eats almost anything.",
+        "Ciri brings the scrap bucket, and Moxie hauls it into her hovel, eating noisily by the handful.",
+        "Moxie calls Ord 'handler' and offers to hunt for him. Ord says she may do as she likes so long as she respects the keep, breaks nothing that isn't hers, and hunts only outside the castle.",
+        "Moxie dives into the keep's dock port and swims off underwater toward the portcullis. Ciri calls her a 'nice roommate', and Ord remarks that they need a bigger castle."
+      ]
+    },
+    {
+      "title": "Dinner at the Stronghold",
+      "bullets": [
+        "Ciri and Ord return to the kitchen to find Gerk fist-mashing the potatoes and Ponchi cutting vegetables. Sylan rejoins the party, teased as the 'Ghost Hoover 9000' for his spirit-pulling sword, and still holds the fused lantern-staff.",
+        "Koji, Bo, and the stone mill mercenaries are holed up in the guard house on their usual patrol-day routine.",
+        "Araden is too large to fit in the stronghold and lounges at its foot with his collection of books. Glimmen can only fit through the front door and great hall, so she spends her time chatting with him.",
+        "About a dozen village children have taken to gathering near the two dragons, who half pay attention to them.",
+        "Mahali banters about soul food, boiled birch leaves, and orc versus elf cooking. He serves summer cider, pork stew, and assorted desserts, then retires to the kitchen to prep breakfast.",
+        "Gerk's punched potatoes ('Gerk tubers') were not part of dinner; Mahali plans to shred them into a breakfast hash, and Gerk begins to suspect he was used.",
+        "After the meal, Ponchi sips from a small gourd flask and the guards leave for evening patrols."
+      ]
+    },
+    {
+      "title": "The Helm and the Phylactery Search",
+      "bullets": [
+        "The DM reminds the party they still have a lich to find, a phylactery to deal with, and a factory to handle. Ciri suggests destroying the phylactery right away.",
+        "Carlkin gave the party a soul identifier (working title 'phylactery tester'), a small bag resembling a bag of holding. A true phylactery placed inside bursts into flames immediately.",
+        "The helm from Carlkin's shop only smoldered, so it is not the phylactery. Ciri and Sylan jokingly doubt Walker is telling them everything.",
+        "The helm carries a soul fragment of the lich the party is hunting. Walker describes it as an echo or imprint rather than a true piece of the soul, yet it is still strong enough to possess a wearer. He likens it to a possessed doll from a B-rated horror film.",
+        "Sylan suggests the helm might be one piece of a set, with the lich's other armor holding the rest of the soul or the true phylactery. Walker believes phylacteries are single items.",
+        "Walker was the only one who looted the lich's body, and the keystone is ruled out as a candidate.",
+        "The DM recaps that, in the conversation with Carlkin about a month earlier, the party strongly suspected the phylactery was something they had with them. Its true location remains unknown.",
+        "Walker refuses to dispose of the helm or give it up. He has already resisted its possession once, considers it unsafe for anyone else, and will wear it himself.",
+        "The party realizes the phylactery could be a mundane item and checks their inventories. Gerk asks whether it could be a fly or a grain of sand; the table agrees it must be an object, usually one important to the mage before becoming a lich. They worry about checking every coin, though Sylan doubts they took coins from the lich fights.",
+        "The hunched eagle troop marker Walker brought back from Grixto's hideout was tested and came back clean, staying dormant longer than the helm without any reaction. It is crossed off the list.",
+        "Walker has nothing else that could have belonged to the 'emperor', and Dana's and Sylan's items mostly come from the white dragon's hoard.",
+        "Ord has a Helix medallion and an origami beetle possibly taken from someone's desk. The beetle may hold a message, and Ord begins inspecting it.",
+        "Ord's turquoise animal figurines likely came from the Sunder Chase and are unlikely candidates. Sylan recalls a shark statuette, now held by Gerk, that became a real shark when activated by a magic word, and suggests the figurines may work similarly if a command word is found.",
+        "Sylan has a fancy gold bar he knows nothing about and a broken longsword from the crashed skyship in the swamp."
+      ]
+    },
+    {
+      "title": "Preparing to Contact the Helm's Soul",
+      "bullets": [
+        "Walker has spoken with the helm's soul once before. He describes it as a pleasant conversation with Garrick, though not the Garrick the party knows now.",
+        "Walker believes the foe they first fought was truly Garrick and not someone possessed by the helm. Sylan agrees, since that foe cast spells.",
+        "Mahali discourages attempting contact before dinner, recommends it as a late-night endeavor, and wants to watch from the dining hall. Dana is to supervise.",
+        "Sylan offers magical protection against possession. Walker accepts only a little help, and Sylan pats him on the shoulder for luck."
+      ]
+    },
+    {
+      "title": "Activating the Fused Lantern-Staff",
+      "bullets": [
+        "Sylan proposes using the fused lantern-staff, which previously let Ord see souls attached to objects, to identify the soul attached to the helm.",
+        "Sylan asks Ord for the activation phrase (the 'Seeker passphrase'), but Ord's player cannot recall it immediately because his notes are not accessible.",
+        "Dana has neither Identify nor Detect Magic, so she inspects the staff with a strong Arcana check (22). It is a hardy wooden shepherd's crook with a lantern at the end, with a palpable magical presence and archaic arcane inscriptions scrawled along the lantern frame. On superficial inspection she judges it a fairly typical magical item.",
+        "Remembering that the last activation caused a vortex in the sky and blinded Gerk, Sylan goes alone to his room to activate it, and Dana asks him to close the blinds.",
+        "Sylan sheathes his sword and holds the staff like a banner. He makes a Raven Queen hand sign and recites a Green Lantern-style incantation ('In brightest day and darkest night... No evil shall escape my sight... Lantern keeper's light'), closing his eyes on the fourth line as Ord did before.",
+        "The whole stronghold turns noir-like: color drains slowly toward Sylan's room until nearly grayscale, shadows deepen, lights gain contrast, and everyone feels a sweater-weather chill.",
+        "Everyone inside sees a hazy, semi-three-dimensional overlay of their world and another dimension. It resembles the spirit realm Sylan enters with his sword, as if glimpsed rather than entered.",
+        "When Sylan opens his door, the frame collapses into impenetrable blackness. An unrecognizable, howling soul standing outside the door is sucked into him; only Sylan sees this. The others see Sylan as a semi-transparent, ghostly figure of shadows and hard silver lines.",
+        "Unlike the previous activation's mix of two experiences, this one is purely silent and 'dewy'.",
+        "The DM confirms that spirits are drawn into Sylan by proximity, like a magnet, with no touch needed. This includes the six souls in town and the one at the door."
+      ]
+    },
+    {
+      "title": "Extracting the Soul Fragment from the Helm",
+      "bullets": [
+        "Sylan sees wisps of whitish ectoplasm clinging to Walker's helm, gelatinous yet blowing like damp cloth. Walker dubs it 'soul goo'.",
+        "Walker sets the helm on the table, and Sylan focuses the lantern's light on it and asks 'Who are you?'. The helm gives only incoherent, wordless wailing.",
+        "Sylan identifies the residue as the 'aftertaste of a tortured soul'. It is related to, but much weaker than, the tortured souls he encountered in Nyx and Gilbrick; the DM says it is the same kind of thing but drastically different.",
+        "Dana sits frozen and wide-eyed, looking back and forth between the helm and Sylan and mouthing words soundlessly. Sylan throws her a pointed glance before starting.",
+        "Walker consents to the extraction, hoping it will yield useful information. He passes a Wisdom saving throw (15, raised to 19 by Ord's aura within 30 feet).",
+        "Walker and Sylan share a vision of a young, physically prime hobgoblin Grixto, 'the Emperor' as Walker knew him in his cult's heyday. Grixto walks through Walker, stops beside Sylan, gives Walker a curt, respectful nod in silence, and dissolves into Sylan.",
+        "Afterward the ectoplasm is gone. The helm is colder, its metal has shifted and settled, and it feels as though it has lost something."
+      ]
+    },
+    {
+      "title": "Aftermath",
+      "bullets": [
+        "Sylan searches the room and finds no other spirits or ectoplasm. He wonders whether the party's Tokens of blind eye speech might block him from seeing such traces on them, but nothing is detected.",
+        "Sylan switches off the lantern. The environment goes dead for a moment before the torches rewarm the stronghold, and shadows flutter, gather around Sylan, and dissipate.",
+        "Gerk, covered in potato paste, has been screaming at Sylan the whole time and finally stops.",
+        "Walker complains that Sylan ruined his helm. Sylan says he needs to speak with the Raven Queen to understand the vision and why Walker seemed to be carrying the Emperor with him."
+      ]
+    }
+  ],
+  "log": [
+    "Evening, one day after regrouping from the forest endeavor: the party gathers at the stronghold as Mahali prepares dinner in the small kitchen.",
+    "Ord confirms he gave the fused lantern-staff to Sylan.",
+    "Walker sits at the kitchen plating station and asks Mahali whether he became a god or was born one.",
+    "Mahali defers the question, mentions tea, and explains he has been teaching Ponchi to cook (gems sometimes appear in Ponchi's buns).",
+    "Mahali decides the tough pork flank will become a stew and asks for Ponchi to chop vegetables.",
+    "Walker yells for Ponchi's roommate Ord, using his full name, playfully 'Ord Tholomew Bronze Tan', to fetch Ponchi.",
+    "Mahali reminds Walker of his magical communication item; Gerk argues the family shouldn't rely on magic.",
+    "Mahali hands Gerk an apple; Gerk dislikes apples and talks about apple grafting. Mahali says he is a small deity who doesn't do grafting, that apples are more his kin's domain, and that he tends a few gardens.",
+    "Mahali explains that he became a small deity as gradually growing belief let him claim his domain: hearth, home, and craftsmanship. He doesn't fight over the dead.",
+    "Ponchi arrives to help chop vegetables and sends Ord to feed Moxie, explaining the failed hot tub and their new roommate.",
+    "Ord heads to the basement with the scrap bucket and Ciri follows; Dana goes to her tower. Gerk and Walker stay in the kitchen with Mahali and Ponchi.",
+    "Mahali brews lavender tea and explains the Weave, ley lines, and how belief combined with the Weave forms deities.",
+    "Mahali explains that gods are sustained by belief, and killing one means destroying both its body and its followers over many lifetimes. Gods don't reveal themselves to avoid hangers-on. Asked why he wants to know, Walker says it's curiosity.",
+    "Mahali uses Gerk to illustrate belief. Walker hesitates long before affirming that he trusts Gerk, and Mahali and Ponchi tease him. Gerk remarks that he is fine as long as it's not math.",
+    "Mahali has Walker chop carrots and potatoes and has Gerk mash a bucket of raw potatoes; Gerk punches them, partly breaking the bucket.",
+    "Ord enters his quarters cautiously with Ciri behind and finds Ponchi's unfinished hot tub hole and a nest labeled 'Moxie'.",
+    "Moxie, a semi-sentient beaver/wolverine-like 'beaverine', hisses at Ord. Ord offers food scraps and coaxes it out with an Animal Handling check.",
+    "Moxie eats from Ord's hand, repeating 'Ponchi, hungry' and asking for more; Ciri hands over the whole scrap bucket.",
+    "Moxie offers to hunt and calls Ord 'handler'. Ord sets rules: hunt outside the keep and respect the keep's spaces.",
+    "Moxie dives into the dock port and swims out toward the portcullis.",
+    "Ciri and Ord return to the kitchen, where Gerk is mashing potatoes and Ponchi and Mahali are nearly finished with the pork stew.",
+    "Sylan, who had been wandering town, arrives. Ord announces Moxie as his and Ponchi's new roommate.",
+    "Sylan confirms he still holds the fused lantern-staff and wants to keep practicing with it.",
+    "The DM reminds the party of the lich hunt, the phylactery they must find, and the factory. Ciri suggests destroying the 'factory' right away.",
+    "Sylan asks how the helm check went. Walker recounts that Carlkin's phylactery tester bag (Soul identifier) showed the helm only smoldering: it is not the phylactery but holds a soul echo of the lich, nothing to be concerned about.",
+    "Mahali banters with Gerk about soul food and birch leaves and announces the first course will be out in five minutes.",
+    "Sylan proposes cutting the soul fragment out with his sword and theorizes that the helm is one piece of an armor set that together may hold the rest of the soul or form the phylactery.",
+    "Sylan asks where Walker's dragon rider friend is; Araden and Glimmen are at the foot of the stronghold with village children gathered around them.",
+    "The party debates whether a phylactery can be fragmented, confirms Walker was the only looter, and rules out the keystone as a candidate.",
+    "The DM clarifies that the helm's soul echo can still possess a wearer. Walker claims the helm and will wear it, having already resisted its possession.",
+    "Mahali probes whether the helm could be put on someone else, teases Walker about how it clashes with his gold look, and recommends attempting contact after dinner.",
+    "Dinner is served; Gerk's potatoes are saved for a breakfast hash. Mahali retires to the kitchen for breakfast prep, and the guards leave on patrol.",
+    "Dinner ends; the party sits at the table as the candles burn down and prepares to attempt communication with the helm.",
+    "Sylan offers Walker magical fortitude against possession. Walker recounts his previous pleasant conversation with Garrick through the helm, believes the first foe fought was Garrick himself, and decides to proceed without extra protection.",
+    "Walker proposes testing suspicious items in the Soul identifier first; Ord suggests testing every item the party owns.",
+    "The hunched eagle troop marker from Grixto's hideout is tested and shows no phylactery or soul-fragment properties.",
+    "Ord produces a Helix medallion and an origami beetle, possibly from someone's desk. Sylan suggests the beetle might be a message, and Ord starts inspecting it.",
+    "Sylan reports a fancy gold bar of unknown origin and a broken longsword from the crashed skyship in the swamp.",
+    "The party discusses whether the phylactery could be a coin, a fly, or a grain of sand, and concludes it must be an object of importance to the lich.",
+    "Walker confirms he has no other items that might have belonged to the emperor.",
+    "Ord notes his turquoise animal figurines but suspects they came from the Sunder Chase. Sylan recalls a shark statuette that became a real shark via a magic word; Gerk says he has it, and Sylan suggests the figurines might need a similar command word.",
+    "Sylan proposes using the lantern-staff to see which soul is attached to the helm and asks Ord for the Seeker passphrase.",
+    "Dana inspects the lantern-staff with a 22 Arcana check: a hardy wooden shepherd's crook with a lantern, strong magic, and arcane-script inscriptions on the lantern frame.",
+    "Sylan retreats to his room, sheathes his sword, recites the lantern oath, and closes his eyes.",
+    "The stronghold's color drains toward Sylan's room into a cold, grayscale noir state, overlaying a hazy dual-dimension view visible to everyone inside.",
+    "Sylan opens his door; the frame collapses into blackness and a spirit outside is drawn into him with a howl. The DM confirms his soul collection works by proximity.",
+    "Sylan returns as a silvery, shadowy spectral outline; Walker can see and hear him.",
+    "Sylan spots ectoplasm on Walker's helm; Walker sets the helm on the table.",
+    "Sylan focuses the lantern on the helm and asks who it is; it gives only a wordless wail like the aftertaste of a tortured soul.",
+    "Dana freezes, deathly pale, staring between the helm and Sylan and mouthing silently.",
+    "Sylan extracts the fragment; Walker passes a Wisdom save with help from Ord's aura.",
+    "Walker and Sylan share a vision: a young Grixto (the Emperor) walks through Walker, nods respectfully to him, and dissolves into Sylan.",
+    "The helm turns colder, loses its ectoplasm, and feels diminished.",
+    "Sylan scans the room and finds no other spirits, though he identifies a fainter tortured-soul residue on Walker's helm and offers to extract it.",
+    "Sylan turns off the lantern; the torches rewarm the stronghold, and Gerk stops screaming.",
+    "Sylan says he must consult the Raven Queen about the vision."
+  ],
+  "openQuestions": [
+    "Did Mahali become a god, or was he born one?",
+    "Did Mahali become a god or was he born one?",
+    "What exactly is Moxie?",
+    "What is Moxie?",
+    "What is Moxie?",
+    "Is Moxie a spy?",
+    "Did Carlkin give the party the bag?",
+    "Where is the lich's phylactery?",
+    "Does the rest of the lich's armor hold the remainder of his soul or the phylactery?",
+    "Should the soul residue be extracted from the helm with Sylan's sword?",
+    "Is the helm part of a set that forms a phylactery?",
+    "Where is the actual phylactery?",
+    "Can a phylactery be fragmented?",
+    "Where is the lich's phylactery?",
+    "Is the first foe the party fought actually Garrick or someone possessed by the helm?",
+    "Does the origami beetle contain a message?",
+    "Where is the lich's phylactery?",
+    "Is the lich's phylactery a mundane item the party is carrying?",
+    "Does Ord's origami beetle contain a message?",
+    "What is the passphrase that activates the lantern-staff?",
+    "Which soul is attached to the helm?",
+    "Do the turquoise animal figurines have activation words?",
+    "Which soul is attached to the helm?",
+    "Do the turquoise figurines have a command word?",
+    "What is the wailing presence on Walker's helm?",
+    "What did Dana recognize in the helm and the extraction that left her frozen?",
+    "Why does Walker appear to be carrying the Emperor (Grixto) with him?",
+    "What will the Raven Queen reveal about the vision?"
+  ]
+}

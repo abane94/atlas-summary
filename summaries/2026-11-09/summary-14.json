@@ -1,0 +1,158 @@
+{
+    "plotSections": [
+        {
+            "title": "Searching for the Lich's Phylactery",
+            "bullets": [
+                "The party continues testing items for possible soul fragments or phylactery properties after dinner at the stronghold.",
+                "The hunched eagle marker Walker brought back from Grixto's hideout was tested and came back clean: no soul fragment or phylactery-like properties, staying dormant longer than the helm did without any reaction. It is crossed off the list.",
+                "Walker has nothing else in his inventory that could have belonged to the 'emperor'. Dana and the others mostly hold items from the white dragon's hoard.",
+                "Ord mentions his turquoise animal figurines but believes they came from the Sunder Chase, so they are unlikely to be relevant.",
+                "Sylan proposes using the fused lantern-staff, which Ord previously used to see souls attached to objects, to find which soul is attached to the helm."
+            ]
+        },
+        {
+            "title": "Examining the Lantern-Staff",
+            "bullets": [
+                "Sylan asks Ord for the activation phrase (the 'Seeker passphrase'). Ord's player can't recall it immediately because his notes are not accessible.",
+                "Dana has no Identify or Detect Magic but has strong Arcana, and inspects the lantern-staff with a 22.",
+                "The staff looks like a shepherd's crook or hook with a lantern on the end. It is made of very hardy wood and gives off a palpable magical presence, visible in how the light catches it. It is definitely magical in nature."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "After dinner, the DM recaps that the hunched eagle marker from Grixto's hideout tested clean: no phylactery properties.",
+        "Walker confirms he has no other items that might have belonged to the emperor.",
+        "Ord notes his turquoise animal figurines but suspects they came from the Sunder Chase.",
+        "Sylan recalls a shark statuette that became a real shark via a magic word. Gerk says he has it, and Sylan suggests the figurines might work similarly.",
+        "Sylan suggests using the lantern-staff to see which soul is attached to the helm, and asks Ord for the Seeker passphrase.",
+        "Dana inspects the lantern-staff with a 22 Arcana check and confirms it is a hardy wooden shepherd's crook with a lantern and strong magic."
+    ],
+    "entities": {
+        "Hunched eagle marker": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Tested for soul fragment or phylactery properties and came back clean.",
+                "Stayed dormant longer than the helm did, with no reaction.",
+                "Walker brought it back from Grixto's hideout."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Fused lantern-staff": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Resembles a shepherd's crook or hook with a lantern attached at the end.",
+                "The staff is made of very hardy wood.",
+                "Emanates a palpable magical presence, also visible in how light catches it.",
+                "Dana confirmed it is magical with a 22 Arcana check.",
+                "Activated with a passphrase, referred to as the 'Seeker passphrase'.",
+                "Previously let Ord see souls attached to objects. Sylan proposes using it to identify the soul attached to the helm."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What is the exact activation passphrase?"
+            ]
+        },
+        "Turquoise animal figurines": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Held by Ord. Their function is not yet figured out.",
+                "Ord thinks they came from the Sunder Chase, so they are unlikely to be connected to the lich.",
+                "Sylan suggests they may come to life with a magic word or inscription, like the shark statuette."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Do the figurines have a magic word or inscription that activates them?"
+            ]
+        },
+        "Shark statuette": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A statuette that turned into a real shark, apparently activated by a magic word.",
+                "Gerk currently has it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Helm": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "The party plans to use the lantern-staff to see which soul is attached to it.",
+                "It reacted for some time during testing, unlike the eagle marker."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Whose soul is attached to the helm?"
+            ]
+        },
+        "Dana": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has Dispel Magic but not Identify or Detect Magic.",
+                "Has strong Arcana and inspected the lantern-staff with a 22.",
+                "Most of her items came from the white dragon's hoard."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Od",
+            "likely": "Ord",
+            "notes": "Sylan referring to Ord using the lantern"
+        },
+        {
+            "heard": "Wood",
+            "likely": "Ord",
+            "notes": "Sylan asking Ord to show him the lantern phrase"
+        },
+        {
+            "heard": "Tech Magic",
+            "likely": "Detect Magic",
+            "notes": "Spell name"
+        },
+        {
+            "heard": "shepherd's crux",
+            "likely": "shepherd's crook",
+            "notes": "Description of the lantern-staff"
+        },
+        {
+            "heard": "Seeker passphrase",
+            "likely": "",
+            "notes": "Possibly the actual lantern-staff activation phrase or a label for it; needs clarification"
+        }
+    ],
+    "openQuestions": [
+        "What is the passphrase that activates the lantern-staff?",
+        "Which soul is attached to the helm?",
+        "Do the turquoise animal figurines have activation words?"
+    ],
+    "newTerms": [
+        {
+            "name": "Seeker passphrase",
+            "notes": [
+                "The phrase used to activate the lantern-staff's soul-seeing ability.",
+                "Ord knows it, but it is not recorded in this chunk."
+            ]
+        }
+    ]
+}

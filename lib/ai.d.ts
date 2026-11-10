@@ -1,18 +1,26 @@
 export type AiEffort = "low" | "medium" | "high";
 
+/** Selected with the AI_BACKEND env var. */
+export type AiBackend = "cursor" | "claude" | "claude-cli";
+
 /**
  * Shared prompt options. Every implementation accepts the same fields;
  * unused fields are ignored.
  */
 export type AiPromptOptions = {
-  /** Unused by the Cursor client. Kept so older call sites still type-check. */
+  /** Unused by every client. Kept so older call sites still type-check. */
   timeout?: number;
   /**
-   * Portable quality hint. Cursor maps this to `--model`.
-   * Omit to use the Cursor default model.
+   * Portable quality hint. Cursor maps this to `--model`; the Claude API maps it
+   * to `output_config.effort`; the Claude CLI to `--effort`. Omit to use the
+   * backend's default.
    */
   effort?: AiEffort;
-  /** Cursor `--model` slug. Overrides `effort` when set. */
+  /**
+   * Backend model id: a Cursor `--model` slug (overrides `effort`), or a Claude
+   * model id or CLI alias such as `claude-opus-5-5` / `sonnet` (used alongside
+   * `effort`).
+   */
   model?: string;
 };
 
@@ -51,6 +59,8 @@ export interface AiPoolOptions {
   createClient?: () => AiClient;
 }
 
+export function aiBackend(): AiBackend;
+
 export function aiPoolSize(): number;
 
 export function createAiPool(options?: AiPoolOptions): AiPool;
@@ -63,6 +73,28 @@ export function withAiPool<T>(
 export declare class CursorClient implements AiClient {
   readonly id: number;
   readonly workspace: string;
+  open(): Promise<void>;
+  close(): Promise<void>;
+  resetConversation(): Promise<void>;
+  runJsonPrompt(prompt: string, options?: AiPromptOptions): Promise<string>;
+  runProsePrompt(prompt: string, options?: AiPromptOptions): Promise<string>;
+}
+
+export declare class ClaudeClient implements AiClient {
+  readonly id: number;
+  constructor(options?: { anthropic?: import("@anthropic-ai/sdk").default });
+  open(): Promise<void>;
+  close(): Promise<void>;
+  resetConversation(): Promise<void>;
+  runJsonPrompt(prompt: string, options?: AiPromptOptions): Promise<string>;
+  runProsePrompt(prompt: string, options?: AiPromptOptions): Promise<string>;
+}
+
+export declare class ClaudeCliClient implements AiClient {
+  readonly id: number;
+  readonly workspace: string;
+  /** Executable to spawn; defaults to CLAUDE_CLI_PATH or `claude`. */
+  command: string;
   open(): Promise<void>;
   close(): Promise<void>;
   resetConversation(): Promise<void>;

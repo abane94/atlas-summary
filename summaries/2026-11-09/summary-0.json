@@ -1,0 +1,149 @@
+{
+    "plotSections": [
+        {
+            "title": "Evening at the Stronghold",
+            "bullets": [
+                "The session opens one day after the party regrouped following their forest endeavor with Ord's magic and the light-bringer staff; it is early evening at the Langdale Stronghold.",
+                "Mahali is in the kitchen/dining room preparing the evening meal, originally a pork roast that he decides to turn into a stew because the pork flank is too tough.",
+                "Ord confirms he gave the staff/lantern to Sylan, who wanted to do something with it.",
+                "Walker sits at the kitchen's small plating station and abruptly asks Mahali whether he became a god or was born one; Mahali calls it a long question and first wants tea started and help with dinner prep.",
+                "Mahali has been teaching Ponchi to cook in the interim; Ponchi likes it, but gems sometimes turn up in his buns, the largest reportedly thumb-sized, which Mahali threw out the window.",
+                "Mahali asks for Ponchi to dice onions and says Ponchi's roommate should fetch him; Ponchi's roommate is Ord, who sleeps in the bunkhouse below.",
+                "Walker prepares to yell across the stronghold for Ord; Ord's full name is given as Ord Brontan, with no middle name."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "1. One day after regrouping from the forest endeavor, the party is at the stronghold in the evening while Mahali cooks.",
+        "2. Ord confirms Sylan now holds the staff/lantern.",
+        "3. Walker sits at the kitchen plating station and asks Mahali if he became a god or was born one.",
+        "4. Mahali defers, mentions tea, and explains he has been teaching Ponchi to cook (gems sometimes appear in Ponchi's buns).",
+        "5. Mahali decides the tough pork flank will become a stew and wants Ponchi to chop onions.",
+        "6. Mahali says Ponchi's roommate Ord should fetch him; Walker prepares to shout for Ord, whose surname is Brontan."
+    ],
+    "entities": {
+        "Mahali": {
+            "existing": "Elder god serving as the party's chef at the stronghold.",
+            "entityType": "NPC",
+            "notes": [
+                "Preparing the evening meal; turning a tough pork flank into a stew instead of a roast.",
+                "Has been teaching Ponchi to cook.",
+                "Asked by Walker whether he became a god or was born one; called it a very long question and had not yet answered by the end of this chunk.",
+                "Threw a thumb-sized gem found in one of Ponchi's buns out the window."
+            ],
+            "titles": [],
+            "personality": [
+                "Hospitable and fussy about proper process, wanting tea before a serious conversation.",
+                "Deflects abrupt personal questions with domestic tasks."
+            ],
+            "quotesThemes": [
+                "\"We haven't even had any tea yet.\""
+            ],
+            "openQuestions": [
+                "Did Mahali become a god, or was he born one?"
+            ]
+        },
+        "Ponchi": {
+            "existing": "Stronghold guard who relocated to the tavern.",
+            "entityType": "NPC",
+            "notes": [
+                "Raccoon-like creature.",
+                "Being taught to cook by Mahali and seems to enjoy it.",
+                "Gems sometimes turn up in the buns he bakes, the largest about thumb-sized.",
+                "Rooms with Ord in the bunkhouse below the stronghold."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "Dragonborn paladin, Gatekeeper of Feldspar.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Full name is Ord Brontan; has no middle name.",
+                "Gave the staff/lantern to Sylan.",
+                "Sleeps in the bunkhouse below and is Ponchi's roommate."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "Half-elf rogue, Gilbrick Gatekeeper.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Now holds the fused lantern-staff, given to him by Ord, and intends to do something with it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "Half-elf dragon rider and fighter.",
+            "entityType": "PLAYER",
+            "notes": [
+                "Asked Mahali whether he became a god or was born one.",
+                "Asked whether there were freshly baked buns and was interested in how much the gems in Ponchi's buns are worth."
+            ],
+            "titles": [],
+            "personality": [
+                "Curious and blunt."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Fused lantern-staff": {
+            "existing": "Fused lantern and staff that reveals the Ethereal Plane.",
+            "entityType": "ITEM",
+            "notes": [
+                "Referred to as the staff with the light bringer.",
+                "Currently held by Sylan."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Panchi",
+            "likely": "Ponchi",
+            "notes": "Raccoon-like stronghold resident."
+        },
+        {
+            "heard": "Ponchy",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "Brahms",
+            "likely": "Brontan",
+            "notes": "Ord's surname, as stated by Ord's player."
+        },
+        {
+            "heard": "ratcoon",
+            "likely": "raccoon",
+            "notes": "Description of Ponchi."
+        },
+        {
+            "heard": "eating Aryan dinner",
+            "likely": "preparing dinner",
+            "notes": ""
+        }
+    ],
+    "openQuestions": [
+        "Did Mahali become a god, or was he born one?"
+    ],
+    "newTerms": [
+        {
+            "name": "Brontan",
+            "notes": [
+                "Ord's surname: Ord Brontan."
+            ]
+        }
+    ]
+}

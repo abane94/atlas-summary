@@ -83,12 +83,20 @@
         "She lands in the street by Carlkin's lighthouse beside Araden. Carlkin distinguishes the larger copper, Araden, from Glimmen.",
         "Walker says that if Grixto is influencing either of them, it would be Glimmen. He counts her voice among the familiar voices that would not count as Carlkin's warning sign."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Glimmen is too large to move freely through the stronghold, fitting only through its front door and great hall, so she spends her time with Araden at the foot of the stronghold. While there, village children gather around her.",
+      "notes": [
+        "Can fit only through the stronghold's front door and great hall, so she spends her time with Araden at the foot of the stronghold.",
+        "Village children gather around her."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:46:29.731Z",
-  "updatedAt": "2026-10-21T19:58:09.799Z",
+  "updatedAt": "2026-11-10T15:43:48.748Z",
   "normalizedAliases": [
     "glimmen"
   ]

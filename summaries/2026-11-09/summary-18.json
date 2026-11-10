@@ -1,0 +1,183 @@
+{
+    "plotSections": [
+        {
+            "title": "Extracting the Soul Fragment from the Helm",
+            "bullets": [
+                "Sylan identified the residue on Walker's helm as the 'aftertaste of a tortured soul', fainter than the tortured souls he had collected before, and offered to pull it out.",
+                "Walker agreed, hoping it would give them useful information. Before starting, Sylan threw a pointed glance at Dana, who sat frozen and wide-eyed, looking back and forth between the helm and Sylan and mouthing words without making a sound.",
+                "The DM confirmed that Sylan's earlier soul collection (six spirits in town and one at the door) worked by proximity: spirits were drawn to him like a magnet, with no touch needed.",
+                "Walker passed a wisdom saving throw (15, raised to 19 by Ord's aura within 30 feet).",
+                "Walker and Sylan shared a vision of a young, physically prime hobgoblin Grixto, 'the Emperor' in his cult's heyday. He walked through Walker, stepped up beside Sylan, gave Walker a curt, respectful nod without speaking, and dissolved into Sylan.",
+                "Afterward the helm was colder, its metal had shifted and settled, and it felt as though it had lost something. The ectoplasmic coating was gone."
+            ]
+        },
+        {
+            "title": "Aftermath at the Stronghold",
+            "bullets": [
+                "Sylan searched the room and found no other spirits or ectoplasm. He wondered whether the party's Tokens of blind eye speech might block his ability to see such traces on them; nothing was detected.",
+                "Sylan switched off the lantern. The environment went dead for a moment, then the torches rewarmed the stronghold. Shadows fluttered, gathered around Sylan, and dissipated.",
+                "Gerk, covered in potato paste, had been screaming at Sylan the whole time and finally stopped.",
+                "Walker complained that Sylan had ruined his helm. Sylan said he needs to speak with the Raven Queen to understand the vision and why Walker seemed to be carrying the Emperor with him."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Sylan identifies a fainter tortured-soul residue on Walker's helm and offers to extract it.",
+        "Dana freezes, staring between the helm and Sylan.",
+        "The DM confirms Sylan's soul collection works by proximity.",
+        "Walker passes a wisdom save with help from Ord's aura.",
+        "Walker and Sylan share a vision: a young Grixto (the Emperor) walks through Walker, nods respectfully to him, and dissolves into Sylan.",
+        "The helm turns colder, loses its ectoplasm, and feels diminished.",
+        "Sylan finds no other spirits and turns off the lantern; the torches rewarm the stronghold.",
+        "Gerk stops screaming.",
+        "Sylan says he must consult the Raven Queen about the vision."
+    ],
+    "entities": {
+        "Grixto": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "A soul fragment of Grixto lingered in Walker's helm and appeared in a vision as a young, prime hobgoblin, 'the Emperor' in his cult's heyday.",
+                "The fragment nodded respectfully to Walker and dissolved into Sylan."
+            ],
+            "titles": [
+                "The Emperor"
+            ],
+            "personality": [
+                "Showed silent respect toward Walker."
+            ],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Why did the fragment appear to be carried along with Walker?"
+            ]
+        },
+        "Helm": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Worn by Walker; it held the 'aftertaste of a tortured soul', a fragment of Grixto.",
+                "After Sylan extracted the fragment, the helm became colder, its metal shifted, it felt diminished, and its ectoplasm disappeared."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Draws spirits in by proximity, like a magnet.",
+                "Absorbed Grixto's soul fragment from the helm; shadows gathered around him and dissipated afterward.",
+                "Plans to consult the Raven Queen about the vision."
+            ],
+            "titles": [],
+            "personality": [
+                "Treats soul collecting as 'a job after all. Nine to five.'"
+            ],
+            "quotesThemes": [
+                "\"This is such a bad idea.\""
+            ],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Wore the helm, passed the wisdom save, and shared the vision with Sylan.",
+                "Received a respectful nod from young Grixto."
+            ],
+            "titles": [],
+            "personality": [
+                "Upset that his helm was 'ruined'."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Dana": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Froze in apparent shock while watching the helm and Sylan, mouthing words silently."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "What did Dana realize when she saw the helm and Sylan?"
+            ]
+        },
+        "Gerk": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Covered in potato paste, screamed at Sylan throughout the extraction, then stopped."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Token of blind eye speech": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Sylan suspects the tokens may block his spirit-sight from reading traces on the party."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Fused lantern-staff": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Switching it off deadens the environment until the torches rewarm the area."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "silenzy",
+            "likely": "Sylan",
+            "notes": "DM asking Dana's reaction"
+        },
+        {
+            "heard": "Silence",
+            "likely": "Sylan",
+            "notes": ""
+        },
+        {
+            "heard": "silent",
+            "likely": "Sylan",
+            "notes": ""
+        },
+        {
+            "heard": "Gerkha",
+            "likely": "Gerk",
+            "notes": ""
+        },
+        {
+            "heard": "no war night",
+            "likely": "",
+            "notes": "Possibly a lantern/night description"
+        }
+    ],
+    "openQuestions": [
+        "Why does Walker appear to be carrying the Emperor (Grixto) with him?",
+        "What will the Raven Queen reveal about the vision?"
+    ],
+    "newTerms": [
+        {
+            "name": "The Emperor",
+            "notes": [
+                "Title given to Grixto in his cult's prime."
+            ]
+        }
+    ]
+}

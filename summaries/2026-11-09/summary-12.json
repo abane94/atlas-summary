@@ -1,0 +1,201 @@
+{
+    "plotSections": [
+        {
+            "title": "Preparing to Confront the Helm",
+            "bullets": [
+                "After dinner at the table, Walker prepares to attempt contact with the helm again; Sylan asks if he needs magical fortitude, noting he has something that can stop a possession.",
+                "Walker says his last attempt was a pleasant conversation with Garrick, though not the Garrick the party knows now; he believes the person they first fought was truly Garrick and not someone possessed by the helm, which Sylan supports since that foe cast spells.",
+                "Walker decides to go ahead without much help, with Sylan patting him on the shoulder for luck."
+            ]
+        },
+        {
+            "title": "Phylactery Search",
+            "bullets": [
+                "Before risking possession, Walker suggests testing suspicious items with the Soul identifier bag, which reveals whether an object is a phylactery (it burns/smolders if so).",
+                "The eagle troop marker (Hunched eagle marker) was tested: no smoldering or burning, so it is not a phylactery.",
+                "Ord lists a Helix medallion and an origami beetle taken from someone's desk; the party suspects the beetle may hold a message and Ord begins inspecting it.",
+                "Sylan mentions a fancy gold bar and a broken longsword from a crashed skyship in a swamp; the party debates how small or mundane a phylactery could be (coins, a grain of sand), noting it is usually an object important to the mage before becoming a lich."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Dinner ends; the party sits at the table as the candles burn down.",
+        "Sylan offers Walker magical fortitude against possession before he uses the helm.",
+        "Walker recounts his previous pleasant conversation with Garrick through the helm and believes the first foe fought was Garrick himself.",
+        "Walker decides to proceed without extra protection.",
+        "Walker proposes testing suspicious items in the Soul identifier before possibly getting possessed.",
+        "The eagle troop marker is placed in the Soul identifier and shows no reaction.",
+        "Ord produces a Helix medallion and an origami beetle from someone's desk; he starts inspecting the beetle for a message.",
+        "The party discusses what objects could be phylacteries."
+    ],
+    "entities": {
+        "Walker": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Preparing to commune with the helm again; previous contact with Garrick through it was pleasant.",
+                "Believes the first enemy fought was truly Garrick, not a possessed proxy.",
+                "Declines significant protection before using the helm.",
+                "Holds the Soul identifier bag."
+            ],
+            "titles": [],
+            "personality": [
+                "Cautious enough to check for phylacteries first, but willing to wing it."
+            ],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Sylan": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Has an ability or item that can stop a possession.",
+                "Carries a fancy gold bar and a broken longsword from a crashed skyship in a swamp."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Ord": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Carries a Helix medallion and an origami beetle taken from someone's desk; begins inspecting the beetle for a message."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Garrick": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Walker previously spoke with Garrick through the helm in a pleasant conversation, though Garrick was different then from how the party knows him now.",
+                "Walker believes the first foe the party fought was Garrick himself; Sylan notes that foe cast spells."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Was the first foe fought truly Garrick, or someone possessed by the helm?"
+            ]
+        },
+        "Helm": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Possibly capable of possessing its user; Walker plans to use it to contact Garrick again."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Soul identifier": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A bag; phylacteries placed inside smolder or burn.",
+                "Used on the eagle troop marker with no reaction.",
+                "Sylan believes it will not run out of power."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Hunched eagle marker": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Tested in the Soul identifier: not a phylactery.",
+                "DM describes it as a troop marker or troop identifier rather than a chess piece."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "Normally an object important to the mage before becoming a lich; must be an object, not a creature."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Rocker",
+            "likely": "Walker",
+            "notes": "Sylan addressing Walker."
+        },
+        {
+            "heard": "sole identifier",
+            "likely": "Soul identifier",
+            "notes": ""
+        },
+        {
+            "heard": "bag water",
+            "likely": "bag, Walker",
+            "notes": ""
+        },
+        {
+            "heard": "factories",
+            "likely": "phylacteries",
+            "notes": ""
+        },
+        {
+            "heard": "Eggman",
+            "likely": "",
+            "notes": "Unclear interjection by Sylan."
+        },
+        {
+            "heard": "olive water",
+            "likely": "all of Walker's",
+            "notes": "Uncertain."
+        },
+        {
+            "heard": "Garrick",
+            "likely": "",
+            "notes": "Possibly a known NPC name mis-heard (e.g. Grixto); confirm."
+        }
+    ],
+    "openQuestions": [
+        "Is the first foe the party fought actually Garrick or someone possessed by the helm?",
+        "Does the origami beetle contain a message?",
+        "Where is the lich's phylactery?"
+    ],
+    "newTerms": [
+        {
+            "name": "Garrick",
+            "notes": [
+                "Person Walker spoke with through the helm; possibly the first foe fought."
+            ]
+        },
+        {
+            "name": "Helix medallion",
+            "notes": [
+                "Item carried by Ord."
+            ]
+        },
+        {
+            "name": "Origami beetle",
+            "notes": [
+                "Item Ord took from someone's desk; may contain a message."
+            ]
+        },
+        {
+            "name": "Crashed skyship",
+            "notes": [
+                "Found in a swamp; source of Sylan's broken longsword."
+            ]
+        }
+    ]
+}

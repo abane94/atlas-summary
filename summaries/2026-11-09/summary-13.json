@@ -1,0 +1,108 @@
+{
+    "plotSections": [
+        {
+            "title": "Searching Inventories for the Lich's Phylactery",
+            "bullets": [
+                "The party realizes the lich's phylactery could be a mundane item and starts checking their own inventories for suspicious objects.",
+                "Ord has a Helix medallion and an origami beetle, possibly taken from someone's desk. The beetle may hold a message, and Ord sets out to inspect it.",
+                "Sylan has a fancy gold bar he knows nothing about, plus a broken longsword from the crashed skyship in the swamp.",
+                "The party worries they may need to check every coin. Sylan doubts they picked up coins from their fights with the Lich.",
+                "Gerk asks whether a phylactery could be a fly or a grain of sand. The table agrees it must be an object, and Sylan notes it is normally an item important to the mage before becoming a lich."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord lists a Helix medallion and an origami beetle, possibly from someone's desk, among his items.",
+        "Sylan suggests the beetle might be a message. Ord starts inspecting it.",
+        "Sylan reports a fancy gold bar of unknown origin and a broken longsword from the crashed skyship in the swamp.",
+        "The party discusses whether the phylactery could be a coin, a fly, or a grain of sand, and concludes it must be an object of importance to the lich."
+    ],
+    "entities": {
+        "Ord": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Carries a Helix medallion.",
+                "Carries an origami beetle, possibly from someone's desk, which may contain a message. He moves to inspect it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Does the origami beetle contain a message?"
+            ]
+        },
+        "Sylan": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "Carries a fancy gold bar of unknown origin.",
+                "Carries a broken longsword from the crashed skyship in the swamp."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "A vessel containing a lich's soul",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The party suspects the lich's phylactery may be a mundane item, possibly something already in their own inventories.",
+                "Per the table, it must be an object rather than a creature, normally one that held importance to the mage before becoming a lich."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Is the lich's phylactery among the party's possessions?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Helix medallion",
+            "likely": "",
+            "notes": [
+                "Item in Ord's inventory; the name may be misheard."
+            ]
+        },
+        {
+            "heard": "I'm the floor tree.",
+            "likely": "",
+            "notes": [
+                "Unclear line from Sylan during the phylactery discussion."
+            ]
+        }
+    ],
+    "openQuestions": [
+        "Is the lich's phylactery a mundane item the party is carrying?",
+        "Does Ord's origami beetle contain a message?"
+    ],
+    "newTerms": [
+        {
+            "name": "Helix medallion",
+            "notes": [
+                "Medallion in Ord's inventory."
+            ]
+        },
+        {
+            "name": "Origami beetle",
+            "notes": [
+                "Folded paper beetle Ord holds, possibly from someone's desk. It may be a message."
+            ]
+        },
+        {
+            "name": "Fancy gold bar",
+            "notes": [
+                "Gold bar in Sylan's inventory of unknown origin."
+            ]
+        },
+        {
+            "name": "Crashed skyship",
+            "notes": [
+                "Skyship wreck the party found in a swamp, where Sylan got a broken longsword."
+            ]
+        }
+    ]
+}

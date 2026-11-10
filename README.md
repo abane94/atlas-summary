@@ -13,7 +13,9 @@ Copy `.env.example` to `.env` if you want a different `AI_CONCURRENCY`.
 
 ## AI
 
-Summaries run through `cursor-agent`. A pool of clients (default 4, set `AI_CONCURRENCY`) pulls jobs off a queue. Each client keeps its conversation for the whole job, including a chunk's shape-check retry, then clears it before taking the next job.
+Summaries run through `cursor-agent` by default. Set `AI_BACKEND=claude` to call the Claude API directly (needs `ANTHROPIC_API_KEY`), or `AI_BACKEND=claude-cli` to spawn `claude -p` processes (uses your Claude Code login). A pool of clients (default 4, set `AI_CONCURRENCY`) pulls jobs off a queue. Each client keeps its conversation for the whole job, including a chunk's shape-check retry, then clears it before taking the next job.
+
+Every AI call in the last run is logged to `.ai-log/` (gitignored, set `AI_LOG_DIR` to move it). It is emptied when a command that uses AI starts. `index.log` has one line per call; each call's folder has `prompt.txt` (exact input), `response.txt` (raw output, before JSON/prose extraction) and `meta.json` (options, session, timing, stderr, error).
 
 Chunks in one session run at the same time. The merge prompts for one session do too. Vault entity writes for one session do too. Sessions still run one date after another, because a new entity has to be in the catalog before the next session is matched.
 
@@ -94,4 +96,9 @@ Website markdown (`vault/**/*.md`) is **not** part of the local pipeline. Previe
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `AI_CONCURRENCY` | `4` | How many Cursor agents run at once. Each keeps its own conversation. |
+| `AI_CONCURRENCY` | `4` | How many AI clients run at once. Each keeps its own conversation. |
+| `AI_BACKEND` | `cursor` | `cursor` (cursor-agent CLI), `claude` (Claude API), or `claude-cli` (Claude Code CLI). |
+| `ANTHROPIC_API_KEY` | — | API key for the `claude` backend. |
+| `CLAUDE_MODEL` | `claude-opus-5-5` (API) / CLI default | Default model for the `claude` and `claude-cli` backends. |
+| `CLAUDE_CLI_PATH` | `claude` | Executable for the `claude-cli` backend. |
+| `AI_LOG_DIR` | `.ai-log/` | Where the last run's prompt log goes. |

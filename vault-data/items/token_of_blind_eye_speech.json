@@ -20,10 +20,17 @@
         "Requires pointing and whispering to activate.",
         "Gerk can reply to whispers sent to him without needing to activate it himself."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Sylan suspects the tokens of blind eye speech may be blocking his spirit-sight from reading traces on the party.",
+      "notes": [
+        "Sylan suspects the tokens may block his spirit-sight from reading traces on the party."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-09-01T18:33:45.091Z",
-  "updatedAt": "2026-09-01T18:33:45.091Z"
+  "updatedAt": "2026-11-10T15:43:52.185Z"
 }

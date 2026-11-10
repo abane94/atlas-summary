@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T20:09:13.482Z",
+  "updatedAt": "2026-11-10T15:43:57.204Z",
   "suggestions": [
     {
       "tag": "ability",
@@ -111,6 +111,13 @@
       "reason": "Town law enforcement is a recurring role and is not covered by the closed catalog.",
       "exampleEntities": [
         "Haldor"
+      ]
+    },
+    {
+      "tag": "stronghold-staff",
+      "reason": "Entities gained as staff through stronghold expansion form a recurring facet not covered by the catalog.",
+      "exampleEntities": [
+        "Moxie"
       ]
     },
     {

@@ -1,0 +1,142 @@
+{
+    "plotSections": [
+        {
+            "title": "Meeting Moxie at the Stronghold",
+            "bullets": [
+                "Ord, sent by Ponchi with food, meets Moxie, a foot-and-a-half-tall bipedal creature built like Mr. Beaver from Narnia but colored like a wolverine, with a wide, flat, furry, pointed tail and four articulate, hand-like digits (a thumb plus three) with weasel-like pads.",
+                "Moxie hisses suspiciously at first, then eagerly scoops food off Ord's hand with paddle-shaped paws and asks for more. Ciri brings the scrap bucket, and Moxie hauls it to her hovel to eat, slurping and whistling.",
+                "Moxie speaks in broken repetitions ('hungry, hungry', 'hunt, hunt') and chirps and whistles like a small bird. She calls Ord 'handler' and offers to hunt for him.",
+                "Ord tells Moxie she may do as she likes so long as she respects the keep, breaks nothing that isn't hers, and hunts outside the castle. She dives into the stronghold's dock port and swims off toward the portcullis, showing she is amphibious.",
+                "Ciri calls Moxie a 'nice roommate', and Ord remarks that they need a bigger castle."
+            ]
+        },
+        {
+            "title": "Regrouping in the Kitchen",
+            "bullets": [
+                "Ciri and Ord return to the kitchen and find Gerk fist-mashing a bucket of raw potatoes. Sylan arrives, teased as the 'Ghost Hoover 9000' for his spirit-pulling sword.",
+                "DM recap: the party has returned to the stronghold to regroup and decide where to go next, after a philosophical conversation with Mahali about gods, how to become one, and the effects and scale of belief."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "Ord brings food from Ponchi and meets Moxie, a beaver/wolverine-like creature.",
+        "Moxie eats from Ord's hand and asks for more; Ciri hands over the whole scrap bucket.",
+        "Moxie offers to hunt, calls Ord 'handler', and is told to respect the keep and hunt outside the castle.",
+        "Moxie dives into the dock port and swims out toward the portcullis.",
+        "Ciri and Ord return to the kitchen, where Gerk is mashing raw potatoes, and Sylan arrives.",
+        "DM recaps the earlier conversation with Mahali about gods, ascension, and belief."
+    ],
+    "entities": {
+        "Moxie": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Foot-and-a-half-tall bipedal creature with Mr. Beaver-like stockiness and wolverine-like blackish-brown fur.",
+                "Has a wide, flat, furry tail that comes to a point, and four articulate digits per hand (a thumb plus three) with weasel-like pads.",
+                "Amphibious: lives in a hovel by the stronghold's dock port and swims out toward the portcullis.",
+                "Associated with Ponchi, who sent food to feed her.",
+                "Speaks in broken, repeated words and chirps and whistles like a sparrow.",
+                "Calls Ord 'handler' and offered to hunt for him; told to hunt outside the castle and respect the keep."
+            ],
+            "titles": [],
+            "personality": [
+                "Suspicious at first, then greedy and eager for food.",
+                "Eats voraciously but in a controlled manner."
+            ],
+            "quotesThemes": [
+                "\"Hunt, hunt, yes.\"",
+                "\"More, more, more.\""
+            ],
+            "openQuestions": []
+        },
+        "Ponchi": {
+            "existing": "A stronghold guard who will relocate to the tavern.",
+            "entityType": "NPC",
+            "notes": [
+                "Sent Ord to feed Moxie, who repeats Ponchi's name and seems to be in his care."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Langdale Stronghold": {
+            "existing": "Party's central stronghold and home base",
+            "entityType": "Location",
+            "notes": [
+                "Has a dock port reaching water that leads out to a portcullis; Moxie lives in a hovel there.",
+                "The party has returned here to regroup and decide their next destination."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Mahali": {
+            "existing": "Elder god serving as the party's chef at the stronghold",
+            "entityType": "NPC",
+            "notes": [
+                "Discussed with the party gods, deities, how to become one, and the effects and scale of belief."
+            ],
+            "titles": [],
+            "personality": [
+                "Philosophical about divinity and belief."
+            ],
+            "quotesThemes": [
+                "Belief and its scale as the basis of divinity."
+            ],
+            "openQuestions": []
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "Panchy",
+            "likely": "Ponchi",
+            "notes": "Moxie's pronunciation of the guard's name"
+        },
+        {
+            "heard": "Panchi",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "Pachi",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "Ponchy",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "paunchy",
+            "likely": "Ponchi",
+            "notes": ""
+        },
+        {
+            "heard": "Warden",
+            "likely": "Walker",
+            "notes": "Ciri addresses the 'roommate' remark to him"
+        },
+        {
+            "heard": "port Cullis",
+            "likely": "portcullis",
+            "notes": ""
+        },
+        {
+            "heard": "Aaron",
+            "likely": "Aris",
+            "notes": "DM addressing abane94 during the recap"
+        }
+    ],
+    "openQuestions": [],
+    "newTerms": [
+        {
+            "name": "Ghost Hoover 9000",
+            "notes": [
+                "Joking nickname for Sylan, referencing his spirit-pulling sword."
+            ]
+        }
+    ]
+}

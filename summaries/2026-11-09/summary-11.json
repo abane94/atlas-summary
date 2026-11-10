@@ -1,0 +1,199 @@
+{
+    "plotSections": [
+        {
+            "title": "The Helm and the Phylactery Question",
+            "bullets": [
+                "The party debates whether the lich's phylactery could be split or fragmented, since they understood a phylactery to be a single item; Sylan notes Walker is the only one who looted the lich, and the keystone is ruled out as a candidate.",
+                "The DM recaps the conversation with Carlkin about a month earlier: the party strongly suspected the phylactery was something they had with them.",
+                "The Soul identifier (a small bag resembling a bag of holding) makes a true phylactery burst into flames immediately; the helm only smoldered because it holds a soul fragment or echo, a remembrance of a soul that is still strong enough to possess someone.",
+                "The helm is placed in the pouch again and confirmed not to be the phylactery; it is likened to a possessed doll from a B-rated horror film.",
+                "Walker refuses to dispose of the helm or give it to anyone else, reasoning that he has already resisted its possession and is the safest person to wear it.",
+                "The hunched eagle troop marker is tested in the Soul identifier with no smoldering or burning, so it is not the phylactery. Sylan and Ord have nothing suspicious to test; Ord suggests running every item the party owns through the bag."
+            ]
+        },
+        {
+            "title": "Evening at the Stronghold",
+            "bullets": [
+                "Mahali discourages attempting possession before dinner and recommends it as a late-night endeavor; he serves summer cider, pork stew and assorted desserts, then goes to prep breakfast.",
+                "Gerk's punched potatoes ('Gerk tubers') were not part of dinner; Mahali plans to shred them into a breakfast hash, and Gerk begins to suspect he was used.",
+                "Walker agrees to try speaking with the helm's spirit again after dinner, in the dining hall where Mahali can watch; Sylan offers magical protection against possession, and Walker accepts a little help."
+            ]
+        }
+    ],
+    "chronologicalEvents": [
+        "The party debates whether a phylactery can be fragmented; the keystone is ruled out as a candidate.",
+        "The DM recaps Carlkin's findings: the helm holds a soul echo capable of possession and is not the phylactery.",
+        "Walker insists on keeping and wearing the helm.",
+        "Mahali suggests Walker talk to the helm again, but after dinner.",
+        "The party eats dinner; Gerk's potatoes are saved for a breakfast hash.",
+        "Walker agrees to contact the helm's spirit after dinner, with Sylan offering protection against possession.",
+        "The troop marker is tested in the Soul identifier and does not react.",
+        "Ord suggests testing every item the party owns."
+    ],
+    "entities": {
+        "Helm": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Not the phylactery; it only smoldered in the Soul identifier.",
+                "Holds a soul fragment or echo, a remembrance of a soul that is still able to possess someone.",
+                "White and sterile-looking, which clashes with Walker's gold look.",
+                "Walker previously had one pleasant conversation with the spirit inside it."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [
+                "Compared to a possessed doll in a B-rated horror film"
+            ],
+            "openQuestions": []
+        },
+        "Soul identifier": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "A small bag that resembles a bag of holding.",
+                "A true phylactery placed inside bursts into flames immediately.",
+                "Walker carries it.",
+                "The DM nearly called it a 'phylactery finder'."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Hunched eagle marker": {
+            "existing": "",
+            "entityType": "ITEM",
+            "notes": [
+                "Tested in the Soul identifier with no reaction, so it is not the phylactery.",
+                "Held by Walker."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": []
+        },
+        "Walker": {
+            "existing": "",
+            "entityType": "PLAYER",
+            "notes": [
+                "The only party member who looted the lich.",
+                "Has resisted the helm's possession and will wear the helm himself.",
+                "Agreed to contact the helm's spirit again, with Sylan's help."
+            ],
+            "titles": [],
+            "personality": [
+                "Possessive of the helm"
+            ],
+            "quotesThemes": [
+                "\"No, it's mine.\""
+            ],
+            "openQuestions": []
+        },
+        "Mahali": {
+            "existing": "",
+            "entityType": "NPC",
+            "notes": [
+                "Served summer apple-pear cider with cinnamon, pork stew and desserts.",
+                "Plans to turn Gerk's punched potatoes into a breakfast hash.",
+                "Wants to watch the helm communion."
+            ],
+            "titles": [],
+            "personality": [
+                "Playfully nudges Walker to give up the helm"
+            ],
+            "quotesThemes": [
+                "Possession should be a late-night endeavor."
+            ],
+            "openQuestions": []
+        },
+        "Phylactery": {
+            "existing": "",
+            "entityType": "CONCEPT",
+            "notes": [
+                "The party wonders whether a phylactery can be fragmented; the lich's phylactery remains unfound.",
+                "Ruled out so far: the helm, the troop marker and the keystone."
+            ],
+            "titles": [],
+            "personality": [],
+            "quotesThemes": [],
+            "openQuestions": [
+                "Where is the lich's phylactery?"
+            ]
+        }
+    },
+    "misTranscriptions": [
+        {
+            "heard": "flash",
+            "likely": "phylactery",
+            "notes": ""
+        },
+        {
+            "heard": "factory",
+            "likely": "phylactery",
+            "notes": ""
+        },
+        {
+            "heard": "factories",
+            "likely": "phylacteries",
+            "notes": ""
+        },
+        {
+            "heard": "Collectory",
+            "likely": "phylactery",
+            "notes": ""
+        },
+        {
+            "heard": "sole identifier",
+            "likely": "Soul identifier",
+            "notes": ""
+        },
+        {
+            "heard": "Panchey",
+            "likely": "Ponchi",
+            "notes": "Possibly Ponchi; context unclear."
+        },
+        {
+            "heard": "GERC",
+            "likely": "Gerk",
+            "notes": ""
+        },
+        {
+            "heard": "Gark",
+            "likely": "Gerk",
+            "notes": ""
+        },
+        {
+            "heard": "Rocker",
+            "likely": "Walker",
+            "notes": ""
+        },
+        {
+            "heard": "Garrick",
+            "likely": "Grixto",
+            "notes": "Refers to whoever possessed the helm before; uncertain."
+        },
+        {
+            "heard": "geese dome",
+            "likely": "",
+            "notes": "An item the DM declared off limits for phylactery candidacy."
+        },
+        {
+            "heard": "olive water",
+            "likely": "all of it",
+            "notes": ""
+        }
+    ],
+    "openQuestions": [
+        "Can a phylactery be fragmented?",
+        "Where is the lich's phylactery?"
+    ],
+    "newTerms": [
+        {
+            "name": "Soul fragment",
+            "notes": [
+                "A soul echo attached to an object that can still possess someone, as with the helm."
+            ]
+        }
+    ]
+}

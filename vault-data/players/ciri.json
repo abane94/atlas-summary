@@ -73,12 +73,19 @@
         "She agrees Walker's fire-resistance claim should be tested and starts a tinderbox under his arm.",
         "She goes to Carlkin's with Walker, Dana, and Ord. She cannot ride Dana's broom. Araden carries her on the flight."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Ciri hung back warily while Ord investigated Moxie, keeping her distance at first. She then brought the scrap bucket over and fed Moxie herself.",
+      "notes": [
+        "Hung back warily as Ord investigated Moxie, then brought the scrap bucket over to feed it."
+      ]
     }
   ],
   "openQuestions": [],
   "linkTargets": [],
   "createdAt": "2026-08-11T15:50:08.559Z",
-  "updatedAt": "2026-10-21T20:00:08.360Z",
+  "updatedAt": "2026-11-10T15:43:44.203Z",
   "normalizedAliases": [
     "ciri"
   ]

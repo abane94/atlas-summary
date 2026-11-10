@@ -16,6 +16,15 @@
       "notes": [
         "A box of them was in the white dragon hoard. Ord inspected them and left them behind. Sylan thinks they might turn into creatures."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Ord holds the turquoise animal figurines, though their function remains unknown. Ord believes they originated from the Sunder Chase, making it unlikely they are connected to the lich or serve as its phylactery. Sylan suggests they might come to life when activated by a magic word or inscription, similar to the shark statuette.",
+      "notes": [
+        "Held by Ord; their function has not been figured out.",
+        "Ord believes they came from the Sunder Chase, so they are unlikely to be connected to the lich or to be its phylactery.",
+        "Sylan suggests they may come to life with a magic word or inscription, like the shark statuette."
+      ]
     }
   ],
   "openQuestions": [
@@ -23,5 +32,5 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-10-19T20:39:15.692Z",
-  "updatedAt": "2026-10-19T20:39:15.692Z"
+  "updatedAt": "2026-11-10T15:43:51.170Z"
 }

@@ -130,6 +130,17 @@
         "She follows Carlkin into the lighthouse, presses the phylactery question, and asks what he had been saying about the little eagle before the bag burns. She points out that Carlkin said the bag would burst into flame on soul magic.",
         "Carlkin gives her the diagnosis. She is slightly relieved the possession is not advanced, and she challenges Walker for putting the helm back on. Carlkin separately warns that clerics of high regard in light-based domains should be kept away from the helm."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Dana has Dispel Magic prepared but lacks Identify and Detect Magic. Relying on her strong Arcana, she inspected the lantern-staff with a 22 and judged it a typical magic item at a glance. Most of her items came from the white dragon's hoard. She asked Sylan to close the blinds. When the helm's spirit residue appeared and Sylan performed the extraction, Dana froze stock-still, went deathly white, and silently mouthed words, appearing to recognize something.",
+      "notes": [
+        "Has Dispel Magic but not Identify or Detect Magic.",
+        "Has strong Arcana. She inspected the lantern-staff with a 22 and judged it a typical magic item at a glance.",
+        "Most of her items came from the white dragon's hoard.",
+        "Asked Sylan to close the blinds.",
+        "When the helm's spirit residue appeared and Sylan performed the extraction, she froze stock-still, went deathly white, and silently mouthed words, appearing to recognize something."
+      ]
     }
   ],
   "openQuestions": [
@@ -137,7 +148,7 @@
   ],
   "linkTargets": [],
   "createdAt": "2026-08-11T14:54:14.175Z",
-  "updatedAt": "2026-10-21T19:54:02.565Z",
+  "updatedAt": "2026-11-10T15:43:52.086Z",
   "normalizedAliases": [
     "dana"
   ]
